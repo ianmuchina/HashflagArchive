@@ -1214,6 +1214,11 @@
 		"startingTimestampMs": "1647885600000",
 		"endingTimestampMs": "1655834400000"
 	},
+	"Chain_XCN_Mar_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Chain_XCN_Mar_2022_add/Chain_XCN_Mar_2022_add.png",
+		"startingTimestampMs": "1647885600000",
+		"endingTimestampMs": "1655834400000"
+	},
 	"CheezIt_Q1_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CheezIt_Q1_2022/CheezIt_Q1_2022.png",
 		"startingTimestampMs": "1642104000000",

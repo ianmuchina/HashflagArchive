@@ -1273,16 +1273,19 @@
 		"MLS_2022_Team_MTL_2022"
 	],
 	"chaincore": [
-		"Chain_Dec_2021"
+		"Chain_Dec_2021",
+		"Chain_XCN_Mar_2022_add"
 	],
 	"chainledger": [
 		"Chain_Dec_2021"
 	],
 	"chainprotocol": [
-		"Chain_Dec_2021"
+		"Chain_Dec_2021",
+		"Chain_XCN_Mar_2022_add"
 	],
 	"chaintxvm": [
-		"Chain_Dec_2021"
+		"Chain_Dec_2021",
+		"Chain_XCN_Mar_2022_add"
 	],
 	"chakachakapaytmcheyi": [
 		"Paytm_Dec_2021"
@@ -6655,7 +6658,8 @@
 		"Overwatch_League_Seoul_2022"
 	],
 	"sequenceledger": [
-		"Chain_Dec_2021_add"
+		"Chain_Dec_2021_add",
+		"Chain_XCN_Mar_2022_add"
 	],
 	"serenaandvenus": [
 		"WB_KingRichard_2021_extend"
