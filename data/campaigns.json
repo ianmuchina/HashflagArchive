@@ -3339,6 +3339,11 @@
 		"startingTimestampMs": "1639123200000",
 		"endingTimestampMs": "1654757940000"
 	},
+	"Lionsgate_Massive_Talent_Mar_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_Massive_Talent_Mar_2022/Lionsgate_Massive_Talent_Mar_2022.png",
+		"startingTimestampMs": "1648105200000",
+		"endingTimestampMs": "1656140340000"
+	},
 	"Lionsgate_Moonfall_Jan_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_Moonfall_Jan_2022/Lionsgate_Moonfall_Jan_2022.png",
 		"startingTimestampMs": "1641456000000",
@@ -5233,6 +5238,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/SOPFFO_Release_Mar_2022_v2/SOPFFO_Release_Mar_2022_v2.png",
 		"startingTimestampMs": "1647183600000",
 		"endingTimestampMs": "1654959540000"
+	},
+	"STARZ_Gaslit_Mar_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/STARZ_Gaslit_Mar_2022/STARZ_Gaslit_Mar_2022.png",
+		"startingTimestampMs": "1648105200000",
+		"endingTimestampMs": "1656140340000"
 	},
 	"STARZ_Power_Book_Force_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/STARZ_Power_Book_Force_2022/STARZ_Power_Book_Force_2022.png",
