@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"os"
 	"path"
+	"strings"
 )
 
 type Campaign struct {
@@ -44,23 +45,38 @@ func main() {
 		json.Unmarshal([]byte(data), &res)
 
 		for _, r := range res {
-			// If campaign is not in map
+			// New campaign
 			if _, ok := campaigns[r.CampaignName]; !ok {
-				c := Campaign{
+
+				// Create campaign entry
+				campaigns[r.CampaignName] = Campaign{
 					AssetUrl:            r.AssetUrl,
 					EndingTimestampMs:   r.EndingTimestampMs,
 					StartingTimestampMs: r.StartingTimestampMs,
 				}
-				campaigns[r.CampaignName] = c
 
+			}
+
+			// Change case
+			r.Hashtag = strings.ToLower(r.Hashtag)
+			// New Hashtag
+			if _, ok := hashtags[r.Hashtag]; !ok {
 				// New hashtag
-				if _, ok := hashtags[r.Hashtag]; !ok {
-					hashtags[r.Hashtag] = []string{r.CampaignName}
-				} else {
-					// reuse hashtag
-					hashtags[r.Hashtag] = append(hashtags[r.Hashtag], r.CampaignName)
+				hashtags[r.Hashtag] = []string{r.CampaignName}
+			} else {
+				// if hashtag has campaign
+				exists := false
+				for _, cs := range hashtags[r.Hashtag] {
+					// If hashtag has campaign
+					if cs == r.CampaignName {
+						exists = true
+					}
 				}
 
+				// Campaign not in hashtag map
+				if !exists {
+					hashtags[r.Hashtag] = append(hashtags[r.Hashtag], r.CampaignName)
+				}
 			}
 		}
 	}
