@@ -1,0 +1,16 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "22 * * * *"
+
+jobs:
+  getActive:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - run: ./scripts/getCurrent.sh
+      - run: go run main.go
+      - run: ./scripts/getAssets.sh
+      - run: ./scripts/commit.sh
