@@ -1,4 +1,6 @@
 #!/bin/bash
+set -x
+set -e
 cat data/campaigns.json |
     grep assetUrl |
     grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" |

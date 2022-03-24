@@ -1,4 +1,6 @@
 #!/bin/bash
+set -x
+set -e
 wget \
     --no-clobber \
     --directory-prefix="tmp" \
