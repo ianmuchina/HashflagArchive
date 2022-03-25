@@ -454,6 +454,11 @@
 		"startingTimestampMs": "1646784000000",
 		"endingTimestampMs": "1651363200000"
 	},
+	"Avon_BBB22_BH3_Mar_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Avon_BBB22_BH3_Mar_2022/Avon_BBB22_BH3_Mar_2022.png",
+		"startingTimestampMs": "1648238400000",
+		"endingTimestampMs": "1651071600000"
+	},
 	"Avon_BBB22_Feb_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Avon_BBB22_Feb_2022/Avon_BBB22_Feb_2022.png",
 		"startingTimestampMs": "1644436800000",
