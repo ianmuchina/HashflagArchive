@@ -964,6 +964,9 @@
 	"bookofbobafett": [
 		"DisneyPlus_BobaFett_BobaFett_S1_2021"
 	],
+	"borarensga": [
+		"CBLOL_RENSGA_Season_2022"
+	],
 	"borntoloveyou": [
 		"YG_KANGSEUNGYOON_BORNTOLOVEYOU_Mar_2022"
 	],
@@ -1039,6 +1042,9 @@
 	],
 	"broadwaysback": [
 		"ThisIsBroadway_2021"
+	],
+	"brockvsroman": [
+		"WWE_Winner_Take_All_2022"
 	],
 	"bronce": [
 		"Beijing_Paralympic_bronze_2022"
@@ -1840,6 +1846,9 @@
 	],
 	"diabolicalwatchparty": [
 		"Amazon_Diabolical_Terror_Mar_2022"
+	],
+	"diadefuria": [
+		"CBLOL_FURIA_Season_2022"
 	],
 	"diariodegreg": [
 		"DisneyPlus_WimpyKid_CheeseTouch_2021_V2"
@@ -2878,14 +2887,29 @@
 	"godrx": [
 		"LCK_Team_DRX_2022"
 	],
+	"gofla": [
+		"CBLOL_FLAMENGO_Season_2022"
+	],
 	"goforthehandful": [
 		"Campbells_Goldfish_Megabites_2022"
+	],
+	"gofuria": [
+		"CBLOL_FURIA_Season_2022"
 	],
 	"gohabsgo": [
 		"NHLTeam_2021_GoHabsGo"
 	],
+	"gointz": [
+		"CBLOL_INTZ_Season_2022"
+	],
 	"gojetsgo": [
 		"NHLTeam_2021_GoJetsGo"
+	],
+	"gokabum": [
+		"CBLOL_KABUM_Season_2022"
+	],
+	"gokbm": [
+		"CBLOL_KABUM_Season_2022"
 	],
 	"gokdf": [
 		"LCK_Team_KDF_2022"
@@ -2917,8 +2941,17 @@
 	"goldfishreboot": [
 		"Campbells_Goldfish_Megabites_2022"
 	],
+	"goliberty": [
+		"CBLOL_LIBERTY_Season_2022"
+	],
+	"goloud": [
+		"CBLOL_LOUD_Season_2022"
+	],
 	"gomad": [
 		"LEC_Team_MADLions_2022"
+	],
+	"gominers": [
+		"CBLOL_NETSHOESMINERS_Season_2022"
 	],
 	"gomo5g": [
 		"GOMO5G_Jan_2022"
@@ -2941,6 +2974,9 @@
 	"goodsamcbs": [
 		"CBS_Television_Good_Sam_2021"
 	],
+	"gopain": [
+		"CBLOL_PAINGAMING_Season_2022"
+	],
 	"gopies": [
 		"AU_AFL_Team_COLLINGWOOD_2022"
 	],
@@ -2953,8 +2989,14 @@
 	"gorabbitohs": [
 		"NRL_Team_AU_GoRabbitohs_2022"
 	],
+	"gored": [
+		"CBLOL_REDCANIDSKALUNGA_Season_2022"
+	],
 	"goredforwomen": [
 		"HeartMonth_2022"
+	],
+	"gorensga": [
+		"CBLOL_RENSGA_Season_2022"
 	],
 	"gorogue": [
 		"LEC_Team_Rogue_2022"
@@ -4350,6 +4392,9 @@
 	],
 	"loudestflavorsever": [
 		"BudLightSeltzerHardSoda_2022"
+	],
+	"loudwin": [
+		"CBLOL_LOUD_Season_2022"
 	],
 	"lovefnb": [
 		"FNB_Brand_Love_v3_Mar_2022",
@@ -6411,6 +6456,9 @@
 	"redv": [
 		"NRL_Team_AU_RedV_2022"
 	],
+	"redwin": [
+		"CBLOL_REDCANIDSKALUNGA_Season_2022"
+	],
 	"refuge": [
 		"PANTAGIO_ASTRO_UNIT_MOONBIN_1_SANHA"
 	],
@@ -6536,6 +6584,9 @@
 	"rolluptowin": [
 		"Tim_Hortons_RUTW_2022",
 		"Tim_Hortons_RUTW_2022_v2"
+	],
+	"romanvsbrock": [
+		"WWE_Winner_Take_All_2022"
 	],
 	"ronaldweasley": [
 		"HBO_Max_Harry_Potter_20th_REunion_Ronald_2021"
@@ -6748,6 +6799,9 @@
 	"seex": [
 		"A24_X_Movie_Feb_2022"
 	],
+	"segueotrem": [
+		"CBLOL_NETSHOESMINERS_Season_2022"
+	],
 	"semperfi": [
 		"Marines_Mar_2022"
 	],
@@ -6956,6 +7010,9 @@
 	],
 	"somosfcd": [
 		"MLS_2022_Team_DAL_2022"
+	],
+	"somosliberty": [
+		"CBLOL_LIBERTY_Season_2022"
 	],
 	"somosmibr": [
 		"MIBR_Season_2022"
@@ -8103,6 +8160,9 @@
 	"vamosfire": [
 		"MLS_2022_Team_CHI_2022"
 	],
+	"vamosflamengo": [
+		"CBLOL_FLAMENGO_Season_2022"
+	],
 	"vamosgalaxy": [
 		"MLS_2022_Team_LAG_2022"
 	],
@@ -8261,6 +8321,9 @@
 	],
 	"vixtv": [
 		"ViX_launch_Mar_2022"
+	],
+	"voaintz": [
+		"CBLOL_INTZ_Season_2022"
 	],
 	"vocêéumbruxo": [
 		"HBO_Max_Harry_Potter_20th_REunion_Hagrid_2021"

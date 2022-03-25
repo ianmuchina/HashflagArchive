@@ -1044,10 +1044,60 @@
 		"startingTimestampMs": "1646953200000",
 		"endingTimestampMs": "1654725600000"
 	},
+	"CBLOL_FLAMENGO_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_FLAMENGO_Season_2022/CBLOL_FLAMENGO_Season_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1662793200000"
+	},
+	"CBLOL_FURIA_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_FURIA_Season_2022/CBLOL_FURIA_Season_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1662793200000"
+	},
+	"CBLOL_INTZ_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_INTZ_Season_2022/CBLOL_INTZ_Season_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1662793200000"
+	},
 	"CBLOL_Jan_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_Jan_2022_v2/CBLOL_Jan_2022_v2.png",
 		"startingTimestampMs": "1642474800000",
 		"endingTimestampMs": "1650769200000"
+	},
+	"CBLOL_KABUM_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_KABUM_Season_2022/CBLOL_KABUM_Season_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1662793200000"
+	},
+	"CBLOL_LIBERTY_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_LIBERTY_Season_2022/CBLOL_LIBERTY_Season_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1662793200000"
+	},
+	"CBLOL_LOUD_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_LOUD_Season_2022/CBLOL_LOUD_Season_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1662793200000"
+	},
+	"CBLOL_NETSHOESMINERS_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_NETSHOESMINERS_Season_2022/CBLOL_NETSHOESMINERS_Season_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1662793200000"
+	},
+	"CBLOL_PAINGAMING_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_PAINGAMING_Season_2022/CBLOL_PAINGAMING_Season_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1662793200000"
+	},
+	"CBLOL_REDCANIDSKALUNGA_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_REDCANIDSKALUNGA_Season_2022/CBLOL_REDCANIDSKALUNGA_Season_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1662793200000"
+	},
+	"CBLOL_RENSGA_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_RENSGA_Season_2022/CBLOL_RENSGA_Season_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1662793200000"
 	},
 	"CBLOL_Season_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_Season_2022/CBLOL_Season_2022.png",
@@ -6248,6 +6298,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/WWE_Weekly_Show_WWERaw_2022/WWE_Weekly_Show_WWERaw_2022.png",
 		"startingTimestampMs": "1641034800000",
 		"endingTimestampMs": "1672556400000"
+	},
+	"WWE_Winner_Take_All_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_Winner_Take_All_2022/WWE_Winner_Take_All_2022.png",
+		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1649055600000"
 	},
 	"Walls_Tweet_To_Unlock_Mar_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Walls_Tweet_To_Unlock_Mar_2022/Walls_Tweet_To_Unlock_Mar_2022.png",
