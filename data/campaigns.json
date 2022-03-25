@@ -409,6 +409,11 @@
 		"startingTimestampMs": "1646838000000",
 		"endingTimestampMs": "1654613940000"
 	},
+	"Asahi_beer_namajokkikan_Japan_Mar_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Asahi_beer_namajokkikan_Japan_Mar_2022/Asahi_beer_namajokkikan_Japan_Mar_2022.png",
+		"startingTimestampMs": "1648220400000",
+		"endingTimestampMs": "1655996340000"
+	},
 	"Asahi_beer_superdry_Japan_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Asahi_beer_superdry_Japan_2022/Asahi_beer_superdry_Japan_2022.png",
 		"startingTimestampMs": "1647356400000",
@@ -4583,6 +4588,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Squid_Game_Feb_2022/Netflix_Squid_Game_Feb_2022.png",
 		"startingTimestampMs": "1645974000000",
 		"endingTimestampMs": "1653746400000"
+	},
+	"Netflix_Terumae-Romae_Launch_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Terumae-Romae_Launch_2022/Netflix_Terumae-Romae_Launch_2022.png",
+		"startingTimestampMs": "1648220400000",
+		"endingTimestampMs": "1655996340000"
 	},
 	"Netflix_The_Adam_Project_Feb_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_The_Adam_Project_Feb_2022/Netflix_The_Adam_Project_Feb_2022.png",
