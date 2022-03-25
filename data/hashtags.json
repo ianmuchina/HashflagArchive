@@ -2765,6 +2765,12 @@
 	"ghostscbs": [
 		"GhostsCBS_2022"
 	],
+	"ghostwire": [
+		"PlayStationCA_Ghostwire_Mar_2022_v2"
+	],
+	"ghostwiretokyo": [
+		"PlayStationCA_Ghostwire_Mar_2022_v2"
+	],
 	"gidle": [
 		"GIDLE_NEW_ALBUM_Feb_2022"
 	],
@@ -5998,6 +6004,9 @@
 	],
 	"playasone": [
 		"CDL_Team_ROKKR_2022"
+	],
+	"playghostwiretokyo": [
+		"PlayStationCA_Ghostwire_Mar_2022_v2"
 	],
 	"playlostark": [
 		"AGS_PlayLostArk_2021",
