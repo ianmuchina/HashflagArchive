@@ -6619,6 +6619,11 @@
 		"startingTimestampMs": "1521846300000",
 		"endingTimestampMs": "33095260800000"
 	},
+	"obagi_japanCPN_Q1_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/obagi_japanCPN_Q1_2022/obagi_japanCPN_Q1_2022.png",
+		"startingTimestampMs": "1648292400000",
+		"endingTimestampMs": "1649429940000"
+	},
 	"pepsihalftime_2022_BH": {
 		"assetUrl": "https://abs.twimg.com/hashflags/pepsihalftime_2022_BH/pepsihalftime_2022_BH.png",
 		"startingTimestampMs": "1644192000000",
