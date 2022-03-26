@@ -4039,9 +4039,24 @@
 		"startingTimestampMs": "1638520200000",
 		"endingTimestampMs": "1656577800000"
 	},
+	"NCAA_March_Madness_MFinalFour_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NCAA_March_Madness_MFinalFour_2022/NCAA_March_Madness_MFinalFour_2022.png",
+		"startingTimestampMs": "1648267200000",
+		"endingTimestampMs": "1649217540000"
+	},
 	"NCAA_March_Madness_MM_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NCAA_March_Madness_MM_2022/NCAA_March_Madness_MM_2022.png",
 		"startingTimestampMs": "1647230400000",
+		"endingTimestampMs": "1649217540000"
+	},
+	"NCAA_March_Madness_NationalChampionship_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NCAA_March_Madness_NationalChampionship_2022/NCAA_March_Madness_NationalChampionship_2022.png",
+		"startingTimestampMs": "1648267200000",
+		"endingTimestampMs": "1649217540000"
+	},
+	"NCAA_March_Madness_WFinalFour_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NCAA_March_Madness_WFinalFour_2022/NCAA_March_Madness_WFinalFour_2022.png",
+		"startingTimestampMs": "1648267200000",
 		"endingTimestampMs": "1649217540000"
 	},
 	"NETFLIX_Minnal_Murli_Show_Launch_2021": {
@@ -5918,6 +5933,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Turner_Harry_Potter_Tournament_2021/Turner_Harry_Potter_Tournament_2021.png",
 		"startingTimestampMs": "1637568000000",
 		"endingTimestampMs": "1645171200000"
+	},
+	"Turner_TBS_Rat_in_the_Kitchen_Mar_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Turner_TBS_Rat_in_the_Kitchen_Mar_2022/Turner_TBS_Rat_in_the_Kitchen_Mar_2022.png",
+		"startingTimestampMs": "1648267200000",
+		"endingTimestampMs": "1655179140000"
 	},
 	"Turner_The_Match_5_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Turner_The_Match_5_2021/Turner_The_Match_5_2021.png",
