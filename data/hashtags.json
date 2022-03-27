@@ -8221,6 +8221,9 @@
 	"vanguardreport": [
 		"Callofduty_VanguardReport_2022_v2"
 	],
+	"vanityfairoscarparty": [
+		"Vanity_Fair_Oscar_Party_2022_v2"
+	],
 	"varietystreamingroom": [
 		"Variety_Streaming_Room_2022"
 	],
@@ -8297,6 +8300,12 @@
 	],
 	"vforvictory": [
 		"LEC_Team_Vitality_2022"
+	],
+	"vfoscarparty": [
+		"Vanity_Fair_Oscar_Party_2022_v2"
+	],
+	"vfoscars": [
+		"Vanity_Fair_Oscar_Party_2022_v2"
 	],
 	"vgx": [
 		"Voyager_VGX_Mar_2022"
