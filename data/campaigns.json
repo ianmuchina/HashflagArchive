@@ -1864,6 +1864,11 @@
 		"startingTimestampMs": "1639094400000",
 		"endingTimestampMs": "1649548800000"
 	},
+	"DukeFinalFour2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DukeFinalFour2022/DukeFinalFour2022.png",
+		"startingTimestampMs": "1648393200000",
+		"endingTimestampMs": "1649217540000"
+	},
 	"DyingLight2_Jan_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DyingLight2_Jan_2022/DyingLight2_Jan_2022.png",
 		"startingTimestampMs": "1643004300000",
@@ -4708,6 +4713,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Norwegian_Cruise_Lines_Feb_2022/Norwegian_Cruise_Lines_Feb_2022.png",
 		"startingTimestampMs": "1643929200000",
 		"endingTimestampMs": "1651618800000"
+	},
+	"NovaFinalFour2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NovaFinalFour2022/NovaFinalFour2022.png",
+		"startingTimestampMs": "1648393200000",
+		"endingTimestampMs": "1649217540000"
 	},
 	"NowClock_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NowClock_2021/NowClock_2021.png",
