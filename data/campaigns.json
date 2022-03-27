@@ -1054,6 +1054,11 @@
 		"startingTimestampMs": "1646953200000",
 		"endingTimestampMs": "1654725600000"
 	},
+	"Bullish_Mar_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bullish_Mar_2022/Bullish_Mar_2022.png",
+		"startingTimestampMs": "1648400460000",
+		"endingTimestampMs": "1649563140000"
+	},
 	"CBLOL_FLAMENGO_Season_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_FLAMENGO_Season_2022/CBLOL_FLAMENGO_Season_2022.png",
 		"startingTimestampMs": "1648198800000",
@@ -2993,6 +2998,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Intel_MWC_Live_Event_2022_v2/Intel_MWC_Live_Event_2022_v2.png",
 		"startingTimestampMs": "1644606000000",
 		"endingTimestampMs": "1652295600000"
+	},
+	"International_Transgender_Day_of_Visibility_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/International_Transgender_Day_of_Visibility_2022/International_Transgender_Day_of_Visibility_2022.png",
+		"startingTimestampMs": "1648403880000",
+		"endingTimestampMs": "1648922280000"
 	},
 	"Itaipava_Premium_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Itaipava_Premium_2021/Itaipava_Premium_2021.png",
