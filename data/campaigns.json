@@ -2524,6 +2524,16 @@
 		"startingTimestampMs": "1645516800000",
 		"endingTimestampMs": "1653375540000"
 	},
+	"HYBE_Seventeen_Pledis_Carat_Mar_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_Seventeen_Pledis_Carat_Mar_2022/HYBE_Seventeen_Pledis_Carat_Mar_2022.png",
+		"startingTimestampMs": "1648393200000",
+		"endingTimestampMs": "1653922740000"
+	},
+	"HYBE_Seventeen_Pledis_SVT_Mar_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_Seventeen_Pledis_SVT_Mar_2022/HYBE_Seventeen_Pledis_SVT_Mar_2022.png",
+		"startingTimestampMs": "1648393200000",
+		"endingTimestampMs": "1653922740000"
+	},
 	"HYBE_ent_PLEDIS_fromis_9_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_ent_PLEDIS_fromis_9_2021/HYBE_ent_PLEDIS_fromis_9_2021.png",
 		"startingTimestampMs": "1640779200000",
@@ -3338,6 +3348,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/LGBT_History_Month_UK_2022/LGBT_History_Month_UK_2022.png",
 		"startingTimestampMs": "1643846400000",
 		"endingTimestampMs": "1646167440000"
+	},
+	"LINE_GAME_March_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LINE_GAME_March_2022_v2/LINE_GAME_March_2022_v2.png",
+		"startingTimestampMs": "1648393200000",
+		"endingTimestampMs": "1651330800000"
 	},
 	"LOTR_20th_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LOTR_20th_2021/LOTR_20th_2021.png",
@@ -6228,6 +6243,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Variety_Streaming_Room_2022/Variety_Streaming_Room_2022.png",
 		"startingTimestampMs": "1644814860000",
 		"endingTimestampMs": "1672549140000"
+	},
+	"Vecinos_Televisa_Mar_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Vecinos_Televisa_Mar_2022/Vecinos_Televisa_Mar_2022.png",
+		"startingTimestampMs": "1648393260000",
+		"endingTimestampMs": "1659325680000"
 	},
 	"Verizon_UltraShow_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Verizon_UltraShow_2022_v2/Verizon_UltraShow_2022_v2.png",
