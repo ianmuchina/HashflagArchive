@@ -5069,6 +5069,11 @@
 		"startingTimestampMs": "1452877200000",
 		"endingTimestampMs": "1924934400000"
 	},
+	"Peston_H2_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Peston_H2_2022/Peston_H2_2022.png",
+		"startingTimestampMs": "1648435260000",
+		"endingTimestampMs": "1664344800000"
+	},
 	"Peston_Sept_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Peston_Sept_2021/Peston_Sept_2021.png",
 		"startingTimestampMs": "1632812340000",
