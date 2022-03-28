@@ -109,6 +109,11 @@
 		"startingTimestampMs": "1647151200000",
 		"endingTimestampMs": "1655100000000"
 	},
+	"ANWAGOLF2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ANWAGOLF2022/ANWAGOLF2022.png",
+		"startingTimestampMs": "1648482300000",
+		"endingTimestampMs": "1649048340000"
+	},
 	"APINK_IST_ent_Comeback_Album_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/APINK_IST_ent_Comeback_Album_2022_v2/APINK_IST_ent_Comeback_Album_2022_v2.png",
 		"startingTimestampMs": "1644296400000",
@@ -5629,6 +5634,11 @@
 		"startingTimestampMs": "1643616000000",
 		"endingTimestampMs": "1651391940000"
 	},
+	"SouthCarolinaWomensFF2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SouthCarolinaWomensFF2022/SouthCarolinaWomensFF2022.png",
+		"startingTimestampMs": "1648479600000",
+		"endingTimestampMs": "1649217540000"
+	},
 	"Space_Shower_Music_Awards_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Space_Shower_Music_Awards_2022/Space_Shower_Music_Awards_2022.png",
 		"startingTimestampMs": "1646611200000",
@@ -5683,6 +5693,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/StandForAsians_2021/StandForAsians_2021.png",
 		"startingTimestampMs": "1615939200000",
 		"endingTimestampMs": "1648684800000"
+	},
+	"StanfordWomensFF2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/StanfordWomensFF2022/StanfordWomensFF2022.png",
+		"startingTimestampMs": "1648479600000",
+		"endingTimestampMs": "1649217540000"
 	},
 	"StanfordWomensFULLYearChamp": {
 		"assetUrl": "https://abs.twimg.com/hashflags/StanfordWomensFULLYearChamp/StanfordWomensFULLYearChamp.png",
