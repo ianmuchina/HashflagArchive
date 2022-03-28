@@ -5389,6 +5389,11 @@
 		"startingTimestampMs": "1639666800000",
 		"endingTimestampMs": "1647442740000"
 	},
+	"SM2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SM2022/SM2022.png",
+		"startingTimestampMs": "1648494000000",
+		"endingTimestampMs": "1651449600000"
+	},
 	"SMTOWN_LIVE_2022_BoA": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SMTOWN_LIVE_2022_BoA/SMTOWN_LIVE_2022_BoA.png",
 		"startingTimestampMs": "1639958400000",
