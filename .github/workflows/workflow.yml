@@ -12,8 +12,11 @@ jobs:
       - uses: actions/setup-go@v2
         with:
           go-version: "1.17"
-
+      # Download current active hashflags
       - run: ./scripts/getCurrent.sh
+      # Append new data to the json files
       - run: go run main.go
+      # Download hashflag images
       - run: ./scripts/getAssets.sh
+      # Commit new files
       - run: ./scripts/commit.sh
