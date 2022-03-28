@@ -6394,6 +6394,11 @@
 		"startingTimestampMs": "1647572400000",
 		"endingTimestampMs": "1649055600000"
 	},
+	"WWE_Title_Match_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_Title_Match_2022/WWE_Title_Match_2022.png",
+		"startingTimestampMs": "1648458000000",
+		"endingTimestampMs": "1649055600000"
+	},
 	"WWE_Weekly_Show_SmackDown_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WWE_Weekly_Show_SmackDown_2022/WWE_Weekly_Show_SmackDown_2022.png",
 		"startingTimestampMs": "1641034800000",
@@ -6412,6 +6417,16 @@
 	"WWE_Winner_Take_All_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WWE_Winner_Take_All_2022/WWE_Winner_Take_All_2022.png",
 		"startingTimestampMs": "1648198800000",
+		"endingTimestampMs": "1649055600000"
+	},
+	"WWE_Womens_Title_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_Womens_Title_2022/WWE_Womens_Title_2022.png",
+		"startingTimestampMs": "1648458000000",
+		"endingTimestampMs": "1649055600000"
+	},
+	"WWW_Universal_Title_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWW_Universal_Title_2022/WWW_Universal_Title_2022.png",
+		"startingTimestampMs": "1648458000000",
 		"endingTimestampMs": "1649055600000"
 	},
 	"Walls_Tweet_To_Unlock_Mar_2022": {
