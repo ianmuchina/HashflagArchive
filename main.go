@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"os"
 	"path"
 	"strings"
@@ -21,6 +22,14 @@ type RawData struct {
 	Campaign
 	CampaignName string `json:"campaignName"`
 	Hashtag      string `json:"hashtag"`
+}
+
+type hashflagsIo struct {
+	CampaignName string
+	AssetUrl     string
+	StartsAt     int64    `json:"startsAt"`
+	EndsAt       int64    `json:"endsAt"`
+	Hashtags     []string `json:"hashtags"`
 }
 
 func main() {
@@ -80,6 +89,61 @@ func main() {
 			}
 		}
 	}
+
+	// Unpack hashflags.io data to struct
+	var buf = make(map[string]hashflagsIo, 8000)
+	data, _ := os.ReadFile("data/hashflags.json")
+	json.Unmarshal(data, &buf)
+
+	// Add Missing Campaign Name & assetUrl to hashflags.io struct
+	for assetUrl, val := range buf {
+		tmp := val
+		c := strings.ReplaceAll(assetUrl, "https://abs.twimg.com/hashflags/", "")
+		c = strings.Split(c, "/")[0]
+		tmp.CampaignName = c
+		tmp.AssetUrl = assetUrl
+		buf[assetUrl] = tmp
+	}
+
+	for _, c := range buf {
+		// New Campaign
+		if _, ok := campaigns[c.CampaignName]; !ok {
+			// Create campaign entry
+			campaigns[c.CampaignName] = Campaign{
+				AssetUrl:            c.AssetUrl,
+				StartingTimestampMs: fmt.Sprint(c.StartsAt),
+				EndingTimestampMs:   fmt.Sprint(c.EndsAt),
+			}
+
+			// Hashtags
+			for _, h := range c.Hashtags {
+				h = strings.ToLower(h)
+				// New Hashtag
+				if _, ok := hashtags[h]; !ok {
+					hashtags[h] = []string{c.CampaignName}
+				} else {
+					// Reused hashtag
+					exists := false
+
+					for _, cs := range hashtags[h] {
+						// mark exists if hashtag already has campaign
+						if cs == c.CampaignName {
+							exists = true
+						}
+					}
+
+					// Campaign not in hashtag map
+					if !exists {
+						hashtags[h] = append(hashtags[h], c.CampaignName)
+					}
+				}
+
+			}
+		}
+		// append hashtag
+	}
+
+	// Write files
 
 	campaigns_fmt, _ := json.MarshalIndent(campaigns, "", "\t")
 	hashtags_fmt, _ := json.MarshalIndent(hashtags, "", "\t")
