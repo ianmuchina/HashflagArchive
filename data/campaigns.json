@@ -13639,6 +13639,11 @@
 		"startingTimestampMs": "1617753600000",
 		"endingTimestampMs": "1625270400000"
 	},
+	"HYBE_BTS_NEW_ALBUM_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_BTS_NEW_ALBUM_Jun_2022/HYBE_BTS_NEW_ALBUM_Jun_2022.png",
+		"startingTimestampMs": "1654614000000",
+		"endingTimestampMs": "1657292340000"
+	},
 	"HYBE_Pledis_SEVENTEEN_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_Pledis_SEVENTEEN_May_2022/HYBE_Pledis_SEVENTEEN_May_2022.png",
 		"startingTimestampMs": "1653577200000",
