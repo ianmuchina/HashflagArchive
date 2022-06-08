@@ -1095,6 +1095,12 @@
 	"adamàtraversletemps": [
 		"Netflix_The_Adam_Project_Feb_2022"
 	],
+	"adaonegro": [
+		"WB_Black_Adam_2022"
+	],
+	"adaonegrofilme": [
+		"WB_Black_Adam_2022"
+	],
 	"adaptoid": [
 		"HuluMODOK2021"
 	],
@@ -2141,6 +2147,9 @@
 	],
 	"alrescate": [
 		"Disneyplus_Rescue_Rangers_Apr_2022"
+	],
+	"altebank": [
+		"BOJ_GBAGADA_EXPRESS_Jun_2022"
 	],
 	"alteregofox": [
 		"AlterEgoonFOXTV_2021"
@@ -5786,7 +5795,11 @@
 	],
 	"blackadam": [
 		"DCFandom_2020_BlackAdam",
-		"WB_BlackAdam_2021"
+		"WB_BlackAdam_2021",
+		"WB_Black_Adam_2022"
+	],
+	"blackadammovie": [
+		"WB_Black_Adam_2022"
 	],
 	"blackcowboys": [
 		"Netflix_TheHarderTheyFall_2021_Cowboy"
@@ -6287,6 +6300,9 @@
 	],
 	"boislie": [
 		"Avril_Lavigne_Album_Emoji_2022_V2"
+	],
+	"bojonthemic": [
+		"BOJ_GBAGADA_EXPRESS_Jun_2022"
 	],
 	"bokatan": [
 		"Disney_Mandalorian_S2_Dec_2020_BoKatan"
@@ -16983,6 +16999,9 @@
 	],
 	"gawain": [
 		"A24_TheGreenKnight_2021"
+	],
+	"gbagadaexpress": [
+		"BOJ_GBAGADA_EXPRESS_Jun_2022"
 	],
 	"gbbo": [
 		"GBBO_2020_Sept",
@@ -67806,7 +67825,8 @@
 	],
 	"블랙아담": [
 		"DCFandom_2020_BlackAdam",
-		"WB_BlackAdam_2021"
+		"WB_BlackAdam_2021",
+		"WB_Black_Adam_2022"
 	],
 	"블랙위도우": [
 		"Disney_BlackWidow_Symbol_2021_V2"

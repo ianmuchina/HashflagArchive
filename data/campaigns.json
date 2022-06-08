@@ -3359,6 +3359,11 @@
 		"startingTimestampMs": "1632355200000",
 		"endingTimestampMs": "1637047800000"
 	},
+	"BOJ_GBAGADA_EXPRESS_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BOJ_GBAGADA_EXPRESS_Jun_2022/BOJ_GBAGADA_EXPRESS_Jun_2022.png",
+		"startingTimestampMs": "1654693320000",
+		"endingTimestampMs": "1664197320000"
+	},
 	"BPIBigTour_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BPIBigTour_2021/BPIBigTour_2021.png",
 		"startingTimestampMs": "1621272540000",
@@ -38593,6 +38598,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/WB_BlackAdam_2021/WB_BlackAdam_2021.png",
 		"startingTimestampMs": "1633698060000",
 		"endingTimestampMs": "1641477660000"
+	},
+	"WB_Black_Adam_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WB_Black_Adam_2022/WB_Black_Adam_2022.png",
+		"startingTimestampMs": "1654692600000",
+		"endingTimestampMs": "1670258820000"
 	},
 	"WB_DCSP_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WB_DCSP_May_2022/WB_DCSP_May_2022.png",
