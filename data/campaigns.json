@@ -22889,6 +22889,11 @@
 		"startingTimestampMs": "1638828000000",
 		"endingTimestampMs": "1646492400000"
 	},
+	"Mizuho_Bank_Takarakuji_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Mizuho_Bank_Takarakuji_Jun_2022/Mizuho_Bank_Takarakuji_Jun_2022.png",
+		"startingTimestampMs": "1654700400000",
+		"endingTimestampMs": "1662649200000"
+	},
 	"Mizuho_Bank_Takarakuji_Mar_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Mizuho_Bank_Takarakuji_Mar_2022/Mizuho_Bank_Takarakuji_Mar_2022.png",
 		"startingTimestampMs": "1648209600000",
@@ -34198,6 +34203,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Smart_Champion_Mar_2022/Smart_Champion_Mar_2022.png",
 		"startingTimestampMs": "1647954000000",
 		"endingTimestampMs": "1654704000000"
+	},
+	"Smart_Champion_Mar_2022_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Smart_Champion_Mar_2022_extend/Smart_Champion_Mar_2022_extend.png",
+		"startingTimestampMs": "1654704000000",
+		"endingTimestampMs": "1655902800000"
 	},
 	"Smart_Giga_Arena_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Smart_Giga_Arena_Apr_2022/Smart_Giga_Arena_Apr_2022.png",

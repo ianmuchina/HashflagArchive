@@ -32004,7 +32004,8 @@
 		"Smart_Champion_Mar_2022",
 		"NBAonSmart_2020",
 		"NBASmartGreenBall2020",
-		"NBASmartGreenBall_2021"
+		"NBASmartGreenBall_2021",
+		"Smart_Champion_Mar_2022_extend"
 	],
 	"nbaontnt": [
 		"NBAonTNT_2020",
@@ -35644,7 +35645,8 @@
 		"St_Vincent_2021_Album_V2"
 	],
 	"pbaonsmart": [
-		"Smart_Champion_Mar_2022"
+		"Smart_Champion_Mar_2022",
+		"Smart_Champion_Mar_2022_extend"
 	],
 	"pbks": [
 		"IPL_2021_2_PBKS",
@@ -42365,7 +42367,8 @@
 	"smartfiba": [
 		"Smart_Champion_Mar_2022",
 		"NBASmartGreenBall2020",
-		"NBASmartGreenBall_2021"
+		"NBASmartGreenBall_2021",
+		"Smart_Champion_Mar_2022_extend"
 	],
 	"smartgigaarena": [
 		"Smart_Giga_Arena_Apr_2022"
@@ -42399,7 +42402,8 @@
 		"SunFlower_Smart_2020"
 	],
 	"smartuaap": [
-		"Smart_Champion_Mar_2022"
+		"Smart_Champion_Mar_2022",
+		"Smart_Champion_Mar_2022_extend"
 	],
 	"smartyejin": [
 		"SunFlower_Smart_2020_add"
@@ -59538,6 +59542,9 @@
 		"JapanSuicidePreventionMonth_2021",
 		"WorldSuicidePreventionDay_2020"
 	],
+	"いまだかつてない宝くじ": [
+		"Mizuho_Bank_Takarakuji_Jun_2022"
+	],
 	"いよいよガルパ4周年": [
 		"BanGDreamE_March_2021"
 	],
@@ -65962,6 +65969,9 @@
 	],
 	"私を突き刺す棘ーsmartoon": [
 		"Piccoma_Watatoge_June_2021"
+	],
+	"秒でできる宝くじクイックワン": [
+		"Mizuho_Bank_Takarakuji_Jun_2022"
 	],
 	"秒でわかるあんスタ": [
 		"enstars_music_JP_2020"
