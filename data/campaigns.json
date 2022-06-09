@@ -6749,6 +6749,11 @@
 		"startingTimestampMs": "1590904800000",
 		"endingTimestampMs": "1598853540000"
 	},
+	"DB_super2015_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DB_super2015_Jun_2022/DB_super2015_Jun_2022.png",
+		"startingTimestampMs": "1654786800000",
+		"endingTimestampMs": "1662735600000"
+	},
 	"DCFanDome2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DCFanDome2021/DCFanDome2021.png",
 		"startingTimestampMs": "1633676460000",
@@ -18428,6 +18433,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Kuda_Bank_Feb_2022/Kuda_Bank_Feb_2022.png",
 		"startingTimestampMs": "1644648360000",
 		"endingTimestampMs": "1652337960000"
+	},
+	"KurtisConner": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KurtisConner/KurtisConner.png",
+		"startingTimestampMs": "1654783200000",
+		"endingTimestampMs": "1661990400000"
 	},
 	"Kwanzaa_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Kwanzaa_2020/Kwanzaa_2020.png",
