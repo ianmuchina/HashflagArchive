@@ -6097,6 +6097,9 @@
 	"bloodsport": [
 		"TheSuicideSquad_2021_Characters_Bloodsport"
 	],
+	"bloodymabel": [
+		"Hulu_OMITB_S2_Bloody_Mabel_Jun_2022"
+	],
 	"bloombergquicktake": [
 		"bloombergquicktake_2020_v2",
 		"bloombergquicktake_2020"
@@ -33917,7 +33920,8 @@
 		"LPL_2021_OMGWIN"
 	],
 	"omitb": [
-		"Hulu_OnlyMurdersintheBuilding_2021_1"
+		"Hulu_OnlyMurdersintheBuilding_2021_1",
+		"Hulu_OMITB_S2_Jun_2022"
 	],
 	"on_me": [
 		"KPOP_EXO_SC_2020_SEHUN"
@@ -34155,7 +34159,8 @@
 		"Oculus_2020"
 	],
 	"onlymurders": [
-		"Hulu_OnlyMurdersintheBuilding_2021_1"
+		"Hulu_OnlyMurdersintheBuilding_2021_1",
+		"Hulu_OMITB_S2_Jun_2022"
 	],
 	"onlymurdersfinale": [
 		"OnlyMurdersFinale_2021"
@@ -34163,8 +34168,12 @@
 	"onlymurdershulu": [
 		"Hulu_OnlyMurdersintheBuilding_2021_1"
 	],
+	"onlymurdersinthebuilding": [
+		"Hulu_OMITB_S2_Jun_2022"
+	],
 	"onlymurdersonhulu": [
-		"Hulu_OnlyMurdersintheBuilding_2021_1"
+		"Hulu_OnlyMurdersintheBuilding_2021_1",
+		"Hulu_OMITB_S2_Jun_2022"
 	],
 	"onlyonecanlead": [
 		"TNT_Snowpiercer_Train_Jan_2022"
@@ -52613,6 +52622,9 @@
 	],
 	"whoistiedyeguy": [
 		"Hulu_OnlyMurdersintheBuilding_2021_3"
+	],
+	"whokilledbunny": [
+		"Hulu_OMITB_S2_Bunny_Jun_2022"
 	],
 	"wholenewgame": [
 		"NBA_WholeNewGame_2020_2_HB",
