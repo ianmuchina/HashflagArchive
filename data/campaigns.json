@@ -3239,6 +3239,11 @@
 		"startingTimestampMs": "1654720200000",
 		"endingTimestampMs": "1655211600000"
 	},
+	"BH-hshtg-220610": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BH-hshtg-220610/BH-hshtg-220610.png",
+		"startingTimestampMs": "1654896600000",
+		"endingTimestampMs": "1654903800000"
+	},
 	"BH-hshtg-22061014": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BH-hshtg-22061014/BH-hshtg-22061014.png",
 		"startingTimestampMs": "1654867800000",
@@ -33586,6 +33591,11 @@
 	},
 	"Saints_Row_Jun_2022_v3": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Saints_Row_Jun_2022_v3/Saints_Row_Jun_2022_v3.png",
+		"startingTimestampMs": "1654642800000",
+		"endingTimestampMs": "1662591600000"
+	},
+	"Saints_Row_Jun_2022_v4": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Saints_Row_Jun_2022_v4/Saints_Row_Jun_2022_v4.png",
 		"startingTimestampMs": "1654642800000",
 		"endingTimestampMs": "1662591600000"
 	},
