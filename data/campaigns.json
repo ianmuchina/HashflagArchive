@@ -11539,6 +11539,11 @@
 		"startingTimestampMs": "1631512800000",
 		"endingTimestampMs": "1639123140000"
 	},
+	"Fortnite_Chapter_3_Season_3_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Fortnite_Chapter_3_Season_3_Jun_2022/Fortnite_Chapter_3_Season_3_Jun_2022.png",
+		"startingTimestampMs": "1654819200000",
+		"endingTimestampMs": "1663491600000"
+	},
 	"Fortnite_December_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Fortnite_December_2020/Fortnite_December_2020.png",
 		"startingTimestampMs": "1606930200000",
@@ -35223,6 +35228,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/StopViolenceAgainstWomen_2020_add/StopViolenceAgainstWomen_2020_add.png",
 		"startingTimestampMs": "1593388800000",
 		"endingTimestampMs": "2056665600000"
+	},
+	"Stop_Cyber_Bullying_Day_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Stop_Cyber_Bullying_Day_2022/Stop_Cyber_Bullying_Day_2022.png",
+		"startingTimestampMs": "1654819260000",
+		"endingTimestampMs": "1655683140000"
 	},
 	"StreamyAwards_Dec_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/StreamyAwards_Dec_2020/StreamyAwards_Dec_2020.png",
