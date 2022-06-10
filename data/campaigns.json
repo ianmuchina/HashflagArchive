@@ -614,6 +614,11 @@
 		"startingTimestampMs": "1597968000000",
 		"endingTimestampMs": "1598897700000"
 	},
+	"AFRICA_WOMENS_SPORTS_SUMMIT_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AFRICA_WOMENS_SPORTS_SUMMIT_2022/AFRICA_WOMENS_SPORTS_SUMMIT_2022.png",
+		"startingTimestampMs": "1654867980000",
+		"endingTimestampMs": "1661952780000"
+	},
 	"AFazenda2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AFazenda2020/AFazenda2020.png",
 		"startingTimestampMs": "1604973600000",
@@ -3232,6 +3237,11 @@
 	"BH-hshtg-22060814": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BH-hshtg-22060814/BH-hshtg-22060814.png",
 		"startingTimestampMs": "1654720200000",
+		"endingTimestampMs": "1655211600000"
+	},
+	"BH-hshtg-22061014": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BH-hshtg-22061014/BH-hshtg-22061014.png",
+		"startingTimestampMs": "1654867800000",
 		"endingTimestampMs": "1655211600000"
 	},
 	"BH-hshtg1": {
