@@ -6009,6 +6009,9 @@
 	"blastworldfinal": [
 		"BLAST_World_Final_2021"
 	],
+	"blatchyblues": [
+		"NRL_Origin_BlatchyBlues_Jun_2022"
+	],
 	"blazincheese": [
 		"KacangBlazin2021",
 		"Kacang_Blazin_May_2022"
@@ -10126,6 +10129,9 @@
 	],
 	"culturesbiggestnight": [
 		"BETAwards_June_2021"
+	],
+	"cumplehbomax": [
+		"HBO_1_year_anniversary_Jun_2022"
 	],
 	"cupcakeelo": [
 		"KPOP_ELO_2020"
@@ -18473,6 +18479,9 @@
 	"goqatar": [
 		"Handball_WorldCup_Egypt_2021_Qatar"
 	],
+	"goqld": [
+		"NRL_Origin_QLDMaroons_Jun_2022"
+	],
 	"gorabbitohs": [
 		"NRL_Team_AU_GoRabbitohs_2022",
 		"NRL_2020_GoRabbitohs",
@@ -18574,6 +18583,12 @@
 	"gothamknights": [
 		"DCFandom_2020_Games2_fix",
 		"GothamKnights_2021"
+	],
+	"gotheblues": [
+		"NRL_Origin_BlatchyBlues_Jun_2022"
+	],
+	"gothemaroons": [
+		"NRL_Origin_QLDMaroons_Jun_2022"
 	],
 	"gotiges": [
 		"AU_AFL_Team_Richmond_2022",
@@ -33385,6 +33400,9 @@
 	"nstogether": [
 		"LcK_2021_Teams_NS"
 	],
+	"nswblues": [
+		"NRL_Origin_BlatchyBlues_Jun_2022"
+	],
 	"nswin": [
 		"LCK_Team_NSR_2022"
 	],
@@ -35255,6 +35273,9 @@
 	],
 	"parabogensport": [
 		"Paralympics_Sports_2021_ParaArchery"
+	],
+	"parabénspramaxinha": [
+		"HBO_1_year_anniversary_Jun_2022"
 	],
 	"paracanoe": [
 		"Paralympics_Sports_2021_ParaCanoe"
@@ -37925,6 +37946,9 @@
 		"NRL_2020_QLDER",
 		"NRL_2020_QLDER_ext"
 	],
+	"qldmaroons": [
+		"NRL_Origin_QLDMaroons_Jun_2022"
+	],
 	"qnd2020": [
 		"NDqatar_2020_ext",
 		"NDqatar_2020_V2",
@@ -38023,6 +38047,9 @@
 	],
 	"queensabc": [
 		"QueensABC_2021"
+	],
+	"queenslander": [
+		"NRL_Origin_QLDMaroons_Jun_2022"
 	],
 	"queensomi": [
 		"JEONSOMI_XOXO_2021"

@@ -13159,6 +13159,11 @@
 		"startingTimestampMs": "1632196800000",
 		"endingTimestampMs": "1640149200000"
 	},
+	"HBO_1_year_anniversary_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_1_year_anniversary_Jun_2022/HBO_1_year_anniversary_Jun_2022.png",
+		"startingTimestampMs": "1654905600000",
+		"endingTimestampMs": "1656621780000"
+	},
 	"HBO_ABLSS_May_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_ABLSS_May_2021/HBO_ABLSS_May_2021.png",
 		"startingTimestampMs": "1620878400000",
@@ -25753,6 +25758,16 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/NRL_2021_ridemcowboys/NRL_2021_ridemcowboys.png",
 		"startingTimestampMs": "1615276860000",
 		"endingTimestampMs": "1633557900000"
+	},
+	"NRL_Origin_BlatchyBlues_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NRL_Origin_BlatchyBlues_Jun_2022/NRL_Origin_BlatchyBlues_Jun_2022.png",
+		"startingTimestampMs": "1654905600000",
+		"endingTimestampMs": "1661960940000"
+	},
+	"NRL_Origin_QLDMaroons_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NRL_Origin_QLDMaroons_Jun_2022/NRL_Origin_QLDMaroons_Jun_2022.png",
+		"startingTimestampMs": "1654905600000",
+		"endingTimestampMs": "1661960940000"
 	},
 	"NRL_PostSeason_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NRL_PostSeason_2020/NRL_PostSeason_2020.png",
