@@ -8339,7 +8339,8 @@
 		"Global_X_ETFS_Jan_2022_v3"
 	],
 	"chaseandstatus": [
-		"Chase_and_Status_Event_May_2022"
+		"Chase_and_Status_Event_May_2022",
+		"Chase_and_Status_Event_May_2022_extend"
 	],
 	"chasingstars": [
 		"Alesso2021",
@@ -15602,7 +15603,11 @@
 	"fh5": [
 		"XboxWoodstock_2021",
 		"ForzaHorizon5_2021_v2",
-		"ForzaHorizon5_2021"
+		"ForzaHorizon5_2021",
+		"Xbox_Forza_Jun_2022"
+	],
+	"fh5hotwheels": [
+		"Xbox_Forza_Jun_2022"
 	],
 	"fiatlux": [
 		"Overwatch_League_Paris_2022",
@@ -16393,7 +16398,8 @@
 	],
 	"forza": [
 		"XboxWoodstock_2021",
-		"ForzaHorizon5_2021_v2"
+		"ForzaHorizon5_2021_v2",
+		"Xbox_Forza_Jun_2022"
 	],
 	"forzahorizon": [
 		"ForzaHorizon_Go_2021"
@@ -16401,7 +16407,11 @@
 	"forzahorizon5": [
 		"ForzaHorizon5_Go_2021",
 		"XboxWoodstock_2021",
-		"ForzaHorizon5_2021"
+		"ForzaHorizon5_2021",
+		"Xbox_Forza_Jun_2022"
+	],
+	"forzamotorsport": [
+		"Xbox_Forza_Jun_2022"
 	],
 	"forçaclone99": [
 		"Disney_TheBadBatch_Helmet_April_2021",
@@ -30503,7 +30513,8 @@
 		"ballantinesbr_June_2021"
 	],
 	"mixedemotions": [
-		"Chase_and_Status_Event_May_2022"
+		"Chase_and_Status_Event_May_2022",
+		"Chase_and_Status_Event_May_2022_extend"
 	],
 	"mixitup": [
 		"MLB_Teams_2020_PS_AB"
@@ -38516,7 +38527,8 @@
 		"Titans_S3_2021_Raven"
 	],
 	"raving": [
-		"Chase_and_Status_Event_May_2022"
+		"Chase_and_Status_Event_May_2022",
+		"Chase_and_Status_Event_May_2022_extend"
 	],
 	"rawin": [
 		"Riot_LPL_Teams_RA_Season_2022",
@@ -52514,7 +52526,8 @@
 		"Sideswiped_2021_Dec"
 	],
 	"whatcamebefore": [
-		"Chase_and_Status_Event_May_2022"
+		"Chase_and_Status_Event_May_2022",
+		"Chase_and_Status_Event_May_2022_extend"
 	],
 	"whatcouldpossiblygowrong": [
 		"DominicFike_2020"

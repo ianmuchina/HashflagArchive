@@ -6094,6 +6094,11 @@
 		"startingTimestampMs": "1652371200000",
 		"endingTimestampMs": "1655049600000"
 	},
+	"Chase_and_Status_Event_May_2022_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Chase_and_Status_Event_May_2022_extend/Chase_and_Status_Event_May_2022_extend.png",
+		"startingTimestampMs": "1655049600000",
+		"endingTimestampMs": "1660320000000"
+	},
 	"ChasingStars2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ChasingStars2021/ChasingStars2021.png",
 		"startingTimestampMs": "1629424800000",
@@ -40258,6 +40263,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Xbox_FFF_Sponsorship_Mar_2022/Xbox_FFF_Sponsorship_Mar_2022.png",
 		"startingTimestampMs": "1647993600000",
 		"endingTimestampMs": "1655942400000"
+	},
+	"Xbox_Forza_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Xbox_Forza_Jun_2022/Xbox_Forza_Jun_2022.png",
+		"startingTimestampMs": "1655053200000",
+		"endingTimestampMs": "1663002000000"
 	},
 	"Xbox_GamePass_August_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Xbox_GamePass_August_2020/Xbox_GamePass_August_2020.png",
