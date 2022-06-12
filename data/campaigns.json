@@ -13804,6 +13804,21 @@
 		"startingTimestampMs": "1654776000000",
 		"endingTimestampMs": "1655044200000"
 	},
+	"HYBE_fromis_9_2nd_launch_1_Jun_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_fromis_9_2nd_launch_1_Jun_2022_v2/HYBE_fromis_9_2nd_launch_1_Jun_2022_v2.png",
+		"startingTimestampMs": "1655046000000",
+		"endingTimestampMs": "1661957400000"
+	},
+	"HYBE_fromis_9_2nd_launch_2_Jun_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_fromis_9_2nd_launch_2_Jun_2022_v2/HYBE_fromis_9_2nd_launch_2_Jun_2022_v2.png",
+		"startingTimestampMs": "1655046000000",
+		"endingTimestampMs": "1661957400000"
+	},
+	"HYBE_fromis_9_2nd_launch_3_Jun_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_fromis_9_2nd_launch_3_Jun_2022_v2/HYBE_fromis_9_2nd_launch_3_Jun_2022_v2.png",
+		"startingTimestampMs": "1655046000000",
+		"endingTimestampMs": "1661957400000"
+	},
 	"Haagendaz_2021_JP": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Haagendaz_2021_JP/Haagendaz_2021_JP.png",
 		"startingTimestampMs": "1628521200000",
@@ -34513,6 +34528,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/SoFiInvest_2021/SoFiInvest_2021.png",
 		"startingTimestampMs": "1617339600000",
 		"endingTimestampMs": "1625202000000"
+	},
+	"So_You_Think_You_Can_Dance_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/So_You_Think_You_Can_Dance_Jun_2022/So_You_Think_You_Can_Dance_Jun_2022.png",
+		"startingTimestampMs": "1655046120000",
+		"endingTimestampMs": "1661439720000"
 	},
 	"SobeysOlympic_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SobeysOlympic_2021/SobeysOlympic_2021.png",
