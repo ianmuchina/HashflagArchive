@@ -4865,7 +4865,8 @@
 		"CinciFootballCFP2021"
 	],
 	"beardawards": [
-		"JamesBeardFoundationAwards2020"
+		"JamesBeardFoundationAwards2020",
+		"James_Beard_Foundation_Awards_2022"
 	],
 	"beardown": [
 		"ArizonaWomensFinalFour2021"
@@ -22824,7 +22825,8 @@
 		"JamesBeardFoundationAwards2020"
 	],
 	"jamesbeardawards": [
-		"JamesBeardFoundationAwards2020"
+		"JamesBeardFoundationAwards2020",
+		"James_Beard_Foundation_Awards_2022"
 	],
 	"jamesblunt": [
 		"JamesBlunt_Nov_2021"
@@ -22961,10 +22963,14 @@
 		"JB_CONFIDENTIAL_2020"
 	],
 	"jbfa": [
-		"JamesBeardFoundationAwards2020"
+		"JamesBeardFoundationAwards2020",
+		"James_Beard_Foundation_Awards_2022"
 	],
 	"jbfa2020": [
 		"JamesBeardFoundationAwards2020"
+	],
+	"jbfa2022": [
+		"James_Beard_Foundation_Awards_2022"
 	],
 	"jdchampshonours": [
 		"JDSportsAJvPulev_2020"
