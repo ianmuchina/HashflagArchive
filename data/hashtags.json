@@ -25856,7 +25856,8 @@
 	"lcs": [
 		"LCS_League_2022",
 		"LCS_2020",
-		"LCS_League_2021"
+		"LCS_League_2021",
+		"LCS_League_2022_v2"
 	],
 	"lcs2020": [
 		"LCS_2020"
@@ -28353,7 +28354,8 @@
 	],
 	"madebymany": [
 		"LCS_League_2022",
-		"LCS_League_2021"
+		"LCS_League_2021",
+		"LCS_League_2022_v2"
 	],
 	"madeforthis": [
 		"AirCanada_AeroplanLaunch_2020_v2",
