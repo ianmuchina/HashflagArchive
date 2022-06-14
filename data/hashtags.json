@@ -6432,7 +6432,8 @@
 		"Netflix_SpaceForce_2020"
 	],
 	"borarensga": [
-		"CBLOL_RENSGA_Season_2022"
+		"CBLOL_RENSGA_Season_2022",
+		"CBLOL_RENSGA_Season_2022_v2"
 	],
 	"borat": [
 		"AmazonStudios_Borat_2020"
@@ -8459,6 +8460,9 @@
 		"MasterchefMx_2020_ChefJoseRa",
 		"MasterchefMexico_2021_ChefJoseRa"
 	],
+	"chegouclubsocial": [
+		"Club_Social_Novos_Sabores_Jun_2022_v2"
+	],
 	"chegouflaminhot": [
 		"ElmaChipsCheetosFlaminHot2021",
 		"ElmaChipsCheetosFlaminHot2020"
@@ -9092,6 +9096,9 @@
 	"clubebk": [
 		"BurgerKingClubeBK_2021"
 	],
+	"clubsocialnovossabores": [
+		"Club_Social_Novos_Sabores_Jun_2022_v2"
+	],
 	"cmbyn": [
 		"LilNasX_2021"
 	],
@@ -9653,6 +9660,9 @@
 	],
 	"corriehinder": [
 		"CoronationStreetCorrie60thAnniversary_2020_add"
+	],
+	"cosechandolomejordelavida": [
+		"Jumex_Q2_Jun_2022"
 	],
 	"costachristmas": [
 		"CostaChristmas_2021"
@@ -11478,7 +11488,8 @@
 		"AfricaDay_May_2021"
 	],
 	"diadefuria": [
-		"CBLOL_FURIA_Season_2022"
+		"CBLOL_FURIA_Season_2022",
+		"CBLOL_FURIA_Season_2022_v2"
 	],
 	"diadeinternetsegura": [
 		"Safer_Internet_Day_2022_add"
@@ -18184,7 +18195,8 @@
 		"RyderCup_2021_TeamEurope"
 	],
 	"gofla": [
-		"CBLOL_FLAMENGO_Season_2022"
+		"CBLOL_FLAMENGO_Season_2022",
+		"CBLOL_FLAMENGO_Season_2022_v2"
 	],
 	"goforthehandful": [
 		"Campbells_Goldfish_Megabites_2022"
@@ -18198,7 +18210,8 @@
 		"LCK_2021_Team_P1_AF_v2"
 	],
 	"gofuria": [
-		"CBLOL_FURIA_Season_2022"
+		"CBLOL_FURIA_Season_2022",
+		"CBLOL_FURIA_Season_2022_v2"
 	],
 	"gogermany": [
 		"Handball_WorldCup_Egypt_2021_GER"
@@ -18236,7 +18249,8 @@
 	"gointz": [
 		"CBLOL_INTZ_Season_2022",
 		"INTZ_June_2021",
-		"INTZ_Feb_2021"
+		"INTZ_Feb_2021",
+		"CBLOL_INTZ_Season_2022_v2"
 	],
 	"goirish": [
 		"NotreDameCFP2021"
@@ -18261,10 +18275,12 @@
 		"NHL_Team_Emojis_2019_2020_Jets"
 	],
 	"gokabum": [
-		"CBLOL_KABUM_Season_2022"
+		"CBLOL_KABUM_Season_2022",
+		"CBLOL_KABUM_Season_2022_v2"
 	],
 	"gokbm": [
-		"CBLOL_KABUM_Season_2022"
+		"CBLOL_KABUM_Season_2022",
+		"CBLOL_KABUM_Season_2022_v2"
 	],
 	"gokdf": [
 		"LCK_Team_KDF_2022"
@@ -18356,13 +18372,15 @@
 		"Olympics_2021_Sports_Golf"
 	],
 	"goliberty": [
-		"CBLOL_LIBERTY_Season_2022"
+		"CBLOL_LIBERTY_Season_2022",
+		"CBLOL_LIBERTY_Season_2022_v2"
 	],
 	"golive": [
 		"KPOP_StrayKids_2020"
 	],
 	"goloud": [
-		"CBLOL_LOUD_Season_2022"
+		"CBLOL_LOUD_Season_2022",
+		"CBLOL_LOUD_Season_2022_v2"
 	],
 	"gomad": [
 		"LEC_Team_MADLions_2022",
@@ -18370,7 +18388,8 @@
 		"LEC_2020_MadLions"
 	],
 	"gominers": [
-		"CBLOL_NETSHOESMINERS_Season_2022"
+		"CBLOL_NETSHOESMINERS_Season_2022",
+		"CBLOL_NETSHOESMINERS_Season_2022_v2"
 	],
 	"gomo": [
 		"GOMObyAIS_July_2021"
@@ -18505,7 +18524,8 @@
 		"GBPackers2022SeasonEmoji"
 	],
 	"gopain": [
-		"CBLOL_PAINGAMING_Season_2022"
+		"CBLOL_PAINGAMING_Season_2022",
+		"CBLOL_PAINGAMING_Season_2022_v2"
 	],
 	"goparalympicsgb": [
 		"Paralympics_2021_GBR"
@@ -18549,14 +18569,16 @@
 		"NRL_2021_GoRabbitohs"
 	],
 	"gored": [
-		"CBLOL_REDCANIDSKALUNGA_Season_2022"
+		"CBLOL_REDCANIDSKALUNGA_Season_2022",
+		"CBLOL_REDCANIDSKALUNGA_Season_2022_v2"
 	],
 	"goredforwomen": [
 		"HeartMonth_2022",
 		"AHA_HeartMonth_2021"
 	],
 	"gorensga": [
-		"CBLOL_RENSGA_Season_2022"
+		"CBLOL_RENSGA_Season_2022",
+		"CBLOL_RENSGA_Season_2022_v2"
 	],
 	"gorickyourself": [
 		"RickandMorty2021_rick"
@@ -23683,6 +23705,12 @@
 	"jumeauxhutts": [
 		"Disney_2021_BobaFett_TheHutts"
 	],
+	"jumex": [
+		"Jumex_Q2_Jun_2022"
+	],
+	"jumexahoras": [
+		"Jumex_Q2_Jun_2022"
+	],
 	"jumpin": [
 		"XboxLoveStory_2021",
 		"Xbox_SeriesX_2020_v2",
@@ -25811,6 +25839,9 @@
 		"Olympics_Countries_2021_LBR",
 		"Paralympics_2021_LBR"
 	],
+	"lbrwin": [
+		"CBLOL_LIBERTY_Season_2022_v2"
+	],
 	"lca": [
 		"Paralympics_2021_LCA",
 		"Olympics_Countries_2021_LCA"
@@ -27598,7 +27629,8 @@
 		"BudLightSeltzerHardSoda_2022"
 	],
 	"loudwin": [
-		"CBLOL_LOUD_Season_2022"
+		"CBLOL_LOUD_Season_2022",
+		"CBLOL_LOUD_Season_2022_v2"
 	],
 	"louis200": [
 		"LOUIS200_2021"
@@ -35695,6 +35727,12 @@
 		"partisiampc_Apr_2022",
 		"partisiampc_Apr_2022_extend"
 	],
+	"partiuexperimentar": [
+		"Club_Social_Novos_Sabores_Jun_2022_v2"
+	],
+	"partiupranãoparar": [
+		"Club_Social_Novos_Sabores_Jun_2022_v2"
+	],
 	"party4ever": [
 		"KHiphop_SimonDominic_2021"
 	],
@@ -39109,7 +39147,8 @@
 		"PrimeVideo_SmallAxe_2020"
 	],
 	"redwin": [
-		"CBLOL_REDCANIDSKALUNGA_Season_2022"
+		"CBLOL_REDCANIDSKALUNGA_Season_2022",
+		"CBLOL_REDCANIDSKALUNGA_Season_2022_v2"
 	],
 	"redwolves": [
 		"Handball_WorldCup_Egypt_2021_Bahrain"
@@ -41330,7 +41369,8 @@
 		"Kevin_o_Chris_May_2022"
 	],
 	"segueotrem": [
-		"CBLOL_NETSHOESMINERS_Season_2022"
+		"CBLOL_NETSHOESMINERS_Season_2022",
+		"CBLOL_NETSHOESMINERS_Season_2022_v2"
 	],
 	"seguiigiornalistilocali": [
 		"WorldPressFreedomDay_2021"
@@ -50779,7 +50819,8 @@
 	],
 	"vamosflamengo": [
 		"CBLOL_FLAMENGO_Season_2022",
-		"Libertadores_2021_Finalists_Flamengo"
+		"Libertadores_2021_Finalists_Flamengo",
+		"CBLOL_FLAMENGO_Season_2022_v2"
 	],
 	"vamosfuracão": [
 		"CopadoBrasil_cap_2021"
@@ -50981,6 +51022,9 @@
 	],
 	"vemdebonita": [
 		"Avon_BBB22_Mar_2022"
+	],
+	"vemdeclubsocial": [
+		"Club_Social_Novos_Sabores_Jun_2022_v2"
 	],
 	"vemdeperfumebom": [
 		"Avon_BBB22_Feb_2022",
@@ -51465,7 +51509,8 @@
 		"2020_VMAs_StanCam"
 	],
 	"voaintz": [
-		"CBLOL_INTZ_Season_2022"
+		"CBLOL_INTZ_Season_2022",
+		"CBLOL_INTZ_Season_2022_v2"
 	],
 	"vocêéumbruxo": [
 		"HBO_Max_Harry_Potter_20th_REunion_Hagrid_2021"
@@ -51563,6 +51608,9 @@
 	],
 	"votecomsegurança": [
 		"VoteComSeguranca_BrazilElections_2020"
+	],
+	"voted": [
+		"Japan_Upper_House_Election_Voted_Jun_2022"
 	],
 	"voteearly": [
 		"US_Elections_ballot_2022",
@@ -65622,6 +65670,9 @@
 	],
 	"才能を追い越せ": [
 		"Com2us_summonerswar_April_2021"
+	],
+	"投票しました": [
+		"Japan_Upper_House_Election_Voted_Jun_2022"
 	],
 	"招き猫": [
 		"TwitterJP_LuckyCatDay_2021"
