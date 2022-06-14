@@ -7164,6 +7164,11 @@
 		"startingTimestampMs": "1632096000000",
 		"endingTimestampMs": "1645516740000"
 	},
+	"DITO_DiTalk_Bubble_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DITO_DiTalk_Bubble_Jun_2022/DITO_DiTalk_Bubble_Jun_2022.png",
+		"startingTimestampMs": "1655244000000",
+		"endingTimestampMs": "1663192800000"
+	},
 	"DITO_May_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DITO_May_2021/DITO_May_2021.png",
 		"startingTimestampMs": "1621180800000",
