@@ -31429,6 +31429,11 @@
 		"startingTimestampMs": "1637280000000",
 		"endingTimestampMs": "1644685140000"
 	},
+	"Pepsi_Blue_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pepsi_Blue_Jun_2022/Pepsi_Blue_Jun_2022.png",
+		"startingTimestampMs": "1655395200000",
+		"endingTimestampMs": "1660147140000"
+	},
 	"Pepsi_Halftime5_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Pepsi_Halftime5_2022/Pepsi_Halftime5_2022.png",
 		"startingTimestampMs": "1644192000000",
@@ -32308,6 +32313,16 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/QatariElections_2021/QatariElections_2021.png",
 		"startingTimestampMs": "1633230000000",
 		"endingTimestampMs": "1635081480000"
+	},
+	"Qingci_MARVELOUS_SNAIL_1_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Qingci_MARVELOUS_SNAIL_1_Jun_2022/Qingci_MARVELOUS_SNAIL_1_Jun_2022.png",
+		"startingTimestampMs": "1655395200000",
+		"endingTimestampMs": "1663171140000"
+	},
+	"Qingci_MARVELOUS_SNAIL_2_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Qingci_MARVELOUS_SNAIL_2_Jun_2022/Qingci_MARVELOUS_SNAIL_2_Jun_2022.png",
+		"startingTimestampMs": "1655395200000",
+		"endingTimestampMs": "1663171140000"
 	},
 	"QiyiYouthWithYou3_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/QiyiYouthWithYou3_2021/QiyiYouthWithYou3_2021.png",
