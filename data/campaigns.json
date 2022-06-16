@@ -20339,6 +20339,11 @@
 		"startingTimestampMs": "1601017200000",
 		"endingTimestampMs": "1604303940000"
 	},
+	"Logic_Album_Emoji_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Logic_Album_Emoji_2022/Logic_Album_Emoji_2022.png",
+		"startingTimestampMs": "1655337600000",
+		"endingTimestampMs": "1657238400000"
+	},
 	"Loki_2WO_May_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Loki_2WO_May_2021/Loki_2WO_May_2021.png",
 		"startingTimestampMs": "1622032200000",
@@ -34873,6 +34878,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Solitaire_GH_GermanyTakeovers_2021_add/Solitaire_GH_GermanyTakeovers_2021_add.png",
 		"startingTimestampMs": "1614643200000",
 		"endingTimestampMs": "1622592000000"
+	},
+	"Something_In_The_Water_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Something_In_The_Water_Emoji/Something_In_The_Water_Emoji.png",
+		"startingTimestampMs": "1655337600000",
+		"endingTimestampMs": "1656028800000"
 	},
 	"Son_Of_Jacob_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Son_Of_Jacob_Apr_2022/Son_Of_Jacob_Apr_2022.png",
