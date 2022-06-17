@@ -16669,6 +16669,11 @@
 		"startingTimestampMs": "1655313000000",
 		"endingTimestampMs": "1655831400000"
 	},
+	"Juneteenth_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Juneteenth_2022_v2/Juneteenth_2022_v2.png",
+		"startingTimestampMs": "1655313000000",
+		"endingTimestampMs": "1655831400000"
+	},
 	"JurassicWorldDominion_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/JurassicWorldDominion_2021/JurassicWorldDominion_2021.png",
 		"startingTimestampMs": "1637654400000",
@@ -20358,6 +20363,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/LoL_WorldChampionship_2020/LoL_WorldChampionship_2020.png",
 		"startingTimestampMs": "1601017200000",
 		"endingTimestampMs": "1604303940000"
+	},
+	"Logic_Album_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Logic_Album_2022/Logic_Album_2022.png",
+		"startingTimestampMs": "1655424000000",
+		"endingTimestampMs": "1657238400000"
 	},
 	"Logic_Album_Emoji_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Logic_Album_Emoji_2022/Logic_Album_Emoji_2022.png",
@@ -33523,6 +33533,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/SIIMA2021/SIIMA2021.png",
 		"startingTimestampMs": "1631786400000",
 		"endingTimestampMs": "1632421200000"
+	},
+	"SITW_Emoji_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SITW_Emoji_2022/SITW_Emoji_2022.png",
+		"startingTimestampMs": "1655424000000",
+		"endingTimestampMs": "1656028800000"
 	},
 	"SKYWAWWA_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SKYWAWWA_2020/SKYWAWWA_2020.png",
