@@ -18949,6 +18949,11 @@
 		"startingTimestampMs": "1617321600000",
 		"endingTimestampMs": "1638295200000"
 	},
+	"LCS10_League_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LCS10_League_2022/LCS10_League_2022.png",
+		"startingTimestampMs": "1655478000000",
+		"endingTimestampMs": "1672556400000"
+	},
 	"LCS_100T_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LCS_100T_2022/LCS_100T_2022.png",
 		"startingTimestampMs": "1641898800000",
@@ -38978,6 +38983,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/VictoriaMonet_2020/VictoriaMonet_2020.png",
 		"startingTimestampMs": "1596438060000",
 		"endingTimestampMs": "1599789600000"
+	},
+	"VidCon_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/VidCon_Jun_2022/VidCon_Jun_2022.png",
+		"startingTimestampMs": "1655481600000",
+		"endingTimestampMs": "1657346400000"
 	},
 	"Villains_Steppenwolf_Helmet_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Villains_Steppenwolf_Helmet_2021/Villains_Steppenwolf_Helmet_2021.png",

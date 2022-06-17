@@ -25979,7 +25979,11 @@
 		"LCS_League_2022",
 		"LCS_2020",
 		"LCS_League_2021",
-		"LCS_League_2022_v2"
+		"LCS_League_2022_v2",
+		"LCS10_League_2022"
+	],
+	"lcs10": [
+		"LCS10_League_2022"
 	],
 	"lcs2020": [
 		"LCS_2020"
@@ -28484,7 +28488,8 @@
 	"madebymany": [
 		"LCS_League_2022",
 		"LCS_League_2021",
-		"LCS_League_2022_v2"
+		"LCS_League_2022_v2",
+		"LCS10_League_2022"
 	],
 	"madeforthis": [
 		"AirCanada_AeroplanLaunch_2020_v2",
@@ -51176,6 +51181,9 @@
 	"vctna": [
 		"Riot_Valorant_VCT_Red_2022"
 	],
+	"vcus22": [
+		"VidCon_Jun_2022"
+	],
 	"vegasborn": [
 		"NHLTeam_2021_VegasBorn",
 		"NHL_2021_Teams_VegasBorn",
@@ -51494,6 +51502,12 @@
 	],
 	"vidasselvagens": [
 		"PrimeVideo_TheWilds_2020"
+	],
+	"vidcon": [
+		"VidCon_Jun_2022"
+	],
+	"vidcon2022": [
+		"VidCon_Jun_2022"
 	],
 	"videomusicawards": [
 		"MTV_VMAs_2021",
