@@ -3184,6 +3184,11 @@
 		"startingTimestampMs": "1616544000000",
 		"endingTimestampMs": "1620532740000"
 	},
+	"BET_Awards_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BET_Awards_Jun_2022/BET_Awards_Jun_2022.png",
+		"startingTimestampMs": "1655524800000",
+		"endingTimestampMs": "1658462340000"
+	},
 	"BET_HipHopAwards_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BET_HipHopAwards_2020/BET_HipHopAwards_2020.png",
 		"startingTimestampMs": "1603080000000",
