@@ -10274,6 +10274,11 @@
 		"startingTimestampMs": "1601190000000",
 		"endingTimestampMs": "1609484400000"
 	},
+	"ESPN_Fifty50_Anniversary_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ESPN_Fifty50_Anniversary_Jun_2022/ESPN_Fifty50_Anniversary_Jun_2022.png",
+		"startingTimestampMs": "1655542800000",
+		"endingTimestampMs": "1672559940000"
+	},
 	"ESPN_FrontPageTweets_CFP_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ESPN_FrontPageTweets_CFP_2022/ESPN_FrontPageTweets_CFP_2022.png",
 		"startingTimestampMs": "1641013200000",
