@@ -14074,6 +14074,11 @@
 		"startingTimestampMs": "1635631200000",
 		"endingTimestampMs": "1635631200000"
 	},
+	"HallyuPopFest_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HallyuPopFest_Jun_2022/HallyuPopFest_Jun_2022.png",
+		"startingTimestampMs": "1655650800000",
+		"endingTimestampMs": "1662822000000"
+	},
 	"HaloTheSeries_BL_2022_US": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HaloTheSeries_BL_2022_US/HaloTheSeries_BL_2022_US.png",
 		"startingTimestampMs": "1648103400000",
