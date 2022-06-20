@@ -209,6 +209,11 @@
 		"startingTimestampMs": "1645419600000",
 		"endingTimestampMs": "1647838740000"
 	},
+	"5hour_Energy_MLB_Amplify_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/5hour_Energy_MLB_Amplify_Jun_2022/5hour_Energy_MLB_Amplify_Jun_2022.png",
+		"startingTimestampMs": "1655701260000",
+		"endingTimestampMs": "1663563540000"
+	},
 	"5kMay_RunForHeroes_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/5kMay_RunForHeroes_2021/5kMay_RunForHeroes_2021.png",
 		"startingTimestampMs": "1619841600000",
