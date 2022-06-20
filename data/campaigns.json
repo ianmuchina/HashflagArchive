@@ -24694,6 +24694,11 @@
 		"startingTimestampMs": "1640235600000",
 		"endingTimestampMs": "1647953940000"
 	},
+	"NFLAfricaTouchdown": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFLAfricaTouchdown/NFLAfricaTouchdown.png",
+		"startingTimestampMs": "1655683200000",
+		"endingTimestampMs": "1656388740000"
+	},
 	"NFLDraft2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NFLDraft2021/NFLDraft2021.png",
 		"startingTimestampMs": "1619568000000",
@@ -40473,6 +40478,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/World_Red_Cross_and_Red_Crescent_Day_2022/World_Red_Cross_and_Red_Crescent_Day_2022.png",
 		"startingTimestampMs": "1651449660000",
 		"endingTimestampMs": "1652140740000"
+	},
+	"World_Refugee_Day_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/World_Refugee_Day_2022/World_Refugee_Day_2022.png",
+		"startingTimestampMs": "1655683200000",
+		"endingTimestampMs": "1656115200000"
 	},
 	"Worlds2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Worlds2021/Worlds2021.png",
