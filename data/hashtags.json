@@ -21213,7 +21213,8 @@
 	"hshtg": [
 		"hshtg_1_US",
 		"BH-hshtg",
-		"BH-hshtg-220614"
+		"BH-hshtg-220614",
+		"BH-hshtg-220621"
 	],
 	"hshtg1": [
 		"hshtg_1_US",
@@ -27834,6 +27835,9 @@
 	"louisvuitton": [
 		"LouisVuitton_2021"
 	],
+	"louisvuittonmen": [
+		"Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022"
+	],
 	"louiswain": [
 		"AmazonStudios_LouisWain_2021"
 	],
@@ -28318,7 +28322,8 @@
 	"lvmen": [
 		"LVMenSS22_June_2021",
 		"LouisVuittonMen_FW21",
-		"LVMenFW22_Show_Men_Jan_2022"
+		"LVMenFW22_Show_Men_Jan_2022",
+		"Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022"
 	],
 	"lvmenfw21": [
 		"LVMenFW21",
@@ -28337,6 +28342,9 @@
 	"lvmenss22": [
 		"LVMenSS22_dec_2021",
 		"LVMenSS22_June_2021"
+	],
+	"lvmenss23": [
+		"Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022"
 	],
 	"lvmensshow": [
 		"LouisVuittonMen_FW21"

@@ -3269,6 +3269,11 @@
 		"startingTimestampMs": "1655218800000",
 		"endingTimestampMs": "1655247600000"
 	},
+	"BH-hshtg-220621": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BH-hshtg-220621/BH-hshtg-220621.png",
+		"startingTimestampMs": "1655812800000",
+		"endingTimestampMs": "1655859600000"
+	},
 	"BH-hshtg1": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BH-hshtg1/BH-hshtg1.png",
 		"startingTimestampMs": "1654520400000",
@@ -20518,6 +20523,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Louis_Vuitton_Holiday_2021/Louis_Vuitton_Holiday_2021.png",
 		"startingTimestampMs": "1637341200000",
 		"endingTimestampMs": "1640995140000"
+	},
+	"Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022/Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022.png",
+		"startingTimestampMs": "1655812800000",
+		"endingTimestampMs": "1656485940000"
 	},
 	"Louis_Vuitton_Men_Show_Spinoff_Thailand_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Louis_Vuitton_Men_Show_Spinoff_Thailand_Jun_2022/Louis_Vuitton_Men_Show_Spinoff_Thailand_Jun_2022.png",
