@@ -39414,6 +39414,11 @@
 		"startingTimestampMs": "1604287800000",
 		"endingTimestampMs": "1605119400000"
 	},
+	"WJSN_Jun_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WJSN_Jun_2022_v2/WJSN_Jun_2022_v2.png",
+		"startingTimestampMs": "1655823600000",
+		"endingTimestampMs": "1661958000000"
+	},
 	"WMBacklash_May_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WMBacklash_May_2021/WMBacklash_May_2021.png",
 		"startingTimestampMs": "1620648000000",

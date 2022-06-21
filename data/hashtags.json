@@ -25600,6 +25600,9 @@
 		"WMHD_2021",
 		"MentalHealthMonth_2021_add2"
 	],
+	"last_sequence": [
+		"WJSN_Jun_2022_v2"
+	],
 	"lastnightinsoho": [
 		"LastNightInSoho_2021"
 	],
@@ -53705,6 +53708,12 @@
 		"WizKid_2020",
 		"Wiz_Kid_Album_2021_Emoji_V2"
 	],
+	"wjsn": [
+		"WJSN_Jun_2022_v2"
+	],
+	"wjsn_sequence": [
+		"WJSN_Jun_2022_v2"
+	],
 	"wmbacklash": [
 		"WMBacklash_May_2021",
 		"WrestleMania_Backlash_2022"
@@ -69583,6 +69592,12 @@
 	],
 	"우주사령부": [
 		"Disney_Lightyear_Sox_May_2022"
+	],
+	"우주소녀": [
+		"WJSN_Jun_2022_v2"
+	],
+	"우주소녀_시퀀스": [
+		"WJSN_Jun_2022_v2"
 	],
 	"우주특공대": [
 		"Disney_Lightyear_Buzz_May_2022"
