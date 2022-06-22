@@ -9904,6 +9904,9 @@
 	"creativityforall": [
 		"AdobeMAX_2020"
 	],
+	"creepysmiles": [
+		"Paramount_Pics_Smile_Jun_2022"
+	],
 	"crew96": [
 		"MLS_2022_Team_CLB_2022",
 		"MLS2020_CLB",
@@ -36037,6 +36040,9 @@
 		"DisneyPlus_WimpyKid_CheeseTouch_2021_V2",
 		"DisneyPlus_WimpyKid_CheeseTouch_2021"
 	],
+	"passthesmile": [
+		"Paramount_Pics_Smile_Jun_2022"
+	],
 	"pasunedeplus": [
 		"StopViolenceAgainstWomen_2020"
 	],
@@ -43074,8 +43080,20 @@
 	"smilecookie": [
 		"SmileCookie_TimHortons_2020"
 	],
+	"smilefilm": [
+		"Paramount_Pics_Smile_Jun_2022"
+	],
 	"smilegurney": [
 		"DuneCharacter_2021_Gurney"
+	],
+	"smilelapelícula": [
+		"Paramount_Pics_Smile_Jun_2022"
+	],
+	"smilelefilm": [
+		"Paramount_Pics_Smile_Jun_2022"
+	],
+	"smilemovie": [
+		"Paramount_Pics_Smile_Jun_2022"
 	],
 	"smileupproject": [
 		"JA_SmileUpProject_2020"
@@ -43528,6 +43546,12 @@
 	"sorciersuprêmewong": [
 		"Disney_Dr_Strange_2_Wong_2022",
 		"Disney_Dr_Strange_2_Wong_2022_extend"
+	],
+	"sorria": [
+		"Paramount_Pics_Smile_Jun_2022"
+	],
+	"sorriaofilme": [
+		"Paramount_Pics_Smile_Jun_2022"
 	],
 	"sotinysomany": [
 		"JackintheBoxTinyTacos_2021"
@@ -44272,6 +44296,9 @@
 	],
 	"startsaturdaystrong": [
 		"CFBonFOX_2021"
+	],
+	"startwithasmile": [
+		"Paramount_Pics_Smile_Jun_2022"
 	],
 	"starwars": [
 		"Disney_Maythe4th_2021_StarWars",
@@ -53255,7 +53282,8 @@
 		"SeanMendes_2020"
 	],
 	"whatmakesyousmile": [
-		"KP_Smile_2020"
+		"KP_Smile_2020",
+		"Paramount_Pics_Smile_Jun_2022"
 	],
 	"whatmariahmeanstome": [
 		"MariahCarey_2020_add"
@@ -69277,6 +69305,9 @@
 	],
 	"슈퍼주니어dne": [
 		"KPOP_SuperJuniorDnE_2020"
+	],
+	"스마일": [
+		"Paramount_Pics_Smile_Jun_2022"
 	],
 	"스쿨미투": [
 		"MeToo_Korea_2018_v2"
