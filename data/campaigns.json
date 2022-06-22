@@ -2514,6 +2514,16 @@
 		"startingTimestampMs": "1631419200000",
 		"endingTimestampMs": "1639252800000"
 	},
+	"Aniversario_do_Pericles_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Aniversario_do_Pericles_Jun_2022/Aniversario_do_Pericles_Jun_2022.png",
+		"startingTimestampMs": "1655866800000",
+		"endingTimestampMs": "1656514800000"
+	},
+	"Aniversario_do_Pericles_Jun_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Aniversario_do_Pericles_Jun_2022_add/Aniversario_do_Pericles_Jun_2022_add.png",
+		"startingTimestampMs": "1655866800000",
+		"endingTimestampMs": "1656514800000"
+	},
 	"AnneMarie_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AnneMarie_2021/AnneMarie_2021.png",
 		"startingTimestampMs": "1619629200000",
@@ -36178,6 +36188,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/TIFF21/TIFF21.png",
 		"startingTimestampMs": "1629806400000",
 		"endingTimestampMs": "1632553140000"
+	},
+	"TIFF22_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TIFF22_2022/TIFF22_2022.png",
+		"startingTimestampMs": "1655870400000",
+		"endingTimestampMs": "1663905540000"
 	},
 	"TIFF_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/TIFF_2020/TIFF_2020.png",
