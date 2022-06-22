@@ -13414,6 +13414,16 @@
 		"startingTimestampMs": "1639634400000",
 		"endingTimestampMs": "1646726400000"
 	},
+	"HBO_House_of_the_Dragon_3_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_3_Jun_2022/HBO_House_of_the_Dragon_3_Jun_2022.png",
+		"startingTimestampMs": "1655910000000",
+		"endingTimestampMs": "1664337540000"
+	},
+	"HBO_House_of_the_Dragon_3_Jun_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_3_Jun_2022_add/HBO_House_of_the_Dragon_3_Jun_2022_add.png",
+		"startingTimestampMs": "1655910000000",
+		"endingTimestampMs": "1664337540000"
+	},
 	"HBO_House_of_the_Dragon_Alicent_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Alicent_May_2022/HBO_House_of_the_Dragon_Alicent_May_2022.png",
 		"startingTimestampMs": "1651762800000",
@@ -37468,6 +37478,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Tokyo_Rainbow_Pride_Apr_2022/Tokyo_Rainbow_Pride_Apr_2022.png",
 		"startingTimestampMs": "1650553200000",
 		"endingTimestampMs": "1652021940000"
+	},
+	"Tokyo_Rainbow_Pride_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Tokyo_Rainbow_Pride_Jun_2022/Tokyo_Rainbow_Pride_Jun_2022.png",
+		"startingTimestampMs": "1655910000000",
+		"endingTimestampMs": "1656601140000"
 	},
 	"TomClancysWithoutRemorse_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/TomClancysWithoutRemorse_2021/TomClancysWithoutRemorse_2021.png",

@@ -10777,6 +10777,9 @@
 		"DayOfTheDead_2020",
 		"DiaDeMuertos_2021"
 	],
+	"dayofthedragon": [
+		"HBO_House_of_the_Dragon_3_Jun_2022"
+	],
 	"dayofthegirl": [
 		"DayOfTheGirl_2021",
 		"DayOfTheGirl_2020"
@@ -11579,6 +11582,9 @@
 	"diademuertos": [
 		"DayOfTheDead_2020",
 		"DiaDeMuertos_2021"
+	],
+	"diadodragão": [
+		"HBO_House_of_the_Dragon_3_Jun_2022"
 	],
 	"diadoorgulho": [
 		"AlwaysProud_June_2021",
@@ -13358,6 +13364,9 @@
 	"dysonv15detect": [
 		"DysonClean_2021"
 	],
+	"dziensmoka": [
+		"HBO_House_of_the_Dragon_3_Jun_2022"
+	],
 	"dzogardner": [
 		"Disney_Joe_2020"
 	],
@@ -13394,6 +13403,9 @@
 		"EarthDay_2021_add",
 		"EarthDay_2020_ext_v2",
 		"EarthDay_2020_ext"
+	],
+	"díadeldragón": [
+		"HBO_House_of_the_Dragon_3_Jun_2022"
 	],
 	"díadelhashtag": [
 		"HashtagDay_2021_Updated"
@@ -21058,7 +21070,8 @@
 		"HouseoftheDragonHBO_2021",
 		"HBO_HouseoftheDragon_2021",
 		"HBO_House_of_the_Dragon_Mar_2022",
-		"HBO_House_of_the_Dragon_Sigil_May_2022"
+		"HBO_House_of_the_Dragon_Sigil_May_2022",
+		"HBO_House_of_the_Dragon_3_Jun_2022_add"
 	],
 	"hotelt": [
 		"Amazon_Studios_HT4_2022"
@@ -21126,7 +21139,8 @@
 		"HouseoftheDragonHBO_2021",
 		"HBO_HouseoftheDragon_2021",
 		"HBO_House_of_the_Dragon_Mar_2022",
-		"HBO_House_of_the_Dragon_Sigil_May_2022"
+		"HBO_House_of_the_Dragon_Sigil_May_2022",
+		"HBO_House_of_the_Dragon_3_Jun_2022_add"
 	],
 	"houseofthedragonhbo": [
 		"HouseoftheDragonHBO_2021",
@@ -37838,6 +37852,9 @@
 	"pridefx": [
 		"PrideFX_2021"
 	],
+	"pridemonth": [
+		"Tokyo_Rainbow_Pride_Jun_2022"
+	],
 	"prideoforlando": [
 		"NWSL_Season_OrlandoPride_2022_v2"
 	],
@@ -45412,6 +45429,9 @@
 		"Olympics_Countries_2021_SYR",
 		"Paralympics_2021_SYR"
 	],
+	"syrax": [
+		"HBO_House_of_the_Dragon_3_Jun_2022"
+	],
 	"sytycd": [
 		"So_You_Think_You_Can_Dance_Jun_2022"
 	],
@@ -49157,7 +49177,8 @@
 	],
 	"tokyorainbowpride": [
 		"Tokyo_RainbowPride_2021",
-		"Tokyo_Rainbow_Pride_Apr_2022"
+		"Tokyo_Rainbow_Pride_Apr_2022",
+		"Tokyo_Rainbow_Pride_Jun_2022"
 	],
 	"tokyotogether": [
 		"AU_Olympic_2021"
@@ -49634,7 +49655,8 @@
 	],
 	"trp2022": [
 		"Tokyo_Rainbow_Pride_Apr_2022",
-		"WeBelong_Pride_2022"
+		"WeBelong_Pride_2022",
+		"Tokyo_Rainbow_Pride_Jun_2022"
 	],
 	"truecrimeae": [
 		"AETrueCrime_2021"
@@ -66555,7 +66577,8 @@
 		"AlwaysProud_June_2021",
 		"Tokyo_RainbowPride_2021",
 		"Tokyo_Rainbow_Pride_Apr_2022",
-		"WeBelong_Pride_2022"
+		"WeBelong_Pride_2022",
+		"Tokyo_Rainbow_Pride_Jun_2022"
 	],
 	"東北ボランティア": [
 		"311Tohokumemorial_2021_v2",
@@ -67200,7 +67223,8 @@
 		"YahooJapanShoppingDay_2020"
 	],
 	"繋がる見える変わる": [
-		"Tokyo_Rainbow_Pride_Apr_2022"
+		"Tokyo_Rainbow_Pride_Apr_2022",
+		"Tokyo_Rainbow_Pride_Jun_2022"
 	],
 	"織姫": [
 		"Tanabata_Starfestival_2020"
