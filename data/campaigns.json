@@ -6159,6 +6159,11 @@
 		"startingTimestampMs": "1639094400000",
 		"endingTimestampMs": "1646611200000"
 	},
+	"Chain_Q3_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Chain_Q3_Jun_2022/Chain_Q3_Jun_2022.png",
+		"startingTimestampMs": "1655856000000",
+		"endingTimestampMs": "1663804800000"
+	},
 	"Chain_XCN_Mar_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Chain_XCN_Mar_2022/Chain_XCN_Mar_2022.png",
 		"startingTimestampMs": "1647885600000",
@@ -13441,6 +13446,11 @@
 	},
 	"HBO_House_of_the_Dragon_Sigil_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Sigil_May_2022/HBO_House_of_the_Dragon_Sigil_May_2022.png",
+		"startingTimestampMs": "1651762800000",
+		"endingTimestampMs": "1667275140000"
+	},
+	"HBO_House_of_the_Dragon_Sigil_May_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Sigil_May_2022_v2/HBO_House_of_the_Dragon_Sigil_May_2022_v2.png",
 		"startingTimestampMs": "1651762800000",
 		"endingTimestampMs": "1667275140000"
 	},
@@ -33793,6 +33803,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/SMTOWN_LIVE_Culture_Humanity_2021_aespa/SMTOWN_LIVE_Culture_Humanity_2021_aespa.png",
 		"startingTimestampMs": "1609286400000",
 		"endingTimestampMs": "1614481200000"
+	},
+	"SMTourEmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SMTourEmoji/SMTourEmoji.png",
+		"startingTimestampMs": "1655856000000",
+		"endingTimestampMs": "1666656000000"
 	},
 	"SM_2020_Emoji": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SM_2020_Emoji/SM_2020_Emoji.png",

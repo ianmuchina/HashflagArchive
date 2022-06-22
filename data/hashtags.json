@@ -7125,6 +7125,9 @@
 	"buildlikeamaster": [
 		"LEGOGoldenBrick_2021"
 	],
+	"buildonchain": [
+		"Chain_Q3_Jun_2022"
+	],
 	"buildtothemoon": [
 		"BinanceTurns4_2021"
 	],
@@ -8209,6 +8212,9 @@
 		"KPOP_VIT_ITZY_April_2021_CHAERYEONG",
 		"Kpop_VIT_ITZY_Sept_2021_CHAERYEONG"
 	],
+	"chaincloud": [
+		"Chain_Q3_Jun_2022"
+	],
 	"chaincore": [
 		"Chain_Dec_2021",
 		"Chain_XCN_Mar_2022_add"
@@ -8218,7 +8224,11 @@
 	],
 	"chainprotocol": [
 		"Chain_Dec_2021",
-		"Chain_XCN_Mar_2022_add"
+		"Chain_XCN_Mar_2022_add",
+		"Chain_Q3_Jun_2022"
+	],
+	"chainsequence": [
+		"Chain_Q3_Jun_2022"
 	],
 	"chaintxvm": [
 		"Chain_Dec_2021",
@@ -15923,7 +15933,8 @@
 		"StayHome_2020_2021_ext_add"
 	],
 	"fireandblood": [
-		"HBO_House_of_the_Dragon_Sigil_May_2022"
+		"HBO_House_of_the_Dragon_Sigil_May_2022",
+		"HBO_House_of_the_Dragon_Sigil_May_2022_v2"
 	],
 	"fireitup": [
 		"NHL_Playoffs_CAL_2022",
@@ -21112,13 +21123,15 @@
 		"HouseoftheDragonHBO_2021",
 		"HBO_HouseoftheDragon_2021",
 		"HBO_House_of_the_Dragon_Mar_2022",
-		"HBO_House_of_the_Dragon_Sigil_May_2022"
+		"HBO_House_of_the_Dragon_Sigil_May_2022",
+		"HBO_House_of_the_Dragon_Sigil_May_2022_v2"
 	],
 	"housetargaryen": [
 		"HouseoftheDragonHBO_2021",
 		"HBO_HouseoftheDragon_2021",
 		"HBO_House_of_the_Dragon_Mar_2022",
-		"HBO_House_of_the_Dragon_Sigil_May_2022"
+		"HBO_House_of_the_Dragon_Sigil_May_2022",
+		"HBO_House_of_the_Dragon_Sigil_May_2022_v2"
 	],
 	"hov": [
 		"JayZReasonableDoubtAlbumAnniversary"
@@ -42241,6 +42254,12 @@
 	"sharonduncanbrewster": [
 		"DuneCharacter_2021_DrKynes"
 	],
+	"shawnaccess": [
+		"SMTourEmoji"
+	],
+	"shawnmendes": [
+		"SMTourEmoji"
+	],
 	"shawnmendesinwonder": [
 		"SeanMendes_2020_v2"
 	],
@@ -53844,6 +53863,15 @@
 		"SM_2020_Emoji",
 		"SeanMendes_2020"
 	],
+	"wonderthetour": [
+		"SMTourEmoji"
+	],
+	"wondertheworldtour": [
+		"SMTourEmoji"
+	],
+	"wondertour": [
+		"SMTourEmoji"
+	],
 	"wonderwoman": [
 		"DCFandom_2020_WW84",
 		"WonderWoman_84_Dec_2020",
@@ -54380,7 +54408,8 @@
 		"Xbox_SeriesX_2020"
 	],
 	"xcn": [
-		"Chain_XCN_Mar_2022"
+		"Chain_XCN_Mar_2022",
+		"Chain_Q3_Jun_2022"
 	],
 	"xf": [
 		"XFactor_2020_SKY"
