@@ -5671,14 +5671,16 @@
 		"BPI_France_Big_Tour_2022",
 		"BPIBigTour_2021",
 		"BPI_BigTour_2020",
-		"BPIBigTour_2021_ext"
+		"BPIBigTour_2021_ext",
+		"BPI_France_Big_Tour_2022_v2"
 	],
 	"bigtour2021": [
 		"BPIBigTour_2021",
 		"BPIBigTour_2021_ext"
 	],
 	"bigtour2022": [
-		"BPI_France_Big_Tour_2022"
+		"BPI_France_Big_Tour_2022",
+		"BPI_France_Big_Tour_2022_v2"
 	],
 	"bigtrickenergy": [
 		"BigTricktruTV_2021"
@@ -15650,10 +15652,12 @@
 		"InternationalWomensDay2021"
 	],
 	"festivaldesentrepreneurs": [
-		"BPI_France_Big_Tour_2022"
+		"BPI_France_Big_Tour_2022",
+		"BPI_France_Big_Tour_2022_v2"
 	],
 	"festivaldubigtour": [
-		"BPI_France_Big_Tour_2022"
+		"BPI_France_Big_Tour_2022",
+		"BPI_France_Big_Tour_2022_v2"
 	],
 	"festivalofcolors": [
 		"Holi_2022"
@@ -52007,7 +52011,8 @@
 	"vivetaville": [
 		"BPI_France_Big_Tour_2022",
 		"BPIBigTour_2021",
-		"BPIBigTour_2021_ext"
+		"BPIBigTour_2021_ext",
+		"BPI_France_Big_Tour_2022_v2"
 	],
 	"vivetupropiahistoria": [
 		"EstadodeGuanajuato_2020"
