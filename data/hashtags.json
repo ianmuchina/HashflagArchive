@@ -5798,6 +5798,9 @@
 	"binanceturns4": [
 		"BinanceTurns4_2021"
 	],
+	"binanceturns5": [
+		"Binance_Campaign_Jun_2022"
+	],
 	"binanceverified": [
 		"BinanceVerifiedCampaign_2021"
 	],
@@ -21290,7 +21293,8 @@
 		"hshtg_1_US",
 		"BH-hshtg",
 		"BH-hshtg-220614",
-		"BH-hshtg-220621"
+		"BH-hshtg-220621",
+		"BH-hshtg-220624"
 	],
 	"hshtg1": [
 		"hshtg_1_US",

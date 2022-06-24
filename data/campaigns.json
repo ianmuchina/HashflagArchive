@@ -3314,6 +3314,11 @@
 		"startingTimestampMs": "1655812800000",
 		"endingTimestampMs": "1655859600000"
 	},
+	"BH-hshtg-220624": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BH-hshtg-220624/BH-hshtg-220624.png",
+		"startingTimestampMs": "1656054000000",
+		"endingTimestampMs": "1656140340000"
+	},
 	"BH-hshtg1": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BH-hshtg1/BH-hshtg1.png",
 		"startingTimestampMs": "1654520400000",
@@ -4553,6 +4558,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Binance_Blockchain_Week_2022/Binance_Blockchain_Week_2022.png",
 		"startingTimestampMs": "1647648000000",
 		"endingTimestampMs": "1651276800000"
+	},
+	"Binance_Campaign_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Binance_Campaign_Jun_2022/Binance_Campaign_Jun_2022.png",
+		"startingTimestampMs": "1656054060000",
+		"endingTimestampMs": "1663916460000"
 	},
 	"Binance_Flag_Q1_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Binance_Flag_Q1_2022/Binance_Flag_Q1_2022.png",
