@@ -7392,6 +7392,12 @@
 		"WHO_SafeHands_2020",
 		"WHO_SafeHands_2020_add1"
 	],
+	"cabezaenalto": [
+		"HandS_Dermo_Sensitive_Jun_2022"
+	],
+	"cabezaencalma": [
+		"HandS_Dermo_Sensitive_Jun_2022"
+	],
 	"cachorropizza": [
 		"Disney_Hawkeye_S2_PizzaDog_2021"
 	],
@@ -11265,6 +11271,9 @@
 	"derletztedrache": [
 		"Disney_RayaandtheLastDragon_2021_Sisu"
 	],
+	"dermosensitive": [
+		"HandS_Dermo_Sensitive_Jun_2022"
+	],
 	"derprinzauszamunda2": [
 		"AmazonStudios_ComingtoAmerica_Feb_2021",
 		"AmazonStudios_ComingtoAmerica_Feb_2021_v2"
@@ -12711,7 +12720,11 @@
 		"DoritosBuffaloWings_2021"
 	],
 	"doritosdinamita": [
-		"DoritosDinamita_2021"
+		"DoritosDinamita_2021",
+		"Doritos_Dinamita_Jun_2022"
+	],
+	"doritosdinamitaflaminhot": [
+		"Doritos_Dinamita_Jun_2022"
 	],
 	"doritosdisruptorseries": [
 		"DoritosDisruptorSeries_2021"
@@ -14708,6 +14721,9 @@
 	"estamosready": [
 		"MLB_Teams_2021_NYY"
 	],
+	"estasniveldinamita": [
+		"Doritos_Dinamita_Jun_2022"
+	],
 	"esteeselcamino": [
 		"Disney_Mandalorian_S2_Helmet_all",
 		"Disney_Mandalorian_S2_Helmet"
@@ -14733,6 +14749,9 @@
 	],
 	"estuyo": [
 		"Twitter_Women_Celebration_Month_March_2022_add2"
+	],
+	"estásniveldinamita": [
+		"Doritos_Dinamita_Jun_2022"
 	],
 	"esオールスターズ": [
 		"ensters_music_JP_2020"
@@ -20326,12 +20345,18 @@
 	"hdms2": [
 		"HisDarkMaterials_S2_2020"
 	],
+	"headandshoulders": [
+		"HandS_Dermo_Sensitive_Jun_2022"
+	],
 	"headintheclouds": [
 		"88RISING_May_2021",
 		"88rising_Coachella_Apr_2022"
 	],
 	"headinthecloudsforever": [
 		"88rising_Coachella_Apr_2022"
+	],
+	"headshoulders": [
+		"HandS_Dermo_Sensitive_Jun_2022"
 	],
 	"headsupfacup": [
 		"EmiratesFACup2020_NewArtwork"
@@ -31785,7 +31810,8 @@
 	"mtvmiaw": [
 		"MTVMIAW2021",
 		"MTV_MIAW_2020",
-		"MIAW_BR_2020"
+		"MIAW_BR_2020",
+		"MTV_Miaw_Jun_2022"
 	],
 	"mtvmiaw2020": [
 		"MTV_MIAW_2020",
@@ -31794,6 +31820,9 @@
 	"mtvmiaw2021": [
 		"MTVMIAW2021",
 		"PinkCarpetMTVMIAW_2021"
+	],
+	"mtvmiaw2022": [
+		"MTV_Miaw_Jun_2022"
 	],
 	"mtvmiawtime": [
 		"PinkCarpetMTVMIAW_2021"
@@ -37797,7 +37826,8 @@
 	"premiosmtvmiaw": [
 		"MTVMIAW2021",
 		"MTV_MIAW_2020",
-		"MIAW_BR_2020"
+		"MIAW_BR_2020",
+		"MTV_Miaw_Jun_2022"
 	],
 	"prendilltuobotalcinema": [
 		"Disney_RonsGoneWrong_Duo_DUOKWs_2021"
