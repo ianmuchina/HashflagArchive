@@ -36869,6 +36869,11 @@
 		"startingTimestampMs": "1645207200000",
 		"endingTimestampMs": "1652896800000"
 	},
+	"Tezos_Round_2_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Tezos_Round_2_Jun_2022/Tezos_Round_2_Jun_2022.png",
+		"startingTimestampMs": "1656064800000",
+		"endingTimestampMs": "1664013600000"
+	},
 	"ThankYouARASHI_Dec_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ThankYouARASHI_Dec_2020/ThankYouARASHI_Dec_2020.png",
 		"startingTimestampMs": "1607608800000",
