@@ -7614,6 +7614,12 @@
 		"HennessyCanelo_Dec_2020_v2",
 		"HennessyCanelo_Dec_2020"
 	],
+	"canf": [
+		"CAF_WAFCON_Trophy_Jun_2022"
+	],
+	"canf2022": [
+		"CAF_WAFCON_Trophy_Jun_2022"
+	],
 	"canfessional": [
 		"Poise_May_2021"
 	],
@@ -29313,6 +29319,9 @@
 		"KPOP_NCT_2020_MARK",
 		"GOT7_member_MARK_May_2022"
 	],
+	"maroc2022": [
+		"CAF_WAFCON_Trophy_Jun_2022"
+	],
 	"maroon5": [
 		"M5BeautifulMistakes_2021",
 		"Maroon_5_Album_Emoji_2021"
@@ -31421,6 +31430,9 @@
 	],
 	"morningmakesyou": [
 		"MountainDewRise_April_2021"
+	],
+	"morocco2022": [
+		"CAF_WAFCON_Trophy_Jun_2022"
 	],
 	"morrisons": [
 		"MorrisonsChristmas_2021"
@@ -46094,6 +46106,9 @@
 	"teamblake": [
 		"NBC_TheVoice_Feb_2021"
 	],
+	"teambotswana": [
+		"CAF_WAFCON_Botswana_Jun_2022"
+	],
 	"teambovina": [
 		"ToddyVacaVerso_2020"
 	],
@@ -46107,13 +46122,18 @@
 		"WWE_Team_Brock_2022"
 	],
 	"teamburkinafaso": [
-		"Africa_Cup_of_Nations_BurkinaFaso_2022"
+		"Africa_Cup_of_Nations_BurkinaFaso_2022",
+		"CAF_WAFCON_BurkinaFaso_Jun_2022"
+	],
+	"teamburundi": [
+		"CAF_WAFCON_Burundi_Jun_2022"
 	],
 	"teamcam": [
 		"Amazon_Studios_Summer_I_Turned_Pretty_May_2022"
 	],
 	"teamcameroon": [
-		"Africa_Cup_of_Nations_Cameroon_2022"
+		"Africa_Cup_of_Nations_Cameroon_2022",
+		"CAF_WAFCON_Cameroon_Jun_2022"
 	],
 	"teamcanada": [
 		"CanadaOlympicParalympic_Tokyo_newdesign",
@@ -46348,7 +46368,8 @@
 		"Sony_Bullet_Train_Momomon_2022"
 	],
 	"teammorocco": [
-		"Africa_Cup_of_Nations_Morocco_2022"
+		"Africa_Cup_of_Nations_Morocco_2022",
+		"CAF_WAFCON_Morocco_Jun_2022"
 	],
 	"teamnam": [
 		"Paralympics_2021_NAM"
@@ -46370,7 +46391,8 @@
 		"NBC_TheVoice_Feb_2021"
 	],
 	"teamnigeria": [
-		"Africa_Cup_of_Nations_Nigeria_2022"
+		"Africa_Cup_of_Nations_Nigeria_2022",
+		"CAF_WAFCON_Nigeria_Jun_2022"
 	],
 	"teamoftomorrow": [
 		"Comcast_Olympics_2022",
@@ -46441,7 +46463,8 @@
 		"TeamSeas_2021"
 	],
 	"teamsenegal": [
-		"Africa_Cup_of_Nations_Senegal_2022"
+		"Africa_Cup_of_Nations_Senegal_2022",
+		"CAF_WAFCON_Senegal_Jun_2022"
 	],
 	"teamsg": [
 		"Paralympics_2021_SGP"
@@ -46464,7 +46487,8 @@
 	],
 	"teamsouthafrica": [
 		"ICC_Womens_Cricket_World_Cup_TeamSouthAfrica_2022",
-		"ICCT20WorldCup_2021_SAF"
+		"ICCT20WorldCup_2021_SAF",
+		"CAF_WAFCON_SouthAfrica_Jun_2022"
 	],
 	"teamsparrows": [
 		"Netflix_Umbrella_Academy_S3_Jun_2022"
@@ -46494,6 +46518,9 @@
 	"teamthegrayman": [
 		"Netflix_The_Gray_Man_RyanGosling_May_2022"
 	],
+	"teamtogo": [
+		"CAF_WAFCON_Togo_Jun_2022"
+	],
 	"teamtom": [
 		"TheVoiceUK_Dec_2020",
 		"TheVoiceUKreturn2020"
@@ -46502,7 +46529,11 @@
 		"TeamToyotaMX_2021"
 	],
 	"teamtunisia": [
-		"Africa_Cup_of_Nations_Tunisia_2022"
+		"Africa_Cup_of_Nations_Tunisia_2022",
+		"CAF_WAFCON_Tunisia_Jun_2022"
+	],
+	"teamuganda": [
+		"CAF_WAFCON_Uganda_Jun_2022"
 	],
 	"teamumbrella": [
 		"Netflix_Umbrella_Academy_S3_Jun_2022"
@@ -46541,6 +46572,9 @@
 	"teamyellowjackets": [
 		"YellowjacketsOnShowtime_Dec_2021",
 		"YellowjacketsOnShowtime_2021"
+	],
+	"teamzambia": [
+		"CAF_WAFCON_Zambia_Jun_2022"
 	],
 	"teamzimbabwe": [
 		"Africa_Cup_of_Nations_Zimbabwe_2022"
@@ -49480,6 +49514,12 @@
 	"totalenergiescafcl": [
 		"TotalCAFCL_Apr_2022"
 	],
+	"totalenergieswafcon": [
+		"CAF_WAFCON_Trophy_Jun_2022"
+	],
+	"totalenergieswafcon2022": [
+		"CAF_WAFCON_Trophy_Jun_2022"
+	],
 	"totems": [
 		"PrimeVideoFR_TOTEMS_2022"
 	],
@@ -52388,6 +52428,12 @@
 	],
 	"waad2022": [
 		"Autism_Acceptance_Month_2022"
+	],
+	"wafcon": [
+		"CAF_WAFCON_Trophy_Jun_2022"
+	],
+	"wafcon2022": [
+		"CAF_WAFCON_Trophy_Jun_2022"
 	],
 	"wahl2021": [
 		"GermanElection_BTW21"
@@ -56921,6 +56967,9 @@
 	"المستشفى_السعودي_الألماني": [
 		"FirstSaudiGermanHospital2020"
 	],
+	"المغرب2022": [
+		"CAF_WAFCON_Trophy_Jun_2022"
+	],
 	"الموسم_في_stcpay": [
 		"stcPayRiyadhSeasons2021"
 	],
@@ -57789,6 +57838,12 @@
 	],
 	"كأس_الأمم_الإفريقية2021": [
 		"Africa_Cup_of_Nations_Trophy_2022_v2"
+	],
+	"كأس_الأمم_الإفريقية_للسيدات": [
+		"CAF_WAFCON_Trophy_Jun_2022"
+	],
+	"كأس_الأمم_الإفريقية_للسيدات2022": [
+		"CAF_WAFCON_Trophy_Jun_2022"
 	],
 	"كأس_الأمير": [
 		"Qatar_Football_Association_Amirs_Cup_2022"
