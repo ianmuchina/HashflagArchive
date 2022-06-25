@@ -14,6 +14,11 @@
 		"startingTimestampMs": "1613728800000",
 		"endingTimestampMs": "1616381940000"
 	},
+	"100_years_football_Aus_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/100_years_football_Aus_Jun_2022/100_years_football_Aus_Jun_2022.png",
+		"startingTimestampMs": "1656115200000",
+		"endingTimestampMs": "1672510560000"
+	},
 	"11street_Hope_campaign_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/11street_Hope_campaign_Jun_2022/11street_Hope_campaign_Jun_2022.png",
 		"startingTimestampMs": "1656003600000",
@@ -41668,6 +41673,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/bloombergquicktake_2020_v2/bloombergquicktake_2020_v2.png",
 		"startingTimestampMs": "1605099600000",
 		"endingTimestampMs": "1609506000000"
+	},
+	"boltplus_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/boltplus_Jun_2022/boltplus_Jun_2022.png",
+		"startingTimestampMs": "1656115200000",
+		"endingTimestampMs": "1664064000000"
 	},
 	"btcturk_May_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/btcturk_May_2021/btcturk_May_2021.png",
