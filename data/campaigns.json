@@ -15174,6 +15174,11 @@
 		"startingTimestampMs": "1654844400000",
 		"endingTimestampMs": "1660028340000"
 	},
+	"Hulu_MGK_Life_in_Pink_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_MGK_Life_in_Pink_Jun_2022/Hulu_MGK_Life_in_Pink_Jun_2022.png",
+		"startingTimestampMs": "1656313200000",
+		"endingTimestampMs": "1664175540000"
+	},
 	"Hulu_Monsterland_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_Monsterland_2020/Hulu_Monsterland_2020.png",
 		"startingTimestampMs": "1600671660000",
@@ -38528,6 +38533,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/UFC_261_2021/UFC_261_2021.png",
 		"startingTimestampMs": "1618963200000",
 		"endingTimestampMs": "1619438400000"
+	},
+	"UFC_276_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UFC_276_Jun_2022/UFC_276_Jun_2022.png",
+		"startingTimestampMs": "1656313200000",
+		"endingTimestampMs": "1656917940000"
 	},
 	"UFC_FightIsland_2020_2_newdate": {
 		"assetUrl": "https://abs.twimg.com/hashflags/UFC_FightIsland_2020_2_newdate/UFC_FightIsland_2020_2_newdate.png",

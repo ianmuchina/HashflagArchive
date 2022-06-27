@@ -27157,6 +27157,12 @@
 	"lifehappensin5": [
 		"5Gum_Mars_Inc_Q2_2022"
 	],
+	"lifeinpink": [
+		"Hulu_MGK_Life_in_Pink_Jun_2022"
+	],
+	"lifeinpinkdoc": [
+		"Hulu_MGK_Life_in_Pink_Jun_2022"
+	],
 	"lifeinthefastlane": [
 		"USA_Network_Life_in_the_Fast_Lane_Jun_2022"
 	],
@@ -30423,6 +30429,15 @@
 	"mgk": [
 		"Machine_Gun_Kelly_Album_Emoji_2022",
 		"MGK_2020"
+	],
+	"mgkdoc": [
+		"Hulu_MGK_Life_in_Pink_Jun_2022"
+	],
+	"mgklifeinpink": [
+		"Hulu_MGK_Life_in_Pink_Jun_2022"
+	],
+	"mgkslifeinpink": [
+		"Hulu_MGK_Life_in_Pink_Jun_2022"
 	],
 	"mgl": [
 		"Olympics_Countries_2021_MGL_fix",
@@ -50679,6 +50694,9 @@
 	],
 	"ufc266": [
 		"UFC266_2021"
+	],
+	"ufc276": [
+		"UFC_276_Jun_2022"
 	],
 	"ufcfightisland": [
 		"UFCFightIsland2020",
