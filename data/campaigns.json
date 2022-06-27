@@ -6434,6 +6434,16 @@
 		"startingTimestampMs": "1615284000000",
 		"endingTimestampMs": "1619816340000"
 	},
+	"Chevrolet_Canada_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Chevrolet_Canada_Jun_2022/Chevrolet_Canada_Jun_2022.png",
+		"startingTimestampMs": "1656365520000",
+		"endingTimestampMs": "1663363920000"
+	},
+	"Chevrolet_Canada_Jun_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Chevrolet_Canada_Jun_2022_add/Chevrolet_Canada_Jun_2022_add.png",
+		"startingTimestampMs": "1656365520000",
+		"endingTimestampMs": "1663363920000"
+	},
 	"Chevrolet_Silverado_EV_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Chevrolet_Silverado_EV_2022/Chevrolet_Silverado_EV_2022.png",
 		"startingTimestampMs": "1641839400000",
