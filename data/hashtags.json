@@ -3956,6 +3956,12 @@
 	"aultimasessãodemúsica": [
 		"Milton_Nascimento_turns_80_2022"
 	],
+	"auntberu": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"auntberulars": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
 	"auntiemary": [
 		"Pepsi_Halftime_2022_MaryJ"
 	],
@@ -5255,6 +5261,12 @@
 	],
 	"bersamakitabisa": [
 		"WMHD_2021_add_2"
+	],
+	"beru": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"berulars": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
 	],
 	"besafeoutthere": [
 		"OnStar_BeSafeOutThere_holidays_2021"
@@ -17962,6 +17974,12 @@
 	"giornatasalutementale": [
 		"WMHD_2021"
 	],
+	"giovaneluke": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"giovanelukeskywalker": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
 	"giovanialcomando": [
 		"YouthLead_2020"
 	],
@@ -23450,6 +23468,12 @@
 	"jeuneleia": [
 		"Disneyplus_Obi_Wan_Kenobi_Leia_May_2022_add"
 	],
+	"jeuneluke": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"jeunelukeskywalker": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
 	"jeunesseenavant": [
 		"YouthLead_2020"
 	],
@@ -23875,6 +23899,12 @@
 	"journéenationalepeuplesautochtones": [
 		"IndigenousHistoryMonth_2021",
 		"Indigenous_History_Month_Canada_Jun_2022"
+	],
+	"jovenluke": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"jovenlukeskywalker": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
 	],
 	"joy": [
 		"KpopVIT_RedVelvet_2021_JOY"
@@ -28437,8 +28467,18 @@
 	"lukebryanmydirtroaddiary": [
 		"AmazonIMDbTV_LukeBryan"
 	],
+	"lukejovem": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
 	"lukeskywalker": [
-		"Disney_Maythe4th_2021_LukeSkywalker"
+		"Disney_Maythe4th_2021_LukeSkywalker",
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"lukeskywalkerjovem": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"lukeskywalkerstarwars": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
 	],
 	"lultimodrago": [
 		"Disney_RayaandtheLastDragon_2021_Sisu"
@@ -34647,6 +34687,12 @@
 	"oncecomesbeforetwice": [
 		"Kpop_VIT_TWICE_6thanniv_ONCEcomesbeforeTWICE"
 	],
+	"oncleowen": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
+	"oncleowenstarwars": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
 	"onclepietro": [
 		"DisneyWandavision_Pietro_2021"
 	],
@@ -35433,6 +35479,9 @@
 	],
 	"ovw": [
 		"Disney_LokiLaunch_Miss_Minutes_2021"
+	],
+	"owenlars": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
 	],
 	"owl2020": [
 		"OWLChamps_2020",
@@ -44550,6 +44599,9 @@
 		"Disney_Maythe4th_2021_StarWars",
 		"Disney_Super_Bowl_Storm_Trooper_2022"
 	],
+	"starwarsauntberu": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
 	"starwarsbadbatch": [
 		"Disney_TheBadBatch_Helmet_April_2021",
 		"Disney_TheBadBatch_Helmet_April_2021_ext"
@@ -44584,8 +44636,17 @@
 	"starwarslola": [
 		"Disneyplus_Obi_Wan_Kenobi_Lola_May_2022_v2"
 	],
+	"starwarslukeskywalker": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
 	"starwarsnedb": [
 		"Disneyplus_Obi_Wan_Kenobi_EP3_Droid_2022"
+	],
+	"starwarsoncleowen": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
+	"starwarsowenlars": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
 	],
 	"starwarsremesamala": [
 		"Disney_TheBadBatch_Helmet_April_2021",
@@ -44594,9 +44655,27 @@
 	"starwarstala": [
 		"Disneyplus_Obi_Wan_Kenobi_Tala_2022"
 	],
+	"starwarstanteberu": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
 	"starwarsthebadbatch": [
 		"Disney_TheBadBatch_Helmet_April_2021",
 		"Disney_TheBadBatch_Helmet_April_2021_ext"
+	],
+	"starwarstiaberu": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"starwarstíaberu": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"starwarstíoowen": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
+	"starwarsziaberu": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"starwarszioowen": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
 	],
 	"starzgettheapp": [
 		"PowerBookII_Ghost_Season1B_2020"
@@ -45977,6 +46056,12 @@
 	],
 	"tanngrisnir": [
 		"Disney_Thor2_Toothgnasher_2022"
+	],
+	"tanteberu": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"tanteberulars": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
 	],
 	"taongbahay": [
 		"StayHome_2020_ItalianAdd",
@@ -48884,6 +48969,12 @@
 	"ti": [
 		"TI_2020"
 	],
+	"tiaberu": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"tiaberulars": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
 	"ticettac": [
 		"Disneyplus_Rescue_Rangers_Apr_2022"
 	],
@@ -50530,6 +50621,18 @@
 		"Paralympics_Sports_2021_WheelchairTennis",
 		"Paralympics_Sports_2021_WheelchairBasketball"
 	],
+	"tíaberu": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"tíaberulars": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"tíoowen": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
+	"tíoowenstarwars": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
 	"tôemcasa": [
 		"StayHome_2020_ItalianAdd",
 		"StayHome_2020"
@@ -50901,6 +51004,12 @@
 	"uncleclifford": [
 		"PValley_PostPremiere_2020",
 		"P-Valley_May_2022"
+	],
+	"uncleowen": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
+	"uncleowenstarwars": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
 	],
 	"unclepietro": [
 		"DisneyWandavision_Pietro_2021"
@@ -55287,6 +55396,12 @@
 	"youngjusticeseason4": [
 		"DCFanDome2021_Oct_YoungJustice"
 	],
+	"youngluke": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"younglukeskywalker": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
 	"youngmoneyradio": [
 		"Apple_YoungMoneyRadio_2020"
 	],
@@ -55618,6 +55733,12 @@
 	"zhongli": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Zhongli"
 	],
+	"ziaberu": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"ziaberulars": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
 	"ziggy50listeningparty": [
 		"Bowie_Jun_2022_v2"
 	],
@@ -55646,6 +55767,12 @@
 	],
 	"zionwilliamson": [
 		"NBAAllStar_2021_players2"
+	],
+	"zioowen": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
+	"zioowenstarwars": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
 	],
 	"ziviizduse": [
 		"Disney_Joe_2020"
@@ -61977,6 +62104,9 @@
 	"オレレベー俺だけレベルアップな件": [
 		"Piccoma_Oreleve_June_2021"
 	],
+	"オーウェンラーズ": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
 	"オーディオテクニカ": [
 		"AudioTechnicaJP_XmasBox_2021"
 	],
@@ -62759,6 +62889,9 @@
 	"スターウォーズのnedb": [
 		"Disneyplus_Obi_Wan_Kenobi_EP3_Droid_2022"
 	],
+	"スターウォーズのオーウェンラーズ": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
 	"スターウォーズのコーリン": [
 		"Disneyplus_ObiWan_Roken_June_2022"
 	],
@@ -62774,8 +62907,17 @@
 	"スターウォーズのハジャエストリー": [
 		"Disneyplus_Obi_Wan_Kenobi_Haja_May_2022"
 	],
+	"スターウォーズのルークスカイウォーカー": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
 	"スターウォーズのローラ": [
 		"Disneyplus_Obi_Wan_Kenobi_Lola_May_2022_v2"
+	],
+	"スターウォーズの叔母ベルー": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"スターウォーズの叔父オーウェン": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
 	],
 	"スターウォーズバッドバッチ": [
 		"Disney_TheBadBatch_Helmet_April_2021_add",
@@ -64341,6 +64483,15 @@
 	"ベボスタ": [
 		"Com2us_gamevilBSS_jp"
 	],
+	"ベルー": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"ベルーおばさん": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"ベルーラーズ": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
 	"ペアーズ": [
 		"Xmasbox_C_2020_Eureka"
 	],
@@ -65026,6 +65177,9 @@
 	],
 	"ルルーシュ生誕祭": [
 		"GEASS_GR_JP_2021"
+	],
+	"ルークスカイウォーカー": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
 	],
 	"レイアオーガナ": [
 		"DisneyPlus_ObiWan_June_2022_Leia_Japan"
@@ -65989,6 +66143,12 @@
 	"双城之战观影派对": [
 		"Netflix_Arcane_2021_Launch_NEW_1"
 	],
+	"叔母のベルーラーズ": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"叔父のラーズ": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
 	"史上最大１００万本当たる": [
 		"KIRINichibanJapan_2021"
 	],
@@ -66415,6 +66575,12 @@
 	],
 	"幻書啟世錄": [
 		"Netease_akashabook_jp_July_2021"
+	],
+	"幼きルーク": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"幼きルークスカイウォーカー": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
 	],
 	"幼きレイア": [
 		"DisneyPlus_ObiWan_June_2022_Leia_Japan"
@@ -68903,6 +69069,12 @@
 		"KPOP_NCT_2020_P2_LUCAS",
 		"KPOP_NCT_2020_LUCAS"
 	],
+	"루크스카이워커": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"루크스카이워커스타워즈": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
 	"류진": [
 		"Kpop_VIT_ITZY_Sept_2021_RYUJIN",
 		"KPOP_ITZY_2020_RYUJIN",
@@ -69278,6 +69450,12 @@
 	"벚꽃축제": [
 		"CherryBlossom_2022",
 		"CherryBlossom_2021"
+	],
+	"베루": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"베루라스": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
 	],
 	"베이더": [
 		"Disneyplus_Obi_Wan_Kenobi_Darth_Vader_2022_v2"
@@ -69694,6 +69872,18 @@
 	"스타워즈롤라": [
 		"Disneyplus_Obi_Wan_Kenobi_Lola_May_2022_v2"
 	],
+	"스타워즈루크스카이워커": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"스타워즈오웬라스": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
+	"스타워즈오웬삼촌": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
+	"스타워즈큰어머니베루": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
 	"스타워즈탈라": [
 		"Disneyplus_Obi_Wan_Kenobi_Tala_2022"
 	],
@@ -70016,6 +70206,15 @@
 	"오영_박용우": [
 		"Wavv_ZNE_Tracer_4_2022"
 	],
+	"오웬라스": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
+	"오웬삼촌": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
+	"오웬삼촌스타워즈": [
+		"Disneyplus_Obi_Wan_Kenobi_UncleOwen_Jun_2022"
+	],
 	"오직티빙에서만": [
 		"Tving_Re-branding_Apr_2022"
 	],
@@ -70274,6 +70473,12 @@
 	"전웅": [
 		"KPOP_AB6IX_2021_cherry",
 		"AB6IX_members_May_2022"
+	],
+	"젊은루크": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"젊은루크스카이워커": [
+		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
 	],
 	"정글크루즈": [
 		"Disney_JungleCruise_Boat_2021"
@@ -70547,6 +70752,12 @@
 	],
 	"크리스마스": [
 		"Christmas_2020"
+	],
+	"큰어머니베루": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
+	],
+	"큰어머니베루라스": [
+		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
 	],
 	"클래시로얄": [
 		"Supercell_Korea_ClashRoyal_2020"
