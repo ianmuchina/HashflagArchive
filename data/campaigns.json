@@ -37814,6 +37814,11 @@
 		"startingTimestampMs": "1589511600000",
 		"endingTimestampMs": "1597244340000"
 	},
+	"Tour_de_France_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Tour_de_France_Jun_2022/Tour_de_France_Jun_2022.png",
+		"startingTimestampMs": "1656309600000",
+		"endingTimestampMs": "1659603600000"
+	},
 	"TourdeFrance_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/TourdeFrance_2021/TourdeFrance_2021.png",
 		"startingTimestampMs": "1624154400000",

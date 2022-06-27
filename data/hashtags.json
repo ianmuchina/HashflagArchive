@@ -25954,7 +25954,8 @@
 		"WashYourHands_2020_2021_ext_add"
 	],
 	"laveniravélo": [
-		"TourdeFrance_2021"
+		"TourdeFrance_2021",
+		"Tour_de_France_Jun_2022"
 	],
 	"lavesuasmãos": [
 		"WHO_SafeHands_2020",
@@ -26659,6 +26660,9 @@
 	],
 	"letoatreides": [
 		"DuneCharacter_2021_DukeLeto"
+	],
+	"letourdk": [
+		"Tour_de_France_Jun_2022"
 	],
 	"letsbeclear": [
 		"Sprite_Rituals_2021"
@@ -46110,6 +46114,12 @@
 	],
 	"tdf2021": [
 		"TourdeFrance_2021"
+	],
+	"tdf2022": [
+		"Tour_de_France_Jun_2022"
+	],
+	"tdff": [
+		"Tour_de_France_Jun_2022"
 	],
 	"tdfunited": [
 		"TDF_France_2020"
