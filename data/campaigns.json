@@ -20394,6 +20394,11 @@
 		"startingTimestampMs": "1637193600000",
 		"endingTimestampMs": "1638154740000"
 	},
+	"Libertadores_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Libertadores_Jun_2022/Libertadores_Jun_2022.png",
+		"startingTimestampMs": "1656298800000",
+		"endingTimestampMs": "1667271540000"
+	},
 	"Lidl_Christmas_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Lidl_Christmas_2020/Lidl_Christmas_2020.png",
 		"startingTimestampMs": "1604880000000",
@@ -36043,6 +36048,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Sudamericana_2021_ext/Sudamericana_2021_ext.png",
 		"startingTimestampMs": "1636934400000",
 		"endingTimestampMs": "1637812740000"
+	},
+	"Sudamericana_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sudamericana_Jun_2022/Sudamericana_Jun_2022.png",
+		"startingTimestampMs": "1656298800000",
+		"endingTimestampMs": "1667271540000"
 	},
 	"Sulamericana_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Sulamericana_2020/Sulamericana_2020.png",

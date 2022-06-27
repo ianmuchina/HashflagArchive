@@ -1570,7 +1570,8 @@
 		"XBOX_AoE4_2021"
 	],
 	"aglóriaédelas": [
-		"FemaleLibertadores_BR_2021"
+		"FemaleLibertadores_BR_2021",
+		"Libertadores_Jun_2022"
 	],
 	"agnesavizinha": [
 		"DisneyWandavision_Agnes_2021_Halloween",
@@ -18131,7 +18132,8 @@
 		"Libertadores_July_2021",
 		"FemaleLibertadores_BR_2021",
 		"LibertadoresFinal_2021",
-		"Libertadores_July_2021_ext"
+		"Libertadores_July_2021_ext",
+		"Libertadores_Jun_2022"
 	],
 	"gloriagroove": [
 		"Gloria_Groove_Feb_2022"
@@ -18150,7 +18152,8 @@
 	],
 	"glóriaeterna": [
 		"Libertadores_July_2021",
-		"Libertadores_July_2021_ext"
+		"Libertadores_July_2021_ext",
+		"Libertadores_Jun_2022"
 	],
 	"gma": [
 		"GoodMorningAmerica_Sept_2021",
@@ -18990,7 +18993,8 @@
 	],
 	"grandeconquista": [
 		"Sudamericana_2021_ext",
-		"Sudamericana_2021"
+		"Sudamericana_2021",
+		"Sudamericana_Jun_2022"
 	],
 	"grandeinquisidorsabredeluz": [
 		"Disneyplus_Obi_Wan_Kenobi_Lightsaber_2022"
@@ -25561,10 +25565,14 @@
 		"MLS2020_LA"
 	],
 	"lagloriaesdeellas": [
-		"FemaleLibertadores_BR_2021"
+		"FemaleLibertadores_BR_2021",
+		"Libertadores_Jun_2022"
 	],
 	"lagradarepsol": [
 		"RepsolMotogpMotorcycle_2021"
+	],
+	"lagranconquista": [
+		"Sudamericana_Jun_2022"
 	],
 	"lagrandeboucleelectrique": [
 		"Enedis_TDF_2021"
@@ -27052,10 +27060,12 @@
 		"Libertadores_2020",
 		"Libertadores_July_2021",
 		"LibertadoresFinal_2021",
-		"Libertadores_July_2021_ext"
+		"Libertadores_July_2021_ext",
+		"Libertadores_Jun_2022"
 	],
 	"libertadoresfem": [
-		"FemaleLibertadores_BR_2021"
+		"FemaleLibertadores_BR_2021",
+		"Libertadores_Jun_2022"
 	],
 	"libertàdistampa": [
 		"WorldPressFreedomDay_2021",
@@ -44997,7 +45007,8 @@
 	"sudamericana": [
 		"Sudamericana_2021_ext",
 		"Sudamericana_2021",
-		"Sulamericana_2020"
+		"Sulamericana_2020",
+		"Sudamericana_Jun_2022"
 	],
 	"suenalacampana": [
 		"MLB_Teams_2021_PHI",
