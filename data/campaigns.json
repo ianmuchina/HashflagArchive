@@ -959,6 +959,11 @@
 		"startingTimestampMs": "1647151200000",
 		"endingTimestampMs": "1655100000000"
 	},
+	"AMZ_MX_Prime_Day_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AMZ_MX_Prime_Day_Jun_2022/AMZ_MX_Prime_Day_Jun_2022.png",
+		"startingTimestampMs": "1656460800000",
+		"endingTimestampMs": "1657941900000"
+	},
 	"AMZ_RG_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AMZ_RG_May_2022/AMZ_RG_May_2022.png",
 		"startingTimestampMs": "1653332160000",
@@ -9988,6 +9993,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Doritos_Stranger_Things_May_2022/Doritos_Stranger_Things_May_2022.png",
 		"startingTimestampMs": "1652227200000",
 		"endingTimestampMs": "1656457200000"
+	},
+	"Doritos_Stranger_Things_May_2022_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Doritos_Stranger_Things_May_2022_extend/Doritos_Stranger_Things_May_2022_extend.png",
+		"startingTimestampMs": "1656457260000",
+		"endingTimestampMs": "1656889200000"
 	},
 	"Dortmund_BVB_in_Ghana_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Dortmund_BVB_in_Ghana_Jun_2022/Dortmund_BVB_in_Ghana_Jun_2022.png",
@@ -19681,6 +19691,11 @@
 	},
 	"LEC_Team_SKGaming_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LEC_Team_SKGaming_2022/LEC_Team_SKGaming_2022.png",
+		"startingTimestampMs": "1642150800000",
+		"endingTimestampMs": "1672556400000"
+	},
+	"LEC_Team_SKGaming_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LEC_Team_SKGaming_2022_v2/LEC_Team_SKGaming_2022_v2.png",
 		"startingTimestampMs": "1642150800000",
 		"endingTimestampMs": "1672556400000"
 	},
@@ -32439,6 +32454,11 @@
 		"startingTimestampMs": "1604966400000",
 		"endingTimestampMs": "1613001600000"
 	},
+	"Pride_in_London_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pride_in_London_Jun_2022/Pride_in_London_Jun_2022.png",
+		"startingTimestampMs": "1656460800000",
+		"endingTimestampMs": "1657407540000"
+	},
 	"PrimeDayShow21": {
 		"assetUrl": "https://abs.twimg.com/hashflags/PrimeDayShow21/PrimeDayShow21.png",
 		"startingTimestampMs": "1623196800000",
@@ -40623,6 +40643,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Westworld_Final_2020_rico_v2/Westworld_Final_2020_rico_v2.png",
 		"startingTimestampMs": "1588532400000",
 		"endingTimestampMs": "1596571200000"
+	},
+	"Whiskas_AU_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Whiskas_AU_Jun_2022/Whiskas_AU_Jun_2022.png",
+		"startingTimestampMs": "1656460800000",
+		"endingTimestampMs": "1664504880000"
 	},
 	"White_Claw_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/White_Claw_May_2022/White_Claw_May_2022.png",
