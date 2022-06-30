@@ -14034,6 +14034,11 @@
 		"startingTimestampMs": "1641873600000",
 		"endingTimestampMs": "1649649540000"
 	},
+	"HBO_Max_Rapsht_S1_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Max_Rapsht_S1_Jun_2022/HBO_Max_Rapsht_S1_Jun_2022.png",
+		"startingTimestampMs": "1656572460000",
+		"endingTimestampMs": "1659941940000"
+	},
 	"HBO_Max_The_Flight_Attendant_Annie_S2_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Max_The_Flight_Attendant_Annie_S2_2022_v2/HBO_Max_The_Flight_Attendant_Annie_S2_2022_v2.png",
 		"startingTimestampMs": "1648612800000",
@@ -15403,6 +15408,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_The_Dropout_Feb_2022/Hulu_The_Dropout_Feb_2022.png",
 		"startingTimestampMs": "1645430400000",
 		"endingTimestampMs": "1653289140000"
+	},
+	"Hulu_The_Orville_Icon_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_The_Orville_Icon_Jun_2022/Hulu_The_Orville_Icon_Jun_2022.png",
+		"startingTimestampMs": "1656572400000",
+		"endingTimestampMs": "1659077940000"
 	},
 	"Hulu_The_Orville_Robot_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_The_Orville_Robot_Jun_2022/Hulu_The_Orville_Robot_Jun_2022.png",
