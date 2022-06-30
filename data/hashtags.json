@@ -22101,6 +22101,9 @@
 	"imfc": [
 		"MLS2020_MTL"
 	],
+	"imfeeling2022": [
+		"TS_Red_2022_V3"
+	],
 	"imfeeling22taylorsversion": [
 		"TS20222"
 	],
@@ -22983,7 +22986,8 @@
 	],
 	"itsredseason": [
 		"TS20222",
-		"TSRed20211"
+		"TSRed20211",
+		"TS_Red_2022_V3"
 	],
 	"itsrickmastime": [
 		"Adult_Swim_Rickmas_2021"
@@ -39838,7 +39842,8 @@
 	"redtaylorsversion": [
 		"TS20222",
 		"TSRed2021",
-		"TSRed20211"
+		"TSRed20211",
+		"TS_Red_2022_V3"
 	],
 	"redv": [
 		"NRL_Team_AU_RedV_2022",
@@ -46275,7 +46280,8 @@
 		"Taylor_Swift_Lover_2020",
 		"TS_July_2020",
 		"TS_Dec_2020_swap",
-		"DP_FL_2020_TS_V2"
+		"DP_FL_2020_TS_V2",
+		"TS_Red_2022_V3"
 	],
 	"taylorswiftcityoflover": [
 		"Taylor_Swift_Lover_2020"
