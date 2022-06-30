@@ -6574,6 +6574,11 @@
 		"startingTimestampMs": "1605751200000",
 		"endingTimestampMs": "1613375940000"
 	},
+	"CocaCola_DARK_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CocaCola_DARK_Jun_2022/CocaCola_DARK_Jun_2022.png",
+		"startingTimestampMs": "1656565200000",
+		"endingTimestampMs": "1664514000000"
+	},
 	"CocaCola_KOZ_400_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CocaCola_KOZ_400_2021/CocaCola_KOZ_400_2021.png",
 		"startingTimestampMs": "1629727200000",
