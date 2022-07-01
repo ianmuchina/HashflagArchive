@@ -54728,7 +54728,8 @@
 	],
 	"worldseriesofpoker": [
 		"WSOPMainEvent_2021_extend",
-		"WSOPMainEvent_2021"
+		"WSOPMainEvent_2021",
+		"World_Series_of_Poker_Jul_2022"
 	],
 	"worldsmileday": [
 		"KP_Smile_2020"
@@ -54849,15 +54850,21 @@
 	],
 	"wsop": [
 		"WSOPMainEvent_2021_extend",
-		"WSOPMainEvent_2021"
+		"WSOPMainEvent_2021",
+		"World_Series_of_Poker_Jul_2022"
+	],
+	"wsopgoldbracelet": [
+		"World_Series_of_Poker_Jul_2022"
 	],
 	"wsopmainevent": [
 		"WSOPMainEvent_2021_extend",
-		"WSOPMainEvent_2021"
+		"WSOPMainEvent_2021",
+		"World_Series_of_Poker_Jul_2022"
 	],
 	"wsoponlinepoker": [
 		"WSOPMainEvent_2021_extend",
-		"WSOPMainEvent_2021"
+		"WSOPMainEvent_2021",
+		"World_Series_of_Poker_Jul_2022"
 	],
 	"wspd": [
 		"WorldSuicidePreventionDay_2021",
