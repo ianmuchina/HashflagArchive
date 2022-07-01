@@ -2784,6 +2784,11 @@
 		"startingTimestampMs": "1640995200000",
 		"endingTimestampMs": "1656633540000"
 	},
+	"AreYouIN_2022_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AreYouIN_2022_extend/AreYouIN_2022_extend.png",
+		"startingTimestampMs": "1656633600000",
+		"endingTimestampMs": "1672531140000"
+	},
 	"ArizonaWomensFinalFour2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ArizonaWomensFinalFour2021/ArizonaWomensFinalFour2021.png",
 		"startingTimestampMs": "1617109200000",
