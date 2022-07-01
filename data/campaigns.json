@@ -11404,6 +11404,11 @@
 		"startingTimestampMs": "1591336800000",
 		"endingTimestampMs": "1599199200000"
 	},
+	"FDJ_Tour_de_France_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FDJ_Tour_de_France_Jun_2022/FDJ_Tour_de_France_Jun_2022.png",
+		"startingTimestampMs": "1656706140000",
+		"endingTimestampMs": "1664568540000"
+	},
 	"FEHeros_8_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FEHeros_8_2020/FEHeros_8_2020.png",
 		"startingTimestampMs": "1597330800000",
