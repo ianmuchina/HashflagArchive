@@ -5264,6 +5264,11 @@
 		"startingTimestampMs": "1642474800000",
 		"endingTimestampMs": "1650769200000"
 	},
+	"CBLOL_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_Jul_2022/CBLOL_Jul_2022.png",
+		"startingTimestampMs": "1656644400000",
+		"endingTimestampMs": "1672542000000"
+	},
 	"CBLOL_KABUM_Season_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_KABUM_Season_2022/CBLOL_KABUM_Season_2022.png",
 		"startingTimestampMs": "1648198800000",
