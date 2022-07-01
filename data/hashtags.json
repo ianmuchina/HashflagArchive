@@ -980,7 +980,8 @@
 		"Masterchef_Argentina_Dec_2021"
 	],
 	"absarunyourcity": [
-		"Absa_Run_Your_City_Apr_2022"
+		"Absa_Run_Your_City_Apr_2022",
+		"Absa_Run_Your_City_July_2022"
 	],
 	"abschlussfeier": [
 		"Beijing_Paralympic_ClosingCeremony_2022"
@@ -41191,7 +41192,8 @@
 		"STARZ_RuntheWorld_2021"
 	],
 	"runyourcity": [
-		"Absa_Run_Your_City_Apr_2022"
+		"Absa_Run_Your_City_Apr_2022",
+		"Absa_Run_Your_City_July_2022"
 	],
 	"rupauliday": [
 		"OldNavy_RuPaulidays_2020"
@@ -54121,6 +54123,9 @@
 	],
 	"wildriftbr": [
 		"WildRiftBR_2021"
+	],
+	"wildrifticons": [
+		"Riot_Games_Wild_Rift_Icons_Jul_2022"
 	],
 	"wildtour": [
 		"CBLOL_Season_2022"
