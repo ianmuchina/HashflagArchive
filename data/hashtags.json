@@ -854,6 +854,9 @@
 		"Hulu_NinePerfectStrangers_2021_3",
 		"Hulu_NinePerfectStrangers_2021"
 	],
+	"_world": [
+		"Seventeen_Pledis_SECTOR17_Jul_2022"
+	],
 	"a24": [
 		"A24_EverythingEverywhereAllAtOnce_2021",
 		"A24_EEAAO_2_Apr_2022"
@@ -42068,6 +42071,9 @@
 	"secretsofthewhales": [
 		"DisneyNatGeo_SecretsoftheWhales_April_2021"
 	],
+	"sector17": [
+		"Seventeen_Pledis_SECTOR17_Jul_2022"
+	],
 	"securedthe": [
 		"WendysBiggieBag_2021"
 	],
@@ -42493,7 +42499,8 @@
 		"HYBE_Seventeen_Pledis_SVT_Mar_2022_v3",
 		"Seventeen_Pledis_SVT_Darling_Apr_2022",
 		"Seventeen_Pledis_SVT_Darling_Apr_2022_v2",
-		"SEVENTEEN_4th_Album_May_2022"
+		"SEVENTEEN_4th_Album_May_2022",
+		"Seventeen_Pledis_SECTOR17_Jul_2022"
 	],
 	"severance": [
 		"AppleTVPlus_Severance_2022",
@@ -45778,6 +45785,9 @@
 	],
 	"svt_rockwithyou": [
 		"SEVENTEEN_2021_Sep_add"
+	],
+	"svt_world": [
+		"Seventeen_Pledis_SECTOR17_Jul_2022"
 	],
 	"svu": [
 		"SVU_NBC_2020"
@@ -69974,7 +69984,8 @@
 		"HYBE_Seventeen_Pledis_SVT_Mar_2022_v3",
 		"Seventeen_Pledis_SVT_Darling_Apr_2022",
 		"Seventeen_Pledis_SVT_Darling_Apr_2022_v2",
-		"SEVENTEEN_4th_Album_May_2022"
+		"SEVENTEEN_4th_Album_May_2022",
+		"Seventeen_Pledis_SECTOR17_Jul_2022"
 	],
 	"세상을_오렌지빛으로": [
 		"UN_OrangeTheWorld_2021"
