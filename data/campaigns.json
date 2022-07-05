@@ -2289,6 +2289,11 @@
 		"startingTimestampMs": "1644220860000",
 		"endingTimestampMs": "1652079540000"
 	},
+	"Amazon_Music_Above_the_Line_Jun_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Music_Above_the_Line_Jun_2022/Amazon_Music_Above_the_Line_Jun_2022.png",
+		"startingTimestampMs": "1657004400000",
+		"endingTimestampMs": "1659337140000"
+	},
 	"Amazon_Music_XmasBox_2021_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Music_XmasBox_2021_v2/Amazon_Music_XmasBox_2021_v2.png",
 		"startingTimestampMs": "1638457200000",
@@ -15367,6 +15372,11 @@
 	"Hulu_OMITB_S2_Bloody_Mabel_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_OMITB_S2_Bloody_Mabel_Jun_2022/Hulu_OMITB_S2_Bloody_Mabel_Jun_2022.png",
 		"startingTimestampMs": "1654758000000",
+		"endingTimestampMs": "1662620340000"
+	},
+	"Hulu_OMITB_S2_Brazzos_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_OMITB_S2_Brazzos_Jul_2022/Hulu_OMITB_S2_Brazzos_Jul_2022.png",
+		"startingTimestampMs": "1657004400000",
 		"endingTimestampMs": "1662620340000"
 	},
 	"Hulu_OMITB_S2_Bunny_Jun_2022": {
@@ -32633,6 +32643,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Prime_Video_Roland_Garros_emoji/Prime_Video_Roland_Garros_emoji.png",
 		"startingTimestampMs": "1622481960000",
 		"endingTimestampMs": "1623671940000"
+	},
+	"Prime_Video_The_Boys_Butcher_Laser_Eyes_Jul_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Prime_Video_The_Boys_Butcher_Laser_Eyes_Jul_2022_v2/Prime_Video_The_Boys_Butcher_Laser_Eyes_Jul_2022_v2.png",
+		"startingTimestampMs": "1657004460000",
+		"endingTimestampMs": "1660723140000"
 	},
 	"Prime_Video_The_Boys_Butcher_Laser_Eyes_Jul_2022_v2_add": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Prime_Video_The_Boys_Butcher_Laser_Eyes_Jul_2022_v2_add/Prime_Video_The_Boys_Butcher_Laser_Eyes_Jul_2022_v2_add.png",
