@@ -62068,6 +62068,9 @@
 	"アーミヤ": [
 		"Arknights_Jan_2021"
 	],
+	"アーモンドチョコは明治": [
+		"Meiji_NutsChoco60th_Jul_2022_v2"
+	],
 	"イカリス": [
 		"Disney_Marvel_TheEternals_Ikaris_2021"
 	],
@@ -63929,7 +63932,8 @@
 		"Disney_BlackWidow_AvengersInfinityWarNatasha_2021"
 	],
 	"ナッツチョコは明治": [
-		"Meijinutschoco_2021"
+		"Meijinutschoco_2021",
+		"Meiji_NutsChoco60th_Jul_2022_v2"
 	],
 	"ナマ―リ": [
 		"Disney_RayaandtheLastDragon_2021_Namaari"
@@ -67159,6 +67163,12 @@
 	"明日方舟": [
 		"Arknight_6m_anniversary_2020"
 	],
+	"明治アーモンドチョコ60周年": [
+		"Meiji_NutsChoco60th_Jul_2022_v2"
+	],
+	"明治アーモンド誕生祭2022": [
+		"Meiji_NutsChoco60th_Jul_2022_v2"
+	],
 	"明治チョコレートのテーマ": [
 		"Meiji_Valentines_Day_2022",
 		"Meiji_Valentines_Day_2022_extend"
@@ -67814,6 +67824,9 @@
 	],
 	"祝ラピライリリース": [
 		"Rapis_Relights_Launch_2021"
+	],
+	"祝明治アーモンドチョコ60周年": [
+		"Meiji_NutsChoco60th_Jul_2022_v2"
 	],
 	"神殺しのゴア": [
 		"Disney_Thor2_Gor_2022"
