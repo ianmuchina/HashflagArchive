@@ -359,6 +359,11 @@
 		"startingTimestampMs": "1645689600000",
 		"endingTimestampMs": "1654153140000"
 	},
+	"ABC_Claim_To_Fame_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ABC_Claim_To_Fame_Jul_2022/ABC_Claim_To_Fame_Jul_2022.png",
+		"startingTimestampMs": "1657090860000",
+		"endingTimestampMs": "1662533940000"
+	},
 	"ABC_Dont_2020_1": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ABC_Dont_2020_1/ABC_Dont_2020_1.png",
 		"startingTimestampMs": "1591858800000",
