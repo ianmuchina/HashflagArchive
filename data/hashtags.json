@@ -57141,7 +57141,8 @@
 		"GEA_2021"
 	],
 	"أكاديمية_منشآت": [
-		"MonshaatSA_Sept_2021"
+		"MonshaatSA_Sept_2021",
+		"Generic_Monshaat_Jul_2022"
 	],
 	"أكسبو_2020_دبي": [
 		"expo2020_July21_add2"
@@ -57316,6 +57317,9 @@
 	],
 	"الأمن_الغذائي": [
 		"ArascoWafifeed_2020"
+	],
+	"الامتياز_التجاري": [
+		"Generic_Monshaat_Jul_2022"
 	],
 	"البحري": [
 		"OneBahri_220"
@@ -58533,7 +58537,8 @@
 		"Mrsool_June2020_v2"
 	],
 	"مركز_دعم_المنشآت": [
-		"Monshaat_generic_2021"
+		"Monshaat_generic_2021",
+		"Generic_Monshaat_Jul_2022"
 	],
 	"مس_مارول": [
 		"DisneyPlus_Ms_Marvel_May_2022_V2"
@@ -58621,7 +58626,8 @@
 	],
 	"منشآت": [
 		"MonshaatSA_Sept_2021",
-		"MonshaatSA_Mar_2022"
+		"MonshaatSA_Mar_2022",
+		"Generic_Monshaat_Jul_2022"
 	],
 	"منصة_إحسان": [
 		"Ehsan_Feb_2022",
@@ -58699,7 +58705,8 @@
 		"MaharaHR_April_2021"
 	],
 	"نوافذ_منشآت": [
-		"MonshaatSA_Sept_2021"
+		"MonshaatSA_Sept_2021",
+		"Generic_Monshaat_Jul_2022"
 	],
 	"نوروز": [
 		"nowruz2018_v4",
