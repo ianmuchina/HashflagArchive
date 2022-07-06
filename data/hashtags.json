@@ -4055,7 +4055,8 @@
 	"aut": [
 		"Paralympics_2021_AUT",
 		"Euro_UK_2021_AUT",
-		"Olympics_Countries_2021_AUT"
+		"Olympics_Countries_2021_AUT",
+		"Womens_Euros_AUT_2022"
 	],
 	"autismacceptance": [
 		"AutismAcceptanceMonth_2021",
@@ -5136,7 +5137,8 @@
 	"bel": [
 		"Euro_UK_2021_BEL",
 		"Paralympics_2021_BEL",
-		"Olympics_Countries_2021_BEL"
+		"Olympics_Countries_2021_BEL",
+		"Womens_Euros_BEL_2022"
 	],
 	"belair": [
 		"PeacockTV_Bel_Air_2022_v2",
@@ -11362,7 +11364,8 @@
 	"den": [
 		"Paralympics_2021_DEN",
 		"Euro_UK_2021_DEN",
-		"Olympics_Countries_2021_DEN"
+		"Olympics_Countries_2021_DEN",
+		"Womens_Euros_DEN_2022"
 	],
 	"denimandrhinestones": [
 		"CarrieUnderwood"
@@ -14493,7 +14496,8 @@
 	],
 	"eng": [
 		"Euro_UK_2021_ENG",
-		"ICCT20WorldCup_2021_ENG"
+		"ICCT20WorldCup_2021_ENG",
+		"Womens_Euros_ENG_2022"
 	],
 	"engarde": [
 		"CDL_Team_Legion_2022",
@@ -14788,7 +14792,8 @@
 	"esp": [
 		"Euro_UK_2021_ESP",
 		"Paralympics_2021_ESP",
-		"Olympics_Countries_2021_ESP"
+		"Olympics_Countries_2021_ESP",
+		"Womens_Euros_ESP_2022"
 	],
 	"espnplus": [
 		"ESPNPlus_2021_3_v2",
@@ -16057,7 +16062,8 @@
 	"fin": [
 		"Olympics_Countries_2021_FIN",
 		"Paralympics_2021_FIN",
-		"Euro_UK_2021_FIN"
+		"Euro_UK_2021_FIN",
+		"Womens_Euros_FIN_2022"
 	],
 	"finalafazenda": [
 		"AFazenda2020_ext"
@@ -16796,7 +16802,8 @@
 	"fra": [
 		"Olympics_Countries_2021_FRA",
 		"Euro_UK_2021_FRA",
-		"Paralympics_2021_FRA"
+		"Paralympics_2021_FRA",
+		"Womens_Euros_FRA_2022"
 	],
 	"fragranceinthaw": [
 		"miHoYoGenshinImpact1stAnniversary_2021_HuTao"
@@ -17670,7 +17677,8 @@
 	"ger": [
 		"Euro_UK_2021_GER",
 		"Olympics_Countries_2021_GER",
-		"Paralympics_2021_GER"
+		"Paralympics_2021_GER",
+		"Womens_Euros_GER_2022"
 	],
 	"gerahdirumah": [
 		"Sprite_GerahDiRumah_2021"
@@ -22864,7 +22872,8 @@
 		"Paralympics_2021_ISL",
 		"ISLTwitter_2020",
 		"ISLTwitter_2020_ext",
-		"Olympics_Countries_2021_ISL"
+		"Olympics_Countries_2021_ISL",
+		"Womens_Euros_ISL_2022"
 	],
 	"islavelde": [
 		"Cazzu_Album_May_2022"
@@ -22931,7 +22940,8 @@
 	"ita": [
 		"Paralympics_2021_ITA",
 		"Olympics_Countries_2021_ITA",
-		"Euro_UK_2021_ITA"
+		"Euro_UK_2021_ITA",
+		"Womens_Euros_ITA_2022"
 	],
 	"italiateam": [
 		"ItaliaTeam_2021"
@@ -33059,7 +33069,8 @@
 		"Olympics_Countries_2021_NED",
 		"ICCT20WorldCup_2021_NED",
 		"Paralympics_2021_NED",
-		"Euro_UK_2021_NED"
+		"Euro_UK_2021_NED",
+		"Womens_Euros_NED_2022"
 	],
 	"nedb": [
 		"Disneyplus_Obi_Wan_Kenobi_EP3_Droid_2022"
@@ -33747,6 +33758,9 @@
 	"ninokuni_zerstörer": [
 		"NetmarbleCorp_NinokuniGlobal_Engineer_Q2_2022"
 	],
+	"nir": [
+		"Womens_Euros_NIR_2022"
+	],
 	"nirvana": [
 		"NirvanaAnniversary2021"
 	],
@@ -33961,7 +33975,8 @@
 	],
 	"nor": [
 		"Olympics_Countries_2021_NOR",
-		"Paralympics_2021_NOR"
+		"Paralympics_2021_NOR",
+		"Womens_Euros_NOR_2022"
 	],
 	"norafromqueens": [
 		"ComedyCentralAwkwafina_2021"
@@ -37856,7 +37871,8 @@
 	"por": [
 		"Euro_UK_2021_POR",
 		"Paralympics_2021_POR",
-		"Olympics_Countries_2021_POR"
+		"Olympics_Countries_2021_POR",
+		"Womens_Euros_POR_2022"
 	],
 	"porcolumbus": [
 		"MLS2020_CLB",
@@ -45394,7 +45410,8 @@
 	"sui": [
 		"Paralympics_2021_SUI",
 		"Olympics_Countries_2021_SUI",
-		"Euro_UK_2021_SUI"
+		"Euro_UK_2021_SUI",
+		"Womens_Euros_SUI_2022"
 	],
 	"suicideprevention": [
 		"WorldSuicidePreventionDay_2020_add",
@@ -45847,7 +45864,8 @@
 	"swe": [
 		"Paralympics_2021_SWE",
 		"Olympics_Countries_2021_SWE_fix",
-		"Euro_UK_2021_SWE"
+		"Euro_UK_2021_SWE",
+		"Womens_Euros_SWE_2022"
 	],
 	"sweepitintospace": [
 		"DinosaurJr_April_2021"
