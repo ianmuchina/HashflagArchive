@@ -7092,7 +7092,8 @@
 		"Netmarble_BUS_2020"
 	],
 	"bts_xylitol": [
-		"LOTTE_XYLITOL_JP_2021_sep"
+		"LOTTE_XYLITOL_JP_2021_sep",
+		"LOTTE_BTS_XYLITOL_Jul_2022"
 	],
 	"btsarmy": [
 		"BTS_PERMISSION_TO_DANCE_ON_STAGE_SEOUL_BTSARMY_Mar_2022",
@@ -19556,6 +19557,9 @@
 		"Paralympics_2021_GUM",
 		"Olympics_Countries_2021_GUM"
 	],
+	"gumheart": [
+		"LOTTE_BTS_XYLITOL_Jul_2022"
+	],
 	"gumus": [
 		"Paralympics_Sports_2021_Silver"
 	],
@@ -23452,6 +23456,12 @@
 	],
 	"jaylenbrown": [
 		"NBAAllStar_2021_players2"
+	],
+	"jaypark": [
+		"Khiphop_Jay_Park_Jul_2022"
+	],
+	"jaypark_needtoknow": [
+		"Khiphop_Jay_Park_Jul_2022"
 	],
 	"jaysontatum": [
 		"NBAAllStar_2021_players2"
@@ -55362,7 +55372,8 @@
 		"Ajax_May_2022"
 	],
 	"xylitol": [
-		"LOTTE_XYLITOL_JP_2021_sep"
+		"LOTTE_XYLITOL_JP_2021_sep",
+		"LOTTE_BTS_XYLITOL_Jul_2022"
 	],
 	"yaac": [
 		"MarcusRashfordBook_2021"
@@ -62502,6 +62513,9 @@
 	"ガデテルユジン": [
 		"Yostar_GuardianTalesJP_Eugene_Jan_2022"
 	],
+	"ガムハート": [
+		"LOTTE_BTS_XYLITOL_Jul_2022"
+	],
 	"ガモーラ": [
 		"Disney_WhatIfLaunch_Gamora"
 	],
@@ -62544,7 +62558,8 @@
 		"Zespri_Aug_2020"
 	],
 	"キシリトール": [
-		"LOTTE_XYLITOL_JP_2021_sep"
+		"LOTTE_XYLITOL_JP_2021_sep",
+		"LOTTE_BTS_XYLITOL_Jul_2022"
 	],
 	"キシリトールガム": [
 		"LOTTE_XYLITOL_JP_2021_sep"
@@ -64732,7 +64747,8 @@
 		"LOTTEghanaJP2021_sep"
 	],
 	"プレモル": [
-		"SuntoryPremal_JP_Mar_2021"
+		"SuntoryPremal_JP_Mar_2021",
+		"Suntory_Pre-mal_JP_Jul_2022"
 	],
 	"プロスピa": [
 		"prospiA_PR_2020"
@@ -66007,6 +66023,12 @@
 		"WorldRedCrossDay_May_2021",
 		"World_Red_Cross_and_Red_Crescent_Day_2022"
 	],
+	"世界陸上": [
+		"TBS_World_Athletics_Championships_Oregon_Jul_2022"
+	],
+	"世界陸上オレゴン": [
+		"TBS_World_Athletics_Championships_Oregon_Jul_2022"
+	],
 	"世界難民の日": [
 		"WorldRefugeeDay_2021",
 		"World_Refugee_Day_2022"
@@ -66421,6 +66443,9 @@
 		"KIRIN_Gogo_Tea_Japan_Feb_2022",
 		"KIRIN_gogotealaunch_Japan2021",
 		"KIRIN_Gogo_Tea_Muto_v2_Japan_2022"
+	],
+	"半沢直樹コラボ企画": [
+		"Suntory_Pre-mal_JP_Jul_2022"
 	],
 	"卓球": [
 		"Olympics_2021_Sports_TableTennis"
@@ -68048,6 +68073,9 @@
 	],
 	"織姫": [
 		"Tanabata_Starfestival_2020"
+	],
+	"織田裕二が熱すぎる": [
+		"TBS_World_Athletics_Championships_Oregon_Jul_2022"
 	],
 	"红十字日": [
 		"WorldRedCrossDay_May_2021_add2"
@@ -69702,6 +69730,12 @@
 	"박우진": [
 		"KPOP_AB6IX_2021_cherry",
 		"AB6IX_members_May_2022"
+	],
+	"박재범": [
+		"Khiphop_Jay_Park_Jul_2022"
+	],
+	"박재범_needtoknow": [
+		"Khiphop_Jay_Park_Jul_2022"
 	],
 	"박지훈": [
 		"ParkJihoon_2020_v2",
