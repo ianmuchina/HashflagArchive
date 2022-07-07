@@ -974,6 +974,11 @@
 		"startingTimestampMs": "1656460800000",
 		"endingTimestampMs": "1657941900000"
 	},
+	"AMZ_MX_Prime_Day_Jun_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AMZ_MX_Prime_Day_Jun_2022_add/AMZ_MX_Prime_Day_Jun_2022_add.png",
+		"startingTimestampMs": "1657229400000",
+		"endingTimestampMs": "1657941900000"
+	},
 	"AMZ_RG_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AMZ_RG_May_2022/AMZ_RG_May_2022.png",
 		"startingTimestampMs": "1653332160000",
