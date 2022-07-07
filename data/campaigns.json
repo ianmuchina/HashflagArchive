@@ -20499,6 +20499,11 @@
 		"startingTimestampMs": "1618579260000",
 		"endingTimestampMs": "1618924860000"
 	},
+	"Legion_Launch_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Legion_Launch_Jul_2022/Legion_Launch_Jul_2022.png",
+		"startingTimestampMs": "1657211520000",
+		"endingTimestampMs": "1665160320000"
+	},
 	"LennonAnniversary_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LennonAnniversary_2020/LennonAnniversary_2020.png",
 		"startingTimestampMs": "1602054060000",
@@ -38061,6 +38066,11 @@
 	},
 	"Toronto_Caribbean_Carnival_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Toronto_Caribbean_Carnival_Jul_2022/Toronto_Caribbean_Carnival_Jul_2022.png",
+		"startingTimestampMs": "1657127760000",
+		"endingTimestampMs": "1661966160000"
+	},
+	"Toronto_Caribbean_Carnival_Jul_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Toronto_Caribbean_Carnival_Jul_2022_v2/Toronto_Caribbean_Carnival_Jul_2022_v2.png",
 		"startingTimestampMs": "1657127760000",
 		"endingTimestampMs": "1661966160000"
 	},

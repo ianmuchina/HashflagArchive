@@ -5157,7 +5157,8 @@
 		"PeacockTV_Bel_Air_2022_v2"
 	],
 	"belegiondary": [
-		"LenovoLegionLaunch_2020"
+		"LenovoLegionLaunch_2020",
+		"Legion_Launch_Jul_2022"
 	],
 	"beliamemimpin": [
 		"YouthLead_2020"
@@ -26732,7 +26733,14 @@
 		"LennonAnniversary_2020"
 	],
 	"lenovolegion": [
-		"LenovoLegionLaunch_2020"
+		"LenovoLegionLaunch_2020",
+		"Legion_Launch_Jul_2022"
+	],
+	"lenovolegion2022": [
+		"Legion_Launch_Jul_2022"
+	],
+	"lenovolegionindia": [
+		"Legion_Launch_Jul_2022"
 	],
 	"lenovoonsuzolmuyo": [
 		"LenovoTurkiye_2020",
@@ -34886,7 +34894,8 @@
 		"AME_Pride_Jun_2022_v2"
 	],
 	"onderoadagain": [
-		"Toronto_Caribbean_Carnival_Jul_2022"
+		"Toronto_Caribbean_Carnival_Jul_2022",
+		"Toronto_Caribbean_Carnival_Jul_2022_v2"
 	],
 	"one": [
 		"KPOP_VIT_ASTRO2021"
@@ -46768,7 +46777,8 @@
 		"NBC_TheVoice_Feb_2021"
 	],
 	"teamlegion": [
-		"LenovoLegionLaunch_2020"
+		"LenovoLegionLaunch_2020",
+		"Legion_Launch_Jul_2022"
 	],
 	"teamlemon": [
 		"Sony_Bullet_Train_BTH_LEMON_2022"
@@ -49677,7 +49687,8 @@
 		"Guinness_Q1_Feb_2022_add"
 	],
 	"tocarnival2022": [
-		"Toronto_Caribbean_Carnival_Jul_2022"
+		"Toronto_Caribbean_Carnival_Jul_2022",
+		"Toronto_Caribbean_Carnival_Jul_2022_v2"
 	],
 	"todaluzafronta": [
 		"Release_Felipe_Ret_Jun_2022"
@@ -49961,7 +49972,8 @@
 		"torikellychristmas_2020"
 	],
 	"torontocarnival2022": [
-		"Toronto_Caribbean_Carnival_Jul_2022"
+		"Toronto_Caribbean_Carnival_Jul_2022",
+		"Toronto_Caribbean_Carnival_Jul_2022_v2"
 	],
 	"toroymoi": [
 		"Toro_Y_Moi_Album_Emoji_2022"
