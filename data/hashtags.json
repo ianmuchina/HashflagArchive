@@ -196,7 +196,8 @@
 		"PenarolBirthday_2021"
 	],
 	"14juillet": [
-		"FranceBastilleDay2021"
+		"FranceBastilleDay2021",
+		"France_Bastille_Day_2022"
 	],
 	"150thopen": [
 		"The_Open_Jul_2022"
@@ -4698,7 +4699,8 @@
 		"Paralympics_Sports_2021_WheelchairBasketball"
 	],
 	"bastilleday": [
-		"FranceBastilleDay2021"
+		"FranceBastilleDay2021",
+		"France_Bastille_Day_2022"
 	],
 	"bastillegmtf": [
 		"Bastille_Feb_2022"
@@ -15871,7 +15873,8 @@
 		"AniversarioAmericanas_BR_2021"
 	],
 	"fetenationale": [
-		"FranceBastilleDay2021"
+		"FranceBastilleDay2021",
+		"France_Bastille_Day_2022"
 	],
 	"fever_part_1": [
 		"KPOP_ATEEZ_FEVER_Part_1"
@@ -17265,7 +17268,8 @@
 		"St_Patricks_Day_2022"
 	],
 	"fêtenationale": [
-		"FranceBastilleDay2021"
+		"FranceBastilleDay2021",
+		"France_Bastille_Day_2022"
 	],
 	"förnaturen": [
 		"WorldEnvironmentDay_2021",
@@ -36309,6 +36313,9 @@
 		"ParamountPlus_2021",
 		"ParamountPlus_2021_ext",
 		"Paramountplus_Mountain_of_Movies_Rebrand_2022"
+	],
+	"paramountplusuk": [
+		"Paramount_Plus_UK_Jul_2022"
 	],
 	"paranordic": [
 		"Beijing_Paralympic_ParaNordic_2022"
