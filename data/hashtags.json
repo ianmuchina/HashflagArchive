@@ -2350,6 +2350,9 @@
 	"amazoneidsale": [
 		"AmazonKSA_Mar_2022"
 	],
+	"amazonfreevee": [
+		"Freevee_Rebrand_Jul_2022"
+	],
 	"amazongifts": [
 		"AmazonXCMHoliday2021_EpicDealsAmazon"
 	],
@@ -15705,6 +15708,9 @@
 	],
 	"feedthedream": [
 		"SobeysOlympic_2021"
+	],
+	"feelfreeto": [
+		"Freevee_Rebrand_Jul_2022"
 	],
 	"feelin_like": [
 		"CUBE_ent_PENTAGON_Comeback_Jan_2022"
@@ -43883,13 +43889,19 @@
 	"solaropposites": [
 		"SolarOpposites_2021",
 		"Hulu_SolarOpposites_S2",
-		"Hulu_SolarOpposites_2020"
+		"Hulu_SolarOpposites_2020",
+		"Hulu_Solar_Opposites_S3_Jul_2022"
 	],
 	"solaroppositeshulu": [
-		"Hulu_SolarOpposites_2020"
+		"Hulu_SolarOpposites_2020",
+		"Hulu_Solar_Opposites_S3_Jul_2022"
 	],
 	"solaroppositesonhulu": [
-		"Hulu_SolarOpposites_2020"
+		"Hulu_SolarOpposites_2020",
+		"Hulu_Solar_Opposites_S3_Jul_2022"
+	],
+	"solaroppositesseason3": [
+		"Hulu_Solar_Opposites_S3_Jul_2022"
 	],
 	"soldadodelinvierno": [
 		"Disney_FalconandWinterSoldier_2021_WS",
@@ -48613,6 +48625,9 @@
 	],
 	"theprotege": [
 		"Lionsgate_TheProtege_2021"
+	],
+	"thepupa": [
+		"Hulu_Solar_Opposites_S3_Jul_2022"
 	],
 	"thepurge": [
 		"TheForeverPurge_2021"
