@@ -10734,6 +10734,11 @@
 		"startingTimestampMs": "1626287700000",
 		"endingTimestampMs": "1627497300000"
 	},
+	"Eid_Al_Adha_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Eid_Al_Adha_Jul_2022/Eid_Al_Adha_Jul_2022.png",
+		"startingTimestampMs": "1657311360000",
+		"endingTimestampMs": "1658520960000"
+	},
 	"ElRetador_MX_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ElRetador_MX_2021/ElRetador_MX_2021.png",
 		"startingTimestampMs": "1629036000000",
@@ -14478,6 +14483,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Hajj_2021/Hajj_2021.png",
 		"startingTimestampMs": "1626371040000",
 		"endingTimestampMs": "1627753440000"
+	},
+	"Hajj_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hajj_Jul_2022/Hajj_Jul_2022.png",
+		"startingTimestampMs": "1657311360000",
+		"endingTimestampMs": "1658520960000"
 	},
 	"Halloween2021_BH1": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Halloween2021_BH1/Halloween2021_BH1.png",
