@@ -15708,6 +15708,9 @@
 	"feartwd": [
 		"TWD_Premiere_2020"
 	],
+	"fecwc": [
+		"FIFAe_Finals_FeCWC_2022"
+	],
 	"feedthedream": [
 		"SobeysOlympic_2021"
 	],
@@ -15815,6 +15818,9 @@
 	"femizid": [
 		"StopViolenceAgainstWomen_2020"
 	],
+	"fenc": [
+		"FIFAe_Finals_FeNC_2022"
+	],
 	"fencing": [
 		"Olympics_2021_Sports_Fencing",
 		"Paralympics_Sports_2021_WheelchairFencing"
@@ -15881,6 +15887,9 @@
 	],
 	"feverignite": [
 		"WNBA_Season_IndianaFever_2022"
+	],
+	"fewc": [
+		"FIFAe_Finals_FeWC_2022"
 	],
 	"feを振り返る": [
 		"JPEN_Emoji_FE_Heros_2020"
@@ -16003,6 +16012,15 @@
 	],
 	"fifae": [
 		"FIFA_eFootball_2020"
+	],
+	"fifaeclubworldcup": [
+		"FIFAe_Finals_FeCWC_2022"
+	],
+	"fifaenationscup": [
+		"FIFAe_Finals_FeNC_2022"
+	],
+	"fifaeworldcup": [
+		"FIFAe_Finals_FeWC_2022"
 	],
 	"fifarabcup": [
 		"FIFA_Arab_Cup_FIFAemblem_2021"
@@ -62448,7 +62466,11 @@
 		"Xmasbox_C_2020_SquareEnix"
 	],
 	"オリアカ": [
-		"Alibaba_Games_Oriaka_jp_Launch_Apr_2022"
+		"Alibaba_Games_Oriaka_jp_Launch_Apr_2022",
+		"Alibaba_Games_Oriaka_jp_Connect_Jul_2022"
+	],
+	"オリアカ100日おめでとう": [
+		"Alibaba_Games_Oriaka_jp_Connect_Jul_2022"
 	],
 	"オリアカへ旅に出よう": [
 		"Alibaba_Games_Oriaka_jp_Launch_Apr_2022"
@@ -62456,11 +62478,15 @@
 	"オリアカ創作祭": [
 		"Alibaba_Games_Oriaka_jp_Launch_Apr_2022"
 	],
+	"オリアカ夏祭り": [
+		"Alibaba_Games_Oriaka_jp_Connect_Jul_2022"
+	],
 	"オリアカ赤兎塾": [
 		"Alibaba_Games_Oriaka_jp_Launch_Apr_2022"
 	],
 	"オリエント・アルカディア": [
-		"Alibaba_Games_Oriaka_jp_Launch_Apr_2022"
+		"Alibaba_Games_Oriaka_jp_Launch_Apr_2022",
+		"Alibaba_Games_Oriaka_jp_Connect_Jul_2022"
 	],
 	"オリンピック": [
 		"Olympics_2021_Laurier_"
@@ -67557,6 +67583,9 @@
 	],
 	"極主夫道": [
 		"Gokushufudo_2021"
+	],
+	"楼蘭ミステリー": [
+		"Alibaba_Games_Oriaka_jp_Connect_Jul_2022"
 	],
 	"楽しいクワンザを": [
 		"Kwanzaa_2020"

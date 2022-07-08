@@ -1839,6 +1839,11 @@
 		"startingTimestampMs": "1631836800000",
 		"endingTimestampMs": "1639699200000"
 	},
+	"Alibaba_Games_Oriaka_jp_Connect_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Alibaba_Games_Oriaka_jp_Connect_Jul_2022/Alibaba_Games_Oriaka_jp_Connect_Jul_2022.png",
+		"startingTimestampMs": "1657292400000",
+		"endingTimestampMs": "1665241200000"
+	},
 	"Alibaba_Games_Oriaka_jp_Launch_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Alibaba_Games_Oriaka_jp_Launch_Apr_2022/Alibaba_Games_Oriaka_jp_Launch_Apr_2022.png",
 		"startingTimestampMs": "1649430000000",
@@ -11508,6 +11513,21 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/FIFA_eFootball_2020/FIFA_eFootball_2020.png",
 		"startingTimestampMs": "1602662400000",
 		"endingTimestampMs": "1609484400000"
+	},
+	"FIFAe_Finals_FeCWC_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FIFAe_Finals_FeCWC_2022/FIFAe_Finals_FeCWC_2022.png",
+		"startingTimestampMs": "1657292400000",
+		"endingTimestampMs": "1661925600000"
+	},
+	"FIFAe_Finals_FeNC_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FIFAe_Finals_FeNC_2022/FIFAe_Finals_FeNC_2022.png",
+		"startingTimestampMs": "1657292400000",
+		"endingTimestampMs": "1661925600000"
+	},
+	"FIFAe_Finals_FeWC_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FIFAe_Finals_FeWC_2022/FIFAe_Finals_FeWC_2022.png",
+		"startingTimestampMs": "1657292400000",
+		"endingTimestampMs": "1661925600000"
 	},
 	"FNBBrandLove_v2_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FNBBrandLove_v2_2021/FNBBrandLove_v2_2021.png",
