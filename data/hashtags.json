@@ -3560,6 +3560,9 @@
 	"askjacksonwang": [
 		"KPOP_JacksonWang_2020"
 	],
+	"askjamesbay": [
+		"JamesBay2022"
+	],
 	"askjermandchels": [
 		"JeremyChelsea_2021"
 	],
@@ -4613,6 +4616,9 @@
 		"Nicki_Minaj_DWHAP_2022_Emoji",
 		"NickiMinajPinkprintAnniversary2020",
 		"Nicki_Minaj_Mixtape_2021_V2"
+	],
+	"barclayswsl": [
+		"WSL_Jul_2022"
 	],
 	"bardem": [
 		"DuneCharacter_2021_Stilga"
@@ -8207,6 +8213,9 @@
 	"centralparktv": [
 		"Apple_CentralPark_MusicNote2",
 		"CentralParkTV_AppleTV_2020"
+	],
+	"centrecourt100": [
+		"Wimbledon_Centurion_Jul_2022"
 	],
 	"ceo2020": [
 		"CEO_2020"
@@ -20678,6 +20687,9 @@
 	"hellmannstackletracker": [
 		"Hellmanns_Super_Bowl_2022"
 	],
+	"hello": [
+		"Sheen_test"
+	],
 	"hello2021": [
 		"NewYearsRockinEve2020"
 	],
@@ -23338,6 +23350,12 @@
 	],
 	"jamesarthur": [
 		"JamesArthur_2021"
+	],
+	"jamesbay": [
+		"JamesBay2022"
+	],
+	"jamesbayleap": [
+		"JamesBay2022"
 	],
 	"jamesbeard": [
 		"JamesBeardFoundationAwards2020"
@@ -26477,6 +26495,9 @@
 		"Disney_Mulan_2020_Flight2_v2",
 		"Disney_Mulan_2020",
 		"Disney_Mulan_2020_flight2"
+	],
+	"leap": [
+		"JamesBay2022"
 	],
 	"leap22": [
 		"LEAP_Jan_2022"
@@ -54302,7 +54323,8 @@
 		"HBO_Max_DMZ_Wilson_2022"
 	],
 	"wimbledon": [
-		"Wimbledon_2021"
+		"Wimbledon_2021",
+		"Wimbledon_Jul_2022"
 	],
 	"wimbledonthing": [
 		"Wimbledon_2021_hearts"
