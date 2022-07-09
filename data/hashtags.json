@@ -7657,6 +7657,9 @@
 	"candycrushsaga": [
 		"CandyCrushAllStars_2021"
 	],
+	"candydigital": [
+		"Candy_Digital_Play_of_the_Day_Jul_2022"
+	],
 	"candydrip": [
 		"Lucky_Daye_Mar_2022"
 	],
@@ -7678,8 +7681,17 @@
 		"Candyman_Aug_2021",
 		"Candyman_Aug_2021_add"
 	],
+	"candymlb": [
+		"Candy_Digital_Play_of_the_Day_Jul_2022"
+	],
 	"candyonhulu": [
 		"Hulu_Candy_Apr_2022"
+	],
+	"candyplayoftheday": [
+		"Candy_Digital_Play_of_the_Day_Jul_2022"
+	],
+	"candypotd": [
+		"Candy_Digital_Play_of_the_Day_Jul_2022"
 	],
 	"candysugarpop": [
 		"ASTRO_album_promotion_May_2022"
@@ -31368,6 +31380,9 @@
 	"mladivode": [
 		"YouthLead_2020"
 	],
+	"mlbplayoftheday": [
+		"Candy_Digital_Play_of_the_Day_Jul_2022"
+	],
 	"mlbtheshow": [
 		"Sony_PlayStation_MLB_The_Show_2022",
 		"MLBTheSho_2021"
@@ -42765,7 +42780,8 @@
 		"AmazonStudios_WheelOfTime_2021_TheFade"
 	],
 	"shadowsfx": [
-		"FX_Shadows_S4_2021"
+		"FX_Shadows_S4_2021",
+		"FX_Shadows_S4_Jul_2022"
 	],
 	"shahidvip": [
 		"ShahidVOD_Ramadan_2022"
@@ -54143,7 +54159,8 @@
 		"BuzzfeedWhat2Watch_Season2"
 	],
 	"whatwedointheshadows": [
-		"FX_Shadows_S4_2021"
+		"FX_Shadows_S4_2021",
+		"FX_Shadows_S4_Jul_2022"
 	],
 	"whatwouldpoptartsdo": [
 		"Pop_Tarts_Q1_2022",
@@ -55178,7 +55195,8 @@
 		"USEN_EVENT_STATIC_72x72_BAN_BRAND_PREE_NA_NA_NA_NA_NA_TWCE_GLD"
 	],
 	"wwdits": [
-		"FX_Shadows_S4_2021"
+		"FX_Shadows_S4_2021",
+		"FX_Shadows_S4_Jul_2022"
 	],
 	"wwebios": [
 		"AENWWE_Docuseries_2021"
