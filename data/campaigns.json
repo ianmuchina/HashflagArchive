@@ -40194,6 +40194,11 @@
 		"startingTimestampMs": "1615798800000",
 		"endingTimestampMs": "1634342400000"
 	},
+	"WNBA_All_Star_Weekend_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WNBA_All_Star_Weekend_2022/WNBA_All_Star_Weekend_2022.png",
+		"startingTimestampMs": "1657371600000",
+		"endingTimestampMs": "1657598400000"
+	},
 	"WNBA_Season_AtlantaDream_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WNBA_Season_AtlantaDream_2022/WNBA_Season_AtlantaDream_2022.png",
 		"startingTimestampMs": "1650636000000",
