@@ -28444,9 +28444,16 @@
 		"CBS_LoveIsland_S2",
 		"ITV_Love_Island_May_2022"
 	],
+	"loveislandpeacock": [
+		"Peacock_Love_Island_US_Jul_2022"
+	],
+	"loveislandus": [
+		"Peacock_Love_Island_US_Jul_2022"
+	],
 	"loveislandusa": [
 		"LoveIslandUSA_2021",
-		"CBS_LoveIsland_S2"
+		"CBS_LoveIsland_S2",
+		"Peacock_Love_Island_US_Jul_2022"
 	],
 	"loveislove": [
 		"AlwaysProud_June_2021",
@@ -33087,6 +33094,9 @@
 	"nbo21": [
 		"NationalBankOpen_2021"
 	],
+	"nbo22": [
+		"National_Bank_Open_Jul_2022"
+	],
 	"nca": [
 		"Paralympics_2021_NCA",
 		"NCA_Dec_2020_v2",
@@ -34611,6 +34621,9 @@
 	],
 	"obn21": [
 		"NationalBankOpen_2021"
+	],
+	"obn22": [
+		"National_Bank_Open_Jul_2022"
 	],
 	"obois10": [
 		"Davido10YearAnniversary_2021_1"
@@ -36811,8 +36824,14 @@
 	"peacockeggcam": [
 		"NBCU_Peacock2020_v3"
 	],
+	"peacockloveisland": [
+		"Peacock_Love_Island_US_Jul_2022"
+	],
 	"peacocktv": [
 		"NBCU_Peacock2020_v3"
+	],
+	"peacockusa": [
+		"Peacock_Love_Island_US_Jul_2022"
 	],
 	"peakstreaming": [
 		"ParamountPlus_2021",

@@ -26989,6 +26989,11 @@
 		"startingTimestampMs": "1632488400000",
 		"endingTimestampMs": "1635944400000"
 	},
+	"National_Bank_Open_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/National_Bank_Open_Jul_2022/National_Bank_Open_Jul_2022.png",
+		"startingTimestampMs": "1657512000000",
+		"endingTimestampMs": "1660622340000"
+	},
 	"National_Trust_Blossom_Mar_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/National_Trust_Blossom_Mar_2022/National_Trust_Blossom_Mar_2022.png",
 		"startingTimestampMs": "1648364400000",
@@ -31993,6 +31998,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Peacock_Girls5Eva_2021/Peacock_Girls5Eva_2021.png",
 		"startingTimestampMs": "1620212400000",
 		"endingTimestampMs": "1625050800000"
+	},
+	"Peacock_Love_Island_US_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Peacock_Love_Island_US_Jul_2022/Peacock_Love_Island_US_Jul_2022.png",
+		"startingTimestampMs": "1657512000000",
+		"endingTimestampMs": "1665460800000"
 	},
 	"Peacock_ParisinLove_Nov_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Peacock_ParisinLove_Nov_2021/Peacock_ParisinLove_Nov_2021.png",
