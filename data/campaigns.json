@@ -6804,6 +6804,11 @@
 		"startingTimestampMs": "1610636400000",
 		"endingTimestampMs": "1611018000000"
 	},
+	"Copa_America_Femenina_MC_Jul_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Copa_America_Femenina_MC_Jul_2022_v2/Copa_America_Femenina_MC_Jul_2022_v2.png",
+		"startingTimestampMs": "1657746000000",
+		"endingTimestampMs": "1659236400000"
+	},
 	"Copa_America_Feminina_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Copa_America_Feminina_Jul_2022/Copa_America_Feminina_Jul_2022.png",
 		"startingTimestampMs": "1656669600000",
@@ -12308,6 +12313,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Freeform_CruelSummer_Kate_2021/Freeform_CruelSummer_Kate_2021.png",
 		"startingTimestampMs": "1622505600000",
 		"endingTimestampMs": "1630479540000"
+	},
+	"Freeform_Everythings_Trash_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Freeform_Everythings_Trash_Jul_2022/Freeform_Everythings_Trash_Jul_2022.png",
+		"startingTimestampMs": "1657746000000",
+		"endingTimestampMs": "1665730740000"
 	},
 	"Freeform_Grownish_S4B_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Freeform_Grownish_S4B_2022/Freeform_Grownish_S4B_2022.png",
@@ -29813,6 +29823,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/OmanTel5G_2021_v3/OmanTel5G_2021_v3.png",
 		"startingTimestampMs": "1623715200000",
 		"endingTimestampMs": "1631282400000"
+	},
+	"Omanhene_Album_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Omanhene_Album_Jul_2022/Omanhene_Album_Jul_2022.png",
+		"startingTimestampMs": "1657738800000",
+		"endingTimestampMs": "1662900540000"
 	},
 	"Omantel_Q4_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Omantel_Q4_2021/Omantel_Q4_2021.png",
