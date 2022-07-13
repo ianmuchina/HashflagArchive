@@ -5283,6 +5283,9 @@
 	"bensimmons": [
 		"NBAAllStar_2021_players2"
 	],
+	"beomencool": [
+		"HP_OMEN_Jul_2022"
+	],
 	"beomgyu": [
 		"Kpop_VIT_TXT_2021_July_BEOMGYU",
 		"TXT_Hybe_Member_5_Apr_2022"
@@ -7515,6 +7518,12 @@
 	],
 	"cadburycaramilk": [
 		"CadburyCaramilk_2021"
+	],
+	"cademinhaheranca": [
+		"ElmaChip_Promo_Elma_Jul_2022"
+	],
+	"cadêminhaherança": [
+		"ElmaChip_Promo_Elma_Jul_2022"
 	],
 	"caesarscasino": [
 		"Caesars_NFL_Kickoff_extension_2021_add"
@@ -21625,8 +21634,12 @@
 	"hpflondon2022": [
 		"HallyuPopFest_Jun_2022"
 	],
+	"hpgaming": [
+		"HP_OMEN_Jul_2022"
+	],
 	"hpomen": [
-		"HP_Korea_OMEN_May_2022"
+		"HP_Korea_OMEN_May_2022",
+		"HP_OMEN_Jul_2022"
 	],
 	"hppowertodoitall": [
 		"HP_India_Pavilion_Apr_2022"
@@ -34995,8 +35008,14 @@
 		"OmanTel5G_2021_v3",
 		"OmanTel5G_2021"
 	],
+	"omen16": [
+		"HP_OMEN_Jul_2022"
+	],
 	"omeninoquesobreviveu": [
 		"HBO_Max_Harry_Potter_20th_REunion_Harry_2021"
+	],
+	"omenlaptops": [
+		"HP_OMEN_Jul_2022"
 	],
 	"omenrule": [
 		"HP_Korea_OMEN_May_2022"
@@ -35462,6 +35481,9 @@
 	"opporeno6series": [
 		"OPPOReno6Series_2021",
 		"OPPOReno6Series_2021_ext"
+	],
+	"opporeno8series": [
+		"OPPOIndia_Jul_2022"
 	],
 	"oprojetoadam": [
 		"Netflix_The_Adam_Project_Feb_2022"
@@ -38715,7 +38737,8 @@
 	],
 	"promocaoelmachips": [
 		"Elma_Chips_Promo_Salgadinho_2022",
-		"Pepsico_Elma_Chips_2021"
+		"Pepsico_Elma_Chips_2021",
+		"ElmaChip_Promo_Elma_Jul_2022"
 	],
 	"promolaysdajogo": [
 		"Lays_UEFA_Mar_2022"
@@ -38729,7 +38752,8 @@
 	"promoçãoelmachips": [
 		"Elma_Chips_Promo_Salgadinho_2022",
 		"Pepsico_Elma_Chips_2021",
-		"ElmaChipsMeFazUmPix_2021"
+		"ElmaChipsMeFazUmPix_2021",
+		"ElmaChip_Promo_Elma_Jul_2022"
 	],
 	"promoçãoh2oh!": [
 		"H2OH_Pepsico_2021"
@@ -44061,18 +44085,22 @@
 		"SolarOpposites_2021",
 		"Hulu_SolarOpposites_S2",
 		"Hulu_SolarOpposites_2020",
-		"Hulu_Solar_Opposites_S3_Jul_2022"
+		"Hulu_Solar_Opposites_S3_Jul_2022",
+		"Hulu_Solar_Opposites_S3_Jul_2022_v2"
 	],
 	"solaroppositeshulu": [
 		"Hulu_SolarOpposites_2020",
-		"Hulu_Solar_Opposites_S3_Jul_2022"
+		"Hulu_Solar_Opposites_S3_Jul_2022",
+		"Hulu_Solar_Opposites_S3_Jul_2022_v2"
 	],
 	"solaroppositesonhulu": [
 		"Hulu_SolarOpposites_2020",
-		"Hulu_Solar_Opposites_S3_Jul_2022"
+		"Hulu_Solar_Opposites_S3_Jul_2022",
+		"Hulu_Solar_Opposites_S3_Jul_2022_v2"
 	],
 	"solaroppositesseason3": [
-		"Hulu_Solar_Opposites_S3_Jul_2022"
+		"Hulu_Solar_Opposites_S3_Jul_2022",
+		"Hulu_Solar_Opposites_S3_Jul_2022_v2"
 	],
 	"soldadodelinvierno": [
 		"Disney_FalconandWinterSoldier_2021_WS",
@@ -48807,7 +48835,8 @@
 		"Lionsgate_TheProtege_2021"
 	],
 	"thepupa": [
-		"Hulu_Solar_Opposites_S3_Jul_2022"
+		"Hulu_Solar_Opposites_S3_Jul_2022",
+		"Hulu_Solar_Opposites_S3_Jul_2022_v2"
 	],
 	"thepurge": [
 		"TheForeverPurge_2021"
@@ -50346,6 +50375,9 @@
 		"International_Transgender_Day_of_Visibility_2022",
 		"TransVisibility_2021"
 	],
+	"transformthenight": [
+		"OPPOIndia_Jul_2022"
+	],
 	"transgenderweekofawareness": [
 		"TDoR202",
 		"TransgenderAwarenessMonth_2020"
@@ -51421,6 +51453,9 @@
 	"ultraboost22": [
 		"Adidas_Ultraboost_Mar_2022",
 		"Adidas_Ultraboost_Mar_2022_v2"
+	],
+	"ultraclearnightinportrait": [
+		"OPPOIndia_Jul_2022"
 	],
 	"ultracourtside": [
 		"ULTRAMoment_2020_v2_add",
