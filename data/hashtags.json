@@ -8403,7 +8403,8 @@
 	"chaeryeong": [
 		"KPOP_ITZY_2020_CHAERYEONG",
 		"KPOP_VIT_ITZY_April_2021_CHAERYEONG",
-		"Kpop_VIT_ITZY_Sept_2021_CHAERYEONG"
+		"Kpop_VIT_ITZY_Sept_2021_CHAERYEONG",
+		"JYPE_ITZY_Comeback_Sneakers_CHAERYEONG_2022"
 	],
 	"chaincloud": [
 		"Chain_Q3_Jun_2022"
@@ -23242,7 +23243,11 @@
 	"itzy": [
 		"KPOP_ITZY_2020",
 		"Kpop_VIT_ITZY_Sept_2021",
-		"KPOP_VIT_ITZY_April_2021"
+		"KPOP_VIT_ITZY_April_2021",
+		"JYPE_ITZY_Comeback_Sneakers_GROUP_2022"
+	],
+	"itzy_checkmate": [
+		"JYPE_ITZY_Comeback_Sneakers_GROUP_2022"
 	],
 	"itzy_guesswho": [
 		"KPOP_VIT_ITZY_April_2021"
@@ -23252,6 +23257,15 @@
 	],
 	"itzy_notshy": [
 		"KPOP_ITZY_2020"
+	],
+	"itzy_sneakers": [
+		"JYPE_ITZY_Comeback_Sneakers_Song_2022"
+	],
+	"itzy_world_tour": [
+		"JYPE_ITZY_Comeback_Sneakers_GROUP_2022"
+	],
+	"itzycomeback": [
+		"JYPE_ITZY_Comeback_Sneakers_GROUP_2022"
 	],
 	"iu": [
 		"Kpop_VIT_U_21"
@@ -27441,7 +27455,8 @@
 	"lia": [
 		"Kpop_VIT_ITZY_Sept_2021_LIA",
 		"KPOP_ITZY_2020_LIA",
-		"KPOP_VIT_ITZY_April_2021_LIA"
+		"KPOP_VIT_ITZY_April_2021_LIA",
+		"JYPE_ITZY_Comeback_Sneakers_LIA_2022"
 	],
 	"liamgallagher": [
 		"Liam_Gallagher_2020_v2",
@@ -39111,6 +39126,12 @@
 	"pushat": [
 		"Pusha_T_Album_Emoji_2022"
 	],
+	"putmysneakerson": [
+		"JYPE_ITZY_Comeback_Sneakers_Song_2022"
+	],
+	"putyoursneakerson": [
+		"JYPE_ITZY_Comeback_Sneakers_Song_2022"
+	],
 	"pvalley": [
 		"PValley_PostPremiere_2020",
 		"P-Valley_May_2022"
@@ -41648,7 +41669,8 @@
 	"ryujin": [
 		"Kpop_VIT_ITZY_Sept_2021_RYUJIN",
 		"KPOP_ITZY_2020_RYUJIN",
-		"KPOP_VIT_ITZY_April_2021_RYUJIN"
+		"KPOP_VIT_ITZY_April_2021_RYUJIN",
+		"JYPE_ITZY_Comeback_Sneakers_RYUJIN_2022"
 	],
 	"régionales2021": [
 		"FranceRegionalElections2021"
@@ -43988,6 +44010,9 @@
 	],
 	"sneakerella": [
 		"Disney_DBTV_Sneakerella_May_2022"
+	],
+	"sneakerschallenge": [
+		"JYPE_ITZY_Comeback_Sneakers_Song_2022"
 	],
 	"snickers": [
 		"SnickersxNFL_2021_snickersbar"
@@ -55830,7 +55855,8 @@
 		"KPOP_ITZY_2020_YEJI",
 		"KPOP_VIT_ITZY_April_2021_YEJI",
 		"Kpop_VIT_ITZY_Sept_2021_YEJI",
-		"KPOP_ITZY_2020_LIA"
+		"KPOP_ITZY_2020_LIA",
+		"JYPE_ITZY_Comeback_Sneakers_YEJI_2022"
 	],
 	"yelenabelova": [
 		"Disney_BlackWidow_Yelena_2021"
@@ -56281,7 +56307,8 @@
 	"yuna": [
 		"Kpop_VIT_ITZY_Sept_2021_YUNA",
 		"KPOP_VIT_ITZY_April_2021_YUNA",
-		"KPOP_ITZY_2020_YUNA"
+		"KPOP_ITZY_2020_YUNA",
+		"JYPE_ITZY_Comeback_Sneakers_YUNA_2022"
 	],
 	"yungblud": [
 		"Yungblud2022",
@@ -69874,7 +69901,8 @@
 	"류진": [
 		"Kpop_VIT_ITZY_Sept_2021_RYUJIN",
 		"KPOP_ITZY_2020_RYUJIN",
-		"KPOP_VIT_ITZY_April_2021_RYUJIN"
+		"KPOP_VIT_ITZY_April_2021_RYUJIN",
+		"JYPE_ITZY_Comeback_Sneakers_RYUJIN_2022"
 	],
 	"리사": [
 		"Kpop_VIT_LISA_BLACKPINK_Sept_2021",
@@ -69887,7 +69915,8 @@
 	"리아": [
 		"Kpop_VIT_ITZY_Sept_2021_LIA",
 		"KPOP_ITZY_2020_LIA",
-		"KPOP_VIT_ITZY_April_2021_LIA"
+		"KPOP_VIT_ITZY_April_2021_LIA",
+		"JYPE_ITZY_Comeback_Sneakers_LIA_2022"
 	],
 	"리예트카인즈": [
 		"DuneCharacter_2021_DrKynes"
@@ -71004,7 +71033,8 @@
 		"KPOP_ITZY_2020_YEJI",
 		"KPOP_VIT_ITZY_April_2021_YEJI",
 		"Kpop_VIT_ITZY_Sept_2021_YEJI",
-		"KPOP_ITZY_2020_LIA"
+		"KPOP_ITZY_2020_LIA",
+		"JYPE_ITZY_Comeback_Sneakers_YEJI_2022"
 	],
 	"오늘도유니버스": [
 		"NCSOFTUniverse2020"
@@ -71142,7 +71172,8 @@
 	"유나": [
 		"Kpop_VIT_ITZY_Sept_2021_YUNA",
 		"KPOP_VIT_ITZY_April_2021_YUNA",
-		"KPOP_ITZY_2020_YUNA"
+		"KPOP_ITZY_2020_YUNA",
+		"JYPE_ITZY_Comeback_Sneakers_YUNA_2022"
 	],
 	"유니버스": [
 		"NCSOFTUniverse2020"
@@ -71261,7 +71292,8 @@
 	"있지": [
 		"KPOP_ITZY_2020",
 		"Kpop_VIT_ITZY_Sept_2021",
-		"KPOP_VIT_ITZY_April_2021"
+		"KPOP_VIT_ITZY_April_2021",
+		"JYPE_ITZY_Comeback_Sneakers_GROUP_2022"
 	],
 	"자살예방": [
 		"WorldSuicidePreventionDay_2021",
@@ -71437,7 +71469,8 @@
 	"채령": [
 		"KPOP_ITZY_2020_CHAERYEONG",
 		"KPOP_VIT_ITZY_April_2021_CHAERYEONG",
-		"Kpop_VIT_ITZY_Sept_2021_CHAERYEONG"
+		"Kpop_VIT_ITZY_Sept_2021_CHAERYEONG",
+		"JYPE_ITZY_Comeback_Sneakers_CHAERYEONG_2022"
 	],
 	"챠니": [
 		"DuneCharacter_2021_Chani"
