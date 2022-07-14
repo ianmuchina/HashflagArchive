@@ -7344,6 +7344,11 @@
 		"startingTimestampMs": "1637280000000",
 		"endingTimestampMs": "1638345540000"
 	},
+	"DFINITY_Q3_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DFINITY_Q3_Jul_2022/DFINITY_Q3_Jul_2022.png",
+		"startingTimestampMs": "1657818060000",
+		"endingTimestampMs": "1665766860000"
+	},
 	"DFR_2021_AusAirForce": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DFR_2021_AusAirForce/DFR_2021_AusAirForce.png",
 		"startingTimestampMs": "1611187200000",
