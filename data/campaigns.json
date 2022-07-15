@@ -13809,6 +13809,11 @@
 		"startingTimestampMs": "1655910000000",
 		"endingTimestampMs": "1664337540000"
 	},
+	"HBO_House_of_the_Dragon_3_Jun_2022_add_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_3_Jun_2022_add_v2/HBO_House_of_the_Dragon_3_Jun_2022_add_v2.png",
+		"startingTimestampMs": "1655910000000",
+		"endingTimestampMs": "1658336340000"
+	},
 	"HBO_House_of_the_Dragon_Alicent_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Alicent_May_2022/HBO_House_of_the_Dragon_Alicent_May_2022.png",
 		"startingTimestampMs": "1651762800000",
@@ -13903,6 +13908,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Latam_House_of_Dragon_May_2022_v2/HBO_Latam_House_of_Dragon_May_2022_v2.png",
 		"startingTimestampMs": "1652386680000",
 		"endingTimestampMs": "1669843080000"
+	},
+	"HBO_Latam_House_of_Dragon_May_2022_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Latam_House_of_Dragon_May_2022_v3/HBO_Latam_House_of_Dragon_May_2022_v3.png",
+		"startingTimestampMs": "1652386680000",
+		"endingTimestampMs": "1658336340000"
 	},
 	"HBO_Legendary_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Legendary_2020/HBO_Legendary_2020.png",
@@ -18698,6 +18708,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Kidari_Studio_Bomtoon_Q2_Jul_2022/Kidari_Studio_Bomtoon_Q2_Jul_2022.png",
 		"startingTimestampMs": "1657058400000",
 		"endingTimestampMs": "1664982000000"
+	},
+	"King_Promise_Five_Star_Album_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/King_Promise_Five_Star_Album_Jul_2022/King_Promise_Five_Star_Album_Jul_2022.png",
+		"startingTimestampMs": "1657874820000",
+		"endingTimestampMs": "1671094020000"
 	},
 	"KingsofLeon_Feb_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/KingsofLeon_Feb_2021/KingsofLeon_Feb_2021.png",
