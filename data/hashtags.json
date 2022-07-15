@@ -13192,6 +13192,12 @@
 	"dqウォーク新春しあわせのふくびき": [
 		"DQWalk_NewYear_2020_2021"
 	],
+	"dqタクト": [
+		"DQTACT_Anniversary_Jul_2022"
+	],
+	"dqタクト２周年を祝おう": [
+		"DQTACT_Anniversary_Jul_2022"
+	],
 	"dqライバルズエース": [
 		"DQ_RIVALS_2020"
 	],
@@ -64415,10 +64421,14 @@
 		"DQ_TACT_2020",
 		"DQ_TACT_2_2020",
 		"DQ_TACT_2_Jan_2021",
-		"DQ_TACT_2021anniversary_2021"
+		"DQ_TACT_2021anniversary_2021",
+		"DQTACT_Anniversary_Jul_2022"
 	],
 	"ドラクエタクト１周年": [
 		"DQ_TACT_2021anniversary_2021"
+	],
+	"ドラクエタクト２周年": [
+		"DQTACT_Anniversary_Jul_2022"
 	],
 	"ドラクエライバルズエース": [
 		"DQ_RIVALS_2020"

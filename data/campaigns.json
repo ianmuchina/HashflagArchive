@@ -7599,6 +7599,11 @@
 		"startingTimestampMs": "1621321260000",
 		"endingTimestampMs": "1621925940000"
 	},
+	"DQTACT_Anniversary_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQTACT_Anniversary_Jul_2022/DQTACT_Anniversary_Jul_2022.png",
+		"startingTimestampMs": "1657897200000",
+		"endingTimestampMs": "1665673140000"
+	},
 	"DQTACT_Jan_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DQTACT_Jan_2022/DQTACT_Jan_2022.png",
 		"startingTimestampMs": "1642258800000",
