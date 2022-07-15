@@ -34289,6 +34289,11 @@
 		"startingTimestampMs": "1631505600000",
 		"endingTimestampMs": "1633208400000"
 	},
+	"SABB_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SABB_Jul_2022/SABB_Jul_2022.png",
+		"startingTimestampMs": "1657896360000",
+		"endingTimestampMs": "1665845160000"
+	},
 	"SBA_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SBA_Apr_2022/SBA_Apr_2022.png",
 		"startingTimestampMs": "1649692740000",
