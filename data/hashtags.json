@@ -205,6 +205,9 @@
 	"15deseptiembre": [
 		"MexicosIndependenceDay2021"
 	],
+	"15x15": [
+		"Fight_Against_Hungry_Brazil_2022"
+	],
 	"16araw": [
 		"OrangeTheWorld_2020",
 		"UN_OrangeTheWorld_2021"
@@ -1654,11 +1657,15 @@
 		"AHM_RepresentAsian_2021",
 		"Twitter_Asians_Asian_Heritage_Month_WeAreGolden_Campaign_2022_add"
 	],
+	"ahs": [
+		"FX_AHStories_S2_Jul_2022_v2"
+	],
 	"ahsdoublefeature": [
 		"FX_AHS_S10_2021"
 	],
 	"ahsfx": [
-		"FX_AHS_S10_2021"
+		"FX_AHS_S10_2021",
+		"FX_AHStories_S2_Jul_2022_v2"
 	],
 	"ahsoka": [
 		"Disney_Mandalorian_S2_Dec_2020_AhsokaTano",
@@ -1668,7 +1675,8 @@
 		"Disney_Mandalorian_S2_Dec_2020_AhsokaTano"
 	],
 	"ahstories": [
-		"AHStories_July_2021"
+		"AHStories_July_2021",
+		"FX_AHStories_S2_Jul_2022_v2"
 	],
 	"aiartathon": [
 		"GlobalAISummit_2020"
@@ -36042,6 +36050,9 @@
 	],
 	"pacotedeviagem": [
 		"RufflesPacotedeViagens2020"
+	],
+	"pactopelos15": [
+		"Fight_Against_Hungry_Brazil_2022"
 	],
 	"paddypantsplease": [
 		"PP_ComedyFestival_Jul_2022"
