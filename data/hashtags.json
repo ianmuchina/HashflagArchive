@@ -2129,6 +2129,9 @@
 	"allourpride": [
 		"Pride_in_London_Jun_2022"
 	],
+	"allstargame": [
+		"MLBAllStar2022-STAR"
+	],
 	"allstars6": [
 		"ParamountRuPaulsDragRaceAllStars_July_2021"
 	],
@@ -8200,6 +8203,9 @@
 	],
 	"celebsgodatingthemansion": [
 		"CelebsGoDating_2021"
+	],
+	"celebsoftball": [
+		"MLBAllStar2022-STAR"
 	],
 	"cellcspinandwin": [
 		"CellCSummer_2020"
@@ -21708,7 +21714,8 @@
 		"HP_India_Pavilion_Apr_2022"
 	],
 	"hrderby": [
-		"MLBHRDerby2021-HRDerby"
+		"MLBHRDerby2021-HRDerby",
+		"MLBAllStar2022-BAT"
 	],
 	"hs3": [
 		"Harry_Styles_2022_Album_Emoji_1_V2",

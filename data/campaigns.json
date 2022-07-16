@@ -21504,6 +21504,16 @@
 		"startingTimestampMs": "1651154400000",
 		"endingTimestampMs": "1676433540000"
 	},
+	"MLBAllStar2022-BAT": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBAllStar2022-BAT/MLBAllStar2022-BAT.png",
+		"startingTimestampMs": "1657976400000",
+		"endingTimestampMs": "1658465940000"
+	},
+	"MLBAllStar2022-STAR": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBAllStar2022-STAR/MLBAllStar2022-STAR.png",
+		"startingTimestampMs": "1657976400000",
+		"endingTimestampMs": "1658465940000"
+	},
 	"MLBHRDerby2021-BAL": {
 		"assetUrl": "https://abs.twimg.com/hashflags/MLBHRDerby2021-BAL/MLBHRDerby2021-BAL.png",
 		"startingTimestampMs": "1625716800000",
