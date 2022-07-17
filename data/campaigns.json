@@ -11589,6 +11589,11 @@
 		"startingTimestampMs": "1655509500000",
 		"endingTimestampMs": "1655941500000"
 	},
+	"FNB_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FNB_Jul_2022/FNB_Jul_2022.png",
+		"startingTimestampMs": "1658016000000",
+		"endingTimestampMs": "1666136700000"
+	},
 	"FNC_SF9_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FNC_SF9_Jun_2022/FNC_SF9_Jun_2022.png",
 		"startingTimestampMs": "1656342000000",
