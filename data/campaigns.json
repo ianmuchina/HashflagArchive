@@ -6334,6 +6334,11 @@
 		"startingTimestampMs": "1606870800000",
 		"endingTimestampMs": "1614736740000"
 	},
+	"Cerveza_Modelo_Jul_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Cerveza_Modelo_Jul_2022_v2/Cerveza_Modelo_Jul_2022_v2.png",
+		"startingTimestampMs": "1658113200000",
+		"endingTimestampMs": "1665475200000"
+	},
 	"CesarAward_FR_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CesarAward_FR_2021/CesarAward_FR_2021.png",
 		"startingTimestampMs": "1615165260000",
@@ -32218,6 +32223,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Peacock_ParisinLove_Nov_2021/Peacock_ParisinLove_Nov_2021.png",
 		"startingTimestampMs": "1636588800000",
 		"endingTimestampMs": "1641832200000"
+	},
+	"Peacock_The_Resort_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Peacock_The_Resort_Jul_2022/Peacock_The_Resort_Jul_2022.png",
+		"startingTimestampMs": "1658116800000",
+		"endingTimestampMs": "1666065600000"
 	},
 	"PeacockxPride_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/PeacockxPride_2021/PeacockxPride_2021.png",
