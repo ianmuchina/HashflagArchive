@@ -5479,6 +5479,11 @@
 		"startingTimestampMs": "1598284800000",
 		"endingTimestampMs": "1598850000000"
 	},
+	"CDL_Champs_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CDL_Champs_Jul_2022/CDL_Champs_Jul_2022.png",
+		"startingTimestampMs": "1658142000000",
+		"endingTimestampMs": "1660028400000"
+	},
 	"CDL_September_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CDL_September_2021/CDL_September_2021.png",
 		"startingTimestampMs": "1629763200000",
@@ -37178,6 +37183,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/TNT_Snowpiercer_W_Jan_2022/TNT_Snowpiercer_W_Jan_2022.png",
 		"startingTimestampMs": "1642582800000",
 		"endingTimestampMs": "1650340800000"
+	},
+	"TODS_DSHP_SNICKERScoffee_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TODS_DSHP_SNICKERScoffee_Jul_2022/TODS_DSHP_SNICKERScoffee_Jul_2022.png",
+		"startingTimestampMs": "1658142000000",
+		"endingTimestampMs": "1664082000000"
 	},
 	"TOKIO_JandA_FUKUSHIMA_TOKIOBA_Project_Jun_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/TOKIO_JandA_FUKUSHIMA_TOKIOBA_Project_Jun_2022_v2/TOKIO_JandA_FUKUSHIMA_TOKIOBA_Project_Jun_2022_v2.png",
