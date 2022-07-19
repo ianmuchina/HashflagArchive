@@ -9685,6 +9685,9 @@
 	"comeyrule": [
 		"Showtime_TheComeyRule_2020"
 	],
+	"comicconimdb": [
+		"Comic_Con_IMDb_Boat_Jul_2022"
+	],
 	"coming2america": [
 		"AmazonStudios_ComingtoAmerica_Feb_2021",
 		"AmazonStudios_ComingtoAmerica_Feb_2021_v2"
@@ -22391,6 +22394,21 @@
 	],
 	"imdb30": [
 		"IMDb_30thanniversary_2020"
+	],
+	"imdbatcomiccon": [
+		"Comic_Con_IMDb_Boat_Jul_2022"
+	],
+	"imdbboat": [
+		"Comic_Con_IMDb_Boat_Jul_2022"
+	],
+	"imdbboatcomiccon": [
+		"Comic_Con_IMDb_Boat_Jul_2022"
+	],
+	"imdbcomiccon": [
+		"Comic_Con_IMDb_Boat_Jul_2022"
+	],
+	"imdbtakescomiccon": [
+		"Comic_Con_IMDb_Boat_Jul_2022"
 	],
 	"imfc": [
 		"MLS2020_MTL"
