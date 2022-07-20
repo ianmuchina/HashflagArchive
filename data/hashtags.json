@@ -1033,7 +1033,8 @@
 	"acasadodragão": [
 		"HBO_Latam_House_of_Dragon_May_2022",
 		"HBO_Latam_House_of_Dragon_May_2022_v2",
-		"HBO_Latam_House_of_Dragon_May_2022_v3"
+		"HBO_Latam_House_of_Dragon_May_2022_v3",
+		"HBO_House_of_the_Dragon_Throne_Jul_2022"
 	],
 	"accfcg": [
 		"ACCChampFootball21"
@@ -3477,7 +3478,8 @@
 		"KPOP_BLACKPINK_2020_ext"
 	],
 	"ask_hunt": [
-		"K_MOVIE_Hunt_Jul_2022"
+		"K_MOVIE_Hunt_Jul_2022",
+		"K_MOVIE_Hunt_Jul_2022_v2"
 	],
 	"ask_jaypark": [
 		"Khiphop_Jay_Park_Jul_2022_add"
@@ -21587,7 +21589,11 @@
 		"HBO_House_of_the_Dragon_Mar_2022",
 		"HBO_House_of_the_Dragon_Sigil_May_2022",
 		"HBO_House_of_the_Dragon_3_Jun_2022_add",
-		"HBO_House_of_the_Dragon_3_Jun_2022_add_v2"
+		"HBO_House_of_the_Dragon_3_Jun_2022_add_v2",
+		"HBO_House_of_the_Dragon_Throne_Jul_2022"
+	],
+	"hotdtrailer": [
+		"HBO_House_of_the_Dragon_Throne_Jul_2022"
 	],
 	"hotelt": [
 		"Amazon_Studios_HT4_2022"
@@ -21657,7 +21663,8 @@
 		"HBO_House_of_the_Dragon_Mar_2022",
 		"HBO_House_of_the_Dragon_Sigil_May_2022",
 		"HBO_House_of_the_Dragon_3_Jun_2022_add",
-		"HBO_House_of_the_Dragon_3_Jun_2022_add_v2"
+		"HBO_House_of_the_Dragon_3_Jun_2022_add_v2",
+		"HBO_House_of_the_Dragon_Throne_Jul_2022"
 	],
 	"houseofthedragonhbo": [
 		"HouseoftheDragonHBO_2021",
@@ -21879,8 +21886,15 @@
 	"hungryformore": [
 		"MLB_Teams_2021_SD"
 	],
+	"hunt_jungwoosung": [
+		"K_MOVIE_Hunt_JungWooSung_Jul_2022"
+	],
+	"hunt_leejungjae": [
+		"K_MOVIE_Hunt_LeeJungJae_Jul_2022"
+	],
 	"hunt_movie": [
-		"K_MOVIE_Hunt_Jul_2022"
+		"K_MOVIE_Hunt_Jul_2022",
+		"K_MOVIE_Hunt_Jul_2022_v2"
 	],
 	"hunterb15": [
 		"Disney_LokiLaunch_HunterB15_2021"
@@ -25979,7 +25993,8 @@
 	"lacasadeldragón": [
 		"HBO_Latam_House_of_Dragon_May_2022",
 		"HBO_Latam_House_of_Dragon_May_2022_v2",
-		"HBO_Latam_House_of_Dragon_May_2022_v3"
+		"HBO_Latam_House_of_Dragon_May_2022_v3",
+		"HBO_House_of_the_Dragon_Throne_Jul_2022"
 	],
 	"lacasadepapel": [
 		"LCDP5_Dec_2021",
@@ -41881,6 +41896,9 @@
 	],
 	"régionales2021": [
 		"FranceRegionalElections2021"
+	],
+	"ródsmoka": [
+		"HBO_House_of_the_Dragon_Throne_Jul_2022"
 	],
 	"røkkr": [
 		"CallofDuty_League_2020_Minn"
@@ -72312,7 +72330,14 @@
 		"Halloween_2020"
 	],
 	"헌트": [
-		"K_MOVIE_Hunt_Jul_2022"
+		"K_MOVIE_Hunt_Jul_2022",
+		"K_MOVIE_Hunt_Jul_2022_v2"
+	],
+	"헌트_이정재": [
+		"K_MOVIE_Hunt_LeeJungJae_Jul_2022"
+	],
+	"헌트_정우성": [
+		"K_MOVIE_Hunt_JungWooSung_Jul_2022"
 	],
 	"헨드리": [
 		"KPOP_NCT_2020_HENDERY",

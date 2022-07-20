@@ -13904,6 +13904,11 @@
 		"startingTimestampMs": "1651762800000",
 		"endingTimestampMs": "1667275140000"
 	},
+	"HBO_House_of_the_Dragon_Throne_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Throne_Jul_2022/HBO_House_of_the_Dragon_Throne_Jul_2022.png",
+		"startingTimestampMs": "1658336400000",
+		"endingTimestampMs": "1666065540000"
+	},
 	"HBO_House_of_the_Dragon_Viserys_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Viserys_May_2022/HBO_House_of_the_Dragon_Viserys_May_2022.png",
 		"startingTimestampMs": "1651762800000",
@@ -18566,6 +18571,21 @@
 	},
 	"K_MOVIE_Hunt_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/K_MOVIE_Hunt_Jul_2022/K_MOVIE_Hunt_Jul_2022.png",
+		"startingTimestampMs": "1658275200000",
+		"endingTimestampMs": "1666224000000"
+	},
+	"K_MOVIE_Hunt_Jul_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/K_MOVIE_Hunt_Jul_2022_v2/K_MOVIE_Hunt_Jul_2022_v2.png",
+		"startingTimestampMs": "1658275200000",
+		"endingTimestampMs": "1666224000000"
+	},
+	"K_MOVIE_Hunt_JungWooSung_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/K_MOVIE_Hunt_JungWooSung_Jul_2022/K_MOVIE_Hunt_JungWooSung_Jul_2022.png",
+		"startingTimestampMs": "1658275200000",
+		"endingTimestampMs": "1666224000000"
+	},
+	"K_MOVIE_Hunt_LeeJungJae_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/K_MOVIE_Hunt_LeeJungJae_Jul_2022/K_MOVIE_Hunt_LeeJungJae_Jul_2022.png",
 		"startingTimestampMs": "1658275200000",
 		"endingTimestampMs": "1666224000000"
 	},
