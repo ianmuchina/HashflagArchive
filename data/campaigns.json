@@ -5004,6 +5004,11 @@
 		"startingTimestampMs": "1601110860000",
 		"endingTimestampMs": "1606842060000"
 	},
+	"Brazil_Elections_General_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_General_Jul_2022/Brazil_Elections_General_Jul_2022.png",
+		"startingTimestampMs": "1658304000000",
+		"endingTimestampMs": "1665374400000"
+	},
 	"Breathe2_2020_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Breathe2_2020_v2/Breathe2_2020_v2.png",
 		"startingTimestampMs": "1593217800000",
@@ -14628,6 +14633,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Halloween_2020_JP/Halloween_2020_JP.png",
 		"startingTimestampMs": "1603638000000",
 		"endingTimestampMs": "1604156340000"
+	},
+	"Halloween_Ends_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Halloween_Ends_Jul_2022/Halloween_Ends_Jul_2022.png",
+		"startingTimestampMs": "1658300400000",
+		"endingTimestampMs": "1673942340000"
 	},
 	"Halloween_US_2021_2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Halloween_US_2021_2/Halloween_US_2021_2.png",

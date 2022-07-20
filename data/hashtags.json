@@ -14296,8 +14296,14 @@
 	"eleiçoes2020": [
 		"BrazilElections_Oct2020"
 	],
+	"eleiçoes2022": [
+		"Brazil_Elections_General_Jul_2022"
+	],
 	"eleições2020": [
 		"BrazilElections_Oct2020"
+	],
+	"eleições2022": [
+		"Brazil_Elections_General_Jul_2022"
 	],
 	"eleksyon2022": [
 		"Philippines_General_Elections_2_2022_add2"
@@ -20048,6 +20054,12 @@
 	"halloweenathome": [
 		"Freeform_31NightsOfHalloween_2020"
 	],
+	"halloweenends": [
+		"Halloween_Ends_Jul_2022"
+	],
+	"halloweenendsilfilm": [
+		"Halloween_Ends_Jul_2022"
+	],
 	"halloweenkills": [
 		"HalloweenKills_2021"
 	],
@@ -20056,6 +20068,9 @@
 	],
 	"halloweenkillsmovie": [
 		"HalloweenKills_2021"
+	],
+	"halloweenlanochefinal": [
+		"Halloween_Ends_Jul_2022"
 	],
 	"halloweenmovie": [
 		"HalloweenKills_2021"
@@ -26391,6 +26406,9 @@
 	"laurademille": [
 		"HBOMaxDoomPatrol_2021_MadameRouge"
 	],
+	"lauriestrode": [
+		"Halloween_Ends_Jul_2022"
+	],
 	"lavaccinationmarche": [
 		"WorldImmunizationWeek_April_2021"
 	],
@@ -31103,7 +31121,8 @@
 		"Lionsgate_TheProtege_2021"
 	],
 	"michaelmyers": [
-		"HalloweenKills_2021"
+		"HalloweenKills_2021",
+		"Halloween_Ends_Jul_2022"
 	],
 	"michellegomez": [
 		"HBOMaxDoomPatrol_2021_MichelleGomez",
@@ -38970,6 +38989,12 @@
 	],
 	"projektpower": [
 		"ProjectPower_Netflix_2020"
+	],
+	"projetoeleiçao": [
+		"Brazil_Elections_General_Jul_2022"
+	],
+	"projetoeleição": [
+		"Brazil_Elections_General_Jul_2022"
 	],
 	"projetonos": [
 		"Unlock_and_Spaces_with_Drik_Jun_2022"
@@ -53406,6 +53431,9 @@
 	],
 	"votecomsegurança": [
 		"VoteComSeguranca_BrazilElections_2020"
+	],
+	"voteconsciente": [
+		"Brazil_Elections_General_Jul_2022"
 	],
 	"voted": [
 		"Japan_Upper_House_Election_Voted_Jun_2022"
