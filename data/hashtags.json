@@ -3476,6 +3476,9 @@
 		"KPOP_BLACKPINK_2020",
 		"KPOP_BLACKPINK_2020_ext"
 	],
+	"ask_hunt": [
+		"K_MOVIE_Hunt_Jul_2022"
+	],
 	"ask_jaypark": [
 		"Khiphop_Jay_Park_Jul_2022_add"
 	],
@@ -4017,6 +4020,9 @@
 	],
 	"aufgehtsdhb": [
 		"Handball_WorldCup_Egypt_2021_GER"
+	],
+	"august102022": [
+		"Samsung_unpacked_Jul_2022"
 	],
 	"augustalsina": [
 		"AugustAlsina_2020"
@@ -17518,7 +17524,8 @@
 		"Samsung_BTS_MX_2020"
 	],
 	"galaxyunpacked": [
-		"Samsung_Unpacked_Livestream_Jan_2022_v2"
+		"Samsung_Unpacked_Livestream_Jan_2022_v2",
+		"Samsung_unpacked_Jul_2022"
 	],
 	"galeblade": [
 		"miHoYoGenshinImpact1stAnniversary_2021_GenshinJean"
@@ -21730,6 +21737,9 @@
 	"hpflondon2022": [
 		"HallyuPopFest_Jun_2022"
 	],
+	"hpfsydney2022": [
+		"HallyuPopFest_Jun_2022_add"
+	],
 	"hpgaming": [
 		"HP_OMEN_Jul_2022"
 	],
@@ -21853,6 +21863,9 @@
 	],
 	"hungryformore": [
 		"MLB_Teams_2021_SD"
+	],
+	"hunt_movie": [
+		"K_MOVIE_Hunt_Jul_2022"
 	],
 	"hunterb15": [
 		"Disney_LokiLaunch_HunterB15_2021"
@@ -33794,6 +33807,9 @@
 	"nextfazacontecer": [
 		"Banco_Next_Lollapalooza_BR_Mar_2022"
 	],
+	"nextgalaxy": [
+		"Samsung_unpacked_Jul_2022"
+	],
 	"nextgenbattleroyale": [
 		"NewStateOfBattleRoyale_2021"
 	],
@@ -42113,6 +42129,9 @@
 	"samsungevent": [
 		"Samsung_SDC21_2021"
 	],
+	"samsunggalaxy": [
+		"Samsung_unpacked_Jul_2022"
+	],
 	"samsungsdc": [
 		"Samsung_SDC21_2021"
 	],
@@ -42121,7 +42140,8 @@
 		"GalaxyBook_UK_April_2021",
 		"Samsungunpacked_oct_2021",
 		"SamsungUnpacked_July_2021",
-		"SamsungUnpackedLiveEvent_Jan2021"
+		"SamsungUnpackedLiveEvent_Jan2021",
+		"Samsung_unpacked_Jul_2022"
 	],
 	"samwilson": [
 		"Disney_FalconandWinterSoldier_2021_Falcon_edit",
@@ -72250,6 +72270,9 @@
 	"해피할로윈": [
 		"Halloween2021_BH1",
 		"Halloween_2020"
+	],
+	"헌트": [
+		"K_MOVIE_Hunt_Jul_2022"
 	],
 	"헨드리": [
 		"KPOP_NCT_2020_HENDERY",

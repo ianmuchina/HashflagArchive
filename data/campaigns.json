@@ -14639,6 +14639,11 @@
 		"startingTimestampMs": "1655650800000",
 		"endingTimestampMs": "1662822000000"
 	},
+	"HallyuPopFest_Jun_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HallyuPopFest_Jun_2022_add/HallyuPopFest_Jun_2022_add.png",
+		"startingTimestampMs": "1658275200000",
+		"endingTimestampMs": "1662822000000"
+	},
 	"HaloTheSeries_BL_2022_US": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HaloTheSeries_BL_2022_US/HaloTheSeries_BL_2022_US.png",
 		"startingTimestampMs": "1648103400000",
@@ -18548,6 +18553,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/KSports_KBO_KoreanBaseballLeague_2020/KSports_KBO_KoreanBaseballLeague_2020.png",
 		"startingTimestampMs": "1590742800000",
 		"endingTimestampMs": "1599494400000"
+	},
+	"K_MOVIE_Hunt_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/K_MOVIE_Hunt_Jul_2022/K_MOVIE_Hunt_Jul_2022.png",
+		"startingTimestampMs": "1658275200000",
+		"endingTimestampMs": "1666224000000"
 	},
 	"KaashPaige_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/KaashPaige_2020/KaashPaige_2020.png",
@@ -35023,6 +35033,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Samsung_Unpacked_Livestream_Jan_2022_v2/Samsung_Unpacked_Livestream_Jan_2022_v2.png",
 		"startingTimestampMs": "1643148000000",
 		"endingTimestampMs": "1648727460000"
+	},
+	"Samsung_unpacked_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Samsung_unpacked_Jul_2022/Samsung_unpacked_Jul_2022.png",
+		"startingTimestampMs": "1658275200000",
+		"endingTimestampMs": "1663346040000"
 	},
 	"Samsungunpacked_oct_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Samsungunpacked_oct_2021/Samsungunpacked_oct_2021.png",
