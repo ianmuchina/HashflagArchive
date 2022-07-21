@@ -15649,6 +15649,11 @@
 		"startingTimestampMs": "1599807600000",
 		"endingTimestampMs": "1607673540000"
 	},
+	"Hulu_Prey_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_Prey_Jul_2022/Hulu_Prey_Jul_2022.png",
+		"startingTimestampMs": "1658381400000",
+		"endingTimestampMs": "1666421940000"
+	},
 	"Hulu_Run_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_Run_2020/Hulu_Run_2020.png",
 		"startingTimestampMs": "1605686400000",
@@ -23168,6 +23173,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/MarcusRashfordBook_2021/MarcusRashfordBook_2021.png",
 		"startingTimestampMs": "1622089800000",
 		"endingTimestampMs": "1629327540000"
+	},
+	"Marcus_Rashford_Book_Jul_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Marcus_Rashford_Book_Jul_2022_v2/Marcus_Rashford_Book_Jul_2022_v2.png",
+		"startingTimestampMs": "1658383200000",
+		"endingTimestampMs": "1663785000000"
 	},
 	"Maren2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Maren2022/Maren2022.png",
