@@ -9929,8 +9929,18 @@
 		"startingTimestampMs": "1658507400000",
 		"endingTimestampMs": "1666508340000"
 	},
+	"Disneyplus_IamGroot_BabyGroot_2022_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_IamGroot_BabyGroot_2022_V2/Disneyplus_IamGroot_BabyGroot_2022_V2.png",
+		"startingTimestampMs": "1658507400000",
+		"endingTimestampMs": "1666508340000"
+	},
 	"Disneyplus_IamGroot_HeadphonesGroot_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_IamGroot_HeadphonesGroot_2022/Disneyplus_IamGroot_HeadphonesGroot_2022.png",
+		"startingTimestampMs": "1658507400000",
+		"endingTimestampMs": "1666508340000"
+	},
+	"Disneyplus_IamGroot_HeadphonesGroot_2022_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_IamGroot_HeadphonesGroot_2022_V2/Disneyplus_IamGroot_HeadphonesGroot_2022_V2.png",
 		"startingTimestampMs": "1658507400000",
 		"endingTimestampMs": "1666508340000"
 	},
@@ -36153,6 +36163,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/South_Africa_Standard_Bank_Mar_2022_v2/South_Africa_Standard_Bank_Mar_2022_v2.png",
 		"startingTimestampMs": "1649740800000",
 		"endingTimestampMs": "1657603200000"
+	},
+	"South_Park_25th_Anniversary_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/South_Park_25th_Anniversary_Jul_2022/South_Park_25th_Anniversary_Jul_2022.png",
+		"startingTimestampMs": "1658526960000",
+		"endingTimestampMs": "1666216560000"
 	},
 	"SpL_BestOfTweets_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SpL_BestOfTweets_2021/SpL_BestOfTweets_2021.png",
