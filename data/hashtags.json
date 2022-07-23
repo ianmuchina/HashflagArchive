@@ -25943,7 +25943,8 @@
 	],
 	"kpopon": [
 		"Spotify_K-Pop_On_Vis_Launch_2022_v2",
-		"SpotifyKpop_Q2_May_2022"
+		"SpotifyKpop_Q2_May_2022",
+		"Spotify_ITZY_Jul_2022"
 	],
 	"kpoptwitter": [
 		"KpopTwitter_2021_Blue",
@@ -26902,7 +26903,14 @@
 	],
 	"lbff": [
 		"LBFF_2020",
-		"LBFF_March_2021"
+		"LBFF_March_2021",
+		"LBFF_8_Jul_2022"
+	],
+	"lbff8": [
+		"LBFF_8_Jul_2022"
+	],
+	"lbffnaredetv": [
+		"LBFF_8_Jul_2022"
 	],
 	"lbn": [
 		"Olympics_Countries_2021_LBN",
@@ -45227,6 +45235,9 @@
 	"spotifygirlkrush": [
 		"Spotify_KPop_Q2_Q3_2020"
 	],
+	"spotifyidollounge": [
+		"Spotify_ITZY_Jul_2022"
+	],
 	"spotifyindia": [
 		"SpotifyWorldMusicDayIN2020",
 		"SpotifyWorldMusicDayIN2021"
@@ -45315,7 +45326,11 @@
 	],
 	"spotifyxitzy": [
 		"SpotifyxITZY_April_2021",
-		"SpotifyITZY_Sept_21"
+		"SpotifyITZY_Sept_21",
+		"Spotify_ITZY_Jul_2022"
+	],
+	"spotifyxjhope": [
+		"Spotify_ITZY_Jul_2022"
 	],
 	"spotifyxlisa": [
 		"SpotifyITZY_Sept_21"
@@ -49962,7 +49977,8 @@
 		"Amazon_Studios_ACMAs_2022"
 	],
 	"thisisitzy": [
-		"SpotifyxITZY_April_2021"
+		"SpotifyxITZY_April_2021",
+		"Spotify_ITZY_Jul_2022"
 	],
 	"thisismycrew": [
 		"MLB_Teams_2020_MIL",

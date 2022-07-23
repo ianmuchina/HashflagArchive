@@ -19599,6 +19599,11 @@
 		"startingTimestampMs": "1598065260000",
 		"endingTimestampMs": "1604368740000"
 	},
+	"LBFF_8_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LBFF_8_Jul_2022/LBFF_8_Jul_2022.png",
+		"startingTimestampMs": "1658548800000",
+		"endingTimestampMs": "1666551600000"
+	},
 	"LBFF_March_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LBFF_March_2021/LBFF_March_2021.png",
 		"startingTimestampMs": "1615863660000",
@@ -36418,6 +36423,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_Blackpink_2020/Spotify_Blackpink_2020.png",
 		"startingTimestampMs": "1601856000000",
 		"endingTimestampMs": "1609471500000"
+	},
+	"Spotify_ITZY_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_ITZY_Jul_2022/Spotify_ITZY_Jul_2022.png",
+		"startingTimestampMs": "1658548800000",
+		"endingTimestampMs": "1664553600000"
 	},
 	"Spotify_K-Pop_On_Vis_Launch_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_K-Pop_On_Vis_Launch_2022_v2/Spotify_K-Pop_On_Vis_Launch_2022_v2.png",
