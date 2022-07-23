@@ -3099,6 +3099,11 @@
 		"startingTimestampMs": "1600394400000",
 		"endingTimestampMs": "1601604000000"
 	},
+	"Avalabs_Q3_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Avalabs_Q3_Jul_2022/Avalabs_Q3_Jul_2022.png",
+		"startingTimestampMs": "1658534400000",
+		"endingTimestampMs": "1672523820000"
+	},
 	"Avalanche_Mar_2022_extend": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Avalanche_Mar_2022_extend/Avalanche_Mar_2022_extend.png",
 		"startingTimestampMs": "1646784000000",
@@ -6841,6 +6846,11 @@
 	},
 	"Copa_America_Femenina_MC_Jul_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Copa_America_Femenina_MC_Jul_2022_v2/Copa_America_Femenina_MC_Jul_2022_v2.png",
+		"startingTimestampMs": "1657746000000",
+		"endingTimestampMs": "1659236400000"
+	},
+	"Copa_America_Femenina_MC_Jul_2022_v2_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Copa_America_Femenina_MC_Jul_2022_v2_add/Copa_America_Femenina_MC_Jul_2022_v2_add.png",
 		"startingTimestampMs": "1657746000000",
 		"endingTimestampMs": "1659236400000"
 	},
@@ -32186,6 +32196,11 @@
 	},
 	"Paramountplus_South_Park_Special_3_4_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Paramountplus_South_Park_Special_3_4_2022/Paramountplus_South_Park_Special_3_4_2022.png",
+		"startingTimestampMs": "1655103600000",
+		"endingTimestampMs": "1662879540000"
+	},
+	"Paramountplus_South_Park_Special_3_4_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramountplus_South_Park_Special_3_4_2022_v2/Paramountplus_South_Park_Special_3_4_2022_v2.png",
 		"startingTimestampMs": "1655103600000",
 		"endingTimestampMs": "1662879540000"
 	},
