@@ -41044,6 +41044,11 @@
 		"startingTimestampMs": "1610719200000",
 		"endingTimestampMs": "1641020400000"
 	},
+	"WWE_SummerSlam_1_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_SummerSlam_1_2022/WWE_SummerSlam_1_2022.png",
+		"startingTimestampMs": "1658653200000",
+		"endingTimestampMs": "1659250800000"
+	},
 	"WWE_SummerSlam_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WWE_SummerSlam_2020/WWE_SummerSlam_2020.png",
 		"startingTimestampMs": "1597669200000",
@@ -41068,6 +41073,21 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/WWE_SummerSlam_2020_WomensTitle/WWE_SummerSlam_2020_WomensTitle.png",
 		"startingTimestampMs": "1597669200000",
 		"endingTimestampMs": "1598335200000"
+	},
+	"WWE_SummerSlam_2_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_SummerSlam_2_2022/WWE_SummerSlam_2_2022.png",
+		"startingTimestampMs": "1658653200000",
+		"endingTimestampMs": "1659250800000"
+	},
+	"WWE_SummerSlam_3_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_SummerSlam_3_2022/WWE_SummerSlam_3_2022.png",
+		"startingTimestampMs": "1658653200000",
+		"endingTimestampMs": "1659250800000"
+	},
+	"WWE_SummerSlam_4_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_SummerSlam_4_2022/WWE_SummerSlam_4_2022.png",
+		"startingTimestampMs": "1658653200000",
+		"endingTimestampMs": "1659250800000"
 	},
 	"WWE_TLC_dec_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WWE_TLC_dec_2020/WWE_TLC_dec_2020.png",
