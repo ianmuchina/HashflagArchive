@@ -835,7 +835,8 @@
 		"ISL_2021_2022_NEUFC"
 	],
 	"8月5日はパピコの日": [
-		"GlicoPapico_JP_2020"
+		"GlicoPapico_JP_2020",
+		"Glico_Papico_JP_Jul_2022"
 	],
 	"911fox": [
 		"911LoneStaronFOX_Dec_2020"
@@ -13364,7 +13365,11 @@
 	"dracarys": [
 		"HouseoftheDragonHBO_2021",
 		"HBO_HouseoftheDragon_2021",
-		"HBO_House_of_the_Dragon_Mar_2022"
+		"HBO_House_of_the_Dragon_Mar_2022",
+		"HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022"
+	],
+	"dracarysapp": [
+		"HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022"
 	],
 	"draco": [
 		"HBO_Max_Harry_Potter_20th_REunion_Draco_2021"
@@ -21761,6 +21766,12 @@
 		"HBO_House_of_the_Dragon_3_Jun_2022_add_v2",
 		"HBO_House_of_the_Dragon_Throne_Jul_2022"
 	],
+	"hotdapp": [
+		"HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022"
+	],
+	"hotdsdcc": [
+		"HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022"
+	],
 	"hotdtrailer": [
 		"HBO_House_of_the_Dragon_Throne_Jul_2022"
 	],
@@ -21834,6 +21845,9 @@
 		"HBO_House_of_the_Dragon_3_Jun_2022_add",
 		"HBO_House_of_the_Dragon_3_Jun_2022_add_v2",
 		"HBO_House_of_the_Dragon_Throne_Jul_2022"
+	],
+	"houseofthedragonapp": [
+		"HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022"
 	],
 	"houseofthedragonhbo": [
 		"HouseoftheDragonHBO_2021",
@@ -65290,10 +65304,17 @@
 		"Olympics_2021_Sports_Handball"
 	],
 	"ハーゲンダッツ": [
-		"Haagendaz_2021_JP"
+		"Haagendaz_2021_JP",
+		"Haagendazs_Jul_2022"
+	],
+	"ハーゲンダッツの日": [
+		"Haagendazs_Jul_2022"
 	],
 	"ハーゲンダッツを贈ろう": [
 		"Haagendaz_2021_JP"
+	],
+	"ハーゲンダッツハウスからの脱出": [
+		"Haagendazs_Jul_2022"
 	],
 	"ハートぶち抜きチャレンジ": [
 		"LOTTE_ghana_Valentine_JP_2022_v2"
@@ -65442,14 +65463,16 @@
 		"punigray_staff_launch_2020"
 	],
 	"パピコ": [
-		"GlicoPapico_relaunch2"
+		"GlicoPapico_relaunch2",
+		"Glico_Papico_JP_Jul_2022"
 	],
 	"パピコ\n": [
 		"GlicoPapico_JP_2020",
 		"GlicoPapico_JP_2020_Relaunch"
 	],
 	"パピコの日": [
-		"GlicoPapico_JP_2020"
+		"GlicoPapico_JP_2020",
+		"Glico_Papico_JP_Jul_2022"
 	],
 	"パラアイスホッケー": [
 		"Beijing_Paralympic_ParaIceHockey_2022"
