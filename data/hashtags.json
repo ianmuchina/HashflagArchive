@@ -16252,7 +16252,8 @@
 	],
 	"fgo": [
 		"DelightworksFateGrandOrder2020",
-		"Delightworks_FGO_0702_2021"
+		"Delightworks_FGO_0702_2021",
+		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022"
 	],
 	"fgo5周年": [
 		"DelightworksFateGrandOrder2020"
@@ -16263,6 +16264,15 @@
 	"fgo6周年メッセージ": [
 		"Delightworks_FGO_0702_2021"
 	],
+	"fgo7周年": [
+		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022"
+	],
+	"fgo7周年メッセージ": [
+		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022"
+	],
+	"fgoにまつわる思い出": [
+		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022"
+	],
 	"fgoみんなで5周年": [
 		"DelightworksFateGrandOrder2020"
 	],
@@ -16271,6 +16281,9 @@
 	],
 	"fgoカルデア放送局6周年sp": [
 		"Delightworks_FGO_0702_2021"
+	],
+	"fgoフェス": [
+		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022"
 	],
 	"fgs": [
 		"FutureGamesShow_21",
@@ -21137,6 +21150,9 @@
 	"hepsiburadaefsane11": [
 		"Hepsiburada_2021"
 	],
+	"heraldkawards": [
+		"Herald_K-content_Award_Jul_2022"
+	],
 	"herculehercule": [
 		"Dokkan_9_16_2020_all"
 	],
@@ -21401,6 +21417,9 @@
 	],
 	"hjzm": [
 		"KPOP_ACE_Jan2021"
+	],
+	"hka": [
+		"Herald_K-content_Award_Jul_2022"
 	],
 	"hkg": [
 		"Paralympics_2021_HKG",
@@ -35436,6 +35455,9 @@
 	"olympicherstory": [
 		"NBC_OlympicHERstory_2021"
 	],
+	"olympicqualifiers": [
+		"2_Year_to_Paris_2024_International_Olympic_Committee_Jul_2022"
+	],
 	"olympics": [
 		"Olympics_2021_Laurier_"
 	],
@@ -41402,6 +41424,9 @@
 	],
 	"roadtokenshin": [
 		"RurouniKenshin_2021"
+	],
+	"roadtoparis2024": [
+		"2_Year_to_Paris_2024_International_Olympic_Committee_Jul_2022"
 	],
 	"roadtoundisputed": [
 		"JDSportsAJvPulev_2020"
@@ -50014,6 +50039,9 @@
 		"MLB_Teams_2021_MIL",
 		"MLB_MIL_2022"
 	],
+	"thisismyk": [
+		"Herald_K-content_Award_Jul_2022"
+	],
 	"thisisnotagame": [
 		"NBA_2K_2020_ThisIsNotAGame"
 	],
@@ -55001,6 +55029,9 @@
 	"whatsthescoop": [
 		"HBOMaxGossipGirl_July_2021_Phone"
 	],
+	"whatsyourk": [
+		"Herald_K-content_Award_Jul_2022"
+	],
 	"whattowatch": [
 		"XfinityFlex_WhattoWatch_Q2_2021",
 		"BuzzfeedWhat2Watch_Season2"
@@ -56109,6 +56140,9 @@
 	"wyg": [
 		"SM2022",
 		"SM20222"
+	],
+	"wyk": [
+		"Herald_K-content_Award_Jul_2022"
 	],
 	"wynonnaearp": [
 		"WynonnaEarp_S4_2020",
