@@ -18789,6 +18789,11 @@
 		"startingTimestampMs": "1613001600000",
 		"endingTimestampMs": "1620889140000"
 	},
+	"Kenyan_Elections_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Kenyan_Elections_Jul_2022/Kenyan_Elections_Jul_2022.png",
+		"startingTimestampMs": "1658732400000",
+		"endingTimestampMs": "1660978800000"
+	},
 	"Kenzo_Men_Show_Jan_2022_add": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Kenzo_Men_Show_Jan_2022_add/Kenzo_Men_Show_Jan_2022_add.png",
 		"startingTimestampMs": "1642714200000",
