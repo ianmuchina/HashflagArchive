@@ -6864,6 +6864,11 @@
 		"startingTimestampMs": "1657746000000",
 		"endingTimestampMs": "1659236400000"
 	},
+	"Copa_America_Femenina_MC_Jul_2022_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Copa_America_Femenina_MC_Jul_2022_v3/Copa_America_Femenina_MC_Jul_2022_v3.png",
+		"startingTimestampMs": "1657746000000",
+		"endingTimestampMs": "1659236400000"
+	},
 	"Copa_America_Feminina_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Copa_America_Feminina_Jul_2022/Copa_America_Feminina_Jul_2022.png",
 		"startingTimestampMs": "1656669600000",
@@ -41124,8 +41129,18 @@
 		"startingTimestampMs": "1658653200000",
 		"endingTimestampMs": "1659250800000"
 	},
+	"WWE_SummerSlam_3_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_SummerSlam_3_2022_v2/WWE_SummerSlam_3_2022_v2.png",
+		"startingTimestampMs": "1658653200000",
+		"endingTimestampMs": "1659250800000"
+	},
 	"WWE_SummerSlam_4_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WWE_SummerSlam_4_2022/WWE_SummerSlam_4_2022.png",
+		"startingTimestampMs": "1658653200000",
+		"endingTimestampMs": "1659250800000"
+	},
+	"WWE_SummerSlam_4_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_SummerSlam_4_2022_v2/WWE_SummerSlam_4_2022_v2.png",
 		"startingTimestampMs": "1658653200000",
 		"endingTimestampMs": "1659250800000"
 	},
