@@ -5875,11 +5875,21 @@
 	"billboard": [
 		"Billboard_Women_In_Music_2022"
 	],
+	"billboardespanol": [
+		"Billboard_Latin_Music_Week_Jul_2022"
+	],
+	"billboardespañol": [
+		"Billboard_Latin_Music_Week_Jul_2022"
+	],
 	"billboardhottrending": [
 		"BillboardHotTrending_2021"
 	],
+	"billboardlatin": [
+		"Billboard_Latin_Music_Week_Jul_2022"
+	],
 	"billboardlatinweek": [
-		"BillboardLatinWeek_2021"
+		"BillboardLatinWeek_2021",
+		"Billboard_Latin_Music_Week_Jul_2022"
 	],
 	"billboardmusicawards": [
 		"BBMA_2020_Flight2",
