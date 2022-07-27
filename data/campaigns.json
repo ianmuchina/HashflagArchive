@@ -8274,6 +8274,11 @@
 		"startingTimestampMs": "1643988600000",
 		"endingTimestampMs": "1647244740000"
 	},
+	"DisneyPlus_HSMTMTS_S3_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_HSMTMTS_S3_2022/DisneyPlus_HSMTMTS_S3_2022.png",
+		"startingTimestampMs": "1658899800000",
+		"endingTimestampMs": "1666853700000"
+	},
 	"DisneyPlus_HallowStream_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_HallowStream_2020/DisneyPlus_HallowStream_2020.png",
 		"startingTimestampMs": "1601542800000",

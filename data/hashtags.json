@@ -21304,7 +21304,11 @@
 		"HBOMaxGossipGirl_July_2021_CB"
 	],
 	"highschoolmusical": [
-		"Disney_HSMtMtS_S2_RWC"
+		"Disney_HSMtMtS_S2_RWC",
+		"DisneyPlus_HSMTMTS_S3_2022"
+	],
+	"highschoolmusicalseries": [
+		"DisneyPlus_HSMTMTS_S3_2022"
 	],
 	"highschoolmusicaltheseries": [
 		"Disney_HSMtMtS_S2_RWC"
@@ -22010,10 +22014,12 @@
 		"Disney_HSMtMtS_S2_RWC"
 	],
 	"hsmthemusicaltheseries": [
-		"Disney_HSMtMtS_S2_RWC"
+		"Disney_HSMtMtS_S2_RWC",
+		"DisneyPlus_HSMTMTS_S3_2022"
 	],
 	"hsmtmts": [
-		"Disney_HSMtMtS_S2_RWC"
+		"Disney_HSMtMtS_S2_RWC",
+		"DisneyPlus_HSMTMTS_S3_2022"
 	],
 	"ht20": [
 		"LinkinPark_2020"
