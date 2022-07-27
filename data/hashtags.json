@@ -19102,7 +19102,14 @@
 		"Golden_Buzzer_Apr_2022"
 	],
 	"goldenchild": [
-		"KPOP_VIT_GoldenChild_2021"
+		"KPOP_VIT_GoldenChild_2021",
+		"Woollim_Jul_2022"
+	],
+	"goldenchild_aura": [
+		"Woollim_Jul_2022"
+	],
+	"goldenchild_replay": [
+		"Woollim_Jul_2022"
 	],
 	"goldeneagle": [
 		"TABSpringRacing_2021_GoldenEagle"
@@ -70161,7 +70168,8 @@
 		"GodzillaVsKong_WB_2021"
 	],
 	"골든차일드": [
-		"KPOP_VIT_GoldenChild_2021"
+		"KPOP_VIT_GoldenChild_2021",
+		"Woollim_Jul_2022"
 	],
 	"과거현재미래": [
 		"KPOP_VIT_CNBLUE_2020"
@@ -70754,6 +70762,9 @@
 	],
 	"리크리스마스": [
 		"Christmas_2020"
+	],
+	"리플레이": [
+		"Woollim_Jul_2022"
 	],
 	"릴리_박사": [
 		"Disney_JungleCruise_Lily_2021"
