@@ -5959,10 +5959,12 @@
 		"BinanceTurns3_2020",
 		"Binance_Q2_Coin_2021",
 		"Binance_Apr_2022",
-		"Binance_Apr_2022_v2"
+		"Binance_Apr_2022_v2",
+		"Binance_Jul_2022"
 	],
 	"binanceblockchainweek": [
-		"Binance_Blockchain_Week_2022"
+		"Binance_Blockchain_Week_2022",
+		"Binance_Jul_2022"
 	],
 	"binancesmartchain": [
 		"Binance_Q4_2020",
@@ -6491,7 +6493,8 @@
 		"BinanceTurns3_2020",
 		"Binance_Q2_Coin_2021",
 		"Binance_Apr_2022",
-		"Binance_Apr_2022_v2"
+		"Binance_Apr_2022_v2",
+		"Binance_Jul_2022"
 	],
 	"bng": [
 		"ICCT20WorldCup_2021_BNG"
@@ -35497,6 +35500,9 @@
 	"oldthemovie": [
 		"NBC_OldMovie_May_2021_v2"
 	],
+	"oldwatch": [
+		"Prime_Video_Paper_Girls_Walkman_Jul_2022"
+	],
 	"olemmenaisia": [
 		"TwitterWomenTentpole_2021"
 	],
@@ -36267,7 +36273,8 @@
 	],
 	"orville": [
 		"Hulu_The_Orville_Robot_Jun_2022",
-		"Hulu_The_Orville_Icon_Jun_2022"
+		"Hulu_The_Orville_Icon_Jun_2022",
+		"Hulu_The_Orville_Ship_Jul_2022"
 	],
 	"osalgadinhoquedadinheiro": [
 		"Elma_Chips_Promo_Salgadinho_2022",
@@ -36897,6 +36904,9 @@
 	],
 	"papergirlspv": [
 		"Prime_Video_Paper_Girls_Jul_2022"
+	],
+	"papergirlstv": [
+		"Prime_Video_Paper_Girls_Walkman_Jul_2022"
 	],
 	"papijuancho": [
 		"Maluma_2020"
@@ -38174,6 +38184,9 @@
 	"pinkishere": [
 		"Pink_Album_Emoji_2021_V2",
 		"Pink_Album_Emoji_2021"
+	],
+	"pinksky": [
+		"Prime_Video_Paper_Girls_Walkman_Jul_2022"
 	],
 	"pinksplaybacks": [
 		"Pink_Album_Emoji_2021_V2",
@@ -49520,19 +49533,23 @@
 	],
 	"theorville": [
 		"Hulu_The_Orville_Robot_Jun_2022",
-		"Hulu_The_Orville_Icon_Jun_2022"
+		"Hulu_The_Orville_Icon_Jun_2022",
+		"Hulu_The_Orville_Ship_Jul_2022"
 	],
 	"theorvillenewhorizons": [
 		"Hulu_The_Orville_Robot_Jun_2022",
-		"Hulu_The_Orville_Icon_Jun_2022"
+		"Hulu_The_Orville_Icon_Jun_2022",
+		"Hulu_The_Orville_Ship_Jul_2022"
 	],
 	"theorvilleonhulu": [
 		"Hulu_The_Orville_Robot_Jun_2022",
-		"Hulu_The_Orville_Icon_Jun_2022"
+		"Hulu_The_Orville_Icon_Jun_2022",
+		"Hulu_The_Orville_Ship_Jul_2022"
 	],
 	"theorvilleseason3": [
 		"Hulu_The_Orville_Robot_Jun_2022",
-		"Hulu_The_Orville_Icon_Jun_2022"
+		"Hulu_The_Orville_Icon_Jun_2022",
+		"Hulu_The_Orville_Ship_Jul_2022"
 	],
 	"theother2": [
 		"TheOtherTwo_S2_2021"

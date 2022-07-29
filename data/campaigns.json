@@ -4689,6 +4689,11 @@
 		"startingTimestampMs": "1644336000000",
 		"endingTimestampMs": "1649260800000"
 	},
+	"Binance_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Binance_Jul_2022/Binance_Jul_2022.png",
+		"startingTimestampMs": "1659078060000",
+		"endingTimestampMs": "1667026860000"
+	},
 	"Binance_Q2_Coin_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Binance_Q2_Coin_2021/Binance_Q2_Coin_2021.png",
 		"startingTimestampMs": "1620950400000",
@@ -15848,6 +15853,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_The_Orville_Robot_Jun_2022/Hulu_The_Orville_Robot_Jun_2022.png",
 		"startingTimestampMs": "1654142400000",
 		"endingTimestampMs": "1656572340000"
+	},
+	"Hulu_The_Orville_Ship_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_The_Orville_Ship_Jul_2022/Hulu_The_Orville_Ship_Jul_2022.png",
+		"startingTimestampMs": "1659078000000",
+		"endingTimestampMs": "1661756340000"
 	},
 	"Hulu_USvsBillie_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_USvsBillie_2021/Hulu_USvsBillie_2021.png",
@@ -33278,6 +33288,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Prime_Video_Paper_Girls_Jul_2022/Prime_Video_Paper_Girls_Jul_2022.png",
 		"startingTimestampMs": "1657695600000",
 		"endingTimestampMs": "1665557940000"
+	},
+	"Prime_Video_Paper_Girls_Walkman_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Prime_Video_Paper_Girls_Walkman_Jul_2022/Prime_Video_Paper_Girls_Walkman_Jul_2022.png",
+		"startingTimestampMs": "1659078000000",
+		"endingTimestampMs": "1666940340000"
 	},
 	"Prime_Video_Roland_Garros_emoji": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Prime_Video_Roland_Garros_emoji/Prime_Video_Roland_Garros_emoji.png",
