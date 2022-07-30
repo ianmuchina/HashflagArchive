@@ -32433,7 +32433,8 @@
 		"NIKE_kidsMoreFastIsMoreFun_2021"
 	],
 	"morelatinosinnews": [
-		"NABJNAHJ_2020"
+		"NABJNAHJ_2020",
+		"NABJ_NAHJ_Convention_Jul_2022"
 	],
 	"morenaluansantana": [
 		"morenaluansantana_June_2021"
@@ -33377,7 +33378,8 @@
 	],
 	"nabj": [
 		"NABJConvention_2021",
-		"NABJNAHJ_2020"
+		"NABJNAHJ_2020",
+		"NABJ_NAHJ_Convention_Jul_2022"
 	],
 	"nabj20": [
 		"NABJNAHJ_2020"
@@ -33394,8 +33396,14 @@
 	"nabjnahj20": [
 		"NABJNAHJ_2020"
 	],
+	"nabjnahj22": [
+		"NABJ_NAHJ_Convention_Jul_2022"
+	],
 	"nabjnahjtweetup": [
 		"NABJNAHJ_2020_add"
+	],
+	"nabjstrivefor5": [
+		"NABJ_NAHJ_Convention_Jul_2022"
 	],
 	"nadal": [
 		"Christmas_2020"
@@ -33415,6 +33423,9 @@
 	],
 	"naheritage": [
 		"NativeAmericanHeritageMonth_2020"
+	],
+	"nahj": [
+		"NABJ_NAHJ_Convention_Jul_2022"
 	],
 	"nahj20": [
 		"NABJNAHJ_2020"
