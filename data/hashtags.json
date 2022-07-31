@@ -51918,7 +51918,8 @@
 	"twitter夏祭り": [
 		"SummerFestival_2020",
 		"SummerFestival_2020_add3",
-		"SummerFestival_2021"
+		"SummerFestival_2021",
+		"SummerFestival_JP_Aug_2022"
 	],
 	"twitter猫の日アンバサダー": [
 		"CatDay_white_2022"
@@ -65607,6 +65608,15 @@
 	"パイモンサンタ": [
 		"Xmasbox_C_2020_miHoYo"
 	],
+	"パズサバで夏満喫": [
+		"G-MEI_Summer_festival_Jul_2022"
+	],
+	"パズサバとゾンビ夜行": [
+		"G-MEI_Summer_festival_Jul_2022"
+	],
+	"パズサバと夏イベ祭り": [
+		"G-MEI_Summer_festival_Jul_2022"
+	],
 	"パズドラ": [
 		"GungHo_pazudora_2022"
 	],
@@ -66090,7 +66100,8 @@
 		"Xmasbox_C_2020_Zeria_V2"
 	],
 	"ヘパリーゼw屋台": [
-		"SummerFestival_2020_add3"
+		"SummerFestival_2020_add3",
+		"Brand_hepalyse_W_Summer_festival_Jul_2022"
 	],
 	"ヘブバン": [
 		"HeavenBurnsRed_Launch_2022",
@@ -67498,6 +67509,9 @@
 	],
 	"今年3度の天赦日と一粒万倍日": [
 		"Mizuho_Bank_Takarakuji_Mar_2022"
+	],
+	"今年こそパズサバ夏祭り": [
+		"G-MEI_Summer_festival_Jul_2022"
 	],
 	"今年のできごと2020": [
 		"ThisHappened2020"
@@ -69247,6 +69261,9 @@
 	],
 	"真・女神転生v": [
 		"SEGA_SMT5_2021"
+	],
+	"真夏のパズサバチャレンジ": [
+		"G-MEI_Summer_festival_Jul_2022"
 	],
 	"真島ヒロ新作rpg": [
 		"gateofnightmares_launch_2021"

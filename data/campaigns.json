@@ -4954,6 +4954,11 @@
 		"startingTimestampMs": "1643486100000",
 		"endingTimestampMs": "1672459140000"
 	},
+	"Brand_hepalyse_W_Summer_festival_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Brand_hepalyse_W_Summer_festival_Jul_2022/Brand_hepalyse_W_Summer_festival_Jul_2022.png",
+		"startingTimestampMs": "1659279600000",
+		"endingTimestampMs": "1661957940000"
+	},
 	"BrandedLike_AlwaysProud_July2020_Relaunch": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BrandedLike_AlwaysProud_July2020_Relaunch/BrandedLike_AlwaysProud_July2020_Relaunch.png",
 		"startingTimestampMs": "1595617200000",
@@ -12593,6 +12598,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Future_Games_Show_Spring_2022/Future_Games_Show_Spring_2022.png",
 		"startingTimestampMs": "1648051200000",
 		"endingTimestampMs": "1648483200000"
+	},
+	"G-MEI_Summer_festival_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/G-MEI_Summer_festival_Jul_2022/G-MEI_Summer_festival_Jul_2022.png",
+		"startingTimestampMs": "1659279600000",
+		"endingTimestampMs": "1667055540000"
 	},
 	"G20Saudi_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/G20Saudi_2020/G20Saudi_2020.png",
@@ -37068,6 +37078,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/SummerFestival_2021/SummerFestival_2021.png",
 		"startingTimestampMs": "1627488000000",
 		"endingTimestampMs": "1633013940000"
+	},
+	"SummerFestival_JP_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SummerFestival_JP_Aug_2022/SummerFestival_JP_Aug_2022.png",
+		"startingTimestampMs": "1659279600000",
+		"endingTimestampMs": "1661957940000"
 	},
 	"SummerGamesFestival": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SummerGamesFestival/SummerGamesFestival.png",
