@@ -379,6 +379,11 @@
 		"startingTimestampMs": "1591858800000",
 		"endingTimestampMs": "1597474740000"
 	},
+	"ABC_High_School_Baseball_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ABC_High_School_Baseball_Jul_2022/ABC_High_School_Baseball_Jul_2022.png",
+		"startingTimestampMs": "1659301200000",
+		"endingTimestampMs": "1661958000000"
+	},
 	"ABC_HomeEcon_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ABC_HomeEcon_2021/ABC_HomeEcon_2021.png",
 		"startingTimestampMs": "1632142800000",
