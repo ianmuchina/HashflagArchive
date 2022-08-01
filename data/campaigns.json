@@ -5079,6 +5079,11 @@
 		"startingTimestampMs": "1601110860000",
 		"endingTimestampMs": "1606842060000"
 	},
+	"Brazil_Elections_Debates_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_Debates_Jul_2022/Brazil_Elections_Debates_Jul_2022.png",
+		"startingTimestampMs": "1659340800000",
+		"endingTimestampMs": "1664596500000"
+	},
 	"Brazil_Elections_General_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_General_Jul_2022/Brazil_Elections_General_Jul_2022.png",
 		"startingTimestampMs": "1658304000000",
@@ -34483,6 +34488,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Riot_Valorant_VCT_Red_2022/Riot_Valorant_VCT_Red_2022.png",
 		"startingTimestampMs": "1643965200000",
 		"endingTimestampMs": "1672477200000"
+	},
+	"Riot_Valorant_VCT_Yellow_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Riot_Valorant_VCT_Yellow_2022/Riot_Valorant_VCT_Yellow_2022.png",
+		"startingTimestampMs": "1659344400000",
+		"endingTimestampMs": "1664528400000"
 	},
 	"RitzCrispy_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/RitzCrispy_2020/RitzCrispy_2020.png",

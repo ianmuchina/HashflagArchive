@@ -11411,6 +11411,12 @@
 	"deathto2020": [
 		"NetflixsDeathto2020_v2"
 	],
+	"debatebr": [
+		"Brazil_Elections_Debates_Jul_2022"
+	],
+	"debatebrasil": [
+		"Brazil_Elections_Debates_Jul_2022"
+	],
 	"debatechilango": [
 		"IECM_Elecciones_CDMX_April_2021"
 	],
@@ -11419,6 +11425,12 @@
 	],
 	"debates2020": [
 		"US_Election_2020_General"
+	],
+	"debatesbr": [
+		"Brazil_Elections_Debates_Jul_2022"
+	],
+	"debatesbrasil": [
+		"Brazil_Elections_Debates_Jul_2022"
 	],
 	"debatesmx2021": [
 		"DebatesMX2021"
@@ -53096,7 +53108,8 @@
 	],
 	"valorantchampions": [
 		"VALORANT_Champions_Tour_April_2021",
-		"VALORANT_Championship_Event_2021"
+		"VALORANT_Championship_Event_2021",
+		"Riot_Valorant_VCT_Yellow_2022"
 	],
 	"valorantchampionstour": [
 		"VALORANT_FirstStrike_2020",
