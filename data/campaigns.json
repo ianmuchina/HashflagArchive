@@ -2339,6 +2339,11 @@
 		"startingTimestampMs": "1657004400000",
 		"endingTimestampMs": "1659337140000"
 	},
+	"Amazon_Music_Above_the_Line_Jun_2022_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Music_Above_the_Line_Jun_2022_extend/Amazon_Music_Above_the_Line_Jun_2022_extend.png",
+		"startingTimestampMs": "1659337200000",
+		"endingTimestampMs": "1662015540000"
+	},
 	"Amazon_Music_XmasBox_2021_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Music_XmasBox_2021_v2/Amazon_Music_XmasBox_2021_v2.png",
 		"startingTimestampMs": "1638457200000",
@@ -16873,6 +16878,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/India_BihariElections_2020/India_BihariElections_2020.png",
 		"startingTimestampMs": "1600062840000",
 		"endingTimestampMs": "1604123640000"
+	},
+	"India_Independence_Day_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/India_Independence_Day_Jul_2022/India_Independence_Day_Jul_2022.png",
+		"startingTimestampMs": "1659337860000",
+		"endingTimestampMs": "1661929860000"
 	},
 	"India_Republic_Day_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/India_Republic_Day_2022/India_Republic_Day_2022.png",
