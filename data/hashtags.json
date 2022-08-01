@@ -2475,6 +2475,9 @@
 		"Disney_Dr_Strange_2_America_Chavez_2022",
 		"Disney_Dr_Strange_2_America_Chavez_2022_extend"
 	],
+	"americanasaovivo": [
+		"Americanas_Brand_Anniversary_Aug_2022"
+	],
 	"americangothic": [
 		"DeVita_Feb_2022"
 	],
@@ -2742,6 +2745,9 @@
 	],
 	"aniversariovaidevisa": [
 		"VAIDEVISA_2020"
+	],
+	"aniversárioamericanas": [
+		"Americanas_Brand_Anniversary_Aug_2022"
 	],
 	"aniversáriodopericão": [
 		"Aniversario_do_Pericles_Jun_2022"
@@ -9050,6 +9056,9 @@
 	"chongyun": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Chongyun",
 		"miHoYoGenshinImpact1stAnniversary_2021_Chongyun_"
+	],
+	"choosehotandcrispy": [
+		"Wendys_Fries_Hot_and_Crispy_Q3_Jul_2022"
 	],
 	"chooserespect": [
 		"BullyingPreventionMonth_2020"
@@ -16222,6 +16231,9 @@
 	],
 	"festadelladonna": [
 		"InternationalWomensDay2021"
+	],
+	"festadeofertas": [
+		"Americanas_Brand_Anniversary_Aug_2022"
 	],
 	"festivaldesentrepreneurs": [
 		"BPI_France_Big_Tour_2022",
@@ -38829,10 +38841,12 @@
 		"Sudamericana_2021_1"
 	],
 	"porta10anos": [
-		"Porta_dos_Fundos_10th_Birthday_Jul_2022"
+		"Porta_dos_Fundos_10th_Birthday_Jul_2022",
+		"Porta_dos_Fundos_10th_Birthday_Jul_2022_extend"
 	],
 	"portadosfundos": [
-		"Porta_dos_Fundos_10th_Birthday_Jul_2022"
+		"Porta_dos_Fundos_10th_Birthday_Jul_2022",
+		"Porta_dos_Fundos_10th_Birthday_Jul_2022_extend"
 	],
 	"portalamascherina": [
 		"WearAMask_2020_2021_ext4",
@@ -54906,6 +54920,9 @@
 	],
 	"wendysbreakfast": [
 		"WendysCanada_Breakfast_launch_May_2022"
+	],
+	"wendyshotandcrispy": [
+		"Wendys_Fries_Hot_and_Crispy_Q3_Jul_2022"
 	],
 	"wendysphone": [
 		"WendysPhone_CA_2021"
