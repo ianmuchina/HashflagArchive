@@ -3300,6 +3300,9 @@
 	"arlequina": [
 		"DCFandom_2020_HarleyQuinn"
 	],
+	"arlingtonmajor": [
+		"PGL_Major_DOTA2_ARLINGTON_MAJOR_Jun_2022"
+	],
 	"arm": [
 		"Olympics_Countries_2021_ARM",
 		"Paralympics_2021_ARM"
@@ -38116,8 +38119,12 @@
 	"pglantwerpmajor": [
 		"PGL_Major_May_2022"
 	],
+	"pglarlingtonmajor": [
+		"PGL_Major_DOTA2_ARLINGTON_MAJOR_Jun_2022"
+	],
 	"pglmajor": [
-		"PGL_Major_May_2022"
+		"PGL_Major_May_2022",
+		"PGL_Major_DOTA2_ARLINGTON_MAJOR_Jun_2022"
 	],
 	"pharaohs": [
 		"Handball_WorldCup_Egypt_2021_EGYPT"
