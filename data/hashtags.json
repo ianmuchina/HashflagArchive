@@ -29426,7 +29426,11 @@
 	"luck": [
 		"AppleTVplus_Luck_Jul_2022",
 		"AppleTVplus_Luck_Aug_2022",
-		"AppleTVplus_Luck_Clover_Jul_2022"
+		"AppleTVplus_Luck_Clover_Jul_2022",
+		"AppleTVplus_Luck_Toast_Aug_2022"
+	],
+	"lucktoastdropchallenge": [
+		"AppleTVplus_Luck_Toast_Aug_2022"
 	],
 	"luckydaye": [
 		"Lucky_Daye_Mar_2022"
