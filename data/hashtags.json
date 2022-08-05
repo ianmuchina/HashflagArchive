@@ -16570,6 +16570,9 @@
 	"filmluca": [
 		"Disney_PixarLuca_Luca_2021"
 	],
+	"filmred": [
+		"BNE_OPBR_official_Event_for_the_film_Luffy_Aug_2022"
+	],
 	"fin": [
 		"Olympics_Countries_2021_FIN",
 		"Paralympics_2021_FIN",
@@ -35954,7 +35957,8 @@
 		"ONEonTNT_SG_2021"
 	],
 	"onepiece": [
-		"ShueishaOnePiece1000_2020"
+		"ShueishaOnePiece1000_2020",
+		"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022"
 	],
 	"onepiece1000logs": [
 		"ShueishaOnePiece1000_2020"
@@ -36181,6 +36185,12 @@
 	],
 	"oouilpeacock": [
 		"OneofUsIsLying_2021"
+	],
+	"op_filmred": [
+		"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022"
+	],
+	"op_filmredキャンペーン": [
+		"BNE_OPBR_official_Event_for_the_film_Uta_Aug_2022"
 	],
 	"openawindow": [
 		"Rex_Orange_County_Album_Emoji_2022"
@@ -63743,6 +63753,12 @@
 		"ElexTWDSJP_2021",
 		"Elex_twds_jp_XmasBox_2021"
 	],
+	"ウタ": [
+		"BNE_OPBR_official_Event_for_the_film_Uta_Aug_2022"
+	],
+	"ウタカタララバイ": [
+		"BNE_OPBR_official_Event_for_the_film_Ado_Aug_2022"
+	],
 	"ウルトラインパクト": [
 		"heroaca_ui_JP_2021"
 	],
@@ -64598,6 +64614,12 @@
 	],
 	"シャロンカーター": [
 		"Disney_FalconWinterSoldier_2021_SharonCarter"
+	],
+	"シャンクス": [
+		"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022"
+	],
+	"シャンクスの娘": [
+		"BNE_OPBR_official_Event_for_the_film_Uta_Aug_2022"
 	],
 	"シャンチー": [
 		"Disney_ShangChi_2021"
@@ -65795,7 +65817,8 @@
 		"OPBR_official_JP_Jan_2021",
 		"BNE_OPBR_official_2021",
 		"JP_ONEPIECE_Jan_2021_v2",
-		"BNE_bountyrush_Feb_2022_extend"
+		"BNE_bountyrush_Feb_2022_extend",
+		"BNE_OPBR_official_Event_for_the_film_Luffy_Aug_2022"
 	],
 	"バウンティラッシュ2周年": [
 		"OPBR_official_JP_Jan_2021",
@@ -67156,7 +67179,8 @@
 		"BNE_bountyrush_Feb_2022",
 		"ONEPIECE_trecru_JP_2020",
 		"JP_ONEPIECE_trecru_2021",
-		"BNE_bountyrush_Feb_2022_extend"
+		"BNE_bountyrush_Feb_2022_extend",
+		"BNE_OPBR_official_Event_for_the_film_Luffy_Aug_2022"
 	],
 	"ルミニークで輝き髪": [
 		"LUXSocialDamageCareProject2020"
@@ -67403,13 +67427,17 @@
 		"DCFanDome2021_Oct_WonderWoman"
 	],
 	"ワンピース": [
-		"ShueishaOnePiece1000_2020"
+		"ShueishaOnePiece1000_2020",
+		"BNE_OPBR_official_Event_for_the_film_Luffy_Aug_2022"
 	],
 	"ワンピースの日とナッツの日": [
 		"Meijinutschoco_2021"
 	],
 	"ワンピースキャラ世界人気投票": [
 		"ShueishaOnePiece1000_2020"
+	],
+	"ワンピースフィルムレッド": [
+		"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022"
 	],
 	"ヴァルキリー": [
 		"Disney_Thor2_Valkyrie_2022"
@@ -67563,6 +67591,9 @@
 	],
 	"世代平等": [
 		"OrangeTheWorld_2020"
+	],
+	"世界のつづき": [
+		"BNE_OPBR_official_Event_for_the_film_Ado_Aug_2022"
 	],
 	"世界の先住民の国際デー": [
 		"IndigenousPeoplesDay_2021",
@@ -68859,6 +68890,9 @@
 		"Lunar_New_Year_2022",
 		"LunarNewYear2021_Ox"
 	],
+	"新時代": [
+		"BNE_OPBR_official_Event_for_the_film_Uta_Aug_2022"
+	],
 	"新聞自由": [
 		"WorldPressFreedomDay_2021",
 		"World_Press_Freedom_Day_2022_v2"
@@ -69264,6 +69298,9 @@
 	],
 	"歌っているのは誰だ": [
 		"MaskedSingerJP_2021Q3"
+	],
+	"歌声": [
+		"BNE_OPBR_official_Event_for_the_film_Uta_Aug_2022"
 	],
 	"歡樂寬扎節": [
 		"Kwanzaa_2020"
@@ -69690,6 +69727,9 @@
 	],
 	"私の韓ドラ推しシーン": [
 		"NetflixKoreanDramaCampaign2020"
+	],
+	"私は最強": [
+		"BNE_OPBR_official_Event_for_the_film_Ado_Aug_2022"
 	],
 	"私らしく": [
 		"Twitter_Women_Celebration_Month_March_2022_add2"
@@ -70120,6 +70160,9 @@
 	"賞金争奪戦": [
 		"hagyo_21"
 	],
+	"赤髪": [
+		"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022"
+	],
 	"超paypay祭くじ": [
 		"YahooJapanShoppingDay_2020",
 		"YahooJapanShoppingDay2021"
@@ -70193,6 +70236,9 @@
 		"Disney_Mulan_2020_Flight2_v2",
 		"Disney_Mulan_2020",
 		"Disney_Mulan_2020_flight2"
+	],
+	"逆光": [
+		"BNE_OPBR_official_Event_for_the_film_Ado_Aug_2022"
 	],
 	"逢川めぐみ": [
 		"HeavenBurnsRed_Additional_6_Mar_2022",
@@ -70429,6 +70475,9 @@
 	"頑張り屋さんのメイ": [
 		"Disney_Turning_Red_Human_Mei_2022"
 	],
+	"風のゆくえ": [
+		"BNE_OPBR_official_Event_for_the_film_Ado_Aug_2022"
+	],
 	"飛込": [
 		"Olympics_2021_Sports_Diving"
 	],
@@ -70521,6 +70570,9 @@
 	],
 	"鷹": [
 		"NewYearCelebration_Japan2020_hawk"
+	],
+	"麦わら": [
+		"BNE_OPBR_official_Event_for_the_film_Luffy_Aug_2022"
 	],
 	"麻奈のドッキリ": [
 		"IDOLYPRIDE_v1_Jan_2021"

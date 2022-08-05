@@ -3509,6 +3509,26 @@
 		"startingTimestampMs": "1639969200000",
 		"endingTimestampMs": "1643857140000"
 	},
+	"BNE_OPBR_official_Event_for_the_film_Ado_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_OPBR_official_Event_for_the_film_Ado_Aug_2022/BNE_OPBR_official_Event_for_the_film_Ado_Aug_2022.png",
+		"startingTimestampMs": "1659704400000",
+		"endingTimestampMs": "1667480340000"
+	},
+	"BNE_OPBR_official_Event_for_the_film_Luffy_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_OPBR_official_Event_for_the_film_Luffy_Aug_2022/BNE_OPBR_official_Event_for_the_film_Luffy_Aug_2022.png",
+		"startingTimestampMs": "1659704400000",
+		"endingTimestampMs": "1667480340000"
+	},
+	"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022/BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022.png",
+		"startingTimestampMs": "1659704400000",
+		"endingTimestampMs": "1667480340000"
+	},
+	"BNE_OPBR_official_Event_for_the_film_Uta_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_OPBR_official_Event_for_the_film_Uta_Aug_2022/BNE_OPBR_official_Event_for_the_film_Uta_Aug_2022.png",
+		"startingTimestampMs": "1659704400000",
+		"endingTimestampMs": "1667480340000"
+	},
 	"BNE_bountyrush_Feb_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BNE_bountyrush_Feb_2022/BNE_bountyrush_Feb_2022.png",
 		"startingTimestampMs": "1643857200000",
