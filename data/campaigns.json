@@ -35384,6 +35384,11 @@
 		"startingTimestampMs": "1643925600000",
 		"endingTimestampMs": "1651474740000"
 	},
+	"SamsungBrasil_Social_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SamsungBrasil_Social_Aug_2022/SamsungBrasil_Social_Aug_2022.png",
+		"startingTimestampMs": "1659668460000",
+		"endingTimestampMs": "1666277940000"
+	},
 	"SamsungGalaxy_JP_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SamsungGalaxy_JP_2020/SamsungGalaxy_JP_2020.png",
 		"startingTimestampMs": "1597762800000",
