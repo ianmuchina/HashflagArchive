@@ -20404,6 +20404,11 @@
 		"startingTimestampMs": "1642150800000",
 		"endingTimestampMs": "1672556400000"
 	},
+	"LEC_teal_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LEC_teal_2022_v2/LEC_teal_2022_v2.png",
+		"startingTimestampMs": "1641034800000",
+		"endingTimestampMs": "1661410740000"
+	},
 	"LEFT_SCHMG_EXCLAMATION_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LEFT_SCHMG_EXCLAMATION_2021/LEFT_SCHMG_EXCLAMATION_2021.png",
 		"startingTimestampMs": "1626912000000",
@@ -40284,6 +40289,16 @@
 		"startingTimestampMs": "1644499800000",
 		"endingTimestampMs": "1660114740000"
 	},
+	"Universal_Pictures_Nope_ATEYES_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Universal_Pictures_Nope_ATEYES_Aug_2022/Universal_Pictures_Nope_ATEYES_Aug_2022.png",
+		"startingTimestampMs": "1659733200000",
+		"endingTimestampMs": "1667509200000"
+	},
+	"Universal_Pictures_Nope_AWAYFROMEYES_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Universal_Pictures_Nope_AWAYFROMEYES_Aug_2022/Universal_Pictures_Nope_AWAYFROMEYES_Aug_2022.png",
+		"startingTimestampMs": "1659733200000",
+		"endingTimestampMs": "1667509200000"
+	},
 	"Universal_Pictures_Nope_Cloud_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Universal_Pictures_Nope_Cloud_2022_v2/Universal_Pictures_Nope_Cloud_2022_v2.png",
 		"startingTimestampMs": "1644739200000",
@@ -40408,6 +40423,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/VH1_RuPauls_Drag_Race_2021/VH1_RuPauls_Drag_Race_2021.png",
 		"startingTimestampMs": "1640581200000",
 		"endingTimestampMs": "1648439940000"
+	},
+	"VH1s_Love_and_Hip_Hop_Atlanta_S10B_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/VH1s_Love_and_Hip_Hop_Atlanta_S10B_Aug_2022/VH1s_Love_and_Hip_Hop_Atlanta_S10B_Aug_2022.png",
+		"startingTimestampMs": "1659733200000",
+		"endingTimestampMs": "1667682000000"
 	},
 	"VICETVDarkSideoftheRing_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/VICETVDarkSideoftheRing_2021/VICETVDarkSideoftheRing_2021.png",
