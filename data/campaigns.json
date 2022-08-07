@@ -23099,6 +23099,11 @@
 		"startingTimestampMs": "1629464400000",
 		"endingTimestampMs": "1630069200000"
 	},
+	"MLS_All_Star_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLS_All_Star_Jul_2022/MLS_All_Star_Jul_2022.png",
+		"startingTimestampMs": "1659877200000",
+		"endingTimestampMs": "1660449600000"
+	},
 	"MLS_JerseySwapEntry": {
 		"assetUrl": "https://abs.twimg.com/hashflags/MLS_JerseySwapEntry/MLS_JerseySwapEntry.png",
 		"startingTimestampMs": "1621483200000",

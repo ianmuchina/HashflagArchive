@@ -32235,7 +32235,8 @@
 		"Muzikal_Lawak_Superstar_3_Jul_2022"
 	],
 	"mlsallstar": [
-		"MLS_AllStar_2021_MLSAllStar"
+		"MLS_AllStar_2021_MLSAllStar",
+		"MLS_All_Star_Jul_2022"
 	],
 	"mlscup": [
 		"MLSCup_2021",
@@ -32250,6 +32251,9 @@
 	],
 	"mlsishere": [
 		"ESPN_MLS_2020_1"
+	],
+	"mlsnextallstar": [
+		"MLS_All_Star_Jul_2022"
 	],
 	"mlt": [
 		"Paralympics_2021_MLT",
