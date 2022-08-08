@@ -424,6 +424,9 @@
 	"2022sagawards": [
 		"sagawards2022"
 	],
+	"2022videovanguard": [
+		"MTV_VMAs_Aug_2022"
+	],
 	"2022高校野球": [
 		"ABC_High_School_Baseball_Jul_2022"
 	],
@@ -33116,6 +33119,9 @@
 		"MTVAwards_2021",
 		"MTV_Movie_and_TV_Awards_May_2022"
 	],
+	"mtvvanguard": [
+		"MTV_VMAs_Aug_2022"
+	],
 	"mtvvma": [
 		"MTV_VMAs_2021",
 		"2020_MTVVideoMusicAwards",
@@ -34589,8 +34595,23 @@
 		"NickiMinajPinkprintAnniversary2020",
 		"Nicki_Minaj_Mixtape_2021_V2"
 	],
+	"nickiminajvanguard": [
+		"MTV_VMAs_Aug_2022"
+	],
 	"nickisexpensive": [
 		"TyNicki_2020_add"
+	],
+	"nickivanguard": [
+		"MTV_VMAs_Aug_2022"
+	],
+	"nickivideovanguard": [
+		"MTV_VMAs_Aug_2022"
+	],
+	"nickivmas": [
+		"MTV_VMAs_Aug_2022"
+	],
+	"nickivmavanguard": [
+		"MTV_VMAs_Aug_2022"
 	],
 	"nickjonas": [
 		"NJ_2021"
@@ -53920,6 +53941,12 @@
 		"2020_MTVVideoMusicAwards",
 		"Paramount_VMAs_Jul_2022"
 	],
+	"videovanguard": [
+		"MTV_VMAs_Aug_2022"
+	],
+	"videovanguard2022": [
+		"MTV_VMAs_Aug_2022"
+	],
 	"vie": [
 		"Paralympics_2021_VIE",
 		"Olympics_Countries_2021_VIE"
@@ -54153,6 +54180,9 @@
 	],
 	"vmastancam": [
 		"2020_VMAs_StanCam"
+	],
+	"vmavanguard": [
+		"MTV_VMAs_Aug_2022"
 	],
 	"voaintz": [
 		"CBLOL_INTZ_Season_2022",
