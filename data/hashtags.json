@@ -823,7 +823,8 @@
 	"88rising": [
 		"KPOP_88rising_2020",
 		"88RISING_May_2021",
-		"88rising_Coachella_Apr_2022"
+		"88rising_Coachella_Apr_2022",
+		"88Rising_HITC_LA_Festival_Aug_2022"
 	],
 	"88risingcoachella": [
 		"88rising_Coachella_Apr_2022"
@@ -21137,7 +21138,8 @@
 	],
 	"headintheclouds": [
 		"88RISING_May_2021",
-		"88rising_Coachella_Apr_2022"
+		"88rising_Coachella_Apr_2022",
+		"88Rising_HITC_LA_Festival_Aug_2022"
 	],
 	"headinthecloudsforever": [
 		"88rising_Coachella_Apr_2022"
@@ -21584,8 +21586,14 @@
 	"hitcfest": [
 		"88RISING_May_2021"
 	],
+	"hitcfestival": [
+		"88Rising_HITC_LA_Festival_Aug_2022"
+	],
 	"hitcforever": [
 		"88rising_Coachella_Apr_2022"
+	],
+	"hitcla": [
+		"88Rising_HITC_LA_Festival_Aug_2022"
 	],
 	"hitmansbodyguard": [
 		"HitmansWifesBodyguard_2021_SalmaRyan_",
@@ -25315,7 +25323,8 @@
 		"Paramount_SpongeontheRun_KampKoral_2021"
 	],
 	"kanan": [
-		"RaisingKanan_July_2021"
+		"RaisingKanan_July_2021",
+		"Raising_Kanan_S2_Aug_2022"
 	],
 	"kananstark": [
 		"RaisingKanan_July_2021"
@@ -39183,7 +39192,8 @@
 		"GhostStarz_S2_2021"
 	],
 	"powerbookiii": [
-		"RaisingKanan_July_2021"
+		"RaisingKanan_July_2021",
+		"Raising_Kanan_S2_Aug_2022"
 	],
 	"powerbookiv": [
 		"STARZ_Power_Book_Force_2022"
@@ -40444,10 +40454,12 @@
 		"MLS_2020_MLSCupPlayoffs_NE"
 	],
 	"raisingkanan": [
-		"RaisingKanan_July_2021"
+		"RaisingKanan_July_2021",
+		"Raising_Kanan_S2_Aug_2022"
 	],
 	"raisingkananpremiere": [
-		"RaisingKanan_July_2021"
+		"RaisingKanan_July_2021",
+		"Raising_Kanan_S2_Aug_2022"
 	],
 	"rakita": [
 		"JagameThandhiramOnNetflix_2021"
@@ -40572,6 +40584,9 @@
 	],
 	"rapper": [
 		"HipHop_2021_Campaign_Emcee"
+	],
+	"raq": [
+		"Raising_Kanan_S2_Aug_2022"
 	],
 	"rashamidesai": [
 		"BiggBoss_contestant_RashamiDesai_2022"
@@ -52062,6 +52077,9 @@
 	],
 	"tweetbird": [
 		"HBOMax_TweetyBird_2020"
+	],
+	"tweetclo": [
+		"88Rising_HITC_LA_Festival_Aug_2022"
 	],
 	"tweeteat": [
 		"TweetEats_SeasonOne_2021"
