@@ -5304,6 +5304,12 @@
 	"belikemike": [
 		"Gatorade_BeLikeMike_2020"
 	],
+	"bella": [
+		"Bella2022"
+	],
+	"bellapoarch": [
+		"Bella2022"
+	],
 	"bellatrix": [
 		"HBO_Max_Harry_Potter_20th_REunion_Bellatrix_2021"
 	],
@@ -11941,8 +11947,14 @@
 	"df2020": [
 		"Dreamforce2020"
 	],
+	"df2022": [
+		"Salesforce_Dreamforce_Q3_Aug_2022"
+	],
 	"df21": [
 		"Salesforce_df21"
+	],
+	"df22": [
+		"Salesforce_Dreamforce_Q3_Aug_2022"
 	],
 	"df2u": [
 		"Dreamforce2020_add"
@@ -13104,6 +13116,9 @@
 	"dollfaces2": [
 		"Hulu_Dollface_S2_2022"
 	],
+	"dollsep": [
+		"Bella2022"
+	],
 	"dom": [
 		"Olympics_Countries_2021_DOM",
 		"Paralympics_2021_DOM"
@@ -13610,13 +13625,20 @@
 	],
 	"dreamforce": [
 		"Dreamforce2020",
-		"Salesforce_df21"
+		"Salesforce_df21",
+		"Salesforce_Dreamforce_Q3_Aug_2022"
 	],
 	"dreamforce20": [
 		"Dreamforce2020"
 	],
 	"dreamforce2020": [
 		"Dreamforce2020"
+	],
+	"dreamforce2022": [
+		"Salesforce_Dreamforce_Q3_Aug_2022"
+	],
+	"dreamforce22": [
+		"Salesforce_Dreamforce_Q3_Aug_2022"
 	],
 	"dreamog": [
 		"EsportsAllAccess_Jan_2021_V2_OG",
@@ -28615,6 +28637,9 @@
 	"livevictoriously": [
 		"GreyGooseUSOpen_2020"
 	],
+	"livinghell": [
+		"Bella2022"
+	],
 	"livingtheelectricprogress": [
 		"AudideMexico_e-Tron_S_Sportback_Jun_2022"
 	],
@@ -34966,6 +34991,9 @@
 		"SearchlightNomadland_2020",
 		"SearchlightNomadland_2021_ext",
 		"SearchlightNomadland_2021_ext2"
+	],
+	"nomansland": [
+		"Bella2022"
 	],
 	"nomirenarriba": [
 		"Netflix_DontLookUpFilm_2021"

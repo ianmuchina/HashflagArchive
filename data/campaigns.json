@@ -4399,6 +4399,11 @@
 		"startingTimestampMs": "1639976400000",
 		"endingTimestampMs": "1643691540000"
 	},
+	"Bella2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bella2022/Bella2022.png",
+		"startingTimestampMs": "1660170600000",
+		"endingTimestampMs": "1662595200000"
+	},
 	"Belly_Album_Emoji_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Belly_Album_Emoji_2021/Belly_Album_Emoji_2021.png",
 		"startingTimestampMs": "1630029600000",
@@ -35413,6 +35418,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Salesforce_Dreamforce_Dec_2021/Salesforce_Dreamforce_Dec_2021.png",
 		"startingTimestampMs": "1638561600000",
 		"endingTimestampMs": "1641023940000"
+	},
+	"Salesforce_Dreamforce_Q3_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Salesforce_Dreamforce_Q3_Aug_2022/Salesforce_Dreamforce_Q3_Aug_2022.png",
+		"startingTimestampMs": "1660176000000",
+		"endingTimestampMs": "1668124800000"
 	},
 	"Salesforce_Global_World_Tour_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Salesforce_Global_World_Tour_2022_v2/Salesforce_Global_World_Tour_2022_v2.png",
