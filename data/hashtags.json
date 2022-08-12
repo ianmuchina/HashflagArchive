@@ -550,6 +550,9 @@
 	"2klslamopen": [
 		"NBA_2KL_SLAM_2022"
 	],
+	"2klstealopen": [
+		"NBA_2KL_2KLStealOpen_Aug_2022"
+	],
 	"2klswitchopen": [
 		"NBA_2KL_2KLSwitchOpen_Jun_2022"
 	],
@@ -50341,7 +50344,8 @@
 		"ZolaMovie_2021"
 	],
 	"theticket2kl": [
-		"TheTicket2KL_2021"
+		"TheTicket2KL_2021",
+		"NBA_2KL_TheTicket2KL_Aug_2022"
 	],
 	"thetimetravelerswife": [
 		"HBO_Time_Travelers_Wife_May_2022"
