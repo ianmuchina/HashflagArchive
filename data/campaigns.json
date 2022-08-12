@@ -37294,6 +37294,11 @@
 		"startingTimestampMs": "1656298800000",
 		"endingTimestampMs": "1667271540000"
 	},
+	"SueEmoji2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SueEmoji2022/SueEmoji2022.png",
+		"startingTimestampMs": "1660312800000",
+		"endingTimestampMs": "1663736340000"
+	},
 	"Sulamericana_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Sulamericana_2020/Sulamericana_2020.png",
 		"startingTimestampMs": "1583118000000",
@@ -37543,6 +37548,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Sydney_Mardi_Gras_2022_add2/Sydney_Mardi_Gras_2022_add2.png",
 		"startingTimestampMs": "1645128000000",
 		"endingTimestampMs": "1646571540000"
+	},
+	"SylviaEmoji2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SylviaEmoji2022/SylviaEmoji2022.png",
+		"startingTimestampMs": "1660312800000",
+		"endingTimestampMs": "1663736340000"
 	},
 	"TABCorp_TABEverest_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/TABCorp_TABEverest_2020/TABCorp_TABEverest_2020.png",
