@@ -11924,6 +11924,11 @@
 		"startingTimestampMs": "1636531200000",
 		"endingTimestampMs": "1644393540000"
 	},
+	"FX_Little_Demon_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FX_Little_Demon_Aug_2022/FX_Little_Demon_Aug_2022.png",
+		"startingTimestampMs": "1660287600000",
+		"endingTimestampMs": "1668153540000"
+	},
 	"FX_Mayans_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FX_Mayans_2021/FX_Mayans_2021.png",
 		"startingTimestampMs": "1613980800000",
@@ -32538,6 +32543,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Paramountplus_Players_Jun_2022/Paramountplus_Players_Jun_2022.png",
 		"startingTimestampMs": "1655362800000",
 		"endingTimestampMs": "1663138740000"
+	},
+	"Paramountplus_Secret_Headquarters_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramountplus_Secret_Headquarters_Aug_2022/Paramountplus_Secret_Headquarters_Aug_2022.png",
+		"startingTimestampMs": "1660287600000",
+		"endingTimestampMs": "1668153540000"
 	},
 	"Paramountplus_South_Park_Special_3_4_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Paramountplus_South_Park_Special_3_4_2022/Paramountplus_South_Park_Special_3_4_2022.png",
