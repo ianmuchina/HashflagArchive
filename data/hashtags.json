@@ -67279,7 +67279,11 @@
 	],
 	"ライアフ": [
 		"LifeafterUpdateEvent_2021",
-		"lifeafter_game_season3_2021"
+		"lifeafter_game_season3_2021",
+		"NetEaseLifeafter_game2022"
+	],
+	"ライアフゾンビと荒海": [
+		"NetEaseLifeafter_game2022"
 	],
 	"ライキン": [
 		"Xmasbox_C_2020_Lilith",
@@ -67306,13 +67310,15 @@
 	],
 	"ライフアフター": [
 		"LifeafterUpdateEvent_2021",
-		"lifeafter_game_season3_2021"
+		"lifeafter_game_season3_2021",
+		"NetEaseLifeafter_game2022"
 	],
 	"ライフアフターシーズン3": [
 		"lifeafter_game_season3_2021"
 	],
 	"ライフアフター建築": [
-		"lifeafter_game_season3_2021"
+		"lifeafter_game_season3_2021",
+		"NetEaseLifeafter_game2022"
 	],
 	"ライフウィズウォーク": [
 		"DQWalk_Aniv_B1_2020_H2",
@@ -68205,6 +68211,9 @@
 	],
 	"企業の説明会事前予約スタート": [
 		"MynaviShinsotsuLaunch_Feb2021"
+	],
+	"伊織もえをゾンビと荒海から救え": [
+		"NetEaseLifeafter_game2022"
 	],
 	"伝説の最後の龍": [
 		"Disney_RayaandtheLastDragon_2021_Sisu"
