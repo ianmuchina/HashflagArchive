@@ -50779,6 +50779,9 @@
 		"NBATeam20192020Season_Emojis_OKC",
 		"NBA_2021_Teams_ThunderUp"
 	],
+	"thursdaynightfootball": [
+		"Prime_Video_Thursday_Night_Football_Aug_2022"
+	],
 	"thursdays_child": [
 		"TXT_Hybe_Member_2_Apr_2022"
 	],
@@ -51220,6 +51223,9 @@
 	"tms6": [
 		"TheMaskedSingerFOX_Sept_2021"
 	],
+	"tnf": [
+		"Prime_Video_Thursday_Night_Football_Aug_2022"
+	],
 	"tnfonfox": [
 		"NFLonFOX_2021"
 	],
@@ -51227,7 +51233,11 @@
 		"Amazon_Studios_TNF_Feb_2022",
 		"PrimeVideo_TNF_2020_ext",
 		"PrimeVideo_TNF_2020",
-		"Amazon_Studios_TNF_Feb_2022_extend"
+		"Amazon_Studios_TNF_Feb_2022_extend",
+		"Prime_Video_Thursday_Night_Football_Aug_2022"
+	],
+	"tnfonprimevideo": [
+		"Prime_Video_Thursday_Night_Football_Aug_2022"
 	],
 	"tntgothockey": [
 		"TNTGotHockey_2022",
