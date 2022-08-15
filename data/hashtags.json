@@ -63687,6 +63687,9 @@
 	"ようこそさよなら": [
 		"Netflix_Imawanokunino_Alice_2020_v2"
 	],
+	"ようこそシーモアタウンへ": [
+		"Comic_Cmoa_NTT_Solmare_Summer_Campaign_Aug_2022"
+	],
 	"よしもと芸人eじゃんけん頂上決定戦": [
 		"EnSol_PR_Championship_2020"
 	],
@@ -64686,7 +64689,8 @@
 		"eBayJapanGKQoo10_shopping_2020"
 	],
 	"コミックシーモア": [
-		"NTT_Solmare_Xmasbox_2021"
+		"NTT_Solmare_Xmasbox_2021",
+		"Comic_Cmoa_NTT_Solmare_Summer_Campaign_Aug_2022"
 	],
 	"コルダ": [
 		"KOEI_kinnironocorda_March_2021"
@@ -64982,7 +64986,11 @@
 		"DisneyPlus_SheHulk_S1_JenWalters"
 	],
 	"シーモア": [
-		"NTT_Solmare_Xmasbox_2021"
+		"NTT_Solmare_Xmasbox_2021",
+		"Comic_Cmoa_NTT_Solmare_Summer_Campaign_Aug_2022"
+	],
+	"シーモアタウン": [
+		"Comic_Cmoa_NTT_Solmare_Summer_Campaign_Aug_2022"
 	],
 	"シーモンスター": [
 		"Disney_PixarLuca_Luca_2021"
