@@ -6430,6 +6430,9 @@
 		"Tezos_2022_extend",
 		"Tezos_Round_2_Jun_2022"
 	],
+	"blockpartyworld": [
+		"BLOCK_PARTY_NG_Aug_2022"
+	],
 	"blocoemcasa": [
 		"Carnaval_2021"
 	],
@@ -54116,6 +54119,12 @@
 	"vianoce": [
 		"Christmas_2020"
 	],
+	"vibeoflagos": [
+		"BLOCK_PARTY_NG_Aug_2022"
+	],
+	"vibeofyouth": [
+		"BLOCK_PARTY_NG_Aug_2022"
+	],
 	"vibin": [
 		"Kpop_Youngjae_Oct2021"
 	],
@@ -57553,6 +57562,9 @@
 	],
 	"yourhonor": [
 		"Showtime_Dec_2020"
+	],
+	"yourpartysparty": [
+		"BLOCK_PARTY_NG_Aug_2022"
 	],
 	"yoursforthemaking": [
 		"Tesco_Easter_Green_Rabbit_2022"

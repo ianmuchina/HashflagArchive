@@ -3519,6 +3519,11 @@
 		"startingTimestampMs": "1606208400000",
 		"endingTimestampMs": "1614153600000"
 	},
+	"BLOCK_PARTY_NG_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BLOCK_PARTY_NG_Aug_2022/BLOCK_PARTY_NG_Aug_2022.png",
+		"startingTimestampMs": "1660740960000",
+		"endingTimestampMs": "1672491360000"
+	},
 	"BMW_2GC_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BMW_2GC_2020/BMW_2GC_2020.png",
 		"startingTimestampMs": "1605263160000",
