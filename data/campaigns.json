@@ -7734,6 +7734,11 @@
 		"startingTimestampMs": "1653581280000",
 		"endingTimestampMs": "1661530080000"
 	},
+	"DL2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DL2022/DL2022.png",
+		"startingTimestampMs": "1660770120000",
+		"endingTimestampMs": "1663372800000"
+	},
 	"DMM_soukoumusume_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DMM_soukoumusume_2020/DMM_soukoumusume_2020.png",
 		"startingTimestampMs": "1592787600000",
