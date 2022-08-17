@@ -25609,10 +25609,17 @@
 		"KCON_2020",
 		"KPOP_May_KCONTACT_2021",
 		"KPOP_KCON_March_2021",
-		"KCON_2021_KCONTACT5"
+		"KCON_2021_KCONTACT5",
+		"CJ_ENM_KCON_event_KCONLA_Aug_2022"
 	],
 	"kcon2020japan": [
 		"KCONJapan_2020"
+	],
+	"kcon2022": [
+		"CJ_ENM_KCON_event_KCONLA_Aug_2022"
+	],
+	"kcon2022la": [
+		"CJ_ENM_KCON_event_KCONLA_Aug_2022"
 	],
 	"kcon2022premiere": [
 		"CJ_ENM_KCON_event_May_2022"
@@ -25628,6 +25635,9 @@
 	],
 	"kcon2022premiere_tokyo": [
 		"CJ_ENM_KCON_event_May_2022"
+	],
+	"kconofficial": [
+		"CJ_ENM_KCON_event_KCONLA_Aug_2022"
 	],
 	"kcontact": [
 		"KPOP_May_KCONTACT_2021",
@@ -25648,6 +25658,9 @@
 	],
 	"kcontacthi5": [
 		"KCON_2021_KCONTACT5"
+	],
+	"kconusa": [
+		"CJ_ENM_KCON_event_KCONLA_Aug_2022"
 	],
 	"kcs": [
 		"kucoincom_May_2022"
@@ -29561,7 +29574,8 @@
 		"AppleTVplus_Luck_Jul_2022",
 		"AppleTVplus_Luck_Aug_2022",
 		"AppleTVplus_Luck_Clover_Jul_2022",
-		"AppleTVplus_Luck_Toast_Aug_2022"
+		"AppleTVplus_Luck_Toast_Aug_2022",
+		"AppleTVplus_Luck_Cat_Aug_2022"
 	],
 	"lucktoastdropchallenge": [
 		"AppleTVplus_Luck_Toast_Aug_2022"
