@@ -9377,6 +9377,9 @@
 	"cix": [
 		"KPOP_CIX_2020"
 	],
+	"ck5": [
+		"Netflix_Cobra_Kai_S5_Aug_2022"
+	],
 	"claimtofame": [
 		"ABC_Claim_To_Fame_Jul_2022"
 	],
@@ -9678,10 +9681,20 @@
 		"BasketBall_Africa_League_cobra_2022"
 	],
 	"cobrakai": [
-		"Netflix_CobraKaiS3_2020"
+		"Netflix_CobraKaiS3_2020",
+		"Netflix_Cobra_Kai_S5_Aug_2022"
+	],
+	"cobrakainetflix": [
+		"Netflix_Cobra_Kai_S5_Aug_2022"
 	],
 	"cobrakaineverdies": [
 		"Netflix_CobraKaiS3_2020"
+	],
+	"cobrakaiseason5": [
+		"Netflix_Cobra_Kai_S5_Aug_2022"
+	],
+	"cobrakaiseries": [
+		"Netflix_Cobra_Kai_S5_Aug_2022"
 	],
 	"cocacola": [
 		"CocaCola_Brasil_Xmas"
@@ -26607,10 +26620,19 @@
 		"WalkersCrispXmas_2020",
 		"Lad_Baby_Sausage_Rolls_2021"
 	],
+	"ladbrokes": [
+		"Ladbrokes_Rocky_Q3_Aug_2022"
+	],
 	"ladbrokes5aside": [
 		"Ladbrokes_5aside_2020_v2",
 		"Ladbrokes_5aside_2020",
 		"Ladbrokes5ASide_May_2021"
+	],
+	"ladbrokespresents": [
+		"Ladbrokes_Rocky_Q3_Aug_2022"
+	],
+	"ladbrokesrocky": [
+		"Ladbrokes_Rocky_Q3_Aug_2022"
 	],
 	"ladeoro": [
 		"Hijos_de_Rivera_Dec_2021_v2"
@@ -55556,6 +55578,9 @@
 	],
 	"wenwuid": [
 		"Disney_ShangChi_2021_Wenwu"
+	],
+	"weplaytogether": [
+		"Ladbrokes_Rocky_Q3_Aug_2022"
 	],
 	"werecoverasone": [
 		"SafeTripPH_2021"
