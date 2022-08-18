@@ -30162,7 +30162,8 @@
 	],
 	"magicthegathering": [
 		"MagictheGathering_Q4_2021",
-		"MagicTheGathering_june_2021_"
+		"MagicTheGathering_june_2021_",
+		"HasbroWizards_of_the_Coast_Dominaria_United_Aug_2022_v2"
 	],
 	"magictogether": [
 		"NBA_Season_Teams_2021_MagicTogether",
@@ -33201,13 +33202,23 @@
 		"MagicTheGathering_june_2021_"
 	],
 	"mtgarena": [
-		"MagictheGathering_Q4_2021"
+		"MagictheGathering_Q4_2021",
+		"HasbroWizards_of_the_Coast_Dominaria_United_Aug_2022_v2"
+	],
+	"mtgbro": [
+		"HasbroWizards_of_the_Coast_Dominaria_United_Aug_2022_v2"
 	],
 	"mtgcrimson": [
 		"MagictheGathering_Q4_2021"
 	],
 	"mtgdnd": [
 		"MagicTheGathering_june_2021_"
+	],
+	"mtgdominaria": [
+		"HasbroWizards_of_the_Coast_Dominaria_United_Aug_2022_v2"
+	],
+	"mtgdominariaunited": [
+		"HasbroWizards_of_the_Coast_Dominaria_United_Aug_2022_v2"
 	],
 	"mtginnistrad": [
 		"MagictheGathering_Q4_2021"
