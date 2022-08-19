@@ -22854,7 +22854,8 @@
 		"LPL_2021_IGWIN"
 	],
 	"iheartrecovery": [
-		"Recovery_Month_Aug_2022"
+		"Recovery_Month_Aug_2022",
+		"Recovery_Month_Aug_2022_v2"
 	],
 	"ihmisoikeuksien": [
 		"Human_Rights_Day_2021",
@@ -23426,10 +23427,12 @@
 	],
 	"internationalrecoveryday": [
 		"RecoveryMonth_2021_add",
-		"Recovery_Month_Aug_2022"
+		"Recovery_Month_Aug_2022",
+		"Recovery_Month_Aug_2022_v2"
 	],
 	"internationalrecoverymonth": [
-		"Recovery_Month_Aug_2022"
+		"Recovery_Month_Aug_2022",
+		"Recovery_Month_Aug_2022_v2"
 	],
 	"internationalwomensday": [
 		"InternationalWomensDay2021"
@@ -32556,13 +32559,15 @@
 	"mobilizerecovery": [
 		"2020_RecoveryMonth",
 		"MobilizeRecovery21",
-		"Recovery_Month_Aug_2022"
+		"Recovery_Month_Aug_2022",
+		"Recovery_Month_Aug_2022_v2"
 	],
 	"mobilizerecovery21": [
 		"MobilizeRecovery21"
 	],
 	"mobilizerecovery22": [
-		"Recovery_Month_Aug_2022"
+		"Recovery_Month_Aug_2022",
+		"Recovery_Month_Aug_2022_v2"
 	],
 	"mobius": [
 		"Disney_LokiLaunch_Mobius_2021"
@@ -41225,12 +41230,14 @@
 	],
 	"recoveryday": [
 		"RecoveryMonth_2021_add",
-		"Recovery_Month_Aug_2022"
+		"Recovery_Month_Aug_2022",
+		"Recovery_Month_Aug_2022_v2"
 	],
 	"recoverymonth": [
 		"2020_RecoveryMonth",
 		"RecoveryMonth_2021",
-		"Recovery_Month_Aug_2022"
+		"Recovery_Month_Aug_2022",
+		"Recovery_Month_Aug_2022_v2"
 	],
 	"recoverymovement": [
 		"2020_RecoveryMonth"
