@@ -40314,6 +40314,11 @@
 		"startingTimestampMs": "1622073600000",
 		"endingTimestampMs": "1632725940000"
 	},
+	"USPS_Delivering_for_America_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/USPS_Delivering_for_America_Aug_2022/USPS_Delivering_for_America_Aug_2022.png",
+		"startingTimestampMs": "1660932540000",
+		"endingTimestampMs": "1668881340000"
+	},
 	"US_Census_2020_Flight2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/US_Census_2020_Flight2/US_Census_2020_Flight2.png",
 		"startingTimestampMs": "1595836800000",
