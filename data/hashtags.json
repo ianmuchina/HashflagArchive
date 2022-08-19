@@ -1658,6 +1658,12 @@
 		"DisneyWandavision_Agnes_2021_2000s_ext",
 		"DisneyWandavision_Agnes_2021_80s"
 	],
+	"agojie": [
+		"Sony_Pictures_The_Woman_King_Aug_2022"
+	],
+	"agojiewusuu": [
+		"Sony_Pictures_The_Woman_King_Aug_2022"
+	],
 	"agoraéponto": [
 		"PontoFrio_Rebrand_2021"
 	],
@@ -21526,6 +21532,9 @@
 	"heroisdomar": [
 		"Handball_WorldCup_Egypt_2021_POR"
 	],
+	"herreignbegins": [
+		"Sony_Pictures_The_Woman_King_Aug_2022"
+	],
 	"heungminson": [
 		"Sonnys_First_Tweet_Campaign_Mar_2022",
 		"Football_VIT_HeungMinSon_Jan_2021",
@@ -22573,6 +22582,9 @@
 	"iamarab": [
 		"TwitterArabsArabHeritageWeeks2021"
 	],
+	"iamawomanking": [
+		"Sony_Pictures_The_Woman_King_Aug_2022"
+	],
 	"iamgreta": [
 		"Hulu_IAmGreta_2020"
 	],
@@ -22836,6 +22848,9 @@
 	],
 	"igwin": [
 		"LPL_2021_IGWIN"
+	],
+	"iheartrecovery": [
+		"Recovery_Month_Aug_2022"
 	],
 	"ihmisoikeuksien": [
 		"Human_Rights_Day_2021",
@@ -23406,7 +23421,11 @@
 		"InternationalHolocaustDayofRemembrance_2021"
 	],
 	"internationalrecoveryday": [
-		"RecoveryMonth_2021_add"
+		"RecoveryMonth_2021_add",
+		"Recovery_Month_Aug_2022"
+	],
+	"internationalrecoverymonth": [
+		"Recovery_Month_Aug_2022"
 	],
 	"internationalwomensday": [
 		"InternationalWomensDay2021"
@@ -32532,10 +32551,14 @@
 	],
 	"mobilizerecovery": [
 		"2020_RecoveryMonth",
-		"MobilizeRecovery21"
+		"MobilizeRecovery21",
+		"Recovery_Month_Aug_2022"
 	],
 	"mobilizerecovery21": [
 		"MobilizeRecovery21"
+	],
+	"mobilizerecovery22": [
+		"Recovery_Month_Aug_2022"
 	],
 	"mobius": [
 		"Disney_LokiLaunch_Mobius_2021"
@@ -41197,11 +41220,13 @@
 		"MentalHealthMonth_2021_add2"
 	],
 	"recoveryday": [
-		"RecoveryMonth_2021_add"
+		"RecoveryMonth_2021_add",
+		"Recovery_Month_Aug_2022"
 	],
 	"recoverymonth": [
 		"2020_RecoveryMonth",
-		"RecoveryMonth_2021"
+		"RecoveryMonth_2021",
+		"Recovery_Month_Aug_2022"
 	],
 	"recoverymovement": [
 		"2020_RecoveryMonth"
@@ -50734,6 +50759,9 @@
 	"thewitcher": [
 		"Netflix_Witcher_S2_Wolf_Head_2021"
 	],
+	"thewomanking": [
+		"Sony_Pictures_The_Woman_King_Aug_2022"
+	],
 	"thewonderyears": [
 		"TheWonderYearsABC_2021"
 	],
@@ -54363,6 +54391,9 @@
 		"Logic_Album_Emoji_2022",
 		"Logic_Album_2022"
 	],
+	"violadavis": [
+		"Sony_Pictures_The_Woman_King_Aug_2022"
+	],
 	"violentdelights": [
 		"HBO_Westworld_Jun_2022"
 	],
@@ -55181,6 +55212,9 @@
 		"Complexity_Gaming_2022",
 		"Esports_AllAccess_2020_Complexity",
 		"EsportsAllAccess_Jan_2021_COLWIN"
+	],
+	"wearedahomey": [
+		"Sony_Pictures_The_Woman_King_Aug_2022"
 	],
 	"wearegolden": [
 		"HarryStyles_Golden_2020",
@@ -56467,6 +56501,15 @@
 	],
 	"wolvesback": [
 		"NBA_Season_Teams_2022_WolvesBack"
+	],
+	"womanking": [
+		"Sony_Pictures_The_Woman_King_Aug_2022"
+	],
+	"womankingmovie": [
+		"Sony_Pictures_The_Woman_King_Aug_2022"
+	],
+	"womankingwarrior": [
+		"Sony_Pictures_The_Woman_King_Aug_2022"
 	],
 	"womeninmusicpartiii": [
 		"HAIM_2020"
