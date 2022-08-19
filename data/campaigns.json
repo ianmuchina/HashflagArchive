@@ -13149,6 +13149,11 @@
 		"startingTimestampMs": "1635206400000",
 		"endingTimestampMs": "1643227200000"
 	},
+	"Gamescon_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Gamescon_Aug_2022/Gamescon_Aug_2022.png",
+		"startingTimestampMs": "1660921200000",
+		"endingTimestampMs": "1661839200000"
+	},
 	"GandhiJayanti_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/GandhiJayanti_2020/GandhiJayanti_2020.png",
 		"startingTimestampMs": "1601216460000",
