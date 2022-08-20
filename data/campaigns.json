@@ -7739,6 +7739,11 @@
 		"startingTimestampMs": "1638939600000",
 		"endingTimestampMs": "1649394000000"
 	},
+	"DKSportsbook_Kansas_Launch_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DKSportsbook_Kansas_Launch_Aug_2022/DKSportsbook_Kansas_Launch_Aug_2022.png",
+		"startingTimestampMs": "1660953600000",
+		"endingTimestampMs": "1664572500000"
+	},
 	"DKSportsbook_Ontario_Launch_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DKSportsbook_Ontario_Launch_May_2022/DKSportsbook_Ontario_Launch_May_2022.png",
 		"startingTimestampMs": "1653581280000",
@@ -8213,6 +8218,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/DevPlatformQ4Moment2021BuildWhatsNext/DevPlatformQ4Moment2021BuildWhatsNext.png",
 		"startingTimestampMs": "1636981200000",
 		"endingTimestampMs": "1652619600000"
+	},
+	"Developer_Platform_Chirp_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Developer_Platform_Chirp_Aug_2022/Developer_Platform_Chirp_Aug_2022.png",
+		"startingTimestampMs": "1660946400000",
+		"endingTimestampMs": "1672556400000"
 	},
 	"Dew_x_Ruffles_NBA_All_Star_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Dew_x_Ruffles_NBA_All_Star_2022/Dew_x_Ruffles_NBA_All_Star_2022.png",
@@ -41409,6 +41419,11 @@
 		"startingTimestampMs": "1650636000000",
 		"endingTimestampMs": "1666540800000"
 	},
+	"WNBA_Season_LasVegasAces_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WNBA_Season_LasVegasAces_2022_v2/WNBA_Season_LasVegasAces_2022_v2.png",
+		"startingTimestampMs": "1660953600000",
+		"endingTimestampMs": "1666540800000"
+	},
 	"WNBA_Season_Logo_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WNBA_Season_Logo_2022/WNBA_Season_Logo_2022.png",
 		"startingTimestampMs": "1650636000000",
@@ -41447,6 +41462,11 @@
 	"WNBA_Season_WashingtonMystics_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WNBA_Season_WashingtonMystics_2022/WNBA_Season_WashingtonMystics_2022.png",
 		"startingTimestampMs": "1650636000000",
+		"endingTimestampMs": "1666540800000"
+	},
+	"WNBA_Season_WashingtonMystics_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WNBA_Season_WashingtonMystics_2022_v2/WNBA_Season_WashingtonMystics_2022_v2.png",
+		"startingTimestampMs": "1660953600000",
 		"endingTimestampMs": "1666540800000"
 	},
 	"WNBA_Teams_2021_ATL": {
