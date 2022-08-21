@@ -14209,6 +14209,11 @@
 		"startingTimestampMs": "1651762800000",
 		"endingTimestampMs": "1667275140000"
 	},
+	"HBO_House_of_the_Dragon_Hightower_Sigil_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Hightower_Sigil_Aug_2022/HBO_House_of_the_Dragon_Hightower_Sigil_Aug_2022.png",
+		"startingTimestampMs": "1661097600000",
+		"endingTimestampMs": "1668830340000"
+	},
 	"HBO_House_of_the_Dragon_Mar_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Mar_2022/HBO_House_of_the_Dragon_Mar_2022.png",
 		"startingTimestampMs": "1648652400000",
@@ -14253,6 +14258,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Throne_Jul_2022/HBO_House_of_the_Dragon_Throne_Jul_2022.png",
 		"startingTimestampMs": "1658336400000",
 		"endingTimestampMs": "1666065540000"
+	},
+	"HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022/HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022.png",
+		"startingTimestampMs": "1661097600000",
+		"endingTimestampMs": "1668830340000"
 	},
 	"HBO_House_of_the_Dragon_Viserys_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Viserys_May_2022/HBO_House_of_the_Dragon_Viserys_May_2022.png",
@@ -19653,6 +19663,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Kpop_ASTRO_MJ_2021/Kpop_ASTRO_MJ_2021.png",
 		"startingTimestampMs": "1635390000000",
 		"endingTimestampMs": "1638284400000"
+	},
+	"Kpop_CIX_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Kpop_CIX_Aug_2022/Kpop_CIX_Aug_2022.png",
+		"startingTimestampMs": "1661094000000",
+		"endingTimestampMs": "1666364400000"
 	},
 	"Kpop_MUCON_sept_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Kpop_MUCON_sept_2021/Kpop_MUCON_sept_2021.png",
@@ -40413,6 +40428,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/US_InaugurationDay_2021/US_InaugurationDay_2021.png",
 		"startingTimestampMs": "1610946000000",
 		"endingTimestampMs": "1611766800000"
+	},
+	"US_Open_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/US_Open_Aug_2022/US_Open_Aug_2022.png",
+		"startingTimestampMs": "1661097600000",
+		"endingTimestampMs": "1663484400000"
 	},
 	"UVAExtension2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/UVAExtension2020/UVAExtension2020.png",

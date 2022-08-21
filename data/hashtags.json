@@ -8281,6 +8281,9 @@
 	"castielforever": [
 		"CW_Supernatural_FinaleSeason"
 	],
+	"castlehightide": [
+		"HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022"
+	],
 	"catchphrasedude": [
 		"Disney_FreeGuy_Dude_July_2021"
 	],
@@ -9400,7 +9403,11 @@
 		"StopViolenceAgainstWomen_2020"
 	],
 	"cix": [
-		"KPOP_CIX_2020"
+		"KPOP_CIX_2020",
+		"Kpop_CIX_Aug_2022"
+	],
+	"cix458": [
+		"Kpop_CIX_Aug_2022"
 	],
 	"ck5": [
 		"Netflix_Cobra_Kai_S5_Aug_2022"
@@ -13722,6 +13729,9 @@
 	],
 	"drelvira": [
 		"NetflixandChills_2021"
+	],
+	"driftmark": [
+		"HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022"
 	],
 	"drikbarbosa": [
 		"Unlock_and_Spaces_with_Drik_Jun_2022"
@@ -21624,6 +21634,9 @@
 	"highsensation": [
 		"EMOJI_MEGANE_RENAULT_Sept21"
 	],
+	"hightower": [
+		"HBO_House_of_the_Dragon_Hightower_Sigil_Aug_2022"
+	],
 	"hijalalan2022": [
 		"Philippines_General_Elections_2_2022_add2"
 	],
@@ -22178,6 +22191,9 @@
 		"DuneCharacter_2021_Beast",
 		"DuneCharacter_2021_Beast_v2"
 	],
+	"househightower": [
+		"HBO_House_of_the_Dragon_Hightower_Sigil_Aug_2022"
+	],
 	"houseofthedragon": [
 		"HouseoftheDragonHBO_2021",
 		"HBO_HouseoftheDragon_2021",
@@ -22203,6 +22219,9 @@
 		"HBO_House_of_the_Dragon_Mar_2022",
 		"HBO_House_of_the_Dragon_Sigil_May_2022",
 		"HBO_House_of_the_Dragon_Sigil_May_2022_v2"
+	],
+	"housevelaryon": [
+		"HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022"
 	],
 	"hov": [
 		"JayZReasonableDoubtAlbumAnniversary"
@@ -35947,6 +35966,9 @@
 	"oja21": [
 		"ONA21"
 	],
+	"ok_episode1": [
+		"Kpop_CIX_Aug_2022"
+	],
 	"okaynottobeokay": [
 		"Mello_Demi_2020_hands"
 	],
@@ -35966,6 +35988,9 @@
 	],
 	"okexgamefi": [
 		"OKEx_Sept_2021_"
+	],
+	"oknot": [
+		"Kpop_CIX_Aug_2022"
 	],
 	"oknottobeok": [
 		"Mello_Demi_2020"
@@ -45960,6 +45985,9 @@
 	"special_history_book": [
 		"KPOP_VIT_SF9_2020"
 	],
+	"spectacularawaits": [
+		"US_Open_Aug_2022"
+	],
 	"speedoflight": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Keqing"
 	],
@@ -49834,6 +49862,9 @@
 	"theheroesweowe": [
 		"MumbaiDiariesOnPrime_2021"
 	],
+	"thehightower": [
+		"HBO_House_of_the_Dragon_Hightower_Sigil_Aug_2022"
+	],
 	"thehills": [
 		"MTV_April_2021"
 	],
@@ -53518,10 +53549,17 @@
 	"usopen": [
 		"USOpen_2021",
 		"USOpen_2021_Tennis",
-		"USOpen_2020"
+		"USOpen_2020",
+		"US_Open_Aug_2022"
+	],
+	"usopen2022": [
+		"US_Open_Aug_2022"
 	],
 	"usopencocktail": [
 		"GreyGooseUSOpen_2020"
+	],
+	"usopentennis": [
+		"US_Open_Aug_2022"
 	],
 	"usorelse": [
 		"TI_2020"
@@ -54038,6 +54076,9 @@
 	],
 	"veiopraficar": [
 		"Avon_PowerStay_BR_2021"
+	],
+	"velaryon": [
+		"HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022"
 	],
 	"velgrespekt": [
 		"BullyingPreventionMonth_2020"
@@ -55590,6 +55631,9 @@
 	],
 	"welcometothewhitelotus": [
 		"HBO_TheWhiteLotus_2021"
+	],
+	"welighttheway": [
+		"HBO_House_of_the_Dragon_Hightower_Sigil_Aug_2022"
 	],
 	"wellchildgoldcup": [
 		"CheltenhamFestival_2021"
@@ -72873,7 +72917,8 @@
 		"Innisfree_serum_KR_2020"
 	],
 	"씨아이엑스": [
-		"KPOP_CIX_2020"
+		"KPOP_CIX_2020",
+		"Kpop_CIX_Aug_2022"
 	],
 	"씨엔블루": [
 		"KPOP_VIT_CNBLUE_2020"
