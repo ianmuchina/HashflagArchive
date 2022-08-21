@@ -17292,6 +17292,9 @@
 	"forthecrown": [
 		"MLS_2022_Team_CLT_2022"
 	],
+	"forthecup": [
+		"PresidentsCupGeneral2022"
+	],
 	"fortheh": [
 		"MLB_Teams_2020_HOU_V2_fixed",
 		"MLB_Teams_2020_HOU",
@@ -23550,6 +23553,9 @@
 		"WorldSuicidePreventionDay_2021",
 		"WorldSuicidePreventionDay_2020_add",
 		"WorldSuicidePreventionDay_2020"
+	],
+	"intlteam": [
+		"PresidentsCupINTLTEAM2022"
 	],
 	"into__universe": [
 		"NCSOFTUniverse2020"
@@ -39694,6 +39700,9 @@
 	"presidentloki": [
 		"Disney_LokiLaunch_PresidentLoki_2021"
 	],
+	"presidentscup": [
+		"PresidentsCupGeneral2022"
+	],
 	"pressefreiheit": [
 		"WorldPressFreedomDay_2021",
 		"World_Press_Freedom_Day_2022_v2"
@@ -53518,7 +53527,8 @@
 		"TI_2020"
 	],
 	"usteam": [
-		"RyderCup_2021_GoUSA"
+		"RyderCup_2021_GoUSA",
+		"PresidentsCupUSTEAM2022"
 	],
 	"usunited": [
 		"SnyderCut_HBOMax_2021",

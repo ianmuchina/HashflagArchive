@@ -33599,6 +33599,21 @@
 		"startingTimestampMs": "1600225200000",
 		"endingTimestampMs": "1605668400000"
 	},
+	"PresidentsCupGeneral2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PresidentsCupGeneral2022/PresidentsCupGeneral2022.png",
+		"startingTimestampMs": "1661090400000",
+		"endingTimestampMs": "1664596740000"
+	},
+	"PresidentsCupINTLTEAM2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PresidentsCupINTLTEAM2022/PresidentsCupINTLTEAM2022.png",
+		"startingTimestampMs": "1661090400000",
+		"endingTimestampMs": "1664596740000"
+	},
+	"PresidentsCupUSTEAM2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PresidentsCupUSTEAM2022/PresidentsCupUSTEAM2022.png",
+		"startingTimestampMs": "1661090400000",
+		"endingTimestampMs": "1664596740000"
+	},
 	"Pri_Alcantara_e_Emicida_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Pri_Alcantara_e_Emicida_Jun_2022/Pri_Alcantara_e_Emicida_Jun_2022.png",
 		"startingTimestampMs": "1655712000000",
