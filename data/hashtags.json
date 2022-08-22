@@ -3919,13 +3919,15 @@
 	"asus": [
 		"ASUS_CES_2022",
 		"ASUSOLED_2021",
-		"ASUS_Launch_Apr_2022"
+		"ASUS_Launch_Apr_2022",
+		"ASUS_Zenbook17_Fold_OLED_Aug_2022"
 	],
 	"asusces2022": [
 		"ASUS_CES_2022"
 	],
 	"asuslaunchevent": [
-		"ASUS_Launch_Apr_2022"
+		"ASUS_Launch_Apr_2022",
+		"ASUS_Zenbook17_Fold_OLED_Aug_2022"
 	],
 	"asusoled": [
 		"ASUSOLED_2021"
@@ -49906,7 +49908,8 @@
 		"Paramount_The_In_Between_2022"
 	],
 	"theincredibleunfolds": [
-		"ASUS_CES_2022"
+		"ASUS_CES_2022",
+		"ASUS_Zenbook17_Fold_OLED_Aug_2022"
 	],
 	"theinsidestory": [
 		"NBAonTNT2020",
@@ -53237,6 +53240,9 @@
 	],
 	"unexpectedguest": [
 		"JohnLewisChristmas2021UnexpectedGuest"
+	],
+	"unfoldyourimagination": [
+		"ASUS_Zenbook17_Fold_OLED_Aug_2022"
 	],
 	"unga": [
 		"2020_UNGA",
@@ -58066,6 +58072,9 @@
 	"zenbook": [
 		"ASUS_CES_2022",
 		"ASUS_Launch_Apr_2022"
+	],
+	"zenbook17fold": [
+		"ASUS_Zenbook17_Fold_OLED_Aug_2022"
 	],
 	"zendaya": [
 		"DuneCharacter_2021_Chani"
