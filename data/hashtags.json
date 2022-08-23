@@ -11724,6 +11724,18 @@
 		"IPL_2021_DC",
 		"IPL_2020_DelhiCapitals"
 	],
+	"delhicrime": [
+		"Delhi_Crimes_Season_Aug_2"
+	],
+	"delhicrime2": [
+		"Delhi_Crimes_Season_Aug_2"
+	],
+	"delhicrimeonnetlix": [
+		"Delhi_Crimes_Season_Aug_2"
+	],
+	"delhicrimeseason2": [
+		"Delhi_Crimes_Season_Aug_2"
+	],
 	"delight": [
 		"KPOP_EXO_BAEKHYUN_2020"
 	],
@@ -12974,6 +12986,9 @@
 		"LcK_2021_Teams_DK",
 		"LCK_Team_DWG_2022"
 	],
+	"dl2bloodyties": [
+		"dyinglight2_Skull_Aug_2022"
+	],
 	"dl7": [
 		"DemiAlbum_2021"
 	],
@@ -14082,7 +14097,8 @@
 		"StPatricksDay_2021"
 	],
 	"dyinglight2": [
-		"DyingLight2_Jan_2022"
+		"DyingLight2_Jan_2022",
+		"dyinglight2_Skull_Aug_2022"
 	],
 	"dynamicpitch": [
 		"KLeague_2021"
@@ -30099,6 +30115,9 @@
 	"madamerouge": [
 		"HBOMaxDoomPatrol_2021_MadameRouge"
 	],
+	"madamsir": [
+		"Delhi_Crimes_Season_Aug_2"
+	],
 	"madden21": [
 		"EAMadden21Launch_2020",
 		"EAMadden21Launch_2020_Ext"
@@ -39140,6 +39159,9 @@
 	],
 	"playthis": [
 		"SpotifyWorldMusicDayIN2020"
+	],
+	"playthismood": [
+		"Spotify_India_PlayThis_Aug_2022"
 	],
 	"playthisspotify": [
 		"SpotifyWorldMusicDayIN2020"
