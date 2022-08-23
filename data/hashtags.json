@@ -11544,6 +11544,9 @@
 		"Opioid_TakeBackDay_2021",
 		"Opioid_TakeBackDay_April_2021"
 	],
+	"deathknight": [
+		"World_of_Warcraft_Blizzard_Entertainment_Wrath_of_Lich_King_Aug_2022"
+	],
 	"deathonthenile": [
 		"Disney_Death_on_the_Nile_2022"
 	],
@@ -28393,6 +28396,9 @@
 	],
 	"librodebobafett": [
 		"DisneyPlus_BobaFett_BobaFett_S1_2021"
+	],
+	"lichking": [
+		"World_of_Warcraft_Blizzard_Entertainment_Wrath_of_Lich_King_Aug_2022"
 	],
 	"lichtschwert": [
 		"Disneyplus_Obi_Wan_Kenobi_Lightsaber_2022"
@@ -56949,6 +56955,9 @@
 	"worstyearinhistory": [
 		"NetflixsDeathto2020_v2"
 	],
+	"wotlk": [
+		"World_of_Warcraft_Blizzard_Entertainment_Wrath_of_Lich_King_Aug_2022"
+	],
 	"wotonprime": [
 		"AmazonStudios_WheelOfTime_2021_WOT",
 		"AmazonStudios_WheelOfTime_2021_WOT_lc"
@@ -56987,7 +56996,8 @@
 		"AmazonStudios_WheelOfTime_2021_Logain"
 	],
 	"wowclassic": [
-		"BurningCrusadeClassic_2021"
+		"BurningCrusadeClassic_2021",
+		"World_of_Warcraft_Blizzard_Entertainment_Wrath_of_Lich_King_Aug_2022"
 	],
 	"wowmindblown": [
 		"SmallGod_Connecting_The_Dots_Album_May_2022"
@@ -57029,6 +57039,9 @@
 		"SpotifyWrapped2021_bh",
 		"Spotify2020Wrapped_H_all",
 		"Spotify2020Wrapped_all_2_ext"
+	],
+	"wrathclassic": [
+		"World_of_Warcraft_Blizzard_Entertainment_Wrath_of_Lich_King_Aug_2022"
 	],
 	"wrblo2": [
 		"Davido_at_the_02_Feb_2022"
