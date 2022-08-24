@@ -3083,7 +3083,8 @@
 		"AppleEvent_Nov_2020",
 		"September_Event_2021",
 		"September-Event_rev0_Static_USEN_090721_PNG_TWITTER_CUSTOM-EMOJI_72x72_1",
-		"appleevent_march_2022_bl_us"
+		"appleevent_march_2022_bl_us",
+		"AppleEvent_824_global_launch_Aug_2022"
 	],
 	"applepayでも": [
 		"Mastercard_JP_Wave_2021"
@@ -10526,14 +10527,16 @@
 		"CryptocomCimate_2021",
 		"Euro_UK_2021_CRO",
 		"Olympics_Countries_2021_CRO",
-		"Foris_NBA_Campaign_May_2022"
+		"Foris_NBA_Campaign_May_2022",
+		"Foris_Referral_Campaign_Aug_2022"
 	],
 	"crocerossa": [
 		"WorldRedCrossDay_May_2021_add"
 	],
 	"crofam": [
 		"Cryptocom_Foris_SB_2022",
-		"Foris_NBA_Campaign_May_2022"
+		"Foris_NBA_Campaign_May_2022",
+		"Foris_Referral_Campaign_Aug_2022"
 	],
 	"crofighters": [
 		"CryptocomUFC_2021"
@@ -10637,7 +10640,11 @@
 		"Cryptocom_Foris_SB_2022",
 		"Cryptocom_FFTB_2021",
 		"CryptocomUFC_2021",
-		"Foris_NBA_Campaign_May_2022"
+		"Foris_NBA_Campaign_May_2022",
+		"Foris_Referral_Campaign_Aug_2022"
+	],
+	"cryptouni": [
+		"Foris_Referral_Campaign_Aug_2022"
 	],
 	"cryptowithcoinsph": [
 		"CoinsPH_Feb_2022"
@@ -16581,7 +16588,8 @@
 	"fftb": [
 		"Cryptocom_Foris_SB_2022",
 		"Cryptocom_FFTB_2021",
-		"Foris_NBA_Campaign_May_2022"
+		"Foris_NBA_Campaign_May_2022",
+		"Foris_Referral_Campaign_Aug_2022"
 	],
 	"ffオリジン": [
 		"SOPFFO_Release_Mar_2022_v2"

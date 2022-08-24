@@ -2689,6 +2689,11 @@
 		"startingTimestampMs": "1599548400000",
 		"endingTimestampMs": "1601276340000"
 	},
+	"AppleEvent_824_global_launch_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AppleEvent_824_global_launch_Aug_2022/AppleEvent_824_global_launch_Aug_2022.png",
+		"startingTimestampMs": "1661328000000",
+		"endingTimestampMs": "1669190340000"
+	},
 	"AppleEvent_Nov_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AppleEvent_Nov_2020/AppleEvent_Nov_2020.png",
 		"startingTimestampMs": "1604595600000",
@@ -12493,6 +12498,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Foris_NBA_Campaign_May_2022/Foris_NBA_Campaign_May_2022.png",
 		"startingTimestampMs": "1651860000000",
 		"endingTimestampMs": "1659808800000"
+	},
+	"Foris_Referral_Campaign_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Foris_Referral_Campaign_Aug_2022/Foris_Referral_Campaign_Aug_2022.png",
+		"startingTimestampMs": "1661367600000",
+		"endingTimestampMs": "1669316400000"
 	},
 	"FortnitePartyRoyale_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FortnitePartyRoyale_2020/FortnitePartyRoyale_2020.png",
