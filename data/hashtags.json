@@ -5720,7 +5720,8 @@
 	],
 	"bfilondonfilmfestival": [
 		"LondonFilmFestival2020",
-		"LFF20201"
+		"LFF20201",
+		"BFI_LFF_Aug_2022"
 	],
 	"bfilondonfilmfestival2020": [
 		"LondonFilmFestival2020"
@@ -28232,13 +28233,17 @@
 	],
 	"lff": [
 		"LondonFilmFestival2020",
-		"LFF20201"
+		"LFF20201",
+		"BFI_LFF_Aug_2022"
 	],
 	"lff2020": [
 		"LondonFilmFestival2020"
 	],
 	"lff20201": [
 		"LFF20201"
+	],
+	"lff2022": [
+		"BFI_LFF_Aug_2022"
 	],
 	"lffawards": [
 		"LFF20201"

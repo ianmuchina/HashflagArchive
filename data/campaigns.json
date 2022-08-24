@@ -3414,6 +3414,11 @@
 		"startingTimestampMs": "1647820800000",
 		"endingTimestampMs": "1648425600000"
 	},
+	"BFI_LFF_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BFI_LFF_Aug_2022/BFI_LFF_Aug_2022.png",
+		"startingTimestampMs": "1661299200000",
+		"endingTimestampMs": "1666569600000"
+	},
 	"BFI_and_Radio_Times_TV_Fest_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BFI_and_Radio_Times_TV_Fest_2022/BFI_and_Radio_Times_TV_Fest_2022.png",
 		"startingTimestampMs": "1651190340000",
