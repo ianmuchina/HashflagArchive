@@ -7749,6 +7749,11 @@
 		"startingTimestampMs": "1661385600000",
 		"endingTimestampMs": "1669334400000"
 	},
+	"DKCasino_DraftKingsCasino_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DKCasino_DraftKingsCasino_Aug_2022/DKCasino_DraftKingsCasino_Aug_2022.png",
+		"startingTimestampMs": "1661454000000",
+		"endingTimestampMs": "1669402800000"
+	},
 	"DKCasino_Evergreen_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DKCasino_Evergreen_2021/DKCasino_Evergreen_2021.png",
 		"startingTimestampMs": "1638939600000",
@@ -7773,6 +7778,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/DKSportsbook_Ontario_Launch_May_2022/DKSportsbook_Ontario_Launch_May_2022.png",
 		"startingTimestampMs": "1653581280000",
 		"endingTimestampMs": "1661530080000"
+	},
+	"DKSportsbook_SteppedUpSGP_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DKSportsbook_SteppedUpSGP_Aug_2022/DKSportsbook_SteppedUpSGP_Aug_2022.png",
+		"startingTimestampMs": "1661454000000",
+		"endingTimestampMs": "1669402800000"
 	},
 	"DL2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DL2022/DL2022.png",
@@ -10548,6 +10558,21 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_Louisana_State_Launch_2022/DraftKings_Louisana_State_Launch_2022.png",
 		"startingTimestampMs": "1643999400000",
 		"endingTimestampMs": "1651689000000"
+	},
+	"DraftKings_NFL_DraftEmWithDK_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_NFL_DraftEmWithDK_Aug_2022/DraftKings_NFL_DraftEmWithDK_Aug_2022.png",
+		"startingTimestampMs": "1661454000000",
+		"endingTimestampMs": "1669402800000"
+	},
+	"DraftKings_NFL_MillyMaker_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_NFL_MillyMaker_Aug_2022/DraftKings_NFL_MillyMaker_Aug_2022.png",
+		"startingTimestampMs": "1661454000000",
+		"endingTimestampMs": "1669402800000"
+	},
+	"DraftKings_NFL_Season_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_NFL_Season_Aug_2022/DraftKings_NFL_Season_Aug_2022.png",
+		"startingTimestampMs": "1661454000000",
+		"endingTimestampMs": "1669402800000"
 	},
 	"DraftKings_NY_State_Launch_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_NY_State_Launch_2022/DraftKings_NY_State_Launch_2022.png",
@@ -42393,6 +42418,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Westworld_Final_2020_rico_v2/Westworld_Final_2020_rico_v2.png",
 		"startingTimestampMs": "1588532400000",
 		"endingTimestampMs": "1596571200000"
+	},
+	"WhatsTheLine_NFL_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WhatsTheLine_NFL_Aug_2022/WhatsTheLine_NFL_Aug_2022.png",
+		"startingTimestampMs": "1661454000000",
+		"endingTimestampMs": "1669402800000"
 	},
 	"Whiskas_AU_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Whiskas_AU_Jun_2022/Whiskas_AU_Jun_2022.png",
