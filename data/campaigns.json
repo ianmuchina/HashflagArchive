@@ -7744,6 +7744,11 @@
 		"startingTimestampMs": "1650585600000",
 		"endingTimestampMs": "1666396800000"
 	},
+	"DKCasino_DraftKingsBigWin_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DKCasino_DraftKingsBigWin_Aug_2022/DKCasino_DraftKingsBigWin_Aug_2022.png",
+		"startingTimestampMs": "1661385600000",
+		"endingTimestampMs": "1669334400000"
+	},
 	"DKCasino_Evergreen_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DKCasino_Evergreen_2021/DKCasino_Evergreen_2021.png",
 		"startingTimestampMs": "1638939600000",
@@ -10503,6 +10508,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_DKCasino_March_2021/DraftKings_DKCasino_March_2021.png",
 		"startingTimestampMs": "1616558400000",
 		"endingTimestampMs": "1621828800000"
+	},
+	"DraftKings_DraftKingsRiskFree_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_DraftKingsRiskFree_Aug_2022/DraftKings_DraftKingsRiskFree_Aug_2022.png",
+		"startingTimestampMs": "1661385600000",
+		"endingTimestampMs": "1669334400000"
 	},
 	"DraftKings_Feb_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_Feb_2021/DraftKings_Feb_2021.png",
