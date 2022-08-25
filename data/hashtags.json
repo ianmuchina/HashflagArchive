@@ -33872,6 +33872,9 @@
 		"Spotify2020Wrapped_all_2_ext",
 		"Spotify2020Wrapped_SG"
 	],
+	"myturntable": [
+		"Turntable_Charts_Aug_2022"
+	],
 	"mytwitteranniversary": [
 		"MyTwitterAnniversary"
 	],
@@ -35027,6 +35030,9 @@
 	],
 	"nigerianidol": [
 		"Nigerian_Idol_Mar_2022"
+	],
+	"nigeriatop100": [
+		"Turntable_Charts_Aug_2022"
 	],
 	"nightfae": [
 		"BLIZZARD_SHADOWLAND_2020_nightfae"
@@ -52592,6 +52598,15 @@
 	"turntable": [
 		"HipHop_2021_DJ_Emoji"
 	],
+	"turntablenigeriatop100": [
+		"Turntable_Charts_Aug_2022"
+	],
+	"turntablepowerlist": [
+		"Turntable_Charts_Aug_2022"
+	],
+	"turntabletop100": [
+		"Turntable_Charts_Aug_2022"
+	],
 	"turntablist": [
 		"HipHop_2021_DJ_Emoji"
 	],
@@ -53696,6 +53711,12 @@
 	],
 	"usfldraft": [
 		"USFLDraft2022"
+	],
+	"usher": [
+		"Usher_Watch_This_Aug_2022"
+	],
+	"ushermyway": [
+		"Usher_Watch_This_Aug_2022"
 	],
 	"usmc": [
 		"Marines_Mar_2022",
@@ -55316,6 +55337,9 @@
 	],
 	"watchthem": [
 		"ThemAmazon_2021"
+	],
+	"watchthis": [
+		"Usher_Watch_This_Aug_2022"
 	],
 	"watchtrying": [
 		"Trying_AppleTV_2020"
