@@ -24659,6 +24659,11 @@
 		"startingTimestampMs": "1635490800000",
 		"endingTimestampMs": "1638946740000"
 	},
+	"Microsoft_BTS_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Microsoft_BTS_Aug_2022/Microsoft_BTS_Aug_2022.png",
+		"startingTimestampMs": "1661536800000",
+		"endingTimestampMs": "1664585940000"
+	},
 	"Microsoft_Build_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Microsoft_Build_May_2022/Microsoft_Build_May_2022.png",
 		"startingTimestampMs": "1652400000000",
