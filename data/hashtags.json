@@ -11932,6 +11932,9 @@
 		"Trident_BR_2020",
 		"Trident_BR_2020_fix"
 	],
+	"destravesensaçõeslevelhard": [
+		"Trident_Mondelez_Aug_2022"
+	],
 	"desusandmero": [
 		"Showtime_Q2_21"
 	],
@@ -11943,6 +11946,9 @@
 	],
 	"detidepende": [
 		"AdCouncilVaccine_2021_add"
+	],
+	"detodoparatodos": [
+		"DiDi_Food_Mexico_Gaming_GCP_Aug_2022"
 	],
 	"detroit2": [
 		"BigSean_2020_ext",
@@ -12360,6 +12366,15 @@
 	],
 	"dickinsonathome": [
 		"DickinsonAtHome_AppleTV_2020"
+	],
+	"didiantojolla": [
+		"DiDi_Food_Mexico_Gaming_GCP_Aug_2022"
+	],
+	"didifoodmx": [
+		"DiDi_Food_Mexico_Gaming_GCP_Aug_2022"
+	],
+	"didifoodtelolleva": [
+		"DiDi_Food_Mexico_Gaming_GCP_Aug_2022"
 	],
 	"diebunteseitedesmonds": [
 		"Netflix_OverTheMoon_2020_H2_BL",
@@ -31016,7 +31031,8 @@
 	],
 	"mascaedestrava": [
 		"Trident_BR_2020",
-		"Trident_BR_2020_fix"
+		"Trident_BR_2020_fix",
+		"Trident_Mondelez_Aug_2022"
 	],
 	"mascarasalva": [
 		"Itau_Masks_2020",
@@ -31574,6 +31590,9 @@
 	],
 	"mekdi": [
 		"McDonalds_Mekdi_TakeawayBag_2020"
+	],
+	"melanciamint": [
+		"Trident_Mondelez_Aug_2022"
 	],
 	"melbcupcarnival": [
 		"MelbourneCup_MelbCupCarnival_2020"
@@ -33045,6 +33064,9 @@
 	],
 	"moontruth": [
 		"Lionsgate_Moonfall_Jan_2022"
+	],
+	"morangolime": [
+		"Trident_Mondelez_Aug_2022"
 	],
 	"morax": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Zhongli"
@@ -49032,6 +49054,9 @@
 		"Disney_Mandalorian_S2_Helmet_all",
 		"Disney_Mandalorian_S2_Helmet"
 	],
+	"tellevamostuantojo": [
+		"DiDi_Food_Mexico_Gaming_GCP_Aug_2022"
+	],
 	"tellmewhathappened": [
 		"OnStar_BeSafeOutThere_holidays_2021"
 	],
@@ -52329,6 +52354,9 @@
 	"tridentmax": [
 		"Trident_Mondelez_Trident_Max_Pink_2022",
 		"TridentMax_2021"
+	],
+	"tridentxsenses": [
+		"Trident_Mondelez_Aug_2022"
 	],
 	"trinity": [
 		"ShowtimeDexter_Dec_2021"
