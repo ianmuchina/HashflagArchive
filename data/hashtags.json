@@ -1877,7 +1877,8 @@
 		"miHoYoGenshinImpact1stAnniversary_2021_Albedo"
 	],
 	"albummode": [
-		"DJ_Khaled_2021_Album_V2"
+		"DJ_Khaled_2021_Album_V2",
+		"DJ_Khaled_Aug_2022"
 	],
 	"alchemystars": [
 		"TencentAlchemyStarsJPLaunch_2021"
@@ -12962,7 +12963,11 @@
 		"DJIDroneCampaign_72x72"
 	],
 	"djkhaled": [
-		"DJ_Khaled_2021_Album_V2"
+		"DJ_Khaled_2021_Album_V2",
+		"DJ_Khaled_Aug_2022"
+	],
+	"djkhaledgoddid": [
+		"DJ_Khaled_Aug_2022"
 	],
 	"djsnake": [
 		"DJSnake_2021",
@@ -19296,6 +19301,9 @@
 		"HBO_Gemstones_2021_v4",
 		"HBO_Gemstones_2021_v3"
 	],
+	"goddid": [
+		"DJ_Khaled_Aug_2022"
+	],
 	"godenmark": [
 		"Handball_WorldCup_Egypt_2021_DEN"
 	],
@@ -21950,6 +21958,9 @@
 		"MLS_2022_Team_HOU_2022",
 		"MLS2020_HOU",
 		"MLS_2021_HOU"
+	],
+	"holdmecloser": [
+		"Elton_John_x_Britney_Spears_Single_Aug_2022"
 	],
 	"holdmymilk": [
 		"MilkPEP_May_2021"
@@ -26136,6 +26147,9 @@
 	"kgznpk": [
 		"Paralympics_2021_KGZ"
 	],
+	"khaleddid": [
+		"DJ_Khaled_Aug_2022"
+	],
 	"khaledkhaled": [
 		"DJ_Khaled_2021_Album_V2"
 	],
@@ -27471,14 +27485,16 @@
 		"LazadaTH_Q1_2022",
 		"LazadaTH_Q4_21_Q1_22",
 		"LazadaTH_1_2021",
-		"LazadaTH_General_May_2022"
+		"LazadaTH_General_May_2022",
+		"LazadaTH_General_Aug_2022"
 	],
 	"lazadath1111": [
 		"LazadaTH1111_2021"
 	],
 	"lazadathailand": [
 		"LazadaTH_Q1_2022",
-		"LazadaTH_General_May_2022"
+		"LazadaTH_General_May_2022",
+		"LazadaTH_General_Aug_2022"
 	],
 	"lazadaถูกสุดในรอบปีวันนี้วันเดียว": [
 		"LazadaTH1111_2021"
@@ -62833,17 +62849,20 @@
 		"Disney_RayaandtheLastDragon_2021_Raya"
 	],
 	"รีวิวlazada": [
-		"LazadaTH_General_May_2022"
+		"LazadaTH_General_May_2022",
+		"LazadaTH_General_Aug_2022"
 	],
 	"รีวิวลาซาด้า": [
 		"LazadaTH_Q4_21_Q1_22",
 		"LazadaTH_1_2021",
-		"LazadaTH_General_May_2022"
+		"LazadaTH_General_May_2022",
+		"LazadaTH_General_Aug_2022"
 	],
 	"ลาซาด้า": [
 		"LazadaTH_Q1_2022",
 		"LazadaTH_Q4_21_Q1_22",
-		"LazadaTH_General_May_2022"
+		"LazadaTH_General_May_2022",
+		"LazadaTH_General_Aug_2022"
 	],
 	"ลาซาด้าพาดูดวง": [
 		"LazadaTH_Horoscope_2022"
