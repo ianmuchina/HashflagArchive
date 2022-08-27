@@ -1383,7 +1383,8 @@
 		"AEW_Q4_2020",
 		"AEWonTNT_Q4_2021",
 		"aewontnt_May_2021",
-		"Turner_AEW_2022_extension"
+		"Turner_AEW_2022_extension",
+		"Turner_AEW_Refresh_Aug_2022_v2"
 	],
 	"aewdark": [
 		"Turner_AEW_2022",
@@ -1391,7 +1392,8 @@
 		"Turner_AllEliteWrestling_AEW",
 		"AEW_Q4_2020",
 		"aewontnt_May_2021_add",
-		"Turner_AEW_2022_extension"
+		"Turner_AEW_2022_extension",
+		"Turner_AEW_Refresh_Aug_2022_v2"
 	],
 	"aewdynamite": [
 		"Turner_AEW_2022",
@@ -1400,7 +1402,8 @@
 		"AEW_Q4_2020",
 		"AEWonTNT_Q4_2021",
 		"aewontnt_May_2021",
-		"Turner_AEW_2022_extension"
+		"Turner_AEW_2022_extension",
+		"Turner_AEW_Refresh_Aug_2022_v2"
 	],
 	"aewontbs": [
 		"AEWonTNT_Q4_2021"
@@ -1414,13 +1417,15 @@
 	],
 	"aewontv": [
 		"Turner_AEW_2022",
-		"Turner_AEW_2022_extension"
+		"Turner_AEW_2022_extension",
+		"Turner_AEW_Refresh_Aug_2022_v2"
 	],
 	"aewrampage": [
 		"Turner_AEW_2022",
 		"AEWRampage_July_2021",
 		"AEWonTNT_Q4_2021",
-		"Turner_AEW_2022_extension"
+		"Turner_AEW_2022_extension",
+		"Turner_AEW_Refresh_Aug_2022_v2"
 	],
 	"afazenda": [
 		"Fazenda_BR_Sept_2021"
@@ -13496,6 +13501,15 @@
 	],
 	"dopedontsellitself": [
 		"2Chainz_Album_Emoji_2022"
+	],
+	"dopinghafiza": [
+		"dopinghafiza_Aug_2022_v2"
+	],
+	"dopinghafizalgs": [
+		"dopinghafiza_Aug_2022_v2"
+	],
+	"dopinghafizayks": [
+		"dopinghafiza_Aug_2022_v2"
 	],
 	"doritos": [
 		"DoritosWonderWoman_2020",
@@ -29107,7 +29121,8 @@
 		"TweetYourMagic_Apr_2022_v2"
 	],
 	"livoriginals": [
-		"SonyLIVBrandRelaunch_2020"
+		"SonyLIVBrandRelaunch_2020",
+		"SonyLIV_Emoji_2022"
 	],
 	"livredebobafett": [
 		"DisneyPlus_BobaFett_BobaFett_S1_2021"
@@ -30533,6 +30548,12 @@
 	],
 	"mahal": [
 		"Toro_Y_Moi_Album_Emoji_2022"
+	],
+	"maharanionsonyliv": [
+		"SonyLIV_Emoji_2022"
+	],
+	"maharanis2": [
+		"SonyLIV_Emoji_2022"
 	],
 	"mahatmagandhi": [
 		"GandhiJayanti_2021",
@@ -36258,7 +36279,8 @@
 	"okb": [
 		"Okx_Rebrand_2022",
 		"OKEx_Sept_2021_",
-		"OKX_Listing_May_2022"
+		"OKX_Listing_May_2022",
+		"OKX_Follower_Campaign_Aug_2022"
 	],
 	"okex": [
 		"OKEx_Sept_2021_"
@@ -36298,7 +36320,8 @@
 	],
 	"okx": [
 		"Okx_Rebrand_2022",
-		"OKX_Listing_May_2022"
+		"OKX_Listing_May_2022",
+		"OKX_Follower_Campaign_Aug_2022"
 	],
 	"okxchain": [
 		"OKC_Campaign_May_2022"
@@ -36308,7 +36331,11 @@
 	],
 	"okxearn": [
 		"Okx_Rebrand_2022",
-		"OKX_Listing_May_2022"
+		"OKX_Listing_May_2022",
+		"OKX_Follower_Campaign_Aug_2022"
+	],
+	"okxlearn": [
+		"OKX_Follower_Campaign_Aug_2022"
 	],
 	"okxlisting": [
 		"OKX_Listing_May_2022"
@@ -46076,7 +46103,11 @@
 		"btcturk_May_2021"
 	],
 	"sonyliv": [
-		"SonyLIVBrandRelaunch_2020"
+		"SonyLIVBrandRelaunch_2020",
+		"SonyLIV_Emoji_2022"
+	],
+	"sonylivoriginals": [
+		"SonyLIV_Emoji_2022"
 	],
 	"soobin": [
 		"Kpop_VIT_TXT_2021_July_SOOBIN",
@@ -49292,6 +49323,9 @@
 	],
 	"tercerahermana": [
 		"Disneyplus_Obi_Wan_Kenobi_Reva_2022_v2"
+	],
+	"tercihimdopinghafiza": [
+		"dopinghafiza_Aug_2022_v2"
 	],
 	"terlindungibersama": [
 		"KebaikanAqua_April_2021"
@@ -56414,6 +56448,9 @@
 	],
 	"whatifzumbis": [
 		"MarvelStudios_WhatIF_2021_CaptainAmerica_Updated"
+	],
+	"whatisokx": [
+		"OKX_Follower_Campaign_Aug_2022"
 	],
 	"whatistheline": [
 		"NEOM_RPL_2021",
