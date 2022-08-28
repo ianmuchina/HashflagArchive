@@ -41909,6 +41909,16 @@
 		"startingTimestampMs": "1638550800000",
 		"endingTimestampMs": "1646326800000"
 	},
+	"WSPD_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WSPD_Aug_2022/WSPD_Aug_2022.png",
+		"startingTimestampMs": "1661695200000",
+		"endingTimestampMs": "1664607600000"
+	},
+	"WSPD_Aug_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WSPD_Aug_2022_add/WSPD_Aug_2022_add.png",
+		"startingTimestampMs": "1661695200000",
+		"endingTimestampMs": "1664607600000"
+	},
 	"WW84WatchParty_Dec_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WW84WatchParty_Dec_2020/WW84WatchParty_Dec_2020.png",
 		"startingTimestampMs": "1608681600000",
