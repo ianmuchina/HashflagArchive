@@ -3604,6 +3604,11 @@
 		"startingTimestampMs": "1643515200000",
 		"endingTimestampMs": "1646877540000"
 	},
+	"BNE_dokkan_official_Event_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_dokkan_official_Event_Aug_2022/BNE_dokkan_official_Event_Aug_2022.png",
+		"startingTimestampMs": "1661648400000",
+		"endingTimestampMs": "1664870400000"
+	},
 	"BNE_gundam_uce_Half_anniversary_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BNE_gundam_uce_Half_anniversary_Jul_2022/BNE_gundam_uce_Half_anniversary_Jul_2022.png",
 		"startingTimestampMs": "1658674800000",
@@ -13734,6 +13739,11 @@
 		"startingTimestampMs": "1627963200000",
 		"endingTimestampMs": "1631548800000"
 	},
+	"Great_North_Run_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Great_North_Run_Aug_2022/Great_North_Run_Aug_2022.png",
+		"startingTimestampMs": "1661644800000",
+		"endingTimestampMs": "1663027140000"
+	},
 	"GreenFlag_CommonSenseToTheRescue_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/GreenFlag_CommonSenseToTheRescue_2020/GreenFlag_CommonSenseToTheRescue_2020.png",
 		"startingTimestampMs": "1608505200000",
@@ -14328,6 +14338,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022/HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022.png",
 		"startingTimestampMs": "1658761200000",
 		"endingTimestampMs": "1666497540000"
+	},
+	"HBO_House_of_the_Dragon_Caraxes_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Caraxes_Aug_2022/HBO_House_of_the_Dragon_Caraxes_Aug_2022.png",
+		"startingTimestampMs": "1661648400000",
+		"endingTimestampMs": "1669435140000"
 	},
 	"HBO_House_of_the_Dragon_Corlys_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Corlys_May_2022/HBO_House_of_the_Dragon_Corlys_May_2022.png",
@@ -41943,6 +41958,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/WWEWrestlemania_2021/WWEWrestlemania_2021.png",
 		"startingTimestampMs": "1614866400000",
 		"endingTimestampMs": "1618380000000"
+	},
+	"WWE_Clash_at_the_Castle_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_Clash_at_the_Castle_Aug_2022/WWE_Clash_at_the_Castle_Aug_2022.png",
+		"startingTimestampMs": "1661652000000",
+		"endingTimestampMs": "1662271200000"
 	},
 	"WWE_ClashofChampions_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WWE_ClashofChampions_2020/WWE_ClashofChampions_2020.png",
