@@ -18189,6 +18189,11 @@
 		"startingTimestampMs": "1614344400000",
 		"endingTimestampMs": "1616331600000"
 	},
+	"KM2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KM2022/KM2022.png",
+		"startingTimestampMs": "1661745600000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"KM22": {
 		"assetUrl": "https://abs.twimg.com/hashflags/KM22/KM22.png",
 		"startingTimestampMs": "1661743200000",
