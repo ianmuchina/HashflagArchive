@@ -18189,6 +18189,11 @@
 		"startingTimestampMs": "1614344400000",
 		"endingTimestampMs": "1616331600000"
 	},
+	"KM22": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KM22/KM22.png",
+		"startingTimestampMs": "1661743200000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"KMC_SendNoods_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/KMC_SendNoods_2020/KMC_SendNoods_2020.png",
 		"startingTimestampMs": "1601978400000",
