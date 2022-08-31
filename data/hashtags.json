@@ -3780,6 +3780,12 @@
 	"askolivia": [
 		"OliviaRodrigo2021"
 	],
+	"askpierre": [
+		"Pierre_Bourne_Emoji_2022"
+	],
+	"askpierrebourne": [
+		"Pierre_Bourne_Emoji_2022"
+	],
 	"askpilipinasdebates": [
 		"Philippines_General_Elections_1_2022_add"
 	],
@@ -7268,6 +7274,9 @@
 	"brotherday": [
 		"AppleTV_FoundationEmperor_2021"
 	],
+	"brotherskeeper": [
+		"CHIKE_ALBUM_Brothers_Keeper_Aug_2022"
+	],
 	"browin": [
 		"LCK_Team_Brion_2022",
 		"LCK_2021_Team_P1_GOBRO"
@@ -9142,6 +9151,9 @@
 	"chifam": [
 		"Showtime_TheCHI_2020",
 		"The_Chi_S5_Jun_2022"
+	],
+	"chike": [
+		"CHIKE_ALBUM_Brothers_Keeper_Aug_2022"
 	],
 	"childe": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Tartaglia"
@@ -17410,7 +17422,8 @@
 	"foofighters": [
 		"Studio666_Movie_Release_2022",
 		"FooFighters_2020",
-		"FooFighters_2021"
+		"FooFighters_2021",
+		"Taylor_Hawkins_2022_Tribute_Concert_Emoji"
 	],
 	"foofightersnomultishow": [
 		"Lollapalooza_Brazil_1_Mar_2022"
@@ -19835,6 +19848,9 @@
 	"goodmorningsunshine": [
 		"GMA_Coffee_2020",
 		"GoodMorningAmerica_2020_Flight3"
+	],
+	"goodmovie": [
+		"Pierre_Bourne_Emoji_2022"
 	],
 	"goodnewsmegan": [
 		"MegTheeStallion_GoodNews_BL_H1",
@@ -28553,7 +28569,8 @@
 		"BFI_LFF_Aug_2022"
 	],
 	"lffawards": [
-		"LFF20201"
+		"LFF20201",
+		"BFI_LFF_Aug_2022_add"
 	],
 	"lfgdocumentary": [
 		"HBOMax_LFGDocumentary_2021"
@@ -39117,6 +39134,12 @@
 	"piensaantesdedarclick": [
 		"MediaInformationLiteracyWeeks_2020_ThinkBeforeClicking"
 	],
+	"pierrebourne": [
+		"Pierre_Bourne_Emoji_2022"
+	],
+	"pierrebournegoodmovie": [
+		"Pierre_Bourne_Emoji_2022"
+	],
 	"piesdescalzos": [
 		"ShakiraPiesDescalzosAlbum_2020"
 	],
@@ -48662,6 +48685,18 @@
 	"taweret": [
 		"Disney_Moon_Knight_Taweret_2022"
 	],
+	"taylorhawkins": [
+		"Taylor_Hawkins_2022_Tribute_Concert_Emoji"
+	],
+	"taylorhawkinsconcert": [
+		"Taylor_Hawkins_2022_Tribute_Concert_Emoji"
+	],
+	"taylorhawkinstribute": [
+		"Taylor_Hawkins_2022_Tribute_Concert_Emoji"
+	],
+	"taylorhawkinswembley": [
+		"Taylor_Hawkins_2022_Tribute_Concert_Emoji"
+	],
 	"taylorsversion": [
 		"TSRed2021",
 		"TS_Feb_2021"
@@ -48702,6 +48737,9 @@
 	],
 	"tazospacman": [
 		"ElmaChips_Tazos_PacMan"
+	],
+	"tbkalbum": [
+		"CHIKE_ALBUM_Brothers_Keeper_Aug_2022"
 	],
 	"tbtamarelo": [
 		"EmicidaAmarElo2021"
@@ -50008,6 +50046,9 @@
 	],
 	"thebrightsideof2020": [
 		"BancoSantander_NewYear_2020"
+	],
+	"thebrotherskeeper": [
+		"CHIKE_ALBUM_Brothers_Keeper_Aug_2022"
 	],
 	"thebtsmeal": [
 		"BTSxMcD_May_2021"
@@ -58303,6 +58344,9 @@
 	],
 	"yoohoo": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Sayu"
+	],
+	"yopierre": [
+		"Pierre_Bourne_Emoji_2022"
 	],
 	"yosoycobra": [
 		"Guerreros_MX_June_2021_YoSoyCobra",
