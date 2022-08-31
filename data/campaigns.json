@@ -5089,6 +5089,11 @@
 		"startingTimestampMs": "1655362800000",
 		"endingTimestampMs": "1656604800000"
 	},
+	"Boxxer_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Boxxer_Aug_2022/Boxxer_Aug_2022.png",
+		"startingTimestampMs": "1661985120000",
+		"endingTimestampMs": "1663453920000"
+	},
 	"Bradesco_XmasEve_2021_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Bradesco_XmasEve_2021_v2/Bradesco_XmasEve_2021_v2.png",
 		"startingTimestampMs": "1640313000000",
@@ -17508,6 +17513,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/ItaliaTeam_2021/ItaliaTeam_2021.png",
 		"startingTimestampMs": "1626739200000",
 		"endingTimestampMs": "1628928000000"
+	},
+	"Italian_Political_Elections_Aug_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Italian_Political_Elections_Aug_2022_v2/Italian_Political_Elections_Aug_2022_v2.png",
+		"startingTimestampMs": "1661986740000",
+		"endingTimestampMs": "1664582340000"
 	},
 	"ItauMasks2020_Flight2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ItauMasks2020_Flight2/ItauMasks2020_Flight2.png",
