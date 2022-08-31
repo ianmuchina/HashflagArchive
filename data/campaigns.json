@@ -12324,6 +12324,11 @@
 		"startingTimestampMs": "1638900000000",
 		"endingTimestampMs": "1646510400000"
 	},
+	"Fantagio_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Fantagio_Aug_2022/Fantagio_Aug_2022.png",
+		"startingTimestampMs": "1661958000000",
+		"endingTimestampMs": "1664463540000"
+	},
 	"Fantagio_JinJinXRocky_Jan_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Fantagio_JinJinXRocky_Jan_2022/Fantagio_JinJinXRocky_Jan_2022.png",
 		"startingTimestampMs": "1641006000000",
@@ -35258,6 +35263,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Rocket_Mortgage_Jan_2022_extend/Rocket_Mortgage_Jan_2022_extend.png",
 		"startingTimestampMs": "1644814800000",
 		"endingTimestampMs": "1644901200000"
+	},
+	"Rocket_Punch_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Rocket_Punch_Aug_2022/Rocket_Punch_Aug_2022.png",
+		"startingTimestampMs": "1661958000000",
+		"endingTimestampMs": "1669820400000"
 	},
 	"RockstarEnergySuperBowl2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/RockstarEnergySuperBowl2021/RockstarEnergySuperBowl2021.png",
