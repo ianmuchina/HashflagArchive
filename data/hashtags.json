@@ -64403,6 +64403,9 @@
 	"けしケシ": [
 		"DQKeshikeshi_May_2022"
 	],
+	"こく旨すき焼き月見": [
+		"McDonalds_Japan_Tsukimi_CP_Aug_2022"
+	],
 	"こなきじじい": [
 		"RagnaDoll_Konakijiji_July_2021"
 	],
@@ -69453,6 +69456,9 @@
 	"今日はゼロにします": [
 		"LOTTE_ZERO_JP_May_2022"
 	],
+	"今日は何の月かな月見バーガー": [
+		"McDonalds_Japan_Tsukimi_CP_Aug_2022"
+	],
 	"今日は宝くじ日和": [
 		"Mizuho_Bank_Takarakuji_Mar_2022"
 	],
@@ -70686,13 +70692,18 @@
 		"2020_MidAutumnFestival_KoreanThanksgiving_Tsukimi"
 	],
 	"月見バーガー": [
-		"Tsukimi_JP_2021"
+		"Tsukimi_JP_2021",
+		"McDonalds_Japan_Tsukimi_CP_Aug_2022"
 	],
 	"月見パイ": [
-		"Tsukimi_JP_2021"
+		"Tsukimi_JP_2021",
+		"McDonalds_Japan_Tsukimi_CP_Aug_2022"
 	],
 	"月見マックシェイク": [
 		"Tsukimi_JP_2021"
+	],
+	"月見マックフルーリー": [
+		"McDonalds_Japan_Tsukimi_CP_Aug_2022"
 	],
 	"有り難い": [
 		"Thankful_Grateful_2020"
