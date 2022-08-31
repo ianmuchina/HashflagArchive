@@ -31676,8 +31676,14 @@
 		"FooFighters_2020",
 		"FooFighters_2021"
 	],
+	"medievalfilm": [
+		"Medieval_Movie_Aug_2022"
+	],
 	"medievalknockout": [
 		"FallGuysGame_2020"
+	],
+	"medievalmovie": [
+		"Medieval_Movie_Aug_2022"
 	],
 	"meek": [
 		"MeekMill2021",
@@ -49885,6 +49891,12 @@
 	],
 	"theatrekamahol": [
 		"Disney_BoxOffice_2020"
+	],
+	"theavenue": [
+		"Medieval_Movie_Aug_2022"
+	],
+	"theavenuefilm": [
+		"Medieval_Movie_Aug_2022"
 	],
 	"thebachelor": [
 		"Disney_ABC_Bachelor_S26_2021_v2",
