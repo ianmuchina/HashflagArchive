@@ -5919,6 +5919,11 @@
 		"startingTimestampMs": "1632369600000",
 		"endingTimestampMs": "1640235540000"
 	},
+	"CIBC_Run_for_the_Cure_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CIBC_Run_for_the_Cure_Sept_2022/CIBC_Run_for_the_Cure_Sept_2022.png",
+		"startingTimestampMs": "1662037200000",
+		"endingTimestampMs": "1667248080000"
+	},
 	"CIBC_RunfortheCure_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CIBC_RunfortheCure_2020/CIBC_RunfortheCure_2020.png",
 		"startingTimestampMs": "1600905600000",
