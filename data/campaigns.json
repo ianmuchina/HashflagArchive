@@ -24539,6 +24539,11 @@
 		"startingTimestampMs": "1639130400000",
 		"endingTimestampMs": "1639699200000"
 	},
+	"Megadeth": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Megadeth/Megadeth.png",
+		"startingTimestampMs": "1662146400000",
+		"endingTimestampMs": "1664668800000"
+	},
 	"Megido_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Megido_2020/Megido_2020.png",
 		"startingTimestampMs": "1591887600000",
