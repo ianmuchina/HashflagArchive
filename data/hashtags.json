@@ -4314,6 +4314,9 @@
 		"Avril_Lavigne_Album_Emoji_2022_V2",
 		"Avril_Lavigne_Album_Emoji_2022"
 	],
+	"avrillavignenomultishow": [
+		"Multishow_Stage_2_Rock_in_Rio_Sept_2022"
+	],
 	"avt": [
 		"Disney_LokiLaunch_Miss_Minutes_2021"
 	],
@@ -5938,7 +5941,8 @@
 		"BiggBoss_Dec_2021"
 	],
 	"biggerthanme": [
-		"Louis_Tomlinson_Aug_2022_v3"
+		"Louis_Tomlinson_Aug_2022_v3",
+		"Louis_Tomlinson_Aug_2022_v4"
 	],
 	"biggie": [
 		"Biggie_50th_Birthday_May_2022"
@@ -7908,6 +7912,9 @@
 	],
 	"camilacabello": [
 		"Camila_Cabello_Single_Emoji_2021"
+	],
+	"camilacabellonomultishow": [
+		"Multishow_Stage_1_Rock_in_Rio_Aug_2022"
 	],
 	"camilo": [
 		"CamiloAlbum_2021"
@@ -11879,6 +11886,9 @@
 		"SummerFestival_2020",
 		"SummerFestival_2020_add3"
 	],
+	"demilovatonomultishow": [
+		"Multishow_Stage_1_Rock_in_Rio_Aug_2022"
+	],
 	"demimalaysia": [
 		"MalaysiasIndependenceDay_2021"
 	],
@@ -14151,6 +14161,9 @@
 		"DuaLipa_Feb_UK_2021",
 		"DuaLipa_Feb_UK_2021_v2"
 	],
+	"dualipanomultishow": [
+		"Multishow_Stage_1_Rock_in_Rio_Aug_2022"
+	],
 	"duaxmeg": [
 		"Sweetest_Pie_Single_Launch_2022"
 	],
@@ -16244,7 +16257,8 @@
 		"Bilibili_FairySphere_SG_2021"
 	],
 	"faithinthefuture": [
-		"Louis_Tomlinson_Aug_2022_v3"
+		"Louis_Tomlinson_Aug_2022_v3",
+		"Louis_Tomlinson_Aug_2022_v4"
 	],
 	"falardedinheiro": [
 		"BancoBV_FalarDeDinheiro_2021"
@@ -17144,7 +17158,8 @@
 		"miHoYoGenshinImpact1stAnniversary_2021_Fischl"
 	],
 	"fitf": [
-		"Louis_Tomlinson_Aug_2022_v3"
+		"Louis_Tomlinson_Aug_2022_v3",
+		"Louis_Tomlinson_Aug_2022_v4"
 	],
 	"fièresetdiverses": [
 		"Twitter_Women_Celebration_Month_March_2022_add2"
@@ -19276,6 +19291,9 @@
 	],
 	"gloriagroovenocanalbis": [
 		"Lollapalooza_Brazilian_artists_special_Mar_2022"
+	],
+	"gloriagroovenomultishow": [
+		"Multishow_Stage_2_Rock_in_Rio_Sept_2022"
 	],
 	"glowupbbc": [
 		"GlowUp_April_2021"
@@ -25761,6 +25779,9 @@
 	"justicethealbum": [
 		"JB_March_2021"
 	],
+	"justinbiebernomultishow": [
+		"Multishow_Stage_1_Rock_in_Rio_Aug_2022"
+	],
 	"justinsun": [
 		"RayboQ421tronfoundation_extend_2022",
 		"TRON_Coin_Feb_2021_ext",
@@ -25788,7 +25809,8 @@
 		"Hanukkah_2021_v2"
 	],
 	"jãonomultishow": [
-		"Lollapalooza_Brazilian_artists_special_Mar_2022"
+		"Lollapalooza_Brazilian_artists_special_Mar_2022",
+		"Multishow_Stage_2_Rock_in_Rio_Sept_2022"
 	],
 	"k5": [
 		"KIAMotorsQ2_2020"
@@ -29739,7 +29761,8 @@
 	],
 	"louistomlinson": [
 		"LouisTomlinson_2021",
-		"Louis_Tomlinson_Aug_2022_v3"
+		"Louis_Tomlinson_Aug_2022_v3",
+		"Louis_Tomlinson_Aug_2022_v4"
 	],
 	"louisvuitton": [
 		"LouisVuitton_2021"
@@ -30058,6 +30081,9 @@
 	"lt2": [
 		"Louis_Tomlinson_Aug_2022_v3"
 	],
+	"lt369": [
+		"Louis_Tomlinson_Aug_2022_v4"
+	],
 	"ltbtr": [
 		"Offspring_April_2021"
 	],
@@ -30151,6 +30177,9 @@
 	"ludmilla": [
 		"RainhaDaFavela_2020"
 	],
+	"ludmillanomultishow": [
+		"Multishow_Stage_2_Rock_in_Rio_Sept_2022"
+	],
 	"ludtv": [
 		"RainhaDaFavela_2020"
 	],
@@ -30160,6 +30189,9 @@
 	"luisasonza": [
 		"modoturbo_luisasonza_2020",
 		"luisasonza_July_2021"
+	],
+	"luisasonzanomultishow": [
+		"Multishow_Stage_2_Rock_in_Rio_Sept_2022"
 	],
 	"luisfonsi": [
 		"Luis_Fonsi_New_Album_2022"
@@ -42668,6 +42700,9 @@
 	"riprobin": [
 		"Titans_S3_2021_Robin"
 	],
+	"rir": [
+		"Official_Rock_in_Rio_Sept_2022"
+	],
 	"riseaboveourruin": [
 		"Sony_PlayStation_Horizon_Forbidden_West_2022"
 	],
@@ -42862,6 +42897,12 @@
 		"New_Years_Rockin_Eve_2021",
 		"NewYearsRockinEve2020",
 		"NewYearsRockinEve2020_v2"
+	],
+	"rockinrio": [
+		"Official_Rock_in_Rio_Sept_2022"
+	],
+	"rockinrionomultishow": [
+		"Multishow_Stage_1_Rock_in_Rio_Aug_2022"
 	],
 	"rockstarenergy": [
 		"Rockstar_x_Halo_Custom_Q4_2021_v2",
