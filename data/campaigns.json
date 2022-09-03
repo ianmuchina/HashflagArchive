@@ -15564,6 +15564,11 @@
 		"startingTimestampMs": "1474376400000",
 		"endingTimestampMs": "2452597200000"
 	},
+	"Headies_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Headies_Sept_2022/Headies_Sept_2022.png",
+		"startingTimestampMs": "1662220800000",
+		"endingTimestampMs": "1662480000000"
+	},
 	"HeartMonth_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HeartMonth_2022/HeartMonth_2022.png",
 		"startingTimestampMs": "1643673600000",
