@@ -39852,6 +39852,15 @@
 		"PodcastDiscoveryLATAM_2021",
 		"PodcastDiscoveryLATAM_2021_2"
 	],
+	"podcastparsuna": [
+		"Spotify_India_Podcast_discovery_Sept_2022"
+	],
+	"podcastpesuna": [
+		"Spotify_India_Podcast_discovery_Sept_2022"
+	],
+	"podcastpesunahai": [
+		"Spotify_India_Podcast_discovery_Sept_2022"
+	],
 	"podcastrecs": [
 		"SpotifyPodcasts_HandleLaunch_2020"
 	],
@@ -46899,7 +46908,8 @@
 		"PodcastDiscoveryLATAM_2021",
 		"PodcastDiscoveryLATAM_2021_2",
 		"SpotifyPodcasts_HandleLaunch_2020",
-		"Spotify_Mexico_Podcasts_Discovery_Mar_2022_extend"
+		"Spotify_Mexico_Podcasts_Discovery_Mar_2022_extend",
+		"Spotify_India_Podcast_discovery_Sept_2022"
 	],
 	"spotifypods": [
 		"SpotifyPodcasts_HandleLaunch_2020"
