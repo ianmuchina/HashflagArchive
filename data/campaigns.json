@@ -10664,6 +10664,11 @@
 		"startingTimestampMs": "1642165200000",
 		"endingTimestampMs": "1649941200000"
 	},
+	"DraftKings_Pick_The_Lock_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_Pick_The_Lock_Sept_2022/DraftKings_Pick_The_Lock_Sept_2022.png",
+		"startingTimestampMs": "1662163200000",
+		"endingTimestampMs": "1670025600000"
+	},
 	"DraftKings_Q2_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_Q2_2021/DraftKings_Q2_2021.png",
 		"startingTimestampMs": "1617174000000",
