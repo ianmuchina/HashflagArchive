@@ -24734,6 +24734,11 @@
 		"startingTimestampMs": "1588564800000",
 		"endingTimestampMs": "1598932740000"
 	},
+	"Met_Office_Stormy_Weather_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Met_Office_Stormy_Weather_Sept_2022/Met_Office_Stormy_Weather_Sept_2022.png",
+		"startingTimestampMs": "1662202080000",
+		"endingTimestampMs": "1685652480000"
+	},
 	"Method_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Method_2020/Method_2020.png",
 		"startingTimestampMs": "1581613200000",
