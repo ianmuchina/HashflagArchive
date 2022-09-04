@@ -17551,6 +17551,9 @@
 	"footballsstayinghome": [
 		"FootballsStayingHome_2020"
 	],
+	"footballsummitawards": [
+		"Social_Football_Summit_Aug_2022"
+	],
 	"forallmankind": [
 		"ForAllMankind_ATV_2021"
 	],
@@ -44997,6 +45000,9 @@
 	"sfs21": [
 		"SocialFootballSummit_2021"
 	],
+	"sfs22": [
+		"Social_Football_Summit_Aug_2022"
+	],
 	"sftsaftm": [
 		"PopSmoke_2020"
 	],
@@ -46240,7 +46246,8 @@
 		"MediaInformationLiteracyWeeks_2020_ThinkBeforeSharing"
 	],
 	"socialfootballsummit": [
-		"SocialFootballSummit_2021"
+		"SocialFootballSummit_2021",
+		"Social_Football_Summit_Aug_2022"
 	],
 	"sofascore": [
 		"SofaScoreINT_May_2022",
