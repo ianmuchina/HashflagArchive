@@ -6518,6 +6518,9 @@
 		"StayHome_2020_ItalianAdd",
 		"StayHome_2020"
 	],
+	"bliksemmcqueendag": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
+	],
 	"blindenfußball": [
 		"Paralympics_Sports_2021_BlindFootball_",
 		"Paralympics_Sports_2021_BlindFootball"
@@ -6676,6 +6679,9 @@
 	"bmm": [
 		"BlackMusicMonth_2021",
 		"Black_Music_Month_2022"
+	],
+	"bmqday": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
 	],
 	"bmus": [
 		"Nicki_Minaj_Mixtape_2021_V2"
@@ -12387,6 +12393,9 @@
 		"Human_Rights_Day_2021",
 		"HumanRightsDay_2020"
 	],
+	"diadelrayomcqueen": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
+	],
 	"diademuertos": [
 		"DayOfTheDead_2020",
 		"DiaDeMuertos_2021"
@@ -12395,14 +12404,16 @@
 		"HBO_House_of_the_Dragon_3_Jun_2022"
 	],
 	"diadomcqueen": [
-		"Disneyplus_Cars_on_the_Road_Mater_2022"
+		"Disneyplus_Cars_on_the_Road_Mater_2022",
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
 	],
 	"diadoorgulho": [
 		"AlwaysProud_June_2021",
 		"WeBelong_Pride_2022"
 	],
 	"diadorelâmpagomcqueen": [
-		"Disneyplus_Cars_on_the_Road_Mater_2022"
+		"Disneyplus_Cars_on_the_Road_Mater_2022",
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
 	],
 	"diadosdireitoshumanos": [
 		"Human_Rights_Day_2021",
@@ -16716,7 +16727,11 @@
 		"Hanukkah_2021_v2"
 	],
 	"felizdiadorelâmpagomcqueen": [
-		"Disneyplus_Cars_on_the_Road_Mater_2022"
+		"Disneyplus_Cars_on_the_Road_Mater_2022",
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
+	],
+	"felizdíadelrayomcqueen": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
 	],
 	"felizhanukkah": [
 		"Hanukkah_2021_v2"
@@ -17027,6 +17042,9 @@
 	"fij": [
 		"Olympics_Countries_2021_FIJ",
 		"Paralympics_2021_FIJ"
+	],
+	"fijnebliksemmcqueendag": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
 	],
 	"fijnefeestdagen": [
 		"HappyHolidays_Dec_2020"
@@ -21342,12 +21360,18 @@
 	"happykwanzaa": [
 		"Kwanzaa_2020"
 	],
+	"happylightningmcqueenday": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
+	],
 	"happynewyear": [
 		"Lunar_New_Year_2022",
 		"LunarNewYear2021_Ox"
 	],
 	"happyrupaulidays": [
 		"OldNavy_RuPaulidays_2020"
+	],
+	"happysaettamcqueenday": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
 	],
 	"happystpatricksday": [
 		"St_Patricks_Day_2022"
@@ -29048,6 +29072,9 @@
 	"lightningmcqueen": [
 		"Disneyplus_Cars_on_the_Road_Lightening_McQueen_2022"
 	],
+	"lightningmcqueenday": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
+	],
 	"lightningrose": [
 		"miHoYoGenshinImpact1stAnniversary_2021_GenshinLisa"
 	],
@@ -29488,6 +29515,12 @@
 	],
 	"lmlyjackson": [
 		"KPOP_VIT_JacksonWang2021"
+	],
+	"lmqday": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
+	],
+	"lmq데이": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
 	],
 	"lnbp": [
 		"LNBP_2020"
@@ -43796,6 +43829,9 @@
 	"sadecesen": [
 		"Spotify_Q2_21"
 	],
+	"saettamcqueen": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
+	],
 	"saf": [
 		"ICCT20WorldCup_2021_SAF"
 	],
@@ -46105,6 +46141,9 @@
 	],
 	"smoothvscrunchykpb": [
 		"KraftPBTV_2021"
+	],
+	"smqday": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
 	],
 	"smr": [
 		"Olympics_Countries_2021_SMR_fix"
@@ -59370,6 +59409,9 @@
 	"şimdigainzamanı": [
 		"GainMedyas2020"
 	],
+	"şimşekmcqueengünü": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
+	],
 	"švpatrikodiena": [
 		"St_Patricks_Day_2022"
 	],
@@ -67637,6 +67679,9 @@
 	"ハッピーハロウィン": [
 		"Halloween_2020"
 	],
+	"ハッピーライトニングマックィ―ンデー": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
+	],
 	"ハドウ": [
 		"KOEI_sangokushihadoul_Dec_2020"
 	],
@@ -68938,6 +68983,9 @@
 	],
 	"ライトニングマックィ―ン": [
 		"Disneyplus_Cars_on_the_Road_Lightening_McQueen_2022"
+	],
+	"ライトニングマックィ―ンデー": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
 	],
 	"ライフアフター": [
 		"LifeafterUpdateEvent_2021",
@@ -73207,6 +73255,9 @@
 	"라이트닝맥퀸": [
 		"Disneyplus_Cars_on_the_Road_Lightening_McQueen_2022"
 	],
+	"라이트닝맥퀸데이": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
+	],
 	"라이트이어": [
 		"Disney_Lightyear_Buzz_May_2022"
 	],
@@ -75534,6 +75585,9 @@
 		"KPOP_NCT_2020_P2_HAECHAN",
 		"KPOP_NCT_2020_HAECHAN",
 		"KpopVIT_NCT2021Sep_HAECHAN"
+	],
+	"해피라이트닝맥퀸데이": [
+		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
 	],
 	"해피크리스마스": [
 		"Christmas_2020"
