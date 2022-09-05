@@ -3444,6 +3444,11 @@
 		"startingTimestampMs": "1651190340000",
 		"endingTimestampMs": "1653782340000"
 	},
+	"BGS_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BGS_Sept_2022/BGS_Sept_2022.png",
+		"startingTimestampMs": "1662364800000",
+		"endingTimestampMs": "1666490400000"
+	},
 	"BGTChristmasSpectacular_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BGTChristmasSpectacular_2020/BGTChristmasSpectacular_2020.png",
 		"startingTimestampMs": "1608768060000",
