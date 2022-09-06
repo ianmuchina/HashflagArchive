@@ -26049,6 +26049,11 @@
 		"startingTimestampMs": "1605502800000",
 		"endingTimestampMs": "1606107540000"
 	},
+	"NBA_Hall_of_Fame_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_Hall_of_Fame_Aug_2022/NBA_Hall_of_Fame_Aug_2022.png",
+		"startingTimestampMs": "1662451200000",
+		"endingTimestampMs": "1670230800000"
+	},
 	"NBA_NBATwitterLive_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NBA_NBATwitterLive_2021/NBA_NBATwitterLive_2021.png",
 		"startingTimestampMs": "1634626800000",

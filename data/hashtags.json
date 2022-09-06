@@ -485,6 +485,9 @@
 	"22graduatesversion": [
 		"TS22G"
 	],
+	"22hof": [
+		"NBA_Hall_of_Fame_Aug_2022"
+	],
 	"22世紀殺人網絡": [
 		"WB_ProjectIceCream_2021",
 		"WB_Matrix_US_bh",
@@ -34843,7 +34846,8 @@
 		"NBAFinals_2020"
 	],
 	"nbahof": [
-		"NBAHOF_2021"
+		"NBAHOF_2021",
+		"NBA_Hall_of_Fame_Aug_2022"
 	],
 	"nbaonsmart": [
 		"Smart_Champion_Mar_2022",
