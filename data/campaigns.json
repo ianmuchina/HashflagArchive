@@ -4534,6 +4534,11 @@
 		"startingTimestampMs": "1629356460000",
 		"endingTimestampMs": "1633894320000"
 	},
+	"BetMGM_NFL_Season_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BetMGM_NFL_Season_Sept_2022/BetMGM_NFL_Season_Sept_2022.png",
+		"startingTimestampMs": "1662447600000",
+		"endingTimestampMs": "1670310000000"
+	},
 	"BetfairChase_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BetfairChase_2021/BetfairChase_2021.png",
 		"startingTimestampMs": "1631318400000",
@@ -36253,6 +36258,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Samsung_BTS_MX_2020/Samsung_BTS_MX_2020.png",
 		"startingTimestampMs": "1594065600000",
 		"endingTimestampMs": "1602014400000"
+	},
+	"Samsung_Electronics_SDC2022_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Samsung_Electronics_SDC2022_Sept_2022/Samsung_Electronics_SDC2022_Sept_2022.png",
+		"startingTimestampMs": "1662447600000",
+		"endingTimestampMs": "1668455940000"
 	},
 	"Samsung_SDC21_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Samsung_SDC21_2021/Samsung_SDC21_2021.png",

@@ -18299,7 +18299,8 @@
 		"Enhypen_Hybe_3_Jun_2022"
 	],
 	"futuresfridays": [
-		"BetMGM_NFL_2021"
+		"BetMGM_NFL_2021",
+		"BetMGM_NFL_Season_Sept_2022"
 	],
 	"futurovivo": [
 		"VivoCPH_Fabulas_2020",
@@ -21922,6 +21923,9 @@
 	],
 	"hellopaupau": [
 		"Foodpanda_PH_Q1_2022"
+	],
+	"hellosdc22": [
+		"Samsung_Electronics_SDC2022_Sept_2022"
 	],
 	"hellothere": [
 		"DisneyPlus_ObiWan_2022_HelloThere"
@@ -38519,6 +38523,9 @@
 	"parlayking": [
 		"BetMGM_NFL_2021"
 	],
+	"parlaypreview": [
+		"BetMGM_NFL_Season_Sept_2022"
+	],
 	"parlerpourvrai": [
 		"MentalHealthMonth_2021_add",
 		"Mental_Health_Month_2022"
@@ -44001,10 +44008,12 @@
 		"SamSmith_LoveGoes_2020"
 	],
 	"samsung_dev": [
-		"Samsung_SDC21_2021"
+		"Samsung_SDC21_2021",
+		"Samsung_Electronics_SDC2022_Sept_2022"
 	],
 	"samsungevent": [
-		"Samsung_SDC21_2021"
+		"Samsung_SDC21_2021",
+		"Samsung_Electronics_SDC2022_Sept_2022"
 	],
 	"samsunggalaxy": [
 		"Samsung_unpacked_Jul_2022"
@@ -45210,7 +45219,8 @@
 		"OverwatchSeason32020_ShanghaiDragons"
 	],
 	"shapedesigncreate": [
-		"Samsung_SDC21_2021"
+		"Samsung_SDC21_2021",
+		"Samsung_Electronics_SDC2022_Sept_2022"
 	],
 	"shaqbowlxpepsi": [
 		"Pepsi_SuperBowl_2021_SHAQBowlxPepsi"
@@ -50935,11 +50945,15 @@
 	"thekidsinthehall": [
 		"Amazon_Prime_Video_Kids_in_the_Hall_May_2022_v2"
 	],
+	"thekingofcasinos": [
+		"BetMGM_NFL_Season_Sept_2022"
+	],
 	"thekingofparlays": [
 		"BetMGM_NFL_2021"
 	],
 	"thekingofsportsbooks": [
-		"BetMGM_NFL_2021"
+		"BetMGM_NFL_2021",
+		"BetMGM_NFL_Season_Sept_2022"
 	],
 	"thekingsofnapa": [
 		"kingsofnapaOWN_2021"
@@ -54364,6 +54378,9 @@
 	],
 	"unjefeenpañales2": [
 		"BossBaby2_July_2021"
+	],
+	"unleashedbetmgm": [
+		"BetMGM_NFL_Season_Sept_2022"
 	],
 	"unleashthefury": [
 		"NHLWSHPlayoffs2021",
