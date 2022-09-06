@@ -31715,6 +31715,9 @@
 		"HBO_MaxLaunch_2020",
 		"HBO_MaxLaunch_2020_Flight2"
 	],
+	"maxxxinemovie": [
+		"A24_Pearl_Sept_2022"
+	],
 	"mayansfx": [
 		"FX_Mayans_2021",
 		"FX_Mayans_S4_Mar_2022",
@@ -38833,6 +38836,9 @@
 	"peakstreaming": [
 		"ParamountPlus_2021",
 		"ParamountPlus_2021_ext"
+	],
+	"pearlmovie": [
+		"A24_Pearl_Sept_2022"
 	],
 	"pearlofwisdom": [
 		"miHoYoGenshinImpact1stAnniversary_2021_SangonomiyaKokomi"
@@ -58388,6 +58394,9 @@
 		"Xbox_SeriesX_2020_v2",
 		"Xbox_SeriesX_2020"
 	],
+	"xcastingcall": [
+		"A24_Pearl_Sept_2022"
+	],
 	"xcn": [
 		"Chain_XCN_Mar_2022",
 		"Chain_Q3_Jun_2022"
@@ -58499,7 +58508,8 @@
 		"Navidad_en_la_CDMX_2021"
 	],
 	"xmovie": [
-		"A24_X_Movie_Feb_2022"
+		"A24_X_Movie_Feb_2022",
+		"A24_Pearl_Sept_2022"
 	],
 	"xotwod": [
 		"TheWeeknd_Feb_2021"
@@ -58533,6 +58543,9 @@
 	],
 	"xpsyouniverse": [
 		"XPSGetintoYourYoUniverse_2021"
+	],
+	"xsaga": [
+		"A24_Pearl_Sept_2022"
 	],
 	"xspeedportal": [
 		"Adidas_X_Speedportal_Jul_2022"
@@ -69892,7 +69905,8 @@
 		"Mizuho_Bank_Takarakuji_2021_2022"
 	],
 	"今日から月見バーガー": [
-		"McDonalds_Japan_2020_H_BL"
+		"McDonalds_Japan_2020_H_BL",
+		"McDonalds_Japan_Aug_2022"
 	],
 	"今日のねこ": [
 		"FleroGames_Nekoyori_JP"

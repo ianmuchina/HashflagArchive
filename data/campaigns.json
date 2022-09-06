@@ -324,6 +324,11 @@
 		"startingTimestampMs": "1653375600000",
 		"endingTimestampMs": "1661151600000"
 	},
+	"A24_Pearl_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/A24_Pearl_Sept_2022/A24_Pearl_Sept_2022.png",
+		"startingTimestampMs": "1662469200000",
+		"endingTimestampMs": "1670248800000"
+	},
 	"A24_TheGreenKnight_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/A24_TheGreenKnight_2021/A24_TheGreenKnight_2021.png",
 		"startingTimestampMs": "1626307200000",
@@ -24438,6 +24443,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/McDonalds_Japan_2020_H_BL/McDonalds_Japan_2020_H_BL.png",
 		"startingTimestampMs": "1598967000000",
 		"endingTimestampMs": "1599058800000"
+	},
+	"McDonalds_Japan_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/McDonalds_Japan_Aug_2022/McDonalds_Japan_Aug_2022.png",
+		"startingTimestampMs": "1662465600000",
+		"endingTimestampMs": "1662562740000"
 	},
 	"McDonalds_Japan_Tsukimi_CP_Aug_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/McDonalds_Japan_Tsukimi_CP_Aug_2022/McDonalds_Japan_Tsukimi_CP_Aug_2022.png",
