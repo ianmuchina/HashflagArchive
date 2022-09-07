@@ -28589,6 +28589,11 @@
 		"startingTimestampMs": "1652709600000",
 		"endingTimestampMs": "1660546800000"
 	},
+	"Netflix_Glass_Onion_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Glass_Onion_Aug_2022/Netflix_Glass_Onion_Aug_2022.png",
+		"startingTimestampMs": "1662555600000",
+		"endingTimestampMs": "1670335200000"
+	},
 	"Netflix_HereForTheHolidays_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_HereForTheHolidays_2020/Netflix_HereForTheHolidays_2020.png",
 		"startingTimestampMs": "1606896000000",
