@@ -20959,6 +20959,11 @@
 		"startingTimestampMs": "1661410800000",
 		"endingTimestampMs": "1663225140000"
 	},
+	"LEC_orange_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LEC_orange_2022_add/LEC_orange_2022_add.png",
+		"startingTimestampMs": "1662577200000",
+		"endingTimestampMs": "1663225140000"
+	},
 	"LEC_teal_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LEC_teal_2022_v2/LEC_teal_2022_v2.png",
 		"startingTimestampMs": "1641034800000",
