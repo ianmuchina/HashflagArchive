@@ -5659,6 +5659,11 @@
 		"startingTimestampMs": "1611907200000",
 		"endingTimestampMs": "1619765940000"
 	},
+	"CBS_FBI_Fall_Season_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBS_FBI_Fall_Season_Aug_2022/CBS_FBI_Fall_Season_Aug_2022.png",
+		"startingTimestampMs": "1662534000000",
+		"endingTimestampMs": "1670399940000"
+	},
 	"CBS_Grammys_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CBS_Grammys_2022/CBS_Grammys_2022.png",
 		"startingTimestampMs": "1644278400000",
@@ -10308,6 +10313,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Disney_WhatIfLaunch_TheWatcher_WI_V2/Disney_WhatIfLaunch_TheWatcher_WI_V2.png",
 		"startingTimestampMs": "1628541300000",
 		"endingTimestampMs": "1628746140000"
+	},
+	"Disneyplus_Andor_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Andor_Sept_2022/Disneyplus_Andor_Sept_2022.png",
+		"startingTimestampMs": "1662534000000",
+		"endingTimestampMs": "1670486340000"
 	},
 	"Disneyplus_Cars_on_the_Road_95_Aug_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Cars_on_the_Road_95_Aug_2022/Disneyplus_Cars_on_the_Road_95_Aug_2022.png",
@@ -16393,6 +16403,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_Prey_Jul_2022/Hulu_Prey_Jul_2022.png",
 		"startingTimestampMs": "1658381400000",
 		"endingTimestampMs": "1666421940000"
+	},
+	"Hulu_Reasonable_Doubt_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_Reasonable_Doubt_Sept_2022/Hulu_Reasonable_Doubt_Sept_2022.png",
+		"startingTimestampMs": "1662534000000",
+		"endingTimestampMs": "1670486340000"
 	},
 	"Hulu_Run_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_Run_2020/Hulu_Run_2020.png",
