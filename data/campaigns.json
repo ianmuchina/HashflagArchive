@@ -26599,6 +26599,11 @@
 		"startingTimestampMs": "1650924300000",
 		"endingTimestampMs": "1651550340000"
 	},
+	"NFLKickoff2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFLKickoff2022/NFLKickoff2022.png",
+		"startingTimestampMs": "1662566400000",
+		"endingTimestampMs": "1663127940000"
+	},
 	"NFLProBowlVote2021-22": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NFLProBowlVote2021-22/NFLProBowlVote2021-22.png",
 		"startingTimestampMs": "1637074800000",
@@ -42591,6 +42596,11 @@
 	},
 	"W_Mag_50th_Anniversary_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/W_Mag_50th_Anniversary_Sept_2022/W_Mag_50th_Anniversary_Sept_2022.png",
+		"startingTimestampMs": "1662436860000",
+		"endingTimestampMs": "1672514100000"
+	},
+	"W_Mag_50th_Anniversary_Sept_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/W_Mag_50th_Anniversary_Sept_2022_add/W_Mag_50th_Anniversary_Sept_2022_add.png",
 		"startingTimestampMs": "1662436860000",
 		"endingTimestampMs": "1672514100000"
 	},
