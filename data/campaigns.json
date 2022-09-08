@@ -5694,6 +5694,11 @@
 		"startingTimestampMs": "1640678400000",
 		"endingTimestampMs": "1648537140000"
 	},
+	"CBS_Television_Survivor_S43_Fall_Sept_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBS_Television_Survivor_S43_Fall_Sept_2022_v2/CBS_Television_Survivor_S43_Fall_Sept_2022_v2.png",
+		"startingTimestampMs": "1662620400000",
+		"endingTimestampMs": "1670439600000"
+	},
 	"CBS_TheEqualizer_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CBS_TheEqualizer_2021/CBS_TheEqualizer_2021.png",
 		"startingTimestampMs": "1633417200000",
@@ -6163,6 +6168,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/CaesarsNFLKickoff_2021_add/CaesarsNFLKickoff_2021_add.png",
 		"startingTimestampMs": "1633046400000",
 		"endingTimestampMs": "1638828840000"
+	},
+	"CaesarsSports_NFL_Season_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CaesarsSports_NFL_Season_Sept_2022/CaesarsSports_NFL_Season_Sept_2022.png",
+		"startingTimestampMs": "1662620400000",
+		"endingTimestampMs": "1670482800000"
 	},
 	"Caesars_NFL_Kickoff_extension_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Caesars_NFL_Kickoff_extension_2021/Caesars_NFL_Kickoff_extension_2021.png",
@@ -8603,6 +8613,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_DisneyPlusDay_Sept_9_2022/DisneyPlus_DisneyPlusDay_Sept_9_2022.png",
 		"startingTimestampMs": "1661434200000",
 		"endingTimestampMs": "1663657140000"
+	},
+	"DisneyPlus_DisneyPlusDay_Sept_9_2022_OnDayOnly": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_DisneyPlusDay_Sept_9_2022_OnDayOnly/DisneyPlus_DisneyPlusDay_Sept_9_2022_OnDayOnly.png",
+		"startingTimestampMs": "1662620340000",
+		"endingTimestampMs": "1662706740000"
 	},
 	"DisneyPlus_HSMTMTS_S3_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_HSMTMTS_S3_2022/DisneyPlus_HSMTMTS_S3_2022.png",
@@ -33303,6 +33318,16 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Paramountplus_South_Park_Special_3_4_2022_v2/Paramountplus_South_Park_Special_3_4_2022_v2.png",
 		"startingTimestampMs": "1655103600000",
 		"endingTimestampMs": "1662879540000"
+	},
+	"Paramountplus_Star_Trek_Day_DELTA_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramountplus_Star_Trek_Day_DELTA_Sept_2022/Paramountplus_Star_Trek_Day_DELTA_Sept_2022.png",
+		"startingTimestampMs": "1662620400000",
+		"endingTimestampMs": "1678172340000"
+	},
+	"Paramountplus_Star_Trek_Day_NICHELLE_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramountplus_Star_Trek_Day_NICHELLE_Sept_2022/Paramountplus_Star_Trek_Day_NICHELLE_Sept_2022.png",
+		"startingTimestampMs": "1662620400000",
+		"endingTimestampMs": "1670396340000"
 	},
 	"Paramountplus_The_Offer_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Paramountplus_The_Offer_Apr_2022/Paramountplus_The_Offer_Apr_2022.png",
