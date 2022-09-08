@@ -12434,6 +12434,11 @@
 		"startingTimestampMs": "1613278860000",
 		"endingTimestampMs": "1619798460000"
 	},
+	"Fashion_Week_Fall_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Fashion_Week_Fall_Sept_2022/Fashion_Week_Fall_Sept_2022.png",
+		"startingTimestampMs": "1662609660000",
+		"endingTimestampMs": "1669838400000"
+	},
 	"FastForADay_May_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FastForADay_May_2021/FastForADay_May_2021.png",
 		"startingTimestampMs": "1619894280000",
@@ -37664,6 +37669,11 @@
 		"startingTimestampMs": "1601856000000",
 		"endingTimestampMs": "1609471500000"
 	},
+	"Spotify_Blackpink_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_Blackpink_Sept_2022/Spotify_Blackpink_Sept_2022.png",
+		"startingTimestampMs": "1662609600000",
+		"endingTimestampMs": "1664596800000"
+	},
 	"Spotify_ITZY_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_ITZY_Jul_2022/Spotify_ITZY_Jul_2022.png",
 		"startingTimestampMs": "1658548800000",
@@ -37693,6 +37703,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_KPop_2020_Q3_4_v2/Spotify_KPop_2020_Q3_4_v2.png",
 		"startingTimestampMs": "1604156340000",
 		"endingTimestampMs": "1608649140000"
+	},
+	"Spotify_KPop_ON_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_KPop_ON_Sept_2022/Spotify_KPop_ON_Sept_2022.png",
+		"startingTimestampMs": "1662609600000",
+		"endingTimestampMs": "1670472000000"
 	},
 	"Spotify_KPop_Q2_Q3_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_KPop_Q2_Q3_2020/Spotify_KPop_Q2_Q3_2020.png",

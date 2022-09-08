@@ -16530,10 +16530,12 @@
 		"New_York_Fashion_Week_2022",
 		"NYFWFall_2020",
 		"NYFashionWeek_2021",
-		"FashionMonth_February_2021"
+		"FashionMonth_February_2021",
+		"Fashion_Week_Fall_Sept_2022"
 	],
 	"fashionweek2022": [
-		"New_York_Fashion_Week_2022"
+		"New_York_Fashion_Week_2022",
+		"Fashion_Week_Fall_Sept_2022"
 	],
 	"fast9": [
 		"FastFurious9_April_2021"
@@ -23642,6 +23644,9 @@
 		"ADO_Album_Jan_2022",
 		"ADO_Anniversary_2021",
 		"ADO_Behind_the_Tweets_Kyogen_Jun_2022"
+	],
+	"imonkpopon": [
+		"Spotify_KPop_ON_Sept_2022"
 	],
 	"impactwinter": [
 		"Audible_Impact_Winter_Feb_2022"
@@ -36431,7 +36436,8 @@
 		"New_York_Fashion_Week_2022",
 		"NYFWFall_2020",
 		"NYFashionWeek_2021",
-		"FashionMonth_February_2021"
+		"FashionMonth_February_2021",
+		"Fashion_Week_Fall_Sept_2022"
 	],
 	"nyfw2020": [
 		"NYFWFall_2020"
@@ -47077,6 +47083,9 @@
 	"spotify": [
 		"Spotify_Q2_21"
 	],
+	"spotifyborntobepink": [
+		"Spotify_KPop_ON_Sept_2022"
+	],
 	"spotifycoolkidsrock": [
 		"Spotify_KPop_Q2_Q3_2020"
 	],
@@ -47096,7 +47105,8 @@
 	"spotifykpop": [
 		"Spotify_K-Pop_On_Vis_Launch_2022_v2",
 		"Spotify_Blackpink_2020",
-		"SpotifyKpop_Q2_May_2022"
+		"SpotifyKpop_Q2_May_2022",
+		"Spotify_KPop_ON_Sept_2022"
 	],
 	"spotifykpopdaebak": [
 		"Spotify_KPop_Q2_Q3_2020"
@@ -47157,7 +47167,8 @@
 	],
 	"spotifyxblackpink": [
 		"Spotify_Blackpink_2020",
-		"Spotify_KPop_2020_Q3_4"
+		"Spotify_KPop_2020_Q3_4",
+		"Spotify_Blackpink_Sept_2022"
 	],
 	"spotifyxbts": [
 		"Spotify_KPop_2020_Q3_4_v2",
@@ -47178,14 +47189,27 @@
 		"SpotifyITZY_Sept_21",
 		"Spotify_ITZY_Jul_2022"
 	],
+	"spotifyxjennie": [
+		"Spotify_Blackpink_Sept_2022"
+	],
 	"spotifyxjhope": [
 		"Spotify_ITZY_Jul_2022"
 	],
+	"spotifyxjisoo": [
+		"Spotify_Blackpink_Sept_2022"
+	],
 	"spotifyxlisa": [
-		"SpotifyITZY_Sept_21"
+		"SpotifyITZY_Sept_21",
+		"Spotify_Blackpink_Sept_2022"
 	],
 	"spotifyxnct127": [
 		"SpotifyITZY_Sept_21"
+	],
+	"spotifyxrose": [
+		"Spotify_Blackpink_Sept_2022"
+	],
+	"spotifyxseungkwan": [
+		"Spotify_KPop_ON_Sept_2022"
 	],
 	"spotifyxstraykids": [
 		"SpotifyKpop_Q2_May_2022"
