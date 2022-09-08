@@ -7462,7 +7462,8 @@
 		"KpopVIT_BTS_June2021",
 		"KpopVIT_BTS_April2021",
 		"BTS_PERMISSION_TO_DANCE_ON_STAGE_LAS_VEGAS_Apr_2022",
-		"Hybe_BTS_May_2022"
+		"Hybe_BTS_May_2022",
+		"DisneyplusDay_BTA_PermissiontoDance_Launch"
 	],
 	"bts_butter": [
 		"KpopVIT_BTS_June2021_BTS_Butter",
@@ -7477,6 +7478,12 @@
 		"KPOP_BTS_Dynamite_2020_3_Week7_8",
 		"KPOP_BTS_Dynamite_2020_3_Week3",
 		"KPOP_BTS_Dynamite_2020_3_Week2"
+	],
+	"bts_en_disneyplus": [
+		"DisneyplusDay_BTA_PermissiontoDance_Launch"
+	],
+	"bts_on_disneyplus": [
+		"DisneyplusDay_BTA_PermissiontoDance_Launch"
 	],
 	"bts_proof": [
 		"Hybe_BTS_Proof_May_2022"
@@ -7497,8 +7504,14 @@
 		"KpopVIT_BTS_June2021_BTSARMY",
 		"BTS_PERMISSION_TO_DANCE_ON_STAGE_LAS_VEGAS_BTSARMY_Apr_2022"
 	],
+	"btsendisneyplus": [
+		"DisneyplusDay_BTA_PermissiontoDance_Launch"
+	],
 	"btsmeal": [
 		"BTSxMcD_May_2021"
+	],
+	"btsondisneyplus": [
+		"DisneyplusDay_BTA_PermissiontoDance_Launch"
 	],
 	"btsxamas": [
 		"AMAsArtist_2021_BTSMeganTheeStallion"
@@ -39238,7 +39251,8 @@
 		"Kpop_VIT_BTS_single_July1_2021_W5",
 		"Kpop_VIT_BTS_single_July1_2021_W2",
 		"Kpop_VIT_BTS_single_July1_2021_W4",
-		"Kpop_VIT_BTS_single_July1_2021_W1"
+		"Kpop_VIT_BTS_single_July1_2021_W1",
+		"DisneyplusDay_BTA_PermissiontoDance_Launch"
 	],
 	"perrin": [
 		"AmazonStudios_WheelOfTime_2021_Perrin"
@@ -73918,7 +73932,8 @@
 		"KpopVIT_BTS_June2021",
 		"KpopVIT_BTS_April2021",
 		"BTS_PERMISSION_TO_DANCE_ON_STAGE_LAS_VEGAS_Apr_2022",
-		"Hybe_BTS_May_2022"
+		"Hybe_BTS_May_2022",
+		"DisneyplusDay_BTA_PermissiontoDance_Launch"
 	],
 	"배드가이즈": [
 		"Universal_Pictures_The_Bad_Guys_Apr_2002"
