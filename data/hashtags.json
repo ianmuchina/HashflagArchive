@@ -5954,6 +5954,9 @@
 	"bigfanfavorite": [
 		"TBS_Go_Big_Show_S2_2022"
 	],
+	"bigfatsexycry": [
+		"Lewis_Capaldi_Return_Sept_2022"
+	],
 	"biggamegoats": [
 		"Disney_Super_Bowl_Goats_Disney_2022"
 	],
@@ -8178,6 +8181,9 @@
 	"canyousurrender": [
 		"MaggieRogers2022"
 	],
+	"capaldireturns": [
+		"Lewis_Capaldi_Return_Sept_2022"
+	],
 	"capalothalloffame": [
 		"Polo_G_Album_2021"
 	],
@@ -9231,6 +9237,9 @@
 	],
 	"chewbacca": [
 		"Disney_Maythe4th_2021_Chewbacca"
+	],
+	"chewiscapaldi": [
+		"Lewis_Capaldi_Return_Sept_2022"
 	],
 	"chexquest": [
 		"ChexQuest_2020"
@@ -17718,6 +17727,9 @@
 	],
 	"forfinancialwellbeings": [
 		"ANZ_Financial_Wellbeing_Apr_2022_v2"
+	],
+	"forgetme": [
+		"Lewis_Capaldi_Return_Sept_2022"
 	],
 	"formulaoflove": [
 		"KPOP_TWICE_FormulaOfLove_2021"
@@ -28834,7 +28846,8 @@
 		"MLB_Teams_2021_OAK"
 	],
 	"lewiscapaldi": [
-		"LewisCapaldi_2020"
+		"LewisCapaldi_2020",
+		"Lewis_Capaldi_Return_Sept_2022"
 	],
 	"lexusis": [
 		"LexusISAEDec2020"
@@ -44468,6 +44481,9 @@
 		"WMHD_2021",
 		"Mental_Health_Month_2022"
 	],
+	"sb19": [
+		"SB19_Sept_2022"
+	],
 	"sb19forpepsiblue": [
 		"Pepsi_Blue_Jun_2022"
 	],
@@ -57402,6 +57418,9 @@
 	"wherestoriesplay": [
 		"MLB_Teams_2020_CHC"
 	],
+	"whereyouatsb19_sept_2022": [
+		"WhereYouAtSB19_Sept_2022"
+	],
 	"whistlepodu": [
 		"IPL_ChennaiSuperKings_Mar_2022",
 		"IPL_2021_2_CSK",
@@ -57856,7 +57875,8 @@
 		"WNBA_All_Star_Weekend_2022"
 	],
 	"wnbafinals": [
-		"WNBAFinals_2021"
+		"WNBAFinals_2021",
+		"WNBAFinals_Sept_2022"
 	],
 	"wnbagoatvote": [
 		"WNBA2021GOATVote"
@@ -58492,6 +58512,15 @@
 		"Pop_Tarts_Q1_2022",
 		"PopTarts_Q3_2021",
 		"PopTarts_June_2021"
+	],
+	"wyat": [
+		"WYAT_Sept_2022"
+	],
+	"wyatreconnection": [
+		"WYATReconnection_Sept_2022"
+	],
+	"wyattour": [
+		"WYATTour_Sept_2022"
 	],
 	"wyg": [
 		"SM2022",
@@ -60854,7 +60883,8 @@
 	],
 	"الجوائز_الثقافية_الوطنية": [
 		"NationalCulturalAwardsFinalEvent_2021",
-		"NationalCulturalAwards_SaudiArabia_2020"
+		"NationalCulturalAwards_SaudiArabia_2020",
+		"MOC_The_awards_trophy_CULTURAL_AWARD_2022"
 	],
 	"الجيل_الخامس_لعمان": [
 		"OmanTel5G_2021_v3"
@@ -61320,7 +61350,8 @@
 	"ثقافتنا_هويتنا": [
 		"OurCultureOurIdentityDec2020",
 		"OurCultureOurIdentity_2020",
-		"OurCultureOurIdentity2021"
+		"OurCultureOurIdentity2021",
+		"MOC_The_awards_trophy_CULTURAL_AWARD_2022"
 	],
 	"ثلاثة_قرون": [
 		"Saudi_Founding_Day_2022_v2"
@@ -62300,7 +62331,8 @@
 	"وزارة_الثقافة": [
 		"OurCultureOurIdentityDec2020",
 		"OurCultureOurIdentity_2020",
-		"OurCultureOurIdentity2021"
+		"OurCultureOurIdentity2021",
+		"MOC_The_awards_trophy_CULTURAL_AWARD_2022"
 	],
 	"وزارة_الثقافة_السعودية": [
 		"OurCultureOurIdentity_2020"
@@ -62310,6 +62342,9 @@
 	],
 	"وفرت_وأنورت": [
 		"TAQA_2020"
+	],
+	"وقفة_احتفاء": [
+		"MOC_The_awards_trophy_CULTURAL_AWARD_2022"
 	],
 	"وموطني_يعلو": [
 		"SaudiAirlinesSND_2021"
