@@ -7954,6 +7954,11 @@
 		"startingTimestampMs": "1616641200000",
 		"endingTimestampMs": "1624460340000"
 	},
+	"DQ10_OFFLINE_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQ10_OFFLINE_Sept_2022/DQ10_OFFLINE_Sept_2022.png",
+		"startingTimestampMs": "1662735600000",
+		"endingTimestampMs": "1670597940000"
+	},
 	"DQDelivers_April_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DQDelivers_April_2021/DQDelivers_April_2021.png",
 		"startingTimestampMs": "1618214460000",

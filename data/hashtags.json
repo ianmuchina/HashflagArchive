@@ -13920,7 +13920,11 @@
 	],
 	"dq10": [
 		"DQ10_March_2021_v3",
-		"DQ10_March_2021"
+		"DQ10_March_2021",
+		"DQ10_OFFLINE_Sept_2022"
+	],
+	"dq10オフライン": [
+		"DQ10_OFFLINE_Sept_2022"
 	],
 	"dqblizzard": [
 		"DairyQueenQ12021",
@@ -67730,7 +67734,8 @@
 	],
 	"ドラクエ10": [
 		"DQ10_March_2021_v3",
-		"DQ10_March_2021"
+		"DQ10_March_2021",
+		"DQ10_OFFLINE_Sept_2022"
 	],
 	"ドラクエ10はじめました": [
 		"DQ10_March_2021_v3",
@@ -67739,6 +67744,9 @@
 	"ドラクエ10やってます": [
 		"DQ10_March_2021_v3",
 		"DQ10_March_2021"
+	],
+	"ドラクエ10オフライン": [
+		"DQ10_OFFLINE_Sept_2022"
 	],
 	"ドラクエ10復帰しました": [
 		"DQ10_March_2021_v3",
@@ -67786,6 +67794,9 @@
 	],
 	"ドラクエライバルズ職業診断": [
 		"DQ_RIVALS_2020"
+	],
+	"ドラクエ部": [
+		"DQ10_OFFLINE_Sept_2022"
 	],
 	"ドラゴンクエストウォーク": [
 		"DQWalk_2point5y_anniversary_2022",
