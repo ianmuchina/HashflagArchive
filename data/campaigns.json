@@ -35884,6 +35884,11 @@
 		"startingTimestampMs": "1631786400000",
 		"endingTimestampMs": "1632421200000"
 	},
+	"SIIMA_Sept_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SIIMA_Sept_2022_v2/SIIMA_Sept_2022_v2.png",
+		"startingTimestampMs": "1662723000000",
+		"endingTimestampMs": "1663007400000"
+	},
 	"SITW_Emoji_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SITW_Emoji_2022/SITW_Emoji_2022.png",
 		"startingTimestampMs": "1655424000000",

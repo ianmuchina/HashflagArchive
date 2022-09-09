@@ -133,6 +133,9 @@
 	"10yearsofonedirection": [
 		"OneDirection_2020"
 	],
+	"10yearsofsiima": [
+		"SIIMA_Sept_2022_v2"
+	],
 	"10yılsonra": [
 		"311Tohokumemorial_2021_v3_add"
 	],
@@ -45850,10 +45853,14 @@
 		"BullyingPreventionMonth_2020"
 	],
 	"siima": [
-		"SIIMA2021"
+		"SIIMA2021",
+		"SIIMA_Sept_2022_v2"
 	],
 	"siima2021": [
 		"SIIMA2021"
+	],
+	"siima2022": [
+		"SIIMA_Sept_2022_v2"
 	],
 	"sikembarhutt": [
 		"Disney_2021_BobaFett_TheHutts"
