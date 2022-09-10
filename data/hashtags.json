@@ -36908,7 +36908,8 @@
 		"AJR_Feb_2021"
 	],
 	"okt": [
-		"OKC_Campaign_May_2022"
+		"OKC_Campaign_May_2022",
+		"OKXNFT_Campaign_Sept_2022"
 	],
 	"okx": [
 		"Okx_Rebrand_2022",
@@ -36916,7 +36917,8 @@
 		"OKX_Follower_Campaign_Aug_2022"
 	],
 	"okxchain": [
-		"OKC_Campaign_May_2022"
+		"OKC_Campaign_May_2022",
+		"OKXNFT_Campaign_Sept_2022"
 	],
 	"okxdefi": [
 		"Okx_Rebrand_2022"
@@ -36936,7 +36938,11 @@
 		"OKX_Listing_May_2022"
 	],
 	"okxnft": [
-		"OKC_Campaign_May_2022"
+		"OKC_Campaign_May_2022",
+		"OKXNFT_Campaign_Sept_2022"
+	],
+	"okxwallet": [
+		"OKXNFT_Campaign_Sept_2022"
 	],
 	"ol2021": [
 		"OSL2021"
@@ -42268,7 +42274,8 @@
 		"RebelABC_2021"
 	],
 	"rebornformetaverse": [
-		"OKC_Campaign_May_2022"
+		"OKC_Campaign_May_2022",
+		"OKXNFT_Campaign_Sept_2022"
 	],
 	"rebuildtheworld": [
 		"LEGOBuildDay_2021",
