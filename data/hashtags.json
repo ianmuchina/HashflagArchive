@@ -3139,7 +3139,8 @@
 		"September_Event_2021",
 		"September-Event_rev0_Static_USEN_090721_PNG_TWITTER_CUSTOM-EMOJI_72x72_1",
 		"appleevent_march_2022_bl_us",
-		"AppleEvent_824_global_launch_Aug_2022"
+		"AppleEvent_824_global_launch_Aug_2022",
+		"AppleEvent_824_global_launch_Aug_2022_v2"
 	],
 	"applepayでも": [
 		"Mastercard_JP_Wave_2021"
@@ -3541,6 +3542,9 @@
 	],
 	"asc": [
 		"PablloVittar_Spaces_2021"
+	],
+	"asdarewards": [
+		"ASDA_Sept_2022"
 	],
 	"asdouanes": [
 		"BasketBallAfricanLeague_2021_ASDOUANES"
@@ -5900,6 +5904,9 @@
 	"bhutan": [
 		"Paralympics_2021_BHU"
 	],
+	"biarviral": [
+		"AXISgsm_Sept_2022"
+	],
 	"białoczerwoni": [
 		"Handball_WorldCup_Egypt_2021_POL"
 	],
@@ -6102,6 +6109,9 @@
 	"bijakberplastik": [
 		"KebaikanAqua_April_2021",
 		"DanoneRamadanSehat_2020_Flight2"
+	],
+	"bikinbanyakcerita": [
+		"AXISgsm_Sept_2022"
 	],
 	"bilgisayarsızolmuyor": [
 		"LenovoTurkiye_2020",
@@ -11532,6 +11542,12 @@
 	"dataprivacyday": [
 		"DataPrivacyDay_2021"
 	],
+	"dathouse": [
+		"HBO_House_of_the_Dragon_Throne_Jul_2022_add"
+	],
+	"dathrone": [
+		"HBO_House_of_the_Dragon_Throne_Jul_2022_add"
+	],
 	"datinginquarantine": [
 		"Netflix_LoveBirds_2020"
 	],
@@ -12053,6 +12069,9 @@
 	],
 	"demonfire": [
 		"ACDC_2020_PlayPWRUP_add"
+	],
+	"demthrones": [
+		"HBO_House_of_the_Dragon_Throne_Jul_2022_add"
 	],
 	"den": [
 		"Paralympics_2021_DEN",
@@ -16302,7 +16321,8 @@
 	],
 	"extraslice": [
 		"GBBO_2020_Sept",
-		"GBBO_Sept_2021"
+		"GBBO_Sept_2021",
+		"Channel_4_GBBO_Sept_2022"
 	],
 	"extravaganza": [
 		"JOJINectarAlbum_2020"
@@ -18418,6 +18438,9 @@
 	"fxxlittledemon": [
 		"FX_Little_Demon_Aug_2022"
 	],
+	"fypdong": [
+		"AXISgsm_Sept_2022"
+	],
 	"fábulasdaconexão": [
 		"VivoCPH_Fabulas_2020",
 		"VivoCPH_Fabulas_2020_v2"
@@ -18673,11 +18696,13 @@
 	],
 	"gbbo": [
 		"GBBO_2020_Sept",
-		"GBBO_Sept_2021"
+		"GBBO_Sept_2021",
+		"Channel_4_GBBO_Sept_2022"
 	],
 	"gbbofinal": [
 		"GBBO_2020_Sept",
-		"GBBO_Sept_2021"
+		"GBBO_Sept_2021",
+		"Channel_4_GBBO_Sept_2022"
 	],
 	"gblive": [
 		"Gary_Barlow_Christmas_2021"
@@ -30806,6 +30831,9 @@
 	],
 	"maarantrailer": [
 		"Disney_Tamil_Maaran_Feb_2022"
+	],
+	"mabar": [
+		"AXISgsm_Sept_2022"
 	],
 	"mabuhayphi": [
 		"Paralympics_2021_PHI"
@@ -46007,6 +46035,9 @@
 	"sintiempoparaspoilers": [
 		"UAR_Bond_NTTD_007_2021"
 	],
+	"sipalingfesyen": [
+		"AXISgsm_Sept_2022"
+	],
 	"sipintoyourcomfortzone": [
 		"Canada_Dry_Comfort_HFTC_2022",
 		"Canada_Dry_Comfort_HFTC_2022_v2"
@@ -52307,6 +52338,9 @@
 	],
 	"thrivetogether": [
 		"LEC_2020_Excel"
+	],
+	"thronesyall": [
+		"HBO_House_of_the_Dragon_Throne_Jul_2022_add"
 	],
 	"thtf": [
 		"Netflix_TheHarderTheyFall_2021_Cowgirl"
@@ -62017,7 +62051,8 @@
 	],
 	"كفاءة_الطاقة": [
 		"Taqa_sa_Dec_2021",
-		"TAQA_2020"
+		"TAQA_2020",
+		"Taqa_Aug_2022"
 	],
 	"كل_امرأة": [
 		"EveryWoman_2020"
@@ -62041,6 +62076,9 @@
 	],
 	"لأنك_أحسنت": [
 		"Riyad_Bank_Mar_2022"
+	],
+	"لأننا_نحبها": [
+		"Taqa_Aug_2022"
 	],
 	"لا_بارك_الله_في_الغياب": [
 		"Ahlam_2021_P2",
@@ -62070,7 +62108,8 @@
 	],
 	"لتبقى": [
 		"Taqa_sa_Dec_2021",
-		"TAQA_2020"
+		"TAQA_2020",
+		"Taqa_Aug_2022"
 	],
 	"لتدوم": [
 		"Flw_saudia"

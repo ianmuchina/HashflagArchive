@@ -1184,6 +1184,11 @@
 		"startingTimestampMs": "1626966000000",
 		"endingTimestampMs": "1634741940000"
 	},
+	"ASDA_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ASDA_Sept_2022/ASDA_Sept_2022.png",
+		"startingTimestampMs": "1662768000000",
+		"endingTimestampMs": "1669801380000"
+	},
 	"ASTRO_album_promotion_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ASTRO_album_promotion_May_2022/ASTRO_album_promotion_May_2022.png",
 		"startingTimestampMs": "1652151600000",
@@ -1358,6 +1363,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/AW_WhatDoTheyCallYou_2021/AW_WhatDoTheyCallYou_2021.png",
 		"startingTimestampMs": "1618387200000",
 		"endingTimestampMs": "1619855940000"
+	},
+	"AXISgsm_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AXISgsm_Sept_2022/AXISgsm_Sept_2022.png",
+		"startingTimestampMs": "1662768000000",
+		"endingTimestampMs": "1668877140000"
 	},
 	"AZCardinals2022SeasonEmoji": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AZCardinals2022SeasonEmoji/AZCardinals2022SeasonEmoji.png",
@@ -2708,6 +2718,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/AppleEvent_824_global_launch_Aug_2022/AppleEvent_824_global_launch_Aug_2022.png",
 		"startingTimestampMs": "1661328000000",
 		"endingTimestampMs": "1669190340000"
+	},
+	"AppleEvent_824_global_launch_Aug_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AppleEvent_824_global_launch_Aug_2022_v2/AppleEvent_824_global_launch_Aug_2022_v2.png",
+		"startingTimestampMs": "1661328000000",
+		"endingTimestampMs": "1662796740000"
 	},
 	"AppleEvent_Nov_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AppleEvent_Nov_2020/AppleEvent_Nov_2020.png",
@@ -6693,6 +6708,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Championship4NASCAR2021/Championship4NASCAR2021.png",
 		"startingTimestampMs": "1634385600000",
 		"endingTimestampMs": "1636603140000"
+	},
+	"Channel_4_GBBO_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Channel_4_GBBO_Sept_2022/Channel_4_GBBO_Sept_2022.png",
+		"startingTimestampMs": "1662768000000",
+		"endingTimestampMs": "1668812400000"
 	},
 	"Chapelwaite_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Chapelwaite_2021/Chapelwaite_2021.png",
@@ -14622,6 +14642,11 @@
 	"HBO_House_of_the_Dragon_Throne_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Throne_Jul_2022/HBO_House_of_the_Dragon_Throne_Jul_2022.png",
 		"startingTimestampMs": "1658336400000",
+		"endingTimestampMs": "1666065540000"
+	},
+	"HBO_House_of_the_Dragon_Throne_Jul_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Throne_Jul_2022_add/HBO_House_of_the_Dragon_Throne_Jul_2022_add.png",
+		"startingTimestampMs": "1662768000000",
 		"endingTimestampMs": "1666065540000"
 	},
 	"HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022": {
@@ -39083,6 +39108,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Tanqueray_TTime_Mar_2022/Tanqueray_TTime_Mar_2022.png",
 		"startingTimestampMs": "1647921660000",
 		"endingTimestampMs": "1650092340000"
+	},
+	"Taqa_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Taqa_Aug_2022/Taqa_Aug_2022.png",
+		"startingTimestampMs": "1662768000000",
+		"endingTimestampMs": "1670715900000"
 	},
 	"Taqa_sa_Dec_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Taqa_sa_Dec_2021/Taqa_sa_Dec_2021.png",
