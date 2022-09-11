@@ -8049,6 +8049,16 @@
 		"startingTimestampMs": "1599836400000",
 		"endingTimestampMs": "1607698740000"
 	},
+	"DQWalk_Anniversary_King_metal_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQWalk_Anniversary_King_metal_Sept_2022/DQWalk_Anniversary_King_metal_Sept_2022.png",
+		"startingTimestampMs": "1662908400000",
+		"endingTimestampMs": "1670770740000"
+	},
+	"DQWalk_Anniversary_Slime_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQWalk_Anniversary_Slime_Sept_2022/DQWalk_Anniversary_Slime_Sept_2022.png",
+		"startingTimestampMs": "1662908400000",
+		"endingTimestampMs": "1670770740000"
+	},
 	"DQWalk_NewYear_2020_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DQWalk_NewYear_2020_2021/DQWalk_NewYear_2020_2021.png",
 		"startingTimestampMs": "1608962400000",
@@ -36268,6 +36278,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/STLMLBPostseason2021/STLMLBPostseason2021.png",
 		"startingTimestampMs": "1633435200000",
 		"endingTimestampMs": "1636775940000"
+	},
+	"SUNTORY_pomum_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SUNTORY_pomum_Sept_2022/SUNTORY_pomum_Sept_2022.png",
+		"startingTimestampMs": "1662908400000",
+		"endingTimestampMs": "1670684340000"
 	},
 	"SUUMO_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SUUMO_2022/SUUMO_2022.png",
