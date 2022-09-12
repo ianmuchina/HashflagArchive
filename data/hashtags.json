@@ -8579,6 +8579,9 @@
 	"cbsclarice": [
 		"CBS_Clarice_2021"
 	],
+	"cbsfirecountry": [
+		"CBS_Television_Fire_Country_Sept_2022"
+	],
 	"cbsghosts": [
 		"GhostsCBS_2022",
 		"GhostsCBS_2021",
@@ -17346,6 +17349,12 @@
 	"fireandblood": [
 		"HBO_House_of_the_Dragon_Sigil_May_2022",
 		"HBO_House_of_the_Dragon_Sigil_May_2022_v2"
+	],
+	"firecountry": [
+		"CBS_Television_Fire_Country_Sept_2022"
+	],
+	"firecountrycbs": [
+		"CBS_Television_Fire_Country_Sept_2022"
 	],
 	"fireitup": [
 		"NHL_Playoffs_CAL_2022",
