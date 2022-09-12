@@ -44419,7 +44419,8 @@
 	],
 	"saudiarabia": [
 		"SaudiNationalDay2021",
-		"Saudi_NationalDay_2020"
+		"Saudi_NationalDay_2020",
+		"SND_Sept_2012"
 	],
 	"saudidataandai": [
 		"SDAIA_Dec_2020"
@@ -44432,7 +44433,8 @@
 	],
 	"saudinationalday": [
 		"SaudiNationalDay2021",
-		"Saudi_NationalDay_2020"
+		"Saudi_NationalDay_2020",
+		"SND_Sept_2012"
 	],
 	"saudinationalday2020": [
 		"Saudi_NationalDay_2020"
@@ -44440,11 +44442,17 @@
 	"saudinationalday2021": [
 		"SaudiNationalDay2021"
 	],
+	"saudinationalday2022": [
+		"SND_Sept_2012"
+	],
 	"saudinationalday90": [
 		"Saudi_NationalDay_2020"
 	],
 	"saudinationalday91": [
 		"SaudiNationalDay2021"
+	],
+	"saudinationalday92": [
+		"SND_Sept_2012"
 	],
 	"saudivision2030": [
 		"SaudiVision2030"
@@ -61048,7 +61056,8 @@
 	],
 	"السعودية": [
 		"SaudiNationalDay2021",
-		"Saudi_NationalDay_2020"
+		"Saudi_NationalDay_2020",
+		"SND_Sept_2012"
 	],
 	"الشباب_قادة": [
 		"YouthLead_2020"
@@ -61133,6 +61142,9 @@
 	"المغرب2022": [
 		"CAF_WAFCON_Trophy_Jun_2022"
 	],
+	"المملكة_العربية_السعودية": [
+		"SND_Sept_2012"
+	],
 	"الموسم_في_stcpay": [
 		"stcPayRiyadhSeasons2021"
 	],
@@ -61196,10 +61208,17 @@
 	],
 	"اليوم_الوطني_السعودي": [
 		"SaudiNationalDay2021",
-		"Saudi_NationalDay_2020"
+		"Saudi_NationalDay_2020",
+		"SND_Sept_2012"
 	],
 	"اليوم_الوطني_السعودي90": [
 		"Saudi_NationalDay_2020"
+	],
+	"اليوم_الوطني_السعودي_2022": [
+		"SND_Sept_2012"
+	],
+	"اليوم_الوطني_السعودي_92": [
+		"SND_Sept_2012"
 	],
 	"اليوم_الوطني_القطري": [
 		"Qatar_National_Day_2021"
