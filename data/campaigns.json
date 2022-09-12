@@ -41049,6 +41049,11 @@
 		"startingTimestampMs": "1631602800000",
 		"endingTimestampMs": "1633157940000"
 	},
+	"UNGA_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UNGA_Sept_2022/UNGA_Sept_2022.png",
+		"startingTimestampMs": "1662958800000",
+		"endingTimestampMs": "1664559480000"
+	},
 	"UNIQLO_EMOJI_Kanshasai_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/UNIQLO_EMOJI_Kanshasai_2020/UNIQLO_EMOJI_Kanshasai_2020.png",
 		"startingTimestampMs": "1591542000000",
