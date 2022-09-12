@@ -9521,19 +9521,27 @@
 		"Capital_One_March_Madness_2022"
 	],
 	"chucky": [
-		"ChuckyTV_2021"
+		"ChuckyTV_2021",
+		"USA_Network_Chucky_S2_Sept_2022"
+	],
+	"chuckyseason2": [
+		"USA_Network_Chucky_Tiffany_S2_Sept_2022"
 	],
 	"chuckyseries": [
-		"ChuckyTV_2021"
+		"ChuckyTV_2021",
+		"USA_Network_Chucky_S2_Sept_2022"
 	],
 	"chuckyshow": [
-		"ChuckyTV_2021"
+		"ChuckyTV_2021",
+		"USA_Network_Chucky_S2_Sept_2022"
 	],
 	"chuckytv": [
-		"ChuckyTV_2021"
+		"ChuckyTV_2021",
+		"USA_Network_Chucky_S2_Sept_2022"
 	],
 	"chuckytvseries": [
-		"ChuckyTV_2021"
+		"ChuckyTV_2021",
+		"USA_Network_Chucky_S2_Sept_2022"
 	],
 	"chucmungnammoi": [
 		"LunarNewYear2021_Ox"
@@ -13580,6 +13588,9 @@
 	"doitluquluqu": [
 		"World_Refugee_Day_2022"
 	],
+	"doitonpurpose": [
+		"Netflix_Entergalactic_Sept_2022"
+	],
 	"dojacatnomultishow": [
 		"Lollapalooza_Brazil_1_Mar_2022"
 	],
@@ -15609,6 +15620,12 @@
 	],
 	"ensemblenouspouvons": [
 		"MentalHealthMonth_2021_add2"
+	],
+	"entergalactic": [
+		"Netflix_Entergalactic_Sept_2022"
+	],
+	"entergalacticnetflix": [
+		"Netflix_Entergalactic_Sept_2022"
 	],
 	"enterthezone": [
 		"CBS_AllAccess_TwilightZone_S2_2020"
@@ -24826,6 +24843,9 @@
 	"jaan": [
 		"Hybe_Naver_Webtoon_collaboration_Jaan_2022"
 	],
+	"jabari": [
+		"Netflix_Entergalactic_Sept_2022"
+	],
 	"jackantonoff": [
 		"DP_FL_2020_JA"
 	],
@@ -26799,7 +26819,8 @@
 		"Freeform_25Days_2020"
 	],
 	"kidcudi": [
-		"KidCudi_2020"
+		"KidCudi_2020",
+		"Netflix_Entergalactic_Sept_2022"
 	],
 	"kidloki": [
 		"Disney_LokiLaunch_KidlLoki_2021"
@@ -32643,6 +32664,9 @@
 	"mexicogp": [
 		"MexicoGP_2021"
 	],
+	"mexicomanda": [
+		"Corona_Yo_Mando_Sept_2022"
+	],
 	"mezzalunarossa": [
 		"WorldRedCrossDay_May_2021_add"
 	],
@@ -34707,6 +34731,9 @@
 	],
 	"méquizicedosbrothers": [
 		"McDonalds_BBB_22_2022"
+	],
+	"méxicomanda": [
+		"Corona_Yo_Mando_Sept_2022"
 	],
 	"méxiconopara": [
 		"Mexico_Earthquake_Relief_Apr_2022"
@@ -52470,6 +52497,18 @@
 	"tiff22": [
 		"TIFF22_2022"
 	],
+	"tiffanysyfy": [
+		"USA_Network_Chucky_Tiffany_S2_Sept_2022"
+	],
+	"tiffanyusa": [
+		"USA_Network_Chucky_Tiffany_S2_Sept_2022"
+	],
+	"tiffanyvalentine": [
+		"USA_Network_Chucky_Tiffany_S2_Sept_2022"
+	],
+	"tiffvalentine": [
+		"USA_Network_Chucky_Tiffany_S2_Sept_2022"
+	],
 	"tigdrawn": [
 		"TigNotaroHBO_2021"
 	],
@@ -59132,6 +59171,9 @@
 	],
 	"yoluchoporméxico": [
 		"Paralympics_2021_MEX"
+	],
+	"yomando": [
+		"Corona_Yo_Mando_Sept_2022"
 	],
 	"yomequedoencasa": [
 		"StayHome_2020_ItalianAdd",

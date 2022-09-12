@@ -7229,6 +7229,11 @@
 		"startingTimestampMs": "1602817200000",
 		"endingTimestampMs": "1610843100000"
 	},
+	"Corona_Yo_Mando_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Corona_Yo_Mando_Sept_2022/Corona_Yo_Mando_Sept_2022.png",
+		"startingTimestampMs": "1662969600000",
+		"endingTimestampMs": "1669841460000"
+	},
 	"CoronationStreetCorrie60thAnniversary_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CoronationStreetCorrie60thAnniversary_2020/CoronationStreetCorrie60thAnniversary_2020.png",
 		"startingTimestampMs": "1602370860000",
@@ -28699,6 +28704,11 @@
 		"startingTimestampMs": "1598358600000",
 		"endingTimestampMs": "1606174200000"
 	},
+	"Netflix_Entergalactic_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Entergalactic_Sept_2022/Netflix_Entergalactic_Sept_2022.png",
+		"startingTimestampMs": "1662966000000",
+		"endingTimestampMs": "1669708800000"
+	},
 	"Netflix_FearStreetTrilogy1978_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_FearStreetTrilogy1978_2021/Netflix_FearStreetTrilogy1978_2021.png",
 		"startingTimestampMs": "1624863600000",
@@ -41098,6 +41108,16 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/USAA_2022_Memorial_Day_Poppy_May_2022_v2/USAA_2022_Memorial_Day_Poppy_May_2022_v2.png",
 		"startingTimestampMs": "1652943600000",
 		"endingTimestampMs": "1653980340000"
+	},
+	"USA_Network_Chucky_S2_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/USA_Network_Chucky_S2_Sept_2022/USA_Network_Chucky_S2_Sept_2022.png",
+		"startingTimestampMs": "1662966000000",
+		"endingTimestampMs": "1670828340000"
+	},
+	"USA_Network_Chucky_Tiffany_S2_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/USA_Network_Chucky_Tiffany_S2_Sept_2022/USA_Network_Chucky_Tiffany_S2_Sept_2022.png",
+		"startingTimestampMs": "1662966000000",
+		"endingTimestampMs": "1670828340000"
 	},
 	"USA_Network_Life_in_the_Fast_Lane_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/USA_Network_Life_in_the_Fast_Lane_Jun_2022/USA_Network_Life_in_the_Fast_Lane_Jun_2022.png",
