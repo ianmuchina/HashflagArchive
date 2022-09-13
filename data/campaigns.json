@@ -41099,6 +41099,11 @@
 		"startingTimestampMs": "1631602800000",
 		"endingTimestampMs": "1633157940000"
 	},
+	"UNGA_Aug_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UNGA_Aug_2022/UNGA_Aug_2022.png",
+		"startingTimestampMs": "1663090680000",
+		"endingTimestampMs": "1664559480000"
+	},
 	"UNGA_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/UNGA_Sept_2022/UNGA_Sept_2022.png",
 		"startingTimestampMs": "1662958800000",
