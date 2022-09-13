@@ -2257,7 +2257,8 @@
 		"InternationalHolocaustDayofRemembrance_2021"
 	],
 	"allurebestofbeauty": [
-		"allurebestofbeauty_2021"
+		"allurebestofbeauty_2021",
+		"Allure_Best_of_Beauty_Aug_2022"
 	],
 	"allyouredreamingof": [
 		"Liam_Gallagher_2020_v2",
@@ -5621,10 +5622,17 @@
 		"Foodpanda_PH_Q1_2022"
 	],
 	"bestofbeauty": [
-		"allurebestofbeauty_2021"
+		"allurebestofbeauty_2021",
+		"Allure_Best_of_Beauty_Aug_2022"
+	],
+	"bestofbeauty2022": [
+		"Allure_Best_of_Beauty_Aug_2022"
 	],
 	"bestofbeauty25": [
 		"allurebestofbeauty_2021"
+	],
+	"bestofbeautyawards": [
+		"Allure_Best_of_Beauty_Aug_2022"
 	],
 	"bestoftweets": [
 		"BestOfTweets_2022",
