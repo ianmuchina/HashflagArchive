@@ -6484,6 +6484,11 @@
 		"startingTimestampMs": "1631664000000",
 		"endingTimestampMs": "1637470740000"
 	},
+	"Canelo_GGG3_DAZN_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Canelo_GGG3_DAZN_2022/Canelo_GGG3_DAZN_2022.png",
+		"startingTimestampMs": "1663113600000",
+		"endingTimestampMs": "1663459200000"
+	},
 	"CapitalOneMarchMadness_March_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CapitalOneMarchMadness_March_2021/CapitalOneMarchMadness_March_2021.png",
 		"startingTimestampMs": "1615698000000",
@@ -12454,30 +12459,60 @@
 		"startingTimestampMs": "1650931200000",
 		"endingTimestampMs": "1661987520000"
 	},
+	"FanDuel_Branding_Faceoff_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_Faceoff_Sept_2022/FanDuel_Branding_Faceoff_Sept_2022.png",
+		"startingTimestampMs": "1663113600000",
+		"endingTimestampMs": "1668384000000"
+	},
 	"FanDuel_Branding_FanDuelSportsbook_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_FanDuelSportsbook_May_2022/FanDuel_Branding_FanDuelSportsbook_May_2022.png",
 		"startingTimestampMs": "1653066000000",
 		"endingTimestampMs": "1661987520000"
+	},
+	"FanDuel_Branding_FanDuelSportsbook_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_FanDuelSportsbook_Sept_2022/FanDuel_Branding_FanDuelSportsbook_Sept_2022.png",
+		"startingTimestampMs": "1663113600000",
+		"endingTimestampMs": "1670976000000"
 	},
 	"FanDuel_Branding_FanDuel_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_FanDuel_May_2022/FanDuel_Branding_FanDuel_May_2022.png",
 		"startingTimestampMs": "1653066000000",
 		"endingTimestampMs": "1661987520000"
 	},
+	"FanDuel_Branding_FanDuel_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_FanDuel_Sept_2022/FanDuel_Branding_FanDuel_Sept_2022.png",
+		"startingTimestampMs": "1663113600000",
+		"endingTimestampMs": "1670976000000"
+	},
 	"FanDuel_Branding_MakeEveryMomentMore_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_MakeEveryMomentMore_May_2022/FanDuel_Branding_MakeEveryMomentMore_May_2022.png",
 		"startingTimestampMs": "1653066000000",
 		"endingTimestampMs": "1661987520000"
+	},
+	"FanDuel_Branding_MakeEveryMomentMore_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_MakeEveryMomentMore_Sept_2022/FanDuel_Branding_MakeEveryMomentMore_Sept_2022.png",
+		"startingTimestampMs": "1663113600000",
+		"endingTimestampMs": "1670976000000"
 	},
 	"FanDuel_Branding_NY_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_NY_Apr_2022/FanDuel_Branding_NY_Apr_2022.png",
 		"startingTimestampMs": "1650931200000",
 		"endingTimestampMs": "1661987520000"
 	},
+	"FanDuel_Branding_NY_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_NY_Sept_2022/FanDuel_Branding_NY_Sept_2022.png",
+		"startingTimestampMs": "1663113600000",
+		"endingTimestampMs": "1668384000000"
+	},
 	"FanDuel_Branding_SameGameParlay_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_SameGameParlay_May_2022/FanDuel_Branding_SameGameParlay_May_2022.png",
 		"startingTimestampMs": "1653066000000",
 		"endingTimestampMs": "1661987520000"
+	},
+	"FanDuel_Branding_SameGameParlay_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_Branding_SameGameParlay_Sept_2022/FanDuel_Branding_SameGameParlay_Sept_2022.png",
+		"startingTimestampMs": "1663113600000",
+		"endingTimestampMs": "1670976000000"
 	},
 	"FanDuel_July2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FanDuel_July2020/FanDuel_July2020.png",
@@ -12573,6 +12608,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/FemaleLibertadores_BR_2021/FemaleLibertadores_BR_2021.png",
 		"startingTimestampMs": "1614895200000",
 		"endingTimestampMs": "1616486400000"
+	},
+	"Festival_of_the_sun_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Festival_of_the_sun_Sept_2022/Festival_of_the_sun_Sept_2022.png",
+		"startingTimestampMs": "1663113600000",
+		"endingTimestampMs": "1672420500000"
 	},
 	"Fiat_Pulse_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Fiat_Pulse_2021/Fiat_Pulse_2021.png",
@@ -24683,6 +24723,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/McDonalds_Mekdi_TakeawayBag_2020/McDonalds_Mekdi_TakeawayBag_2020.png",
 		"startingTimestampMs": "1587945600000",
 		"endingTimestampMs": "1595808000000"
+	},
+	"McDonalds_Monopoly_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/McDonalds_Monopoly_Sept_2022/McDonalds_Monopoly_Sept_2022.png",
+		"startingTimestampMs": "1663113600000",
+		"endingTimestampMs": "1670976000000"
 	},
 	"McDonalds_RMHC_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/McDonalds_RMHC_2020/McDonalds_RMHC_2020.png",
