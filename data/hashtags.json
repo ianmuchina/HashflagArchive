@@ -19290,6 +19290,9 @@
 	"gildedagehbo": [
 		"HBO_The_Gilded_Age_2022"
 	],
+	"gilead": [
+		"Hulu_The_Handmaids_Tale_S5_Sept_2022"
+	],
 	"gimmesometruth": [
 		"LennonAnniversary_2020"
 	],
@@ -21353,7 +21356,8 @@
 		"Poise_May_2021"
 	],
 	"handmaidstale": [
-		"Hulu_THT_S4_2021"
+		"Hulu_THT_S4_2021",
+		"Hulu_The_Handmaids_Tale_S5_Sept_2022"
 	],
 	"handwashchallenge": [
 		"WHO_SafeHands_2020",
@@ -25989,6 +25993,9 @@
 	"juneteenth2022": [
 		"Juneteenth_2022",
 		"Juneteenth_2022_v2"
+	],
+	"junevsserena": [
+		"Hulu_The_Handmaids_Tale_S5_Sept_2022"
 	],
 	"junglecruise": [
 		"Disney_JungleCruise_Boat_2021"
@@ -38793,6 +38800,9 @@
 	"paratriatlon": [
 		"Paralympics_Sports_2021_ParaTriathlon"
 	],
+	"paravariar": [
+		"Sidral_Mundet_Sept_2022"
+	],
 	"parayuzme": [
 		"Paralympics_Sports_2021_ParaSwimming"
 	],
@@ -51265,7 +51275,8 @@
 		"THE_GUY_ALBUM_Aug_2022"
 	],
 	"thehandmaidstale": [
-		"Hulu_THT_S4_2021"
+		"Hulu_THT_S4_2021",
+		"Hulu_The_Handmaids_Tale_S5_Sept_2022"
 	],
 	"thehardertheyfall": [
 		"Netflix_TheHarderTheyFall_2021_Cowboy"
