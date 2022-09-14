@@ -3782,6 +3782,9 @@
 		"Latto_Album_Emoji_2022",
 		"Latto2021"
 	],
+	"asklbt": [
+		"LBT2022"
+	],
 	"askleehi": [
 		"KPOP_LEEHI_2020"
 	],
@@ -20280,6 +20283,12 @@
 	"googlemarketinglive2022": [
 		"Google_GML_May_2022"
 	],
+	"googlesearch": [
+		"Google_Search_On_Sept_2022"
+	],
+	"googlesearchon": [
+		"Google_Search_On_Sept_2022"
+	],
 	"gopackgo": [
 		"NFL_2020_2021_GoPackGo",
 		"GBPackers2022SeasonEmoji"
@@ -34195,6 +34204,9 @@
 	"mrsmaisel": [
 		"Amazon_Mrs_Maisel_Feb_2022"
 	],
+	"mrsun": [
+		"LBT2022"
+	],
 	"mrナイト": [
 		"Disney_Moon_Knight_MrKnight_2022_V2"
 	],
@@ -44895,7 +44907,11 @@
 		"Seara_BBB22_Feb_2022"
 	],
 	"searchon": [
-		"Google_SearchOn_liveevent_2021"
+		"Google_SearchOn_liveevent_2021",
+		"Google_Search_On_Sept_2022"
+	],
+	"searchon22": [
+		"Google_Search_On_Sept_2022"
 	],
 	"searchparty": [
 		"HBOMaxSearchParty2020"

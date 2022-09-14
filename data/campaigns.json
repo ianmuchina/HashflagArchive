@@ -13979,6 +13979,11 @@
 		"startingTimestampMs": "1632441600000",
 		"endingTimestampMs": "1634713200000"
 	},
+	"Google_Search_On_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Google_Search_On_Sept_2022/Google_Search_On_Sept_2022.png",
+		"startingTimestampMs": "1663182000000",
+		"endingTimestampMs": "1668239940000"
+	},
 	"Gopuff_Super_Bowl_Quartertime_Show_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Gopuff_Super_Bowl_Quartertime_Show_2022/Gopuff_Super_Bowl_Quartertime_Show_2022.png",
 		"startingTimestampMs": "1644210000000",
@@ -20598,6 +20603,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/LBFF_March_2021/LBFF_March_2021.png",
 		"startingTimestampMs": "1615863660000",
 		"endingTimestampMs": "1616381940000"
+	},
+	"LBT2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LBT2022/LBT2022.png",
+		"startingTimestampMs": "1663178400000",
+		"endingTimestampMs": "1665705600000"
 	},
 	"LCDP5_Dec_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LCDP5_Dec_2021/LCDP5_Dec_2021.png",
