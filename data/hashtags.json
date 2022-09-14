@@ -1887,6 +1887,9 @@
 	"aksyonsaklima": [
 		"EarthDay_2021_add2"
 	],
+	"al100jaar": [
+		"EnergieVanVandaag_Sept_2022"
+	],
 	"aladdin": [
 		"AladdinBroadway_WishGranted_2021"
 	],
@@ -15577,7 +15580,8 @@
 		"LCK_2020_HLE"
 	],
 	"energievanvandaag": [
-		"EnergievanVandaag_2020"
+		"EnergievanVandaag_2020",
+		"EnergieVanVandaag_Sept_2022"
 	],
 	"energizer": [
 		"EnergizerQ42020_V2"
@@ -57833,6 +57837,9 @@
 		"WeThe15_2021",
 		"WeThe15_2021_v2",
 		"WeThe15_Paralympics_2021"
+	],
+	"wijhelpennederlanders": [
+		"EnergieVanVandaag_Sept_2022"
 	],
 	"wikipedia20": [
 		"WikipediaAnniversary2021"

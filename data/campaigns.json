@@ -11609,6 +11609,11 @@
 		"startingTimestampMs": "1624690860000",
 		"endingTimestampMs": "1632639660000"
 	},
+	"EnergieVanVandaag_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EnergieVanVandaag_Sept_2022/EnergieVanVandaag_Sept_2022.png",
+		"startingTimestampMs": "1663164360000",
+		"endingTimestampMs": "1671026760000"
+	},
 	"EnergievanVandaag_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/EnergievanVandaag_2020/EnergievanVandaag_2020.png",
 		"startingTimestampMs": "1606089600000",
