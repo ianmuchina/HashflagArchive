@@ -12759,6 +12759,11 @@
 		"startingTimestampMs": "1601305200000",
 		"endingTimestampMs": "1609254000000"
 	},
+	"Fletcher": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Fletcher/Fletcher.png",
+		"startingTimestampMs": "1663267500000",
+		"endingTimestampMs": "1665792000000"
+	},
 	"Fletcher_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Fletcher_2020/Fletcher_2020.png",
 		"startingTimestampMs": "1599580800000",
