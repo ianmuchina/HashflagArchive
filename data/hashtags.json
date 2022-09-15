@@ -1380,6 +1380,9 @@
 	"aeradogelohistóriasdoscrat": [
 		"Disneyplus_Scrat_Tales_Ice_Age_Mar_2022"
 	],
+	"aeropuertochallenge": [
+		"YouTube_Shorts_SPLA_Sept_2022"
+	],
 	"aesecretsofplayboy": [
 		"AE_Secret_Life_of_Playboy_2022"
 	],
@@ -28433,7 +28436,8 @@
 		"LEC_2020_LEC",
 		"LEC_EM_2021_LEC",
 		"LEC_teal_2022_v2",
-		"LEC_orange_2022"
+		"LEC_orange_2022",
+		"LEC_teal_2022_v2_extend"
 	],
 	"lec2020": [
 		"LEC_2020_LEC_add"
@@ -29205,6 +29209,9 @@
 	],
 	"lhhny": [
 		"VH1_LHH_Reunion_2021"
+	],
+	"lhm2022": [
+		"Twitter_Alas_Tentpole_Activation_Sept_2022"
 	],
 	"lhommegris": [
 		"Netflix_The_Gray_Man_May_2022"
@@ -38282,6 +38289,9 @@
 	"paldendrukpa": [
 		"Paralympics_2021_BHU"
 	],
+	"palfrente": [
+		"Twitter_Alas_Tentpole_Activation_Sept_2022"
+	],
 	"pallmall": [
 		"Netflix_Bridgerton_CroquetHatchets_S2_2022"
 	],
@@ -39215,6 +39225,9 @@
 	],
 	"peacockusa": [
 		"Peacock_Love_Island_US_Jul_2022"
+	],
+	"peacockvampireacademy": [
+		"Peacock_Vampire_Academy_Sept_2022"
 	],
 	"peakstreaming": [
 		"ParamountPlus_2021",
@@ -48469,6 +48482,12 @@
 	"stvincent": [
 		"StVincent_2021"
 	],
+	"stvladimirs": [
+		"Peacock_Vampire_Academy_Sept_2022"
+	],
+	"stvlads": [
+		"Peacock_Vampire_Academy_Sept_2022"
+	],
 	"stygimoloch": [
 		"Universal_Pictures_JWD_Dino_Stygimoloch_2022"
 	],
@@ -55556,6 +55575,12 @@
 		"Esports_AllAccess_2020_Mouz",
 		"EsportsAllAccess_Jan_2021_ReadyWillingAble",
 		"MouzEsports2021"
+	],
+	"vampireacademy": [
+		"Peacock_Vampire_Academy_Sept_2022"
+	],
+	"vampireacademypeacock": [
+		"Peacock_Vampire_Academy_Sept_2022"
 	],
 	"van": [
 		"Olympics_Countries_2021_VAN"
