@@ -8528,6 +8528,9 @@
 	"casateconmigo": [
 		"MarryMeMovie_2021"
 	],
+	"case143": [
+		"JYPE_StrayKids_Sept_2022"
+	],
 	"casecomigo": [
 		"MarryMeMovie_2021"
 	],
@@ -18204,6 +18207,9 @@
 	"freeplayer": [
 		"Disney_FreeGuy_2020"
 	],
+	"freetitania": [
+		"DisneyPlus_SheHulk_S1_Titania"
+	],
 	"fremen": [
 		"DuneCharacter_2021_Chani"
 	],
@@ -25282,7 +25288,8 @@
 	],
 	"jennie": [
 		"KPOP_BLACKPINK_2020_JENNIE_ext",
-		"KPOP_BLACKPINK_2020_JENNIE"
+		"KPOP_BLACKPINK_2020_JENNIE",
+		"BLACKPINK_YG_Member_JENNIE_Sept_2022"
 	],
 	"jenniferholland": [
 		"HBO_Max_Peacemaker_S1_Part2_Harcourt_2022"
@@ -25444,7 +25451,8 @@
 	],
 	"jisoo": [
 		"KPOP_BLACKPINK_2020_JISOO",
-		"KPOP_BLACKPINK_2020_JISOO_ext"
+		"KPOP_BLACKPINK_2020_JISOO_ext",
+		"BLACKPINK_YG_Member_JISOO_Sept_2022"
 	],
 	"jisung": [
 		"KPOP_NCT_2020_JISUNG",
@@ -29590,7 +29598,8 @@
 	"lisa": [
 		"Kpop_VIT_LISA_BLACKPINK_Sept_2021",
 		"KPOP_BLACKPINK_2020_LISA_ext",
-		"KPOP_BLACKPINK_2020_LISA"
+		"KPOP_BLACKPINK_2020_LISA",
+		"BLACKPINK_YG_Member_LISA_Sept_2022"
 	],
 	"lisaminci": [
 		"miHoYoGenshinImpact1stAnniversary_2021_GenshinLisa"
@@ -32021,6 +32030,9 @@
 	],
 	"maxcut": [
 		"AvaMaxAlbum_2020"
+	],
+	"maxident": [
+		"JYPE_StrayKids_Sept_2022"
 	],
 	"maximize": [
 		"Trident_Mondelez_Trident_Max_Blue_2022"
@@ -43851,7 +43863,8 @@
 	"rosé": [
 		"KPOP_BLACKPINK_2020_ROSE_ext",
 		"KpopVIT_BLACKPINK_ROSE_March_2021",
-		"KPOP_BLACKPINK_2020_ROSE"
+		"KPOP_BLACKPINK_2020_ROSE",
+		"BLACKPINK_YG_Member_ROSE_Sept_2022"
 	],
 	"roterhalbmond": [
 		"WorldRedCrossDay_May_2021_add"
@@ -45771,6 +45784,9 @@
 	],
 	"shehulkavocate": [
 		"DisneyPlus_SheHulk_S1_JenWalters"
+	],
+	"shehulkbytitania": [
+		"DisneyPlus_SheHulk_S1_Titania"
 	],
 	"shehulkdefensoradehéroes": [
 		"DisneyPlus_SheHulk_S1_JenWalters"
@@ -48370,7 +48386,8 @@
 	"straykids": [
 		"JYPE_Stray_Kids_Mar_2022",
 		"KPOPStrayKids2021Aug",
-		"KPOP_StrayKids_2020"
+		"KPOP_StrayKids_2020",
+		"JYPE_StrayKids_Sept_2022"
 	],
 	"streamanyone": [
 		"JB_Anyone_2021"
@@ -52951,6 +52968,12 @@
 	],
 	"titangamespremiere": [
 		"TitanGames_NBC_2020"
+	],
+	"titania": [
+		"DisneyPlus_SheHulk_S1_Titania"
+	],
+	"titaniacs": [
+		"DisneyPlus_SheHulk_S1_Titania"
 	],
 	"titans": [
 		"NFL_2020_2021_Titans",
@@ -59460,7 +59483,8 @@
 		"Lizzo_Album_2022_Emoji"
 	],
 	"youmakestraykidsstay": [
-		"JYPE_Stray_Kids_Mar_2022"
+		"JYPE_Stray_Kids_Mar_2022",
+		"JYPE_StrayKids_Sept_2022"
 	],
 	"youmeatsix": [
 		"YouMeAtSix_2021"
@@ -64970,6 +64994,9 @@
 	"ไทกาไวทีที": [
 		"Disney_Thor2_Taika_2022"
 	],
+	"ไทเทเนีย": [
+		"DisneyPlus_SheHulk_S1_Titania"
+	],
 	"ไมตี้ธอร์": [
 		"Disney_Thor2_JaneFoster_2022"
 	],
@@ -67657,6 +67684,9 @@
 	],
 	"タイカワイティティ": [
 		"Disney_Thor2_Taika_2022"
+	],
+	"タイタニア": [
+		"DisneyPlus_SheHulk_S1_Titania"
 	],
 	"タイタンズ": [
 		"DCFandom_2020_TITANS"
@@ -74059,7 +74089,8 @@
 	"로제": [
 		"KPOP_BLACKPINK_2020_ROSE_ext",
 		"KpopVIT_BLACKPINK_ROSE_March_2021",
-		"KPOP_BLACKPINK_2020_ROSE"
+		"KPOP_BLACKPINK_2020_ROSE",
+		"BLACKPINK_YG_Member_ROSE_Sept_2022"
 	],
 	"로켓펀치": [
 		"Rocket_Punch_Aug_2022"
@@ -74084,6 +74115,9 @@
 	],
 	"롤케스파컵": [
 		"LoLKeSPACup2020"
+	],
+	"롯데리아_bts_yettocome_in_busan": [
+		"Lotteria_30th_brand_anniversay_2022"
 	],
 	"루카": [
 		"Disney_PixarLuca_Luca_2021"
@@ -74113,7 +74147,8 @@
 	"리사": [
 		"Kpop_VIT_LISA_BLACKPINK_Sept_2021",
 		"KPOP_BLACKPINK_2020_LISA_ext",
-		"KPOP_BLACKPINK_2020_LISA"
+		"KPOP_BLACKPINK_2020_LISA",
+		"BLACKPINK_YG_Member_LISA_Sept_2022"
 	],
 	"리스마스": [
 		"Christmas_2020"
@@ -74573,6 +74608,18 @@
 	"북오브보바펫": [
 		"DisneyPlus_BobaFett_BobaFett_S1_2021"
 	],
+	"불go기": [
+		"Lotteria_30th_brand_anniversay_2022"
+	],
+	"불고기맛집": [
+		"Lotteria_30th_brand_anniversay_2022"
+	],
+	"불벅30주년축하해": [
+		"Lotteria_30th_brand_anniversay_2022"
+	],
+	"불벅_너의_애칭은": [
+		"Lotteria_30th_brand_anniversay_2022"
+	],
 	"브랜디": [
 		"BrandiKR2021"
 	],
@@ -75007,7 +75054,8 @@
 	"스트레이키즈": [
 		"JYPE_Stray_Kids_Mar_2022",
 		"KPOPStrayKids2021Aug",
-		"KPOP_StrayKids_2020"
+		"KPOP_StrayKids_2020",
+		"JYPE_StrayKids_Sept_2022"
 	],
 	"스티커": [
 		"KpopVIT_NCT2021Sep_Sticker"
@@ -75648,7 +75696,8 @@
 	],
 	"제니": [
 		"KPOP_BLACKPINK_2020_JENNIE_ext",
-		"KPOP_BLACKPINK_2020_JENNIE"
+		"KPOP_BLACKPINK_2020_JENNIE",
+		"BLACKPINK_YG_Member_JENNIE_Sept_2022"
 	],
 	"제우스_러브앤썬더": [
 		"Disney_Thor2_Zeus_2022"
@@ -75702,7 +75751,8 @@
 	],
 	"지수": [
 		"KPOP_BLACKPINK_2020_JISOO",
-		"KPOP_BLACKPINK_2020_JISOO_ext"
+		"KPOP_BLACKPINK_2020_JISOO_ext",
+		"BLACKPINK_YG_Member_JISOO_Sept_2022"
 	],
 	"지훈": [
 		"ParkJihoon_2020"
@@ -75953,6 +76003,9 @@
 	],
 	"타이카와이티티": [
 		"Disney_Thor2_Taika_2022"
+	],
+	"타이타니아": [
+		"DisneyPlus_SheHulk_S1_Titania"
 	],
 	"타이탄": [
 		"DCFandom_2020_TITANS"
