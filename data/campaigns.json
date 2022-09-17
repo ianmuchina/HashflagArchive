@@ -10469,10 +10469,20 @@
 		"startingTimestampMs": "1662621300000",
 		"endingTimestampMs": "1669877940000"
 	},
+	"Disneyplus_Andor_Cassian_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Andor_Cassian_2022/Disneyplus_Andor_Cassian_2022.png",
+		"startingTimestampMs": "1663296900000",
+		"endingTimestampMs": "1670457300000"
+	},
 	"Disneyplus_Andor_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Andor_Sept_2022/Disneyplus_Andor_Sept_2022.png",
 		"startingTimestampMs": "1662534000000",
 		"endingTimestampMs": "1670486340000"
+	},
+	"Disneyplus_Andor_Sept_2022_A": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Andor_Sept_2022_A/Disneyplus_Andor_Sept_2022_A.png",
+		"startingTimestampMs": "1663296900000",
+		"endingTimestampMs": "1670457300000"
 	},
 	"Disneyplus_Cars_on_the_Road_95_Aug_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Cars_on_the_Road_95_Aug_2022/Disneyplus_Cars_on_the_Road_95_Aug_2022.png",
@@ -14794,6 +14804,11 @@
 		"startingTimestampMs": "1662768000000",
 		"endingTimestampMs": "1666065540000"
 	},
+	"HBO_House_of_the_Dragon_Throne_Jul_2022_add2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Throne_Jul_2022_add2/HBO_House_of_the_Dragon_Throne_Jul_2022_add2.png",
+		"startingTimestampMs": "1662768000000",
+		"endingTimestampMs": "1666065540000"
+	},
 	"HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022/HBO_House_of_the_Dragon_Velaryon_Sigil_Aug_2022.png",
 		"startingTimestampMs": "1661097600000",
@@ -16696,6 +16711,11 @@
 	},
 	"Hulu_The_Handmaids_Tale_S5_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_The_Handmaids_Tale_S5_Sept_2022/Hulu_The_Handmaids_Tale_S5_Sept_2022.png",
+		"startingTimestampMs": "1663138800000",
+		"endingTimestampMs": "1671004740000"
+	},
+	"Hulu_The_Handmaids_Tale_S5_Sept_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_The_Handmaids_Tale_S5_Sept_2022_add/Hulu_The_Handmaids_Tale_S5_Sept_2022_add.png",
 		"startingTimestampMs": "1663138800000",
 		"endingTimestampMs": "1671004740000"
 	},
