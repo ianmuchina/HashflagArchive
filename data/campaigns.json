@@ -32104,6 +32104,11 @@
 		"startingTimestampMs": "1652000400000",
 		"endingTimestampMs": "1653462000000"
 	},
+	"PGL_TI11_Tournament_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PGL_TI11_Tournament_Sept_2022/PGL_TI11_Tournament_Sept_2022.png",
+		"startingTimestampMs": "1663491600000",
+		"endingTimestampMs": "1667109600000"
+	},
 	"PHLEagles2022SeasonEmoji": {
 		"assetUrl": "https://abs.twimg.com/hashflags/PHLEagles2022SeasonEmoji/PHLEagles2022SeasonEmoji.png",
 		"startingTimestampMs": "1651154400000",

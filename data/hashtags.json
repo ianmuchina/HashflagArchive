@@ -51501,6 +51501,12 @@
 		"NBAonTNT2020",
 		"NBAPlayoffsonTNT_2021"
 	],
+	"theinternational": [
+		"PGL_TI11_Tournament_Sept_2022"
+	],
+	"theinternational2022": [
+		"PGL_TI11_Tournament_Sept_2022"
+	],
 	"theinvitation": [
 		"Sony_Pictures_The_Invitation_Aug_2022"
 	],
@@ -52688,6 +52694,9 @@
 	],
 	"ti": [
 		"TI_2020"
+	],
+	"ti11": [
+		"PGL_TI11_Tournament_Sept_2022"
 	],
 	"tiaberu": [
 		"Disneyplus_Obi_Wan_Kenobi_AuntBeru_Jun_2022"
