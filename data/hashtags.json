@@ -4028,7 +4028,8 @@
 	],
 	"astromalaysia": [
 		"Astro_Ramadan_Hari_Raya_May_2022",
-		"Muzikal_Lawak_Superstar_3_Jul_2022"
+		"Muzikal_Lawak_Superstar_3_Jul_2022",
+		"Gegar_Vaganza_9_Sept_2022"
 	],
 	"astroraya": [
 		"Astro_Ramadan_Hari_Raya_May_2022"
@@ -6268,6 +6269,9 @@
 	],
 	"binjininevitable": [
 		"SmartFingerheart_2021"
+	],
+	"bintangkembalimenyengat": [
+		"Gegar_Vaganza_9_Sept_2022"
 	],
 	"biobobbybrown": [
 		"AE_Bobby_Brown_Docu-Series_May_2022"
@@ -14753,7 +14757,8 @@
 	],
 	"díanacionalderegistrodevotantes": [
 		"US_Election_2020_NVRD",
-		"NationalVoterRegistrationDay_2021"
+		"NationalVoterRegistrationDay_2021",
+		"National_Voter_Registration_Day_Check_Mark_2022"
 	],
 	"díapueblosindigenas": [
 		"IndigenousPeoplesDay_2021"
@@ -18912,6 +18917,12 @@
 		"WorldMentalHealthDay_2020",
 		"WMHD_2021"
 	],
+	"gegarvaganza": [
+		"Gegar_Vaganza_9_Sept_2022"
+	],
+	"gegarvaganza9": [
+		"Gegar_Vaganza_9_Sept_2022"
+	],
 	"gegengewaltgegenfrauen": [
 		"StopViolenceAgainstWomen_2020"
 	],
@@ -21076,6 +21087,9 @@
 	],
 	"guycamisaazul": [
 		"Disney_FreeFuy_Guy_2021"
+	],
+	"gv9": [
+		"Gegar_Vaganza_9_Sept_2022"
 	],
 	"gvf": [
 		"GretaVanFleet_April_20221"
@@ -35160,7 +35174,8 @@
 	],
 	"nationalvoterregistrationday": [
 		"US_Election_2020_NVRD",
-		"NationalVoterRegistrationDay_2021"
+		"NationalVoterRegistrationDay_2021",
+		"National_Voter_Registration_Day_Check_Mark_2022"
 	],
 	"nationalwarmemoria": [
 		"IndependenceDayIndia_2020"
@@ -56524,7 +56539,8 @@
 	],
 	"voteready": [
 		"US_Election_2020_NVRD",
-		"NationalVoterRegistrationDay_2021"
+		"NationalVoterRegistrationDay_2021",
+		"National_Voter_Registration_Day_Check_Mark_2022"
 	],
 	"voteresponsibly": [
 		"Absolut_VoteResponsibly_2020_v2",
