@@ -9721,6 +9721,12 @@
 	"ciri": [
 		"Netflix_Witcher_S2_Wolf_Head_Hat_2021"
 	],
+	"citroenbrasil": [
+		"Citroen_C3_Sept_2022_add"
+	],
+	"citroenc3": [
+		"Citroen_C3_Sept_2022_add"
+	],
 	"citroënbrasil": [
 		"Citroen_C3_Sept_2022"
 	],
@@ -36632,6 +36638,12 @@
 	"novisibledrama": [
 		"Visible_Holiday_Hotline_2021"
 	],
+	"novocitroen": [
+		"Citroen_C3_Sept_2022_add"
+	],
+	"novocitroenc3": [
+		"Citroen_C3_Sept_2022_add"
+	],
 	"novocitroën": [
 		"Citroen_C3_Sept_2022"
 	],
@@ -61420,7 +61432,8 @@
 		"OneBahri_220"
 	],
 	"البنك_الأهلي_السعودي": [
-		"Saudi_National_Bank_Ramadan_2022"
+		"Saudi_National_Bank_Ramadan_2022",
+		"Saudi_National_Bank_Saudi_National_Day_and_Mobile_App_Campaign_Sept_2022"
 	],
 	"البنك_السعودي_الفرنسي": [
 		"BSF_SND_2021_AE"
@@ -61491,6 +61504,9 @@
 	],
 	"الضواحي_السكنية_الكبرى": [
 		"SakaniGreaterSuburbs2021"
+	],
+	"العبرة_بالتطبيق": [
+		"Saudi_National_Bank_Saudi_National_Day_and_Mobile_App_Campaign_Sept_2022"
 	],
 	"العربية_للعود": [
 		"ArabianoudMabkhara2020"
@@ -61857,6 +61873,9 @@
 	],
 	"تطبيق_إحسان": [
 		"Ehsan_Feb_2022"
+	],
+	"تطبيق_الأهلي_موبايل": [
+		"Saudi_National_Bank_Saudi_National_Day_and_Mobile_App_Campaign_Sept_2022"
 	],
 	"تطبيق_انجاز": [
 		"EnjazMobileApp_2021"
@@ -62734,11 +62753,15 @@
 	"معا_نصنع_الغد": [
 		"Saudi_National_Bank_Ramadan_2022"
 	],
+	"معاً_لغد_الوطن": [
+		"Saudi_National_Bank_Saudi_National_Day_and_Mobile_App_Campaign_Sept_2022"
+	],
 	"معاً_نصنع_السعادة": [
 		"Saudi_National_Bank_Ramadan_2022"
 	],
 	"معاً_نصنع_الغد": [
-		"Saudi_National_Bank_Ramadan_2022"
+		"Saudi_National_Bank_Ramadan_2022",
+		"Saudi_National_Bank_Saudi_National_Day_and_Mobile_App_Campaign_Sept_2022"
 	],
 	"ملخصspotify": [
 		"Spotify2020Wrapped_H1",
