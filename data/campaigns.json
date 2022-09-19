@@ -369,6 +369,11 @@
 		"startingTimestampMs": "1632873600000",
 		"endingTimestampMs": "1654326060000"
 	},
+	"ABC_Abbott_Elementary_S2_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ABC_Abbott_Elementary_S2_Sept_2022/ABC_Abbott_Elementary_S2_Sept_2022.png",
+		"startingTimestampMs": "1663570860000",
+		"endingTimestampMs": "1672473660000"
+	},
 	"ABC_AmericanIdol_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ABC_AmericanIdol_2021/ABC_AmericanIdol_2021.png",
 		"startingTimestampMs": "1613289600000",
@@ -5743,6 +5748,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/CBS_Television_Fire_Country_Sept_2022/CBS_Television_Fire_Country_Sept_2022.png",
 		"startingTimestampMs": "1662994800000",
 		"endingTimestampMs": "1678550400000"
+	},
+	"CBS_Television_Ghosts_S2_Sept_2022_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBS_Television_Ghosts_S2_Sept_2022_v3/CBS_Television_Ghosts_S2_Sept_2022_v3.png",
+		"startingTimestampMs": "1663570800000",
+		"endingTimestampMs": "1679151600000"
 	},
 	"CBS_Television_Good_Sam_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CBS_Television_Good_Sam_2021/CBS_Television_Good_Sam_2021.png",
@@ -29299,6 +29309,11 @@
 		"startingTimestampMs": "1613721660000",
 		"endingTimestampMs": "1621492860000"
 	},
+	"Netflix_Tudum_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Tudum_Sept_2022/Netflix_Tudum_Sept_2022.png",
+		"startingTimestampMs": "1663570800000",
+		"endingTimestampMs": "1671350400000"
+	},
 	"Netflix_Umbrella_Academy_S3_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Umbrella_Academy_S3_Jun_2022/Netflix_Umbrella_Academy_S3_Jun_2022.png",
 		"startingTimestampMs": "1654498800000",
@@ -40633,6 +40648,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Troy_Deeney_Feb_2022/Troy_Deeney_Feb_2022.png",
 		"startingTimestampMs": "1645551000000",
 		"endingTimestampMs": "1653240600000"
+	},
+	"Truist_Bank_Truist_One_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Truist_Bank_Truist_One_Sept_2022/Truist_Bank_Truist_One_Sept_2022.png",
+		"startingTimestampMs": "1663570800000",
+		"endingTimestampMs": "1671433200000"
 	},
 	"Truly_TeaGoldCan_Feb_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Truly_TeaGoldCan_Feb_2021/Truly_TeaGoldCan_Feb_2021.png",

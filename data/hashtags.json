@@ -985,11 +985,26 @@
 	"abbavoyage": [
 		"ABBA2021"
 	],
+	"abbottelem": [
+		"ABC_Abbott_Elementary_S2_Sept_2022"
+	],
+	"abbottelemabc": [
+		"ABC_Abbott_Elementary_S2_Sept_2022"
+	],
+	"abbottelementary": [
+		"ABC_Abbott_Elementary_S2_Sept_2022"
+	],
+	"abbottelementaryabc": [
+		"ABC_Abbott_Elementary_S2_Sept_2022"
+	],
 	"abbottranch": [
 		"Amazon_Studios_Outer_Range_Neon_Buffalo_2022"
 	],
 	"abbottsign": [
 		"Amazon_Studios_Outer_Range_Neon_Buffalo_2022"
+	],
+	"abcabbottelementary": [
+		"ABC_Abbott_Elementary_S2_Sept_2022"
 	],
 	"abcclaimtofame": [
 		"ABC_Claim_To_Fame_Jul_2022"
@@ -8630,7 +8645,8 @@
 	"cbsghosts": [
 		"GhostsCBS_2022",
 		"GhostsCBS_2021",
-		"GhostsCBS_Apr_2022"
+		"GhostsCBS_Apr_2022",
+		"CBS_Television_Ghosts_S2_Sept_2022_v3"
 	],
 	"cdhowbold": [
 		"CanadaDryBOLD_2020"
@@ -19293,7 +19309,8 @@
 	"ghostscbs": [
 		"GhostsCBS_2022",
 		"GhostsCBS_2021",
-		"GhostsCBS_Apr_2022"
+		"GhostsCBS_Apr_2022",
+		"CBS_Television_Ghosts_S2_Sept_2022_v3"
 	],
 	"ghoststarz": [
 		"GhostStarz_S2_2021",
@@ -28929,7 +28946,8 @@
 	"letsghost": [
 		"GhostsCBS_2022",
 		"GhostsCBS_2021",
-		"GhostsCBS_Apr_2022"
+		"GhostsCBS_Apr_2022",
+		"CBS_Television_Ghosts_S2_Sept_2022_v3"
 	],
 	"letsgo2kl": [
 		"LetsGo2KL_2021",
@@ -35620,6 +35638,9 @@
 	"netflixstreamfest": [
 		"Netflix_Streamfest_2020",
 		"Netflix_Streamfest_2020_v2"
+	],
+	"netflixtudum": [
+		"Netflix_Tudum_Sept_2022"
 	],
 	"netherlands": [
 		"ICCT20WorldCup_2021_NED"
@@ -52916,6 +52937,9 @@
 	"timeforasub": [
 		"TimeForASub_2021"
 	],
+	"timeforcare": [
+		"Truist_Bank_Truist_One_Sept_2022"
+	],
 	"timegeorginho": [
 		"NBB_Jogodas_Estrelas_2021_TimeGeorginho"
 	],
@@ -53956,6 +53980,9 @@
 		"Raybo_TUSD_July_2021",
 		"Raybo_tusdio_May_2022"
 	],
+	"truist": [
+		"Truist_Bank_Truist_One_Sept_2022"
+	],
 	"trulygoldexchange": [
 		"Truly_TeaGoldCan_Feb_2021"
 	],
@@ -54072,7 +54099,17 @@
 		"World_Press_Freedom_Day_2022_v2"
 	],
 	"tudum": [
-		"Netflix_TUDUM_2021"
+		"Netflix_TUDUM_2021",
+		"Netflix_Tudum_Sept_2022"
+	],
+	"tudum2022": [
+		"Netflix_Tudum_Sept_2022"
+	],
+	"tudumevent": [
+		"Netflix_Tudum_Sept_2022"
+	],
+	"tudumshow": [
+		"Netflix_Tudum_Sept_2022"
 	],
 	"tufannahitoofanhai": [
 		"IPL_2021_KKR"
@@ -57395,6 +57432,9 @@
 	],
 	"wekimeki_siesta": [
 		"WekiMeki_Siesta_2021"
+	],
+	"welcome2woodstone": [
+		"CBS_Television_Ghosts_S2_Sept_2022_v3"
 	],
 	"welcomesonny": [
 		"Sonnys_First_Tweet_Campaign_Mar_2022",
