@@ -6194,6 +6194,11 @@
 		"startingTimestampMs": "1623888000000",
 		"endingTimestampMs": "1628402400000"
 	},
+	"Cadbury_Silk_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Cadbury_Silk_Sept_2022/Cadbury_Silk_Sept_2022.png",
+		"startingTimestampMs": "1663558560000",
+		"endingTimestampMs": "1671420960000"
+	},
 	"CadillacBlackwing_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CadillacBlackwing_2021/CadillacBlackwing_2021.png",
 		"startingTimestampMs": "1611550740000",
@@ -35503,6 +35508,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Recovery_Month_Aug_2022_v2/Recovery_Month_Aug_2022_v2.png",
 		"startingTimestampMs": "1660892400000",
 		"endingTimestampMs": "1665471540000"
+	},
+	"Recovery_Month_Aug_2022_v2_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Recovery_Month_Aug_2022_v2_add/Recovery_Month_Aug_2022_v2_add.png",
+		"startingTimestampMs": "1663560060000",
+		"endingTimestampMs": "1663657140000"
 	},
 	"RedBull_GIVESYOUWINGS_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/RedBull_GIVESYOUWINGS_2020/RedBull_GIVESYOUWINGS_2020.png",
