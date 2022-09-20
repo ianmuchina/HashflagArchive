@@ -15334,6 +15334,11 @@
 		"startingTimestampMs": "1643014800000",
 		"endingTimestampMs": "1650772800000"
 	},
+	"HBO_The_White_Lotus_Sept_2022_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_The_White_Lotus_Sept_2022_v3/HBO_The_White_Lotus_Sept_2022_v3.png",
+		"startingTimestampMs": "1663682400000",
+		"endingTimestampMs": "1671422340000"
+	},
 	"HBO_Time_Travelers_Wife_LATAM_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Time_Travelers_Wife_LATAM_May_2022/HBO_Time_Travelers_Wife_LATAM_May_2022.png",
 		"startingTimestampMs": "1653537600000",
@@ -40691,6 +40696,11 @@
 	},
 	"Truist_Bank_Truist_One_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Truist_Bank_Truist_One_Sept_2022/Truist_Bank_Truist_One_Sept_2022.png",
+		"startingTimestampMs": "1663570800000",
+		"endingTimestampMs": "1671433200000"
+	},
+	"Truist_Bank_Truist_One_Sept_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Truist_Bank_Truist_One_Sept_2022_add/Truist_Bank_Truist_One_Sept_2022_add.png",
 		"startingTimestampMs": "1663570800000",
 		"endingTimestampMs": "1671433200000"
 	},
