@@ -11579,6 +11579,11 @@
 		"startingTimestampMs": "1601251200000",
 		"endingTimestampMs": "1609200000000"
 	},
+	"Elma_Chips_Amendoins_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Elma_Chips_Amendoins_Sept_2022/Elma_Chips_Amendoins_Sept_2022.png",
+		"startingTimestampMs": "1663693200000",
+		"endingTimestampMs": "1671217200000"
+	},
 	"Elma_Chips_Promo_Salgadinho_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Elma_Chips_Promo_Salgadinho_2022/Elma_Chips_Promo_Salgadinho_2022.png",
 		"startingTimestampMs": "1643022000000",
@@ -36273,6 +36278,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/SHEINX_Eid_Jun_2022/SHEINX_Eid_Jun_2022.png",
 		"startingTimestampMs": "1654120800000",
 		"endingTimestampMs": "1662069600000"
+	},
+	"SHEIN_FW_Sept_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SHEIN_FW_Sept_2022_v2/SHEIN_FW_Sept_2022_v2.png",
+		"startingTimestampMs": "1663689660000",
+		"endingTimestampMs": "1671552060000"
 	},
 	"SIIMA2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SIIMA2021/SIIMA2021.png",

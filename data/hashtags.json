@@ -2556,6 +2556,9 @@
 		"AME_Pride_Jun_2022",
 		"AME_Pride_Jun_2022_v2"
 	],
+	"amendoinselmachips": [
+		"Elma_Chips_Amendoins_Sept_2022"
+	],
 	"amentálisegészségszámít": [
 		"MentalHealthMonth_2021",
 		"Mental_Health_Month_2022"
@@ -45971,7 +45974,8 @@
 		"DisneyPlus_SheHulk_S1_JenWalters"
 	],
 	"shein": [
-		"SHEINX100KCHALLENGE_2021"
+		"SHEINX100KCHALLENGE_2021",
+		"SHEIN_FW_Sept_2022_v2"
 	],
 	"sheineid": [
 		"SHEINX_Eid_Jun_2022"
@@ -45979,8 +45983,14 @@
 	"sheineidfun": [
 		"SHEINX_Eid_Jun_2022"
 	],
+	"sheinforall": [
+		"SHEIN_FW_Sept_2022_v2"
+	],
 	"sheinfw21": [
 		"SHEINX100KCHALLENGE_2021"
+	],
+	"sheinrocktherunway2022": [
+		"SHEIN_FW_Sept_2022_v2"
 	],
 	"sheinx": [
 		"SHEINX100KCHALLENGE_2021"
