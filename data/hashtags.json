@@ -14988,6 +14988,9 @@
 	"eekhoorn": [
 		"Disney_FloraUlysses_Squirrel_2021_add"
 	],
+	"efda": [
+		"Prime_Video_El_Fin_Del_Amor_Sept_2022"
+	],
 	"efectotopgun": [
 		"Paramount_Pictures_Top_Gun_Maverick_Mar_2022"
 	],
@@ -15300,6 +15303,12 @@
 	],
 	"elfestivalquequieres": [
 		"Benidorm_Fest_2022"
+	],
+	"elfindelamor": [
+		"Prime_Video_El_Fin_Del_Amor_Sept_2022"
+	],
+	"elfindelamortv": [
+		"Prime_Video_El_Fin_Del_Amor_Sept_2022"
 	],
 	"elguardiánrojo": [
 		"Disney_BlackWidow_RedGuardian_2021"
@@ -27828,6 +27837,12 @@
 	"lalisa": [
 		"Kpop_VIT_LISA_BLACKPINK_Sept_2021"
 	],
+	"lalixefda": [
+		"Prime_Video_El_Fin_Del_Amor_Sept_2022"
+	],
+	"lalixelfindelamor": [
+		"Prime_Video_El_Fin_Del_Amor_Sept_2022"
+	],
 	"laluna": [
 		"KPOP_HATFELT_2020"
 	],
@@ -35186,11 +35201,13 @@
 	],
 	"nationalbook": [
 		"NationalBookAwards_2020",
-		"NBAwards2021"
+		"NBAwards2021",
+		"National_Book_Awards_Sept_2022"
 	],
 	"nationalbookawards": [
 		"NationalBookAwards_2020",
-		"NBAwards2021"
+		"NBAwards2021",
+		"National_Book_Awards_Sept_2022"
 	],
 	"nationalchampionship": [
 		"NCAA_March_Madness_NationalChampionship_2022",
@@ -35356,13 +35373,17 @@
 	],
 	"nbawards": [
 		"NationalBookAwards_2020",
-		"NBAwards2021"
+		"NBAwards2021",
+		"National_Book_Awards_Sept_2022"
 	],
 	"nbawards2020": [
 		"NationalBookAwards_2020"
 	],
 	"nbawards2021": [
 		"NBAwards2021"
+	],
+	"nbawards2022": [
+		"National_Book_Awards_Sept_2022"
 	],
 	"nbaxmas": [
 		"nbaxmas_Dec2021",
