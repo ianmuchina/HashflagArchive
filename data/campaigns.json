@@ -10519,6 +10519,11 @@
 		"startingTimestampMs": "1662621300000",
 		"endingTimestampMs": "1669877940000"
 	},
+	"DisneyplusDay_BTA_PermissiontoDance_NoBTS": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyplusDay_BTA_PermissiontoDance_NoBTS/DisneyplusDay_BTA_PermissiontoDance_NoBTS.png",
+		"startingTimestampMs": "1662621300000",
+		"endingTimestampMs": "1669877940000"
+	},
 	"Disneyplus_Andor_Cassian_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Andor_Cassian_2022/Disneyplus_Andor_Cassian_2022.png",
 		"startingTimestampMs": "1663296900000",
@@ -13648,6 +13653,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/GRAMMYs_On_The_Hill_2022/GRAMMYs_On_The_Hill_2022.png",
 		"startingTimestampMs": "1650844800000",
 		"endingTimestampMs": "1652400000000"
+	},
+	"GRAMMYs_On_The_Hill_Part_2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GRAMMYs_On_The_Hill_Part_2/GRAMMYs_On_The_Hill_Part_2.png",
+		"startingTimestampMs": "1663718400000",
+		"endingTimestampMs": "1667088000000"
 	},
 	"GT_Twitter_Hashflag_BabaVoss_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/GT_Twitter_Hashflag_BabaVoss_2021/GT_Twitter_Hashflag_BabaVoss_2021.png",

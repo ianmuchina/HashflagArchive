@@ -7574,10 +7574,12 @@
 		"KPOP_BTS_Dynamite_2020_3_Week2"
 	],
 	"bts_en_disneyplus": [
-		"DisneyplusDay_BTA_PermissiontoDance_Launch"
+		"DisneyplusDay_BTA_PermissiontoDance_Launch",
+		"DisneyplusDay_BTA_PermissiontoDance_NoBTS"
 	],
 	"bts_on_disneyplus": [
-		"DisneyplusDay_BTA_PermissiontoDance_Launch"
+		"DisneyplusDay_BTA_PermissiontoDance_Launch",
+		"DisneyplusDay_BTA_PermissiontoDance_NoBTS"
 	],
 	"bts_proof": [
 		"Hybe_BTS_Proof_May_2022"
@@ -7599,13 +7601,15 @@
 		"BTS_PERMISSION_TO_DANCE_ON_STAGE_LAS_VEGAS_BTSARMY_Apr_2022"
 	],
 	"btsendisneyplus": [
-		"DisneyplusDay_BTA_PermissiontoDance_Launch"
+		"DisneyplusDay_BTA_PermissiontoDance_Launch",
+		"DisneyplusDay_BTA_PermissiontoDance_NoBTS"
 	],
 	"btsmeal": [
 		"BTSxMcD_May_2021"
 	],
 	"btsondisneyplus": [
-		"DisneyplusDay_BTA_PermissiontoDance_Launch"
+		"DisneyplusDay_BTA_PermissiontoDance_Launch",
+		"DisneyplusDay_BTA_PermissiontoDance_NoBTS"
 	],
 	"btsxamas": [
 		"AMAsArtist_2021_BTSMeganTheeStallion"
@@ -39740,7 +39744,8 @@
 		"Kpop_VIT_BTS_single_July1_2021_W2",
 		"Kpop_VIT_BTS_single_July1_2021_W4",
 		"Kpop_VIT_BTS_single_July1_2021_W1",
-		"DisneyplusDay_BTA_PermissiontoDance_Launch"
+		"DisneyplusDay_BTA_PermissiontoDance_Launch",
+		"DisneyplusDay_BTA_PermissiontoDance_NoBTS"
 	],
 	"perrin": [
 		"AmazonStudios_WheelOfTime_2021_Perrin"
@@ -49142,7 +49147,8 @@
 		"WaPo_WorldPressFreedom_2021"
 	],
 	"supportmusic": [
-		"GRAMMY_2021_Turquoise"
+		"GRAMMY_2021_Turquoise",
+		"GRAMMYs_On_The_Hill_Part_2"
 	],
 	"supportresponsibly": [
 		"Heineken_starofthematch_May_2021"
