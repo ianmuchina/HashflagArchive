@@ -22819,19 +22819,25 @@
 		"NBAonTNT_2020"
 	],
 	"homeec": [
-		"ABC_HomeEcon_2021"
+		"ABC_HomeEcon_2021",
+		"Disney_ABCNetwork_HomeEconomics_2022"
 	],
 	"homeecabc": [
 		"ABC_HomeEcon_2021"
 	],
 	"homeecon": [
-		"ABC_HomeEcon_2021"
+		"ABC_HomeEcon_2021",
+		"Disney_ABCNetwork_HomeEconomics_2022"
 	],
 	"homeeconabc": [
 		"ABC_HomeEcon_2021"
 	],
 	"homeeconomics": [
-		"ABC_HomeEcon_2021"
+		"ABC_HomeEcon_2021",
+		"Disney_ABCNetwork_HomeEconomics_2022"
+	],
+	"homeeconomicsabc": [
+		"Disney_ABCNetwork_HomeEconomics_2022"
 	],
 	"homeishere": [
 		"HomeIsHere_2021"
