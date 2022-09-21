@@ -8854,6 +8854,11 @@
 		"startingTimestampMs": "1662645600000",
 		"endingTimestampMs": "1667545140000"
 	},
+	"DisneyPlus_SheHulk_S1_SheHulk_All_Until922": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_SheHulk_All_Until922/DisneyPlus_SheHulk_S1_SheHulk_All_Until922.png",
+		"startingTimestampMs": "1663686000000",
+		"endingTimestampMs": "1663858800000"
+	},
 	"DisneyPlus_SheHulk_S1_Titania": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_Titania/DisneyPlus_SheHulk_S1_Titania.png",
 		"startingTimestampMs": "1663252200000",
@@ -39043,6 +39048,16 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/TBSOWARAINOHI2021/TBSOWARAINOHI2021.png",
 		"startingTimestampMs": "1631912400000",
 		"endingTimestampMs": "1635692340000"
+	},
+	"TBS_Comedy_Day_Hamada_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TBS_Comedy_Day_Hamada_Sept_2022/TBS_Comedy_Day_Hamada_Sept_2022.png",
+		"startingTimestampMs": "1663794000000",
+		"endingTimestampMs": "1666191600000"
+	},
+	"TBS_Comedy_Day_Matsumoto_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TBS_Comedy_Day_Matsumoto_Sept_2022/TBS_Comedy_Day_Matsumoto_Sept_2022.png",
+		"startingTimestampMs": "1663794000000",
+		"endingTimestampMs": "1666191600000"
 	},
 	"TBS_GoBig_Dec_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/TBS_GoBig_Dec_2020/TBS_GoBig_Dec_2020.png",
