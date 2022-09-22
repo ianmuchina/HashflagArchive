@@ -8639,6 +8639,11 @@
 		"startingTimestampMs": "1657468800000",
 		"endingTimestampMs": "1664348340000"
 	},
+	"DisneyABC_Jimmy_Kimmel_Live_Brooklyn_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyABC_Jimmy_Kimmel_Live_Brooklyn_Sept_2022/DisneyABC_Jimmy_Kimmel_Live_Brooklyn_Sept_2022.png",
+		"startingTimestampMs": "1663873200000",
+		"endingTimestampMs": "1664693940000"
+	},
 	"DisneyCruella_April_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyCruella_April_2021/DisneyCruella_April_2021.png",
 		"startingTimestampMs": "1617793200000",
@@ -8843,6 +8848,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Pinocchio_Pinocchio_2022/DisneyPlus_Pinocchio_Pinocchio_2022.png",
 		"startingTimestampMs": "1661491800000",
 		"endingTimestampMs": "1669440600000"
+	},
+	"DisneyPlus_Rosaline_Rosaline_2022_v5": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Rosaline_Rosaline_2022_v5/DisneyPlus_Rosaline_Rosaline_2022_v5.png",
+		"startingTimestampMs": "1663846200000",
+		"endingTimestampMs": "1671091140000"
 	},
 	"DisneyPlus_SheHulk_S1_BruceBanner": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_BruceBanner/DisneyPlus_SheHulk_S1_BruceBanner.png",
