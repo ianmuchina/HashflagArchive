@@ -219,6 +219,11 @@
 		"startingTimestampMs": "1638417600000",
 		"endingTimestampMs": "1640822400000"
 	},
+	"5SOS_2022_Album_Take_2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/5SOS_2022_Album_Take_2/5SOS_2022_Album_Take_2.png",
+		"startingTimestampMs": "1663858800000",
+		"endingTimestampMs": "1666396800000"
+	},
 	"5SOS_2022_Emoji": {
 		"assetUrl": "https://abs.twimg.com/hashflags/5SOS_2022_Emoji/5SOS_2022_Emoji.png",
 		"startingTimestampMs": "1646244000000",
@@ -8849,6 +8854,21 @@
 		"startingTimestampMs": "1659621600000",
 		"endingTimestampMs": "1667545140000"
 	},
+	"DisneyPlus_SheHulk_S1_JustJen": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_JustJen/DisneyPlus_SheHulk_S1_JustJen.png",
+		"startingTimestampMs": "1663858800000",
+		"endingTimestampMs": "1667545140000"
+	},
+	"DisneyPlus_SheHulk_S1_JustJen_1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_JustJen_1/DisneyPlus_SheHulk_S1_JustJen_1.png",
+		"startingTimestampMs": "1663858800000",
+		"endingTimestampMs": "1667545140000"
+	},
+	"DisneyPlus_SheHulk_S1_JustJen_SheHulk": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_JustJen_SheHulk/DisneyPlus_SheHulk_S1_JustJen_SheHulk.png",
+		"startingTimestampMs": "1663859100000",
+		"endingTimestampMs": "1664463600000"
+	},
 	"DisneyPlus_SheHulk_S1_Madisynn": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_Madisynn/DisneyPlus_SheHulk_S1_Madisynn.png",
 		"startingTimestampMs": "1662645600000",
@@ -8858,6 +8878,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_Madisynn_New/DisneyPlus_SheHulk_S1_Madisynn_New.png",
 		"startingTimestampMs": "1662645600000",
 		"endingTimestampMs": "1667545140000"
+	},
+	"DisneyPlus_SheHulk_S1_SheHulk_All_NoShe": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_SheHulk_All_NoShe/DisneyPlus_SheHulk_S1_SheHulk_All_NoShe.png",
+		"startingTimestampMs": "1663859100000",
+		"endingTimestampMs": "1664463600000"
 	},
 	"DisneyPlus_SheHulk_S1_SheHulk_All_Until922": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_SheHulk_All_Until922/DisneyPlus_SheHulk_S1_SheHulk_All_Until922.png",
@@ -10573,6 +10598,26 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Escaype_Live_Launch_Apr_2022/Disneyplus_Escaype_Live_Launch_Apr_2022.png",
 		"startingTimestampMs": "1650412800000",
 		"endingTimestampMs": "1658255340000"
+	},
+	"Disneyplus_Hocus_Pocus_2_Black_Flame_Candle_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Hocus_Pocus_2_Black_Flame_Candle_2022/Disneyplus_Hocus_Pocus_2_Black_Flame_Candle_2022.png",
+		"startingTimestampMs": "1663857000000",
+		"endingTimestampMs": "1671782340000"
+	},
+	"Disneyplus_Hocus_Pocus_2_Mary_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Hocus_Pocus_2_Mary_2022/Disneyplus_Hocus_Pocus_2_Mary_2022.png",
+		"startingTimestampMs": "1663857000000",
+		"endingTimestampMs": "1671782340000"
+	},
+	"Disneyplus_Hocus_Pocus_2_Sarah_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Hocus_Pocus_2_Sarah_2022/Disneyplus_Hocus_Pocus_2_Sarah_2022.png",
+		"startingTimestampMs": "1663857000000",
+		"endingTimestampMs": "1671782340000"
+	},
+	"Disneyplus_Hocus_Pocus_2_Winifred_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_Hocus_Pocus_2_Winifred_2022/Disneyplus_Hocus_Pocus_2_Winifred_2022.png",
+		"startingTimestampMs": "1663857000000",
+		"endingTimestampMs": "1671782340000"
 	},
 	"Disneyplus_IamGroot_BabyGroot_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Disneyplus_IamGroot_BabyGroot_2022/Disneyplus_IamGroot_BabyGroot_2022.png",
