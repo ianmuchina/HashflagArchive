@@ -35219,6 +35219,11 @@
 		"startingTimestampMs": "1638172800000",
 		"endingTimestampMs": "1646035140000"
 	},
+	"Quebec_Election_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Quebec_Election_Sept_2022/Quebec_Election_Sept_2022.png",
+		"startingTimestampMs": "1663938000000",
+		"endingTimestampMs": "1665320400000"
+	},
 	"QueensABC_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/QueensABC_2021/QueensABC_2021.png",
 		"startingTimestampMs": "1632812460000",
