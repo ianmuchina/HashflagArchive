@@ -1537,7 +1537,8 @@
 	],
 	"afl": [
 		"AFL_2020_trophy",
-		"AFL_2021"
+		"AFL_2021",
+		"AU_AFL_Finals_2022"
 	],
 	"aflac": [
 		"AflacQ4CFB_2021",
@@ -1561,7 +1562,11 @@
 	],
 	"aflgf": [
 		"AFL_2021",
-		"AFL_Finals_2020"
+		"AFL_Finals_2020",
+		"AU_AFL_Finals_2022"
+	],
+	"aflgrandfinal": [
+		"AU_AFL_Finals_2022"
 	],
 	"aflw": [
 		"AFL_Womens_Finals_2022",
@@ -1966,6 +1971,9 @@
 	],
 	"albedo": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Albedo"
+	],
+	"albertpujols": [
+		"Albert_Pujols_Sept_2022"
 	],
 	"albummode": [
 		"DJ_Khaled_2021_Album_V2",
@@ -41779,6 +41787,9 @@
 		"WorldMentalHealthDay_2020",
 		"WMHD_2021",
 		"MentalHealthMonth_2021_add2"
+	],
+	"pujols700": [
+		"Albert_Pujols_Sept_2022"
 	],
 	"punishinggrayraven": [
 		"punigray_staff_launch_2020"

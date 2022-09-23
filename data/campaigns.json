@@ -1274,6 +1274,11 @@
 		"startingTimestampMs": "1651302000000",
 		"endingTimestampMs": "1656140340000"
 	},
+	"AU_AFL_Finals_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AU_AFL_Finals_2022/AU_AFL_Finals_2022.png",
+		"startingTimestampMs": "1663891200000",
+		"endingTimestampMs": "1665332280000"
+	},
 	"AU_AFL_Team_AFLDeadly_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AU_AFL_Team_AFLDeadly_2022/AU_AFL_Team_AFLDeadly_2022.png",
 		"startingTimestampMs": "1652918400000",
@@ -1848,6 +1853,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/AladdinBroadway_WishGranted_2021/AladdinBroadway_WishGranted_2021.png",
 		"startingTimestampMs": "1632354300000",
 		"endingTimestampMs": "1648770300000"
+	},
+	"Albert_Pujols_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Albert_Pujols_Sept_2022/Albert_Pujols_Sept_2022.png",
+		"startingTimestampMs": "1663884000000",
+		"endingTimestampMs": "1669910400000"
 	},
 	"AldiAmazingChristmas_KevinTheCarrot": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AldiAmazingChristmas_KevinTheCarrot/AldiAmazingChristmas_KevinTheCarrot.png",
