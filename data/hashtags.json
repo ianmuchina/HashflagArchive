@@ -33542,10 +33542,17 @@
 		"XboxMiniFridge_2021"
 	],
 	"minions": [
-		"Minions_Mar_2022"
+		"Minions_Mar_2022",
+		"Peacock_Minions_Rise_of_Gru_Sept_2022"
 	],
 	"minions2": [
 		"Minions_Mar_2022"
+	],
+	"minionsonpeacock": [
+		"Peacock_Minions_Rise_of_Gru_Sept_2022"
+	],
+	"minionspeacock": [
+		"Peacock_Minions_Rise_of_Gru_Sept_2022"
 	],
 	"ministryofculture": [
 		"OurCultureOurIdentityDec2020",
@@ -39562,6 +39569,9 @@
 	],
 	"peacockloveisland": [
 		"Peacock_Love_Island_US_Jul_2022"
+	],
+	"peacockminions": [
+		"Peacock_Minions_Rise_of_Gru_Sept_2022"
 	],
 	"peacocktv": [
 		"NBCU_Peacock2020_v3",
@@ -52469,7 +52479,8 @@
 		"HBO_Gemstones_2021_v3"
 	],
 	"theriseofgru": [
-		"Minions_Mar_2022"
+		"Minions_Mar_2022",
+		"Peacock_Minions_Rise_of_Gru_Sept_2022"
 	],
 	"thermaeromaenovae": [
 		"Netflix_Terumae-Romae_Launch_2022"
