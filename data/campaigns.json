@@ -22664,6 +22664,11 @@
 		"startingTimestampMs": "1632639600000",
 		"endingTimestampMs": "1633471200000"
 	},
+	"London_Marathon_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/London_Marathon_Sept_2022/London_Marathon_Sept_2022.png",
+		"startingTimestampMs": "1664150400000",
+		"endingTimestampMs": "1664755200000"
+	},
 	"LongchampFW21_fix": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LongchampFW21_fix/LongchampFW21_fix.png",
 		"startingTimestampMs": "1614754800000",
