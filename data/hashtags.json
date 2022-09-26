@@ -4156,6 +4156,9 @@
 		"Paralympics_Sports_2021_ParaAthletics",
 		"Olympics_2021_Sports_Athletics"
 	],
+	"athletim": [
+		"Tim_Hortons_National_Coffee_Day_Sept_2022"
+	],
 	"athletisme": [
 		"Paralympics_Sports_2021_ParaAthletics"
 	],
@@ -39339,6 +39342,12 @@
 		"partisiampc_Apr_2022",
 		"partisiampc_Apr_2022_extend"
 	],
+	"partiucordoba": [
+		"Final_Sudamericana_Sao_Paulo_Sept_2022"
+	],
+	"partiucórdoba": [
+		"Final_Sudamericana_Sao_Paulo_Sept_2022"
+	],
 	"partiuexperimentar": [
 		"Club_Social_Novos_Sabores_Jun_2022_v2"
 	],
@@ -41137,7 +41146,8 @@
 		"Variety_Power_of_Pride_May_2022"
 	],
 	"powerofwomen": [
-		"Varietys_Power_of_Women_2022"
+		"Varietys_Power_of_Women_2022",
+		"Variety_Power_Of_Women_Sept_2022"
 	],
 	"powerrankingdelaeuro": [
 		"DiarioAs_2021"
@@ -53459,7 +53469,11 @@
 		"TimsTwitterListeningParty_2020_Flight3"
 	],
 	"timsrun": [
-		"Tim_Hortons_Twosday_2022_v2"
+		"Tim_Hortons_Twosday_2022_v2",
+		"Tim_Hortons_National_Coffee_Day_Sept_2022"
+	],
+	"timsrunclub": [
+		"Tim_Hortons_National_Coffee_Day_Sept_2022"
 	],
 	"timstwitterlisteningparties": [
 		"TimsTwitterListeningParty_2021_2022",
@@ -54008,6 +54022,9 @@
 	],
 	"torcidahavaianas": [
 		"OUniformeDoBrasil_2021"
+	],
+	"torcidaqueconduz": [
+		"Final_Sudamericana_Sao_Paulo_Sept_2022"
 	],
 	"torikellychristmas": [
 		"torikellychristmas_2020"
@@ -56193,6 +56210,9 @@
 	"vamosorlando": [
 		"MLS_2021_OCSC"
 	],
+	"vamossaopaulo": [
+		"Final_Sudamericana_Sao_Paulo_Sept_2022"
+	],
 	"vamossj": [
 		"MLS_2022_Team_SJ_2022",
 		"MLS2020_SJ",
@@ -56203,6 +56223,9 @@
 		"MLS_2020_MLSCupPlayoffs_Seattle",
 		"MLS2020_SEA",
 		"MLS_2021_SeaS"
+	],
+	"vamossãopaulo": [
+		"Final_Sudamericana_Sao_Paulo_Sept_2022"
 	],
 	"vamosunited": [
 		"MLS_2022_Team_DC_2022",
