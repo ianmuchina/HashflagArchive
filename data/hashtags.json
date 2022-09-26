@@ -4667,15 +4667,20 @@
 		"Bachelor_TheGreatestSeasonsEver_2020"
 	],
 	"bachelorinparadise": [
-		"BachelorInParadise_7_2021"
+		"BachelorInParadise_7_2021",
+		"ABC_Network_Bachelor_In_Paradise_S8_Sept_2022"
 	],
 	"bachelorinparadiseabc": [
-		"BachelorInParadise_7_2021"
+		"BachelorInParadise_7_2021",
+		"ABC_Network_Bachelor_In_Paradise_S8_Sept_2022"
 	],
 	"bachelornation": [
 		"Bachelor_TheGreatestSeasonsEver_2020_v2",
 		"Bachelor_TheGreatestSeasonsEver_2020_add",
 		"Bachelor_TheGreatestSeasonsEver_2020"
+	],
+	"bachparadise": [
+		"ABC_Network_Bachelor_In_Paradise_S8_Sept_2022"
 	],
 	"backforeverything": [
 		"Kodak_Black_Album_Emoji_2022"
@@ -6354,6 +6359,9 @@
 	],
 	"biobobbybrown": [
 		"AE_Bobby_Brown_Docu-Series_May_2022"
+	],
+	"bip": [
+		"ABC_Network_Bachelor_In_Paradise_S8_Sept_2022"
 	],
 	"bip7": [
 		"BachelorInParadise_7_2021"
@@ -39019,6 +39027,9 @@
 	],
 	"paradasp": [
 		"Parada_SP_Jun_2022"
+	],
+	"paradiseabc": [
+		"ABC_Network_Bachelor_In_Paradise_S8_Sept_2022"
 	],
 	"paradiserising": [
 		"ParadiseRising_2020"
