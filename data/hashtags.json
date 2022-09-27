@@ -33320,7 +33320,8 @@
 	"microsoftevent": [
 		"Microsoft_SurfaceProLiveEvent_2021",
 		"Surface_OriginalByDesign_April_2021_v2",
-		"MicrosoftEvent_2021"
+		"MicrosoftEvent_2021",
+		"Surface_Live_Event_Sept_2022"
 	],
 	"microsoftignite": [
 		"MSIgnite2021"
@@ -33330,7 +33331,8 @@
 	],
 	"microsoftsurface": [
 		"Surface_OriginalByDesign_June_2021",
-		"Surface_OriginalByDesign_April_2021_v2"
+		"Surface_OriginalByDesign_April_2021_v2",
+		"Surface_Live_Event_Sept_2022"
 	],
 	"midautumnfestival": [
 		"MidAutumnFestival_2021",
@@ -34231,6 +34233,21 @@
 	],
 	"montrosecristo": [
 		"LovecraftCountry_Ep4_2020"
+	],
+	"moomooapp": [
+		"Moomoo_Campaign_Sept_2022"
+	],
+	"moomoocashplus": [
+		"Moomoo_Campaign_Sept_2022"
+	],
+	"moomoosg": [
+		"Moomoo_Campaign_Sept_2022"
+	],
+	"moomootradelikeapro": [
+		"Moomoo_Campaign_Sept_2022"
+	],
+	"moomootrading": [
+		"Moomoo_Campaign_Sept_2022"
 	],
 	"moonbin": [
 		"PANTAGIO_ASTRO_UNIT_MOONBIN_2_SANHA"
@@ -46757,6 +46774,9 @@
 	"simonebiles": [
 		"SimoneBilesGoat2021"
 	],
+	"simoneclark": [
+		"ABC_The_Rookie_Feds_Niecy_Sept_2022"
+	],
 	"simplementejen": [
 		"DisneyPlus_SheHulk_S1_JustJen"
 	],
@@ -49965,7 +49985,8 @@
 		"Pepsi_SuperBowl_2021_SuperBowlWeeknd"
 	],
 	"takemetothemoon": [
-		"Alexa99_Take_Me_To_the_Moon_Aug_2022"
+		"Alexa99_Take_Me_To_the_Moon_Aug_2022",
+		"Alexa99_Take_Me_To_the_Moon_Aug_2022_v2"
 	],
 	"takeme뮤비": [
 		"11street_Hope_campaign_Jun_2022",
@@ -52625,6 +52646,12 @@
 	],
 	"therogueprince": [
 		"HBO_House_of_the_Dragon_Caraxes_Aug_2022"
+	],
+	"therookiefeds": [
+		"ABC_The_Rookie_Feds_Niecy_Sept_2022"
+	],
+	"therookiefedsabc": [
+		"ABC_The_Rookie_Feds_Niecy_Sept_2022"
 	],
 	"therouxthekeyhole": [
 		"LouisTherouxBook_2021"
