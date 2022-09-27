@@ -12939,8 +12939,23 @@
 		"startingTimestampMs": "1615822200000",
 		"endingTimestampMs": "1617681540000"
 	},
+	"Final_Sudamericana_Independiente_Del_Valle_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Final_Sudamericana_Independiente_Del_Valle_Sept_2022/Final_Sudamericana_Independiente_Del_Valle_Sept_2022.png",
+		"startingTimestampMs": "1664287200000",
+		"endingTimestampMs": "1665021600000"
+	},
+	"Final_Sudamericana_Independiente_Del_Valle_Sept_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Final_Sudamericana_Independiente_Del_Valle_Sept_2022_add/Final_Sudamericana_Independiente_Del_Valle_Sept_2022_add.png",
+		"startingTimestampMs": "1664287200000",
+		"endingTimestampMs": "1665021600000"
+	},
 	"Final_Sudamericana_Sao_Paulo_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Final_Sudamericana_Sao_Paulo_Sept_2022/Final_Sudamericana_Sao_Paulo_Sept_2022.png",
+		"startingTimestampMs": "1664164800000",
+		"endingTimestampMs": "1665021600000"
+	},
+	"Final_Sudamericana_Sao_Paulo_Sept_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Final_Sudamericana_Sao_Paulo_Sept_2022_add/Final_Sudamericana_Sao_Paulo_Sept_2022_add.png",
 		"startingTimestampMs": "1664164800000",
 		"endingTimestampMs": "1665021600000"
 	},
