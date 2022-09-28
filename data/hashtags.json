@@ -7556,11 +7556,15 @@
 		"Paralympics_2021_BRU",
 		"Olympics_Countries_2021_BRU"
 	],
+	"bruce": [
+		"Bruce_Springsteen_2022_Emoji"
+	],
 	"brucebanner": [
 		"DisneyPlus_SheHulk_S1_BruceBanner"
 	],
 	"brucespringsteen": [
-		"BruceSpringsteen_2020"
+		"BruceSpringsteen_2020",
+		"Bruce_Springsteen_2022_Emoji"
 	],
 	"brucespringsteenlettertoyou": [
 		"BruceSpringsteen_2020"
@@ -37982,6 +37986,12 @@
 	"onlyoneearth": [
 		"WorldEnvironmentDay_2022"
 	],
+	"onlythestrong": [
+		"Bruce_Springsteen_2022_Emoji"
+	],
+	"onlythestrongsurvive": [
+		"Bruce_Springsteen_2022_Emoji"
+	],
 	"onlyvegas": [
 		"LVCVA_Vegas_June_2021",
 		"LVCVA_BrandRefresh_2020"
@@ -48278,7 +48288,8 @@
 		"LunarNewYear2021_Ox"
 	],
 	"springsteen": [
-		"BruceSpringsteen_2020"
+		"BruceSpringsteen_2020",
+		"Bruce_Springsteen_2022_Emoji"
 	],
 	"sprite": [
 		"Sprite_LihatDenganJernih_2021"
@@ -66177,6 +66188,12 @@
 	"うちのカルピスつくろう": [
 		"AsahiSoftDrinkCalpis02TanabataJapan2021"
 	],
+	"うちの子よろこぶ鍋キューブ": [
+		"Ajinomoto_nabe-cube_TRP_Sept_2022"
+	],
+	"うちの子よろこぶ鍋ワザ教えて": [
+		"Ajinomoto_nabe-cube_TRP_Sept_2022"
+	],
 	"えんじゅにあ": [
 		"Qingci_MARVELOUS_SNAIL_1_Jun_2022"
 	],
@@ -67596,6 +67613,9 @@
 		"Qoo10_Q22021_V2",
 		"Qoo10_Q22021",
 		"Qoo10_Q22021_V2_ext"
+	],
+	"キューブ派": [
+		"Ajinomoto_nabe-cube_TRP_Sept_2022"
 	],
 	"キユーピーマヨネーズ": [
 		"kewpie_official_MemorialDayMayonnaise_2021"
@@ -74059,6 +74079,12 @@
 	],
 	"錦鯉x神獣伝説": [
 		"Tencent_Chimeraland_JP_Jul_2022"
+	],
+	"鍋キューブ": [
+		"Ajinomoto_nabe-cube_TRP_Sept_2022"
+	],
+	"鍋キューブが万能すぎる件": [
+		"Ajinomoto_nabe-cube_TRP_Sept_2022"
 	],
 	"鍛刀改修": [
 		"EXNOA_TOUKEN_STAFF_Event_Aug_2022"

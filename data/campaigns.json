@@ -1849,6 +1849,11 @@
 		"startingTimestampMs": "1662562800000",
 		"endingTimestampMs": "1670338740000"
 	},
+	"Ajinomoto_nabe-cube_TRP_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ajinomoto_nabe-cube_TRP_Sept_2022/Ajinomoto_nabe-cube_TRP_Sept_2022.png",
+		"startingTimestampMs": "1664377200000",
+		"endingTimestampMs": "1672153140000"
+	},
 	"Akatsuki5_June_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Akatsuki5_June_2021/Akatsuki5_June_2021.png",
 		"startingTimestampMs": "1625094840000",
@@ -5443,6 +5448,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/BruceSpringsteen_2020_add/BruceSpringsteen_2020_add.png",
 		"startingTimestampMs": "1602522000000",
 		"endingTimestampMs": "1610496000000"
+	},
+	"Bruce_Springsteen_2022_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bruce_Springsteen_2022_Emoji/Bruce_Springsteen_2022_Emoji.png",
+		"startingTimestampMs": "1664377200000",
+		"endingTimestampMs": "1667174400000"
 	},
 	"BrunoMars_March_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BrunoMars_March_2021/BrunoMars_March_2021.png",
