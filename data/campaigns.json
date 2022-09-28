@@ -5649,6 +5649,11 @@
 		"startingTimestampMs": "1627812780000",
 		"endingTimestampMs": "1635761580000"
 	},
+	"CBC_ALC_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBC_ALC_Sept_2022/CBC_ALC_Sept_2022.png",
+		"startingTimestampMs": "1664395200000",
+		"endingTimestampMs": "1664780340000"
+	},
 	"CBLOL_FLAMENGO_Season_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CBLOL_FLAMENGO_Season_2022/CBLOL_FLAMENGO_Season_2022.png",
 		"startingTimestampMs": "1648198800000",
