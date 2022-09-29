@@ -36249,6 +36249,11 @@
 		"startingTimestampMs": "1648576800000",
 		"endingTimestampMs": "1656525600000"
 	},
+	"Riyad_Bank_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Riyad_Bank_Sept_2022/Riyad_Bank_Sept_2022.png",
+		"startingTimestampMs": "1664470800000",
+		"endingTimestampMs": "1672509600000"
+	},
 	"RiyadhSeason_oct_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/RiyadhSeason_oct_2021/RiyadhSeason_oct_2021.png",
 		"startingTimestampMs": "1634169600000",
@@ -44661,6 +44666,11 @@
 	},
 	"Xiaomi_L12_Launch_Sept_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Xiaomi_L12_Launch_Sept_2022_v2/Xiaomi_L12_Launch_Sept_2022_v2.png",
+		"startingTimestampMs": "1664312400000",
+		"endingTimestampMs": "1672156800000"
+	},
+	"Xiaomi_L12_Launch_Sept_2022_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Xiaomi_L12_Launch_Sept_2022_v3/Xiaomi_L12_Launch_Sept_2022_v3.png",
 		"startingTimestampMs": "1664312400000",
 		"endingTimestampMs": "1672156800000"
 	},

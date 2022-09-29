@@ -31711,6 +31711,9 @@
 	"makeitttime": [
 		"Tanqueray_TTime_Mar_2022"
 	],
+	"makemomentsmega": [
+		"Xiaomi_L12_Launch_Sept_2022_v3"
+	],
 	"makerealchange": [
 		"TTBMakeREALChang_2021"
 	],
@@ -43909,6 +43912,9 @@
 	],
 	"rivershoopers": [
 		"BasketBallAfricanLeague_2021_rivershoopers"
+	],
+	"riyadbank": [
+		"Riyad_Bank_Sept_2022"
 	],
 	"riyadhseason": [
 		"RiyadhSeason_oct_2021"
@@ -59880,12 +59886,19 @@
 	"xiaomi12series": [
 		"Xiaomi_12_Series_Mar_2022"
 	],
+	"xiaomi12tpro": [
+		"Xiaomi_L12_Launch_Sept_2022_v3"
+	],
 	"xiaomi12tseries": [
 		"Xiaomi_L12_Launch_Sept_2022",
-		"Xiaomi_L12_Launch_Sept_2022_v2"
+		"Xiaomi_L12_Launch_Sept_2022_v2",
+		"Xiaomi_L12_Launch_Sept_2022_v3"
 	],
 	"xiaomihypercharge": [
 		"XiaomiHyperCharge_SG_2021"
+	],
+	"xiaomilaunch": [
+		"Xiaomi_L12_Launch_Sept_2022_v3"
 	],
 	"xingqiu": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Xingqiu"
@@ -62436,6 +62449,12 @@
 	],
 	"بلونسكي": [
 		"DisneyPlus_SheHulk_S1_EmilBlonsky"
+	],
+	"بنك_الرياض": [
+		"Riyad_Bank_Sept_2022"
+	],
+	"بنكي": [
+		"Riyad_Bank_Sept_2022"
 	],
 	"بوابة_الترفيه": [
 		"GEA_June_2021",
