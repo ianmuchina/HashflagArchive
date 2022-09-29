@@ -19243,6 +19243,12 @@
 		"Olympics_Countries_2021_GEO",
 		"Paralympics_2021_GEO_"
 	],
+	"georgemichael": [
+		"George_Michael_Older_Sept_2022_v2"
+	],
+	"georgemichaelolder": [
+		"George_Michael_Older_Sept_2022_v2"
+	],
 	"geq": [
 		"Olympics_Countries_2021_GEQ",
 		"Paralympics_2021_GEQ"
@@ -22545,7 +22551,8 @@
 		"Hermes_Women_Paris_Fashion_Week_Show_Q1_2022_v2",
 		"Hermes_Women_SS201",
 		"Hermes_FR_Sept_2021",
-		"HermesFemme_March21"
+		"HermesFemme_March21",
+		"Hermes_Women_Show_Oct_2022"
 	],
 	"hermeshomme": [
 		"Hermes_MenShow_Jan_2022_v2",
@@ -37561,6 +37568,12 @@
 	],
 	"ol2021": [
 		"OSL2021"
+	],
+	"olderremix": [
+		"George_Michael_Older_Sept_2022_v2"
+	],
+	"olderremixes": [
+		"George_Michael_Older_Sept_2022_v2"
 	],
 	"oldervideo": [
 		"5SOS_2022_Album_Take_2"
