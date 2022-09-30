@@ -15046,7 +15046,8 @@
 	],
 	"easportsfifa": [
 		"FIFA22_2021_v2",
-		"FIFA22_2021"
+		"FIFA22_2021",
+		"EA_Games_FIFA_23_2022"
 	],
 	"easter": [
 		"Easter_2021",
@@ -17462,6 +17463,9 @@
 		"FIFA22_2021_v2",
 		"FIFA22_2021"
 	],
+	"fifa23": [
+		"EA_Games_FIFA_23_2022"
+	],
 	"fifae": [
 		"FIFA_eFootball_2020"
 	],
@@ -18745,11 +18749,15 @@
 		"FIFA22_2021_v2",
 		"FIFA22_2021",
 		"EA_FIFA21_Launch",
-		"EA_FIFA21_Launch_ext"
+		"EA_FIFA21_Launch_ext",
+		"EA_Games_FIFA_23_2022"
 	],
 	"fut21": [
 		"EA_FIFA21_Launch",
 		"EA_FIFA21_Launch_ext"
+	],
+	"fut23": [
+		"EA_Games_FIFA_23_2022"
 	],
 	"futbol5": [
 		"Paralympics_Sports_2021_BlindFootball_",
@@ -43946,7 +43954,8 @@
 	],
 	"rickandmorty": [
 		"RickandMorty2021",
-		"Adult_Swim_Rickmas_2021"
+		"Adult_Swim_Rickmas_2021",
+		"HBO_Max_Rick_and_Morty_Sept_2022"
 	],
 	"rickmas": [
 		"Adult_Swim_Rickmas_2021"
@@ -53310,6 +53319,9 @@
 	],
 	"theworldsalittleblurry": [
 		"ATV_BillieEilish_2021"
+	],
+	"theworldsgame": [
+		"EA_Games_FIFA_23_2022"
 	],
 	"theworstyear": [
 		"NetflixsDeathto2020_v2"
