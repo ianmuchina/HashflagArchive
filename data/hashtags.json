@@ -5194,6 +5194,9 @@
 		"NexonKartRider_Plus_red_v2_add",
 		"NexonKartRider_Plus_red_v2"
 	],
+	"bb16": [
+		"BiggBoss_Sept_2022"
+	],
 	"bb8": [
 		"Disney_Maythe4th_2021_BB8"
 	],
@@ -5227,8 +5230,17 @@
 		"BBC_SPOTY_2021",
 		"BBC_SPOTYAwards2020"
 	],
+	"bbkannada": [
+		"BiggBoss_Sept_2022"
+	],
 	"bbl10": [
 		"BigBashLeague_2020"
+	],
+	"bbmalayalam": [
+		"BiggBoss_Sept_2022"
+	],
+	"bbmarathi": [
+		"BiggBoss_Sept_2022"
 	],
 	"bbmas": [
 		"BBMA_2020_Flight2",
@@ -5287,8 +5299,15 @@
 	"bbs5th": [
 		"Bleach_BS_5year_2020"
 	],
+	"bbtamil": [
+		"BiggBoss_Sept_2022"
+	],
+	"bbtelugu": [
+		"BiggBoss_Sept_2022"
+	],
 	"bbtwitter": [
-		"BiggBoss_Dec_2021"
+		"BiggBoss_Dec_2021",
+		"BiggBoss_Sept_2022"
 	],
 	"bbwives": [
 		"VH1_Basketball_Wives_May_2022"
@@ -6118,28 +6137,38 @@
 		"Mailchimp_Super_Bowl_2022_v2"
 	],
 	"biggboss": [
-		"BiggBoss_Dec_2021"
+		"BiggBoss_Dec_2021",
+		"BiggBoss_Sept_2022"
+	],
+	"biggboss16": [
+		"BiggBoss_Sept_2022"
 	],
 	"biggbosskannada": [
-		"BiggBoss_Dec_2021"
+		"BiggBoss_Dec_2021",
+		"BiggBoss_Sept_2022"
 	],
 	"biggbossmalayalam": [
-		"BiggBoss_Dec_2021"
+		"BiggBoss_Dec_2021",
+		"BiggBoss_Sept_2022"
 	],
 	"biggbossmarathi": [
-		"BiggBoss_Dec_2021"
+		"BiggBoss_Dec_2021",
+		"BiggBoss_Sept_2022"
 	],
 	"biggbossott": [
 		"JustVoot_BigBoss_2021"
 	],
 	"biggbosstamil": [
-		"BiggBoss_Dec_2021"
+		"BiggBoss_Dec_2021",
+		"BiggBoss_Sept_2022"
 	],
 	"biggbosstelugu": [
-		"BiggBoss_Dec_2021"
+		"BiggBoss_Dec_2021",
+		"BiggBoss_Sept_2022"
 	],
 	"biggbosstwitter": [
-		"BiggBoss_Dec_2021"
+		"BiggBoss_Dec_2021",
+		"BiggBoss_Sept_2022"
 	],
 	"biggerthanme": [
 		"Louis_Tomlinson_Aug_2022_v3",
