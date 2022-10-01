@@ -5384,6 +5384,11 @@
 		"startingTimestampMs": "1601110860000",
 		"endingTimestampMs": "1606842060000"
 	},
+	"Brazil_Elections_Civic_Participation_Jul_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_Civic_Participation_Jul_2022/Brazil_Elections_Civic_Participation_Jul_2022.png",
+		"startingTimestampMs": "1664611200000",
+		"endingTimestampMs": "1664855700000"
+	},
 	"Brazil_Elections_Debates_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_Debates_Jul_2022/Brazil_Elections_Debates_Jul_2022.png",
 		"startingTimestampMs": "1659340800000",
@@ -12153,6 +12158,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Esports_AllAccess_2020_T1WIN/Esports_AllAccess_2020_T1WIN.png",
 		"startingTimestampMs": "1580490000000",
 		"endingTimestampMs": "1609477200000"
+	},
+	"Esports_Awards_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Esports_Awards_Oct_2022/Esports_Awards_Oct_2022.png",
+		"startingTimestampMs": "1664611200000",
+		"endingTimestampMs": "1671516000000"
 	},
 	"EssenceFest_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/EssenceFest_2021/EssenceFest_2021.png",
@@ -25733,6 +25743,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Microsoft_Build_May_2022/Microsoft_Build_May_2022.png",
 		"startingTimestampMs": "1652400000000",
 		"endingTimestampMs": "1656658740000"
+	},
+	"Microsoft_Halo_Championship_Series_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Microsoft_Halo_Championship_Series_Oct_2022/Microsoft_Halo_Championship_Series_Oct_2022.png",
+		"startingTimestampMs": "1664611200000",
+		"endingTimestampMs": "1667196000000"
 	},
 	"Microsoft_SurfaceProLiveEvent_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Microsoft_SurfaceProLiveEvent_2021/Microsoft_SurfaceProLiveEvent_2021.png",
