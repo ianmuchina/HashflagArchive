@@ -749,7 +749,8 @@
 		"Mobily_5G_2020"
 	],
 	"5hourenergy": [
-		"5hour_Energy_MLB_Amplify_Jun_2022"
+		"5hour_Energy_MLB_Amplify_Jun_2022",
+		"Living_Essentials_5hourEnergy_MLB_Q4_2022"
 	],
 	"5kmay": [
 		"5kMay_RunForHeroes_2021"
@@ -18143,13 +18144,21 @@
 		"SouthCarolinaWomensFinalFour2021"
 	],
 	"foreveryday": [
-		"5hour_Energy_MLB_Amplify_Jun_2022"
+		"5hour_Energy_MLB_Amplify_Jun_2022",
+		"Living_Essentials_5hourEnergy_MLB_Q4_2022"
+	],
+	"foreverydogwalk": [
+		"Living_Essentials_5hourEnergy_MLB_Q4_2022"
 	],
 	"foreverygame": [
-		"5hour_Energy_MLB_Amplify_Jun_2022"
+		"5hour_Energy_MLB_Amplify_Jun_2022",
+		"Living_Essentials_5hourEnergy_MLB_Q4_2022"
 	],
 	"foreveryhomerun": [
 		"5hour_Energy_MLB_Amplify_Jun_2022"
+	],
+	"foreverynightout": [
+		"Living_Essentials_5hourEnergy_MLB_Q4_2022"
 	],
 	"foreverytrip": [
 		"5hour_Energy_MLB_Amplify_Jun_2022"
