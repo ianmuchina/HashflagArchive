@@ -11709,6 +11709,11 @@
 		"startingTimestampMs": "1612159200000",
 		"endingTimestampMs": "1618286340000"
 	},
+	"EdSheeranTour2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EdSheeranTour2022/EdSheeranTour2022.png",
+		"startingTimestampMs": "1664805600000",
+		"endingTimestampMs": "1672531200000"
+	},
 	"EdSheeran_June_UK_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/EdSheeran_June_UK_2021/EdSheeran_June_UK_2021.png",
 		"startingTimestampMs": "1624586400000",
@@ -15833,6 +15838,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_BTS_NEW_ALBUM_Jun_2022/HYBE_BTS_NEW_ALBUM_Jun_2022.png",
 		"startingTimestampMs": "1654614000000",
 		"endingTimestampMs": "1657292340000"
+	},
+	"HYBE_Pledis_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_Pledis_Oct_2022/HYBE_Pledis_Oct_2022.png",
+		"startingTimestampMs": "1664809200000",
+		"endingTimestampMs": "1672498200000"
 	},
 	"HYBE_Pledis_SEVENTEEN_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HYBE_Pledis_SEVENTEEN_May_2022/HYBE_Pledis_SEVENTEEN_May_2022.png",
@@ -45103,6 +45113,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/YG_KANGSEUNGYOON_BORNTOLOVEYOU_Mar_2022/YG_KANGSEUNGYOON_BORNTOLOVEYOU_Mar_2022.png",
 		"startingTimestampMs": "1647183600000",
 		"endingTimestampMs": "1649948400000"
+	},
+	"YG_TREASURE_HELLO_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/YG_TREASURE_HELLO_Oct_2022/YG_TREASURE_HELLO_Oct_2022.png",
+		"startingTimestampMs": "1664809200000",
+		"endingTimestampMs": "1667487600000"
 	},
 	"YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022/YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022.png",
