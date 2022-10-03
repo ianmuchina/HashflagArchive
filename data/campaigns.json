@@ -15024,6 +15024,11 @@
 		"startingTimestampMs": "1620878400000",
 		"endingTimestampMs": "1628568000000"
 	},
+	"HBO_Alicent_with_Dagger_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Alicent_with_Dagger_Oct_2022/HBO_Alicent_with_Dagger_Oct_2022.png",
+		"startingTimestampMs": "1664762400000",
+		"endingTimestampMs": "1672459140000"
+	},
 	"HBO_Barry_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Barry_Apr_2022/HBO_Barry_Apr_2022.png",
 		"startingTimestampMs": "1649178000000",
@@ -15033,6 +15038,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Barry_House_Strong_Sept_2022/HBO_Barry_House_Strong_Sept_2022.png",
 		"startingTimestampMs": "1664067600000",
 		"endingTimestampMs": "1671854340000"
+	},
+	"HBO_Catspaw_Dagger_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Catspaw_Dagger_Oct_2022/HBO_Catspaw_Dagger_Oct_2022.png",
+		"startingTimestampMs": "1664762400000",
+		"endingTimestampMs": "1672459140000"
 	},
 	"HBO_ES_TodoLoOtro_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_ES_TodoLoOtro_2021/HBO_ES_TodoLoOtro_2021.png",
@@ -45463,6 +45473,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/ZombieTiger_UK_May_2021/ZombieTiger_UK_May_2021.png",
 		"startingTimestampMs": "1621296000000",
 		"endingTimestampMs": "1629270000000"
+	},
+	"Zwift_Zwifthub_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Zwift_Zwifthub_Oct_2022/Zwift_Zwifthub_Oct_2022.png",
+		"startingTimestampMs": "1664755200000",
+		"endingTimestampMs": "1672790340000"
 	},
 	"adidasFORUM_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/adidasFORUM_2021/adidasFORUM_2021.png",

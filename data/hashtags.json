@@ -2094,16 +2094,21 @@
 		"AlibabaSourcing_2021_AlibabaSourcing"
 	],
 	"alicent": [
-		"HBO_House_of_the_Dragon_Alicent_May_2022"
+		"HBO_House_of_the_Dragon_Alicent_May_2022",
+		"HBO_Alicent_with_Dagger_Oct_2022"
 	],
 	"alicenthightower": [
-		"HBO_House_of_the_Dragon_Alicent_May_2022"
+		"HBO_House_of_the_Dragon_Alicent_May_2022",
+		"HBO_Alicent_with_Dagger_Oct_2022"
 	],
 	"alicenthightowerhbo": [
 		"HBO_House_of_the_Dragon_Alicent_May_2022"
 	],
 	"alicenthightowerhotd": [
 		"HBO_House_of_the_Dragon_Alicent_May_2022"
+	],
+	"alicentsdagger": [
+		"HBO_Alicent_with_Dagger_Oct_2022"
 	],
 	"alicia": [
 		"AliciaKeysUnderdogAlbum2020_Flight2",
@@ -8755,6 +8760,12 @@
 	],
 	"catherinedemedici": [
 		"STARZ_The_Serpent_Queen_Aug_2022"
+	],
+	"catspaw": [
+		"HBO_Catspaw_Dagger_Oct_2022"
+	],
+	"catspawdagger": [
+		"HBO_Catspaw_Dagger_Oct_2022"
 	],
 	"catstail": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Diona"
@@ -20841,6 +20852,9 @@
 		"India_State_Elections_2022_add",
 		"IndiaStateElections_2021_2"
 	],
+	"gozwift": [
+		"Zwift_Zwifthub_Oct_2022"
+	],
 	"go生": [
 		"KPOP_StrayKids_2020"
 	],
@@ -23268,6 +23282,9 @@
 	],
 	"hotdapp": [
 		"HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022"
+	],
+	"hotddagger": [
+		"HBO_Catspaw_Dagger_Oct_2022"
 	],
 	"hotdsdcc": [
 		"HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022"
@@ -37203,6 +37220,9 @@
 	"nowscreamingpv": [
 		"AmazonStudiosNowScreaming2021"
 	],
+	"nowtheyseeyouasyouare": [
+		"HBO_Alicent_with_Dagger_Oct_2022"
+	],
 	"noyce": [
 		"TacomaFD_Sept_2021"
 	],
@@ -42452,6 +42472,9 @@
 	"queensabc": [
 		"QueensABC_2021"
 	],
+	"queensdagger": [
+		"HBO_Alicent_with_Dagger_Oct_2022"
+	],
 	"queenslander": [
 		"NRL_Origin_QLDMaroons_Jun_2022"
 	],
@@ -44028,6 +44051,9 @@
 	],
 	"ridemcowboys": [
 		"NRL_2021_ridemcowboys"
+	],
+	"rideon": [
+		"Zwift_Zwifthub_Oct_2022"
 	],
 	"ridethebull": [
 		"Bullish_Mar_2022"
@@ -56529,6 +56555,9 @@
 	"valquíria": [
 		"Disney_Thor2_Valkyrie_2022"
 	],
+	"valyriandagger": [
+		"HBO_Catspaw_Dagger_Oct_2022"
+	],
 	"vamosangels": [
 		"MLB_Teams_2020_LAA",
 		"MLB_Teams_2021_LAA"
@@ -57213,6 +57242,9 @@
 	],
 	"viserys": [
 		"HBO_House_of_the_Dragon_Viserys_May_2022"
+	],
+	"viserysdagger": [
+		"HBO_Catspaw_Dagger_Oct_2022"
 	],
 	"viserystargaryen": [
 		"HBO_House_of_the_Dragon_Viserys_May_2022"
@@ -61061,6 +61093,15 @@
 	"zosiamamet": [
 		"HBO_Max_The_Flight_Attendant_Annie_S2_2022_v2",
 		"HBO_Max_The_Flight_Attendant_Annie_S2_2022_v3"
+	],
+	"zracing": [
+		"Zwift_Zwifthub_Oct_2022"
+	],
+	"zwiftacademy": [
+		"Zwift_Zwifthub_Oct_2022"
+	],
+	"zwifthub": [
+		"Zwift_Zwifthub_Oct_2022"
 	],
 	"z맘대로": [
 		"LG_U_SG_2021"
