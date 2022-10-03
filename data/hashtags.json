@@ -1054,7 +1054,8 @@
 	],
 	"abcstation19": [
 		"ABCStation19_Sept_2021",
-		"ABC_Station19_Fall_2020"
+		"ABC_Station19_Fall_2020",
+		"Disney_ABC_Station_19_S6_2022"
 	],
 	"abctheconners": [
 		"ABC_TheConners_2020"
@@ -7112,6 +7113,12 @@
 	"bonusdadakan": [
 		"Lazada1111_2021"
 	],
+	"bonyurt": [
+		"BonYurt_Sept_2022_v2"
+	],
+	"bonyurtxtwitter": [
+		"BonYurt_Sept_2022_v2"
+	],
 	"bookofbobafett": [
 		"DisneyPlus_BobaFett_BobaFett_S1_2021"
 	],
@@ -8085,6 +8092,9 @@
 	"bygeorgefreeman": [
 		"LovecraftCountry_Ep8_2020"
 	],
+	"bynavidaddeverdad": [
+		"BonYurt_Sept_2022_v2"
+	],
 	"byunyohan_changdae": [
 		"Kmovie_TheBookofFish_2021_2"
 	],
@@ -8232,6 +8242,9 @@
 	"callofdutyvanguard": [
 		"DEWDUAL2XP_CallofDutyVanguard_2021"
 	],
+	"calmont": [
+		"STARZ_Dangerous_Liaisons_Oct_2022"
+	],
 	"calvinharris": [
 		"Calvin_Harris_Funk_Wav_Emoji_2022"
 	],
@@ -8265,6 +8278,9 @@
 	],
 	"camisaazulguy": [
 		"Disney_FreeFuy_Guy_2021"
+	],
+	"camont": [
+		"STARZ_Dangerous_Liaisons_Oct_2022"
 	],
 	"campeóndelsiglo": [
 		"PenarolBirthday_2021"
@@ -11458,6 +11474,9 @@
 	"césar2021": [
 		"CesarAward_FR_2021"
 	],
+	"cómoseríaunbonyurtde": [
+		"BonYurt_Sept_2022_v2"
+	],
 	"cúncondễthươngtronggấuđỏbiếnhình": [
 		"Disney_Turning_Red_Red_Panda_Mei_Shocked_2022"
 	],
@@ -11678,6 +11697,9 @@
 	],
 	"dangerousdoublealbum": [
 		"MorganWallenJan2021"
+	],
+	"dangerousliaisons": [
+		"STARZ_Dangerous_Liaisons_Oct_2022"
 	],
 	"daniellebrooks": [
 		"HBO_Max_Peacemaker_S1_Part2_Adebayo_2022"
@@ -21073,19 +21095,23 @@
 	],
 	"greys": [
 		"GreysAnatomyFinale_S18_2021",
-		"GreysAnatomy_Fall_2020"
+		"GreysAnatomy_Fall_2020",
+		"Disney_ABC_Greys_Anatomy_S19_2022"
 	],
 	"greysabc": [
 		"GreysAnatomyFinale_S18_2021",
-		"GreysAnatomy_Fall_2020"
+		"GreysAnatomy_Fall_2020",
+		"Disney_ABC_Greys_Anatomy_S19_2022"
 	],
 	"greysanatomy": [
 		"GreysAnatomyFinale_S18_2021",
-		"GreysAnatomy_Fall_2020"
+		"GreysAnatomy_Fall_2020",
+		"Disney_ABC_Greys_Anatomy_S19_2022"
 	],
 	"greysanatomyabc": [
 		"GreysAnatomyFinale_S18_2021",
-		"GreysAnatomy_Fall_2020"
+		"GreysAnatomy_Fall_2020",
+		"Disney_ABC_Greys_Anatomy_S19_2022"
 	],
 	"greysanatomyfinale": [
 		"GreysAnatomyFinale_S18_2021",
@@ -21093,7 +21119,8 @@
 	],
 	"greysxstation19": [
 		"GreysAnatomyFinale_S18_2021",
-		"GreysAnatomy_Fall_2020"
+		"GreysAnatomy_Fall_2020",
+		"Disney_ABC_Greys_Anatomy_S19_2022"
 	],
 	"grf": [
 		"LCK_2020_Griffin"
@@ -42583,6 +42610,9 @@
 		"StayHome_2020_2021_ext3",
 		"StayHome_2020_2021_ext2"
 	],
+	"quéganasdeunbonyurt": [
+		"BonYurt_Sept_2022_v2"
+	],
 	"quépasaríasi": [
 		"Disney_WhatIfLaunch_TheWatcher_WI_V2",
 		"MarvelStudios_WhatIF_2021_Killmonger_WhatIf_Updated",
@@ -49014,11 +49044,13 @@
 	],
 	"station19": [
 		"ABCStation19_Sept_2021",
-		"ABC_Station19_Fall_2020"
+		"ABC_Station19_Fall_2020",
+		"Disney_ABC_Station_19_S6_2022"
 	],
 	"station19abc": [
 		"ABCStation19_Sept_2021",
-		"ABC_Station19_Fall_2020"
+		"ABC_Station19_Fall_2020",
+		"Disney_ABC_Station_19_S6_2022"
 	],
 	"station19finale": [
 		"ABCStation19_Sept_2021",
@@ -49026,7 +49058,8 @@
 	],
 	"stationabc": [
 		"ABCStation19_Sept_2021",
-		"ABC_Station19_Fall_2020"
+		"ABC_Station19_Fall_2020",
+		"Disney_ABC_Station_19_S6_2022"
 	],
 	"stay": [
 		"WSPD_Aug_2022_add"

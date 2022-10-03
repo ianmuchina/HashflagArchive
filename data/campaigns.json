@@ -5224,6 +5224,11 @@
 		"startingTimestampMs": "1634137200000",
 		"endingTimestampMs": "1641913140000"
 	},
+	"BonYurt_Sept_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BonYurt_Sept_2022_v2/BonYurt_Sept_2022_v2.png",
+		"startingTimestampMs": "1664780400000",
+		"endingTimestampMs": "1672789500000"
+	},
 	"BoseSleepBuds_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BoseSleepBuds_2021/BoseSleepBuds_2021.png",
 		"startingTimestampMs": "1615467600000",
@@ -9323,6 +9328,16 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Disney_ABC_DWTS_Season_Finale_Discoball_Sept_2022_add/Disney_ABC_DWTS_Season_Finale_Discoball_Sept_2022_add.png",
 		"startingTimestampMs": "1663484460000",
 		"endingTimestampMs": "1669708740000"
+	},
+	"Disney_ABC_Greys_Anatomy_S19_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_ABC_Greys_Anatomy_S19_2022/Disney_ABC_Greys_Anatomy_S19_2022.png",
+		"startingTimestampMs": "1664780460000",
+		"endingTimestampMs": "1680591540000"
+	},
+	"Disney_ABC_Station_19_S6_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_ABC_Station_19_S6_2022/Disney_ABC_Station_19_S6_2022.png",
+		"startingTimestampMs": "1664780460000",
+		"endingTimestampMs": "1680591540000"
 	},
 	"Disney_ArtemisFowl_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Disney_ArtemisFowl_2020/Disney_ArtemisFowl_2020.png",
@@ -37068,6 +37083,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/STARZ_Blindspotting_May_2021/STARZ_Blindspotting_May_2021.png",
 		"startingTimestampMs": "1621926000000",
 		"endingTimestampMs": "1629701940000"
+	},
+	"STARZ_Dangerous_Liaisons_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/STARZ_Dangerous_Liaisons_Oct_2022/STARZ_Dangerous_Liaisons_Oct_2022.png",
+		"startingTimestampMs": "1664780400000",
+		"endingTimestampMs": "1672646340000"
 	},
 	"STARZ_Gaslit_Mar_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/STARZ_Gaslit_Mar_2022/STARZ_Gaslit_Mar_2022.png",
