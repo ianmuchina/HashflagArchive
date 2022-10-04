@@ -2499,6 +2499,16 @@
 		"startingTimestampMs": "1651464000000",
 		"endingTimestampMs": "1653883140000"
 	},
+	"Amazon_Shotgun_Wedding_JLO_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Shotgun_Wedding_JLO_Oct_2022/Amazon_Shotgun_Wedding_JLO_Oct_2022.png",
+		"startingTimestampMs": "1664884800000",
+		"endingTimestampMs": "1665039540000"
+	},
+	"Amazon_Shotgun_Wedding_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Shotgun_Wedding_Oct_2022/Amazon_Shotgun_Wedding_Oct_2022.png",
+		"startingTimestampMs": "1664884800000",
+		"endingTimestampMs": "1672750740000"
+	},
 	"Amazon_Studios_ACMAs_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Studios_ACMAs_2022/Amazon_Studios_ACMAs_2022.png",
 		"startingTimestampMs": "1645430400000",
@@ -27408,6 +27418,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/NDqatar_2020_ext/NDqatar_2020_ext.png",
 		"startingTimestampMs": "1608508800000",
 		"endingTimestampMs": "1613088000000"
+	},
+	"NEAR_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NEAR_Oct_2022/NEAR_Oct_2022.png",
+		"startingTimestampMs": "1664884800000",
+		"endingTimestampMs": "1672833600000"
 	},
 	"NEAR_SailGP_Partnership_May_2022_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NEAR_SailGP_Partnership_May_2022_v2/NEAR_SailGP_Partnership_May_2022_v2.png",
