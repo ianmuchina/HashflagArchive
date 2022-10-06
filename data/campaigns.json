@@ -9039,6 +9039,11 @@
 		"startingTimestampMs": "1660833000000",
 		"endingTimestampMs": "1668754740000"
 	},
+	"DisneyPlus_SheHulk_S1_DareDevil": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_DareDevil/DisneyPlus_SheHulk_S1_DareDevil.png",
+		"startingTimestampMs": "1665066600000",
+		"endingTimestampMs": "1667545140000"
+	},
 	"DisneyPlus_SheHulk_S1_EmilBlonsky": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_EmilBlonsky/DisneyPlus_SheHulk_S1_EmilBlonsky.png",
 		"startingTimestampMs": "1661437800000",
@@ -9072,6 +9077,11 @@
 	"DisneyPlus_SheHulk_S1_Madisynn_New": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_Madisynn_New/DisneyPlus_SheHulk_S1_Madisynn_New.png",
 		"startingTimestampMs": "1662645600000",
+		"endingTimestampMs": "1667545140000"
+	},
+	"DisneyPlus_SheHulk_S1_MattMurdock": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_SheHulk_S1_MattMurdock/DisneyPlus_SheHulk_S1_MattMurdock.png",
+		"startingTimestampMs": "1665066600000",
 		"endingTimestampMs": "1667545140000"
 	},
 	"DisneyPlus_SheHulk_S1_SheHulk_All_NoJen": {
