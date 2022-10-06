@@ -646,6 +646,9 @@
 	"3x3": [
 		"Olympics_2021_Sports_3x3"
 	],
+	"3xrewards": [
+		"RBC_Project_Wednesday_2022"
+	],
 	"3月28日は三ツ矢の日": [
 		"Asahi_Mitsuya_Japan_Mar_2022",
 		"AsahiSoftDrink_cider_Japan_2021"
@@ -4473,6 +4476,12 @@
 	],
 	"avengerszombies": [
 		"MarvelStudios_WhatIF_2021_CaptainAmerica_Updated"
+	],
+	"avionrewards": [
+		"RBC_Project_Wednesday_2022"
+	],
+	"avionrécompenses": [
+		"RBC_Project_Wednesday_2022"
 	],
 	"aviron": [
 		"Paralympics_Sports_2021_ParaRowing"
@@ -10647,7 +10656,8 @@
 		"CountdownToMars_Launch_2020_3_add"
 	],
 	"contigosí": [
-		"Guanajuato_ContigoSi_May_2022"
+		"Guanajuato_ContigoSi_May_2022",
+		"GobiernoGTO_2022"
 	],
 	"continuebrincante": [
 		"Oreo_Continue_Brincante_2020",
@@ -10898,12 +10908,18 @@
 	"cowsmenu": [
 		"COWSMENU_2020"
 	],
+	"coxplate": [
+		"Cox_Plate_Centenary_2022"
+	],
 	"coxplate100": [
 		"CoxPlate100_2020"
 	],
 	"coxplate101": [
 		"MelbourneCup_2021",
 		"MelbourneCup_2021_CoxPlate101"
+	],
+	"coxplatecentenary": [
+		"Cox_Plate_Centenary_2022"
 	],
 	"cpbl": [
 		"CPBL_2020"
@@ -20701,6 +20717,9 @@
 	"googlemarketinglive2022": [
 		"Google_GML_May_2022"
 	],
+	"googlepixel7": [
+		"PIxel_7_Emoji_2022"
+	],
 	"googlesearch": [
 		"Google_Search_On_Sept_2022"
 	],
@@ -21268,7 +21287,8 @@
 		"MillerLite_BeerMe_2021"
 	],
 	"gto": [
-		"Guanajuato_ContigoSi_May_2022"
+		"Guanajuato_ContigoSi_May_2022",
+		"GobiernoGTO_2022"
 	],
 	"gtoviveengrande": [
 		"EstadodeGuanajuato_2020"
@@ -21285,7 +21305,8 @@
 	],
 	"guanajuato": [
 		"EstadodeGuanajuato2021",
-		"Guanajuato_ContigoSi_May_2022"
+		"Guanajuato_ContigoSi_May_2022",
+		"GobiernoGTO_2022"
 	],
 	"guapdad4000": [
 		"Guapdad_4000_2021"
@@ -22384,6 +22405,9 @@
 	],
 	"hazlogrande": [
 		"MLB_Teams_2021_HazloGrande"
+	],
+	"hazloviral": [
+		"GobiernoGTO_2022"
 	],
 	"hazugcsajoktársasága": [
 		"HBO_Max_PLL_Original_Sin_Round_1_Red_Jun_2022"
@@ -25160,6 +25184,9 @@
 	],
 	"itllallmakesenseintheend": [
 		"JamesArthur_2021"
+	],
+	"itm2022": [
+		"GobiernoGTO_2022"
 	],
 	"itmt": [
 		"AlessiaCara2021"
@@ -40951,6 +40978,9 @@
 	"pixel6launch": [
 		"Pixel6Launch_2021"
 	],
+	"pixel7": [
+		"PIxel_7_Emoji_2022"
+	],
 	"pizzadog": [
 		"Disney_Hawkeye_S2_PizzaDog_2021"
 	],
@@ -43121,6 +43151,9 @@
 	],
 	"raícesfuertes": [
 		"HS_Concert_March_2021"
+	],
+	"rbcion": [
+		"RBC_Project_Wednesday_2022"
 	],
 	"rbny": [
 		"MLS_2022_Team_RBNY_2022",
@@ -51183,6 +51216,9 @@
 	"teamparaguay": [
 		"Paralympics_2021_PAR"
 	],
+	"teampixel": [
+		"PIxel_7_Emoji_2022"
+	],
 	"teampixie": [
 		"TheVoice_KidsUK_2020"
 	],
@@ -57445,7 +57481,8 @@
 	],
 	"vivegrandeshistorias": [
 		"EstadodeGuanajuato_2020",
-		"EstadodeGuanajuato2021"
+		"EstadodeGuanajuato2021",
+		"GobiernoGTO_2022"
 	],
 	"vivelavodka": [
 		"Grey_Goose_Dec_2021"
