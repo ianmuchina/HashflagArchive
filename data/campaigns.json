@@ -25979,6 +25979,11 @@
 		"startingTimestampMs": "1664611200000",
 		"endingTimestampMs": "1667196000000"
 	},
+	"Microsoft_Minecraft_Live": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Microsoft_Minecraft_Live/Microsoft_Minecraft_Live.png",
+		"startingTimestampMs": "1665162000000",
+		"endingTimestampMs": "1672991940000"
+	},
 	"Microsoft_SurfaceProLiveEvent_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Microsoft_SurfaceProLiveEvent_2021/Microsoft_SurfaceProLiveEvent_2021.png",
 		"startingTimestampMs": "1632322800000",

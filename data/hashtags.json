@@ -33960,6 +33960,9 @@
 	"minecon2021": [
 		"minecraftlive2021"
 	],
+	"minecraft": [
+		"Microsoft_Minecraft_Live"
+	],
 	"minecraftdngns": [
 		"MinecraftDungeonsMX_Dec_2020",
 		"MinecraftDungeonsFrance2020"
@@ -33973,13 +33976,17 @@
 	],
 	"minecraftlive": [
 		"minecraftlive2021",
-		"MineconLive_2020"
+		"MineconLive_2020",
+		"Microsoft_Minecraft_Live"
 	],
 	"minecraftlive2020": [
 		"MineconLive_2020"
 	],
 	"minecraftlive2021": [
 		"minecraftlive2021"
+	],
+	"minecraftlive2022": [
+		"Microsoft_Minecraft_Live"
 	],
 	"mingguantibuli": [
 		"BullyingPreventionMonth_2020"
