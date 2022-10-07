@@ -6939,6 +6939,11 @@
 		"startingTimestampMs": "1629604800000",
 		"endingTimestampMs": "1637297940000"
 	},
+	"Charlie_Puth_Emoji_Take2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Charlie_Puth_Emoji_Take2/Charlie_Puth_Emoji_Take2.png",
+		"startingTimestampMs": "1665108000000",
+		"endingTimestampMs": "1667174400000"
+	},
 	"CharterofMakkah_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CharterofMakkah_2021/CharterofMakkah_2021.png",
 		"startingTimestampMs": "1613606400000",
@@ -23573,6 +23578,81 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/MLB_PIT_2022/MLB_PIT_2022.png",
 		"startingTimestampMs": "1649336400000",
 		"endingTimestampMs": "1668542400000"
+	},
+	"MLB_Postseason_ATL_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_ATL_2022/MLB_Postseason_ATL_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_CLE_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_CLE_2022/MLB_Postseason_CLE_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_HOU_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_HOU_2022/MLB_Postseason_HOU_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_LAD_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_LAD_2022/MLB_Postseason_LAD_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_MIN_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_MIN_2022/MLB_Postseason_MIN_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_NYM_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_NYM_2022/MLB_Postseason_NYM_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_NYY_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_NYY_2022/MLB_Postseason_NYY_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_PHI_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_PHI_2022/MLB_Postseason_PHI_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_Postseason_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_Postseason_2022/MLB_Postseason_Postseason_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_SD_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_SD_2022/MLB_Postseason_SD_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_SEA_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_SEA_2022/MLB_Postseason_SEA_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_STL_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_STL_2022/MLB_Postseason_STL_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_TB_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_TB_2022/MLB_Postseason_TB_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_TOR_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_TOR_2022/MLB_Postseason_TOR_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
+	},
+	"MLB_Postseason_WorldSeries_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_WorldSeries_2022/MLB_Postseason_WorldSeries_2022.png",
+		"startingTimestampMs": "1665115200000",
+		"endingTimestampMs": "1669348800000"
 	},
 	"MLB_SD_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/MLB_SD_2022/MLB_SD_2022.png",
