@@ -9223,6 +9223,9 @@
 	"challenge37": [
 		"MTVTheChallenge_S37_2021"
 	],
+	"challenge38": [
+		"MTV_The_Challenge_S38_2022"
+	],
 	"challengeallstars": [
 		"ParamountTheChallengeAllStars2_2021"
 	],
@@ -44286,6 +44289,9 @@
 	"rideon": [
 		"Zwift_Zwifthub_Oct_2022"
 	],
+	"rideordies": [
+		"MTV_The_Challenge_S38_2022"
+	],
 	"ridethebull": [
 		"Bullish_Mar_2022"
 	],
@@ -52203,7 +52209,8 @@
 	"thechallenge": [
 		"MTVTheChallenge_S37_2021",
 		"MTV_TheChallenge_2020_v1",
-		"MTV_TheChallenge_2020"
+		"MTV_TheChallenge_2020",
+		"MTV_The_Challenge_S38_2022"
 	],
 	"thechallenge36": [
 		"MTV_TheChallenge_2020_v1",
@@ -52211,6 +52218,9 @@
 	],
 	"thechallenge37": [
 		"MTVTheChallenge_S37_2021"
+	],
+	"thechallenge38": [
+		"MTV_The_Challenge_S38_2022"
 	],
 	"thechallengeallstars": [
 		"ParamountTheChallengeAllStars2_2021"
@@ -52221,6 +52231,9 @@
 	"thechallengedoubleagents": [
 		"MTV_TheChallenge_2020_v1",
 		"MTV_TheChallenge_2020"
+	],
+	"thechallengerideordies": [
+		"MTV_The_Challenge_S38_2022"
 	],
 	"thechangeables": [
 		"FNB_Brand_Love_v3_Mar_2022",
