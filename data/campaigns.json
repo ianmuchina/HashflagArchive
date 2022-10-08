@@ -29974,6 +29974,11 @@
 		"startingTimestampMs": "1654498800000",
 		"endingTimestampMs": "1661756340000"
 	},
+	"Netflix_Wednesday_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Wednesday_2022/Netflix_Wednesday_2022.png",
+		"startingTimestampMs": "1665212400000",
+		"endingTimestampMs": "1673078340000"
+	},
 	"Netflix_Witcher_S2_Roach_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Witcher_S2_Roach_2021/Netflix_Witcher_S2_Roach_2021.png",
 		"startingTimestampMs": "1639098000000",
