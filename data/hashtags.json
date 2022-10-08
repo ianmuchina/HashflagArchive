@@ -12257,13 +12257,18 @@
 		"NetflixsDeathto2020_v2"
 	],
 	"debatebr": [
-		"Brazil_Elections_Debates_Jul_2022"
+		"Brazil_Elections_Debates_Jul_2022",
+		"Brazil_Elections_Debates_Jul_2022_add"
 	],
 	"debatebrasil": [
-		"Brazil_Elections_Debates_Jul_2022"
+		"Brazil_Elections_Debates_Jul_2022",
+		"Brazil_Elections_Debates_Jul_2022_add"
 	],
 	"debatechilango": [
 		"IECM_Elecciones_CDMX_April_2021"
+	],
+	"debatenabandsp": [
+		"Brazil_Elections_Debates_Jul_2022_add"
 	],
 	"debates": [
 		"US_Election_2020_General"
@@ -12272,10 +12277,12 @@
 		"US_Election_2020_General"
 	],
 	"debatesbr": [
-		"Brazil_Elections_Debates_Jul_2022"
+		"Brazil_Elections_Debates_Jul_2022",
+		"Brazil_Elections_Debates_Jul_2022_add"
 	],
 	"debatesbrasil": [
-		"Brazil_Elections_Debates_Jul_2022"
+		"Brazil_Elections_Debates_Jul_2022",
+		"Brazil_Elections_Debates_Jul_2022_add"
 	],
 	"debatesmx2021": [
 		"DebatesMX2021"
@@ -15588,26 +15595,38 @@
 	"elegítuspotify": [
 		"Freemium_MX_March_2021"
 	],
+	"eleicao2022": [
+		"Brazil_Elections_General_Jul_2022_extend"
+	],
 	"eleicoes2020": [
 		"BrazilElections_Oct2020"
 	],
 	"eleicoes2022": [
-		"Brazil_Elections_General_Jul_2022_add"
+		"Brazil_Elections_General_Jul_2022_add",
+		"Brazil_Elections_General_Jul_2022_extend"
 	],
 	"eleicões2020": [
 		"BrazilElections_Oct2020"
+	],
+	"eleiçao2022": [
+		"Brazil_Elections_General_Jul_2022_extend"
 	],
 	"eleiçoes2020": [
 		"BrazilElections_Oct2020"
 	],
 	"eleiçoes2022": [
-		"Brazil_Elections_General_Jul_2022"
+		"Brazil_Elections_General_Jul_2022",
+		"Brazil_Elections_General_Jul_2022_extend"
+	],
+	"eleição2022": [
+		"Brazil_Elections_General_Jul_2022_extend"
 	],
 	"eleições2020": [
 		"BrazilElections_Oct2020"
 	],
 	"eleições2022": [
-		"Brazil_Elections_General_Jul_2022"
+		"Brazil_Elections_General_Jul_2022",
+		"Brazil_Elections_General_Jul_2022_extend"
 	],
 	"eleksyon2022": [
 		"Philippines_General_Elections_2_2022_add2"
@@ -42215,13 +42234,16 @@
 		"ProjectPower_Netflix_2020"
 	],
 	"projetoeleicao": [
-		"Brazil_Elections_General_Jul_2022_add"
+		"Brazil_Elections_General_Jul_2022_add",
+		"Brazil_Elections_General_Jul_2022_extend"
 	],
 	"projetoeleiçao": [
-		"Brazil_Elections_General_Jul_2022"
+		"Brazil_Elections_General_Jul_2022",
+		"Brazil_Elections_General_Jul_2022_extend"
 	],
 	"projetoeleição": [
-		"Brazil_Elections_General_Jul_2022"
+		"Brazil_Elections_General_Jul_2022",
+		"Brazil_Elections_General_Jul_2022_extend"
 	],
 	"projetonos": [
 		"Unlock_and_Spaces_with_Drik_Jun_2022"
@@ -57899,7 +57921,8 @@
 		"VoteComSeguranca_BrazilElections_2020"
 	],
 	"voteconsciente": [
-		"Brazil_Elections_General_Jul_2022"
+		"Brazil_Elections_General_Jul_2022",
+		"Brazil_Elections_General_Jul_2022_extend"
 	],
 	"voted": [
 		"Japan_Upper_House_Election_Voted_Jun_2022"

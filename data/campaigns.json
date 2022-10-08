@@ -5439,6 +5439,11 @@
 		"startingTimestampMs": "1659340800000",
 		"endingTimestampMs": "1664596500000"
 	},
+	"Brazil_Elections_Debates_Jul_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_Debates_Jul_2022_add/Brazil_Elections_Debates_Jul_2022_add.png",
+		"startingTimestampMs": "1665216000000",
+		"endingTimestampMs": "1667793300000"
+	},
 	"Brazil_Elections_General_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_General_Jul_2022/Brazil_Elections_General_Jul_2022.png",
 		"startingTimestampMs": "1658304000000",
@@ -5448,6 +5453,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_General_Jul_2022_add/Brazil_Elections_General_Jul_2022_add.png",
 		"startingTimestampMs": "1658304000000",
 		"endingTimestampMs": "1665374400000"
+	},
+	"Brazil_Elections_General_Jul_2022_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_General_Jul_2022_extend/Brazil_Elections_General_Jul_2022_extend.png",
+		"startingTimestampMs": "1665216000000",
+		"endingTimestampMs": "1667793300000"
 	},
 	"Breathe2_2020_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Breathe2_2020_v2/Breathe2_2020_v2.png",
