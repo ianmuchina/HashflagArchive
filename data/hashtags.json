@@ -2539,7 +2539,8 @@
 	],
 	"amas": [
 		"AMAs2021",
-		"AMAs2020"
+		"AMAs2020",
+		"American_Music_Awards_2022"
 	],
 	"amas2020": [
 		"AMAs2020"
@@ -2547,14 +2548,24 @@
 	"amas2021": [
 		"AMAs2021"
 	],
+	"amas2022": [
+		"American_Music_Awards_2022"
+	],
 	"amas21": [
 		"AMAs2021"
+	],
+	"amas22": [
+		"American_Music_Awards_2022"
+	],
+	"amasfanfavorite": [
+		"American_Music_Awards_2022"
 	],
 	"amasofrechora": [
 		"PablloVittar_Spaces_2021"
 	],
 	"amasredcarpet": [
-		"AMAs2021"
+		"AMAs2021",
+		"American_Music_Awards_2022"
 	],
 	"amazfit": [
 		"Huami_Amazfit_GT3_2021"
@@ -2674,7 +2685,8 @@
 	],
 	"americanmusicawards": [
 		"AMAs2021",
-		"AMAs2020"
+		"AMAs2020",
+		"American_Music_Awards_2022"
 	],
 	"americannightmare5": [
 		"TheForeverPurge_2021_v2"
@@ -10770,6 +10782,9 @@
 		"LFEndesa_2021_22",
 		"LigaEndesa_20_21"
 	],
+	"copingmechanism": [
+		"Willow_Smith_2022"
+	],
 	"copybet": [
 		"Dabble_Sports_Pty_Ltd_Campaign_Competition_Launch_Aug_2022_v2"
 	],
@@ -11404,6 +11419,9 @@
 	],
 	"curbyourenthusiasm": [
 		"CurbYourEnthusiasm_s11_2021"
+	],
+	"curiousfurious": [
+		"Willow_Smith_2022"
 	],
 	"curlingensilladeruedas": [
 		"Beijing_Paralympic_ParaCurling_2022"
@@ -14077,6 +14095,9 @@
 	],
 	"dontbreathemovie": [
 		"SonyDontBreatheDarkmode_2021"
+	],
+	"dontdontyourself": [
+		"Pinterest_Fall_22_Brand_Campaign_Branded_Emoji_2022"
 	],
 	"dontdrinkandvote": [
 		"Absolut_VoteResponsibly_2020"
@@ -18295,6 +18316,9 @@
 	],
 	"formulaoflove": [
 		"KPOP_TWICE_FormulaOfLove_2021"
+	],
+	"formulavol3": [
+		"Romeo_Santos_Twitter_Music_2022"
 	],
 	"fornature": [
 		"WorldEnvironmentDay_2021",
@@ -39260,6 +39284,21 @@
 	"palmspringswatchparty": [
 		"Hulu_PalmSprings_2020"
 	],
+	"palmwine3": [
+		"Palmwine_Festival"
+	],
+	"palmwinefestival": [
+		"Palmwine_Festival"
+	],
+	"palmwinemusic": [
+		"Palmwine_Festival"
+	],
+	"palmwinemusic3": [
+		"Palmwine_Festival"
+	],
+	"palmwinemusicvol3": [
+		"Palmwine_Festival"
+	],
 	"pamandtommy": [
 		"Hulu_Pam_Tommy_2022"
 	],
@@ -40902,6 +40941,18 @@
 	"pinteomundodelaranja": [
 		"OrangeTheWorld_2020",
 		"UN_OrangeTheWorld_2021"
+	],
+	"pinterest": [
+		"Pinterest_Fall_22_Brand_Campaign_Branded_Emoji_2022"
+	],
+	"pinterestaesthetic": [
+		"Pinterest_Fall_22_Brand_Campaign_Branded_Emoji_2022"
+	],
+	"pinterestchallenge": [
+		"Pinterest_Fall_22_Brand_Campaign_Branded_Emoji_2022"
+	],
+	"pinterestdo": [
+		"Pinterest_Fall_22_Brand_Campaign_Branded_Emoji_2022"
 	],
 	"pinóquio": [
 		"DisneyPlus_Pinocchio_Pinocchio_2022"
@@ -44729,6 +44780,9 @@
 	"romcom2004": [
 		"Soccer_Mommy_2021_Album_Emoji",
 		"Soccer_Mommy_2021_Album_Emoji_V2"
+	],
+	"romeosantos": [
+		"Romeo_Santos_Twitter_Music_2022"
 	],
 	"rompedientes": [
 		"Disney_Thor2_Toothgrinder_2022_ESP"
@@ -56475,6 +56529,9 @@
 	"upyourgame": [
 		"Huami_Amazfit_GT3_2021"
 	],
+	"urastranger": [
+		"Willow_Smith_2022"
+	],
 	"uru": [
 		"Paralympics_2021_URU",
 		"Olympics_Countries_2021_URU"
@@ -59434,6 +59491,9 @@
 	],
 	"willowmusicvideo": [
 		"TS_Dec_2020_Album"
+	],
+	"willowsmith": [
+		"Willow_Smith_2022"
 	],
 	"willubmine": [
 		"Unionbank_Oct_2021"
