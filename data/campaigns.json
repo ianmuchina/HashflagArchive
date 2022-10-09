@@ -24704,6 +24704,11 @@
 		"startingTimestampMs": "1659877200000",
 		"endingTimestampMs": "1660449600000"
 	},
+	"MLS_Cup_Playoffs_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLS_Cup_Playoffs_Sept_2022/MLS_Cup_Playoffs_Sept_2022.png",
+		"startingTimestampMs": "1665320400000",
+		"endingTimestampMs": "1667970000000"
+	},
 	"MLS_JerseySwapEntry": {
 		"assetUrl": "https://abs.twimg.com/hashflags/MLS_JerseySwapEntry/MLS_JerseySwapEntry.png",
 		"startingTimestampMs": "1621483200000",
