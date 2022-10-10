@@ -43589,6 +43589,11 @@
 		"startingTimestampMs": "1633060800000",
 		"endingTimestampMs": "1635742740000"
 	},
+	"WMHD_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WMHD_2022_v2/WMHD_2022_v2.png",
+		"startingTimestampMs": "1665360000000",
+		"endingTimestampMs": "1665644340000"
+	},
 	"WNBA2021GOATVote": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WNBA2021GOATVote/WNBA2021GOATVote.png",
 		"startingTimestampMs": "1630875600000",

@@ -3016,7 +3016,8 @@
 	"anossasaúdementalimporta": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"anotherdayanotherdrumstick": [
 		"Drumstick_Cone_May_2022"
@@ -3667,7 +3668,8 @@
 	"asaudementalimporta": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"asausagecaroll": [
 		"WalkersCrispXmas_2020_ext",
@@ -3676,7 +3678,8 @@
 	"asaúdementalimporta": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"asc": [
 		"PablloVittar_Spaces_2021"
@@ -7962,7 +7965,8 @@
 		"Olympics_Countries_2021_BUL"
 	],
 	"bulankesehatanjiwa": [
-		"WMHD_2021_add_2"
+		"WMHD_2021_add_2",
+		"WMHD_2022_v2"
 	],
 	"bulanpencegahanbuli": [
 		"BullyingPreventionMonth_2020"
@@ -11818,7 +11822,8 @@
 		"WMHD_2021_add"
 	],
 	"dapatkanbantuan": [
-		"WMHD_2021_add_2"
+		"WMHD_2021_add_2",
+		"WMHD_2022_v2"
 	],
 	"darbycarter": [
 		"HBOMax_LoveLife_S2_2021_darby"
@@ -12987,15 +12992,18 @@
 		"WSPD_Aug_2022_v2"
 	],
 	"diamundialdasaudemental": [
-		"WorldMentalHealthDay_2020"
+		"WorldMentalHealthDay_2020",
+		"WMHD_2022_v2"
 	],
 	"diamundialdasaúdemental": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"diamundialdelasaludmental": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"diamundialdelmedioambiente": [
 		"WorldEnvironmentDay_2021",
@@ -15093,7 +15101,8 @@
 	],
 	"díamundialdelasaludmental": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"díamundialdelmedioambiente": [
 		"WorldEnvironmentDay_2021",
@@ -15154,7 +15163,8 @@
 	],
 	"dünyaruhsağlığıgünü": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"dünyayıturuncuyaboya": [
 		"OrangeTheWorld_2020",
@@ -19385,7 +19395,8 @@
 	],
 	"geestelijkegezondheid": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"gegarvaganza": [
 		"Gegar_Vaganza_9_Sept_2022"
@@ -19885,7 +19896,8 @@
 	],
 	"giornatadellasalutementale": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"giornatadellasicurezzainrete": [
 		"Safer_Internet_Day_2022"
@@ -19927,7 +19939,8 @@
 	],
 	"giornatamondialedellasalutementale": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"giornatamondialedellasicurezzainrete": [
 		"Safer_Internet_Day_2022"
@@ -19947,7 +19960,8 @@
 		"WSPD_Aug_2022_v2"
 	],
 	"giornatamondialesalutementale": [
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"giornatasalutementale": [
 		"WMHD_2021"
@@ -22281,7 +22295,8 @@
 		"WMHD_2021_add_4"
 	],
 	"harikesehatanmental": [
-		"WorldMentalHealthDay_2020"
+		"WorldMentalHealthDay_2020",
+		"WMHD_2022_v2"
 	],
 	"harikesehatanmental2020": [
 		"WorldMentalHealthDay_2020"
@@ -22291,13 +22306,15 @@
 	],
 	"harikesehatanmentalsedunia": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"harikeselamataninternet": [
 		"Safer_Internet_Day_2022"
 	],
 	"harikesihatanmental": [
-		"WorldMentalHealthDay_2020"
+		"WorldMentalHealthDay_2020",
+		"WMHD_2022_v2"
 	],
 	"harikesihatanmental2020": [
 		"WorldMentalHealthDay_2020"
@@ -22307,7 +22324,8 @@
 	],
 	"harikesihatanmentalsedunia": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"harikesihatansedunia": [
 		"StayHome_2020_ItalianAdd",
@@ -26379,7 +26397,8 @@
 		"HBO_Max_Harley_Quinn_S3_Round_2_Joker_Jul_2022"
 	],
 	"jombicara": [
-		"WMHD_2021_add_2"
+		"WMHD_2021_add_2",
+		"WMHD_2022_v2"
 	],
 	"jonathancrane": [
 		"Titans_S3_2021_Scarecrow"
@@ -26441,7 +26460,8 @@
 		"InternationalWomensDay2021"
 	],
 	"journeedelasantementale": [
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"journeedesfemmes": [
 		"InternationalWomensDay2021"
@@ -26496,7 +26516,8 @@
 	],
 	"journéedelasantémentale": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"journéedesdroitsdelhomme": [
 		"Human_Rights_Day_2021",
@@ -27525,7 +27546,8 @@
 	"kesehatanmental": [
 		"WMHD_2021_add_2",
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"keselamatantanggungjawabbersama": [
 		"MalaysiasIndependenceDay_2021"
@@ -27533,7 +27555,8 @@
 	"kesihatanmental": [
 		"WMHD_2021_add_2",
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"kespacup": [
 		"LoLKeSPACup2020"
@@ -28536,7 +28559,8 @@
 	"lanostrasalutementaleconta": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"lanuevarealeza": [
 		"Chivas_Regal_12_Jun_2022",
@@ -28611,22 +28635,26 @@
 	"lasaludmentalesimportante": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"lasalutementaleconta": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"lasantementalecompte": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"lasantémentalecompte": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"lasaventurasdescrat": [
 		"Disneyplus_Scrat_Tales_Ice_Age_Mar_2022"
@@ -31758,7 +31786,8 @@
 	],
 	"maailmanmielenterveyspäivä": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"maailmanympäristöpäivä": [
 		"WorldEnvironmentDay_2021",
@@ -32511,7 +32540,8 @@
 		"MC2021"
 	],
 	"maribicara": [
-		"WMHD_2021_add_2"
+		"WMHD_2021_add_2",
+		"WMHD_2022_v2"
 	],
 	"mariners": [
 		"ISL_2020_ATKMB_ext",
@@ -33442,13 +33472,15 @@
 	"mentalegezondheidtelt": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"mentalhealth": [
 		"WMHD_2021_add_3",
 		"WorldMentalHealthDay_2020",
 		"MentalHealthMonth_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"mentalhealthawarenessmonth": [
 		"Mental_Health_Awareness_Month_2022"
@@ -33476,7 +33508,8 @@
 	"mentalhälsaspelarroll": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"mentalnozdravlje": [
 		"MentalHealthMonth_2021",
@@ -33489,16 +33522,19 @@
 	"mentalsağlımızönemlidir": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"mentalsağlığıönemlidir": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"mentalsundhed": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"mentellall": [
 		"TheBachelorette_Fall_2021"
@@ -33861,16 +33897,19 @@
 	"mielenterveydellämmeonmerkitystä": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"mielenterveydelläonmerkitystä": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"mielenterveys": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"miercolesdeloki": [
 		"Loki_2WO_May_2021",
@@ -37438,12 +37477,14 @@
 	"notresantementalecompte": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"notresantémentalecompte": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"notshy": [
 		"KPOP_ITZY_2020"
@@ -37620,7 +37661,8 @@
 	"nuestrasaludmentalimporta": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"nuestratribu": [
 		"MLB_Teams_2020_CLE",
@@ -38638,7 +38680,8 @@
 	"onzementalegezondheidtelt": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"onça": [
 		"ProtetoresDaAmazonia_2021_oncapintada"
@@ -42482,16 +42525,19 @@
 	],
 	"psykiskhelse": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"psykiskhelseerviktig": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"psykiskhälsa": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"ptd_on_stage_la": [
 		"BTS_PTD_ON_STAGE_LA_2021"
@@ -45297,7 +45343,8 @@
 	],
 	"ruhsağlığı": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"rulethejungle": [
 		"CINBengals2022SeasonEmoji"
@@ -45626,7 +45673,8 @@
 		"WorldMentalHealthDay_2020",
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"saludosme": [
 		"ProjectSoul_June_2021"
@@ -45635,7 +45683,8 @@
 		"WorldMentalHealthDay_2020",
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"saluteourforces": [
 		"RemembranceDay2021",
@@ -45803,7 +45852,8 @@
 	"santementale": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"santiagodelestero": [
 		"La_Liga_finale_2021"
@@ -45814,7 +45864,8 @@
 	"santémentale": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"santépublique": [
 		"WHO_SafeHands_2020",
@@ -45874,7 +45925,8 @@
 		"inchscider_2021_add"
 	],
 	"saudemental": [
-		"WorldMentalHealthDay_2020"
+		"WorldMentalHealthDay_2020",
+		"WMHD_2022_v2"
 	],
 	"saudi_german_hospitals": [
 		"FirstSaudiGermanHospital2020"
@@ -46049,7 +46101,8 @@
 		"WorldMentalHealthDay_2020",
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"sb19": [
 		"SB19_Sept_2022"
@@ -46340,16 +46393,19 @@
 		"WorldMentalHealthDay_2020",
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"seelischegesundheitzaehlt": [
 		"MentalHealthMonth_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"seelischegesundheitzählt": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"seered": [
 		"NBA_Season_Teams_2022_SeeRed"
@@ -51719,6 +51775,9 @@
 	"tekerleklisandalyetenis": [
 		"Paralympics_Sports_2021_WheelchairTennis"
 	],
+	"tellamate": [
+		"WMHD_2022_v2"
+	],
 	"telleestlavoie": [
 		"Disney_Mandalorian_S2_Helmet_all",
 		"Disney_Mandalorian_S2_Helmet"
@@ -55492,6 +55551,9 @@
 		"MentalHealthMonth_2021_add2",
 		"Mental_Health_Month_2022"
 	],
+	"tuloyangkwento\"\"mentalhealthmatters": [
+		"WMHD_2022_v2"
+	],
 	"tun": [
 		"Olympics_Countries_2021_TUN",
 		"Paralympics_2021_TUN"
@@ -56533,12 +56595,14 @@
 	],
 	"unsereseelischegesundheitzaehlt": [
 		"MentalHealthMonth_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"unsereseelischegesundheitzählt": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"unshoregettablesweepstakes": [
 		"JSFV_Jun_2022"
@@ -57416,7 +57480,8 @@
 	],
 	"verdensdagenforpsykiskhelse": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"verdensdagenforselvmordsforebyggelse": [
 		"WorldSuicidePreventionDay_2021",
@@ -57434,7 +57499,8 @@
 	],
 	"verdensmentalesundhedsdag": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"verdensmiljødag": [
 		"WorldEnvironmentDay_2021",
@@ -57957,7 +58023,8 @@
 	"voresmentalesundhedspillerenrolle": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"vota": [
 		"US_Election_2020_Voting",
@@ -58118,7 +58185,8 @@
 	],
 	"världsdagenförpsykiskhälsa": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"världsdagenförsuicidprevention": [
 		"WorldSuicidePreventionDay_2021",
@@ -58138,12 +58206,14 @@
 	"vårmentalahälsaspelarroll": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"vårpsykiskehelseerviktig": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"vælgrespekt": [
 		"BullyingPreventionMonth_2020"
@@ -58977,7 +59047,8 @@
 	],
 	"welttagderpsychischengesundheit": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"weltumwelttag": [
 		"WorldEnvironmentDay_2021",
@@ -59065,7 +59136,8 @@
 	],
 	"wereldgeestelijkegezondheidsdag": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"wereldimmunisatieweek": [
 		"WorldImmunizationWeek_April_2021",
@@ -60165,7 +60237,8 @@
 	],
 	"worldmentalhealthday": [
 		"WMHD_2021_add_3",
-		"WorldMentalHealthDay_2020"
+		"WorldMentalHealthDay_2020",
+		"WMHD_2022_v2"
 	],
 	"worldofbasketball": [
 		"NBA2K22_July_2021_extend",
@@ -61977,7 +62050,8 @@
 	],
 	"деньпсихическогоздоровья": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"деньсвободыпечати": [
 		"WorldPressFreedomDay_2021",
@@ -62613,7 +62687,8 @@
 	],
 	"יוםבריאותהנפשהעולמי": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"יוםהאינטרנטהבטוח": [
 		"Safer_Internet_Day_2022_add3"
@@ -63001,7 +63076,8 @@
 	],
 	"الصحة_النفسية": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"الضواحي_السكنية_الكبرى": [
 		"SakaniGreaterSuburbs2021"
@@ -64992,7 +65068,8 @@
 	"मानसिकस्वास्थ्य": [
 		"WorldMentalHealthDay_2020_add_India",
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"मास्कपहनिये": [
 		"WearAMask_2020_2021_ext4",
@@ -65078,7 +65155,8 @@
 	],
 	"विश्वमानसिकस्वास्थ्यदिवस": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"विश्वशरणार्थीदिवस": [
 		"WorldRefugeeDay_2021",
@@ -65117,7 +65195,8 @@
 	],
 	"सभीकेलिएमानसिकस्वास्थ्य": [
 		"WorldMentalHealthDay_2020_add_India",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"समापनसमारोह": [
 		"Paralympics_Sports_2021_ClosingCeremony"
@@ -66306,7 +66385,8 @@
 	],
 	"วันสุขภาพจิตโลก": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"วันสุขภาพจิตโลก2020": [
 		"WorldMentalHealthDay_2020"
@@ -66429,7 +66509,8 @@
 	],
 	"สุขภาพจิต": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"สู้สิวอัพผิวไบรท์": [
 		"LOreal_Garnier_Sept_2022"
@@ -71459,7 +71540,8 @@
 	],
 	"メンタルヘルス": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"メーター": [
 		"Disneyplus_Cars_on_the_Road_Mater_2022"
@@ -72187,7 +72269,8 @@
 	],
 	"世界メンタルヘルスデー": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"世界予防接種週間": [
 		"WorldImmunizationWeek_April_2021",
@@ -72266,11 +72349,15 @@
 	],
 	"世界精神卫生日": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"世界精神衛生日": [
 		"WorldMentalHealthDay_2020",
 		"WMHD_2021"
+	],
+	"世界精神衛生日\"\"mentalhealthforall": [
+		"WMHD_2022_v2"
 	],
 	"世界紅十字日": [
 		"WorldRedCrossDay_May_2021_add2"
@@ -73364,7 +73451,8 @@
 	"心理健康": [
 		"MentalHealthMonth_2021",
 		"WMHD_2021_add_5",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"心臓ドバドバ": [
 		"DBDM_Apr_2022"
@@ -74506,7 +74594,8 @@
 		"MentalHealthMonth_2021",
 		"WMHD_2021_add_5",
 		"WMHD_2021",
-		"Mental_Health_Month_2022"
+		"Mental_Health_Month_2022",
+		"WMHD_2022_v2"
 	],
 	"紅イモ": [
 		"CRkingdomJP_Q3_2021_4"
@@ -76839,7 +76928,8 @@
 	],
 	"세계정신건강의날": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"세계환경의날": [
 		"WorldEnvironmentDay_2021",
@@ -77650,7 +77740,8 @@
 	],
 	"정신건강": [
 		"WorldMentalHealthDay_2020",
-		"WMHD_2021"
+		"WMHD_2021",
+		"WMHD_2022_v2"
 	],
 	"정우": [
 		"KPOP_NCT_2020_JUNGWOO",
