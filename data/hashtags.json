@@ -22631,6 +22631,9 @@
 	"heavenandhell": [
 		"AvaMaxAlbum_2020"
 	],
+	"hecankeephistongue": [
+		"HBO_Vaemond_Velaryon_2022"
+	],
 	"hechicerosupremo": [
 		"DisneyPlus_SheHulk_S1_Wong"
 	],
@@ -27759,7 +27762,8 @@
 		"Disney_Thor2_Valkyrie_2022_V2"
 	],
 	"kingviserys": [
-		"HBO_House_of_the_Dragon_Viserys_May_2022"
+		"HBO_House_of_the_Dragon_Viserys_May_2022",
+		"HBO_Viserys_Mask_with_Crown_2022"
 	],
 	"kiongheehuattsai": [
 		"Lunar_New_Year_2022"
@@ -30845,6 +30849,9 @@
 	],
 	"lordcorlysvelaryon": [
 		"HBO_House_of_the_Dragon_Corlys_May_2022"
+	],
+	"lordofthetides": [
+		"HBO_Viserys_Mask_with_Crown_2022"
 	],
 	"lorealmen": [
 		"LOreal_LOP_Men_Expert_Launch_2022"
@@ -46672,6 +46679,9 @@
 	"sersi": [
 		"Disney_Marvel_TheEternals_Sersi_2021"
 	],
+	"servaemond": [
+		"HBO_Vaemond_Velaryon_2022"
+	],
 	"servant": [
 		"Servant_AppleTV_2020_add",
 		"Servant_ATV_2021"
@@ -56893,6 +56903,12 @@
 	"vader": [
 		"Disneyplus_Obi_Wan_Kenobi_Darth_Vader_2022_v2"
 	],
+	"vaemond": [
+		"HBO_Vaemond_Velaryon_2022"
+	],
+	"vaemondvelaryon": [
+		"HBO_Vaemond_Velaryon_2022"
+	],
 	"vagomundo": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Zhongli"
 	],
@@ -57680,13 +57696,15 @@
 		"Visa_Super_Bowl_Small_Business_2022"
 	],
 	"viserys": [
-		"HBO_House_of_the_Dragon_Viserys_May_2022"
+		"HBO_House_of_the_Dragon_Viserys_May_2022",
+		"HBO_Viserys_Mask_with_Crown_2022"
 	],
 	"viserysdagger": [
 		"HBO_Catspaw_Dagger_Oct_2022"
 	],
 	"viserystargaryen": [
-		"HBO_House_of_the_Dragon_Viserys_May_2022"
+		"HBO_House_of_the_Dragon_Viserys_May_2022",
+		"HBO_Viserys_Mask_with_Crown_2022"
 	],
 	"viserystargaryenhbo": [
 		"HBO_House_of_the_Dragon_Viserys_May_2022"

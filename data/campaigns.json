@@ -15824,10 +15824,20 @@
 		"startingTimestampMs": "1652068800000",
 		"endingTimestampMs": "1659844740000"
 	},
+	"HBO_Vaemond_Velaryon_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Vaemond_Velaryon_2022/HBO_Vaemond_Velaryon_2022.png",
+		"startingTimestampMs": "1665367200000",
+		"endingTimestampMs": "1673063940000"
+	},
 	"HBO_Vhagar_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Vhagar_Sept_2022/HBO_Vhagar_Sept_2022.png",
 		"startingTimestampMs": "1664067600000",
 		"endingTimestampMs": "1671854340000"
+	},
+	"HBO_Viserys_Mask_with_Crown_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Viserys_Mask_with_Crown_2022/HBO_Viserys_Mask_with_Crown_2022.png",
+		"startingTimestampMs": "1665367200000",
+		"endingTimestampMs": "1673063940000"
 	},
 	"HBO_Westworld_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Westworld_Jun_2022/HBO_Westworld_Jun_2022.png",
