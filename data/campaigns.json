@@ -5594,6 +5594,11 @@
 		"startingTimestampMs": "1622448000000",
 		"endingTimestampMs": "1627696800000"
 	},
+	"Burger_King_You_Rule": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Burger_King_You_Rule/Burger_King_You_Rule.png",
+		"startingTimestampMs": "1665385200000",
+		"endingTimestampMs": "1672559940000"
+	},
 	"BurnaBoy_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BurnaBoy_2020/BurnaBoy_2020.png",
 		"startingTimestampMs": "1597352400000",
@@ -22898,6 +22903,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_Moonfall_Jan_2022/Lionsgate_Moonfall_Jan_2022.png",
 		"startingTimestampMs": "1641456000000",
 		"endingTimestampMs": "1657090740000"
+	},
+	"Lionsgate_Prey_for_the_Devil_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_Prey_for_the_Devil_2022/Lionsgate_Prey_for_the_Devil_2022.png",
+		"startingTimestampMs": "1665385200000",
+		"endingTimestampMs": "1673251140000"
 	},
 	"Lionsgate_TheProtege_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_TheProtege_2021/Lionsgate_TheProtege_2021.png",
