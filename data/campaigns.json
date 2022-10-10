@@ -22739,6 +22739,16 @@
 		"startingTimestampMs": "1656298800000",
 		"endingTimestampMs": "1667271540000"
 	},
+	"Libertadores_finais_Atletico_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Libertadores_finais_Atletico_2022/Libertadores_finais_Atletico_2022.png",
+		"startingTimestampMs": "1665374400000",
+		"endingTimestampMs": "1667440800000"
+	},
+	"Libertadores_finais_Flamengo_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Libertadores_finais_Flamengo_2022/Libertadores_finais_Flamengo_2022.png",
+		"startingTimestampMs": "1665374400000",
+		"endingTimestampMs": "1667440800000"
+	},
 	"Lidl_Christmas_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Lidl_Christmas_2020/Lidl_Christmas_2020.png",
 		"startingTimestampMs": "1604880000000",
@@ -41653,6 +41663,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Turner_Harry_Potter_Tournament_2021/Turner_Harry_Potter_Tournament_2021.png",
 		"startingTimestampMs": "1637568000000",
 		"endingTimestampMs": "1645171200000"
+	},
+	"Turner_NHL_Season_Start_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Turner_NHL_Season_Start_2022/Turner_NHL_Season_Start_2022.png",
+		"startingTimestampMs": "1665374400000",
+		"endingTimestampMs": "1673150340000"
 	},
 	"Turner_NHL_Stanley_Cup_Playoffs_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Turner_NHL_Stanley_Cup_Playoffs_2022/Turner_NHL_Stanley_Cup_Playoffs_2022.png",
