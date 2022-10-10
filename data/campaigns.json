@@ -7459,6 +7459,11 @@
 		"startingTimestampMs": "1653102060000",
 		"endingTimestampMs": "1653274740000"
 	},
+	"Copa_do_Brasil_finals_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Copa_do_Brasil_finals_2022/Copa_do_Brasil_finals_2022.png",
+		"startingTimestampMs": "1665432000000",
+		"endingTimestampMs": "1666382400000"
+	},
 	"Copa_do_Brasil_finals_Corinthians_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Copa_do_Brasil_finals_Corinthians_2022/Copa_do_Brasil_finals_Corinthians_2022.png",
 		"startingTimestampMs": "1665345600000",
