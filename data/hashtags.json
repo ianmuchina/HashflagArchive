@@ -2197,7 +2197,8 @@
 		"NHLTeam_2021_AllCaps",
 		"NHLPlayoff_Teams_2020_ALLCAPS",
 		"NHL_2021_Teams_ALLCAPS",
-		"NHL_Team_Emojis_2019_2020_Capitals"
+		"NHL_Team_Emojis_2019_2020_Capitals",
+		"NHL_Team_2022_Washington"
 	],
 	"alleenjij": [
 		"Spotify_Q2_21"
@@ -8499,7 +8500,8 @@
 		"NHLTeam_2021_Canucks",
 		"NHLPlayoff_Teams_2020_Canucks",
 		"NHL_2021_Teams_canucks",
-		"NHL_Team_Emojis_2019_2020_Canucks"
+		"NHL_Team_Emojis_2019_2020_Canucks",
+		"NHL_Team_2022_Vancouver"
 	],
 	"canyousurrender": [
 		"MaggieRogers2022"
@@ -12642,7 +12644,8 @@
 		"DysonClean_2021"
 	],
 	"determnation": [
-		"NHLMinnesotaPlayoffs2021"
+		"NHLMinnesotaPlayoffs2021",
+		"NHL_Team_2022_Minnesota"
 	],
 	"detidepende": [
 		"AdCouncilVaccine_2021_add"
@@ -18912,6 +18915,9 @@
 	"ftxus": [
 		"FTX_Super_Bowl_2022"
 	],
+	"fueledbyphilly": [
+		"NHL_Team_2022_Philadelphia"
+	],
 	"fuelfighting": [
 		"Overwatch_League_Dallas_2022",
 		"OWL_Season4_Team_Feb_2021_Dallas"
@@ -19779,6 +19785,9 @@
 	"gherboalbum25": [
 		"Gherbo_25_Album_Emoji_2021"
 	],
+	"ghg": [
+		"NHL_Team_2022_Montreal"
+	],
 	"ghostface": [
 		"ParamountPictures_SCREAM_5_2021"
 	],
@@ -20390,7 +20399,8 @@
 		"NHLTeam_2021_GoBolts",
 		"NHL_Team_Emojis_2019_2020_TBLightning",
 		"NHL_2021_Teams_GoBolts",
-		"NHLPlayoff_Teams_2020_GoBolts"
+		"NHLPlayoff_Teams_2020_GoBolts",
+		"NHL_Team_2022_Tampa"
 	],
 	"gobrazil": [
 		"Handball_WorldCup_Egypt_2021_Brazil"
@@ -20410,7 +20420,8 @@
 		"TBBucs2022SeasonEmoji"
 	],
 	"gocanucksgo": [
-		"NHLPlayoff_Teams_2020_Canucks"
+		"NHLPlayoff_Teams_2020_Canucks",
+		"NHL_Team_2022_Vancouver"
 	],
 	"gocapeverde": [
 		"Handball_WorldCup_Egypt_2021_GoCapeVerde"
@@ -20538,7 +20549,8 @@
 		"NHLTeam_2021_GoHabsGo",
 		"NHL_2021_Teams_GoHabsGo",
 		"NHL_Team_Emojis_2019_2020_CanadiensMTL",
-		"NHLPlayoff_Teams_2020_GoHabsGo"
+		"NHLPlayoff_Teams_2020_GoHabsGo",
+		"NHL_Team_2022_Montreal"
 	],
 	"gohalos": [
 		"MLB_LAA_2022"
@@ -20954,7 +20966,8 @@
 		"NHLTeam_2021_GoSensGo",
 		"NHL_2021_Teams_GoSensGo_v2",
 		"NHL_Team_Emojis_2019_2020_Senators",
-		"NHL_2021_Teams_GoSensGo"
+		"NHL_2021_Teams_GoSensGo",
+		"NHL_Team_2022_Ottawa"
 	],
 	"goslovenia": [
 		"Handball_WorldCup_Egypt_2021_Slovenia"
@@ -25271,7 +25284,8 @@
 		"NHLTeam_2021_Isles",
 		"NHL_2021_Teams_Isles",
 		"NHLPlayoff_Teams_2020_NYI",
-		"NHL_Team_Emojis_2019_2020_NYIslanders"
+		"NHL_Team_Emojis_2019_2020_NYIslanders",
+		"NHL_Team_2022_NY_Islander"
 	],
 	"isltwitter": [
 		"ISLTwitter_2020",
@@ -29219,7 +29233,8 @@
 		"NHLPlayoff_Teams_2020_LeafsForever",
 		"NHL_2021_Teams_LeafsForever",
 		"NHL_Team_Emojis_2019_2020_MapleLeafs",
-		"NHLTORPlayoffs2021"
+		"NHLTORPlayoffs2021",
+		"NHL_Team_2022_Toronto"
 	],
 	"leagueoftheirown": [
 		"Amazon_League_of_Their_Own_Sept_2022"
@@ -29720,6 +29735,9 @@
 		"NHL_Team_Emojis_2019_2020_Ducks",
 		"NHL_Team_2022_Anaheim"
 	],
+	"letsgoflyers": [
+		"NHL_Team_2022_Philadelphia"
+	],
 	"letsgohawks": [
 		"NHLPlayoff_Teams_2020_Blackhawks"
 	],
@@ -29744,14 +29762,16 @@
 		"NHLTeam_2021_LetsGoOilers",
 		"NHL_Team_Emojis_2019_2020_Oilers",
 		"NHL_2021_Teams_LetsGoOilers",
-		"NHLPlayoff_Teams_2020_LetsGoOilers"
+		"NHLPlayoff_Teams_2020_LetsGoOilers",
+		"NHL_Team_2022_Edmonton"
 	],
 	"letsgopens": [
 		"NHLTeam_2021_LetsGoPens",
 		"NHLPlayoff_Teams_2020_LetsGoPens",
 		"NHL_Team_Emojis_2019_2020_Penguins",
 		"NHLPITPlayoffs2021",
-		"NHL_2021_Teams_LetsGoPens"
+		"NHL_2021_Teams_LetsGoPens",
+		"NHL_Team_2022_Pittsburgh"
 	],
 	"letsgotowork": [
 		"YellowstoneS4_2021_2",
@@ -34536,7 +34556,8 @@
 		"NHLTeam_2021_mnwild",
 		"NHL_2021_Teams_mnwild",
 		"NHL_Team_Emojis_2019_2020_MNWild",
-		"NHLPlayoff_Teams_2020_MNWild"
+		"NHLPlayoff_Teams_2020_MNWild",
+		"NHL_Team_2022_Minnesota"
 	],
 	"mnyitlook": [
 		"BraveTogether_Maybelline_2021"
@@ -37420,7 +37441,8 @@
 	],
 	"noquitinny": [
 		"NHLPlayoff_Teams_2020_NYR",
-		"NHL_Playoffs_NYR_2022"
+		"NHL_Playoffs_NYR_2022",
+		"NHL_Team_2022_NY_Rangers"
 	],
 	"nor": [
 		"Olympics_Countries_2021_NOR",
@@ -37832,7 +37854,8 @@
 	"nyr": [
 		"NHLTeam_2021_NYR",
 		"NHL_2021_Teams_NYR",
-		"NHLPlayoff_Teams_2020_NYR"
+		"NHLPlayoff_Teams_2020_NYR",
+		"NHL_Team_2022_NY_Rangers"
 	],
 	"nyre": [
 		"New_Years_Rockin_Eve_2021",
@@ -38537,7 +38560,8 @@
 		"NWSL_Season_WashingtonSpirit_2022"
 	],
 	"onestateoneteam": [
-		"NHL_Playoffs_DAL_2022"
+		"NHL_Playoffs_DAL_2022",
+		"NHL_Team_2022_Dallas"
 	],
 	"onetail": [
 		"Snowpiercer_2020",
@@ -46329,7 +46353,8 @@
 	],
 	"seakraken": [
 		"NHLTeam_2021_SeaKraken",
-		"NHL_2021_Teams_SeaKraken"
+		"NHL_2021_Teams_SeaKraken",
+		"NHL_Team_2022_Seattle"
 	],
 	"seaofred": [
 		"LionsRugbyTour_2021_Lion"
@@ -46755,6 +46780,9 @@
 	"senhoritaminutos": [
 		"Disney_LokiLaunch_Miss_Minutes_2021"
 	],
+	"sens": [
+		"NHL_Team_2022_Ottawa"
+	],
 	"sentuhankeju": [
 		"DisneyPlus_WimpyKid_CheeseTouch_2021_V2",
 		"DisneyPlus_WimpyKid_CheeseTouch_2021"
@@ -47111,6 +47139,9 @@
 	],
 	"shareyourspia": [
 		"SPIA_Apr_2022"
+	],
+	"sharksterritory": [
+		"NHL_Team_2022_SJ"
 	],
 	"sharlenesanpedro": [
 		"Sony_PH_Sharlene_San_Pedro_Running_2022"
@@ -47797,7 +47828,8 @@
 	"sjsharks": [
 		"NHLTeam_2021_SJSharks",
 		"NHL_2021_Teams_SJSharks",
-		"NHL_Team_Emojis_2019_2020_SJSharks"
+		"NHL_Team_Emojis_2019_2020_SJSharks",
+		"NHL_Team_2022_SJ"
 	],
 	"skateboarding": [
 		"Olympics_2021_Sports_Skateboarding"
@@ -48049,7 +48081,8 @@
 		"Smash_Summit_13_2022"
 	],
 	"smashville": [
-		"NHLPlayoff_Teams_2020_Preds"
+		"NHLPlayoff_Teams_2020_Preds",
+		"NHL_Team_2022_Nashville"
 	],
 	"smellsliketeenspirit": [
 		"NirvanaAnniversary2021"
@@ -49757,7 +49790,8 @@
 		"NHLTeam_2021_stlblues",
 		"NHLPlayoff_Teams_2020_stlblues",
 		"NHL_Team_Emojis_2019_2020_StLouisBlues",
-		"NHL_2021_Teams_stlblues"
+		"NHL_2021_Teams_stlblues",
+		"NHL_Team_2022_StLouis"
 	],
 	"stlcardenales": [
 		"MLB_Teams_2020_STL",
@@ -52041,7 +52075,8 @@
 		"Mid-Autumn_Festival_Korean_Thanksgiving_Aug_2022_v2"
 	],
 	"texashockey": [
-		"NHLTeam_2021_TexasHockey"
+		"NHLTeam_2021_TexasHockey",
+		"NHL_Team_2022_Dallas"
 	],
 	"tez": [
 		"Tezos_2022_extend",
@@ -52867,6 +52902,9 @@
 	],
 	"thegods": [
 		"SmallGod_Connecting_The_Dots_Album_May_2022"
+	],
+	"thegoldenage": [
+		"NHL_Team_2022_Vegas"
 	],
 	"thegoldeneagle": [
 		"TABSpringRacing_2021_GoldenEagle"
@@ -54425,7 +54463,8 @@
 		"Tim_Hortons_Timbiebs_2021"
 	],
 	"timetohunt": [
-		"NHLTeam_2021_TimeToHunt"
+		"NHLTeam_2021_TimeToHunt",
+		"NHL_Team_2022_Florida"
 	],
 	"timetoshine": [
 		"MLB_SD_2022",
@@ -57233,6 +57272,9 @@
 		"MLS_2021_LAGalaxy",
 		"MLS2020_LA"
 	],
+	"vamosgatos": [
+		"NHL_Team_2022_Florida"
+	],
 	"vamosgigantes": [
 		"MLB_Teams_2020_SF",
 		"MLB_Teams_2021_SF"
@@ -57402,7 +57444,8 @@
 		"NHLTeam_2021_VegasBorn",
 		"NHL_2021_Teams_VegasBorn",
 		"NHL_Team_Emojis_2019_2020_GoldKnights",
-		"NHLPlayoff_Teams_2020_VegasBorn"
+		"NHLPlayoff_Teams_2020_VegasBorn",
+		"NHL_Team_2022_Vegas"
 	],
 	"vegasvibes": [
 		"MGMResortsLasVegas_Oct_2021"
