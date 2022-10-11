@@ -6616,7 +6616,8 @@
 		"NHLTeam_2021_Blackhawks",
 		"NHL_2021_Teams_Blackhawks",
 		"NHLPlayoff_Teams_2020_Blackhawks",
-		"NHL_Team_Emojis_2019_2020_Blackhawks"
+		"NHL_Team_Emojis_2019_2020_Blackhawks",
+		"NHL_Team_2022_Chicago"
 	],
 	"blackheartsclub": [
 		"YungbludAlbum_2020"
@@ -8877,7 +8878,8 @@
 		"NHLTeam_2021_CBJ",
 		"NHL_Team_Emojis_2019_2020_BlueJackets",
 		"NHL_2021_Teams_CBJ",
-		"NHLPlayoff_Teams_2020_CBJ"
+		"NHLPlayoff_Teams_2020_CBJ",
+		"NHL_Team_2022_Columbus"
 	],
 	"cblol": [
 		"CBLOL_Jan_2022_v2",
@@ -18108,7 +18110,8 @@
 	],
 	"flytogether": [
 		"NHLTeam_2021_FlyTogether",
-		"NHL_2021_Teams_FlyTogether"
+		"NHL_2021_Teams_FlyTogether",
+		"NHL_Team_2022_Anaheim"
 	],
 	"flywin": [
 		"LCS_FLY_2022",
@@ -20353,7 +20356,8 @@
 		"NHLTeam_2021_GoAvsGo",
 		"NHL_Team_Emojis_2020_Avalanche",
 		"NHL_2021_Teams_GoAvsGo",
-		"NHLPlayoff_Teams_2020_GoAvsGo"
+		"NHLPlayoff_Teams_2020_GoAvsGo",
+		"NHL_Team_2022_Colorado"
 	],
 	"gobahrain": [
 		"Handball_WorldCup_Egypt_2021_Bahrain"
@@ -29709,10 +29713,12 @@
 		"NHLTeam_2021_LetsGoCanes",
 		"NHL_2021_Teams_LetsGoCanes",
 		"HL_Team_Emojis_2019_2020_Canes",
-		"NHLPlayoff_Teams_2020_LetsGoCanes"
+		"NHLPlayoff_Teams_2020_LetsGoCanes",
+		"NHL_Team_2022_Carolina"
 	],
 	"letsgoducks": [
-		"NHL_Team_Emojis_2019_2020_Ducks"
+		"NHL_Team_Emojis_2019_2020_Ducks",
+		"NHL_Team_2022_Anaheim"
 	],
 	"letsgohawks": [
 		"NHLPlayoff_Teams_2020_Blackhawks"
@@ -43549,6 +43555,9 @@
 	"readysettokyo": [
 		"Paralympics_2021_AUS"
 	],
+	"readytogo": [
+		"NHL_Team_2022_Chicago"
+	],
 	"readytopanic": [
 		"AmazonStudios_Panic_2021"
 	],
@@ -50935,7 +50944,8 @@
 	"takewarning": [
 		"NHLCarolinaPlayoffs2021",
 		"NHLPlayoff_Teams_2020_LetsGoCanes",
-		"NHL_Playoffs_CAR_2022"
+		"NHL_Playoffs_CAR_2022",
+		"NHL_Team_2022_Carolina"
 	],
 	"takeyourshot": [
 		"RocketLeague_TakeYourShot_2020"
@@ -61206,7 +61216,8 @@
 		"NHL_2021_Teams_Yotes",
 		"NHLPlayoff_Teams_2020_Yotes_v2",
 		"NHLPlayoff_Teams_2020_Yotes",
-		"NHL_Team_Emojis_2019_2020_ArizonaCoyotes"
+		"NHL_Team_Emojis_2019_2020_ArizonaCoyotes",
+		"NHL_Team_2022_Arizona"
 	],
 	"you_cant_sit_with_us": [
 		"KPOP_VIT_SUNMI"

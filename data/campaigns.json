@@ -28749,6 +28749,36 @@
 		"startingTimestampMs": "1651233600000",
 		"endingTimestampMs": "1657911540000"
 	},
+	"NHL_Team_2022_Anaheim": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Anaheim/NHL_Team_2022_Anaheim.png",
+		"startingTimestampMs": "1665360000000",
+		"endingTimestampMs": "1681516800000"
+	},
+	"NHL_Team_2022_Arizona": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Arizona/NHL_Team_2022_Arizona.png",
+		"startingTimestampMs": "1665360000000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Carolina": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Carolina/NHL_Team_2022_Carolina.png",
+		"startingTimestampMs": "1665360000000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Chicago": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Chicago/NHL_Team_2022_Chicago.png",
+		"startingTimestampMs": "1665360000000",
+		"endingTimestampMs": "1680681540000"
+	},
+	"NHL_Team_2022_Colorado": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Colorado/NHL_Team_2022_Colorado.png",
+		"startingTimestampMs": "1665360000000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Columbus": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Columbus/NHL_Team_2022_Columbus.png",
+		"startingTimestampMs": "1665446400000",
+		"endingTimestampMs": "1681545540000"
+	},
 	"NHL_Team_Emojis_2019_2020_ArizonaCoyotes": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_Emojis_2019_2020_ArizonaCoyotes/NHL_Team_Emojis_2019_2020_ArizonaCoyotes.png",
 		"startingTimestampMs": "1587445200000",
