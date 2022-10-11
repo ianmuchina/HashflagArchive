@@ -2840,6 +2840,9 @@
 	"android12": [
 		"GoogleIO2021"
 	],
+	"aneka": [
+		"Disney_BlackPanther2_Aneka"
+	],
 	"anettemasterchef": [
 		"MasterchefMx2021_Final_AnetteMasterChef"
 	],
@@ -4302,6 +4305,9 @@
 	"atticusfreeman": [
 		"HBO_LovecraftCountry_2020"
 	],
+	"attuma": [
+		"Disney_BlackPanther2_Attuma"
+	],
 	"atyclb": [
 		"U2_20thAnniversary_2020"
 	],
@@ -4602,6 +4608,9 @@
 	],
 	"ayamgorengmcd": [
 		"McDonalds_Mekdi_TakeawayBag_2020"
+	],
+	"ayo": [
+		"Disney_BlackPanther2_Ayo"
 	],
 	"azcardinals": [
 		"NFL_2020_2021_AZCardinals",
@@ -6668,7 +6677,8 @@
 		"Black_Music_Month_2022"
 	],
 	"blackpanther": [
-		"Chadwick2020"
+		"Chadwick2020",
+		"Disney_BlackPanther2_BlackPanther"
 	],
 	"blackphone": [
 		"UniversalPictures_TheBlackPhone_2021",
@@ -16632,6 +16642,9 @@
 	],
 	"eventodeapple": [
 		"MarchAppleEvent_add"
+	],
+	"everettross": [
+		"Disney_BlackPanther2_EverettRoss"
 	],
 	"evermorealbum": [
 		"TS_Dec_2020_Album",
@@ -33005,6 +33018,9 @@
 	"maytheshortsbewithyou": [
 		"Quibi_Reno_911_Shorts"
 	],
+	"mbaku": [
+		"Disney_BlackPanther2_MBaku"
+	],
 	"mbhigher": [
 		"Michael_Buble_Album_Emoji_2022"
 	],
@@ -35957,6 +35973,9 @@
 	"naistenpäivä": [
 		"InternationalWomensDay2021"
 	],
+	"nakia": [
+		"Disney_BlackPanther2_Nakia"
+	],
 	"nam": [
 		"Paralympics_2021_NAM",
 		"ICCT20WorldCup_2021_NAM",
@@ -35970,6 +35989,12 @@
 	],
 	"namkomesho": [
 		"Paralympics_2021_NAM"
+	],
+	"namor": [
+		"Disney_BlackPanther2_Namor"
+	],
+	"namora": [
+		"Disney_BlackPanther2_Namora"
 	],
 	"nanaue": [
 		"HBO_Max_Harley_Quinn_S3_Round_2_KingShark_Jul_2022"
@@ -38126,6 +38151,9 @@
 	],
 	"okorchestra": [
 		"AJR_Feb_2021"
+	],
+	"okoye": [
+		"Disney_BlackPanther2_Okoye"
 	],
 	"okt": [
 		"OKC_Campaign_May_2022",
@@ -42891,6 +42919,9 @@
 	"queenofthesummerfestival": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Yoimiya"
 	],
+	"queenramonda": [
+		"Disney_BlackPanther2_QueenRamonda"
+	],
 	"queensabc": [
 		"QueensABC_2021"
 	],
@@ -44570,6 +44601,9 @@
 	],
 	"rir": [
 		"Official_Rock_in_Rio_Sept_2022"
+	],
+	"ririwilliams": [
+		"Disney_BlackPanther2_RiriWilliams"
 	],
 	"riseaboveourruin": [
 		"Sony_PlayStation_Horizon_Forbidden_West_2022"
@@ -47409,6 +47443,9 @@
 	],
 	"shuraelectionsqatar": [
 		"QatariElections_2021"
+	],
+	"shuri": [
+		"Disney_BlackPanther2_Shuri"
 	],
 	"shutoffthelights": [
 		"Bastille_Feb_2022"
@@ -58288,7 +58325,8 @@
 		"JohnLewis_Waitrose_Christmas_2020"
 	],
 	"wakandaforever": [
-		"Chadwick2020"
+		"Chadwick2020",
+		"Disney_BlackPanther2_BlackPanther"
 	],
 	"wakhrapunjab": [
 		"IPL_2020_KingsXIPunjab"
