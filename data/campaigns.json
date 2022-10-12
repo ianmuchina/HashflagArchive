@@ -14089,6 +14089,11 @@
 		"startingTimestampMs": "1653436800000",
 		"endingTimestampMs": "1661158800000"
 	},
+	"GRAMMYS_2023_Campaign": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GRAMMYS_2023_Campaign/GRAMMYS_2023_Campaign.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1676073600000"
+	},
 	"GRAMMY_2021_Black": {
 		"assetUrl": "https://abs.twimg.com/hashflags/GRAMMY_2021_Black/GRAMMY_2021_Black.png",
 		"startingTimestampMs": "1615546800000",
@@ -19718,6 +19723,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/KPOP_KDrama_KAIROS_2020/KPOP_KDrama_KAIROS_2020.png",
 		"startingTimestampMs": "1603638000000",
 		"endingTimestampMs": "1611579600000"
+	},
+	"KPOP_KWONEUNBI_Woollim_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KPOP_KWONEUNBI_Woollim_2022/KPOP_KWONEUNBI_Woollim_2022.png",
+		"startingTimestampMs": "1665543600000",
+		"endingTimestampMs": "1673492400000"
 	},
 	"KPOP_KmusicWeek_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/KPOP_KmusicWeek_2021/KPOP_KmusicWeek_2021.png",
