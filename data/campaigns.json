@@ -28784,6 +28784,11 @@
 		"startingTimestampMs": "1665360000000",
 		"endingTimestampMs": "1681516800000"
 	},
+	"NHL_Team_2022_Anaheim_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Anaheim_v2/NHL_Team_2022_Anaheim_v2.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
 	"NHL_Team_2022_Arizona": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Arizona/NHL_Team_2022_Arizona.png",
 		"startingTimestampMs": "1665360000000",
@@ -28794,9 +28799,19 @@
 		"startingTimestampMs": "1665360000000",
 		"endingTimestampMs": "1681545540000"
 	},
+	"NHL_Team_2022_Carolina_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Carolina_v2/NHL_Team_2022_Carolina_v2.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1680681540000"
+	},
 	"NHL_Team_2022_Chicago": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Chicago/NHL_Team_2022_Chicago.png",
 		"startingTimestampMs": "1665360000000",
+		"endingTimestampMs": "1680681540000"
+	},
+	"NHL_Team_2022_Chicago_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Chicago_v2/NHL_Team_2022_Chicago_v2.png",
+		"startingTimestampMs": "1665532800000",
 		"endingTimestampMs": "1680681540000"
 	},
 	"NHL_Team_2022_Colorado": {
@@ -28814,9 +28829,24 @@
 		"startingTimestampMs": "1665446400000",
 		"endingTimestampMs": "1681545540000"
 	},
+	"NHL_Team_2022_Dallas_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Dallas_v2/NHL_Team_2022_Dallas_v2.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Devils": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Devils/NHL_Team_2022_Devils.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
 	"NHL_Team_2022_Edmonton": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Edmonton/NHL_Team_2022_Edmonton.png",
 		"startingTimestampMs": "1665446400000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Flames": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Flames/NHL_Team_2022_Flames.png",
+		"startingTimestampMs": "1665532800000",
 		"endingTimestampMs": "1681545540000"
 	},
 	"NHL_Team_2022_Florida": {
@@ -28824,14 +28854,39 @@
 		"startingTimestampMs": "1665446400000",
 		"endingTimestampMs": "1681545540000"
 	},
+	"NHL_Team_2022_Florida_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Florida_v2/NHL_Team_2022_Florida_v2.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Jets": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Jets/NHL_Team_2022_Jets.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_LA": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_LA/NHL_Team_2022_LA.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
 	"NHL_Team_2022_Minnesota": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Minnesota/NHL_Team_2022_Minnesota.png",
 		"startingTimestampMs": "1665446400000",
 		"endingTimestampMs": "1681545540000"
 	},
+	"NHL_Team_2022_Minnesota_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Minnesota_v2/NHL_Team_2022_Minnesota_v2.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
 	"NHL_Team_2022_Montreal": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Montreal/NHL_Team_2022_Montreal.png",
 		"startingTimestampMs": "1665446400000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Montreal_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Montreal_v2/NHL_Team_2022_Montreal_v2.png",
+		"startingTimestampMs": "1665532800000",
 		"endingTimestampMs": "1681545540000"
 	},
 	"NHL_Team_2022_NY_Islander": {
@@ -28844,6 +28899,11 @@
 		"startingTimestampMs": "1665446400000",
 		"endingTimestampMs": "1681545540000"
 	},
+	"NHL_Team_2022_NY_Rangers_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_NY_Rangers_v2/NHL_Team_2022_NY_Rangers_v2.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
 	"NHL_Team_2022_Nashville": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Nashville/NHL_Team_2022_Nashville.png",
 		"startingTimestampMs": "1665446400000",
@@ -28854,9 +28914,19 @@
 		"startingTimestampMs": "1665446400000",
 		"endingTimestampMs": "1681545540000"
 	},
+	"NHL_Team_2022_Ottawa_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Ottawa_v2/NHL_Team_2022_Ottawa_v2.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
 	"NHL_Team_2022_Philadelphia": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Philadelphia/NHL_Team_2022_Philadelphia.png",
 		"startingTimestampMs": "1665446400000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Philadelphia_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Philadelphia_v2/NHL_Team_2022_Philadelphia_v2.png",
+		"startingTimestampMs": "1665532800000",
 		"endingTimestampMs": "1681545540000"
 	},
 	"NHL_Team_2022_Pittsburgh": {
@@ -28867,6 +28937,16 @@
 	"NHL_Team_2022_SJ": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_SJ/NHL_Team_2022_SJ.png",
 		"startingTimestampMs": "1665446400000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_SJ_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_SJ_v2/NHL_Team_2022_SJ_v2.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Sabers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Sabers/NHL_Team_2022_Sabers.png",
+		"startingTimestampMs": "1665532800000",
 		"endingTimestampMs": "1681545540000"
 	},
 	"NHL_Team_2022_Seattle": {
@@ -28894,9 +28974,19 @@
 		"startingTimestampMs": "1665446400000",
 		"endingTimestampMs": "1681545540000"
 	},
+	"NHL_Team_2022_Vancouver_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Vancouver_v2/NHL_Team_2022_Vancouver_v2.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
 	"NHL_Team_2022_Vegas": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Vegas/NHL_Team_2022_Vegas.png",
 		"startingTimestampMs": "1664841600000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Vegas_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Vegas_v2/NHL_Team_2022_Vegas_v2.png",
+		"startingTimestampMs": "1665532800000",
 		"endingTimestampMs": "1681545540000"
 	},
 	"NHL_Team_2022_Washington": {
@@ -40723,6 +40813,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Teenage_Cancer_Trust_RAH_2022/Teenage_Cancer_Trust_RAH_2022.png",
 		"startingTimestampMs": "1647820800000",
 		"endingTimestampMs": "1648425600000"
+	},
+	"Telcel_F1_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Telcel_F1_2022/Telcel_F1_2022.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1667275140000"
 	},
 	"TelefonicaMejorConectados_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/TelefonicaMejorConectados_2021/TelefonicaMejorConectados_2021.png",
