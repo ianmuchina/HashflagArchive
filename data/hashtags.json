@@ -2922,6 +2922,9 @@
 	"animationdomination": [
 		"HouseBrokenFOX_May_2021"
 	],
+	"animationisfilm": [
+		"Netflix_Pinocchio_2022"
+	],
 	"animouradian": [
 		"HBO_Max_The_Flight_Attendant_Annie_S2_2022_v2",
 		"HBO_Max_The_Flight_Attendant_Annie_S2_2022_v3"
@@ -21576,6 +21579,9 @@
 	"gui": [
 		"Paralympics_2021_GUI",
 		"Olympics_Countries_2021_GUI"
+	],
+	"guillermodeltoro": [
+		"Netflix_Pinocchio_2022"
 	],
 	"guiltyparty": [
 		"Paramount_GuiltyParty_2021"
@@ -41160,6 +41166,12 @@
 	],
 	"pinocchio": [
 		"DisneyPlus_Pinocchio_Pinocchio_2022"
+	],
+	"pinocchiocontest": [
+		"Netflix_Pinocchio_2022"
+	],
+	"pinocchiomovie": [
+		"Netflix_Pinocchio_2022"
 	],
 	"pinocho": [
 		"DisneyPlus_Pinocchio_Pinocchio_2022"
