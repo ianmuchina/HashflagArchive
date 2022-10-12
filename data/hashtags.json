@@ -893,7 +893,8 @@
 		"InternationalWomensDay2021"
 	],
 	"8states1united": [
-		"ISL_2021_2022_NEUFC"
+		"ISL_2021_2022_NEUFC",
+		"ISL_Emoji_2022_23_NEUFC"
 	],
 	"8月5日はパピコの日": [
 		"GlicoPapico_JP_2020",
@@ -960,7 +961,8 @@
 	],
 	"aamchicity": [
 		"ISL_2020_MFC",
-		"ISL_2020_MFC_ext"
+		"ISL_2020_MFC_ext",
+		"ISL_Emoji_2022_23_MCFC"
 	],
 	"aapi": [
 		"AHM_RepresentAsian_2021"
@@ -997,6 +999,9 @@
 		"ISL_2021_2022_AllInForChennaiyin",
 		"ISL_2020_CFC",
 		"ISL_2020_CFC_ext"
+	],
+	"aattamreturns": [
+		"ISL_Emoji_2022_23_CFC"
 	],
 	"aavade": [
 		"IPL_GujaratTitans_Mar_2022_v2"
@@ -2265,7 +2270,8 @@
 	"allinforchennaiyin": [
 		"ISL_2021_2022_AllInForChennaiyin",
 		"ISL_2020_CFC",
-		"ISL_2020_CFC_ext"
+		"ISL_2020_CFC_ext",
+		"ISL_Emoji_2022_23_CFC"
 	],
 	"allinforvoting": [
 		"AllIn_2020"
@@ -15287,6 +15293,9 @@
 		"FIFA22_2021",
 		"EA_Games_FIFA_23_2022"
 	],
+	"eastbengalfc": [
+		"ISL_Emoji_2022_23_EBFC"
+	],
 	"easter": [
 		"Easter_2021",
 		"Easter_2022"
@@ -17339,7 +17348,8 @@
 		"MLS_2021_FCCin"
 	],
 	"fcgoa": [
-		"ISL_2021_2022_FCGoa"
+		"ISL_2021_2022_FCGoa",
+		"ISL_Emoji_2022_23_FCG"
 	],
 	"fdpoints": [
 		"FanDuelNFL_2021_trophy",
@@ -18363,7 +18373,8 @@
 	"forcagoa": [
 		"ISL_2021_2022_FCGoa",
 		"ISL_2020_GOA_ext",
-		"ISL_2020_GOA"
+		"ISL_2020_GOA",
+		"ISL_Emoji_2022_23_FCG"
 	],
 	"forcari": [
 		"Fletcher"
@@ -24007,7 +24018,8 @@
 	"hyderabadfc": [
 		"ISL_2021_2022_HyderabadFC",
 		"ISL_2020_HFC_ext",
-		"ISL_2020_HFC"
+		"ISL_2020_HFC",
+		"ISL_Emoji_2022_23_HFC"
 	],
 	"hylt": [
 		"KPOP_BLACKPINK_2020",
@@ -25892,7 +25904,8 @@
 	"jamkekhelo": [
 		"ISL_2021_2022_JFC",
 		"ISL_2020_JFC_ext",
-		"ISL_2020_JFC"
+		"ISL_2020_JFC",
+		"ISL_Emoji_2022_23_JFC"
 	],
 	"jamzalbum": [
 		"Sarkodie_Jamz_Album_Sept_2022"
@@ -26188,7 +26201,8 @@
 		"French_Legislative_Elections_2022"
 	],
 	"jfc": [
-		"ISL_2021_2022_JFC"
+		"ISL_2021_2022_JFC",
+		"ISL_Emoji_2022_23_JFC"
 	],
 	"jhene": [
 		"JheneAiko2020_Flight3",
@@ -26688,7 +26702,8 @@
 		"WalmartJoyDropNov2021_bl"
 	],
 	"joyeastbengal": [
-		"ISL_2021_2022_WeAreSCEB"
+		"ISL_2021_2022_WeAreSCEB",
+		"ISL_Emoji_2022_23_EBFC"
 	],
 	"joyeusesfêtes": [
 		"HappyHolidays_Dec_2020"
@@ -27393,7 +27408,8 @@
 		"KBank_BLACKPINK_Phase2_2020"
 	],
 	"kbfc": [
-		"ISL_2021_2022_KBFC"
+		"ISL_2021_2022_KBFC",
+		"ISL_Emoji_2022_23_KBFC"
 	],
 	"kbo": [
 		"KSports_KBO_KoreanBaseballLeague_2020"
@@ -27615,6 +27631,9 @@
 	],
 	"keralaassemblypolls": [
 		"IndiaStateElections_2021"
+	],
+	"keralablasters": [
+		"ISL_Emoji_2022_23_KBFC"
 	],
 	"keralaelections": [
 		"IndiaStateElections_2021"
@@ -35633,7 +35652,8 @@
 	"mumbaicity": [
 		"ISL_2021_2022_MCFC",
 		"ISL_2020_MFC",
-		"ISL_2020_MFC_ext"
+		"ISL_2020_MFC_ext",
+		"ISL_Emoji_2022_23_MCFC"
 	],
 	"mumbaidiaries": [
 		"MumbaiDiariesOnPrime_2021"
@@ -36730,7 +36750,8 @@
 	"neufc": [
 		"ISL_2021_2022_NEUFC",
 		"ISL_2020_NEUFC",
-		"ISL_2020_NEUFC_ext"
+		"ISL_2020_NEUFC_ext",
+		"ISL_Emoji_2022_23_NEUFC"
 	],
 	"neutralidaddelared": [
 		"Net_Emoji_Evergreen_SpanishAdd"
@@ -38179,7 +38200,8 @@
 	"odishafc": [
 		"ISL_2021_2022_OdishaFC",
 		"ISL_2020_OFC_ext",
-		"ISL_2020_OFC"
+		"ISL_2020_OFC",
+		"ISL_Emoji_2022_23_OFC"
 	],
 	"odoritoscomsotaque": [
 		"DoritosBuffaloWings_2021"
@@ -50151,6 +50173,9 @@
 	"streetrunner": [
 		"RODWAVE_2021"
 	],
+	"streetstostadium": [
+		"ISL_Emoji_2022_23_CFC"
+	],
 	"stregonesupremo": [
 		"DisneyPlus_SheHulk_S1_Wong"
 	],
@@ -50174,7 +50199,8 @@
 		"ISL_2021_2022_NEUFC",
 		"ISL_2020_NEUFC",
 		"EbayUK_StrongerasOne_2020",
-		"ISL_2020_NEUFC_ext"
+		"ISL_2020_NEUFC_ext",
+		"ISL_Emoji_2022_23_NEUFC"
 	],
 	"strákarnirokkar": [
 		"Handball_WorldCup_Egypt_2021_Iceland"
@@ -52890,6 +52916,9 @@
 	],
 	"thedropouthulu": [
 		"Hulu_The_Dropout_Feb_2022"
+	],
+	"theeasterndragons": [
+		"ISL_Emoji_2022_23_OFC"
 	],
 	"theelectricallifeoflouiswain": [
 		"AmazonStudios_LouisWain_2021"
@@ -57183,6 +57212,9 @@
 	"uzeed": [
 		"AIS_ZEED_Jan_2021"
 	],
+	"uzzoonceagain": [
+		"ISL_Emoji_2022_23_FCG"
+	],
 	"v5win": [
 		"Riot_LPL_Teams_V5_Season_2022",
 		"LPL_2021_V5WIN"
@@ -58946,6 +58978,9 @@
 	],
 	"wearehere": [
 		"OnStar_BeSafeOutThere_holidays_2021"
+	],
+	"wearehfc": [
+		"ISL_Emoji_2022_23_HFC"
 	],
 	"weareimt": [
 		"Immortals_Gaming_Club_2022",
@@ -65079,7 +65114,8 @@
 		"UN_International_Day_of_the_Worlds_Indigenous_Peoples_2022"
 	],
 	"आमचीसिटी": [
-		"ISL_2021_2022_MCFC"
+		"ISL_2021_2022_MCFC",
+		"ISL_Emoji_2022_23_MCFC"
 	],
 	"इंटरनेटबंद": [
 		"KeepItOn_InternetShutdown_2021",
@@ -65207,7 +65243,8 @@
 	"जमकेखेलो": [
 		"ISL_2021_2022_JFC",
 		"ISL_2020_JFC_ext",
-		"ISL_2020_JFC"
+		"ISL_2020_JFC",
+		"ISL_Emoji_2022_23_JFC"
 	],
 	"जयभीम": [
 		"AmbedkarJayanti_2021",
@@ -65656,6 +65693,9 @@
 	"আমাগোক্লাব": [
 		"ISL_2021_2022_WeAreSCEB"
 	],
+	"আমাগোমশাল": [
+		"ISL_Emoji_2022_23_EBFC"
+	],
 	"আমিkkr": [
 		"IPL_2021_2_KKR"
 	],
@@ -65842,7 +65882,8 @@
 	"ଆମଟିମ୍ଆମଗେମ୍": [
 		"ISL_2021_2022_OdishaFC",
 		"ISL_2020_OFC_ext",
-		"ISL_2020_OFC"
+		"ISL_2020_OFC",
+		"ISL_Emoji_2022_23_OFC"
 	],
 	"କୋଭିଡ୧୯ଭାରତସେବା": [
 		"Covid19India_2021"
@@ -65997,7 +66038,8 @@
 		"PinkBallTest_IN"
 	],
 	"మనహైదరాబాద్": [
-		"ISL_2021_2022_HyderabadFC"
+		"ISL_2021_2022_HyderabadFC",
+		"ISL_Emoji_2022_23_HFC"
 	],
 	"మాస్టర్": [
 		"MasterFilm_Jan2021_v2"
@@ -66096,6 +66138,9 @@
 	],
 	"ഇത്സംഭവിച്ചു": [
 		"ThisHappened2020"
+	],
+	"ഒന്നായിപോരാടാം": [
+		"ISL_Emoji_2022_23_KBFC"
 	],
 	"കേരളബ്ലാസ്റ്റേഴ്സ്": [
 		"ISL_2021_2022_KBFC"
