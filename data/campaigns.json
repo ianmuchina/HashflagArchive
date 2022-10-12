@@ -18244,6 +18244,16 @@
 		"startingTimestampMs": "1637119800000",
 		"endingTimestampMs": "1647797400000"
 	},
+	"ISL_2022_ATKMB": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ISL_2022_ATKMB/ISL_2022_ATKMB.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1678987800000"
+	},
+	"ISL_2022_ISL": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ISL_2022_ISL/ISL_2022_ISL.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1678987800000"
+	},
 	"ITV_Love_Island_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ITV_Love_Island_May_2022/ITV_Love_Island_May_2022.png",
 		"startingTimestampMs": "1653951600000",
