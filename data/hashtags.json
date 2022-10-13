@@ -8543,7 +8543,8 @@
 		"NHLPlayoff_Teams_2020_Canucks",
 		"NHL_2021_Teams_canucks",
 		"NHL_Team_Emojis_2019_2020_Canucks",
-		"NHL_Team_2022_Vancouver"
+		"NHL_Team_2022_Vancouver",
+		"NHL_Team_2022_Vancouver_reprogram"
 	],
 	"canyousurrender": [
 		"MaggieRogers2022"
@@ -30177,7 +30178,8 @@
 	"lgrw": [
 		"NHLTeam_2021_LGRW",
 		"NHL_Team_Emojis_2019_2020_DetroitRedWings",
-		"NHL_2021_Teams_LGRW"
+		"NHL_2021_Teams_LGRW",
+		"NHL_Team_2022_Detroit"
 	],
 	"lhha": [
 		"VH1LHHAtlanta_2021"
@@ -35080,7 +35082,8 @@
 		"WaPo_WorldPressFreedom_2021"
 	],
 	"morethanajacket": [
-		"MoreThanAJacket_2021"
+		"MoreThanAJacket_2021",
+		"The_North_Face_Its_More_Than_a_Jacket_2022"
 	],
 	"morethanfour": [
 		"OpenInternet_Public_Policy_Campaign_Launch_2022"

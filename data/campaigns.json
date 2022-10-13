@@ -28964,6 +28964,11 @@
 		"startingTimestampMs": "1665532800000",
 		"endingTimestampMs": "1681545540000"
 	},
+	"NHL_Team_2022_Detroit": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Detroit/NHL_Team_2022_Detroit.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1681545540000"
+	},
 	"NHL_Team_2022_Devils": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Devils/NHL_Team_2022_Devils.png",
 		"startingTimestampMs": "1665532800000",
@@ -29102,6 +29107,11 @@
 	"NHL_Team_2022_Vancouver": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Vancouver/NHL_Team_2022_Vancouver.png",
 		"startingTimestampMs": "1665446400000",
+		"endingTimestampMs": "1681545540000"
+	},
+	"NHL_Team_2022_Vancouver_reprogram": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Vancouver_reprogram/NHL_Team_2022_Vancouver_reprogram.png",
+		"startingTimestampMs": "1665532800000",
 		"endingTimestampMs": "1681545540000"
 	},
 	"NHL_Team_2022_Vancouver_v2": {
@@ -41448,6 +41458,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/The_Last_Cult_Cracker_Island_Jul_2022/The_Last_Cult_Cracker_Island_Jul_2022.png",
 		"startingTimestampMs": "1656691200000",
 		"endingTimestampMs": "1661979600000"
+	},
+	"The_North_Face_Its_More_Than_a_Jacket_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/The_North_Face_Its_More_Than_a_Jacket_2022/The_North_Face_Its_More_Than_a_Jacket_2022.png",
+		"startingTimestampMs": "1665619200000",
+		"endingTimestampMs": "1673654340000"
 	},
 	"The_Open_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/The_Open_Jul_2022/The_Open_Jul_2022.png",
