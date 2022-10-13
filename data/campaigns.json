@@ -4944,10 +4944,25 @@
 		"startingTimestampMs": "1634940000000",
 		"endingTimestampMs": "1642805940000"
 	},
+	"Bilibili_Ling_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bilibili_Ling_2022/Bilibili_Ling_2022.png",
+		"startingTimestampMs": "1665673200000",
+		"endingTimestampMs": "1673535600000"
+	},
+	"Bilibili_Louis_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bilibili_Louis_2022/Bilibili_Louis_2022.png",
+		"startingTimestampMs": "1665673200000",
+		"endingTimestampMs": "1673622000000"
+	},
 	"Bilibili_Nov_JP_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Bilibili_Nov_JP_2021/Bilibili_Nov_JP_2021.png",
 		"startingTimestampMs": "1637247600000",
 		"endingTimestampMs": "1645109940000"
+	},
+	"Bilibili_Sticker_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bilibili_Sticker_2022/Bilibili_Sticker_2022.png",
+		"startingTimestampMs": "1665673200000",
+		"endingTimestampMs": "1673622000000"
 	},
 	"Bilibili_finalgear_JP_2020_Sept": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Bilibili_finalgear_JP_2020_Sept/Bilibili_finalgear_JP_2020_Sept.png",
@@ -33393,6 +33408,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/PIF_EN_2021_oct/PIF_EN_2021_oct.png",
 		"startingTimestampMs": "1633651200000",
 		"endingTimestampMs": "1641600000000"
+	},
+	"PINO_Morinaga_Milk_Industry_PINOgame_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PINO_Morinaga_Milk_Industry_PINOgame_2022/PINO_Morinaga_Milk_Industry_PINOgame_2022.png",
+		"startingTimestampMs": "1665673200000",
+		"endingTimestampMs": "1673449140000"
 	},
 	"PITSteelers2022SeasonEmoji": {
 		"assetUrl": "https://abs.twimg.com/hashflags/PITSteelers2022SeasonEmoji/PITSteelers2022SeasonEmoji.png",
