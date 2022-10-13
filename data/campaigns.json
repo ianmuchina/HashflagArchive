@@ -28939,6 +28939,11 @@
 		"startingTimestampMs": "1665360000000",
 		"endingTimestampMs": "1681545540000"
 	},
+	"NHL_Team_2022_Boston": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Boston/NHL_Team_2022_Boston.png",
+		"startingTimestampMs": "1665619200000",
+		"endingTimestampMs": "1681545540000"
+	},
 	"NHL_Team_2022_Carolina": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Team_2022_Carolina/NHL_Team_2022_Carolina.png",
 		"startingTimestampMs": "1665360000000",
