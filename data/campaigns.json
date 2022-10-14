@@ -1879,6 +1879,11 @@
 		"startingTimestampMs": "1614744000000",
 		"endingTimestampMs": "1622692800000"
 	},
+	"Al_Inma_bank_world_cup_credit_card": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Al_Inma_bank_world_cup_credit_card/Al_Inma_bank_world_cup_credit_card.png",
+		"startingTimestampMs": "1665619200000",
+		"endingTimestampMs": "1671246000000"
+	},
 	"Al_Rajhi_Bank_Live_Event_Mar_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Al_Rajhi_Bank_Live_Event_Mar_2022/Al_Rajhi_Bank_Live_Event_Mar_2022.png",
 		"startingTimestampMs": "1646856000000",
@@ -14309,6 +14314,11 @@
 		"startingTimestampMs": "1664549820000",
 		"endingTimestampMs": "1667141820000"
 	},
+	"Gangs_of_London_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Gangs_of_London_2022/Gangs_of_London_2022.png",
+		"startingTimestampMs": "1665619200000",
+		"endingTimestampMs": "1673481600000"
+	},
 	"Gary_Barlow_Christmas_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Gary_Barlow_Christmas_2021/Gary_Barlow_Christmas_2021.png",
 		"startingTimestampMs": "1637906400000",
@@ -19863,6 +19873,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/KPOP_JacksonWang_2020/KPOP_JacksonWang_2020.png",
 		"startingTimestampMs": "1600304400000",
 		"endingTimestampMs": "1604156400000"
+	},
+	"KPOP_KCON_JP_22": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KPOP_KCON_JP_22/KPOP_KCON_JP_22.png",
+		"startingTimestampMs": "1665673200000",
+		"endingTimestampMs": "1666018800000"
 	},
 	"KPOP_KCON_March_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/KPOP_KCON_March_2021/KPOP_KCON_March_2021.png",

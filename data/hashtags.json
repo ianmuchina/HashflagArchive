@@ -19365,6 +19365,9 @@
 		"GandhiJayanti_2020",
 		"Gandhi_Jayanti_2022"
 	],
+	"gangsoflondon": [
+		"Gangs_of_London_2022"
+	],
 	"ganheprêmioscomh2oh!": [
 		"H2OH_Pepsico_2021"
 	],
@@ -27480,13 +27483,18 @@
 		"KPOP_May_KCONTACT_2021",
 		"KPOP_KCON_March_2021",
 		"KCON_2021_KCONTACT5",
-		"CJ_ENM_KCON_event_KCONLA_Aug_2022"
+		"CJ_ENM_KCON_event_KCONLA_Aug_2022",
+		"KPOP_KCON_JP_22"
 	],
 	"kcon2020japan": [
 		"KCONJapan_2020"
 	],
 	"kcon2022": [
-		"CJ_ENM_KCON_event_KCONLA_Aug_2022"
+		"CJ_ENM_KCON_event_KCONLA_Aug_2022",
+		"KPOP_KCON_JP_22"
+	],
+	"kcon2022japan": [
+		"KPOP_KCON_JP_22"
 	],
 	"kcon2022la": [
 		"CJ_ENM_KCON_event_KCONLA_Aug_2022"
@@ -27505,6 +27513,9 @@
 	],
 	"kcon2022premiere_tokyo": [
 		"CJ_ENM_KCON_event_May_2022"
+	],
+	"kconjapan": [
+		"KPOP_KCON_JP_22"
 	],
 	"kconofficial": [
 		"CJ_ENM_KCON_event_KCONLA_Aug_2022"
@@ -63258,6 +63269,9 @@
 	"أعمر_ياهلالي": [
 		"AlHilal_TeamJerseyCharacter_2021"
 	],
+	"أفضل_بطاقة": [
+		"Al_Inma_bank_world_cup_credit_card"
+	],
 	"أفكار_الترفيه": [
 		"GEA_June_2021",
 		"GEA_2021"
@@ -63792,14 +63806,23 @@
 	"بس_إنت": [
 		"Spotify_Q2_21"
 	],
+	"بطاقات_الإنماء": [
+		"Al_Inma_bank_world_cup_credit_card"
+	],
 	"بطاقاتنا_تربحك": [
 		"RiyadBankCard_2021"
+	],
+	"بطاقة_الإنماء_الائتمانية": [
+		"Al_Inma_bank_world_cup_credit_card"
 	],
 	"بطاقة_الموسم": [
 		"stcPayRiyadhSeasons2021"
 	],
 	"بطاقة_ثانية_تماما": [
 		"stcPAY_Visa_2020"
+	],
+	"بطاقة_هذا_وقتها": [
+		"Al_Inma_bank_world_cup_credit_card"
 	],
 	"بعض_الأوقات": [
 		"Ahlam_2021_P2",
@@ -64931,6 +64954,9 @@
 	],
 	"هذا_حيك": [
 		"Al-Aqaria_Mar_2022"
+	],
+	"هذا_وقتها": [
+		"Al_Inma_bank_world_cup_credit_card"
 	],
 	"هوماثون": [
 		"Homathon_Hackathon_2020"
