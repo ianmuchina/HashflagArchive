@@ -675,6 +675,9 @@
 		"YG_4Hunnid_2020",
 		"YG_2022_Album_Emoji"
 	],
+	"4pf": [
+		"Lil_Baby_Emoji_2022"
+	],
 	"4playep": [
 		"Kidi_4Play_Sept_2022"
 	],
@@ -5431,6 +5434,9 @@
 	"bcespoirfukash": [
 		"BasketBall_Africa_League_BcEspoirFukash_2022"
 	],
+	"bdadventure": [
+		"Below_Deck_Adventure_2022"
+	],
 	"bdbl": [
 		"BDBL_Xmas_2021"
 	],
@@ -5724,8 +5730,17 @@
 		"Bravo_BDSY_Feb_2022",
 		"Bravo_BelowDeck_Season8_2020"
 	],
+	"belowdeckadventure": [
+		"Below_Deck_Adventure_2022"
+	],
+	"belowdeckadventurebravo": [
+		"Below_Deck_Adventure_2022"
+	],
 	"belowdeckbravo": [
 		"Bravo_BelowDeck_Season8_2020"
+	],
+	"belowdecknorway": [
+		"Below_Deck_Adventure_2022"
 	],
 	"belowdecksailing": [
 		"Bravo_BDSY_Feb_2022"
@@ -8665,6 +8680,9 @@
 	],
 	"captainglenn": [
 		"Bravo_BDSY_Feb_2022"
+	],
+	"captainkerry": [
+		"Below_Deck_Adventure_2022"
 	],
 	"captainlee": [
 		"Bravo_BelowDeck_Season8_2020"
@@ -25563,6 +25581,9 @@
 	"itsonlyamatteroftime": [
 		"NBC_OldMovie_May_2021_v2"
 	],
+	"itsonlyme": [
+		"Lil_Baby_Emoji_2022"
+	],
 	"itsourshift": [
 		"TNTGotHockey_2022",
 		"TNTGotHockey_2021"
@@ -30508,7 +30529,8 @@
 		"Kpop_VIT_U_21"
 	],
 	"lilbaby": [
-		"OpenRunLilBaby2021"
+		"OpenRunLilBaby2021",
+		"Lil_Baby_Emoji_2022"
 	],
 	"lildicky": [
 		"DaveFX_May_2021_v2"
