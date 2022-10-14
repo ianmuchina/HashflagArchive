@@ -4969,6 +4969,11 @@
 		"startingTimestampMs": "1637247600000",
 		"endingTimestampMs": "1645109940000"
 	},
+	"Bilibili_Redsand_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bilibili_Redsand_2022/Bilibili_Redsand_2022.png",
+		"startingTimestampMs": "1665759600000",
+		"endingTimestampMs": "1673622000000"
+	},
 	"Bilibili_Sticker_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Bilibili_Sticker_2022/Bilibili_Sticker_2022.png",
 		"startingTimestampMs": "1665673200000",
