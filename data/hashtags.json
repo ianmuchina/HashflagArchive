@@ -36502,12 +36502,14 @@
 		"NBATopShotThis_2021"
 	],
 	"nbatwitter": [
-		"NBATwitter_2018_RefreshEmoji"
+		"NBATwitter_2018_RefreshEmoji",
+		"NBA_League_and_Team_TwitterNBA_2022"
 	],
 	"nbatwitterlive": [
 		"NBA_NBATwitterLive_2021",
 		"NBATeam20192020Season_Emojis_NBATwitter",
-		"NBATwitterLive_2021"
+		"NBATwitterLive_2021",
+		"NBA_League_and_Team_TwitterNBA_2022"
 	],
 	"nbawards": [
 		"NationalBookAwards_2020",
@@ -44465,6 +44467,9 @@
 	],
 	"rescuerangers": [
 		"Disneyplus_Rescue_Rangers_Apr_2022"
+	],
+	"rescueroyale": [
+		"RedCross_Gaming"
 	],
 	"reserveyour": [
 		"Cadillac_LYRIQ_2021"

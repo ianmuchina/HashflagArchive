@@ -27584,6 +27584,11 @@
 		"startingTimestampMs": "1662451200000",
 		"endingTimestampMs": "1670230800000"
 	},
+	"NBA_League_and_Team_TwitterNBA_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_TwitterNBA_2022/NBA_League_and_Team_TwitterNBA_2022.png",
+		"startingTimestampMs": "1665705600000",
+		"endingTimestampMs": "1688194800000"
+	},
 	"NBA_NBATwitterLive_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NBA_NBATwitterLive_2021/NBA_NBATwitterLive_2021.png",
 		"startingTimestampMs": "1634626800000",
@@ -37003,6 +37008,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/RedBull_JP_Repositioning_2020_H2/RedBull_JP_Repositioning_2020_H2.png",
 		"startingTimestampMs": "1606834800000",
 		"endingTimestampMs": "1614524340000"
+	},
+	"RedCross_Gaming": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RedCross_Gaming/RedCross_Gaming.png",
+		"startingTimestampMs": "1665705600000",
+		"endingTimestampMs": "1665986340000"
 	},
 	"RedLobster_Feb_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/RedLobster_Feb_2021/RedLobster_Feb_2021.png",
