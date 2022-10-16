@@ -13734,6 +13734,11 @@
 		"startingTimestampMs": "1625848200000",
 		"endingTimestampMs": "1626417000000"
 	},
+	"FranceFootball_Ballon_Dor_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FranceFootball_Ballon_Dor_Oct_2022/FranceFootball_Ballon_Dor_Oct_2022.png",
+		"startingTimestampMs": "1665900000000",
+		"endingTimestampMs": "1666159200000"
+	},
 	"FranceRegionalElections2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/FranceRegionalElections2021/FranceRegionalElections2021.png",
 		"startingTimestampMs": "1624024800000",
