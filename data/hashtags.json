@@ -1436,6 +1436,12 @@
 		"DCFandom_2020_BlackAdam",
 		"WB_BlackAdam_2021"
 	],
+	"aegonii": [
+		"HBO_Aegon_Targaryen_2022"
+	],
+	"aegontargaryen": [
+		"HBO_Aegon_Targaryen_2022"
+	],
 	"aepresentssecretsofplayboy": [
 		"AE_Secret_Life_of_Playboy_2022"
 	],
@@ -27967,6 +27973,12 @@
 	"kindnessiscool": [
 		"SBI_KindnessIsCool_2021"
 	],
+	"kingaegon": [
+		"HBO_Aegon_Targaryen_2022"
+	],
+	"kingaegonii": [
+		"HBO_Aegon_Targaryen_2022"
+	],
 	"kingo": [
 		"Disney_Marvel_TheEternals_Kingo_2021"
 	],
@@ -33588,6 +33600,9 @@
 		"MelbourneCup_MelbCupCarnival_2020",
 		"MelbourneCup_2021",
 		"MelbourneCup_2021_"
+	],
+	"meleys": [
+		"HBO_Meleys_Dragon_2022"
 	],
 	"melhorsozinha": [
 		"luisasonza_July_2021"
@@ -42319,7 +42334,8 @@
 	],
 	"premiomultishow": [
 		"PMMB_2021",
-		"PremioMultishow_2020"
+		"PremioMultishow_2020",
+		"Emoji_Premio_Multishow_2022"
 	],
 	"premiomultishow2021": [
 		"PMMB_2021"
@@ -42794,7 +42810,8 @@
 	],
 	"prêmiomultishow": [
 		"PMMB_2021",
-		"PremioMultishow_2020"
+		"PremioMultishow_2020",
+		"Emoji_Premio_Multishow_2022"
 	],
 	"prêmiomultishow2021": [
 		"PMMB_2021"
@@ -44226,6 +44243,9 @@
 	"redpixarwatchparty": [
 		"Disney_Turning_Red_Red_Panda_Mei_Surprised_2022_v2"
 	],
+	"redqueen": [
+		"HBO_Meleys_Dragon_2022"
+	],
 	"redrocks": [
 		"Visible_RedRocks_2020"
 	],
@@ -44746,6 +44766,9 @@
 	],
 	"rhaenys": [
 		"HBO_House_of_the_Dragon_Rhaenys_May_2022"
+	],
+	"rhaenysdragon": [
+		"HBO_Meleys_Dragon_2022"
 	],
 	"rhaenystargaryen": [
 		"HBO_House_of_the_Dragon_Rhaenys_May_2022"
@@ -53290,6 +53313,9 @@
 	"thegreatseljuks": [
 		"AlparslanDizisi_2021"
 	],
+	"thegreencouncil": [
+		"HBO_Aegon_Targaryen_2022"
+	],
 	"thegreenknight": [
 		"A24_TheGreenKnight_2021"
 	],
@@ -53909,6 +53935,9 @@
 	],
 	"therealworldhomecoming": [
 		"realworld_2021"
+	],
+	"theredqueen": [
+		"HBO_Meleys_Dragon_2022"
 	],
 	"theredsleeve": [
 		"Kdrama_TheRedSleeve_2021"
