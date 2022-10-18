@@ -3924,6 +3924,21 @@
 		"startingTimestampMs": "1602547200000",
 		"endingTimestampMs": "1610582400000"
 	},
+	"BTS_JIN_TheAstronaut_1_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BTS_JIN_TheAstronaut_1_Oct_2022/BTS_JIN_TheAstronaut_1_Oct_2022.png",
+		"startingTimestampMs": "1666108800000",
+		"endingTimestampMs": "1668178740000"
+	},
+	"BTS_JIN_TheAstronaut_2_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BTS_JIN_TheAstronaut_2_Oct_2022/BTS_JIN_TheAstronaut_2_Oct_2022.png",
+		"startingTimestampMs": "1666108800000",
+		"endingTimestampMs": "1668178740000"
+	},
+	"BTS_JIN_TheAstronaut_3_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BTS_JIN_TheAstronaut_3_Oct_2022/BTS_JIN_TheAstronaut_3_Oct_2022.png",
+		"startingTimestampMs": "1666108800000",
+		"endingTimestampMs": "1668178740000"
+	},
 	"BTS_PERMISSION_TO_DANCE_ON_STAGE_LAS_VEGAS_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BTS_PERMISSION_TO_DANCE_ON_STAGE_LAS_VEGAS_Apr_2022/BTS_PERMISSION_TO_DANCE_ON_STAGE_LAS_VEGAS_Apr_2022.png",
 		"startingTimestampMs": "1648911600000",
@@ -27624,6 +27639,26 @@
 		"startingTimestampMs": "1662451200000",
 		"endingTimestampMs": "1670230800000"
 	},
+	"NBA_League_and_Team_76ers_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_76ers_2022/NBA_League_and_Team_76ers_2022.png",
+		"startingTimestampMs": "1666108800000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Celtics_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Celtics_2022/NBA_League_and_Team_Celtics_2022.png",
+		"startingTimestampMs": "1666108800000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Lakers_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Lakers_2022/NBA_League_and_Team_Lakers_2022.png",
+		"startingTimestampMs": "1666108800000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_NBA_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_NBA_2022/NBA_League_and_Team_NBA_2022.png",
+		"startingTimestampMs": "1666108800000",
+		"endingTimestampMs": "1688194800000"
+	},
 	"NBA_League_and_Team_TwitterNBA_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_TwitterNBA_2022/NBA_League_and_Team_TwitterNBA_2022.png",
 		"startingTimestampMs": "1665705600000",
@@ -43977,6 +44012,11 @@
 	"Visinema_Jagat_Arwah_Movie_Campaign_JagatArwah_Dru_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Visinema_Jagat_Arwah_Movie_Campaign_JagatArwah_Dru_2022/Visinema_Jagat_Arwah_Movie_Campaign_JagatArwah_Dru_2022.png",
 		"startingTimestampMs": "1664557200000",
+		"endingTimestampMs": "1672419540000"
+	},
+	"Visinema_Jagat_Arwah_Movie_Campaign_JagatArwah_Jaya_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Visinema_Jagat_Arwah_Movie_Campaign_JagatArwah_Jaya_2022/Visinema_Jagat_Arwah_Movie_Campaign_JagatArwah_Jaya_2022.png",
+		"startingTimestampMs": "1666105200000",
 		"endingTimestampMs": "1672419540000"
 	},
 	"Visinema_Jagat_Arwah_Movie_Campaign_JagatArwah_Kunti_2022": {
