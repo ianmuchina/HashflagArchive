@@ -4999,6 +4999,11 @@
 		"startingTimestampMs": "1665673200000",
 		"endingTimestampMs": "1673622000000"
 	},
+	"Bilibili_Sticker_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bilibili_Sticker_2022_v2/Bilibili_Sticker_2022_v2.png",
+		"startingTimestampMs": "1665673200000",
+		"endingTimestampMs": "1673622000000"
+	},
 	"Bilibili_finalgear_JP_2020_Sept": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Bilibili_finalgear_JP_2020_Sept/Bilibili_finalgear_JP_2020_Sept.png",
 		"startingTimestampMs": "1600268400000",
