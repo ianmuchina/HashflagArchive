@@ -21725,14 +21725,19 @@
 	"guiltyparty": [
 		"Paramount_GuiltyParty_2021"
 	],
+	"guinness": [
+		"Guinness_Homecoming_UK_Ireland_Sept_2022_v2"
+	],
 	"guinness6nations": [
 		"Guinness_Six_Nations_2022"
 	],
 	"guinnesshomecoming": [
-		"Guinness_Homecoming_UK_Ireland_Sept_2022"
+		"Guinness_Homecoming_UK_Ireland_Sept_2022",
+		"Guinness_Homecoming_UK_Ireland_Sept_2022_v2"
 	],
 	"guinnessseason": [
-		"Guinness_Homecoming_UK_Ireland_Sept_2022"
+		"Guinness_Homecoming_UK_Ireland_Sept_2022",
+		"Guinness_Homecoming_UK_Ireland_Sept_2022_v2"
 	],
 	"guinnesssixnations": [
 		"Guinness_Six_Nations_2022"
@@ -21742,7 +21747,8 @@
 	],
 	"guinnesstime": [
 		"GuinnessTime_May_2021",
-		"Guinness_Homecoming_UK_Ireland_Sept_2022"
+		"Guinness_Homecoming_UK_Ireland_Sept_2022",
+		"Guinness_Homecoming_UK_Ireland_Sept_2022_v2"
 	],
 	"guinnesstogether": [
 		"Guinness_Q1_Feb_2022_add"
@@ -33147,6 +33153,9 @@
 	],
 	"matcauthon": [
 		"AmazonStudios_WheelOfTime_2021_Mat"
+	],
+	"matchdayguinness": [
+		"Guinness_Homecoming_UK_Ireland_Sept_2022_v2"
 	],
 	"matchdaypint": [
 		"Guinness_Homecoming_UK_Ireland_Sept_2022"
