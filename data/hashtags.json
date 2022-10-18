@@ -25477,22 +25477,36 @@
 		"Paralympics_2021_ISR"
 	],
 	"israelelections": [
-		"IsraelElections2021"
+		"IsraelElections2021",
+		"Isreal_Elections_2022"
 	],
 	"israelelections2021": [
 		"IsraelElections2021"
 	],
+	"israelelections2022": [
+		"Isreal_Elections_2022"
+	],
 	"israelex": [
-		"IsraelElections2021"
+		"IsraelElections2021",
+		"Isreal_Elections_2022"
 	],
 	"israelex2021": [
 		"IsraelElections2021"
 	],
+	"israelex2022": [
+		"Isreal_Elections_2022"
+	],
 	"israelex21": [
 		"IsraelElections2021"
 	],
+	"israelex22": [
+		"Isreal_Elections_2022"
+	],
 	"israelex4": [
 		"IsraelElections2021"
+	],
+	"israelex5": [
+		"Isreal_Elections_2022"
 	],
 	"issoemuitocheetos": [
 		"Pepsico_Cheetos_Cheetos_Anitta_Apr_2022"
@@ -63286,6 +63300,9 @@
 	],
 	"בחירות2021": [
 		"IsraelElections2021"
+	],
+	"בחירות2022": [
+		"Isreal_Elections_2022"
 	],
 	"גאווה": [
 		"AlwaysProud_June_2021",
