@@ -2695,6 +2695,9 @@
 		"MentalHealthMonth_2021",
 		"Mental_Health_Month_2022"
 	],
+	"amerado": [
+		"AMERADO_ALBUM_Oct_2022"
+	],
 	"americachavez": [
 		"Disney_Dr_Strange_2_America_Chavez_2022",
 		"Disney_Dr_Strange_2_America_Chavez_2022_extend"
@@ -6342,6 +6345,9 @@
 		"MINIBigLove_DE_2021",
 		"MINIBigLove_DE_2021_ext"
 	],
+	"bigmemphis": [
+		"NBA_League_and_Team_Memphis_2022"
+	],
 	"bigmouth": [
 		"Netflix_BigMouth_S4_2020_add"
 	],
@@ -7281,6 +7287,9 @@
 	"booksofblood": [
 		"Hulu_Huluween_2020"
 	],
+	"boombaby": [
+		"NBA_League_and_Team_Indiana_2022"
+	],
 	"booooooook": [
 		"Disneyplus_Hocus_Pocus_2_Winifred_2022"
 	],
@@ -7753,7 +7762,8 @@
 		"AppleTV_FoundationEmperor_2021"
 	],
 	"brotherlylove": [
-		"NBA_League_and_Team_76ers_2022"
+		"NBA_League_and_Team_76ers_2022",
+		"NBA_League_and_Team_Philadelphia_2022"
 	],
 	"brotherskeeper": [
 		"CHIKE_ALBUM_Brothers_Keeper_Aug_2022"
@@ -8099,7 +8109,8 @@
 	"bullsnation": [
 		"NBA_Season_Teams_2021_BullsNation",
 		"NBA_2021_Teams_BullsNation",
-		"NBATeam20192020Season_Emojis_CHI"
+		"NBATeam20192020Season_Emojis_CHI",
+		"NBA_League_and_Team_Chicago_2022"
 	],
 	"bullyingpreventionmonth": [
 		"BullyingPreventionMonth_2020"
@@ -10314,7 +10325,8 @@
 	"clippernation": [
 		"NBA_Season_Teams_2021_ClipperNation",
 		"NBATeam20192020Season_Emojis_LAC",
-		"NBA_2021_Teams_ClipperNation"
+		"NBA_2021_Teams_ClipperNation",
+		"NBA_League_and_Team_LAClippers_2022"
 	],
 	"cliquecomcompaixão": [
 		"BullyingPreventionMonth_2020"
@@ -12209,7 +12221,8 @@
 	],
 	"dcaboveall": [
 		"NBA_Season_Teams_2021_DCAboveAll",
-		"NBA_2021_Teams_DCAboveAll"
+		"NBA_2021_Teams_DCAboveAll",
+		"NBA_League_and_Team_Washington_2022"
 	],
 	"dcbatman": [
 		"DCFanDome2021_Oct_Batman",
@@ -14983,7 +14996,8 @@
 		"NBA_Season_Teams_2021_DubNation_",
 		"NBA_Season_Teams_2021_DubNation",
 		"NBATeam20192020Season_Emojis_GSW",
-		"NBA_2021_Teams_DubNation"
+		"NBA_2021_Teams_DubNation",
+		"NBA_League_and_Team_GSW_2022"
 	],
 	"ducbasket": [
 		"BasketBall_Africa_League_DUCBasket_2022"
@@ -17492,7 +17506,8 @@
 		"NBA_Season_Teams_2021_FearTheDeer_",
 		"NBATeam20192020Season_Emojis_MIL",
 		"NBA_2021_Teams_FearTheDeer",
-		"NBA_Season_Teams_2021_FearTheDeer"
+		"NBA_Season_Teams_2021_FearTheDeer",
+		"NBA_League_and_Team_Milwaukee_2022"
 	],
 	"fearthetribe": [
 		"Tribe_Gaming_Jun_2022"
@@ -20064,6 +20079,9 @@
 	"gimmesometruth": [
 		"LennonAnniversary_2020"
 	],
+	"ginaalbum": [
+		"AMERADO_ALBUM_Oct_2022"
+	],
 	"gingerbrave": [
 		"CRkingdomJP_Q3_2021_1"
 	],
@@ -20637,6 +20655,9 @@
 	],
 	"godfatherofharlem": [
 		"GFOH_April_2021"
+	],
+	"godisneverasleep": [
+		"AMERADO_ALBUM_Oct_2022"
 	],
 	"godjul": [
 		"HappyHolidays_Dec_2020",
@@ -22878,7 +22899,8 @@
 	],
 	"heatculture": [
 		"NBA_Season_Teams_2021_HEATCulture_2",
-		"NBA_Season_Teams_2021_HEATCulture"
+		"NBA_Season_Teams_2021_HEATCulture",
+		"NBA_League_and_Team_Miami_2022"
 	],
 	"heattwitter": [
 		"NBATeam20192020Season_Emojis_MIA",
@@ -29903,7 +29925,8 @@
 	"letemknow": [
 		"NBA_Season_Teams_2021_LetEmKnow",
 		"NBA_Season_Teams_2021_LetEmKnow_v2",
-		"NBA_Season_Teams_2021_LetEmKnow_v2_update"
+		"NBA_Season_Teams_2021_LetEmKnow_v2_update",
+		"NBA_League_and_Team_Cleveland_2022"
 	],
 	"lethality": [
 		"KPOP_KWONEUNBI_Woollim_2022"
@@ -29943,7 +29966,8 @@
 		"Unacademy_2020"
 	],
 	"letsfly": [
-		"MLS_2022_Team_DC_2022"
+		"MLS_2022_Team_DC_2022",
+		"NBA_League_and_Team_Charlotte_2022"
 	],
 	"letsfootball": [
 		"ISL_2021_2022",
@@ -32355,7 +32379,8 @@
 	"magictogether": [
 		"NBA_Season_Teams_2021_MagicTogether",
 		"NBA_2021_Teams_MagicTogether",
-		"NBATeam20192020Season_Emojis_ORL_ext_v2"
+		"NBATeam20192020Season_Emojis_ORL_ext_v2",
+		"NBA_League_and_Team_Orlando_2022"
 	],
 	"magingmabuti": [
 		"BullyingPreventionMonth_2020"
@@ -34057,7 +34082,8 @@
 	"mffl": [
 		"NBA_Season_Teams_2021_MFFL",
 		"NBATeam20192020Season_Emojis_DAL",
-		"NBA_2021_Teams_MFFL"
+		"NBA_2021_Teams_MFFL",
+		"NBA_League_and_Team_Dallas_2022"
 	],
 	"mfinalfour": [
 		"NCAA_March_Madness_MFinalFour_2022"
@@ -34344,7 +34370,8 @@
 	"milehighbasketball": [
 		"NBA_Season_Teams_2021_MileHighBasketball",
 		"NBA_2021_Teams_MileHighBasketball",
-		"NBATeam20192020Season_Emojis_DEN"
+		"NBATeam20192020Season_Emojis_DEN",
+		"NBA_League_and_Team_Denver_2022"
 	],
 	"milesmorales": [
 		"PlayStationMilesMorales_2020_add"
@@ -36932,7 +36959,8 @@
 		"NBA_Season_Teams_2022_NetsLevel"
 	],
 	"netsworld": [
-		"NBA_Season_Teams_2021_NetsWorld"
+		"NBA_Season_Teams_2021_NetsWorld",
+		"NBA_League_and_Team_Brooklyn_2022"
 	],
 	"netzeroby2040": [
 		"Amazon_ClimatePledge_2021"
@@ -37123,7 +37151,8 @@
 	"newyorkforever": [
 		"NBA_Season_Teams_2021_NewYorkForever",
 		"NBATeam20192020Season_Emojis_NYK",
-		"NBA_2021_Teams_NewYorkForever"
+		"NBA_2021_Teams_NewYorkForever",
+		"NBA_League_and_Team_NewYork_2022"
 	],
 	"newzealand": [
 		"ICCT20WorldCup_2021_NZ",
@@ -40827,6 +40856,9 @@
 	"pele80": [
 		"Pele_80th_Birthday"
 	],
+	"pelicans": [
+		"NBA_League_and_Team_NewOrleans_2022"
+	],
 	"pelopantene": [
 		"PanteneAquiEstoyShow_2021"
 	],
@@ -41525,7 +41557,8 @@
 		"FX_Pistol_May_2022"
 	],
 	"pistons": [
-		"NBA_Season_Teams_2021_Pistons"
+		"NBA_Season_Teams_2021_Pistons",
+		"NBA_League_and_Team_Detroit_2022"
 	],
 	"pitchforkfest": [
 		"Pitchfork_Music_Festival_Jul_2022"
@@ -42193,7 +42226,8 @@
 		"AmstelUltra_MX_Dec_2020"
 	],
 	"porvida": [
-		"NBA_Season_Teams_2021_PorVida"
+		"NBA_Season_Teams_2021_PorVida",
+		"NBA_League_and_Team_SanAntonio_2022"
 	],
 	"poseball": [
 		"FX_Pose_April_2021"
@@ -43601,7 +43635,8 @@
 		"RaisedByWolves_2",
 		"HBO_Max_Raised_by_Wolves_S2_Mother_2022",
 		"NBA_2021_Teams_RaisedByWolves",
-		"RaisedByWolves_2020"
+		"RaisedByWolves_2020",
+		"NBA_League_and_Team_Minnesota_2022"
 	],
 	"raisedbywolvesmax": [
 		"HBO_Max_Raised_by_Wolves_S2_Tree_2022",
@@ -45037,7 +45072,8 @@
 	"ripcity": [
 		"NBA_Season_Teams_2021_RipCity",
 		"NBATeam20192020Season_Emojis_POR",
-		"NBA_2021_Teams_RipCity"
+		"NBA_2021_Teams_RipCity",
+		"NBA_League_and_Team_Portland_2022"
 	],
 	"riprobin": [
 		"Titans_S3_2021_Robin"
@@ -45271,7 +45307,8 @@
 	],
 	"rockets": [
 		"NBA_Season_Teams_2021_Rockets",
-		"NBA_2021_Teams_Rockets"
+		"NBA_2021_Teams_Rockets",
+		"NBA_League_and_Team_Houston_2022"
 	],
 	"rockettothemoon": [
 		"Netflix_OverTheMoon_2020",
@@ -46081,7 +46118,8 @@
 	"sacramentoproud": [
 		"NBA_Season_Teams_2021_SacramentoProud",
 		"NBA_2021_Teams_SacramentoProud",
-		"NBATeam20192020Season_Emojis_SAC"
+		"NBATeam20192020Season_Emojis_SAC",
+		"NBA_League_and_Team_Sacramento_2022"
 	],
 	"saddapunjab": [
 		"IPL_PunjabKings_Mar_2022",
@@ -51384,7 +51422,8 @@
 		"NBA_2021_Teams_TakeNote",
 		"NBA_Season_Teams_2021_TakeNote",
 		"NBATeam20192020Season_Emojis_UTA",
-		"TakeNote_2022"
+		"TakeNote_2022",
+		"NBA_League_and_Team_Utah_2022_TakeNote"
 	],
 	"takeontomorrowtoday": [
 		"bloombergquicktake_2020_v2",
@@ -51719,6 +51758,9 @@
 	],
 	"tealrising": [
 		"NWSL_Season_KansasCityCurrent_2022"
+	],
+	"team49": [
+		"NBA_League_and_Team_Utah_2022"
 	],
 	"teamace": [
 		"HeelsSTARZ_2021"
@@ -54715,7 +54757,8 @@
 	"thunderup": [
 		"NBA_Season_Teams_2021_ThunderUp",
 		"NBATeam20192020Season_Emojis_OKC",
-		"NBA_2021_Teams_ThunderUp"
+		"NBA_2021_Teams_ThunderUp",
+		"NBA_League_and_Team_OklahomaCity_2022"
 	],
 	"thursdaynightfootball": [
 		"Prime_Video_Thursday_Night_Football_Aug_2022"
@@ -55979,7 +56022,8 @@
 	"truetoatlanta": [
 		"NBA_Season_Teams_2021_TrueToAtlanta",
 		"NBATeam20192020Season_Emojis_ATL",
-		"NBA_2021_Teams_TrueToAtlanta"
+		"NBA_2021_Teams_TrueToAtlanta",
+		"NBA_League_and_Team_ATL_2022"
 	],
 	"truetotheblue": [
 		"MLB_Teams_2020_SEA"
@@ -59362,7 +59406,8 @@
 		"BasketBall_Africa_League_WeAreTheTigers_2022"
 	],
 	"wearethevalley": [
-		"NBA_2021_Teams_WeAreTheValley"
+		"NBA_2021_Teams_WeAreTheValley",
+		"NBA_League_and_Team_Phoenix_2022"
 	],
 	"wearethewalkingdead": [
 		"WalkingDead_July_2021"
@@ -59884,7 +59929,8 @@
 	"wethenorth": [
 		"NBA_Season_Teams_2021_WeTheNorth",
 		"NBA_2021_Teams_WeTheNorth",
-		"NBATeam20192020Season_Emojis_TOR"
+		"NBATeam20192020Season_Emojis_TOR",
+		"NBA_League_and_Team_Toronto_2022"
 	],
 	"weuro2022": [
 		"UEFA_WEURO22_2"
@@ -63496,6 +63542,9 @@
 	"أراسكو": [
 		"ArascoWafifeed_2020"
 	],
+	"أسرع_توصيل": [
+		"Snoonu_Q4_Oct_2022"
+	],
 	"أسهل_طريقة_لدفع_الزكاة": [
 		"Zakaty_May_2021"
 	],
@@ -64496,6 +64545,9 @@
 	],
 	"سلامتك": [
 		"GHC_SA_June_2021"
+	],
+	"سنونو": [
+		"Snoonu_Q4_Oct_2022"
 	],
 	"سنہرےلوگ": [
 		"Twitter_Asians_Asian_Heritage_Month_WeAreGolden_Campaign_2022"

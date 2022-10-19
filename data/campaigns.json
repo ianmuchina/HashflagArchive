@@ -1019,6 +1019,11 @@
 		"startingTimestampMs": "1653840000000",
 		"endingTimestampMs": "1661730300000"
 	},
+	"AMERADO_ALBUM_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AMERADO_ALBUM_Oct_2022/AMERADO_ALBUM_Oct_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1672412700000"
+	},
 	"AMEX_CA_ShopSmallStories_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AMEX_CA_ShopSmallStories_2020/AMEX_CA_ShopSmallStories_2020.png",
 		"startingTimestampMs": "1597982460000",
@@ -27664,9 +27669,69 @@
 		"startingTimestampMs": "1666108800000",
 		"endingTimestampMs": "1688194800000"
 	},
+	"NBA_League_and_Team_ATL_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_ATL_2022/NBA_League_and_Team_ATL_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Brooklyn_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Brooklyn_2022/NBA_League_and_Team_Brooklyn_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
 	"NBA_League_and_Team_Celtics_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Celtics_2022/NBA_League_and_Team_Celtics_2022.png",
 		"startingTimestampMs": "1666108800000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Charlotte_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Charlotte_2022/NBA_League_and_Team_Charlotte_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Chicago_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Chicago_2022/NBA_League_and_Team_Chicago_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Cleveland_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Cleveland_2022/NBA_League_and_Team_Cleveland_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Dallas_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Dallas_2022/NBA_League_and_Team_Dallas_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Denver_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Denver_2022/NBA_League_and_Team_Denver_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Detroit_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Detroit_2022/NBA_League_and_Team_Detroit_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_GSW_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_GSW_2022/NBA_League_and_Team_GSW_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Houston_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Houston_2022/NBA_League_and_Team_Houston_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Indiana_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Indiana_2022/NBA_League_and_Team_Indiana_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_LAClippers_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_LAClippers_2022/NBA_League_and_Team_LAClippers_2022.png",
+		"startingTimestampMs": "1666137600000",
 		"endingTimestampMs": "1688194800000"
 	},
 	"NBA_League_and_Team_Lakers_2022": {
@@ -27674,14 +27739,99 @@
 		"startingTimestampMs": "1666108800000",
 		"endingTimestampMs": "1688194800000"
 	},
+	"NBA_League_and_Team_Memphis_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Memphis_2022/NBA_League_and_Team_Memphis_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Miami_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Miami_2022/NBA_League_and_Team_Miami_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Milwaukee_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Milwaukee_2022/NBA_League_and_Team_Milwaukee_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Minnesota_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Minnesota_2022/NBA_League_and_Team_Minnesota_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
 	"NBA_League_and_Team_NBA_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_NBA_2022/NBA_League_and_Team_NBA_2022.png",
 		"startingTimestampMs": "1666108800000",
 		"endingTimestampMs": "1688194800000"
 	},
+	"NBA_League_and_Team_NewOrleans_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_NewOrleans_2022/NBA_League_and_Team_NewOrleans_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_NewYork_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_NewYork_2022/NBA_League_and_Team_NewYork_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_OklahomaCity_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_OklahomaCity_2022/NBA_League_and_Team_OklahomaCity_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Orlando_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Orlando_2022/NBA_League_and_Team_Orlando_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Philadelphia_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Philadelphia_2022/NBA_League_and_Team_Philadelphia_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Phoenix_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Phoenix_2022/NBA_League_and_Team_Phoenix_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Portland_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Portland_2022/NBA_League_and_Team_Portland_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Sacramento_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Sacramento_2022/NBA_League_and_Team_Sacramento_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_SanAntonio_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_SanAntonio_2022/NBA_League_and_Team_SanAntonio_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Toronto_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Toronto_2022/NBA_League_and_Team_Toronto_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
 	"NBA_League_and_Team_TwitterNBA_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_TwitterNBA_2022/NBA_League_and_Team_TwitterNBA_2022.png",
 		"startingTimestampMs": "1665705600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Utah_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Utah_2022/NBA_League_and_Team_Utah_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Utah_2022_TakeNote": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Utah_2022_TakeNote/NBA_League_and_Team_Utah_2022_TakeNote.png",
+		"startingTimestampMs": "1666051200000",
+		"endingTimestampMs": "1688194800000"
+	},
+	"NBA_League_and_Team_Washington_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_League_and_Team_Washington_2022/NBA_League_and_Team_Washington_2022.png",
+		"startingTimestampMs": "1666137600000",
 		"endingTimestampMs": "1688194800000"
 	},
 	"NBA_NBATwitterLive_2021": {
@@ -39253,6 +39403,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/SnohAalegra_2021/SnohAalegra_2021.png",
 		"startingTimestampMs": "1625799600000",
 		"endingTimestampMs": "1627095600000"
+	},
+	"Snoonu_Q4_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Snoonu_Q4_Oct_2022/Snoonu_Q4_Oct_2022.png",
+		"startingTimestampMs": "1666137600000",
+		"endingTimestampMs": "1674086400000"
 	},
 	"Snoop_Dogg_Algorithm_Album_Emoji": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Snoop_Dogg_Algorithm_Album_Emoji/Snoop_Dogg_Algorithm_Album_Emoji.png",
