@@ -8474,6 +8474,11 @@
 		"startingTimestampMs": "1636556400000",
 		"endingTimestampMs": "1645196340000"
 	},
+	"DQX_Online_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQX_Online_2022/DQX_Online_2022.png",
+		"startingTimestampMs": "1666191600000",
+		"endingTimestampMs": "1674140340000"
+	},
 	"DQ_Blizzard_2021_Q2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DQ_Blizzard_2021_Q2/DQ_Blizzard_2021_Q2.png",
 		"startingTimestampMs": "1618099200000",

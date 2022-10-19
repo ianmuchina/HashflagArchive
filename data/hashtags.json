@@ -14594,6 +14594,9 @@
 	"dq10オフライン": [
 		"DQ10_OFFLINE_Sept_2022"
 	],
+	"dq10オンライン": [
+		"DQX_Online_2022"
+	],
 	"dqblizzard": [
 		"DairyQueenQ12021",
 		"DQ_Blizzard_2021_Q2"
@@ -14634,6 +14637,12 @@
 	],
 	"dqviiイベント": [
 		"DQWalk_2021_Sakura"
+	],
+	"dqx10周年": [
+		"DQX_Online_2022"
+	],
+	"dqxで遊びつくそう": [
+		"DQX_Online_2022"
 	],
 	"dqけしケシ": [
 		"DQKeshikeshi_May_2022"
@@ -71009,6 +71018,9 @@
 	"ドラクエ10オフライン": [
 		"DQ10_OFFLINE_Sept_2022"
 	],
+	"ドラクエ10オンライン": [
+		"DQX_Online_2022"
+	],
 	"ドラクエ10復帰しました": [
 		"DQ10_March_2021_v3",
 		"DQ10_March_2021"
@@ -75670,6 +75682,9 @@
 	],
 	"純和草プレミアムエキス": [
 		"Kracie_ichikami_TRP_Aug_2022"
+	],
+	"終わらないドラクエ": [
+		"DQX_Online_2022"
 	],
 	"終アカ": [
 		"Netease_akashabook_jp_July_2021"
