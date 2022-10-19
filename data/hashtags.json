@@ -2850,7 +2850,8 @@
 		"Netflix_Moxie_2021"
 	],
 	"amáximavelocidad": [
-		"Telcel_F1_2022"
+		"Telcel_F1_2022",
+		"Telcel_F1_2022_v2"
 	],
 	"américaathleticana": [
 		"Sudamericana_2021_1"
@@ -9552,7 +9553,8 @@
 		"AckoInsurance_AMJ_May_2022"
 	],
 	"checoymaxtelcel": [
-		"Telcel_F1_2022"
+		"Telcel_F1_2022",
+		"Telcel_F1_2022_v2"
 	],
 	"cheddarebacon": [
 		"RufflesCheddarEBacon_2021"
@@ -51950,10 +51952,14 @@
 		"SummerSlam_2021_TeamCena"
 	],
 	"teamcheco": [
-		"Telcel_F1_2022"
+		"Telcel_F1_2022",
+		"Telcel_F1_2022_v2"
 	],
 	"teamchecoabudhabi": [
 		"TeamCheco_MX_2021"
+	],
+	"teamchecoar": [
+		"Telcel_F1_2022_v2"
 	],
 	"teamchecobrasil": [
 		"TeamCheco_MX_2021"
@@ -51962,7 +51968,8 @@
 		"TeamCheco_MX_2021"
 	],
 	"teamchecoméxico": [
-		"Telcel_F1_2022"
+		"Telcel_F1_2022",
+		"Telcel_F1_2022_v2"
 	],
 	"teamchecoqatar": [
 		"TeamCheco_MX_2021"

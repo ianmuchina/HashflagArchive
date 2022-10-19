@@ -41474,6 +41474,11 @@
 		"startingTimestampMs": "1665532800000",
 		"endingTimestampMs": "1667275140000"
 	},
+	"Telcel_F1_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Telcel_F1_2022_v2/Telcel_F1_2022_v2.png",
+		"startingTimestampMs": "1665532800000",
+		"endingTimestampMs": "1667275140000"
+	},
 	"TelefonicaMejorConectados_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/TelefonicaMejorConectados_2021/TelefonicaMejorConectados_2021.png",
 		"startingTimestampMs": "1627045200000",
