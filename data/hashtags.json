@@ -17108,7 +17108,8 @@
 		"F150Lightning_May_2021_2"
 	],
 	"f1esta": [
-		"MexicoGP_2021_F1ESTA"
+		"MexicoGP_2021_F1ESTA",
+		"Mexicos_Grand_Prix_F1ESTA_Sept_2022"
 	],
 	"f1estaofficer": [
 		"MexicoGP_2021_F1estaOfficer"
@@ -28638,7 +28639,8 @@
 		"Sarkodie_Jamz_Album_Sept_2022"
 	],
 	"labandaverde": [
-		"MexicoGP_2021_LaBandaVerde"
+		"MexicoGP_2021_LaBandaVerde",
+		"Mexicos_Grand_Prix_LaBandaVerde_Sept_2022"
 	],
 	"labanphi": [
 		"Paralympics_2021_PHI"
@@ -32949,6 +32951,9 @@
 		"Nintendo_POLE_Sept2020",
 		"NintendoMario_GB_2021"
 	],
+	"marioachi": [
+		"Mexicos_Grand_Prix_MarioAchi_Sept_2022"
+	],
 	"mariobrosmovie": [
 		"Mario_Movie_2022"
 	],
@@ -34110,7 +34115,11 @@
 		"Navidad_en_la_CDMX_2021"
 	],
 	"mexicogp": [
-		"MexicoGP_2021"
+		"MexicoGP_2021",
+		"Mexicos_Grand_Prix_MexicoGP_Sept_2022"
+	],
+	"mexicogp60": [
+		"Mexicos_Grand_Prix_MexicoGP60_Sept_2022"
 	],
 	"mexicomanda": [
 		"Corona_Yo_Mando_Sept_2022"
@@ -36264,6 +36273,9 @@
 	],
 	"méquizicedosbrothers": [
 		"McDonalds_BBB_22_2022"
+	],
+	"méxicogp": [
+		"Mexicos_Grand_Prix_MexicoGP_Sept_2022"
 	],
 	"méxicomanda": [
 		"Corona_Yo_Mando_Sept_2022"
@@ -39359,7 +39371,8 @@
 		"Oreo_Castelo_Celeste_Sept_2022"
 	],
 	"orgu11omexicano": [
-		"MexicoGP_2021_Orgu11oMexicano"
+		"MexicoGP_2021_Orgu11oMexicano",
+		"Mexicos_Grand_Prix_Orgu11oMexicano_Sept_2022"
 	],
 	"orgulho365": [
 		"Parada_SP_Jun_2022_add2"
