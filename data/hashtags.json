@@ -12694,6 +12694,9 @@
 		"Olympics_Countries_2021_DEN",
 		"Womens_Euros_DEN_2022"
 	],
+	"denaliofevs": [
+		"GMC_Sierra_BET_Oct_2022"
+	],
 	"denimandrhinestones": [
 		"CarrieUnderwood"
 	],
@@ -18328,6 +18331,9 @@
 	"florayulisesdisneyplus": [
 		"Disney_FloraUlysses_Squirrel_2021"
 	],
+	"floresnogloboplay": [
+		"globoplay_Todas_As_Flores_Oct_2022"
+	],
 	"flowersforvases": [
 		"HayleyWilliams_2021"
 	],
@@ -20511,6 +20517,12 @@
 	],
 	"gmcsierradenali": [
 		"GMCSierra_Oct_2021"
+	],
+	"gmcsierraev": [
+		"GMC_Sierra_BET_Oct_2022"
+	],
+	"gmcsierraevdenali": [
+		"GMC_Sierra_BET_Oct_2022"
 	],
 	"gmcyukon": [
 		"GMC_Yukon_WorldsBiggestTweet_2020_v2",
@@ -25117,7 +25129,8 @@
 		"NBAonTNT2020",
 		"NBAonTNT_2021",
 		"NBAPlayoffsonTNT_2021",
-		"Turner_TNT_NBA_Playoffs_2022"
+		"Turner_TNT_NBA_Playoffs_2022",
+		"Turner_NBA_on_TNT_Oct_2022"
 	],
 	"insiemepossiamo": [
 		"MentalHealthMonth_2021_add2"
@@ -36715,7 +36728,8 @@
 		"NBAonTNT2020",
 		"NBAonTNT_2021",
 		"NBAPlayoffsonTNT_2021",
-		"Turner_TNT_NBA_Playoffs_2022"
+		"Turner_TNT_NBA_Playoffs_2022",
+		"Turner_NBA_on_TNT_Oct_2022"
 	],
 	"nbaplayoffs": [
 		"NBAPlayoffs_2020"
@@ -48180,6 +48194,9 @@
 	"sierradenali": [
 		"GMCSierra_Oct_2021"
 	],
+	"sierraevdenali": [
+		"GMC_Sierra_BET_Oct_2022"
+	],
 	"sierrasix": [
 		"Netflix_The_Gray_Man_RyanGosling_May_2022"
 	],
@@ -53353,6 +53370,9 @@
 	"thedawnoftheseven": [
 		"Prime_Video_The_Boys_DawnoftheSeven_May_2022"
 	],
+	"thedenaliofevs": [
+		"GMC_Sierra_BET_Oct_2022"
+	],
 	"thedisneybundle": [
 		"Disney_TheStreamer_2021"
 	],
@@ -55453,6 +55473,9 @@
 	],
 	"todaluzafronta": [
 		"Release_Felipe_Ret_Jun_2022"
+	],
+	"todasasflores": [
+		"globoplay_Todas_As_Flores_Oct_2022"
 	],
 	"todasasmulheres": [
 		"EveryWoman_2020"
