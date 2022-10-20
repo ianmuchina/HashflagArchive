@@ -13369,6 +13369,11 @@
 		"startingTimestampMs": "1663113600000",
 		"endingTimestampMs": "1672420500000"
 	},
+	"Fiat_Fastback_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Fiat_Fastback_Oct_2022/Fiat_Fastback_Oct_2022.png",
+		"startingTimestampMs": "1666299000000",
+		"endingTimestampMs": "1672519800000"
+	},
 	"Fiat_Pulse_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Fiat_Pulse_2021/Fiat_Pulse_2021.png",
 		"startingTimestampMs": "1637910000000",

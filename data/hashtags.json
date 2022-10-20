@@ -38117,6 +38117,9 @@
 	"novocitroënc3": [
 		"Citroen_C3_Sept_2022"
 	],
+	"novofiatfastback": [
+		"Fiat_Fastback_Oct_2022"
+	],
 	"novosmutantes": [
 		"Disney_NewMutants_2020_NM"
 	],
@@ -46395,6 +46398,15 @@
 		"Salesforce_Global_World_Tour_2022_v2",
 		"Salesforce_Tour_May_2022"
 	],
+	"saltodecategoria": [
+		"Fiat_Fastback_Oct_2022"
+	],
+	"saltofiatfastback": [
+		"Fiat_Fastback_Oct_2022"
+	],
+	"saltogigantesco": [
+		"Fiat_Fastback_Oct_2022"
+	],
 	"saludmental": [
 		"WorldMentalHealthDay_2020",
 		"MentalHealthMonth_2021",
@@ -51233,6 +51245,9 @@
 	],
 	"survivorstakeall": [
 		"Netflix_ArmyOfTheDead_2021"
+	],
+	"suvcoupefiat": [
+		"Fiat_Fastback_Oct_2022"
 	],
 	"suïcidepreventie": [
 		"WorldSuicidePreventionDay_2021",
