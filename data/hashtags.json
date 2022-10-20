@@ -4010,6 +4010,9 @@
 	"askmeg": [
 		"MegTheeStallion_GoodNews_H_all"
 	],
+	"askmeghan": [
+		"MeghanTrainor"
+	],
 	"askmgk": [
 		"MGK_2020"
 	],
@@ -28290,6 +28293,9 @@
 	"kleineleia": [
 		"Disneyplus_Obi_Wan_Kenobi_Leia_May_2022_add"
 	],
+	"klikfilmwcw": [
+		"Jakarta_World_Cinema_Week_Oct_2022"
+	],
 	"klimaaktion": [
 		"EarthDay_2021_add2"
 	],
@@ -32390,6 +32396,9 @@
 	"madetough": [
 		"BigBashLeague_2020_MADETOUGH"
 	],
+	"madeyoulook": [
+		"MeghanTrainor"
+	],
 	"madinatotheuniverse": [
 		"Manifest_MTTU_Album_2021"
 	],
@@ -33695,6 +33704,9 @@
 	],
 	"megantheestallionamas": [
 		"AMAsArtist_2021_BTSMeganTheeStallion"
+	],
+	"meghantrainor": [
+		"MeghanTrainor"
 	],
 	"megistus": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Mona"
@@ -51644,6 +51656,9 @@
 		"Blackbirds_Tentpole_2022",
 		"Blackbirds_Tentpole_2022_v2"
 	],
+	"takinitback": [
+		"MeghanTrainor"
+	],
 	"takjil": [
 		"Ramadan_2021_SunsetSunrise",
 		"Ramadan_SunsetSunrise_2022"
@@ -59435,6 +59450,12 @@
 	"wcpgw": [
 		"DominicFike_2020"
 	],
+	"wcwdicgv": [
+		"Jakarta_World_Cinema_Week_Oct_2022"
+	],
+	"wcwklikfilm": [
+		"Jakarta_World_Cinema_Week_Oct_2022"
+	],
 	"wdw": [
 		"DisneyParks_MickeyEars_2020_Flight5_V2",
 		"DisneyParks_MickeyEars_Flight4_Update",
@@ -61095,6 +61116,9 @@
 	],
 	"worldcancerday2021": [
 		"WorldCancerDay2021"
+	],
+	"worldcinemaweek2022": [
+		"Jakarta_World_Cinema_Week_Oct_2022"
 	],
 	"worldenvironmentday": [
 		"WorldEnvironmentDay_2021",

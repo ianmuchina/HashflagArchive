@@ -19249,6 +19249,11 @@
 		"startingTimestampMs": "1622592000000",
 		"endingTimestampMs": "1630540800000"
 	},
+	"Jakarta_World_Cinema_Week_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Jakarta_World_Cinema_Week_Oct_2022/Jakarta_World_Cinema_Week_Oct_2022.png",
+		"startingTimestampMs": "1666285200000",
+		"endingTimestampMs": "1667235540000"
+	},
 	"JamesArthur_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/JamesArthur_2021/JamesArthur_2021.png",
 		"startingTimestampMs": "1636092000000",
@@ -26253,6 +26258,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Megadeth/Megadeth.png",
 		"startingTimestampMs": "1662146400000",
 		"endingTimestampMs": "1664668800000"
+	},
+	"MeghanTrainor": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MeghanTrainor/MeghanTrainor.png",
+		"startingTimestampMs": "1666240200000",
+		"endingTimestampMs": "1668902400000"
 	},
 	"Megido_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Megido_2020/Megido_2020.png",
