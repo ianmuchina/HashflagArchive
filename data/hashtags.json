@@ -5470,6 +5470,9 @@
 	"bc21": [
 		"BreedersCup_2021_v2"
 	],
+	"bc22": [
+		"The_Breeders_Cup_World_Championships_Trophy_Oct_2022"
+	],
 	"bcespoirfukash": [
 		"BasketBall_Africa_League_BcEspoirFukash_2022"
 	],
@@ -7571,7 +7574,8 @@
 	],
 	"breederscup": [
 		"BreedersCup_2021_v2",
-		"BreedersCup_2020"
+		"BreedersCup_2020",
+		"The_Breeders_Cup_World_Championships_Trophy_Oct_2022"
 	],
 	"brendanfraser": [
 		"HBOMaxDoomPatrol_2021_BrendanFraserRileyShanahan"
