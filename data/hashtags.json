@@ -37,6 +37,9 @@
 	"100añosgloriosos": [
 		"CentenarioClub_DeportivoAlaves_2021"
 	],
+	"100billion_destination": [
+		"Masar_Oct_2022"
+	],
 	"100daystoeurovision": [
 		"100DaysToEurovision"
 	],
@@ -11805,6 +11808,12 @@
 	"dadstopnetflix": [
 		"DadStopEmbarrassingMeNetflix_2021"
 	],
+	"daejong": [
+		"KMOVIE_DAEJONG_Award_Oct_2022"
+	],
+	"daejong_award": [
+		"KMOVIE_DAEJONG_Award_Oct_2022"
+	],
 	"daemonapp": [
 		"HisDarkMaterials_Season2_2_2020"
 	],
@@ -13739,6 +13748,9 @@
 	"disneyplusmy": [
 		"DisneyPlusHotstarMalaysia_2021"
 	],
+	"disneyplusph": [
+		"Disney_PH_Platform_Launch_2022_v2"
+	],
 	"disneyplussg": [
 		"Disney_SGPlatform_Launch_2021"
 	],
@@ -15489,6 +15501,9 @@
 	],
 	"ecfontnt": [
 		"NBAPlayoffsonTNT_2021"
+	],
+	"echocalypse": [
+		"Youzu_echocalypse_jp_Oct_2022"
 	],
 	"echoke": [
 		"Davido10YearAnniversary_2021_2"
@@ -22397,6 +22412,9 @@
 	"happy_boa_20th_anniversary": [
 		"KPOP_BoA_20th_Anniversary_logo_v2"
 	],
+	"happy_chilland7day": [
+		"JYPE_TWICE_7th_Anniversary_Oct_2022"
+	],
 	"happybirthdayalexa": [
 		"AlexaTurns7_2021"
 	],
@@ -24720,6 +24738,9 @@
 	"imaginedragons": [
 		"Imagine_Dragons_Album_2021_Emoji"
 	],
+	"imaginemore": [
+		"Disney_PH_Platform_Launch_2022_v2"
+	],
 	"imaginequeépossível": [
 		"TIMOlimpiadas2021"
 	],
@@ -25762,7 +25783,8 @@
 	"itvpeston": [
 		"Peston_Sept_2021",
 		"Peston_H2_2022",
-		"Peston_UK_April_2021"
+		"Peston_UK_April_2021",
+		"Peston_Q4_Oct_2022"
 	],
 	"itwillallmakesense": [
 		"SmallGod_Connecting_The_Dots_Album_May_2022"
@@ -33136,6 +33158,9 @@
 		"Netflix_OverTheMoon_2020_H3",
 		"Netlix_OverTheMoon_2020_2_BL"
 	],
+	"masar_destination": [
+		"Masar_Oct_2022"
+	],
 	"mascaedestrava": [
 		"Trident_BR_2020",
 		"Trident_BR_2020_fix",
@@ -36161,6 +36186,9 @@
 	"mymcdonaldsrewards": [
 		"McDonalds_MMR_Jul_2022"
 	],
+	"mymindandme": [
+		"ATVplus_My_Mind_Oct_2022"
+	],
 	"mymodernlove": [
 		"AmazonStudios_ModernLove_2021"
 	],
@@ -38115,6 +38143,24 @@
 	"ns10v10": [
 		"NoSignal_NS10V10"
 	],
+	"nsmq2022": [
+		"NSMQ_Oct_2022"
+	],
+	"nsmqfinal": [
+		"NSMQ_Oct_2022"
+	],
+	"nsmqoneeighth": [
+		"NSMQ_Oct_2022"
+	],
+	"nsmqprelims": [
+		"NSMQ_Oct_2022"
+	],
+	"nsmqquarters": [
+		"NSMQ_Oct_2022"
+	],
+	"nsmqsemis": [
+		"NSMQ_Oct_2022"
+	],
 	"nsredforce": [
 		"LCK_Team_NSR_2022"
 	],
@@ -38861,6 +38907,9 @@
 	],
 	"oncapintada": [
 		"ProtetoresDaAmazonia_2021_oncapintada"
+	],
+	"once_halloween3": [
+		"JYPE_TWICE_7th_Anniversary_Oct_2022"
 	],
 	"oncealways": [
 		"OrlandoPirates_Jersey_2020"
@@ -41274,7 +41323,8 @@
 		"Peston_H2_2022",
 		"Peston_UK_April_2021",
 		"Peston_Q4_2020",
-		"Peston_Q2_2020"
+		"Peston_Q2_2020",
+		"Peston_Q4_Oct_2022"
 	],
 	"petealonso": [
 		"MLBHRDerby2021-Mets"
@@ -56518,7 +56568,11 @@
 		"Kpop_VIT_TWICE_June_2021",
 		"KPOP_GetTheFeelsWithTWICE_2021_Twice",
 		"KPOP_TWICE_2020",
-		"TWICE_11th_mini_album_1_Aug_2022"
+		"TWICE_11th_mini_album_1_Aug_2022",
+		"JYPE_TWICE_7th_Anniversary_Oct_2022"
+	],
+	"twice_7th_anniversary": [
+		"JYPE_TWICE_7th_Anniversary_Oct_2022"
 	],
 	"twiceastall": [
 		"BurnaBoy_2020"
@@ -64887,7 +64941,8 @@
 		"Netlix_OverTheMoon_2020_2_BL"
 	],
 	"في_حب_مكة": [
-		"masarMakkah_Apr_2022"
+		"masarMakkah_Apr_2022",
+		"Masar_Oct_2022"
 	],
 	"فیلترنت": [
 		"KeepItOn_InternetShutdown_2021",
@@ -65395,8 +65450,12 @@
 	"وثيقة_مكة_المكرمة": [
 		"CharterofMakkah_2021"
 	],
+	"وجهة_المئة_مليار": [
+		"Masar_Oct_2022"
+	],
 	"وجهة_مسار": [
-		"masarMakkah_Apr_2022"
+		"masarMakkah_Apr_2022",
+		"Masar_Oct_2022"
 	],
 	"ورلڈ_ہیلتھ_ڈے": [
 		"StayHome_2020_ItalianAdd",
@@ -69173,6 +69232,15 @@
 	],
 	"エイムズ": [
 		"NHN_PlayArt_AIMS_51_Dec_2020"
+	],
+	"エコカリ": [
+		"Youzu_echocalypse_jp_Oct_2022"
+	],
+	"エコカリケモノ娘発見": [
+		"Youzu_echocalypse_jp_Oct_2022"
+	],
+	"エコカリプス": [
+		"Youzu_echocalypse_jp_Oct_2022"
 	],
 	"エスプレッソ": [
 		"CRkingdomJP_Q3_2021_5"
@@ -76184,6 +76252,9 @@
 	"進めそっちだ": [
 		"KDDI_NEW_YEARS_2022_v2"
 	],
+	"進化体": [
+		"Youzu_echocalypse_jp_Oct_2022"
+	],
 	"遊戯王クイズ": [
 		"YuGiOh_DL_INFO_YamiYugi_Jan_2021"
 	],
@@ -76959,6 +77030,12 @@
 	],
 	"대선": [
 		"Korea_Presidential_Election_2022"
+	],
+	"대종상": [
+		"KMOVIE_DAEJONG_Award_Oct_2022"
+	],
+	"대종상영화제": [
+		"KMOVIE_DAEJONG_Award_Oct_2022"
 	],
 	"대통령선거": [
 		"Korea_Presidential_Election_2022"
@@ -79402,7 +79479,8 @@
 		"Kpop_VIT_TWICE_June_2021",
 		"KPOP_GetTheFeelsWithTWICE_2021_Twice",
 		"KPOP_TWICE_2020",
-		"TWICE_11th_mini_album_1_Aug_2022"
+		"TWICE_11th_mini_album_1_Aug_2022",
+		"JYPE_TWICE_7th_Anniversary_Oct_2022"
 	],
 	"트위터포굿": [
 		"TwitterForGood_Refresh_2021",
