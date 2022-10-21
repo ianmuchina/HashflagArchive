@@ -69127,6 +69127,9 @@
 	"アニメsao10周年": [
 		"SWORD_ART_ONLINE_10th_Anniversary_Aug_2022"
 	],
+	"アニメアークナイツ": [
+		"yostar_Arknights_Oct_2022"
+	],
 	"アニメオルサガ": [
 		"Hortensia_R_PR_Feb_2021"
 	],
@@ -69222,7 +69225,8 @@
 		"Yostar_ArknightsStaff_July_2021",
 		"Yostar_ArknightsStaff_Oct_2021",
 		"Yostar_ArknightsStaff_April_2021",
-		"Arknights_Jan_2021"
+		"Arknights_Jan_2021",
+		"yostar_Arknights_Oct_2022"
 	],
 	"アークナイツ1周年": [
 		"Arknights_Jan_2021"
@@ -69248,10 +69252,14 @@
 		"Yostar_ArknightsStaff_July_2021",
 		"Yostar_ArknightsStaff_Oct_2021",
 		"Yostar_ArknightsStaff_April_2021",
-		"Arknights_Jan_2021"
+		"Arknights_Jan_2021",
+		"yostar_Arknights_Oct_2022"
 	],
 	"アークナイツ秋感謝祭": [
 		"Yostar_ArknightsStaff_Oct_2021"
+	],
+	"アークナイツ黎明前奏": [
+		"yostar_Arknights_Oct_2022"
 	],
 	"アーサーハロウ": [
 		"DisneyPlus_Moon_Knight_ArthurHarrow_Mar_2022"
@@ -76787,6 +76795,9 @@
 	"黄旭熙": [
 		"KPOP_NCT_2020_P2_LUCAS",
 		"KPOP_NCT_2020_LUCAS"
+	],
+	"黎明前奏": [
+		"yostar_Arknights_Oct_2022"
 	],
 	"黒い炎のロウソク": [
 		"Disneyplus_Hocus_Pocus_2_Black_Flame_Candle_2022"
