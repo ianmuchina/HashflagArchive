@@ -15579,6 +15579,16 @@
 		"startingTimestampMs": "1651762800000",
 		"endingTimestampMs": "1667275140000"
 	},
+	"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Rhaeynra_Oct_2022/HBO_House_of_the_Dragon_Rhaeynra_Oct_2022.png",
+		"startingTimestampMs": "1651762800000",
+		"endingTimestampMs": "1666576740000"
+	},
+	"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Rhaeynra_Oct_2022_v2/HBO_House_of_the_Dragon_Rhaeynra_Oct_2022_v2.png",
+		"startingTimestampMs": "1651762800000",
+		"endingTimestampMs": "1667275140000"
+	},
 	"HBO_House_of_the_Dragon_Seasmoke_Dragon_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_Seasmoke_Dragon_Sept_2022/HBO_House_of_the_Dragon_Seasmoke_Dragon_Sept_2022.png",
 		"startingTimestampMs": "1662253200000",
@@ -46563,6 +46573,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022/YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022.png",
 		"startingTimestampMs": "1660834800000",
 		"endingTimestampMs": "1664550000000"
+	},
+	"YG_ent_BLACKPINK_NEW_ALBUM_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/YG_ent_BLACKPINK_NEW_ALBUM_Oct_2022/YG_ent_BLACKPINK_NEW_ALBUM_Oct_2022.png",
+		"startingTimestampMs": "1666310400000",
+		"endingTimestampMs": "1674140400000"
 	},
 	"YOUNGJAE_SUGAR_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/YOUNGJAE_SUGAR_Jun_2022/YOUNGJAE_SUGAR_Jun_2022.png",

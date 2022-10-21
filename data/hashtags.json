@@ -6820,7 +6820,14 @@
 		"KPOP_BLACKPINK_2020",
 		"KPOP_BLACKPINK_2020_ext",
 		"KPOP_BLACKPINK_THEALBUM_2020_BLACKPINK",
-		"YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022"
+		"YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022",
+		"YG_ent_BLACKPINK_NEW_ALBUM_Oct_2022"
+	],
+	"blackpink_bornpink": [
+		"YG_ent_BLACKPINK_NEW_ALBUM_Oct_2022"
+	],
+	"blackpink_worldtour": [
+		"YG_ent_BLACKPINK_NEW_ALBUM_Oct_2022"
 	],
 	"blackpinkditokopediawib": [
 		"Tokopedia_WIB_2020"
@@ -7365,7 +7372,8 @@
 		"LukeBryan_April_2021"
 	],
 	"bornpink": [
-		"YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022"
+		"YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022",
+		"YG_ent_BLACKPINK_NEW_ALBUM_Oct_2022"
 	],
 	"bornthisway": [
 		"Lady_Gaga_BTW_Anniversary_2021",
@@ -42898,7 +42906,8 @@
 		"DisneyPlus_The_Princess_2022_v2"
 	],
 	"princessrhaenyra": [
-		"HBO_House_of_the_Dragon_Rhaeynra_May_2022"
+		"HBO_House_of_the_Dragon_Rhaeynra_May_2022",
+		"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022_v2"
 	],
 	"principecercafiglio": [
 		"AmazonStudios_ComingtoAmerica_Feb_2021"
@@ -45084,13 +45093,16 @@
 		"AMZ_RG_May_2022"
 	],
 	"rhaenyra": [
-		"HBO_House_of_the_Dragon_Rhaeynra_May_2022"
+		"HBO_House_of_the_Dragon_Rhaeynra_May_2022",
+		"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022"
 	],
 	"rhaenyratargaryen": [
-		"HBO_House_of_the_Dragon_Rhaeynra_May_2022"
+		"HBO_House_of_the_Dragon_Rhaeynra_May_2022",
+		"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022"
 	],
 	"rhaenyratargaryenhotd": [
-		"HBO_House_of_the_Dragon_Rhaeynra_May_2022"
+		"HBO_House_of_the_Dragon_Rhaeynra_May_2022",
+		"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022_v2"
 	],
 	"rhaenys": [
 		"HBO_House_of_the_Dragon_Rhaenys_May_2022"
@@ -54309,7 +54321,8 @@
 		"RHOSLC_2021"
 	],
 	"therealmsdelight": [
-		"HBO_House_of_the_Dragon_Rhaeynra_May_2022"
+		"HBO_House_of_the_Dragon_Rhaeynra_May_2022",
+		"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022_v2"
 	],
 	"therealworld": [
 		"realworld_2021"
@@ -78006,7 +78019,8 @@
 		"KPOP_BLACKPINK_2020",
 		"KPOP_BLACKPINK_THEALBUM_2020",
 		"KPOP_BLACKPINK_2020_ext",
-		"YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022"
+		"YG_ent_BLACKPINK_NEW_ALBUM_Aug_2022",
+		"YG_ent_BLACKPINK_NEW_ALBUM_Oct_2022"
 	],
 	"블루아카": [
 		"BlueArchiveLaunching_Nov2021_Aru",
