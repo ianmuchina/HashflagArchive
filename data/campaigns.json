@@ -3239,6 +3239,11 @@
 		"startingTimestampMs": "1642060800000",
 		"endingTimestampMs": "1672559940000"
 	},
+	"Audi_Summit_for_Progress_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Audi_Summit_for_Progress_Oct_2022/Audi_Summit_for_Progress_Oct_2022.png",
+		"startingTimestampMs": "1666396800000",
+		"endingTimestampMs": "1672527540000"
+	},
 	"AudibleCA_Audible_x_Sidney_Crosby_Campaign_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AudibleCA_Audible_x_Sidney_Crosby_Campaign_2022/AudibleCA_Audible_x_Sidney_Crosby_Campaign_2022.png",
 		"startingTimestampMs": "1646438400000",
@@ -27538,6 +27543,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/NBATopShotThis_2021/NBATopShotThis_2021.png",
 		"startingTimestampMs": "1621900800000",
 		"endingTimestampMs": "1627801140000"
+	},
+	"NBATopShot_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBATopShot_Oct_2022/NBATopShot_Oct_2022.png",
+		"startingTimestampMs": "1666396800000",
+		"endingTimestampMs": "1688191200000"
 	},
 	"NBATwitterLive_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NBATwitterLive_2021/NBATwitterLive_2021.png",

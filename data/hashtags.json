@@ -4434,6 +4434,9 @@
 	"audiotechnica": [
 		"AudioTechnicaJP_XmasBox_2021"
 	],
+	"audisummit": [
+		"Audi_Summit_for_Progress_Oct_2022"
+	],
 	"aufgehtsdhb": [
 		"Handball_WorldCup_Egypt_2021_GER"
 	],
@@ -36878,9 +36881,13 @@
 	"nbarestartontnt": [
 		"NBAonTNT_2020"
 	],
+	"nbatopshot50": [
+		"NBATopShot_Oct_2022"
+	],
 	"nbatopshotthis": [
 		"TopShot2021-22",
-		"NBATopShotThis_2021"
+		"NBATopShotThis_2021",
+		"NBATopShot_Oct_2022"
 	],
 	"nbatwitter": [
 		"NBATwitter_2018_RefreshEmoji",
