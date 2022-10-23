@@ -23959,6 +23959,11 @@
 		"startingTimestampMs": "1624377600000",
 		"endingTimestampMs": "1632325500000"
 	},
+	"MEGMILK_SNOW_BRAND_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MEGMILK_SNOW_BRAND_Oct_2022/MEGMILK_SNOW_BRAND_Oct_2022.png",
+		"startingTimestampMs": "1666537200000",
+		"endingTimestampMs": "1669042740000"
+	},
 	"MGK_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/MGK_2020/MGK_2020.png",
 		"startingTimestampMs": "1601449260000",
@@ -43913,6 +43918,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/UdonMarugameJune2020/UdonMarugameJune2020.png",
 		"startingTimestampMs": "1592006400000",
 		"endingTimestampMs": "1599696000000"
+	},
+	"Ueno_Zoo_Panda_Sept_2022_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ueno_Zoo_Panda_Sept_2022_v3/Ueno_Zoo_Panda_Sept_2022_v3.png",
+		"startingTimestampMs": "1666536600000",
+		"endingTimestampMs": "1667142000000"
 	},
 	"UltimateSummit3_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/UltimateSummit3_2021/UltimateSummit3_2021.png",
