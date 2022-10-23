@@ -1,7 +1,8 @@
 {
 	"": [
 		"Paralympics_Sports_2021_ParaTaekwondo",
-		"Test191021_1"
+		"Test191021_1",
+		"India_State_elections_Oct_2022"
 	],
 	"\u0008装甲娘": [
 		"DMM_soukoumusume_2020"
@@ -3588,8 +3589,12 @@
 	"aria": [
 		"YERIN_May_2022"
 	],
+	"ariaawards": [
+		"ARIA_Awards_Oct_2022_v2"
+	],
 	"arias": [
-		"ARIAs_2020"
+		"ARIAs_2020",
+		"ARIA_Awards_Oct_2022_v2"
 	],
 	"arkesiahero": [
 		"AGS_PlayLostArk_2021_MokokoSeed",
@@ -4203,13 +4208,15 @@
 		"IndiaStateElections_2021"
 	],
 	"assemblyelections2022": [
-		"India_State_Elections_2022"
+		"India_State_Elections_2022",
+		"India_State_elections_Oct_2022"
 	],
 	"assemblypolls2021": [
 		"IndiaStateElections_2021"
 	],
 	"assemblypolls2022": [
-		"India_State_Elections_2022"
+		"India_State_Elections_2022",
+		"India_State_elections_Oct_2022"
 	],
 	"assistarainhadafavela": [
 		"RainhaDaFavela_2020"
@@ -21944,6 +21951,15 @@
 	"guitarlive": [
 		"GuitarLive_2020"
 	],
+	"gujaratassemblypolls": [
+		"India_State_elections_Oct_2022"
+	],
+	"gujaratelections": [
+		"India_State_elections_Oct_2022"
+	],
+	"gujaratelections2022": [
+		"India_State_elections_Oct_2022"
+	],
 	"gulabositabo": [
 		"Gulabo2020"
 	],
@@ -23406,6 +23422,15 @@
 	],
 	"hijalalan2022": [
 		"Philippines_General_Elections_2_2022_add2"
+	],
+	"himachalpradeshassemblypolls": [
+		"India_State_elections_Oct_2022"
+	],
+	"himachalpradeshelections": [
+		"India_State_elections_Oct_2022"
+	],
+	"himachalpraeshelections2022": [
+		"India_State_elections_Oct_2022"
 	],
 	"himyf": [
 		"HIMYF_Subway_Feb_2022",
@@ -50413,7 +50438,8 @@
 		"IndiaStateElections_2021"
 	],
 	"stateelections2022": [
-		"India_State_Elections_2022"
+		"India_State_Elections_2022",
+		"India_State_elections_Oct_2022"
 	],
 	"stateofemergency": [
 		"AugustAlsina_2020"
@@ -66038,6 +66064,12 @@
 		"GandhiJayanti_2020",
 		"Gandhi_Jayanti_2022"
 	],
+	"गुजरातविधानसभाचुनाव": [
+		"India_State_elections_Oct_2022"
+	],
+	"गुजरातविधानसभाचुनाव२०२२": [
+		"India_State_elections_Oct_2022"
+	],
 	"गुलाल": [
 		"Holi_2022"
 	],
@@ -66334,13 +66366,15 @@
 	],
 	"विधानसभाचुनाव": [
 		"India_State_Elections_2022",
-		"IndiaStateElections_2021"
+		"IndiaStateElections_2021",
+		"India_State_elections_Oct_2022"
 	],
 	"विधानसभाचुनाव2021": [
 		"IndiaStateElections_2021"
 	],
 	"विधानसभाचुनाव2022": [
-		"India_State_Elections_2022"
+		"India_State_Elections_2022",
+		"India_State_elections_Oct_2022"
 	],
 	"विधानसभावेंचणूक": [
 		"India_State_Elections_2022"
@@ -66494,6 +66528,15 @@
 	"हाथधोलेना": [
 		"WHO_SafeHands_2020",
 		"WHO_SafeHands_2020_add1"
+	],
+	"हिमाचलप्रदेशचुनाव": [
+		"India_State_elections_Oct_2022"
+	],
+	"हिमाचलप्रदेशविधानसभाचुनाव": [
+		"India_State_elections_Oct_2022"
+	],
+	"हिमाचलप्रदेशविधानसभाचुनाव2022": [
+		"India_State_elections_Oct_2022"
 	],
 	"हेझाले": [
 		"ThisHappened2020"
@@ -66690,6 +66733,15 @@
 		"GandhiJayanti_2021",
 		"GandhiJayanti_2020",
 		"Gandhi_Jayanti_2022"
+	],
+	"ગુજરાતચૂંટણી": [
+		"India_State_elections_Oct_2022"
+	],
+	"ગુજરાતવિધાનસભાચૂંટણી": [
+		"India_State_elections_Oct_2022"
+	],
+	"ગુજરાતવિધાનસભાચૂંટણી2022": [
+		"India_State_elections_Oct_2022"
 	],
 	"ઘરેજરહો": [
 		"StayHome_2020_ItalianAdd",

@@ -1229,6 +1229,11 @@
 		"startingTimestampMs": "1600401600000",
 		"endingTimestampMs": "1604030400000"
 	},
+	"ARIA_Awards_Oct_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ARIA_Awards_Oct_2022_v2/ARIA_Awards_Oct_2022_v2.png",
+		"startingTimestampMs": "1666483860000",
+		"endingTimestampMs": "1672535460000"
+	},
 	"ARIAs_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ARIAs_2020/ARIAs_2020.png",
 		"startingTimestampMs": "1606204800000",
@@ -18818,6 +18823,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/India_State_Elections_2022_add/India_State_Elections_2022_add.png",
 		"startingTimestampMs": "1641927600000",
 		"endingTimestampMs": "1648733940000"
+	},
+	"India_State_elections_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/India_State_elections_Oct_2022/India_State_elections_Oct_2022.png",
+		"startingTimestampMs": "1666493220000",
+		"endingTimestampMs": "1670640420000"
 	},
 	"IndigenousHistoryMonth_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/IndigenousHistoryMonth_2021/IndigenousHistoryMonth_2021.png",
