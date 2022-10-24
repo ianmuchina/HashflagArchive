@@ -5879,6 +5879,9 @@
 	"benandbentowol": [
 		"Sony_Music_BenandBen_The_Ones_We_Once_Loved_1_Aug_2022"
 	],
+	"benditachampions": [
+		"HBO_Max_Champions_League_Oct_2022"
+	],
 	"benee": [
 		"Benee_2020"
 	],
@@ -8226,7 +8229,8 @@
 		"YellowstoneS4_2021_2",
 		"YellowstoneS4_2021_all",
 		"YellowstoneS4_2021_1",
-		"ParamountNetwork_Yellowstone_2020"
+		"ParamountNetwork_Yellowstone_2020",
+		"Paramount_Network_Yellowstone_S5_Oct_2022"
 	],
 	"buonefeste": [
 		"HappyHolidays_Dec_2020"
@@ -8991,6 +8995,9 @@
 	],
 	"casaatreides": [
 		"DuneCharacter_2021_DuncanIdaho"
+	],
+	"casadachampions": [
+		"HBO_Max_Champions_League_Oct_2022"
 	],
 	"casaharkonnen": [
 		"DuneCharacter_2021_Beast",
@@ -26836,7 +26843,8 @@
 	],
 	"johndutton": [
 		"YellowstoneS4_2021_2",
-		"ParamountNetwork_Yellowstone_2020"
+		"ParamountNetwork_Yellowstone_2020",
+		"Paramount_Network_Yellowstone_S5_Oct_2022"
 	],
 	"johneconomos": [
 		"HBO_Max_Peacemaker_S1_Part2_Economos_2022"
@@ -28925,6 +28933,9 @@
 	"lacervezamásfina": [
 		"Corona_Oasis_2020"
 	],
+	"lachampionsenhbomax": [
+		"HBO_Max_Champions_League_Oct_2022"
+	],
 	"lachaussette": [
 		"Apple_LJC_FR_2020"
 	],
@@ -29167,6 +29178,15 @@
 	],
 	"laolaparalímpica": [
 		"Paralympics_2021_MEX"
+	],
+	"lapremierenparamount": [
+		"ParamountPlusLA_EPL_Oct_2022"
+	],
+	"lapremierleague": [
+		"ParamountPlusLA_EPL_Oct_2022"
+	],
+	"lapremierporparamount": [
+		"ParamountPlusLA_EPL_Oct_2022"
 	],
 	"lapurgainfinita": [
 		"TheForeverPurge_2021_v2"
@@ -30352,7 +30372,8 @@
 		"YellowstoneS4_2021_2",
 		"YellowstoneS4_2021_all",
 		"YellowstoneS4_2021_1",
-		"ParamountNetwork_Yellowstone_2020"
+		"ParamountNetwork_Yellowstone_2020",
+		"Paramount_Network_Yellowstone_S5_Oct_2022"
 	],
 	"letsgowithcvs": [
 		"LetsGoWithCVS_May_2021"
@@ -30820,6 +30841,9 @@
 	],
 	"ligadossaboreslays": [
 		"LaysUEFAChampionsLeague_2021"
+	],
+	"ligapremier": [
+		"ParamountPlusLA_EPL_Oct_2022"
 	],
 	"ligaprofesional": [
 		"La_Liga_finale_2021",
@@ -52644,7 +52668,8 @@
 		"YellowstoneS4_2021_2",
 		"YellowstoneS4_2021_all",
 		"YellowstoneS4_2021_1",
-		"ParamountNetwork_Yellowstone_2020"
+		"ParamountNetwork_Yellowstone_2020",
+		"Paramount_Network_Yellowstone_S5_Oct_2022"
 	],
 	"teamroman": [
 		"WWE_Team_Roman_2022",
@@ -57030,6 +57055,9 @@
 		"RemembranceDay2021",
 		"RemembranceDay_2020"
 	],
+	"twst": [
+		"Twisted-wonderland_Halloween_Oct_2022"
+	],
 	"twsten": [
 		"Twisted_Wonderland_2nd_Anniversary_2022"
 	],
@@ -58531,6 +58559,9 @@
 	],
 	"vemcomcheetostiktok": [
 		"VemComCheetosTiktok_2021"
+	],
+	"vemdaraiz": [
+		"HBO_Max_Champions_League_Oct_2022"
 	],
 	"vemdeavon": [
 		"Avon_BBB22_Feb_2022",
@@ -62212,7 +62243,8 @@
 		"YellowstoneS4_2021_2",
 		"YellowstoneS4_2021_1",
 		"ParamountNetwork_Yellowstone_2020",
-		"YellowstoneS4_2021_2_BH"
+		"YellowstoneS4_2021_2_BH",
+		"Paramount_Network_Yellowstone_S5_Oct_2022"
 	],
 	"yem": [
 		"Olympics_Countries_2021_YEM",
@@ -70317,6 +70349,9 @@
 		"DisneyPlus_WimpyKid_CheeseTouch_2021_V2",
 		"DisneyPlus_WimpyKid_CheeseTouch_2021"
 	],
+	"グロリアスマスカレード": [
+		"Twisted-wonderland_Halloween_Oct_2022"
+	],
 	"グローグー": [
 		"DisneyPlus_BobaFett_Grogu_S1_2021"
 	],
@@ -71225,7 +71260,8 @@
 		"twst_jp_July_2020",
 		"TwistedWonderlandHalloween2021",
 		"JP_twst_jp10_31_2021Halloween",
-		"twst_jp_March_2021"
+		"twst_jp_March_2021",
+		"Twisted-wonderland_Halloween_Oct_2022"
 	],
 	"ツイステ1周年": [
 		"twst_jp_March_2021"
@@ -71235,12 +71271,14 @@
 	],
 	"ツイステッドワンダーランド": [
 		"Twisted_Wonderland_2nd_Anniversary_2022",
-		"Twisted_Wonderland_2nd_Anniversary_Mar_2022"
+		"Twisted_Wonderland_2nd_Anniversary_Mar_2022",
+		"Twisted-wonderland_Halloween_Oct_2022"
 	],
 	"ツイステハロウィーン": [
 		"twst_jp_emoji_2020_10_14",
 		"TwistedWonderlandHalloween2021",
-		"JP_twst_jp10_31_2021Halloween"
+		"JP_twst_jp10_31_2021Halloween",
+		"Twisted-wonderland_Halloween_Oct_2022"
 	],
 	"ティチャラ": [
 		"MarvelStudios_WhatIF_2021_TChallaStarLord_Updated"
