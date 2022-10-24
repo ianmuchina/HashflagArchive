@@ -23695,6 +23695,9 @@
 	"holi2022": [
 		"Holi_2022"
 	],
+	"holidaybakingchampionship": [
+		"Discovery_Food_Network_Holiday_Baking_Championship_Oct_2022"
+	],
 	"holidayplays": [
 		"AmazonMusicHolidayPlays2020",
 		"AmazonMusicHolidayPlays2020_v2"
@@ -23711,6 +23714,9 @@
 	],
 	"holidaysrightathome": [
 		"GlobeJackRussellQ42020"
+	],
+	"holidaywars": [
+		"Discovery_Food_Network_Holiday_Baking_Championship_Oct_2022"
 	],
 	"holifest": [
 		"Holi_2022"
@@ -28594,6 +28600,9 @@
 	],
 	"korkmuşpandamei": [
 		"Disney_Turning_Red_Red_Panda_Mei_Shocked_2022"
+	],
+	"kornackinightinamerica": [
+		"MSNBC_Midterms_Oct_2022"
 	],
 	"kortingvoorvasteklanten": [
 		"EnergievanVandaag_2020"
@@ -35940,6 +35949,9 @@
 	],
 	"msnbc2020": [
 		"MSNBC_Election_2020_peacock"
+	],
+	"msnbc2022": [
+		"MSNBC_Midterms_Oct_2022"
 	],
 	"msnbcdecision2020": [
 		"MSNBC_Election_2020_peacock"
@@ -45213,6 +45225,9 @@
 	"revolutionison": [
 		"Mondial_del_Auto_2022"
 	],
+	"revolutionkornacki": [
+		"MSNBC_Midterms_Oct_2022"
+	],
 	"revulutionize": [
 		"Revuto_Jul_2022"
 	],
@@ -50656,6 +50671,9 @@
 	],
 	"steveaustin": [
 		"AENWWE_Docuseries_2021"
+	],
+	"stevekornacki": [
+		"MSNBC_Midterms_Oct_2022"
 	],
 	"stiamoacasa": [
 		"StayHome_2020_ItalianAdd",
@@ -56213,7 +56231,8 @@
 	],
 	"trackingkornacki": [
 		"MSNBC_Election_2020_TrackingKornacki",
-		"MSNBC_Election_2020_TrackingKornacki_ext"
+		"MSNBC_Election_2020_TrackingKornacki_ext",
+		"MSNBC_Midterms_Oct_2022"
 	],
 	"tracymortgage": [
 		"RocketMortgage_SB_Spot_2021"

@@ -8974,6 +8974,11 @@
 		"startingTimestampMs": "1634194800000",
 		"endingTimestampMs": "1639555140000"
 	},
+	"Discovery_Food_Network_Holiday_Baking_Championship_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Discovery_Food_Network_Holiday_Baking_Championship_Oct_2022/Discovery_Food_Network_Holiday_Baking_Championship_Oct_2022.png",
+		"startingTimestampMs": "1666584000000",
+		"endingTimestampMs": "1674359940000"
+	},
 	"DisneuPlus_MonstersatWork_Helmet_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneuPlus_MonstersatWork_Helmet_2021/DisneuPlus_MonstersatWork_Helmet_2021.png",
 		"startingTimestampMs": "1625143500000",
@@ -25468,6 +25473,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/MSNBC_Election_2020_peacock/MSNBC_Election_2020_peacock.png",
 		"startingTimestampMs": "1600992000000",
 		"endingTimestampMs": "1605272400000"
+	},
+	"MSNBC_Midterms_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MSNBC_Midterms_Oct_2022/MSNBC_Midterms_Oct_2022.png",
+		"startingTimestampMs": "1666584000000",
+		"endingTimestampMs": "1674495060000"
 	},
 	"MTVAwards_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/MTVAwards_2021/MTVAwards_2021.png",
