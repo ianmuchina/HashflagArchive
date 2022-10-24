@@ -434,6 +434,9 @@
 	"2021한터뮤직어워즈": [
 		"Hanteo_Music_Awards_2021_v2"
 	],
+	"2022gee": [
+		"Global_Entertainment_Expo_Oct_2022"
+	],
 	"2022gmcsierra": [
 		"GMCSierra_Oct_2021"
 	],
@@ -454,6 +457,9 @@
 	],
 	"2022高校野球": [
 		"ABC_High_School_Baseball_Jul_2022"
+	],
+	"2022글로벌엔터테인먼트엑스포": [
+		"Global_Entertainment_Expo_Oct_2022"
 	],
 	"2022투표하세요": [
 		"Korea_Presidential_Election_2022"
@@ -3670,6 +3676,9 @@
 	],
 	"arrakis": [
 		"DuneCharacter_2021_Chani"
+	],
+	"arrax": [
+		"HBO_Arrax_Dragon_Oct_2022"
 	],
 	"array": [
 		"ARRAYNow_2020"
@@ -12727,6 +12736,9 @@
 		"SummerFestival_2020",
 		"SummerFestival_2020_add3"
 	],
+	"demdragons": [
+		"HBO_Caraxes_and_Vhagar_Oct_2022"
+	],
 	"demilovatonomultishow": [
 		"Multishow_Stage_1_Rock_in_Rio_Aug_2022"
 	],
@@ -14853,6 +14865,9 @@
 	],
 	"dragonrajasea": [
 		"DragonRajaSEA"
+	],
+	"dragonsyall": [
+		"HBO_Caraxes_and_Vhagar_Oct_2022"
 	],
 	"dragrace": [
 		"VH1_RuPauls_Drag_Race_2021",
@@ -20482,6 +20497,9 @@
 	"globalcitizenlive": [
 		"GlobalCitizenLive_2021"
 	],
+	"globalentertainemntexpo": [
+		"Global_Entertainment_Expo_Oct_2022"
+	],
 	"globalgreening": [
 		"St_Patricks_Day_2022",
 		"StPatricksDay_2021"
@@ -23954,6 +23972,9 @@
 	],
 	"hotddagger": [
 		"HBO_Catspaw_Dagger_Oct_2022"
+	],
+	"hotdfinale": [
+		"HBO_Queen_Rhaenyra_Oct_2022"
 	],
 	"hotdsdcc": [
 		"HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022"
@@ -32046,6 +32067,15 @@
 	"lucasfilm": [
 		"Disney_Super_Bowl_Storm_Trooper_2022"
 	],
+	"lucerys": [
+		"HBO_Arrax_Dragon_Oct_2022"
+	],
+	"lucerysdragon": [
+		"HBO_Arrax_Dragon_Oct_2022"
+	],
+	"lucerysvelaryon": [
+		"HBO_Arrax_Dragon_Oct_2022"
+	],
 	"luchemosjuntos": [
 		"Paralympics_2021_MEX"
 	],
@@ -32137,6 +32167,9 @@
 	],
 	"lukejovem": [
 		"Disneyplus_Obi_Wan_Kenobi_LukeSkywalker_Jun_2022"
+	],
+	"lukesdragon": [
+		"HBO_Arrax_Dragon_Oct_2022"
 	],
 	"lukeskywalker": [
 		"Disney_Maythe4th_2021_LukeSkywalker",
@@ -43709,6 +43742,9 @@
 	"queenramonda": [
 		"Disney_BlackPanther2_QueenRamonda"
 	],
+	"queenrhaenrya": [
+		"HBO_Queen_Rhaenyra_Oct_2022"
+	],
 	"queensabc": [
 		"QueensABC_2021"
 	],
@@ -45244,11 +45280,13 @@
 	],
 	"rhaenyra": [
 		"HBO_House_of_the_Dragon_Rhaeynra_May_2022",
-		"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022"
+		"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022",
+		"HBO_Queen_Rhaenyra_Oct_2022"
 	],
 	"rhaenyratargaryen": [
 		"HBO_House_of_the_Dragon_Rhaeynra_May_2022",
-		"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022"
+		"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022",
+		"HBO_Queen_Rhaenyra_Oct_2022"
 	],
 	"rhaenyratargaryenhotd": [
 		"HBO_House_of_the_Dragon_Rhaeynra_May_2022",
@@ -53413,6 +53451,9 @@
 	"theblackphoneondemand": [
 		"UniversalPictures_TheBlackPhone_2021",
 		"UniversalPictures_TheBlackPhone_Apr_2022"
+	],
+	"theblackqueen": [
+		"HBO_Queen_Rhaenyra_Oct_2022"
 	],
 	"theboldtype": [
 		"TheBoldTypeTV_May_2021"
@@ -77263,6 +77304,9 @@
 	],
 	"극장에서비봇을확인하세요": [
 		"Disney_RonsGoneWrong_Duo_DUOKWs_2021"
+	],
+	"글로벌엔터테인먼트엑스포": [
+		"Global_Entertainment_Expo_Oct_2022"
 	],
 	"금메달": [
 		"Beijing_Paralympic_Gold_2022"
