@@ -24339,6 +24339,11 @@
 		"startingTimestampMs": "1665115200000",
 		"endingTimestampMs": "1669348800000"
 	},
+	"MLB_Postseason_WorldSeries_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_Postseason_WorldSeries_2022_add/MLB_Postseason_WorldSeries_2022_add.png",
+		"startingTimestampMs": "1666656000000",
+		"endingTimestampMs": "1669348800000"
+	},
 	"MLB_SD_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/MLB_SD_2022/MLB_SD_2022.png",
 		"startingTimestampMs": "1649336400000",
