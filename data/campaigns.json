@@ -44769,6 +44769,11 @@
 		"startingTimestampMs": "1649325600000",
 		"endingTimestampMs": "1657101540000"
 	},
+	"WFS_AnotherEden_Winter_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WFS_AnotherEden_Winter_Oct_2022/WFS_AnotherEden_Winter_Oct_2022.png",
+		"startingTimestampMs": "1666695600000",
+		"endingTimestampMs": "1670857140000"
+	},
 	"WFTNewName2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WFTNewName2022/WFTNewName2022.png",
 		"startingTimestampMs": "1643812200000",
