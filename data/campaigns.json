@@ -5049,6 +5049,11 @@
 		"startingTimestampMs": "1619096400000",
 		"endingTimestampMs": "1622984400000"
 	},
+	"Billboard_Hot_Trending_Chart_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Billboard_Hot_Trending_Chart_Oct_2022/Billboard_Hot_Trending_Chart_Oct_2022.png",
+		"startingTimestampMs": "1666670400000",
+		"endingTimestampMs": "1672549140000"
+	},
 	"Billboard_Latin_Music_Week_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Billboard_Latin_Music_Week_Jul_2022/Billboard_Latin_Music_Week_Jul_2022.png",
 		"startingTimestampMs": "1658865600000",
