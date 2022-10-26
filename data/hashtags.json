@@ -5935,7 +5935,8 @@
 	],
 	"bep20tusd": [
 		"Raybo_TUSD_official_Q4_2021",
-		"Raybo_TUSD_July_2021"
+		"Raybo_TUSD_July_2021",
+		"TUSD_Oct_2022"
 	],
 	"ber": [
 		"Paralympics_2021_BER",
@@ -10824,6 +10825,9 @@
 	],
 	"comoseraaunbonyurtde": [
 		"BonYurt_Sept_2022_v2_add"
+	],
+	"comoseriaunbonyurtde": [
+		"BonYurt_Sept_2022_v2_add2"
 	],
 	"comosrefugiados": [
 		"WorldRefugeeDay_2021",
@@ -18524,7 +18528,8 @@
 		"FNB_Brand_Love_v3_Mar_2022_V2",
 		"FNBBrandLove_v2_2021",
 		"FNB_BrandLove_2021",
-		"FNB_Brand_Love_v3_Mar_2022_V2_extend"
+		"FNB_Brand_Love_v3_Mar_2022_V2_extend",
+		"FNB_Oct_2022"
 	],
 	"fnbbusiness": [
 		"FNB_BrandLove_2021",
@@ -18536,12 +18541,16 @@
 		"FNB_Brand_Love_v3_Mar_2022_V2_extend",
 		"FNB_Jul_2022"
 	],
+	"fnbpay": [
+		"FNB_Oct_2022"
+	],
 	"fnbspaces": [
 		"FNB_Brand_Love_v3_Mar_2022",
 		"FNB_Brand_Love_v3_Mar_2022_V2",
 		"FNBBrandLove_v2_2021",
 		"FNB_Brand_Love_v3_Mar_2022_V2_extend",
-		"FNB_Jul_2022"
+		"FNB_Jul_2022",
+		"FNB_Oct_2022"
 	],
 	"fncwin": [
 		"LEC_Team_Fnatic_2022_v2",
@@ -31868,7 +31877,8 @@
 		"FNBBrandLove_v2_2021",
 		"FNB_BrandLove_2021",
 		"FNB_Brand_Love_v3_Mar_2022_V2_extend",
-		"FNB_Jul_2022"
+		"FNB_Jul_2022",
+		"FNB_Oct_2022"
 	],
 	"lovefortohoku": [
 		"311Tohokumemorial_2021_v2",
@@ -43810,7 +43820,8 @@
 		"QueensABC_2021"
 	],
 	"queganasdeunbonyurt": [
-		"BonYurt_Sept_2022_v2_add"
+		"BonYurt_Sept_2022_v2_add",
+		"BonYurt_Sept_2022_v2_add2"
 	],
 	"queijovelho": [
 		"DisneyPlus_WimpyKid_CheeseTouch_2021_V2",
@@ -44497,6 +44508,9 @@
 	],
 	"realmadrid": [
 		"Real_Madrid_Champions_League_Winner_2022"
+	],
+	"realmagic": [
+		"Coca-Cola_Canada_Homegating_Oct_2022"
 	],
 	"realmediwali": [
 		"Realme_Sept_2022"
@@ -53605,7 +53619,8 @@
 		"FNBBrandLove_v2_2021",
 		"FNB_BrandLove_2021",
 		"FNB_Brand_Love_v3_Mar_2022_V2_extend",
-		"FNB_Jul_2022"
+		"FNB_Jul_2022",
+		"FNB_Oct_2022"
 	],
 	"thechevroletrace": [
 		"Chevrolet_Canada_Jun_2022_add"
@@ -56354,7 +56369,8 @@
 	],
 	"trc20tusd": [
 		"Raybo_TUSD_official_Q4_2021",
-		"Raybo_TUSD_July_2021"
+		"Raybo_TUSD_July_2021",
+		"TUSD_Oct_2022"
 	],
 	"trc20usdt": [
 		"Raybo_Q421_TRONSCAN_ORG_extend_2022",
@@ -56503,7 +56519,8 @@
 	],
 	"trontusd": [
 		"Raybo_TUSD_official_Q4_2021",
-		"Raybo_TUSD_July_2021"
+		"Raybo_TUSD_July_2021",
+		"TUSD_Oct_2022"
 	],
 	"tropheekopa": [
 		"Ballon_dor_2021"
@@ -56557,7 +56574,8 @@
 	"trueusd": [
 		"Raybo_TUSD_official_Q4_2021",
 		"Raybo_TUSD_July_2021",
-		"Raybo_tusdio_May_2022"
+		"Raybo_tusdio_May_2022",
+		"TUSD_Oct_2022"
 	],
 	"truist": [
 		"Truist_Bank_Truist_One_Sept_2022"
@@ -56810,7 +56828,8 @@
 	"tusd": [
 		"Raybo_TUSD_official_Q4_2021",
 		"Raybo_TUSD_July_2021",
-		"Raybo_tusdio_May_2022"
+		"Raybo_tusdio_May_2022",
+		"TUSD_Oct_2022"
 	],
 	"tusdstablecoin": [
 		"Raybo_tusdio_May_2022"
