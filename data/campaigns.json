@@ -44684,6 +44684,11 @@
 		"startingTimestampMs": "1601596800000",
 		"endingTimestampMs": "1607760000000"
 	},
+	"Vote_Early_Day_Ballot_Box_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Vote_Early_Day_Ballot_Box_2022/Vote_Early_Day_Ballot_Box_2022.png",
+		"startingTimestampMs": "1666800000000",
+		"endingTimestampMs": "1667113140000"
+	},
 	"Voyager_Crypto4All_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Voyager_Crypto4All_Apr_2022/Voyager_Crypto4All_Apr_2022.png",
 		"startingTimestampMs": "1648785600000",

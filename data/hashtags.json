@@ -26064,7 +26064,8 @@
 		"USElection_2020_H2_Voting",
 		"IVoted_2021",
 		"USElection_2020_H1_Voting",
-		"US_Elections_ballot_2022_v2"
+		"US_Elections_ballot_2022_v2",
+		"Vote_Early_Day_Ballot_Box_2022"
 	],
 	"ivyheart": [
 		"Beyonce_Ivy_Park_VDay_2022"
@@ -59299,7 +59300,8 @@
 	],
 	"voteearlyday": [
 		"US_Election_2020_NVRD",
-		"NationalVoterRegistrationDay_2021"
+		"NationalVoterRegistrationDay_2021",
+		"Vote_Early_Day_Ballot_Box_2022"
 	],
 	"voteearth": [
 		"EarthDay_2021_add",
