@@ -34080,10 +34080,17 @@
 	"melbcupcarnival": [
 		"MelbourneCup_MelbCupCarnival_2020"
 	],
+	"melbcupontap": [
+		"Paramount_Melb_Cup_Oct_2022_add"
+	],
 	"melbournecup": [
 		"MelbourneCup_MelbCupCarnival_2020",
 		"MelbourneCup_2021",
-		"MelbourneCup_2021_"
+		"MelbourneCup_2021_",
+		"Paramount_Melb_Cup_Oct_2022_add"
+	],
+	"melbournecupontap": [
+		"Paramount_Melb_Cup_Oct_2022_add"
 	],
 	"meleys": [
 		"HBO_Meleys_Dragon_2022"
