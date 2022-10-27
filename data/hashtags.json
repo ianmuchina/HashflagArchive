@@ -11062,7 +11062,8 @@
 		"FEB_Endesa_Oct_2022"
 	],
 	"copingmechanism": [
-		"Willow_Smith_2022"
+		"Willow_Smith_2022",
+		"Willow_Smith_2022_extend"
 	],
 	"copybet": [
 		"Dabble_Sports_Pty_Ltd_Campaign_Competition_Launch_Aug_2022_v2"
@@ -11708,7 +11709,8 @@
 		"CurbYourEnthusiasm_s11_2021"
 	],
 	"curiousfurious": [
-		"Willow_Smith_2022"
+		"Willow_Smith_2022",
+		"Willow_Smith_2022_extend"
 	],
 	"curlingensilladeruedas": [
 		"Beijing_Paralympic_ParaCurling_2022"
@@ -13881,6 +13883,9 @@
 	],
 	"disneyrayavn": [
 		"Disney_RayaandtheLastDragon_2021_Raya"
+	],
+	"disneysantaclauses": [
+		"Disneyplus_The_Santa_Clauses_Series_Premiere_North_Pole_Oct_2022_v2"
 	],
 	"disneysingalong": [
 		"DisneyHolidaySingalong_2020_flight2",
@@ -20267,6 +20272,12 @@
 	"gilead": [
 		"Hulu_The_Handmaids_Tale_S5_Sept_2022"
 	],
+	"gillslounge": [
+		"MFASR"
+	],
+	"gillssushi": [
+		"MFASR"
+	],
 	"gimmesometruth": [
 		"LennonAnniversary_2020"
 	],
@@ -22949,7 +22960,8 @@
 		"Harry_Styles_New_Album_2022_V3",
 		"HarryStylesFineLineAnniversary_2020",
 		"HarryStyles_Golden_2020",
-		"Harry_Styles_Video_Emoji_2022"
+		"Harry_Styles_Video_Emoji_2022",
+		"MFASR"
 	],
 	"hartyohaarshubhshuruaat": [
 		"BankSmartWithSBI_2021"
@@ -34481,6 +34493,9 @@
 	"mezzalunarossa": [
 		"WorldRedCrossDay_May_2021_add"
 	],
+	"mfasr": [
+		"MFASR"
+	],
 	"mffl": [
 		"NBA_Season_Teams_2021_MFFL",
 		"NBATeam20192020Season_Emojis_DAL",
@@ -36319,6 +36334,9 @@
 	],
 	"musicaresforus": [
 		"Grammy_COVID19"
+	],
+	"musicforasushirestaurant": [
+		"MFASR"
 	],
 	"musicofthespheres": [
 		"ColdplayAlbum_Oct_2021"
@@ -46894,6 +46912,9 @@
 	"sansunbruit2": [
 		"AQuietPlace_P2_2021"
 	],
+	"santaclauses": [
+		"Disneyplus_The_Santa_Clauses_Series_Premiere_North_Pole_Oct_2022_v2"
+	],
 	"santamonicastudio": [
 		"Sony_PlayStation_God_of_War_3_Oct_2022"
 	],
@@ -47083,6 +47104,9 @@
 	],
 	"savedbythebellreboot": [
 		"SavedByTheBell_2020"
+	],
+	"savesantaclause": [
+		"Disneyplus_The_Santa_Clauses_Series_Premiere_North_Pole_Oct_2022_v2"
 	],
 	"savethehybrids": [
 		"NetflixSweetTooth2021_add"
@@ -54709,6 +54733,9 @@
 	"thesandman": [
 		"DCFandom_2020_Sandman"
 	],
+	"thesantaclauses": [
+		"Disneyplus_The_Santa_Clauses_Series_Premiere_North_Pole_Oct_2022_v2"
+	],
 	"thesaweetiemeal": [
 		"McD_TheSaweetieMeal_2021"
 	],
@@ -57907,7 +57934,8 @@
 		"Huami_Amazfit_GT3_2021"
 	],
 	"urastranger": [
-		"Willow_Smith_2022"
+		"Willow_Smith_2022",
+		"Willow_Smith_2022_extend"
 	],
 	"uru": [
 		"Paralympics_2021_URU",
@@ -60981,7 +61009,8 @@
 		"TS_Dec_2020_Album"
 	],
 	"willowsmith": [
-		"Willow_Smith_2022"
+		"Willow_Smith_2022",
+		"Willow_Smith_2022_extend"
 	],
 	"willubmine": [
 		"Unionbank_Oct_2021"
