@@ -7412,7 +7412,8 @@
 		"AmazonStudios_Borat_2020"
 	],
 	"boravotar": [
-		"Brazil_Elections_Civic_Participation_Jul_2022"
+		"Brazil_Elections_Civic_Participation_Jul_2022",
+		"Brazil_Elections_Civic_Participation_Oct_2022"
 	],
 	"border_carnival": [
 		"KpopVIT_ENHYPEN_April_2021_BORDER_CARNIVAL"
@@ -10897,7 +10898,8 @@
 		"LittleMix_Confetti_2020"
 	],
 	"confirma": [
-		"Brazil_Elections_Civic_Participation_Jul_2022"
+		"Brazil_Elections_Civic_Participation_Jul_2022",
+		"Brazil_Elections_Civic_Participation_Oct_2022"
 	],
 	"congafeatyou": [
 		"BacardiConga_2021"
@@ -16970,7 +16972,8 @@
 		"Disneyplus_IamGroot_HeadphonesGroot_2022_V2"
 	],
 	"euvotei": [
-		"Brazil_Elections_Civic_Participation_Jul_2022"
+		"Brazil_Elections_Civic_Participation_Jul_2022",
+		"Brazil_Elections_Civic_Participation_Oct_2022"
 	],
 	"evangelion": [
 		"Amazon_EVANGELION_July_2021"
@@ -59395,6 +59398,9 @@
 	"voteearth": [
 		"EarthDay_2021_add",
 		"EarthDay_2020_ext_v2"
+	],
+	"votei": [
+		"Brazil_Elections_Civic_Participation_Oct_2022"
 	],
 	"votemosperu": [
 		"PeruGeneralElection_2021"

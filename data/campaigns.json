@@ -5549,6 +5549,11 @@
 		"startingTimestampMs": "1664611200000",
 		"endingTimestampMs": "1664855700000"
 	},
+	"Brazil_Elections_Civic_Participation_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_Civic_Participation_Oct_2022/Brazil_Elections_Civic_Participation_Oct_2022.png",
+		"startingTimestampMs": "1666944000000",
+		"endingTimestampMs": "1667274900000"
+	},
 	"Brazil_Elections_Debates_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Brazil_Elections_Debates_Jul_2022/Brazil_Elections_Debates_Jul_2022.png",
 		"startingTimestampMs": "1659340800000",
