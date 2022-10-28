@@ -14269,6 +14269,11 @@
 		"startingTimestampMs": "1612519200000",
 		"endingTimestampMs": "1612897200000"
 	},
+	"GOG_ALbum_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GOG_ALbum_Oct_2022/GOG_ALbum_Oct_2022.png",
+		"startingTimestampMs": "1666957980000",
+		"endingTimestampMs": "1672487580000"
+	},
 	"GOMO5G_Jan_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/GOMO5G_Jan_2022/GOMO5G_Jan_2022.png",
 		"startingTimestampMs": "1643130060000",
@@ -25437,6 +25442,11 @@
 	"MLS_Cup_Playoffs_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/MLS_Cup_Playoffs_Sept_2022/MLS_Cup_Playoffs_Sept_2022.png",
 		"startingTimestampMs": "1665320400000",
+		"endingTimestampMs": "1667970000000"
+	},
+	"MLS_Cup_Sept_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLS_Cup_Sept_2022/MLS_Cup_Sept_2022.png",
+		"startingTimestampMs": "1666962000000",
 		"endingTimestampMs": "1667970000000"
 	},
 	"MLS_JerseySwapEntry": {
