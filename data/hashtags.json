@@ -49214,11 +49214,17 @@
 	"smtown": [
 		"SMTOWN_LIVE_Culture_Humanity_2021"
 	],
+	"smtown_halloween": [
+		"SMTOWN_WONDERLAND_Oct_2022"
+	],
 	"smtown_live": [
 		"SMTOWN_LIVE_Culture_Humanity_2021"
 	],
 	"smtown_live_culture_humanity": [
 		"SMTOWN_LIVE_Culture_Humanity_2021"
+	],
+	"smtown_wonderland_2022": [
+		"SMTOWN_WONDERLAND_Oct_2022"
 	],
 	"smtv": [
 		"SEGA_SMT5_2021"
