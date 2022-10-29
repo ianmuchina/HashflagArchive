@@ -45,8 +45,9 @@ func main() {
 	hashtags := make(map[string][]string, 9000)
 
 	c, _ := os.ReadFile("data/campaigns.json")
-	h, _ := os.ReadFile("data/hashtags.json")
 	json.Unmarshal(c, &campaigns)
+
+	h, _ := os.ReadFile("data/hashtags.json")
 	json.Unmarshal(h, &hashtags)
 
 	// Directory where data from the twitter api is stored
@@ -118,9 +119,11 @@ func main() {
 	// Commit message
 	commit_file, err := os.Create("commit_msg")
 	defer commit_file.Close()
+
 	if err != nil {
 		log.Fatal(err)
 	}
+
 	w := bufio.NewWriter(commit_file)
 
 	campaign_suffix := "s"
@@ -155,5 +158,6 @@ func main() {
 			fmt.Fprintf(w, "  - #%s\n", h)
 		}
 	}
+	// Write Changes to file
 	w.Flush()
 }
