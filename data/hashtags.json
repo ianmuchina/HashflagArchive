@@ -20657,11 +20657,17 @@
 	"gmachristmasstationid2021": [
 		"GMAChristmasStationID2021"
 	],
+	"gmachristmasstationid2022": [
+		"GMA_Christmas_Station_ID_Oct_2022"
+	],
 	"gmacsid2020": [
 		"GMAXmasStationID2020"
 	],
 	"gmacsid2021": [
 		"GMAChristmasStationID2021"
+	],
+	"gmacsid2022": [
+		"GMA_Christmas_Station_ID_Oct_2022"
 	],
 	"gmarketglobal": [
 		"eBay_Korea_GmarketGlobal_2022"
@@ -27761,7 +27767,8 @@
 	],
 	"kapuso": [
 		"GMAXmasStationID2020",
-		"GMAChristmasStationID2021"
+		"GMAChristmasStationID2021",
+		"GMA_Christmas_Station_ID_Oct_2022"
 	],
 	"karankundrra": [
 		"BiggBoss_contestant_KaranKundrra_2022"
@@ -31974,6 +31981,9 @@
 	"loveislove": [
 		"AlwaysProud_June_2021",
 		"WeBelong_Pride_2022"
+	],
+	"loveisusthischristmas": [
+		"GMA_Christmas_Station_ID_Oct_2022"
 	],
 	"loveitwhenyouhateme": [
 		"Avril_Lavigne_Album_Emoji_2022_V2",
