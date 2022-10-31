@@ -25494,6 +25494,11 @@
 		"startingTimestampMs": "1606089660000",
 		"endingTimestampMs": "1607644740000"
 	},
+	"MOBO_25_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MOBO_25_Oct_2022/MOBO_25_Oct_2022.png",
+		"startingTimestampMs": "1667188800000",
+		"endingTimestampMs": "1675206000000"
+	},
 	"MOC_Saudi_Coffee_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/MOC_Saudi_Coffee_2022/MOC_Saudi_Coffee_2022.png",
 		"startingTimestampMs": "1643673600000",
@@ -37173,6 +37178,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Quinto_Andar_BBB_Apr_2022/Quinto_Andar_BBB_Apr_2022.png",
 		"startingTimestampMs": "1648782000000",
 		"endingTimestampMs": "1656644400000"
+	},
+	"R20_mWL_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/R20_mWL_Oct_2022/R20_mWL_Oct_2022.png",
+		"startingTimestampMs": "1667182020000",
+		"endingTimestampMs": "1671502020000"
 	},
 	"RAI_IntoTheDark_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/RAI_IntoTheDark_2020/RAI_IntoTheDark_2020.png",

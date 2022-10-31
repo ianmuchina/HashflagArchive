@@ -28766,6 +28766,9 @@
 	"ktrolster": [
 		"LCK_Team_KT_2022"
 	],
+	"kttr20": [
+		"R20_mWL_Oct_2022"
+	],
 	"ktwin": [
 		"LCK_Team_KT_2022",
 		"LCK_2021_Team_P1_KTWIN_v2",
@@ -35387,9 +35390,13 @@
 	"mobo": [
 		"MOBOAwards2021"
 	],
+	"mobo25": [
+		"MOBO_25_Oct_2022"
+	],
 	"moboawards": [
 		"MOBOAwards_2020",
-		"MOBOAwards2021"
+		"MOBOAwards2021",
+		"MOBO_25_Oct_2022"
 	],
 	"moboawards2020": [
 		"MOBOAwards_2020"
@@ -35397,12 +35404,16 @@
 	"moboawards2021": [
 		"MOBOAwards2021"
 	],
+	"moboawards2022": [
+		"MOBO_25_Oct_2022"
+	],
 	"moboincoventry": [
 		"MOBOAwards2021"
 	],
 	"mobolise": [
 		"MOBOAwards_2020",
-		"MOBOAwards2021"
+		"MOBOAwards2021",
+		"MOBO_25_Oct_2022"
 	],
 	"moc": [
 		"OurCultureOurIdentity_2020"
@@ -44069,6 +44080,12 @@
 	"r": [
 		"KpopVIT_BLACKPINK_ROSE_March_2021"
 	],
+	"r20_اجلاس": [
+		"R20_mWL_Oct_2022"
+	],
+	"r20summit": [
+		"R20_mWL_Oct_2022"
+	],
 	"r2d2": [
 		"Disney_Maythe4th_2021_R2D2"
 	],
@@ -49546,6 +49563,9 @@
 	"somethinginthewater": [
 		"Something_In_The_Water_Emoji",
 		"SITW_Emoji_2022"
+	],
+	"sommetr20": [
+		"R20_mWL_Oct_2022"
 	],
 	"somosatlanta": [
 		"MLS_2022_Team_ATL_2022",
@@ -64623,6 +64643,9 @@
 		"Ahlam_P1_2021_all",
 		"Ahlam_P1_2021",
 		"Ahlam_P1_2021_all_v2"
+	],
+	"القمة_الدينية_لمجموعة_العشرين": [
+		"R20_mWL_Oct_2022"
 	],
 	"القمة_العالمية_للذكاء_الاصطناعي": [
 		"GlobalAISummit_2020"
