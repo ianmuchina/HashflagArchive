@@ -9187,6 +9187,9 @@
 		"Kellogg_VAP_Hoops_2022",
 		"VAP_March_2021"
 	],
+	"celebrityjeopardy": [
+		"CBS_Television_Jeopardy_2022_v2"
+	],
 	"celebrominhanegritude": [
 		"BlackConsciousnessMonth_BR_2020",
 		"TwitterBrazil_BlackConsciousness_2021"
@@ -11663,7 +11666,8 @@
 		"Disney_LokiLaunch_Miss_Minutes_2021"
 	],
 	"cuethechaos": [
-		"NWSL_Season_NWSLChallengeCup_2022"
+		"NWSL_Season_NWSLChallengeCup_2022",
+		"NWSL_Season_NWSLChallengeCup_2022_v2"
 	],
 	"cuethepurrs": [
 		"Whiskas_AU_Jun_2022"
@@ -26619,6 +26623,18 @@
 	"jeonwoong": [
 		"AB6IX_2_Sept_2022"
 	],
+	"jeopardy": [
+		"CBS_Television_Jeopardy_2022_v2"
+	],
+	"jeopardysecondchance": [
+		"CBS_Television_Jeopardy_2022_v2"
+	],
+	"jeopardystories": [
+		"CBS_Television_Jeopardy_2022_v2"
+	],
+	"jeopardytoc": [
+		"CBS_Television_Jeopardy_2022_v2"
+	],
 	"jernihbiarhijau": [
 		"Sprite_LihatDenganJernih_2021"
 	],
@@ -31267,7 +31283,8 @@
 		"Dew_x_Ruffles_NBA_All_Star_2022"
 	],
 	"liveboxing": [
-		"APV_JP_Boxing_Mar_2022"
+		"APV_JP_Boxing_Mar_2022",
+		"APV_Boxing_Nov_2022"
 	],
 	"liveempowerchildren": [
 		"LiveEmpower_ChildrenCharityConcert_2021"
@@ -38682,6 +38699,9 @@
 	],
 	"nwslchallengecup": [
 		"NWSL_Season_NWSLChallengeCup_2022"
+	],
+	"nwslchampionship": [
+		"NWSL_Season_NWSLChampionship_2022"
 	],
 	"nxde": [
 		"Cube_ent_GIDLE_Oct_2022"
@@ -69221,6 +69241,9 @@
 	"どうなる井上vsドネア2": [
 		"Amazon_APV_Boxing_2_May_2022_v2"
 	],
+	"どうなる日本人同士の王座統一戦": [
+		"APV_Boxing_Nov_2022"
+	],
 	"どうぶつの森": [
 		"AnimalCrossing_Nintendo_2020_NewArtwork_v2"
 	],
@@ -74355,6 +74378,9 @@
 	"井上尚弥": [
 		"Amazon_APV_Boxing_2_May_2022_v2"
 	],
+	"京口紘人": [
+		"APV_Boxing_Nov_2022"
+	],
 	"人人长寿": [
 		"World_Immunization_Week_April_2022"
 	],
@@ -75151,6 +75177,12 @@
 	],
 	"寬扎節快樂": [
 		"Kwanzaa_2020"
+	],
+	"寺地vs京口": [
+		"APV_Boxing_Nov_2022"
+	],
+	"寺地拳四朗": [
+		"APV_Boxing_Nov_2022"
 	],
 	"射撃": [
 		"Olympics_2021_Sports_Shooting"

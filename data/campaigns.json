@@ -1144,6 +1144,11 @@
 		"startingTimestampMs": "1610629200000",
 		"endingTimestampMs": "1615726800000"
 	},
+	"APV_Boxing_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APV_Boxing_Nov_2022/APV_Boxing_Nov_2022.png",
+		"startingTimestampMs": "1667228400000",
+		"endingTimestampMs": "1675087200000"
+	},
 	"APV_ElInternado_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/APV_ElInternado_2021/APV_ElInternado_2021.png",
 		"startingTimestampMs": "1613723400000",
@@ -6058,6 +6063,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/CBS_Television_Good_Sam_2021/CBS_Television_Good_Sam_2021.png",
 		"startingTimestampMs": "1640678400000",
 		"endingTimestampMs": "1648537140000"
+	},
+	"CBS_Television_Jeopardy_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBS_Television_Jeopardy_2022_v2/CBS_Television_Jeopardy_2022_v2.png",
+		"startingTimestampMs": "1667232000000",
+		"endingTimestampMs": "1675061940000"
 	},
 	"CBS_Television_So_Help_Me_Todd_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CBS_Television_So_Help_Me_Todd_Sept_2022/CBS_Television_So_Help_Me_Todd_Sept_2022.png",
@@ -30441,6 +30451,16 @@
 	},
 	"NWSL_Season_NWSLChallengeCup_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NWSL_Season_NWSLChallengeCup_2022/NWSL_Season_NWSLChallengeCup_2022.png",
+		"startingTimestampMs": "1646244000000",
+		"endingTimestampMs": "1667754000000"
+	},
+	"NWSL_Season_NWSLChallengeCup_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NWSL_Season_NWSLChallengeCup_2022_v2/NWSL_Season_NWSLChallengeCup_2022_v2.png",
+		"startingTimestampMs": "1646244000000",
+		"endingTimestampMs": "1667754000000"
+	},
+	"NWSL_Season_NWSLChampionship_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NWSL_Season_NWSLChampionship_2022/NWSL_Season_NWSLChampionship_2022.png",
 		"startingTimestampMs": "1646244000000",
 		"endingTimestampMs": "1667754000000"
 	},
