@@ -27499,10 +27499,30 @@
 		"startingTimestampMs": "1631430000000",
 		"endingTimestampMs": "1631516340000"
 	},
+	"NASCARCBell2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NASCARCBell2022/NASCARCBell2022.png",
+		"startingTimestampMs": "1667253600000",
+		"endingTimestampMs": "1667879940000"
+	},
+	"NASCARChamp42022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NASCARChamp42022/NASCARChamp42022.png",
+		"startingTimestampMs": "1667253600000",
+		"endingTimestampMs": "1667879940000"
+	},
+	"NASCARChase2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NASCARChase2022/NASCARChase2022.png",
+		"startingTimestampMs": "1667253600000",
+		"endingTimestampMs": "1667879940000"
+	},
 	"NASCARDAYTONA_500_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NASCARDAYTONA_500_2021/NASCARDAYTONA_500_2021.png",
 		"startingTimestampMs": "1612792800000",
 		"endingTimestampMs": "1614054180000"
+	},
+	"NASCARJL2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NASCARJL2022/NASCARJL2022.png",
+		"startingTimestampMs": "1667253600000",
+		"endingTimestampMs": "1667879940000"
 	},
 	"NASCARPlayoffs_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NASCARPlayoffs_2021/NASCARPlayoffs_2021.png",
@@ -27513,6 +27533,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/NASCARPlayoffss2022/NASCARPlayoffss2022.png",
 		"startingTimestampMs": "1661594340000",
 		"endingTimestampMs": "1667966340000"
+	},
+	"NASCARRoss2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NASCARRoss2022/NASCARRoss2022.png",
+		"startingTimestampMs": "1667253600000",
+		"endingTimestampMs": "1667879940000"
 	},
 	"NAV_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NAV_2020/NAV_2020.png",
