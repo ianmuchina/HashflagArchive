@@ -9708,22 +9708,30 @@
 	"cheetosllenosdediversión": [
 		"ChesterCheetos_MX_2021"
 	],
+	"cheeziestchain": [
+		"Kellogg_Cheez_It_Always_On_Q4_Oct_2022"
+	],
 	"cheezit": [
 		"CheezIt_Q1_2022",
 		"CheezIt_2021",
 		"CheezIt_Q2_2021",
 		"CheezIt_Q4_2020",
-		"cheezit_Jan_2021"
+		"cheezit_Jan_2021",
+		"Kellogg_Cheez_It_Always_On_Q4_Oct_2022"
 	],
 	"cheezitbowl": [
 		"CheezItBowl_2021",
 		"CheezIt_Q2_2021",
 		"CheezIt_Q4_2020",
-		"cheezit_Jan_2021"
+		"cheezit_Jan_2021",
+		"Kellogg_Cheez_It_Always_On_Q4_Oct_2022"
 	],
 	"cheezitcrunchclassic": [
 		"Kellogg_VAP_Hoops_2022",
 		"VAP_March_2021"
+	],
+	"cheezitsnapd": [
+		"Kellogg_Cheez_It_SNAPD_Q4_Oct_2022"
 	],
 	"chefbetty": [
 		"MasterchefMx2021_Final_ChefBetty",
@@ -12976,7 +12984,8 @@
 		"PedidosYaInstitucional"
 	],
 	"deugreen": [
-		"Imperial_on_Major_May_2022"
+		"Imperial_on_Major_May_2022",
+		"Imperial_Esports_Oct_2022"
 	],
 	"deumapausa": [
 		"Sprite_Rituals_2021"
@@ -21018,7 +21027,8 @@
 		"Handball_WorldCup_Egypt_2021_Iceland"
 	],
 	"goimp": [
-		"Imperial_on_Major_May_2022"
+		"Imperial_on_Major_May_2022",
+		"Imperial_Esports_Oct_2022"
 	],
 	"gointz": [
 		"CBLOL_INTZ_Season_2022",
@@ -22749,6 +22759,18 @@
 	"harcourt": [
 		"HBO_Max_Peacemaker_S1_Part2_Harcourt_2022"
 	],
+	"hardknocks": [
+		"HBO_Hard_Knocks_Cardinals_Oct_2022"
+	],
+	"hardknocksarizona": [
+		"HBO_Hard_Knocks_Cardinals_Oct_2022"
+	],
+	"hardknockscardinals": [
+		"HBO_Hard_Knocks_Cardinals_Oct_2022"
+	],
+	"hardknocksinseason": [
+		"HBO_Hard_Knocks_Cardinals_Oct_2022"
+	],
 	"hardsodasuperbowl": [
 		"BudLightSeltzerHardSoda_2022"
 	],
@@ -23670,6 +23692,9 @@
 	],
 	"hka": [
 		"Herald_K-content_Award_Jul_2022"
+	],
+	"hkcardinals": [
+		"HBO_Hard_Knocks_Cardinals_Oct_2022"
 	],
 	"hkg": [
 		"Paralympics_2021_HKG",
@@ -49303,6 +49328,9 @@
 	"snakeselena": [
 		"DJSnake_2021"
 	],
+	"snapd": [
+		"Kellogg_Cheez_It_SNAPD_Q4_Oct_2022"
+	],
 	"snapdragon": [
 		"Qualcomm_SnapdragonSummit_2020"
 	],
@@ -51124,17 +51152,25 @@
 	],
 	"streamyawards": [
 		"StreamyAwards_Dec_2020",
-		"streamys2021"
+		"streamys2021",
+		"The_Streamy_Awards_Oct_2022"
 	],
 	"streamys": [
 		"StreamyAwards_Dec_2020",
-		"streamys2021"
+		"streamys2021",
+		"The_Streamy_Awards_Oct_2022"
 	],
 	"streamys10": [
 		"StreamyAwards_Dec_2020"
 	],
 	"streamys2021": [
 		"streamys2021"
+	],
+	"streamys2022": [
+		"The_Streamy_Awards_Oct_2022"
+	],
+	"streamys22": [
+		"The_Streamy_Awards_Oct_2022"
 	],
 	"streetart": [
 		"HipHop_2021_Graffiti_Emoji"

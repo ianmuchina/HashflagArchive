@@ -15624,6 +15624,11 @@
 		"startingTimestampMs": "1664067600000",
 		"endingTimestampMs": "1671854340000"
 	},
+	"HBO_Hard_Knocks_Cardinals_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Hard_Knocks_Cardinals_Oct_2022/HBO_Hard_Knocks_Cardinals_Oct_2022.png",
+		"startingTimestampMs": "1667235600000",
+		"endingTimestampMs": "1674964740000"
+	},
 	"HBO_House_of_the_Dragon_3_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_3_Jun_2022/HBO_House_of_the_Dragon_3_Jun_2022.png",
 		"startingTimestampMs": "1655910000000",
@@ -18859,6 +18864,11 @@
 		"startingTimestampMs": "1642237200000",
 		"endingTimestampMs": "1672556400000"
 	},
+	"Imperial_Esports_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Imperial_Esports_Oct_2022/Imperial_Esports_Oct_2022.png",
+		"startingTimestampMs": "1667120400000",
+		"endingTimestampMs": "1672466400000"
+	},
 	"Imperial_on_Major_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Imperial_on_Major_May_2022/Imperial_on_Major_May_2022.png",
 		"startingTimestampMs": "1652410800000",
@@ -21043,6 +21053,16 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/KeepItOn_InternetShutdown_2021/KeepItOn_InternetShutdown_2021.png",
 		"startingTimestampMs": "1615161600000",
 		"endingTimestampMs": "1672560000000"
+	},
+	"Kellogg_Cheez_It_Always_On_Q4_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Kellogg_Cheez_It_Always_On_Q4_Oct_2022/Kellogg_Cheez_It_Always_On_Q4_Oct_2022.png",
+		"startingTimestampMs": "1667235600000",
+		"endingTimestampMs": "1672559940000"
+	},
+	"Kellogg_Cheez_It_SNAPD_Q4_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Kellogg_Cheez_It_SNAPD_Q4_Oct_2022/Kellogg_Cheez_It_SNAPD_Q4_Oct_2022.png",
+		"startingTimestampMs": "1667235600000",
+		"endingTimestampMs": "1672559940000"
 	},
 	"Kellogg_VAP_Hoops_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Kellogg_VAP_Hoops_2022/Kellogg_VAP_Hoops_2022.png",
@@ -42403,6 +42423,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/The_Password_NBC_Aug_2022/The_Password_NBC_Aug_2022.png",
 		"startingTimestampMs": "1660089600000",
 		"endingTimestampMs": "1668038400000"
+	},
+	"The_Streamy_Awards_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/The_Streamy_Awards_Oct_2022/The_Streamy_Awards_Oct_2022.png",
+		"startingTimestampMs": "1667235600000",
+		"endingTimestampMs": "1672501800000"
 	},
 	"The_Walt_Disney_Company_JP_Korean_Drama_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/The_Walt_Disney_Company_JP_Korean_Drama_Jul_2022/The_Walt_Disney_Company_JP_Korean_Drama_Jul_2022.png",
