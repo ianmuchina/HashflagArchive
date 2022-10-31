@@ -8254,6 +8254,11 @@
 		"startingTimestampMs": "1637020800000",
 		"endingTimestampMs": "1644969600000"
 	},
+	"DIAFA_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DIAFA_Oct_2022/DIAFA_Oct_2022.png",
+		"startingTimestampMs": "1667244600000",
+		"endingTimestampMs": "1675197000000"
+	},
 	"DIRECTV_StreamRebrand_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DIRECTV_StreamRebrand_2021/DIRECTV_StreamRebrand_2021.png",
 		"startingTimestampMs": "1629961200000",
@@ -18079,8 +18084,18 @@
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
+	"ICC_Mens_Cricket_World_Cup_2022_Afghanistan_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Afghanistan_v2/ICC_Mens_Cricket_World_Cup_2022_Afghanistan_v2.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
 	"ICC_Mens_Cricket_World_Cup_2022_Australia": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Australia/ICC_Mens_Cricket_World_Cup_2022_Australia.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
+	"ICC_Mens_Cricket_World_Cup_2022_Australia_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Australia_v2/ICC_Mens_Cricket_World_Cup_2022_Australia_v2.png",
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
@@ -18089,8 +18104,18 @@
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
+	"ICC_Mens_Cricket_World_Cup_2022_Bangladesh_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Bangladesh_v2/ICC_Mens_Cricket_World_Cup_2022_Bangladesh_v2.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
 	"ICC_Mens_Cricket_World_Cup_2022_England": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_England/ICC_Mens_Cricket_World_Cup_2022_England.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
+	"ICC_Mens_Cricket_World_Cup_2022_England_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_England_v2/ICC_Mens_Cricket_World_Cup_2022_England_v2.png",
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
@@ -18104,6 +18129,11 @@
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
+	"ICC_Mens_Cricket_World_Cup_2022_India_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_India_v2/ICC_Mens_Cricket_World_Cup_2022_India_v2.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
 	"ICC_Mens_Cricket_World_Cup_2022_Ireland": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Ireland/ICC_Mens_Cricket_World_Cup_2022_Ireland.png",
 		"startingTimestampMs": "1665718200000",
@@ -18114,8 +18144,18 @@
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
+	"ICC_Mens_Cricket_World_Cup_2022_Namibia_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Namibia_v2/ICC_Mens_Cricket_World_Cup_2022_Namibia_v2.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
 	"ICC_Mens_Cricket_World_Cup_2022_Netherlands": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Netherlands/ICC_Mens_Cricket_World_Cup_2022_Netherlands.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
+	"ICC_Mens_Cricket_World_Cup_2022_Netherlands_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Netherlands_v2/ICC_Mens_Cricket_World_Cup_2022_Netherlands_v2.png",
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
@@ -18124,8 +18164,18 @@
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
+	"ICC_Mens_Cricket_World_Cup_2022_NewZealand_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_NewZealand_v2/ICC_Mens_Cricket_World_Cup_2022_NewZealand_v2.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
 	"ICC_Mens_Cricket_World_Cup_2022_Oman": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Oman/ICC_Mens_Cricket_World_Cup_2022_Oman.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
+	"ICC_Mens_Cricket_World_Cup_2022_Oman_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Oman_v2/ICC_Mens_Cricket_World_Cup_2022_Oman_v2.png",
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
@@ -18134,8 +18184,18 @@
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
+	"ICC_Mens_Cricket_World_Cup_2022_Pakistan_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Pakistan_v2/ICC_Mens_Cricket_World_Cup_2022_Pakistan_v2.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
 	"ICC_Mens_Cricket_World_Cup_2022_PapuaNewGuinea": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_PapuaNewGuinea/ICC_Mens_Cricket_World_Cup_2022_PapuaNewGuinea.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
+	"ICC_Mens_Cricket_World_Cup_2022_PapuaNewGuinea_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_PapuaNewGuinea_v2/ICC_Mens_Cricket_World_Cup_2022_PapuaNewGuinea_v2.png",
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
@@ -18144,8 +18204,18 @@
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
+	"ICC_Mens_Cricket_World_Cup_2022_Scotland_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_Scotland_v2/ICC_Mens_Cricket_World_Cup_2022_Scotland_v2.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
 	"ICC_Mens_Cricket_World_Cup_2022_SouthAfrica": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_SouthAfrica/ICC_Mens_Cricket_World_Cup_2022_SouthAfrica.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
+	"ICC_Mens_Cricket_World_Cup_2022_SouthAfrica_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_SouthAfrica_v2/ICC_Mens_Cricket_World_Cup_2022_SouthAfrica_v2.png",
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
@@ -18154,8 +18224,18 @@
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},
+	"ICC_Mens_Cricket_World_Cup_2022_SriLanka_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_SriLanka_v2/ICC_Mens_Cricket_World_Cup_2022_SriLanka_v2.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
 	"ICC_Mens_Cricket_World_Cup_2022_WestIndies": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_WestIndies/ICC_Mens_Cricket_World_Cup_2022_WestIndies.png",
+		"startingTimestampMs": "1665718200000",
+		"endingTimestampMs": "1668535200000"
+	},
+	"ICC_Mens_Cricket_World_Cup_2022_WestIndies_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ICC_Mens_Cricket_World_Cup_2022_WestIndies_v2/ICC_Mens_Cricket_World_Cup_2022_WestIndies_v2.png",
 		"startingTimestampMs": "1665718200000",
 		"endingTimestampMs": "1668535200000"
 	},

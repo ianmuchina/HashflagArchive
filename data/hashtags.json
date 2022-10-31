@@ -13287,6 +13287,15 @@
 		"WorldRefugeeDay_2021",
 		"World_Refugee_Day_2022"
 	],
+	"diafa": [
+		"DIAFA_Oct_2022"
+	],
+	"diafa2022": [
+		"DIAFA_Oct_2022"
+	],
+	"diafadubai": [
+		"DIAFA_Oct_2022"
+	],
 	"diainternacionaldelamujer": [
 		"InternationalWomensDay2021"
 	],
@@ -52497,7 +52506,8 @@
 	"teamafghanistan": [
 		"Paralympics_2021_TeamAfghanistan",
 		"ICCT20WorldCup_2021_AFG",
-		"ICC_Mens_Cricket_World_Cup_2022_Afghanistan"
+		"ICC_Mens_Cricket_World_Cup_2022_Afghanistan",
+		"ICC_Mens_Cricket_World_Cup_2022_Afghanistan_v2"
 	],
 	"teamais5gfaniverse": [
 		"AIS_5G_VERSE_Apr_2022_v2"
@@ -52514,7 +52524,8 @@
 	"teamaustralia": [
 		"ICC_Womens_Cricket_World_Cup_TeamAustralia_2022",
 		"ICCT20WorldCup_2021_AUS",
-		"ICC_Mens_Cricket_World_Cup_2022_Australia"
+		"ICC_Mens_Cricket_World_Cup_2022_Australia",
+		"ICC_Mens_Cricket_World_Cup_2022_Australia_v2"
 	],
 	"teamaxe": [
 		"Showtime_Billions_2020"
@@ -52522,7 +52533,8 @@
 	"teambangladesh": [
 		"ICC_Womens_Cricket_World_Cup_TeamBangladesh_2022",
 		"ICCT20WorldCup_2021_BNG",
-		"ICC_Mens_Cricket_World_Cup_2022_Bangladesh"
+		"ICC_Mens_Cricket_World_Cup_2022_Bangladesh",
+		"ICC_Mens_Cricket_World_Cup_2022_Bangladesh_v2"
 	],
 	"teambanquepopulaire": [
 		"BanquePopVoile_2020"
@@ -52664,7 +52676,8 @@
 	"teamengland": [
 		"ICC_Womens_Cricket_World_Cup_TeamEngland_2022",
 		"ICCT20WorldCup_2021_ENG",
-		"ICC_Mens_Cricket_World_Cup_2022_England"
+		"ICC_Mens_Cricket_World_Cup_2022_England",
+		"ICC_Mens_Cricket_World_Cup_2022_England_v2"
 	],
 	"teamenvy": [
 		"EsportsAllAccess_Jan_2021_V2_Envy",
@@ -52738,7 +52751,8 @@
 		"TeamIndia_2021",
 		"ICCT20WorldCup_2021_IND",
 		"TeamIndia_2021_v2",
-		"ICC_Mens_Cricket_World_Cup_2022_India"
+		"ICC_Mens_Cricket_World_Cup_2022_India",
+		"ICC_Mens_Cricket_World_Cup_2022_India_v2"
 	],
 	"teamireland": [
 		"Paralympics_2021_IRL",
@@ -52830,19 +52844,22 @@
 	],
 	"teamnamibia": [
 		"ICCT20WorldCup_2021_NAM",
-		"ICC_Mens_Cricket_World_Cup_2022_Namibia"
+		"ICC_Mens_Cricket_World_Cup_2022_Namibia",
+		"ICC_Mens_Cricket_World_Cup_2022_Namibia_v2"
 	],
 	"teamnatlove": [
 		"Netflix_TheHarderTheyFall_2021_Cowboy"
 	],
 	"teamnetherlands": [
 		"ICCT20WorldCup_2021_NED",
-		"ICC_Mens_Cricket_World_Cup_2022_Netherlands"
+		"ICC_Mens_Cricket_World_Cup_2022_Netherlands",
+		"ICC_Mens_Cricket_World_Cup_2022_Netherlands_v2"
 	],
 	"teamnewzealand": [
 		"ICC_Womens_Cricket_World_Cup_TeamNewZealand_2022",
 		"ICCT20WorldCup_2021_NZ",
-		"ICC_Mens_Cricket_World_Cup_2022_NewZealand"
+		"ICC_Mens_Cricket_World_Cup_2022_NewZealand",
+		"ICC_Mens_Cricket_World_Cup_2022_NewZealand_v2"
 	],
 	"teamnick": [
 		"NBC_TheVoice_Feb_2021"
@@ -52861,7 +52878,8 @@
 	],
 	"teamoman": [
 		"ICCT20WorldCup_2021_OMA",
-		"ICC_Mens_Cricket_World_Cup_2022_Oman"
+		"ICC_Mens_Cricket_World_Cup_2022_Oman",
+		"ICC_Mens_Cricket_World_Cup_2022_Oman_v2"
 	],
 	"teamouigo": [
 		"SNCF_OUIGO_2020"
@@ -52869,7 +52887,8 @@
 	"teampakistan": [
 		"ICC_Womens_Cricket_World_Cup_TeamPakistan_2022",
 		"ICCT20WorldCup_2021_PAK",
-		"ICC_Mens_Cricket_World_Cup_2022_Pakistan"
+		"ICC_Mens_Cricket_World_Cup_2022_Pakistan",
+		"ICC_Mens_Cricket_World_Cup_2022_Pakistan_v2"
 	],
 	"teampaloma": [
 		"TheVoice_KidsUK_2020"
@@ -52891,7 +52910,8 @@
 	],
 	"teampng": [
 		"ICCT20WorldCup_2021_PNG",
-		"ICC_Mens_Cricket_World_Cup_2022_PapuaNewGuinea"
+		"ICC_Mens_Cricket_World_Cup_2022_PapuaNewGuinea",
+		"ICC_Mens_Cricket_World_Cup_2022_PapuaNewGuinea_v2"
 	],
 	"teampol": [
 		"Paralympics_2021_POL"
@@ -52922,7 +52942,8 @@
 	],
 	"teamscotland": [
 		"ICCT20WorldCup_2021_SCO",
-		"ICC_Mens_Cricket_World_Cup_2022_Scotland"
+		"ICC_Mens_Cricket_World_Cup_2022_Scotland",
+		"ICC_Mens_Cricket_World_Cup_2022_Scotland_v2"
 	],
 	"teamseas": [
 		"TeamSeas_2021"
@@ -52957,14 +52978,16 @@
 		"ICC_Womens_Cricket_World_Cup_TeamSouthAfrica_2022",
 		"ICCT20WorldCup_2021_SAF",
 		"CAF_WAFCON_SouthAfrica_Jun_2022",
-		"ICC_Mens_Cricket_World_Cup_2022_SouthAfrica"
+		"ICC_Mens_Cricket_World_Cup_2022_SouthAfrica",
+		"ICC_Mens_Cricket_World_Cup_2022_SouthAfrica_v2"
 	],
 	"teamsparrows": [
 		"Netflix_Umbrella_Academy_S3_Jun_2022"
 	],
 	"teamsrilanka": [
 		"ICCT20WorldCup_2021_SL",
-		"ICC_Mens_Cricket_World_Cup_2022_SriLanka"
+		"ICC_Mens_Cricket_World_Cup_2022_SriLanka",
+		"ICC_Mens_Cricket_World_Cup_2022_SriLanka_v2"
 	],
 	"teamsudan": [
 		"Africa_Cup_of_Nations_Sudan_2022"
@@ -53030,7 +53053,8 @@
 	"teamwestindies": [
 		"ICC_Womens_Cricket_World_Cup_TeamWestIndies_2022",
 		"ICCT20WorldCup_2021_WI",
-		"ICC_Mens_Cricket_World_Cup_2022_WestIndies"
+		"ICC_Mens_Cricket_World_Cup_2022_WestIndies",
+		"ICC_Mens_Cricket_World_Cup_2022_WestIndies_v2"
 	],
 	"teamwilford": [
 		"SnowpiercerSeason2_V2_2020"
@@ -65434,6 +65458,9 @@
 	"ضد_التنمر": [
 		"BullyingPreventionMonth_2020"
 	],
+	"ضيافة": [
+		"DIAFA_Oct_2022"
+	],
 	"ضيف_منشآت": [
 		"Monshaat_generic_2021"
 	],
@@ -66024,6 +66051,9 @@
 	],
 	"مهارة": [
 		"MaharaHR_April_2021"
+	],
+	"مهرجان_ـضيافة": [
+		"DIAFA_Oct_2022"
 	],
 	"موسم_الرياض": [
 		"RiyadhSeason_oct_2021"
