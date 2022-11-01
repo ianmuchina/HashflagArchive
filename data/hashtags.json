@@ -8612,7 +8612,8 @@
 	],
 	"canadaremembers": [
 		"CanadaRemembers_2020",
-		"CanadaRemembers_2021"
+		"CanadaRemembers_2021",
+		"VAC_Remembrance_Day_2022"
 	],
 	"canadasdragrace": [
 		"CanadasDragRace_2020_Flight2",
@@ -30126,7 +30127,8 @@
 	],
 	"lecanadasesouvient": [
 		"CanadaRemembers_2020",
-		"CanadaRemembers_2021"
+		"CanadaRemembers_2021",
+		"VAC_Remembrance_Day_2022"
 	],
 	"lecbingo": [
 		"LEC_orange_2022_add"
@@ -45403,6 +45405,9 @@
 		"RemembranceDay_2020",
 		"Remembrance_Day_2022"
 	],
+	"remerciezunveteran": [
+		"VAC_Remembrance_Day_2022"
+	],
 	"remesamala": [
 		"Disney_TheBadBatch_Helmet_April_2021",
 		"Disney_TheBadBatch_Helmet_April_2021_ext"
@@ -53724,6 +53729,9 @@
 	],
 	"thankanurse": [
 		"CeraVe_ThankYouNurses_2021"
+	],
+	"thankaveteran": [
+		"VAC_Remembrance_Day_2022"
 	],
 	"thankful": [
 		"Thanksgiving2021_2021",
