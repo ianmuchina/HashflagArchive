@@ -11084,6 +11084,9 @@
 	"cop26": [
 		"COP26_2021"
 	],
+	"cop27": [
+		"COP27_Nov_2022"
+	],
 	"copaamericafemenina": [
 		"Copa_America_Feminina_Jul_2022"
 	],
@@ -22872,16 +22875,20 @@
 		"HBO_Max_Peacemaker_S1_Part2_Harcourt_2022"
 	],
 	"hardknocks": [
-		"HBO_Hard_Knocks_Cardinals_Oct_2022"
+		"HBO_Hard_Knocks_Cardinals_Oct_2022",
+		"HBO_Hard_Knocks_Cardinals_Oct_2022_v2"
 	],
 	"hardknocksarizona": [
-		"HBO_Hard_Knocks_Cardinals_Oct_2022"
+		"HBO_Hard_Knocks_Cardinals_Oct_2022",
+		"HBO_Hard_Knocks_Cardinals_Oct_2022_v2"
 	],
 	"hardknockscardinals": [
-		"HBO_Hard_Knocks_Cardinals_Oct_2022"
+		"HBO_Hard_Knocks_Cardinals_Oct_2022",
+		"HBO_Hard_Knocks_Cardinals_Oct_2022_v2"
 	],
 	"hardknocksinseason": [
-		"HBO_Hard_Knocks_Cardinals_Oct_2022"
+		"HBO_Hard_Knocks_Cardinals_Oct_2022",
+		"HBO_Hard_Knocks_Cardinals_Oct_2022_v2"
 	],
 	"hardsodasuperbowl": [
 		"BudLightSeltzerHardSoda_2022"
@@ -23806,7 +23813,8 @@
 		"Herald_K-content_Award_Jul_2022"
 	],
 	"hkcardinals": [
-		"HBO_Hard_Knocks_Cardinals_Oct_2022"
+		"HBO_Hard_Knocks_Cardinals_Oct_2022",
+		"HBO_Hard_Knocks_Cardinals_Oct_2022_v2"
 	],
 	"hkg": [
 		"Paralympics_2021_HKG",
@@ -27666,6 +27674,9 @@
 	],
 	"jurassicworldprologue": [
 		"JurassicWorldDominion_2021_extend"
+	],
+	"justandambitious": [
+		"COP27_Nov_2022"
 	],
 	"justanotion": [
 		"ABBA2021"
@@ -56460,6 +56471,9 @@
 	"togetherdc": [
 		"WNBA_Teams_2021_WAS1",
 		"WNBA_Season_WashingtonMystics_2022_v2"
+	],
+	"togetherforimplementation": [
+		"COP27_Nov_2022"
 	],
 	"togetherforourplanet": [
 		"COP26_2021"

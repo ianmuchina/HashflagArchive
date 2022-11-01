@@ -6409,6 +6409,11 @@
 		"startingTimestampMs": "1635465600000",
 		"endingTimestampMs": "1637279940000"
 	},
+	"COP27_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/COP27_Nov_2022/COP27_Nov_2022.png",
+		"startingTimestampMs": "1667322540000",
+		"endingTimestampMs": "1669831740000"
+	},
 	"COVIDAlertApp_CA_2020_v2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/COVIDAlertApp_CA_2020_v2/COVIDAlertApp_CA_2020_v2.png",
 		"startingTimestampMs": "1603994400000",
@@ -15658,6 +15663,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Hard_Knocks_Cardinals_Oct_2022/HBO_Hard_Knocks_Cardinals_Oct_2022.png",
 		"startingTimestampMs": "1667235600000",
 		"endingTimestampMs": "1674964740000"
+	},
+	"HBO_Hard_Knocks_Cardinals_Oct_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBO_Hard_Knocks_Cardinals_Oct_2022_v2/HBO_Hard_Knocks_Cardinals_Oct_2022_v2.png",
+		"startingTimestampMs": "1667322000000",
+		"endingTimestampMs": "1675051140000"
 	},
 	"HBO_House_of_the_Dragon_3_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HBO_House_of_the_Dragon_3_Jun_2022/HBO_House_of_the_Dragon_3_Jun_2022.png",
