@@ -19703,7 +19703,8 @@
 		"KPOP_VIT_GoldenChild_2021"
 	],
 	"gameawards": [
-		"TGA2021"
+		"TGA2021",
+		"The_Game_Awards_2022"
 	],
 	"gamebudxnba": [
 		"GameBudxNBA_2020"
@@ -53638,6 +53639,9 @@
 	"tga21": [
 		"TGA2021"
 	],
+	"tga22": [
+		"The_Game_Awards_2022"
+	],
 	"tgc": [
 		"Tokyo_Girls_Collection_Autumn_Jul_2022"
 	],
@@ -54401,7 +54405,8 @@
 		"TGA2021",
 		"TheGameAwards2020",
 		"TheGameAwards2020_BL_H2",
-		"TheGameAwards2020_H3"
+		"TheGameAwards2020_H3",
+		"The_Game_Awards_2022"
 	],
 	"thegameawards2020": [
 		"TheGameAwards2020",
