@@ -2834,6 +2834,11 @@
 		"startingTimestampMs": "1628074800000",
 		"endingTimestampMs": "1635937140000"
 	},
+	"Anti-Bullying_Week_Oct_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Anti-Bullying_Week_Oct_2022/Anti-Bullying_Week_Oct_2022.png",
+		"startingTimestampMs": "1667286060000",
+		"endingTimestampMs": "1669967940000"
+	},
 	"AntiBullyingWeek_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AntiBullyingWeek_2021/AntiBullyingWeek_2021.png",
 		"startingTimestampMs": "1635724800000",
@@ -10889,6 +10894,16 @@
 		"startingTimestampMs": "1631665800000",
 		"endingTimestampMs": "1637045940000"
 	},
+	"Disney_Strange_World_Legend_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Strange_World_Legend_Nov_2022/Disney_Strange_World_Legend_Nov_2022.png",
+		"startingTimestampMs": "1667286060000",
+		"endingTimestampMs": "1675324740000"
+	},
+	"Disney_Strange_World_Splat_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Strange_World_Splat_Nov_2022/Disney_Strange_World_Splat_Nov_2022.png",
+		"startingTimestampMs": "1667286060000",
+		"endingTimestampMs": "1675324740000"
+	},
 	"Disney_Super_Bowl_Climber_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Super_Bowl_Climber_2022/Disney_Super_Bowl_Climber_2022.png",
 		"startingTimestampMs": "1644787800000",
@@ -14668,6 +14683,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/GlamourWOTY2021/GlamourWOTY2021.png",
 		"startingTimestampMs": "1635134460000",
 		"endingTimestampMs": "1643691540000"
+	},
+	"Glamour_Woman_of_the_Year_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Glamour_Woman_of_the_Year_2022/Glamour_Woman_of_the_Year_2022.png",
+		"startingTimestampMs": "1667286000000",
+		"endingTimestampMs": "1669881540000"
 	},
 	"Glamour_WomenoftheYear2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Glamour_WomenoftheYear2020/Glamour_WomenoftheYear2020.png",
