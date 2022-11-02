@@ -40864,6 +40864,11 @@
 		"startingTimestampMs": "1620198000000",
 		"endingTimestampMs": "1630393200000"
 	},
+	"StarbucksCanada_Holiday_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/StarbucksCanada_Holiday_Nov_2022/StarbucksCanada_Holiday_Nov_2022.png",
+		"startingTimestampMs": "1667386800000",
+		"endingTimestampMs": "1672747140000"
+	},
 	"StarbucksRedCup_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/StarbucksRedCup_2021/StarbucksRedCup_2021.png",
 		"startingTimestampMs": "1635998460000",

@@ -26159,7 +26159,8 @@
 		"ItsPumpkinSeason_2021"
 	],
 	"itsredcupseason": [
-		"StarbucksRedCup_2021"
+		"StarbucksRedCup_2021",
+		"StarbucksCanada_Holiday_Nov_2022"
 	],
 	"itsredseason": [
 		"TS20222",
@@ -50786,6 +50787,9 @@
 	],
 	"starbuckscoldbrew": [
 		"Starbucks_Summer_May_2022"
+	],
+	"starbucksholiday": [
+		"StarbucksCanada_Holiday_Nov_2022"
 	],
 	"starbucksredcup": [
 		"StarbucksRedCup_2021"
