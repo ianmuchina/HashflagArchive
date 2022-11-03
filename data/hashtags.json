@@ -7615,6 +7615,9 @@
 	"brasilgameshow": [
 		"BGS_Sept_2022"
 	],
+	"brasilnogloboplay": [
+		"globoplay_Copa_do_Mundo_Nov_2022"
+	],
 	"bravelydefault2": [
 		"BravelyDefault2_Launch_2021"
 	],
@@ -27066,6 +27069,9 @@
 	"joeygallo": [
 		"MLBHRDerby2021-Tex"
 	],
+	"jogaçonogloboplay": [
+		"globoplay_Copa_do_Mundo_Nov_2022"
+	],
 	"jogodasestrelasnbb": [
 		"Jogo_das_Estrelas_NBB_JogoDasEstrelasNBB_2022",
 		"NBB_Jogodas_Estrelas_2021"
@@ -39335,6 +39341,21 @@
 		"OKC_Campaign_May_2022",
 		"OKXNFT_Campaign_Sept_2022"
 	],
+	"okta": [
+		"Okta_Nov_2022"
+	],
+	"oktaevent": [
+		"Okta_Nov_2022"
+	],
+	"oktane": [
+		"Okta_Nov_2022"
+	],
+	"oktane2022": [
+		"Okta_Nov_2022"
+	],
+	"oktane22": [
+		"Okta_Nov_2022"
+	],
 	"okx": [
 		"Okx_Rebrand_2022",
 		"OKX_Listing_May_2022",
@@ -48036,6 +48057,9 @@
 	"selenatools": [
 		"SelenaChef_Season2_Knife"
 	],
+	"seleçãonogloboplay": [
+		"globoplay_Copa_do_Mundo_Nov_2022"
+	],
 	"selfishlove": [
 		"SelenaGomez_2020",
 		"DJSnake_2021"
@@ -56651,6 +56675,9 @@
 	"tonightsthenight": [
 		"ShowtimeDexter_nov_2021"
 	],
+	"tonogloboplay": [
+		"globoplay_Copa_do_Mundo_Nov_2022"
+	],
 	"toofaan": [
 		"ToofaanOnPrime_July_2021"
 	],
@@ -56706,6 +56733,9 @@
 	"torchrelay": [
 		"Paralympics2021_TorchRelay_add",
 		"Paralympics_2021_TorchRelay"
+	],
+	"torcidagloboplay": [
+		"globoplay_Copa_do_Mundo_Nov_2022"
 	],
 	"torcidahavaianas": [
 		"OUniformeDoBrasil_2021"

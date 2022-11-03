@@ -32279,6 +32279,11 @@
 		"startingTimestampMs": "1638284400000",
 		"endingTimestampMs": "1640444340000"
 	},
+	"Okta_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Okta_Nov_2022/Okta_Nov_2022.png",
+		"startingTimestampMs": "1667433600000",
+		"endingTimestampMs": "1675382400000"
+	},
 	"Okx_Rebrand_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Okx_Rebrand_2022/Okx_Rebrand_2022.png",
 		"startingTimestampMs": "1643940000000",
@@ -47978,6 +47983,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/girlinred_2021/girlinred_2021.png",
 		"startingTimestampMs": "1614740400000",
 		"endingTimestampMs": "1622478420000"
+	},
+	"globoplay_Copa_do_Mundo_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/globoplay_Copa_do_Mundo_Nov_2022/globoplay_Copa_do_Mundo_Nov_2022.png",
+		"startingTimestampMs": "1667433600000",
+		"endingTimestampMs": "1675468200000"
 	},
 	"globoplay_Todas_As_Flores_Oct_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/globoplay_Todas_As_Flores_Oct_2022/globoplay_Todas_As_Flores_Oct_2022.png",
