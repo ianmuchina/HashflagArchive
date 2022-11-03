@@ -41532,6 +41532,9 @@
 	"pca": [
 		"PeoplesChoiceAwards_2021"
 	],
+	"pca2022": [
+		"Players_Association_Nov_2022"
+	],
 	"pcas": [
 		"PeoplesChoiceAwards_2021"
 	],
@@ -59481,7 +59484,14 @@
 	],
 	"victon": [
 		"Kpop_VICTON_Jan_2022",
-		"VICTON_Q2_May_2022"
+		"VICTON_Q2_May_2022",
+		"Kpop_VICTON_Nov_2022"
+	],
+	"victon_choice": [
+		"Kpop_VICTON_Nov_2022"
+	],
+	"victon_virus": [
+		"Kpop_VICTON_Nov_2022"
 	],
 	"victony": [
 		"Victony_Outlaw_EP_Jun_2022"
@@ -79322,7 +79332,11 @@
 	],
 	"빅톤": [
 		"Kpop_VICTON_Jan_2022",
-		"VICTON_Q2_May_2022"
+		"VICTON_Q2_May_2022",
+		"Kpop_VICTON_Nov_2022"
+	],
+	"빅톤_바이러스": [
+		"Kpop_VICTON_Nov_2022"
 	],
 	"삐뽀삐뽀": [
 		"Disney_Lightyear_Sox_May_2022"
