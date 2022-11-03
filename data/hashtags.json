@@ -1902,6 +1902,9 @@
 		"airbnbexperiences_July_2021",
 		"airbnbexperiences_July_2021_v2"
 	],
+	"airworldcup": [
+		"Nreal_Q4_2022"
+	],
 	"ais5g": [
 		"AIS5G_2020",
 		"AIS_5G_Sept_2021",
@@ -38771,6 +38774,15 @@
 		"Paralympics_2021_GEO",
 		"Paralympics_2021_GEO_"
 	],
+	"nrealworldcup": [
+		"Nreal_Q4_2022"
+	],
+	"nrealがar杯優勝だ": [
+		"Nreal_Q4_2022"
+	],
+	"nrealで日本を応援": [
+		"Nreal_Q4_2022"
+	],
 	"nrgfam": [
 		"Esports_AllAccess_2020_NRG",
 		"EsportsAllAccess_Jan_2021_V2_NRG"
@@ -49508,7 +49520,8 @@
 		"SmashSummit10",
 		"Smash_Summit_12_2021",
 		"SmashSummit11_July_2021_v2",
-		"Smash_Summit_13_2022"
+		"Smash_Summit_13_2022",
+		"Smash_Summit_14_Nov_2022"
 	],
 	"smashville": [
 		"NHLPlayoff_Teams_2020_Preds",
@@ -62109,6 +62122,9 @@
 	],
 	"worldcinemaweek2022": [
 		"Jakarta_World_Cinema_Week_Oct_2022"
+	],
+	"worldcupnreal": [
+		"Nreal_Q4_2022"
 	],
 	"worldenvironmentday": [
 		"WorldEnvironmentDay_2021",

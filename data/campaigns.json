@@ -31909,6 +31909,11 @@
 		"startingTimestampMs": "1647625260000",
 		"endingTimestampMs": "1648402860000"
 	},
+	"Nreal_Q4_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Nreal_Q4_2022/Nreal_Q4_2022.png",
+		"startingTimestampMs": "1667462400000",
+		"endingTimestampMs": "1675411200000"
+	},
 	"Nubank_Nov2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Nubank_Nov2021/Nubank_Nov2021.png",
 		"startingTimestampMs": "1636156800000",
@@ -39978,6 +39983,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Smash_Summit_13_2022/Smash_Summit_13_2022.png",
 		"startingTimestampMs": "1652346000000",
 		"endingTimestampMs": "1652598000000"
+	},
+	"Smash_Summit_14_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Smash_Summit_14_Nov_2022/Smash_Summit_14_Nov_2022.png",
+		"startingTimestampMs": "1667462400000",
+		"endingTimestampMs": "1667714400000"
 	},
 	"SmileCookie_TimHortons_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SmileCookie_TimHortons_2020/SmileCookie_TimHortons_2020.png",
