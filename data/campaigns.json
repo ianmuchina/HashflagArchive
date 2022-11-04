@@ -3789,6 +3789,21 @@
 		"startingTimestampMs": "1637679600000",
 		"endingTimestampMs": "1645628340000"
 	},
+	"BNE_OPBR_global_Film_Luffy_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_OPBR_global_Film_Luffy_Nov_2022/BNE_OPBR_global_Film_Luffy_Nov_2022.png",
+		"startingTimestampMs": "1667545200000",
+		"endingTimestampMs": "1674738000000"
+	},
+	"BNE_OPBR_global_Film_Shanks_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_OPBR_global_Film_Shanks_Nov_2022/BNE_OPBR_global_Film_Shanks_Nov_2022.png",
+		"startingTimestampMs": "1667545200000",
+		"endingTimestampMs": "1674738000000"
+	},
+	"BNE_OPBR_global_Film_Uta_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_OPBR_global_Film_Uta_Nov_2022/BNE_OPBR_global_Film_Uta_Nov_2022.png",
+		"startingTimestampMs": "1667545200000",
+		"endingTimestampMs": "1674738000000"
+	},
 	"BNE_OPBR_official_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BNE_OPBR_official_2021/BNE_OPBR_official_2021.png",
 		"startingTimestampMs": "1639969200000",
@@ -47623,6 +47638,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/ZombieTiger_UK_May_2021/ZombieTiger_UK_May_2021.png",
 		"startingTimestampMs": "1621296000000",
 		"endingTimestampMs": "1629270000000"
+	},
+	"Zoomtopia_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Zoomtopia_Nov_2022/Zoomtopia_Nov_2022.png",
+		"startingTimestampMs": "1667545200000",
+		"endingTimestampMs": "1675494000000"
 	},
 	"Zwift_Zwifthub_Oct_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Zwift_Zwifthub_Oct_2022/Zwift_Zwifthub_Oct_2022.png",

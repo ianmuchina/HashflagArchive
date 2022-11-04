@@ -7517,6 +7517,12 @@
 	"boundless": [
 		"AEW_Q4_2020_add"
 	],
+	"bountyrush": [
+		"BNE_OPBR_global_Film_Uta_Nov_2022"
+	],
+	"bountyrush_filmred": [
+		"BNE_OPBR_global_Film_Uta_Nov_2022"
+	],
 	"bowlcutking": [
 		"OliverTree2020"
 	],
@@ -32493,6 +32499,9 @@
 	"ludtv": [
 		"RainhaDaFavela_2020"
 	],
+	"luffy": [
+		"BNE_OPBR_global_Film_Luffy_Nov_2022"
+	],
 	"luhayumanikmas": [
 		"BasaBali_BeTheHero_2020"
 	],
@@ -39725,10 +39734,14 @@
 	],
 	"onepiece": [
 		"ShueishaOnePiece1000_2020",
-		"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022"
+		"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022",
+		"BNE_OPBR_global_Film_Luffy_Nov_2022"
 	],
 	"onepiece1000logs": [
 		"ShueishaOnePiece1000_2020"
+	],
+	"onepiecefilmred": [
+		"BNE_OPBR_global_Film_Shanks_Nov_2022"
 	],
 	"oneplus": [
 		"OnePlus_Negroni_Launch_Mar_2022"
@@ -48561,6 +48574,9 @@
 		"Overwatch_League_Shanghai_2022",
 		"OWL_Season4_Team_2021_Shanghai",
 		"OverwatchSeason32020_ShanghaiDragons"
+	],
+	"shanks": [
+		"BNE_OPBR_global_Film_Shanks_Nov_2022"
 	],
 	"shapedesigncreate": [
 		"Samsung_SDC21_2021",
@@ -58683,6 +58699,9 @@
 	"usエージェント": [
 		"Disney_FalconWinterSoldier_2021_JohnWalker_v2_add"
 	],
+	"uta_filmred": [
+		"BNE_OPBR_global_Film_Uta_Nov_2022"
+	],
 	"utopia": [
 		"PrimeVideo_Utopia_2020"
 	],
@@ -63647,6 +63666,15 @@
 	],
 	"zonatropical": [
 		"HBO_Max_Raised_by_Wolves_S2_Tree_2022"
+	],
+	"zoomtopia": [
+		"Zoomtopia_Nov_2022"
+	],
+	"zoomtopia2022": [
+		"Zoomtopia_Nov_2022"
+	],
+	"zoomtopia22": [
+		"Zoomtopia_Nov_2022"
 	],
 	"zosiamamet": [
 		"HBO_Max_The_Flight_Attendant_Annie_S2_2022_v2",
