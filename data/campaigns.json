@@ -7594,6 +7594,11 @@
 		"startingTimestampMs": "1635508800000",
 		"endingTimestampMs": "1636462800000"
 	},
+	"ComplexCon_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ComplexCon_Nov_2022/ComplexCon_Nov_2022.png",
+		"startingTimestampMs": "1667818800000",
+		"endingTimestampMs": "1669330800000"
+	},
 	"ComplexLand_Dec_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ComplexLand_Dec_2020/ComplexLand_Dec_2020.png",
 		"startingTimestampMs": "1607472000000",
