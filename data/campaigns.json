@@ -5329,6 +5329,11 @@
 		"startingTimestampMs": "1604217600000",
 		"endingTimestampMs": "1606809600000"
 	},
+	"Blackhat_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Blackhat_Nov_2022/Blackhat_Nov_2022.png",
+		"startingTimestampMs": "1667941200000",
+		"endingTimestampMs": "1675890000000"
+	},
 	"Bleach_BS_5year_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Bleach_BS_5year_2020/Bleach_BS_5year_2020.png",
 		"startingTimestampMs": "1592874000000",
