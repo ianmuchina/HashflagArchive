@@ -28938,6 +28938,9 @@
 		"Olympics_Countries_2021_KOR",
 		"Paralympics_2021_KOR"
 	],
+	"koraidon": [
+		"Pokemon_S_Launch_Nov_2022_v2"
+	],
 	"korbolorbojeetbo": [
 		"IPL_2021_2_KKR",
 		"IPL_2021_KKR",
@@ -35433,6 +35436,9 @@
 	],
 	"miragem": [
 		"Disney_NewMutants_2020_Moonstar"
+	],
+	"miraidon": [
+		"Pokemon_V_Launch_Nov_2022_v2"
 	],
 	"miraitowa": [
 		"Olympic_Mascot_Emoji_EXT2"
@@ -43019,6 +43025,9 @@
 	"pokemonmastersex": [
 		"Pokemas_8_2020"
 	],
+	"pokemonscarlet": [
+		"Pokemon_S_Launch_Nov_2022_v2"
+	],
 	"pokemonshiningpearl": [
 		"PokemonBrilliantDiamond_2021_Palkia"
 	],
@@ -43027,6 +43036,9 @@
 	],
 	"pokemonstrahlenderdiamant": [
 		"PokemonStrahlenderDiamant"
+	],
+	"pokemonviolet": [
+		"Pokemon_V_Launch_Nov_2022_v2"
 	],
 	"pol": [
 		"Euro_UK_2021_POL",
@@ -57901,7 +57913,8 @@
 	],
 	"twittertrendaward": [
 		"TwitterTrendAward_2021",
-		"TwitterTrendAward_2020"
+		"TwitterTrendAward_2020",
+		"TwitterTrendAward_2022"
 	],
 	"twitteruntukkebaikan": [
 		"TwitterForGood_Refresh_2021",
@@ -57912,7 +57925,8 @@
 	],
 	"twitterトレンド大賞": [
 		"TwitterTrendAward_2021",
-		"TwitterTrendAward_2020"
+		"TwitterTrendAward_2020",
+		"TwitterTrendAward_2022"
 	],
 	"twitter夏祭り": [
 		"SummerFestival_2020",
@@ -71461,6 +71475,9 @@
 		"NTT_Solmare_Xmasbox_2021",
 		"Comic_Cmoa_NTT_Solmare_Summer_Campaign_Aug_2022"
 	],
+	"コライドン": [
+		"Pokemon_S_Launch_Nov_2022_v2"
+	],
 	"コルダ": [
 		"KOEI_kinnironocorda_March_2021"
 	],
@@ -73909,8 +73926,14 @@
 	"ポケモンsp": [
 		"PokemonBrilliantDiamond_2021_Palkia"
 	],
+	"ポケモンスカーレット": [
+		"Pokemon_S_Launch_Nov_2022_v2"
+	],
 	"ポケモンスナップ": [
 		"NPSnap2_2021_v2"
+	],
+	"ポケモンバイオレット": [
+		"Pokemon_V_Launch_Nov_2022_v2"
 	],
 	"ポケモン映画": [
 		"PokemonCoCoMovieDec2020"
@@ -74146,6 +74169,9 @@
 	],
 	"ミライトワ": [
 		"Olympic_Mascot_Emoji_EXT2"
+	],
+	"ミライドン": [
+		"Pokemon_V_Launch_Nov_2022_v2"
 	],
 	"ミリしらニーアレプリカント": [
 		"NieRReplicant_April_2021_V2",

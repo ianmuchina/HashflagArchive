@@ -36799,6 +36799,16 @@
 		"startingTimestampMs": "1640530800000",
 		"endingTimestampMs": "1646060340000"
 	},
+	"Pokemon_S_Launch_Nov_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pokemon_S_Launch_Nov_2022_v2/Pokemon_S_Launch_Nov_2022_v2.png",
+		"startingTimestampMs": "1668092400000",
+		"endingTimestampMs": "1675897140000"
+	},
+	"Pokemon_V_Launch_Nov_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pokemon_V_Launch_Nov_2022_v2/Pokemon_V_Launch_Nov_2022_v2.png",
+		"startingTimestampMs": "1668092400000",
+		"endingTimestampMs": "1675897140000"
+	},
 	"PolloMcCrispy_MX_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/PolloMcCrispy_MX_2021/PolloMcCrispy_MX_2021.png",
 		"startingTimestampMs": "1636128000000",
@@ -43828,6 +43838,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/TwitterTrendAward_2021/TwitterTrendAward_2021.png",
 		"startingTimestampMs": "1636912800000",
 		"endingTimestampMs": "1643640900000"
+	},
+	"TwitterTrendAward_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TwitterTrendAward_2022/TwitterTrendAward_2022.png",
+		"startingTimestampMs": "1668092400000",
+		"endingTimestampMs": "1675177140000"
 	},
 	"TwitterWellness_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/TwitterWellness_2020/TwitterWellness_2020.png",
