@@ -1259,6 +1259,11 @@
 		"startingTimestampMs": "1662768000000",
 		"endingTimestampMs": "1669801380000"
 	},
+	"ASDA_XMAS_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ASDA_XMAS_Nov_2022/ASDA_XMAS_Nov_2022.png",
+		"startingTimestampMs": "1668124800000",
+		"endingTimestampMs": "1676073600000"
+	},
 	"ASTRO_album_promotion_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ASTRO_album_promotion_May_2022/ASTRO_album_promotion_May_2022.png",
 		"startingTimestampMs": "1652151600000",
@@ -2443,6 +2448,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Alexa_Handle_Launch_May_2022/Amazon_Alexa_Handle_Launch_May_2022.png",
 		"startingTimestampMs": "1653609600000",
 		"endingTimestampMs": "1661558400000"
+	},
+	"Amazon_CXM_Holiday_Season_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_CXM_Holiday_Season_2022/Amazon_CXM_Holiday_Season_2022.png",
+		"startingTimestampMs": "1668124800000",
+		"endingTimestampMs": "1673740800000"
 	},
 	"Amazon_Canada_The_Lake_Jun_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Canada_The_Lake_Jun_2022/Amazon_Canada_The_Lake_Jun_2022.png",
@@ -48261,6 +48271,11 @@
 	},
 	"globoplay_Todas_As_Flores_Oct_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/globoplay_Todas_As_Flores_Oct_2022/globoplay_Todas_As_Flores_Oct_2022.png",
+		"startingTimestampMs": "1666234800000",
+		"endingTimestampMs": "1672542000000"
+	},
+	"globoplay_Todas_As_Flores_Oct_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/globoplay_Todas_As_Flores_Oct_2022_add/globoplay_Todas_As_Flores_Oct_2022_add.png",
 		"startingTimestampMs": "1666234800000",
 		"endingTimestampMs": "1672542000000"
 	},

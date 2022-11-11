@@ -2651,7 +2651,8 @@
 	],
 	"amazonbuenfin": [
 		"Amazon_MX_Deals_ShoppingSeason_2020",
-		"AMZ_XCM_Shopping_2021"
+		"AMZ_XCM_Shopping_2021",
+		"Amazon_CXM_Holiday_Season_2022"
 	],
 	"amazoneidsale": [
 		"AmazonKSA_Mar_2022"
@@ -2677,7 +2678,8 @@
 	],
 	"amazonnavidad": [
 		"Amazon_MX_Deals_ShoppingSeason_2020",
-		"AMZ_XCM_Shopping_2021"
+		"AMZ_XCM_Shopping_2021",
+		"Amazon_CXM_Holiday_Season_2022"
 	],
 	"amazonnowscreaming": [
 		"AmazonStudiosNowScreaming2021"
@@ -4993,6 +4995,9 @@
 	"badomensvideo": [
 		"5SOS_2022_Album_Take_2"
 	],
+	"badvan": [
+		"globoplay_Todas_As_Flores_Oct_2022_add"
+	],
 	"baekho": [
 		"HYBE_Pledis_Oct_2022"
 	],
@@ -6837,7 +6842,8 @@
 	],
 	"blackfridayamazon": [
 		"Amazon_MX_Deals_ShoppingSeason_2020",
-		"AMZ_XCM_Shopping_2021"
+		"AMZ_XCM_Shopping_2021",
+		"Amazon_CXM_Holiday_Season_2022"
 	],
 	"blackfridaycarrefour": [
 		"Carrefour_Black_Friday_2021"
@@ -8195,7 +8201,8 @@
 	],
 	"buenfinamazon": [
 		"Amazon_MX_Deals_ShoppingSeason_2020",
-		"AMZ_XCM_Shopping_2021"
+		"AMZ_XCM_Shopping_2021",
+		"Amazon_CXM_Holiday_Season_2022"
 	],
 	"bugsbunny": [
 		"HBOMax_BugsBunny_2020"
@@ -11905,7 +11912,8 @@
 	],
 	"cybermondayamazon": [
 		"Amazon_MX_Deals_ShoppingSeason_2020",
-		"AMZ_XCM_Shopping_2021"
+		"AMZ_XCM_Shopping_2021",
+		"Amazon_CXM_Holiday_Season_2022"
 	],
 	"cybernight": [
 		"Cybernight_2020"
@@ -13614,6 +13622,9 @@
 	],
 	"digitalworkplaceevent": [
 		"TheDigitalWorkplace_2020"
+	],
+	"digjoy": [
+		"globoplay_Todas_As_Flores_Oct_2022_add"
 	],
 	"digwin": [
 		"LCS_DIG_2022",
@@ -27591,7 +27602,8 @@
 	],
 	"juguetesamazon": [
 		"Amazon_MX_Deals_ShoppingSeason_2020",
-		"AMZ_XCM_Shopping_2021"
+		"AMZ_XCM_Shopping_2021",
+		"Amazon_CXM_Holiday_Season_2022"
 	],
 	"juguetirama": [
 		"Bodega_Aurrera_Fin_Irresistible_Q4_Nov_2022"
@@ -34055,6 +34067,9 @@
 	"mattolson": [
 		"MLBHRDerby2021-OAK"
 	],
+	"mauriqueen": [
+		"globoplay_Todas_As_Flores_Oct_2022_add"
+	],
 	"mavic": [
 		"DJIDroneCampaign_72x72"
 	],
@@ -37430,7 +37445,8 @@
 	],
 	"navidadamazon": [
 		"Amazon_MX_Deals_ShoppingSeason_2020",
-		"AMZ_XCM_Shopping_2021"
+		"AMZ_XCM_Shopping_2021",
+		"Amazon_CXM_Holiday_Season_2022"
 	],
 	"navidadenlaciudad": [
 		"Navidad_en_la_CDMX_2021"
@@ -45525,7 +45541,8 @@
 	],
 	"regalosamazon": [
 		"Amazon_MX_Deals_ShoppingSeason_2020",
-		"AMZ_XCM_Shopping_2021"
+		"AMZ_XCM_Shopping_2021",
+		"Amazon_CXM_Holiday_Season_2022"
 	],
 	"regbbc": [
 		"BasketBall_Africa_League_REGBBC_2022"
@@ -50811,6 +50828,9 @@
 	],
 	"spoty2021": [
 		"BBC_SPOTY_2021"
+	],
+	"spreadingchristmascheer": [
+		"ASDA_XMAS_Nov_2022"
 	],
 	"spreadthelove": [
 		"FanDuel_Moneybag_2021"
