@@ -7479,6 +7479,11 @@
 		"startingTimestampMs": "1608778800000",
 		"endingTimestampMs": "1616565540000"
 	},
+	"CocaColaMx_World_Cup_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CocaColaMx_World_Cup_Nov_2022/CocaColaMx_World_Cup_Nov_2022.png",
+		"startingTimestampMs": "1668146400000",
+		"endingTimestampMs": "1676102340000"
+	},
 	"CocaCola_Brasil_Xmas": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CocaCola_Brasil_Xmas/CocaCola_Brasil_Xmas.png",
 		"startingTimestampMs": "1605751200000",
@@ -42833,6 +42838,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/The_Crew_League_Feb_2022/The_Crew_League_Feb_2022.png",
 		"startingTimestampMs": "1645819200000",
 		"endingTimestampMs": "1652718060000"
+	},
+	"The_Cure_Nov_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/The_Cure_Nov_2022_v2/The_Cure_Nov_2022_v2.png",
+		"startingTimestampMs": "1668146400000",
+		"endingTimestampMs": "1672574400000"
 	},
 	"The_Game_Awards_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/The_Game_Awards_2022/The_Game_Awards_2022.png",
