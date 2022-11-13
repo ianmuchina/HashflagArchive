@@ -2459,6 +2459,11 @@
 		"startingTimestampMs": "1653609600000",
 		"endingTimestampMs": "1661558400000"
 	},
+	"Amazon_Black_Friday_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Black_Friday_2022/Amazon_Black_Friday_2022.png",
+		"startingTimestampMs": "1668297660000",
+		"endingTimestampMs": "1669679940000"
+	},
 	"Amazon_CXM_Holiday_Season_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_CXM_Holiday_Season_2022/Amazon_CXM_Holiday_Season_2022.png",
 		"startingTimestampMs": "1668124800000",

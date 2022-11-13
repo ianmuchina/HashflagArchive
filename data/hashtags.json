@@ -2652,6 +2652,9 @@
 	"amazon": [
 		"amazonprimeday_2021"
 	],
+	"amazonblackfridayweek": [
+		"Amazon_Black_Friday_2022"
+	],
 	"amazonbuenfin": [
 		"Amazon_MX_Deals_ShoppingSeason_2020",
 		"AMZ_XCM_Shopping_2021",
@@ -2700,6 +2703,9 @@
 	],
 	"amazonrisas": [
 		"AMZ_MX_Prime_Day_Jun_2022_add"
+	],
+	"amazonyeti": [
+		"Amazon_Black_Friday_2022"
 	],
 	"ambedkarjayanti": [
 		"AmbedkarJayanti_2021",
@@ -6856,6 +6862,9 @@
 	],
 	"blackfridayshopee": [
 		"Shopee1111_Nov_2021"
+	],
+	"blackfridayyeti": [
+		"Amazon_Black_Friday_2022"
 	],
 	"blackfullatwitter": [
 		"TwitterforGood_IndigenousX_10_year_anniversary_2022"
