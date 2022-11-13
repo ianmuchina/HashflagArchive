@@ -3317,20 +3317,28 @@
 	"apartment20": [
 		"HBOMax_Friends_Frame"
 	],
+	"apec": [
+		"Summit_Thailand_APEC_2022_v2"
+	],
 	"apec2022": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"apec2022thailand": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"apecforbcg": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"apecforyouandme": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"apecth": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"apenasjen": [
 		"DisneyPlus_SheHulk_S1_JustJen"
@@ -40172,7 +40180,8 @@
 		"BattlefieldBeta_2021"
 	],
 	"openconnectbalance": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"openice": [
 		"TNTGotHockey_2022",
@@ -55798,6 +55807,9 @@
 	"thetropicalzone": [
 		"HBO_Max_Raised_by_Wolves_S2_Tree_2022"
 	],
+	"thetulsaking": [
+		"Tulsa_King_Paramountplus_Nov_2022"
+	],
 	"theturn2kl": [
 		"TheTurn2KL_2021",
 		"NBA_2KL_SLAM_May_2022"
@@ -57689,6 +57701,18 @@
 	],
 	"tuloyangkwento\"\"mentalhealthmatters": [
 		"WMHD_2022_v2"
+	],
+	"tulsaking": [
+		"Tulsa_King_Paramountplus_Nov_2022"
+	],
+	"tulsakingseason1": [
+		"Tulsa_King_Paramountplus_Nov_2022"
+	],
+	"tulsakingseries": [
+		"Tulsa_King_Paramountplus_Nov_2022"
+	],
+	"tulsakingtv": [
+		"Tulsa_King_Paramountplus_Nov_2022"
 	],
 	"tun": [
 		"Olympics_Countries_2021_TUN",
@@ -69233,7 +69257,8 @@
 		"Disney_Thor2_JaneFoster_2022"
 	],
 	"เจนเนอเรชันเอเปค": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"เจริญอาหารกับเป๊ปซี่": [
 		"PepsiThailand_nov_2021"
@@ -69312,7 +69337,8 @@
 		"UN_OrangeTheWorld_2021"
 	],
 	"เปิดกว้างสร้างสัมพันธ์เชื่อมโยงกันสู่สมดุล": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"เป๊ปซี่": [
 		"PepsiThailand_nov_2021"
@@ -69386,13 +69412,16 @@
 		"DisneyPlus_SheHulk_S1_EmilBlonsky"
 	],
 	"เอเปค2565": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"เอเปคเพื่อความยั่งยืน": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"เอเปคไทยแลนด์": [
-		"APEC2022THAILAND"
+		"APEC2022THAILAND",
+		"Summit_Thailand_APEC_2022_v2"
 	],
 	"เอเวอเร็ตต์รอสส์": [
 		"Disney_BlackPanther2_EverettRoss_INTL"
