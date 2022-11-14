@@ -41994,6 +41994,11 @@
 		"startingTimestampMs": "1638144000000",
 		"endingTimestampMs": "1640908800000"
 	},
+	"TIME_POY_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TIME_POY_2022/TIME_POY_2022.png",
+		"startingTimestampMs": "1668451620000",
+		"endingTimestampMs": "1672559940000"
+	},
 	"TIMOlimpiadas2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/TIMOlimpiadas2021/TIMOlimpiadas2021.png",
 		"startingTimestampMs": "1623898800000",
