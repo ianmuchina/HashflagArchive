@@ -5184,6 +5184,11 @@
 		"startingTimestampMs": "1633622400000",
 		"endingTimestampMs": "1641571200000"
 	},
+	"Binance_10M_Follower_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Binance_10M_Follower_Nov_2022/Binance_10M_Follower_Nov_2022.png",
+		"startingTimestampMs": "1668481800000",
+		"endingTimestampMs": "1676430600000"
+	},
 	"Binance_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Binance_Apr_2022/Binance_Apr_2022.png",
 		"startingTimestampMs": "1650441600000",
