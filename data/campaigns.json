@@ -1449,6 +1449,11 @@
 		"startingTimestampMs": "1638835200000",
 		"endingTimestampMs": "1646611200000"
 	},
+	"AWQAF_NOV_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AWQAF_NOV_2022/AWQAF_NOV_2022.png",
+		"startingTimestampMs": "1668384000000",
+		"endingTimestampMs": "1676332800000"
+	},
 	"AWSSummit_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AWSSummit_2021/AWSSummit_2021.png",
 		"startingTimestampMs": "1624233600000",
