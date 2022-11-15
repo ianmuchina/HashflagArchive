@@ -29189,6 +29189,11 @@
 		"startingTimestampMs": "1637074800000",
 		"endingTimestampMs": "1639717140000"
 	},
+	"NFLProBowlVote2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFLProBowlVote2022/NFLProBowlVote2022.png",
+		"startingTimestampMs": "1668481140000",
+		"endingTimestampMs": "1672545540000"
+	},
 	"NFLTwitter": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NFLTwitter/NFLTwitter.png",
 		"startingTimestampMs": "1580306400000",
