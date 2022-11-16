@@ -38642,13 +38642,17 @@
 	],
 	"nma": [
 		"NRJMUSICAWARDS_2021",
-		"NMA_2020"
+		"NMA_2020",
+		"NRJ_Music_Awards_Nov_2022"
 	],
 	"nma2020": [
 		"NMA_2020"
 	],
 	"nma2021": [
 		"NRJMUSICAWARDS_2021"
+	],
+	"nma2022": [
+		"NRJ_Music_Awards_Nov_2022"
 	],
 	"nmdlnd": [
 		"SearchlightNomadland_2020",
@@ -39039,7 +39043,8 @@
 		"EsportsAllAccess_Jan_2021_V2_NRG"
 	],
 	"nrjmusicawards": [
-		"NRJMUSICAWARDS_2021"
+		"NRJMUSICAWARDS_2021",
+		"NRJ_Music_Awards_Nov_2022"
 	],
 	"nrl": [
 		"NRL_2021",
