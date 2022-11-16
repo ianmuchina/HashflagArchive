@@ -15139,6 +15139,11 @@
 		"startingTimestampMs": "1595696400000",
 		"endingTimestampMs": "1603645200000"
 	},
+	"GrabID_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GrabID_Nov_2022/GrabID_Nov_2022.png",
+		"startingTimestampMs": "1668632400000",
+		"endingTimestampMs": "1672558200000"
+	},
 	"Grammy_COVID19": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Grammy_COVID19/Grammy_COVID19.png",
 		"startingTimestampMs": "1586304000000",
@@ -34643,6 +34648,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/PAX_West_Gaming_Convention_2022/PAX_West_Gaming_Convention_2022.png",
 		"startingTimestampMs": "1661504400000",
 		"endingTimestampMs": "1662534000000"
+	},
+	"PC_Gaming_Show_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PC_Gaming_Show_Nov_2022/PC_Gaming_Show_Nov_2022.png",
+		"startingTimestampMs": "1668623760000",
+		"endingTimestampMs": "1668882960000"
 	},
 	"PEPSIxBLACKPINK_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/PEPSIxBLACKPINK_2020/PEPSIxBLACKPINK_2020.png",
