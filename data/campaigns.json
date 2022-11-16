@@ -6224,6 +6224,11 @@
 		"startingTimestampMs": "1641034800000",
 		"endingTimestampMs": "1672556400000"
 	},
+	"CDL_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CDL_2022_v2/CDL_2022_v2.png",
+		"startingTimestampMs": "1641034800000",
+		"endingTimestampMs": "1668754740000"
+	},
 	"CDL_Activision_Boston_Breach_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CDL_Activision_Boston_Breach_2022/CDL_Activision_Boston_Breach_2022.png",
 		"startingTimestampMs": "1645952400000",
@@ -39796,6 +39801,11 @@
 	},
 	"Saudi_team_fans_Nov_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Saudi_team_fans_Nov_2022/Saudi_team_fans_Nov_2022.png",
+		"startingTimestampMs": "1668322800000",
+		"endingTimestampMs": "1676271600000"
+	},
+	"Saudi_team_fans_Nov_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Saudi_team_fans_Nov_2022_v2/Saudi_team_fans_Nov_2022_v2.png",
 		"startingTimestampMs": "1668322800000",
 		"endingTimestampMs": "1676271600000"
 	},
