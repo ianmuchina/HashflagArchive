@@ -29396,6 +29396,12 @@
 	"k리그": [
 		"KLeague_2021"
 	],
+	"laaficionmanda": [
+		"Corona_Yo_Mando_Sept_2022_v2"
+	],
+	"laaficiónmanda": [
+		"Corona_Yo_Mando_Sept_2022_v2"
+	],
 	"laalbiceleste": [
 		"Handball_WorldCup_Egypt_2021_Arg"
 	],
@@ -31644,7 +31650,8 @@
 		"BlackIsKing_2020_2_H"
 	],
 	"lionsden": [
-		"EnglandEuros_May_2021"
+		"EnglandEuros_May_2021",
+		"FIFA_World_Cup_England_Nov_2022_v2"
 	],
 	"lionsrugby": [
 		"VodafoneLions_Tour_2021"
@@ -35059,7 +35066,8 @@
 		"Mexicos_Grand_Prix_MexicoGP60_Sept_2022"
 	],
 	"mexicomanda": [
-		"Corona_Yo_Mando_Sept_2022"
+		"Corona_Yo_Mando_Sept_2022",
+		"Corona_Yo_Mando_Sept_2022_v2"
 	],
 	"mezzalunarossa": [
 		"WorldRedCrossDay_May_2021_add"
@@ -37273,7 +37281,8 @@
 		"Mexicos_Grand_Prix_MexicoGP_Sept_2022"
 	],
 	"méxicomanda": [
-		"Corona_Yo_Mando_Sept_2022"
+		"Corona_Yo_Mando_Sept_2022",
+		"Corona_Yo_Mando_Sept_2022_v2"
 	],
 	"méxiconopara": [
 		"Mexico_Earthquake_Relief_Apr_2022"
@@ -56318,7 +56327,8 @@
 		"PaulMcCartney_April_2021"
 	],
 	"threelions": [
-		"EnglandEuros_May_2021"
+		"EnglandEuros_May_2021",
+		"FIFA_World_Cup_England_Nov_2022_v2"
 	],
 	"thrilldriver": [
 		"Nissan_213_Jan_2022_extend",
@@ -63609,7 +63619,8 @@
 		"Paralympics_2021_MEX"
 	],
 	"yomando": [
-		"Corona_Yo_Mando_Sept_2022"
+		"Corona_Yo_Mando_Sept_2022",
+		"Corona_Yo_Mando_Sept_2022_v2"
 	],
 	"yomequedoencasa": [
 		"StayHome_2020_ItalianAdd",
