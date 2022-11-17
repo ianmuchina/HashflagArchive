@@ -3774,6 +3774,11 @@
 		"startingTimestampMs": "1654520400000",
 		"endingTimestampMs": "1654693200000"
 	},
+	"BK_new_album_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BK_new_album_Nov_2022/BK_new_album_Nov_2022.png",
+		"startingTimestampMs": "1668657600000",
+		"endingTimestampMs": "1671249600000"
+	},
 	"BLACKPINK_YG_Member_JENNIE_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BLACKPINK_YG_Member_JENNIE_Sept_2022/BLACKPINK_YG_Member_JENNIE_Sept_2022.png",
 		"startingTimestampMs": "1663254000000",
@@ -16613,6 +16618,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/HIMYF_Subway_Feb_2022/HIMYF_Subway_Feb_2022.png",
 		"startingTimestampMs": "1645516800000",
 		"endingTimestampMs": "1653375540000"
+	},
+	"HITC_Jakarta_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HITC_Jakarta_Nov_2022/HITC_Jakarta_Nov_2022.png",
+		"startingTimestampMs": "1668657600000",
+		"endingTimestampMs": "1671595140000"
 	},
 	"HL_Team_Emojis_2019_2020_Canes": {
 		"assetUrl": "https://abs.twimg.com/hashflags/HL_Team_Emojis_2019_2020_Canes/HL_Team_Emojis_2019_2020_Canes.png",
