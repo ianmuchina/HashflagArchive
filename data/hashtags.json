@@ -18389,6 +18389,9 @@
 	"fifarabcup": [
 		"FIFA_Arab_Cup_FIFAemblem_2021"
 	],
+	"fifaworldcuponfox": [
+		"FOX_Sports_Mens_World_Cup_Nov_2022_v3"
+	],
 	"fifawwc": [
 		"FIFAWWC_Draw_Oct_2022_v2"
 	],
@@ -56733,6 +56736,12 @@
 	"tisthedamnseason": [
 		"TS_Dec_2020_Album"
 	],
+	"tistheworldcup": [
+		"FOX_Sports_Mens_World_Cup_Nov_2022_v3"
+	],
+	"tistheworldcuponfox": [
+		"FOX_Sports_Mens_World_Cup_Nov_2022_v3"
+	],
 	"titangames": [
 		"TitanGames_NBC_2020"
 	],
@@ -60947,6 +60956,9 @@
 	"wcfontnt": [
 		"Turner_TNT_NBA_Playoffs_2022"
 	],
+	"wcnow": [
+		"FOX_Sports_Mens_World_Cup_Nov_2022_v3"
+	],
 	"wcpgw": [
 		"DominicFike_2020"
 	],
@@ -62643,6 +62655,9 @@
 	],
 	"worldcupnreal": [
 		"Nreal_Q4_2022"
+	],
+	"worldcuponfox": [
+		"FOX_Sports_Mens_World_Cup_Nov_2022_v3"
 	],
 	"worldenvironmentday": [
 		"WorldEnvironmentDay_2021",
