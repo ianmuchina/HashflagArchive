@@ -479,6 +479,16 @@
 		"startingTimestampMs": "1664262060000",
 		"endingTimestampMs": "1672559940000"
 	},
+	"ABEMA_CyberAgent_Qatar_1_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ABEMA_CyberAgent_Qatar_1_Nov_2022/ABEMA_CyberAgent_Qatar_1_Nov_2022.png",
+		"startingTimestampMs": "1668783600000",
+		"endingTimestampMs": "1675177140000"
+	},
+	"ABEMA_CyberAgent_Qatar_2_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ABEMA_CyberAgent_Qatar_2_Nov_2022/ABEMA_CyberAgent_Qatar_2_Nov_2022.png",
+		"startingTimestampMs": "1668783600000",
+		"endingTimestampMs": "1675177140000"
+	},
 	"ABSCBNXmas2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ABSCBNXmas2020/ABSCBNXmas2020.png",
 		"startingTimestampMs": "1606694400000",
