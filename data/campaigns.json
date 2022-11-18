@@ -6259,6 +6259,11 @@
 		"startingTimestampMs": "1641034800000",
 		"endingTimestampMs": "1668754740000"
 	},
+	"CDL_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CDL_2023/CDL_2023.png",
+		"startingTimestampMs": "1668754800000",
+		"endingTimestampMs": "1696143600000"
+	},
 	"CDL_Activision_Boston_Breach_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/CDL_Activision_Boston_Breach_2022/CDL_Activision_Boston_Breach_2022.png",
 		"startingTimestampMs": "1645952400000",
