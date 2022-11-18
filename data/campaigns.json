@@ -14899,6 +14899,11 @@
 		"startingTimestampMs": "1615248000000",
 		"endingTimestampMs": "1622534340000"
 	},
+	"GilletteUK_World_Cup_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GilletteUK_World_Cup_Nov_2022/GilletteUK_World_Cup_Nov_2022.png",
+		"startingTimestampMs": "1668762000000",
+		"endingTimestampMs": "1676710800000"
+	},
 	"GivingTuesday_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/GivingTuesday_2020/GivingTuesday_2020.png",
 		"startingTimestampMs": "1606557600000",
