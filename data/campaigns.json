@@ -4924,6 +4924,11 @@
 		"startingTimestampMs": "1662447600000",
 		"endingTimestampMs": "1670310000000"
 	},
+	"Betclic_France_WorldCup_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Betclic_France_WorldCup_Nov_2022/Betclic_France_WorldCup_Nov_2022.png",
+		"startingTimestampMs": "1668813480000",
+		"endingTimestampMs": "1676762280000"
+	},
 	"BetfairChase_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BetfairChase_2021/BetfairChase_2021.png",
 		"startingTimestampMs": "1631318400000",
