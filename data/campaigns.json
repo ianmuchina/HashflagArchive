@@ -114,6 +114,11 @@
 		"startingTimestampMs": "1625151600000",
 		"endingTimestampMs": "1626533940000"
 	},
+	"2022_FIFA_WorldCup_Argentina": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Argentina/2022_FIFA_WorldCup_Argentina.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_Australia": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Australia/2022_FIFA_WorldCup_Australia.png",
 		"startingTimestampMs": "1668816000000",
@@ -134,13 +139,28 @@
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
+	"2022_FIFA_WorldCup_Costa_Rica": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Costa_Rica/2022_FIFA_WorldCup_Costa_Rica.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_Croatia": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Croatia/2022_FIFA_WorldCup_Croatia.png",
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
+	"2022_FIFA_WorldCup_Croatia_nickname": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Croatia_nickname/2022_FIFA_WorldCup_Croatia_nickname.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_Denmark": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Denmark/2022_FIFA_WorldCup_Denmark.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Denmark_final": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Denmark_final/2022_FIFA_WorldCup_Denmark_final.png",
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
@@ -169,8 +189,53 @@
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
+	"2022_FIFA_WorldCup_Japan": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Japan/2022_FIFA_WorldCup_Japan.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Korea_Brazil": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Korea_Brazil/2022_FIFA_WorldCup_Korea_Brazil.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Korea_Ecuador": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Korea_Ecuador/2022_FIFA_WorldCup_Korea_Ecuador.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Korea_Poland": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Korea_Poland/2022_FIFA_WorldCup_Korea_Poland.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Korea_Portugal": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Korea_Portugal/2022_FIFA_WorldCup_Korea_Portugal.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Korea_Republic_2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Korea_Republic_2/2022_FIFA_WorldCup_Korea_Republic_2.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Korea_Serbia": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Korea_Serbia/2022_FIFA_WorldCup_Korea_Serbia.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Mexico": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Mexico/2022_FIFA_WorldCup_Mexico.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_Morocco": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Morocco/2022_FIFA_WorldCup_Morocco.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Morocco_nickname": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Morocco_nickname/2022_FIFA_WorldCup_Morocco_nickname.png",
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
@@ -189,6 +254,11 @@
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
+	"2022_FIFA_WorldCup_Qatar_nickname": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Qatar_nickname/2022_FIFA_WorldCup_Qatar_nickname.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_Saudi": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Saudi/2022_FIFA_WorldCup_Saudi.png",
 		"startingTimestampMs": "1668816000000",
@@ -196,6 +266,11 @@
 	},
 	"2022_FIFA_WorldCup_Senegal": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Senegal/2022_FIFA_WorldCup_Senegal.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Spain": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Spain/2022_FIFA_WorldCup_Spain.png",
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
@@ -209,8 +284,23 @@
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
+	"2022_FIFA_WorldCup_Tunisia_nickname": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Tunisia_nickname/2022_FIFA_WorldCup_Tunisia_nickname.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_USA": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_USA/2022_FIFA_WorldCup_USA.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Uruguay": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Uruguay/2022_FIFA_WorldCup_Uruguay.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Wales": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Wales/2022_FIFA_WorldCup_Wales.png",
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
@@ -9693,6 +9783,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_WhatIfLaunch_Ultron/DisneyPlus_WhatIfLaunch_Ultron.png",
 		"startingTimestampMs": "1632835800000",
 		"endingTimestampMs": "1635490740000"
+	},
+	"DisneyPlus_Willow_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Willow_2022/DisneyPlus_Willow_2022.png",
+		"startingTimestampMs": "1668925800000",
+		"endingTimestampMs": "1676966340000"
 	},
 	"DisneyPlus_WimpyKid_CheeseTouch_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_WimpyKid_CheeseTouch_2021/DisneyPlus_WimpyKid_CheeseTouch_2021.png",
