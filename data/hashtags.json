@@ -2,7 +2,8 @@
 	"": [
 		"Paralympics_Sports_2021_ParaTaekwondo",
 		"Test191021_1",
-		"India_State_elections_Oct_2022"
+		"India_State_elections_Oct_2022",
+		"2022_FIFA_WorldCup_Denmark"
 	],
 	"\u0008装甲娘": [
 		"DMM_soukoumusume_2020"
@@ -12456,6 +12457,9 @@
 	"darna": [
 		"Darna_Campaign_Aug_2022"
 	],
+	"darodhvide": [
+		"2022_FIFA_WorldCup_Denmark"
+	],
 	"darthvader": [
 		"Disney_Maythe4th_2021_DarthVader",
 		"Disneyplus_Obi_Wan_Kenobi_Darth_Vader_2022_v2"
@@ -13054,7 +13058,8 @@
 		"Paralympics_2021_DEN",
 		"Euro_UK_2021_DEN",
 		"Olympics_Countries_2021_DEN",
-		"Womens_Euros_DEN_2022"
+		"Womens_Euros_DEN_2022",
+		"2022_FIFA_WorldCup_Denmark"
 	],
 	"denaliofevs": [
 		"GMC_Sierra_BET_Oct_2022"
@@ -13119,6 +13124,9 @@
 	],
 	"dersearavermişimdir": [
 		"Fanta_TR_Dec_2021"
+	],
+	"derødhvide": [
+		"2022_FIFA_WorldCup_Denmark"
 	],
 	"desafiodasmãoslavadas": [
 		"WHO_SafeHands_2020",
@@ -37934,7 +37942,8 @@
 		"ICCT20WorldCup_2021_NED",
 		"Paralympics_2021_NED",
 		"Euro_UK_2021_NED",
-		"Womens_Euros_NED_2022"
+		"Womens_Euros_NED_2022",
+		"2022_FIFA_WorldCup_Netherlands"
 	],
 	"nedb": [
 		"Disneyplus_Obi_Wan_Kenobi_EP3_Droid_2022"
@@ -53494,15 +53503,24 @@
 	"teamcovenant": [
 		"AGS_NewWorld_Factions_2021_TeamCovenant"
 	],
+	"teamcroatia": [
+		"2022_FIFA_WorldCup_Croatia"
+	],
 	"teamcryptocom": [
 		"Cryptocom_F1_SG__2021_v2",
 		"Cryptocom_F1_SG__2021",
 		"CryptocomCimate_2021_v2",
 		"CryptocomCimate_2021"
 	],
+	"teamdanmark": [
+		"2022_FIFA_WorldCup_Denmark"
+	],
 	"teamdanny": [
 		"TheVoice_KidsUK_2020",
 		"BBC_Drag_Race_UK_Season_4_Finalists_BlueBeard_Nov_2022"
+	],
+	"teamdenmark": [
+		"2022_FIFA_WorldCup_Denmark"
 	],
 	"teamdoritos": [
 		"CheetosDoritos_FlaminHot_April_2021_D"
@@ -53591,6 +53609,9 @@
 	],
 	"teamhongkong": [
 		"Paralympics_2021_HKG"
+	],
+	"teamhrvatska": [
+		"2022_FIFA_WorldCup_Croatia"
 	],
 	"teamicybob": [
 		"SnowpiercerSeason2_V2_2020"
@@ -53695,7 +53716,8 @@
 	],
 	"teammorocco": [
 		"Africa_Cup_of_Nations_Morocco_2022",
-		"CAF_WAFCON_Morocco_Jun_2022"
+		"CAF_WAFCON_Morocco_Jun_2022",
+		"2022_FIFA_WorldCup_Morocco"
 	],
 	"teamnam": [
 		"Paralympics_2021_NAM"
@@ -53711,7 +53733,11 @@
 	"teamnetherlands": [
 		"ICCT20WorldCup_2021_NED",
 		"ICC_Mens_Cricket_World_Cup_2022_Netherlands",
-		"ICC_Mens_Cricket_World_Cup_2022_Netherlands_v2"
+		"ICC_Mens_Cricket_World_Cup_2022_Netherlands_v2",
+		"2022_FIFA_WorldCup_Netherlands"
+	],
+	"teamnetherlands\tflyingdutchmen\toranje": [
+		"2022_FIFA_WorldCup_Netherlands"
 	],
 	"teamnewzealand": [
 		"ICC_Womens_Cricket_World_Cup_TeamNewZealand_2022",
@@ -53780,6 +53806,9 @@
 	"teampur": [
 		"Paralympics_2021_PUR"
 	],
+	"teamqatar": [
+		"2022_FIFA_WorldCup_Qatar"
+	],
 	"teamraw": [
 		"WWESurvivorSeries2020_RAW",
 		"WWESurvivorSeries2021_TeamRaw"
@@ -53800,6 +53829,9 @@
 	],
 	"teamrufusbuck": [
 		"Netflix_TheHarderTheyFall_2021_Cowgirl"
+	],
+	"teamsaudiarabia": [
+		"2022_FIFA_WorldCup_Saudi"
 	],
 	"teamscotland": [
 		"ICCT20WorldCup_2021_SCO",
@@ -53887,7 +53919,8 @@
 	],
 	"teamtunisia": [
 		"Africa_Cup_of_Nations_Tunisia_2022",
-		"CAF_WAFCON_Tunisia_Jun_2022"
+		"CAF_WAFCON_Tunisia_Jun_2022",
+		"2022_FIFA_WorldCup_Tunisia"
 	],
 	"teamuganda": [
 		"CAF_WAFCON_Uganda_Jun_2022"
@@ -66706,6 +66739,18 @@
 	],
 	"فريا": [
 		"Sony_PlayStation_God_of_War_3_Oct_2022_translations"
+	],
+	"فريقالسعودية": [
+		"2022_FIFA_WorldCup_Saudi"
+	],
+	"فريقالمغرب": [
+		"2022_FIFA_WorldCup_Morocco"
+	],
+	"فريقتونس": [
+		"2022_FIFA_WorldCup_Tunisia"
+	],
+	"فريققطر": [
+		"2022_FIFA_WorldCup_Qatar_2"
 	],
 	"فضاء_سيبراني_سعودي_آمن": [
 		"NCA_Dec_2020_v4",
