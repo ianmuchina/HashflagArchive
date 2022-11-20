@@ -114,6 +114,11 @@
 		"startingTimestampMs": "1625151600000",
 		"endingTimestampMs": "1626533940000"
 	},
+	"2022_FIFA_WorldCup_ARG_nickname": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_ARG_nickname/2022_FIFA_WorldCup_ARG_nickname.png",
+		"startingTimestampMs": "1668902400000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_AUS_triagram": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_AUS_triagram/2022_FIFA_WorldCup_AUS_triagram.png",
 		"startingTimestampMs": "1668902400000",
@@ -229,6 +234,11 @@
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
+	"2022_FIFA_WorldCup_IRAN_nickname": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_IRAN_nickname/2022_FIFA_WorldCup_IRAN_nickname.png",
+		"startingTimestampMs": "1668902400000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_IRN_triagram": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_IRN_triagram/2022_FIFA_WorldCup_IRN_triagram.png",
 		"startingTimestampMs": "1668902400000",
@@ -277,6 +287,11 @@
 	"2022_FIFA_WorldCup_Korea_Serbia": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Korea_Serbia/2022_FIFA_WorldCup_Korea_Serbia.png",
 		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_MAR_nickname": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_MAR_nickname/2022_FIFA_WorldCup_MAR_nickname.png",
+		"startingTimestampMs": "1668902400000",
 		"endingTimestampMs": "1672444800000"
 	},
 	"2022_FIFA_WorldCup_MAR_triagram": {
@@ -372,6 +387,11 @@
 	"2022_FIFA_WorldCup_Switzerland": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Switzerland/2022_FIFA_WorldCup_Switzerland.png",
 		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_TUN_nickname": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_TUN_nickname/2022_FIFA_WorldCup_TUN_nickname.png",
+		"startingTimestampMs": "1668902400000",
 		"endingTimestampMs": "1672444800000"
 	},
 	"2022_FIFA_WorldCup_TUN_triagram": {
