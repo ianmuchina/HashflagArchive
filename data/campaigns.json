@@ -174,6 +174,11 @@
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
+	"2022_FIFA_WorldCup_CoppaDelMondo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_CoppaDelMondo/2022_FIFA_WorldCup_CoppaDelMondo.png",
+		"startingTimestampMs": "1668902400000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_Costa_Rica": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Costa_Rica/2022_FIFA_WorldCup_Costa_Rica.png",
 		"startingTimestampMs": "1668816000000",
@@ -326,6 +331,11 @@
 	},
 	"2022_FIFA_WorldCup_Netherlands_final": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Netherlands_final/2022_FIFA_WorldCup_Netherlands_final.png",
+		"startingTimestampMs": "1668902400000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Poland_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Poland_v2/2022_FIFA_WorldCup_Poland_v2.png",
 		"startingTimestampMs": "1668902400000",
 		"endingTimestampMs": "1672444800000"
 	},
@@ -7213,6 +7223,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/CamelotTokyo_2021/CamelotTokyo_2021.png",
 		"startingTimestampMs": "1625871600000",
 		"endingTimestampMs": "1630442160000"
+	},
+	"Camelot_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Camelot_Nov_2022/Camelot_Nov_2022.png",
+		"startingTimestampMs": "1668971280000",
+		"endingTimestampMs": "1672513680000"
 	},
 	"Camila_Cabello_Single_Emoji_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Camila_Cabello_Single_Emoji_2021/Camila_Cabello_Single_Emoji_2021.png",

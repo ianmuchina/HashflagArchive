@@ -6428,6 +6428,9 @@
 	"biało-czerwoni": [
 		"2022_FIFA_WorldCup_Korea_Poland"
 	],
+	"biało_czerwoni": [
+		"2022_FIFA_WorldCup_Poland_v2"
+	],
 	"białoczerwoni": [
 		"Handball_WorldCup_Egypt_2021_POL"
 	],
@@ -11337,6 +11340,9 @@
 	"copingmechanism": [
 		"Willow_Smith_2022",
 		"Willow_Smith_2022_extend"
+	],
+	"coppadelmondo": [
+		"2022_FIFA_WorldCup_CoppaDelMondo"
 	],
 	"coppadelmondofifa": [
 		"2022_FIFA_WorldCup_Tournament_Trophy_v2"
@@ -25535,6 +25541,9 @@
 	"imacrumpleduppieceofpaper": [
 		"TS2021Scarf",
 		"TSAT"
+	],
+	"imagineawin": [
+		"Camelot_Nov_2022"
 	],
 	"imaginedragons": [
 		"Imagine_Dragons_Album_2021_Emoji"
@@ -43456,7 +43465,8 @@
 		"Euro_UK_2021_POL",
 		"Paralympics_2021_POL",
 		"Olympics_Countries_2021_POL",
-		"2022_FIFA_WorldCup_Korea_Poland"
+		"2022_FIFA_WorldCup_Korea_Poland",
+		"2022_FIFA_WorldCup_Poland_v2"
 	],
 	"polcan": [
 		"44thCanadianElection_2021"
@@ -54058,10 +54068,12 @@
 		"Paralympics_2021_POL"
 	],
 	"teampoland": [
-		"2022_FIFA_WorldCup_Korea_Poland"
+		"2022_FIFA_WorldCup_Korea_Poland",
+		"2022_FIFA_WorldCup_Poland_v2"
 	],
 	"teampolska": [
-		"2022_FIFA_WorldCup_Korea_Poland"
+		"2022_FIFA_WorldCup_Korea_Poland",
+		"2022_FIFA_WorldCup_Poland_v2"
 	],
 	"teamportugal": [
 		"2022_FIFA_WorldCup_Korea_Portugal"
@@ -57306,6 +57318,9 @@
 	"tnfonprimevideo": [
 		"Prime_Video_Thursday_Night_Football_Aug_2022",
 		"Prime_Video_Thursday_Night_Football_Nov_2022"
+	],
+	"tnlchristmas": [
+		"Camelot_Nov_2022"
 	],
 	"tntgothockey": [
 		"TNTGotHockey_2022",
