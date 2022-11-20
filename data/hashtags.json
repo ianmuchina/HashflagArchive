@@ -4567,7 +4567,8 @@
 	"aus": [
 		"Paralympics_2021_AUS",
 		"Olympics_Countries_2021_AUS",
-		"ICCT20WorldCup_2021_AUS"
+		"ICCT20WorldCup_2021_AUS",
+		"2022_FIFA_WorldCup_AUS_triagram"
 	],
 	"ausadapts": [
 		"Paralympics_2021_AUS"
@@ -7706,7 +7707,8 @@
 	"bra": [
 		"Paralympics_2021_BRA",
 		"Olympics_Countries_2021_BRA",
-		"2022_FIFA_WorldCup_Korea_Brazil"
+		"2022_FIFA_WorldCup_Korea_Brazil",
+		"2022_FIFA_WorldCup_Brazil"
 	],
 	"bradleybeal": [
 		"NBAAllStar_2021_players",
@@ -7735,7 +7737,8 @@
 		"Turner_RhodesToTheTop_S1_2021"
 	],
 	"brasil": [
-		"2022_FIFA_WorldCup_Korea_Brazil"
+		"2022_FIFA_WorldCup_Korea_Brazil",
+		"2022_FIFA_WorldCup_Brazil"
 	],
 	"brasilcontraafome": [
 		"COVIDRelief_2021_Brazil"
@@ -8772,7 +8775,8 @@
 		"Bell_Media_Canadas_Drag_Race_Jun_2022"
 	],
 	"canarinho": [
-		"2022_FIFA_WorldCup_Korea_Brazil"
+		"2022_FIFA_WorldCup_Korea_Brazil",
+		"2022_FIFA_WorldCup_Brazil"
 	],
 	"cancercoverage": [
 		"PruCIFlex2020"
@@ -11300,8 +11304,14 @@
 		"CopadoBrasil2020_v2",
 		"Copa_do_Brasil_finals_2022"
 	],
+	"copadomundofifa": [
+		"2022_FIFA_WorldCup_Tournament_Trophy_v2"
+	],
 	"copamaradonaentntsports": [
 		"TNTSportsLATAM2021"
+	],
+	"copamundialfifa": [
+		"2022_FIFA_WorldCup_Tournament_Trophy_v2"
 	],
 	"copapur": [
 		"Paralympics_2021_PUR"
@@ -11317,6 +11327,9 @@
 	"copingmechanism": [
 		"Willow_Smith_2022",
 		"Willow_Smith_2022_extend"
+	],
+	"coppadelmondofifa": [
+		"2022_FIFA_WorldCup_Tournament_Trophy_v2"
 	],
 	"copybet": [
 		"Dabble_Sports_Pty_Ltd_Campaign_Competition_Launch_Aug_2022_v2"
@@ -11432,6 +11445,9 @@
 	],
 	"countryagainsidea": [
 		"Thomas_Rett_2021"
+	],
+	"coupedumondefifa": [
+		"2022_FIFA_WorldCup_Tournament_Trophy_v2"
 	],
 	"courageunitesus": [
 		"NWSL_Season_NorthCarolinaCourage_2022"
@@ -15906,6 +15922,9 @@
 	"e32021": [
 		"E3_2021"
 	],
+	"eagles": [
+		"2022_FIFA_WorldCup_Serbia_Eagles"
+	],
 	"eagly": [
 		"HBO_Max_Peacemaker_S1_Part2_Eagly_2022"
 	],
@@ -16821,7 +16840,8 @@
 	"eng": [
 		"Euro_UK_2021_ENG",
 		"ICCT20WorldCup_2021_ENG",
-		"Womens_Euros_ENG_2022"
+		"Womens_Euros_ENG_2022",
+		"2022_FIFA_WorldCup_ENG_triagram"
 	],
 	"engarde": [
 		"CDL_Team_Legion_2022",
@@ -17131,7 +17151,8 @@
 		"Euro_UK_2021_ESP",
 		"Paralympics_2021_ESP",
 		"Olympics_Countries_2021_ESP",
-		"Womens_Euros_ESP_2022"
+		"Womens_Euros_ESP_2022",
+		"2022_FIFA_WorldCup_ESP_triagram"
 	],
 	"espada": [
 		"Sony_PlayStation_God_of_War_1_Oct_2022_translations"
@@ -18488,6 +18509,9 @@
 	"fifaeworldcup": [
 		"FIFAe_Finals_FeWC_2022"
 	],
+	"fifafussballweltermeisterschaft": [
+		"2022_FIFA_WorldCup_Tournament_Trophy_v2"
+	],
 	"fifarabcup": [
 		"FIFA_Arab_Cup_FIFAemblem_2021"
 	],
@@ -18503,8 +18527,14 @@
 	"fifawwcdraw": [
 		"FIFAWWC_Draw_Oct_2022_v2"
 	],
+	"fifaワールドカップ": [
+		"2022_FIFA_WorldCup_Tournament_Trophy_v2"
+	],
 	"fifaワールドカップ全試合無料生中継": [
 		"ABEMA_CyberAgent_Qatar_2_Nov_2022"
+	],
+	"fifa월드컵": [
+		"2022_FIFA_WorldCup_Tournament_Trophy_v2"
 	],
 	"fifthbrother": [
 		"Disneyplus_Obi_Wan_Kenobi_Fifth_Brother_2022_v2"
@@ -26295,6 +26325,9 @@
 	"irmãssanderson": [
 		"Disneyplus_Hocus_Pocus_2_Black_Flame_Candle_2022"
 	],
+	"irn": [
+		"2022_FIFA_WorldCup_IRN_triagram"
+	],
 	"irobot": [
 		"iRobot_Thoughtful_Intelligence_May_2022_v2"
 	],
@@ -29523,7 +29556,8 @@
 		"Corona_Yo_Mando_Sept_2022_v2"
 	],
 	"laalbiceleste": [
-		"Handball_WorldCup_Egypt_2021_Arg"
+		"Handball_WorldCup_Egypt_2021_Arg",
+		"2022_FIFA_WorldCup_Argentina_Nicknames"
 	],
 	"laarmera": [
 		"Disney_Mandalorian_S2_TheArmorer"
@@ -42681,6 +42715,9 @@
 		"Disney_Dr_Strange_2_Wong_2022",
 		"Disney_Dr_Strange_2_Wong_2022_extend"
 	],
+	"pialaduniafifa": [
+		"2022_FIFA_WorldCup_Tournament_Trophy_v2"
+	],
 	"pickthelock": [
 		"DraftKings_Pick_The_Lock_Sept_2022",
 		"DraftKings_Pick_The_Lock_Sept_2022_v2"
@@ -48584,6 +48621,9 @@
 	"selamattahunbaru": [
 		"LunarNewYear2021_Ox"
 	],
+	"seleccionargentina": [
+		"2022_FIFA_WorldCup_Argentina_Nicknames"
+	],
 	"selectfb": [
 		"Panini_America_NFL_World_Cup_Sept_2022"
 	],
@@ -48631,7 +48671,11 @@
 		"SelenaChef_Season2_Knife"
 	],
 	"seleção": [
-		"2022_FIFA_WorldCup_Korea_Brazil"
+		"2022_FIFA_WorldCup_Korea_Brazil",
+		"2022_FIFA_WorldCup_Brazil"
+	],
+	"seleçãobrasileira": [
+		"2022_FIFA_WorldCup_Brazil"
 	],
 	"seleçãodasquinas": [
 		"2022_FIFA_WorldCup_Korea_Portugal"
@@ -53555,7 +53599,8 @@
 	],
 	"teambrazil": [
 		"Olympics_Countries_2021_BRA_add",
-		"2022_FIFA_WorldCup_Korea_Brazil"
+		"2022_FIFA_WorldCup_Korea_Brazil",
+		"2022_FIFA_WorldCup_Brazil"
 	],
 	"teambrock": [
 		"WWE_Team_Brock_2022"
@@ -67126,6 +67171,9 @@
 	],
 	"كأس_الأمير50": [
 		"Qatar_Football_Association_Amirs_Cup_2022"
+	],
+	"كأس_العالم_fifa": [
+		"2022_FIFA_WorldCup_Tournament_Trophy_v2"
 	],
 	"كأس_بيرين_للسوبر_السعودي": [
 		"Saudi_FA_Super_League_2022",
