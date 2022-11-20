@@ -37689,6 +37689,11 @@
 		"startingTimestampMs": "1643774400000",
 		"endingTimestampMs": "1644292800000"
 	},
+	"QIB_World_Cup_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/QIB_World_Cup_2022/QIB_World_Cup_2022.png",
+		"startingTimestampMs": "1668902400000",
+		"endingTimestampMs": "1671494400000"
+	},
 	"QatarAtGoldCup_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/QatarAtGoldCup_2021/QatarAtGoldCup_2021.png",
 		"startingTimestampMs": "1625893200000",
