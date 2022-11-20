@@ -5878,7 +5878,8 @@
 		"Paralympics_2021_BEL",
 		"Olympics_Countries_2021_BEL",
 		"Womens_Euros_BEL_2022",
-		"2022_FIFA_WorldCup_Belgium"
+		"2022_FIFA_WorldCup_Belgium",
+		"2022_FIFA_WorldCup_BEL_triagram"
 	],
 	"belair": [
 		"PeacockTV_Bel_Air_2022_v2",
@@ -33917,7 +33918,8 @@
 	],
 	"mar": [
 		"Paralympics_2021_MAR",
-		"Olympics_Countries_2021_MAR"
+		"Olympics_Countries_2021_MAR",
+		"2022_FIFA_WorldCup_MAR_triagram"
 	],
 	"maradonaonprime": [
 		"APT_MaradonaTV_MX_2021_v2"
@@ -48624,6 +48626,21 @@
 	"seleccionargentina": [
 		"2022_FIFA_WorldCup_Argentina_Nicknames"
 	],
+	"seleccionecuatoriana": [
+		"2022_FIFA_WorldCup_Equador_Update"
+	],
+	"seleccionespañola": [
+		"2022_FIFA_WorldCup_Spain_Update"
+	],
+	"seleccionmexicana": [
+		"2022_FIFA_WorldCup_Mexico_Update"
+	],
+	"selecciontica": [
+		"2022_FIFA_WorldCup_CR_Update"
+	],
+	"seleccionuruguaya": [
+		"2022_FIFA_WorldCup_Uruguaya_Update"
+	],
 	"selectfb": [
 		"Panini_America_NFL_World_Cup_Sept_2022"
 	],
@@ -48682,6 +48699,9 @@
 	],
 	"seleçãonogloboplay": [
 		"globoplay_Copa_do_Mundo_Nov_2022"
+	],
+	"seleçãoportugal": [
+		"2022_FIFA_WorldCup_Portugal_Update"
 	],
 	"selfishlove": [
 		"SelenaGomez_2020",
