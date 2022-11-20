@@ -5873,7 +5873,8 @@
 		"Euro_UK_2021_BEL",
 		"Paralympics_2021_BEL",
 		"Olympics_Countries_2021_BEL",
-		"Womens_Euros_BEL_2022"
+		"Womens_Euros_BEL_2022",
+		"2022_FIFA_WorldCup_Belgium"
 	],
 	"belair": [
 		"PeacockTV_Bel_Air_2022_v2",
@@ -7042,6 +7043,9 @@
 	],
 	"blacksherif": [
 		"Black_Sherif_BehindThe_Tweets"
+	],
+	"blackstars": [
+		"2022_FIFA_WorldCup_Ghana"
 	],
 	"blacktranslivesmatter": [
 		"BlackTransLivesMatter_2020"
@@ -8725,7 +8729,8 @@
 	],
 	"can": [
 		"Paralympics_2021_CAN",
-		"Olympics_Countries_2021_CAN"
+		"Olympics_Countries_2021_CAN",
+		"2022_FIFA_WorldCup_Canada"
 	],
 	"can2021": [
 		"Africa_Cup_of_Nations_Trophy_2022",
@@ -10704,7 +10709,8 @@
 	],
 	"cmr": [
 		"Olympics_Countries_2021_CMR",
-		"Paralympics_2021_CMR"
+		"Paralympics_2021_CMR",
+		"2022_FIFA_WorldCup_Cameroon"
 	],
 	"cmtaward": [
 		"CBS_CMT_Music_Awards_2022",
@@ -13208,6 +13214,12 @@
 	"detidepende": [
 		"AdCouncilVaccine_2021_add"
 	],
+	"detodoparalosfans": [
+		"Didi_World_Cup_Nov_2022_v2"
+	],
+	"detodoparalosnotanfans": [
+		"Didi_World_Cup_Nov_2022_v2"
+	],
 	"detodoparatodos": [
 		"DiDi_Food_Mexico_Gaming_GCP_Aug_2022"
 	],
@@ -13405,6 +13417,9 @@
 	],
 	"di9": [
 		"NASCARChase2022"
+	],
+	"diablesrouges": [
+		"2022_FIFA_WorldCup_Belgium"
 	],
 	"diablo": [
 		"Diablo2Resurrected_2021"
@@ -13674,11 +13689,15 @@
 	"didiantojolla": [
 		"DiDi_Food_Mexico_Gaming_GCP_Aug_2022"
 	],
+	"didifood": [
+		"Didi_World_Cup_Nov_2022_v2"
+	],
 	"didifoodmx": [
 		"DiDi_Food_Mexico_Gaming_GCP_Aug_2022"
 	],
 	"didifoodtelolleva": [
-		"DiDi_Food_Mexico_Gaming_GCP_Aug_2022"
+		"DiDi_Food_Mexico_Gaming_GCP_Aug_2022",
+		"Didi_World_Cup_Nov_2022_v2"
 	],
 	"diebunteseitedesmonds": [
 		"Netflix_OverTheMoon_2020_H2_BL",
@@ -13686,6 +13705,9 @@
 	],
 	"dieforaman": [
 		"Bebe_Rexha_2021"
+	],
+	"diemannschaft": [
+		"2022_FIFA_WorldCup_Germany"
 	],
 	"dieritterdesrechts": [
 		"Disneyplus_Rescue_Rangers_Apr_2022"
@@ -17849,6 +17871,9 @@
 	"fanpredictions": [
 		"DraftKings_NFL_Season_Aug_2022"
 	],
+	"fansdelacomida": [
+		"Didi_World_Cup_Nov_2022_v2"
+	],
 	"fanstofam": [
 		"Xbox_ProjectNeutron_2021"
 	],
@@ -18873,6 +18898,9 @@
 		"NFL_2020_2021_FlyEaglesFly",
 		"PHLEagles2022SeasonEmoji"
 	],
+	"flyingdutchmen": [
+		"2022_FIFA_WorldCup_Netherlands"
+	],
 	"flynow": [
 		"Imperial_on_Major_May_2022"
 	],
@@ -19394,7 +19422,8 @@
 		"Olympics_Countries_2021_FRA",
 		"Euro_UK_2021_FRA",
 		"Paralympics_2021_FRA",
-		"Womens_Euros_FRA_2022"
+		"Womens_Euros_FRA_2022",
+		"2022_FIFA_WorldCup_France"
 	],
 	"fragranceinthaw": [
 		"miHoYoGenshinImpact1stAnniversary_2021_HuTao"
@@ -20361,7 +20390,8 @@
 		"Euro_UK_2021_GER",
 		"Olympics_Countries_2021_GER",
 		"Paralympics_2021_GER",
-		"Womens_Euros_GER_2022"
+		"Womens_Euros_GER_2022",
+		"2022_FIFA_WorldCup_Germany"
 	],
 	"gerahdirumah": [
 		"Sprite_GerahDiRumah_2021"
@@ -20530,7 +20560,8 @@
 	],
 	"gha": [
 		"Olympics_Countries_2021_GHA",
-		"Paralympics_2021_GHA"
+		"Paralympics_2021_GHA",
+		"2022_FIFA_WorldCup_Ghana"
 	],
 	"ghanaat65": [
 		"Ghana_Independence_Day_2022",
@@ -25715,6 +25746,9 @@
 	"indigenousx10": [
 		"TwitterforGood_IndigenousX_10_year_anniversary_2022"
 	],
+	"indomitablelions": [
+		"2022_FIFA_WorldCup_Cameroon"
+	],
 	"indonesiamerdeka": [
 		"IDIndependenceDay_2021",
 		"IDIndependenceDay_2020"
@@ -29732,6 +29766,9 @@
 	"lan": [
 		"AmazonStudios_WheelOfTime_2021_LanMandragoran"
 	],
+	"lanati": [
+		"2022_FIFA_WorldCup_Switzerland"
+	],
 	"lando": [
 		"Disney_Maythe4th_2021_Lando"
 	],
@@ -30790,7 +30827,8 @@
 		"Universal_Pictures_The_Bad_Guys_Apr_2002"
 	],
 	"lesbleus": [
-		"Handball_WorldCup_Egypt_2021_FR"
+		"Handball_WorldCup_Egypt_2021_FR",
+		"2022_FIFA_WorldCup_France"
 	],
 	"lescesar": [
 		"CesarAward_FR_2021_add"
@@ -30832,6 +30870,9 @@
 	],
 	"lesrangersdurisque": [
 		"Disneyplus_Rescue_Rangers_Apr_2022"
+	],
+	"lesrouges": [
+		"2022_FIFA_WorldCup_Canada"
 	],
 	"lessecretsdedumbledore": [
 		"WB_Fantastic_Beasts_Dumbledore_2021"
@@ -31703,10 +31744,16 @@
 		"BlackIsKing_2020_1_H",
 		"BlackIsKing_2020_2_H"
 	],
+	"lionsdelateranga": [
+		"2022_FIFA_WorldCup_Senegal"
+	],
 	"lionsden": [
 		"EnglandEuros_May_2021",
 		"FIFA_World_Cup_England_Nov_2022_v2",
 		"FIFA_World_Cup_England_Nov_2022_v3"
+	],
+	"lionsindomptables": [
+		"2022_FIFA_WorldCup_Cameroon"
 	],
 	"lionsrugby": [
 		"VodafoneLions_Tour_2021"
@@ -40493,6 +40540,9 @@
 		"OrangeTheWorld_2020",
 		"UN_OrangeTheWorld_2021"
 	],
+	"oranje": [
+		"2022_FIFA_WorldCup_Netherlands"
+	],
 	"oranyekandunia": [
 		"OrangeTheWorld_2020",
 		"UN_OrangeTheWorld_2021"
@@ -46710,6 +46760,9 @@
 	"rodamosjuntos": [
 		"TelefonicaMejorConectados_2021"
 	],
+	"rodeduivels": [
+		"2022_FIFA_WorldCup_Belgium"
+	],
 	"rodehalvemaan": [
 		"WorldRedCrossDay_May_2021_add"
 	],
@@ -47062,6 +47115,9 @@
 	"rosieperez": [
 		"HBO_Max_The_Flight_Attendant_Megan_S2_2022_v2",
 		"HBO_Max_The_Flight_Attendant_Megan_S2_2022_v3"
+	],
+	"rossocrociati": [
+		"2022_FIFA_WorldCup_Switzerland"
 	],
 	"rosé": [
 		"KPOP_BLACKPINK_2020_ROSE_ext",
@@ -48626,7 +48682,8 @@
 	],
 	"sen": [
 		"Paralympics_2021_SEN",
-		"Olympics_Countries_2021_SEN"
+		"Olympics_Countries_2021_SEN",
+		"2022_FIFA_WorldCup_Senegal"
 	],
 	"sendjoy": [
 		"USPS2020Holiday",
@@ -50196,7 +50253,8 @@
 		"Soccer_Mommy_2021_Album_Emoji_V2"
 	],
 	"socceroos": [
-		"100_years_football_Aus_Jun_2022"
+		"100_years_football_Aus_Jun_2022",
+		"2022_FIFA_WorldCup_Australia"
 	],
 	"sochkesharekaro": [
 		"MediaInformationLiteracyWeeks_2020_ThinkBeforeSharing"
@@ -52177,7 +52235,8 @@
 		"Paralympics_2021_SUI",
 		"Olympics_Countries_2021_SUI",
 		"Euro_UK_2021_SUI",
-		"Womens_Euros_SUI_2022"
+		"Womens_Euros_SUI_2022",
+		"2022_FIFA_WorldCup_Switzerland"
 	],
 	"suicideprevention": [
 		"WorldSuicidePreventionDay_2020_add",
@@ -53379,7 +53438,8 @@
 		"ICC_Womens_Cricket_World_Cup_TeamAustralia_2022",
 		"ICCT20WorldCup_2021_AUS",
 		"ICC_Mens_Cricket_World_Cup_2022_Australia",
-		"ICC_Mens_Cricket_World_Cup_2022_Australia_v2"
+		"ICC_Mens_Cricket_World_Cup_2022_Australia_v2",
+		"2022_FIFA_WorldCup_Australia"
 	],
 	"teamaxe": [
 		"Showtime_Billions_2020"
@@ -53392,6 +53452,12 @@
 	],
 	"teambanquepopulaire": [
 		"BanquePopVoile_2020"
+	],
+	"teambelgique": [
+		"2022_FIFA_WorldCup_Belgium"
+	],
+	"teambelgium": [
+		"2022_FIFA_WorldCup_Belgium"
 	],
 	"teambelly": [
 		"Amazon_Studios_Summer_I_Turned_Pretty_May_2022"
@@ -53435,11 +53501,16 @@
 	],
 	"teamcameroon": [
 		"Africa_Cup_of_Nations_Cameroon_2022",
-		"CAF_WAFCON_Cameroon_Jun_2022"
+		"CAF_WAFCON_Cameroon_Jun_2022",
+		"2022_FIFA_WorldCup_Cameroon"
+	],
+	"teamcameroun": [
+		"2022_FIFA_WorldCup_Cameroon"
 	],
 	"teamcanada": [
 		"CanadaOlympicParalympic_Tokyo_newdesign",
-		"CanadaOlympicParalympic_Tokyo"
+		"CanadaOlympicParalympic_Tokyo",
+		"2022_FIFA_WorldCup_Canada"
 	],
 	"teamcapeverde": [
 		"Africa_Cup_of_Nations_CapeVerde_2022"
@@ -53522,6 +53593,9 @@
 	"teamdenmark": [
 		"2022_FIFA_WorldCup_Denmark"
 	],
+	"teamdeutschland": [
+		"2022_FIFA_WorldCup_Germany"
+	],
 	"teamdoritos": [
 		"CheetosDoritos_FlaminHot_April_2021_D"
 	],
@@ -53544,7 +53618,8 @@
 		"ICC_Womens_Cricket_World_Cup_TeamEngland_2022",
 		"ICCT20WorldCup_2021_ENG",
 		"ICC_Mens_Cricket_World_Cup_2022_England",
-		"ICC_Mens_Cricket_World_Cup_2022_England_v2"
+		"ICC_Mens_Cricket_World_Cup_2022_England_v2",
+		"2022_FIFA_WorldCup_England"
 	],
 	"teamenvy": [
 		"EsportsAllAccess_Jan_2021_V2_Envy",
@@ -53563,6 +53638,9 @@
 	"teamevans": [
 		"Netflix_The_Gray_Man_ChrisEvans_May_2022"
 	],
+	"teamfrance": [
+		"2022_FIFA_WorldCup_France"
+	],
 	"teamfugitive": [
 		"Paramountplus_Players_Jun_2022"
 	],
@@ -53579,8 +53657,12 @@
 		"Paralympics_2021_GEO",
 		"Paralympics_2021_GEO_"
 	],
+	"teamgermany": [
+		"2022_FIFA_WorldCup_Germany"
+	],
 	"teamghana": [
-		"Africa_Cup_of_Nations_Ghana_2022"
+		"Africa_Cup_of_Nations_Ghana_2022",
+		"2022_FIFA_WorldCup_Ghana"
 	],
 	"teamgodzilla": [
 		"GodzillaVsKong_WB_2021_Godzilla_add"
@@ -53623,6 +53705,9 @@
 		"TeamIndia_2021_v2",
 		"ICC_Mens_Cricket_World_Cup_2022_India",
 		"ICC_Mens_Cricket_World_Cup_2022_India_v2"
+	],
+	"teamiran": [
+		"2022_FIFA_WorldCup_Iran"
 	],
 	"teamireland": [
 		"Paralympics_2021_IRL",
@@ -53707,6 +53792,9 @@
 	],
 	"teammeghan": [
 		"TheVoiceUKreturn2020"
+	],
+	"teammelli": [
+		"2022_FIFA_WorldCup_Iran"
 	],
 	"teammiyagido": [
 		"Netflix_CobraKaiS3_2020"
@@ -53843,7 +53931,8 @@
 	],
 	"teamsenegal": [
 		"Africa_Cup_of_Nations_Senegal_2022",
-		"CAF_WAFCON_Senegal_Jun_2022"
+		"CAF_WAFCON_Senegal_Jun_2022",
+		"2022_FIFA_WorldCup_Senegal"
 	],
 	"teamsg": [
 		"Paralympics_2021_SGP"
@@ -53885,9 +53974,15 @@
 	"teamsudan": [
 		"Africa_Cup_of_Nations_Sudan_2022"
 	],
+	"teamsuisse": [
+		"2022_FIFA_WorldCup_Switzerland"
+	],
 	"teamsvt": [
 		"HYBE_Seventeen_Pledis_SVT_Mar_2022",
 		"HYBE_Seventeen_Pledis_SVT_Mar_2022_v2"
+	],
+	"teamswitzerland": [
+		"2022_FIFA_WorldCup_Switzerland"
 	],
 	"teamsyndicate": [
 		"AGS_NewWorld_Factions_2021_TeamSyndicate"
@@ -53933,7 +54028,8 @@
 	],
 	"teamusa": [
 		"Olympics_Countries_2021_USA",
-		"Paralympics_2021_USA"
+		"Paralympics_2021_USA",
+		"2022_FIFA_WorldCup_USA"
 	],
 	"teamvaca": [
 		"ToddyVacaVerso_2020"
@@ -54126,6 +54222,9 @@
 	"teraaotemanatangata": [
 		"Human_Rights_Day_2021",
 		"HumanRightsDay_2020"
+	],
+	"terangalions": [
+		"2022_FIFA_WorldCup_Senegal"
 	],
 	"terceirairmã": [
 		"Disneyplus_Obi_Wan_Kenobi_Reva_2022_v2"
@@ -59163,7 +59262,8 @@
 	],
 	"usa": [
 		"Olympics_Countries_2021_USA",
-		"Paralympics_2021_USA"
+		"Paralympics_2021_USA",
+		"2022_FIFA_WorldCup_USA"
 	],
 	"usacubrebocas": [
 		"WearAMask_2020_2021_ext4",
@@ -59254,6 +59354,9 @@
 	"usmc": [
 		"Marines_Mar_2022",
 		"USMC_March_2021"
+	],
+	"usmnt": [
+		"2022_FIFA_WorldCup_USA"
 	],
 	"usmonastir": [
 		"BasketBall_Africa_League_USMONASTIR_2022",
@@ -66249,6 +66352,9 @@
 	],
 	"تيسرت_من_إحسان": [
 		"Ehsan_Feb_2022"
+	],
+	"تیمایران": [
+		"2022_FIFA_WorldCup_Iran"
 	],
 	"ثريد_منشأة": [
 		"MonshaatSA_Sept_2021"

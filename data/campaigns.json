@@ -114,6 +114,26 @@
 		"startingTimestampMs": "1625151600000",
 		"endingTimestampMs": "1626533940000"
 	},
+	"2022_FIFA_WorldCup_Australia": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Australia/2022_FIFA_WorldCup_Australia.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Belgium": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Belgium/2022_FIFA_WorldCup_Belgium.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Cameroon": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Cameroon/2022_FIFA_WorldCup_Cameroon.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Canada": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Canada/2022_FIFA_WorldCup_Canada.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_Croatia": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Croatia/2022_FIFA_WorldCup_Croatia.png",
 		"startingTimestampMs": "1668816000000",
@@ -121,6 +141,31 @@
 	},
 	"2022_FIFA_WorldCup_Denmark": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Denmark/2022_FIFA_WorldCup_Denmark.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_England": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_England/2022_FIFA_WorldCup_England.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_France": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_France/2022_FIFA_WorldCup_France.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Germany": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Germany/2022_FIFA_WorldCup_Germany.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Ghana": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Ghana/2022_FIFA_WorldCup_Ghana.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Iran": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Iran/2022_FIFA_WorldCup_Iran.png",
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
@@ -149,8 +194,23 @@
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
+	"2022_FIFA_WorldCup_Senegal": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Senegal/2022_FIFA_WorldCup_Senegal.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_Switzerland": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Switzerland/2022_FIFA_WorldCup_Switzerland.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_Tunisia": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Tunisia/2022_FIFA_WorldCup_Tunisia.png",
+		"startingTimestampMs": "1668816000000",
+		"endingTimestampMs": "1672444800000"
+	},
+	"2022_FIFA_WorldCup_USA": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_USA/2022_FIFA_WorldCup_USA.png",
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
@@ -9233,6 +9293,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Dicks_VRST_2021/Dicks_VRST_2021.png",
 		"startingTimestampMs": "1617249600000",
 		"endingTimestampMs": "1623038340000"
+	},
+	"Didi_World_Cup_Nov_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Didi_World_Cup_Nov_2022_v2/Didi_World_Cup_Nov_2022_v2.png",
+		"startingTimestampMs": "1668920400000",
+		"endingTimestampMs": "1676696400000"
 	},
 	"Dine_Australia_Hope_Reef_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Dine_Australia_Hope_Reef_Apr_2022/Dine_Australia_Hope_Reef_Apr_2022.png",
