@@ -7729,6 +7729,11 @@
 		"startingTimestampMs": "1664813340000",
 		"endingTimestampMs": "1672416540000"
 	},
+	"Claro_World_Cup_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Claro_World_Cup_Nov_2022/Claro_World_Cup_Nov_2022.png",
+		"startingTimestampMs": "1668931200000",
+		"endingTimestampMs": "1676880000000"
+	},
 	"ClemsonCFP2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ClemsonCFP2021/ClemsonCFP2021.png",
 		"startingTimestampMs": "1608485400000",
