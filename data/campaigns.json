@@ -27269,6 +27269,11 @@
 		"startingTimestampMs": "1663113600000",
 		"endingTimestampMs": "1670976000000"
 	},
+	"McDonalds_QPC_4Q_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/McDonalds_QPC_4Q_2022/McDonalds_QPC_4Q_2022.png",
+		"startingTimestampMs": "1669010460000",
+		"endingTimestampMs": "1672034340000"
+	},
 	"McDonalds_RMHC_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/McDonalds_RMHC_2020/McDonalds_RMHC_2020.png",
 		"startingTimestampMs": "1606262400000",
