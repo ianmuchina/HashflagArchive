@@ -15499,6 +15499,11 @@
 		"startingTimestampMs": "1637150340000",
 		"endingTimestampMs": "1637841540000"
 	},
+	"Golden_Joysticks_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Golden_Joysticks_Nov_2022/Golden_Joysticks_Nov_2022.png",
+		"startingTimestampMs": "1669054440000",
+		"endingTimestampMs": "1669400040000"
+	},
 	"GonzagaMensFinalFour2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/GonzagaMensFinalFour2021/GonzagaMensFinalFour2021.png",
 		"startingTimestampMs": "1617195600000",
@@ -15591,6 +15596,11 @@
 	},
 	"GrabID_Nov_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/GrabID_Nov_2022/GrabID_Nov_2022.png",
+		"startingTimestampMs": "1668632400000",
+		"endingTimestampMs": "1672558200000"
+	},
+	"GrabID_Nov_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GrabID_Nov_2022_v2/GrabID_Nov_2022_v2.png",
 		"startingTimestampMs": "1668632400000",
 		"endingTimestampMs": "1672558200000"
 	},
