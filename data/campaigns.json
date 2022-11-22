@@ -189,6 +189,11 @@
 		"startingTimestampMs": "1668816000000",
 		"endingTimestampMs": "1672444800000"
 	},
+	"2022_FIFA_WorldCup_Croatia_HRV": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Croatia_HRV/2022_FIFA_WorldCup_Croatia_HRV.png",
+		"startingTimestampMs": "1669075200000",
+		"endingTimestampMs": "1672444800000"
+	},
 	"2022_FIFA_WorldCup_Croatia_nickname": {
 		"assetUrl": "https://abs.twimg.com/hashflags/2022_FIFA_WorldCup_Croatia_nickname/2022_FIFA_WorldCup_Croatia_nickname.png",
 		"startingTimestampMs": "1668816000000",
