@@ -12694,7 +12694,8 @@
 		"GLOBAL_db_legends_11_27_2020",
 		"MyDBLegends_May_2021",
 		"DB_Legends_12_23_2020",
-		"BNE_db_legends_jp_4th_anniversary_May_2022"
+		"BNE_db_legends_jp_4th_anniversary_May_2022",
+		"db_legends_jp_YearEndCampaign_2022"
 	],
 	"dbレジェンズキャラ診断": [
 		"MyDBLegends_May_2021"
@@ -25337,7 +25338,8 @@
 	"identityv": [
 		"IdentityVJP_Q3_2021",
 		"IdentityVJP_2ndAnniversary_2020",
-		"Xmasbox_C_2020_Netease"
+		"Xmasbox_C_2020_Netease",
+		"IdentityVJP_JP_XmasBox_2022"
 	],
 	"identityv2nd": [
 		"IdentityVJP_2ndAnniversary_2020"
@@ -30833,6 +30835,9 @@
 	],
 	"legendsdayatl": [
 		"LegendsDay_April_2021"
+	],
+	"legendsfestival": [
+		"db_legends_jp_YearEndCampaign_2022"
 	],
 	"legendsrun": [
 		"LegendsDay_April_2021"
@@ -73768,7 +73773,8 @@
 		"DQWalk_Aniv_B1_2020_H_all"
 	],
 	"ドラゴンボールレジェンズ": [
-		"BNE_db_legends_jp_4th_anniversary_May_2022"
+		"BNE_db_legends_jp_4th_anniversary_May_2022",
+		"db_legends_jp_YearEndCampaign_2022"
 	],
 	"ドラゴンボールレジェンズ2周年": [
 		"DB_Legends_JP_2020"
@@ -75632,7 +75638,8 @@
 		"MyDBLegends_May_2021",
 		"JP_db_legends_11_27_2020",
 		"DB_Legends_12_23_2020",
-		"BNE_db_legends_jp_4th_anniversary_May_2022"
+		"BNE_db_legends_jp_4th_anniversary_May_2022",
+		"db_legends_jp_YearEndCampaign_2022"
 	],
 	"レジェンズ2周年に一言": [
 		"DB_Legends_JP_2020"
@@ -75645,7 +75652,8 @@
 	],
 	"レジェンズフェスティバル": [
 		"JP_db_legends_11_27_2020",
-		"DB_Legends_12_23_2020"
+		"DB_Legends_12_23_2020",
+		"db_legends_jp_YearEndCampaign_2022"
 	],
 	"レジェンズ限界突破": [
 		"JP_db_legends_11_27_2020",
@@ -78511,7 +78519,8 @@
 	"第五人格": [
 		"IdentityVJP_Q3_2021",
 		"IdentityVJP_2ndAnniversary_2020",
-		"Xmasbox_C_2020_Netease"
+		"Xmasbox_C_2020_Netease",
+		"IdentityVJP_JP_XmasBox_2022"
 	],
 	"第五人格2周年": [
 		"IdentityVJP_2ndAnniversary_2020"
@@ -78519,11 +78528,18 @@
 	"第五人格3周年": [
 		"IdentityVJP_Q3_2021"
 	],
+	"第五人格coa": [
+		"IdentityVJP_JP_XmasBox_2022"
+	],
+	"第五人格ijl": [
+		"IdentityVJP_JP_XmasBox_2022"
+	],
 	"第五人格ivc": [
 		"IdentityVJP_Q3_2021"
 	],
 	"第五人格イラスト": [
-		"Xmasbox_C_2020_Netease"
+		"Xmasbox_C_2020_Netease",
+		"IdentityVJP_JP_XmasBox_2022"
 	],
 	"第五人格クリスマス": [
 		"Xmasbox_C_2020_Netease"
