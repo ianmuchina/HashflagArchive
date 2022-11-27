@@ -39939,7 +39939,8 @@
 		"Okx_Rebrand_2022",
 		"OKEx_Sept_2021_",
 		"OKX_Listing_May_2022",
-		"OKX_Follower_Campaign_Aug_2022"
+		"OKX_Follower_Campaign_Aug_2022",
+		"OKX_Follower_Campaign_Nov_2022"
 	],
 	"okex": [
 		"OKEx_Sept_2021_"
@@ -40002,7 +40003,8 @@
 	"okx": [
 		"Okx_Rebrand_2022",
 		"OKX_Listing_May_2022",
-		"OKX_Follower_Campaign_Aug_2022"
+		"OKX_Follower_Campaign_Aug_2022",
+		"OKX_Follower_Campaign_Nov_2022"
 	],
 	"okxchain": [
 		"OKC_Campaign_May_2022",
@@ -40014,10 +40016,12 @@
 	"okxearn": [
 		"Okx_Rebrand_2022",
 		"OKX_Listing_May_2022",
-		"OKX_Follower_Campaign_Aug_2022"
+		"OKX_Follower_Campaign_Aug_2022",
+		"OKX_Follower_Campaign_Nov_2022"
 	],
 	"okxlearn": [
-		"OKX_Follower_Campaign_Aug_2022"
+		"OKX_Follower_Campaign_Aug_2022",
+		"OKX_Follower_Campaign_Nov_2022"
 	],
 	"okxlisting": [
 		"OKX_Listing_May_2022"
@@ -40031,6 +40035,9 @@
 	],
 	"okxwallet": [
 		"OKXNFT_Campaign_Sept_2022"
+	],
+	"okxweb3": [
+		"OKX_Follower_Campaign_Nov_2022"
 	],
 	"ol2021": [
 		"OSL2021"

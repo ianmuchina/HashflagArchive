@@ -32909,6 +32909,11 @@
 		"startingTimestampMs": "1661558400000",
 		"endingTimestampMs": "1669507200000"
 	},
+	"OKX_Follower_Campaign_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OKX_Follower_Campaign_Nov_2022/OKX_Follower_Campaign_Nov_2022.png",
+		"startingTimestampMs": "1669507260000",
+		"endingTimestampMs": "1677456000000"
+	},
 	"OKX_Listing_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/OKX_Listing_May_2022/OKX_Listing_May_2022.png",
 		"startingTimestampMs": "1651852800000",
