@@ -35437,6 +35437,9 @@
 	"mi2021enspotify": [
 		"SpotifyWrapped2021_bh"
 	],
+	"mi2022enspotify": [
+		"Spotify_Wrapped_2022"
+	],
 	"mia2021": [
 		"MIA2021"
 	],
@@ -46393,7 +46396,8 @@
 		"Spotify2020Wrapped_H1",
 		"Spotify2020Wrapped_all_2_ext",
 		"Spotify2020Wrapped_H2",
-		"Spotify2020Wrapped_BL_2020"
+		"Spotify2020Wrapped_BL_2020",
+		"Spotify_Wrapped_2022"
 	],
 	"returnoftheroach": [
 		"Papa_Roach_Anniversary_Emoji"
@@ -51327,13 +51331,15 @@
 		"SpotifyWrapped2021_bh",
 		"Spotify2020Wrapped_H_all",
 		"Spotify2020Wrapped_all_2_ext",
-		"SpotifyWrapped2021_bl_US"
+		"SpotifyWrapped2021_bl_US",
+		"Spotify_Wrapped_2022"
 	],
 	"spotifywrapped2021": [
 		"SpotifyWrapped2021_bh"
 	],
 	"spotifywrapped연말결산": [
-		"SpotifyWrapped2021_bh"
+		"SpotifyWrapped2021_bh",
+		"Spotify_Wrapped_2022"
 	],
 	"spotifyxaespa": [
 		"Spotify_BTS_SEA_Campaign_Q2_2022_add"
@@ -51416,7 +51422,8 @@
 		"Spotify2020Wrapped_H1",
 		"Spotify2020Wrapped_all_2_ext",
 		"Spotify2020Wrapped_H2",
-		"Spotify2020Wrapped_BL_2020"
+		"Spotify2020Wrapped_BL_2020",
+		"Spotify_Wrapped_2022"
 	],
 	"spottedxoxo": [
 		"HBOMaxGossipGirl_July_2021_Phone"
@@ -65107,6 +65114,9 @@
 		"Disney_Dr_Strange_2_Wong_2022",
 		"Disney_Dr_Strange_2_Wong_2022_extend"
 	],
+	"вотэто2022": [
+		"Spotify_Wrapped_2022"
+	],
 	"всегдагордимся": [
 		"AlwaysProud_June_2021",
 		"AlwaysProud_July2020_ext_B",
@@ -67689,7 +67699,8 @@
 		"Spotify2020Wrapped_H1",
 		"Spotify2020Wrapped_all_2_ext",
 		"Spotify2020Wrapped_H2",
-		"Spotify2020Wrapped_BL_2020"
+		"Spotify2020Wrapped_BL_2020",
+		"Spotify_Wrapped_2022"
 	],
 	"من_بدينا": [
 		"Saudi_Founding_Day_2022_v2"

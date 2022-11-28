@@ -41754,6 +41754,11 @@
 		"startingTimestampMs": "1597032000000",
 		"endingTimestampMs": "1604980800000"
 	},
+	"Spotify_Wrapped_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_Wrapped_2022/Spotify_Wrapped_2022.png",
+		"startingTimestampMs": "1669608000000",
+		"endingTimestampMs": "1672632000000"
+	},
 	"SpotifyxITZY_April_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/SpotifyxITZY_April_2021/SpotifyxITZY_April_2021.png",
 		"startingTimestampMs": "1619668800000",
