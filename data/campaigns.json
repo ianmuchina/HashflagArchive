@@ -6204,6 +6204,11 @@
 		"startingTimestampMs": "1599523200000",
 		"endingTimestampMs": "1604131140000"
 	},
+	"Budweiser_FWC_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Budweiser_FWC_Nov_2022/Budweiser_FWC_Nov_2022.png",
+		"startingTimestampMs": "1669640400000",
+		"endingTimestampMs": "1673010000000"
+	},
 	"BuickEnvision_March_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BuickEnvision_March_2021/BuickEnvision_March_2021.png",
 		"startingTimestampMs": "1616126460000",
