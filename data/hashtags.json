@@ -13683,7 +13683,8 @@
 		"World_Red_Cross_and_Red_Crescent_Day_2022"
 	],
 	"diamundialdaaids": [
-		"WorldAIDSDay_2021_v2_add"
+		"WorldAIDSDay_2021_v2_add",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"diamundialdaliberdadedeimprensa": [
 		"WorldPressFreedomDay_2021",
@@ -13716,7 +13717,8 @@
 		"WorldEnvironmentDay_2022"
 	],
 	"diamundialdelsida": [
-		"WorldAIDSDay_2021_v2"
+		"WorldAIDSDay_2021_v2",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"diamundialdomeioambiente": [
 		"WorldEnvironmentDay_2021",
@@ -15913,7 +15915,8 @@
 		"WorldEnvironmentDay_2022"
 	],
 	"díamundialdelsida": [
-		"WorldAIDSDay_2021_v2"
+		"WorldAIDSDay_2021_v2",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"díamundialmedialunaroja": [
 		"WorldRedCrossDay_May_2021_add2",
@@ -23379,7 +23382,8 @@
 		"India_Independence_Day_Jul_2022"
 	],
 	"hariaidssedunia": [
-		"WorldAIDSDay_2021_v2"
+		"WorldAIDSDay_2021_v2",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"harialamsekitar": [
 		"WorldEnvironmentDay_2021",
@@ -27863,7 +27867,8 @@
 		"WorldRedCrossDay_May_2021_add"
 	],
 	"journéemondialedusida": [
-		"WorldAIDSDay_2021_v2"
+		"WorldAIDSDay_2021_v2",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"journéemondialelibertédelapresse": [
 		"WorldPressFreedomDay_2021",
@@ -37437,7 +37442,8 @@
 		"Aus_Votes_2022_v2_extend"
 	],
 	"myfirsthivtweet": [
-		"WorldAIDSDay_2021_v2"
+		"WorldAIDSDay_2021_v2",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"myguinness": [
 		"Guinness_Homecoming_UK_Ireland_Sept_2022"
@@ -55005,6 +55011,9 @@
 		"Hulu_Animaniacs_4_2020_v2",
 		"Hulu_Animaniacs_4_2020"
 	],
+	"theants": [
+		"StarUnion_Chrismas_Box_Nov_2022"
+	],
 	"thearconia": [
 		"Hulu_OnlyMurdersintheBuilding_2021_2"
 	],
@@ -63302,10 +63311,14 @@
 		"FIFA_Awards_World11_Jan_2022"
 	],
 	"worldaidsday": [
-		"WorldAIDSDay_2021_v2"
+		"WorldAIDSDay_2021_v2",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"worldaidsday2021": [
 		"WorldAIDSDay_2021_v2"
+	],
+	"worldaidsday2022": [
+		"WorldAIDSDay_Nov_2022"
 	],
 	"worldautismday": [
 		"AutismAcceptanceMonth_2021",
@@ -68575,7 +68588,8 @@
 		"UN_International_Day_of_the_Worlds_Indigenous_Peoples_2022"
 	],
 	"विश्वएड्सदिवस": [
-		"WorldAIDSDay_2021_v2_addhindi"
+		"WorldAIDSDay_2021_v2_addhindi",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"विश्वपर्यावरणदिवस": [
 		"WorldEnvironmentDay_2021",
@@ -69930,7 +69944,8 @@
 		"WorldRedCrossDay_May_2021"
 	],
 	"วันเอดส์โลก": [
-		"WorldAIDSDay_2021_v2"
+		"WorldAIDSDay_2021_v2",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"วันแห่งแฮชแท็ก": [
 		"HashtagDay_2021_Updated"
@@ -70907,6 +70922,9 @@
 	"きぼうを見よう": [
 		"KIBOSeptember_2021"
 	],
+	"きらめきパラダイス": [
+		"Famous_Heart_Zulong_Nov_2022"
+	],
 	"くらぼっこ": [
 		"RagnaDollKurabokko_JP_9_2021"
 	],
@@ -71688,6 +71706,9 @@
 	"アンチャーテッド財宝を奪い取れ": [
 		"Uncharted_Sony_Pictures_Japan_Pre-Launch_Teaser_2022"
 	],
+	"アンツ": [
+		"StarUnion_Chrismas_Box_Nov_2022"
+	],
 	"アンニョンqoo10": [
 		"eBayK_JP_2020"
 	],
@@ -72363,6 +72384,12 @@
 	"キラキラヒカルスバル": [
 		"enstars_music_JP_2020"
 	],
+	"キラパラ": [
+		"Famous_Heart_Zulong_Nov_2022"
+	],
+	"キラパラリリース記念": [
+		"Famous_Heart_Zulong_Nov_2022"
+	],
 	"キリ": [
 		"Disney_TH_AvatarTheWayofWater_Kiri_2022_V3"
 	],
@@ -72750,6 +72777,9 @@
 	"サーフィン": [
 		"Olympics_2021_Sports_Surfing"
 	],
+	"ザアンツ": [
+		"StarUnion_Chrismas_Box_Nov_2022"
+	],
 	"ザウォッチャー": [
 		"Disney_WhatIfLaunch_TheWatcher",
 		"Disney_WhatIfLaunch_TheWatcher_V2"
@@ -72780,6 +72810,12 @@
 	],
 	"ザルード": [
 		"PokemonCoCoMovieDec2020"
+	],
+	"ザ・アンツ": [
+		"StarUnion_Chrismas_Box_Nov_2022"
+	],
+	"ザ・アンツアンダーグラウンドキングダム": [
+		"StarUnion_Chrismas_Box_Nov_2022"
 	],
 	"ザ・フラッシュ": [
 		"DCFanDome2021_Oct_TheFlash"
@@ -76163,7 +76199,8 @@
 		"UN_OrangeTheWorld_2021"
 	],
 	"世界エイズデー": [
-		"WorldAIDSDay_2021_v2"
+		"WorldAIDSDay_2021_v2",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"世界メディア情報リテラシーウィーク": [
 		"MediaInformationLiteracyWeeks_2020_GlobalMILWeek",
@@ -76222,7 +76259,8 @@
 		"World_Press_Freedom_Day_2022_v2"
 	],
 	"世界愛滋病日": [
-		"WorldAIDSDay_2021_v2"
+		"WorldAIDSDay_2021_v2",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"世界新聞自由日": [
 		"WorldPressFreedomDay_2021",
@@ -76280,7 +76318,8 @@
 		"WSPD_Aug_2022_v2"
 	],
 	"世界艾滋病日": [
-		"WorldAIDSDay_2021_v2"
+		"WorldAIDSDay_2021_v2",
+		"WorldAIDSDay_Nov_2022"
 	],
 	"世界赤十字デー": [
 		"WorldRedCrossDay_May_2021",
@@ -76756,6 +76795,9 @@
 	"十六茶": [
 		"AsahiSoftDrink16tea02Japan_2021",
 		"AsahiSoftDrinktea_Japan_2021"
+	],
+	"千鳥と一緒にキラパラ": [
+		"Famous_Heart_Zulong_Nov_2022"
 	],
 	"千鳥の残暑お見舞い申し上げます": [
 		"Shinsei_Financial_JP_Summer_Aug_2022"
@@ -78107,6 +78149,9 @@
 	],
 	"櫻坂46xメルカリ": [
 		"Dec_mercari_2020"
+	],
+	"次世代ガールズドリームrpg": [
+		"Famous_Heart_Zulong_Nov_2022"
 	],
 	"欢度圣诞": [
 		"HappyHolidays_Dec_2020"
@@ -81133,6 +81178,9 @@
 	"세계언론자유의날": [
 		"WorldPressFreedomDay_2021",
 		"World_Press_Freedom_Day_2022_v2"
+	],
+	"세계에이즈의날": [
+		"WorldAIDSDay_Nov_2022"
 	],
 	"세계여성의날": [
 		"InternationalWomensDay2021"
