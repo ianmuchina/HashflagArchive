@@ -32450,6 +32450,9 @@
 	"lookback_moa": [
 		"Kpop_VIT_TXT_2021_July_LookBack_MOA"
 	],
+	"lookforthelight": [
+		"HBO_The_Last_of_Us_Clicker_Nov_2022"
+	],
 	"loona": [
 		"KpopVIT_LOONA_June_2021"
 	],
@@ -55823,11 +55826,15 @@
 		"PlayStation_TheLastofUs_PartII_Launch",
 		"PlayStation_TheLastofUs_PartII_Launch_Spanish",
 		"HBO_The_Last_of_Us_Sept_2022",
-		"HBO_The_Last_of_Us_Sept_2022_v2"
+		"HBO_The_Last_of_Us_Sept_2022_v2",
+		"HBO_The_Last_of_Us_Clicker_Nov_2022"
 	],
 	"thelastofus2": [
 		"PlayStation_TheLastofUs_PartII_Launch",
 		"PlayStation_TheLastofUs_PartII_Launch_Spanish"
+	],
+	"thelastofushbo": [
+		"HBO_The_Last_of_Us_Clicker_Nov_2022"
 	],
 	"thelastofuspart2": [
 		"PlayStation_TheLastofUs_PartII_Launch",
@@ -57464,7 +57471,8 @@
 	],
 	"tlou": [
 		"HBO_The_Last_of_Us_Sept_2022",
-		"HBO_The_Last_of_Us_Sept_2022_v2"
+		"HBO_The_Last_of_Us_Sept_2022_v2",
+		"HBO_The_Last_of_Us_Clicker_Nov_2022"
 	],
 	"tlou2": [
 		"PlayStation_TheLastofUs_PartII_Launch",
@@ -57473,6 +57481,9 @@
 	"tlouday": [
 		"HBO_The_Last_of_Us_Sept_2022",
 		"HBO_The_Last_of_Us_Sept_2022_v2"
+	],
+	"tlounaccxp": [
+		"HBO_The_Last_of_Us_Clicker_Nov_2022"
 	],
 	"tls": [
 		"Paralympics_2021_TLS",
