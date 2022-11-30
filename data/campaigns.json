@@ -1539,6 +1539,11 @@
 		"startingTimestampMs": "1613095200000",
 		"endingTimestampMs": "1617245940000"
 	},
+	"APV_yama_LIVE_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APV_yama_LIVE_2022/APV_yama_LIVE_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1672498800000"
+	},
 	"AQuietPlace_P2_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AQuietPlace_P2_2021/AQuietPlace_P2_2021.png",
 		"startingTimestampMs": "1620187200000",
@@ -2623,6 +2628,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/AmazonMusicHolidayPlays2020_v2/AmazonMusicHolidayPlays2020_v2.png",
 		"startingTimestampMs": "1606694400000",
 		"endingTimestampMs": "1609487940000"
+	},
+	"AmazonMusic_JP_XmasBox_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AmazonMusic_JP_XmasBox_2022/AmazonMusic_JP_XmasBox_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1671980400000"
 	},
 	"AmazonPrimeVideoIndia_FamilyMan2": {
 		"assetUrl": "https://abs.twimg.com/hashflags/AmazonPrimeVideoIndia_FamilyMan2/AmazonPrimeVideoIndia_FamilyMan2.png",
@@ -9133,6 +9143,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/DQ_Blizzard_2021_Q2/DQ_Blizzard_2021_Q2.png",
 		"startingTimestampMs": "1618099200000",
 		"endingTimestampMs": "1626073140000"
+	},
+	"DQ_Keshikeshi_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQ_Keshikeshi_Nov_2022/DQ_Keshikeshi_Nov_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1677596340000"
 	},
 	"DQ_RIVALS_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DQ_RIVALS_2020/DQ_RIVALS_2020.png",
@@ -23739,6 +23754,11 @@
 		"startingTimestampMs": "1617548400000",
 		"endingTimestampMs": "1625237940000"
 	},
+	"LOTTE_LB_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LOTTE_LB_Nov_2022/LOTTE_LB_Nov_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1677596340000"
+	},
 	"LOTTE_XYLITOL_JP_2021_sep": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LOTTE_XYLITOL_JP_2021_sep/LOTTE_XYLITOL_JP_2021_sep.png",
 		"startingTimestampMs": "1632668400000",
@@ -28104,6 +28124,11 @@
 		"startingTimestampMs": "1638360000000",
 		"endingTimestampMs": "1646136000000"
 	},
+	"Mitsubishi_Motors_JP_XmasBox_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Mitsubishi_Motors_JP_XmasBox_2022/Mitsubishi_Motors_JP_XmasBox_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1677596340000"
+	},
 	"Mizuho_Bank_Summer_JUMB_Takarakuji_Jul_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Mizuho_Bank_Summer_JUMB_Takarakuji_Jul_2022/Mizuho_Bank_Summer_JUMB_Takarakuji_Jul_2022.png",
 		"startingTimestampMs": "1658156400000",
@@ -32099,6 +32124,16 @@
 		"startingTimestampMs": "1613520000000",
 		"endingTimestampMs": "1617235200000"
 	},
+	"Netflix_GK_JOJO_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_GK_JOJO_Nov_2022/Netflix_GK_JOJO_Nov_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1677596340000"
+	},
+	"Netflix_GK_JOJO_jyorin_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_GK_JOJO_jyorin_Nov_2022/Netflix_GK_JOJO_jyorin_Nov_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1677596340000"
+	},
 	"Netflix_Geeked_Week_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Geeked_Week_May_2022/Netflix_Geeked_Week_May_2022.png",
 		"startingTimestampMs": "1652709600000",
@@ -32108,6 +32143,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Glass_Onion_Aug_2022/Netflix_Glass_Onion_Aug_2022.png",
 		"startingTimestampMs": "1662555600000",
 		"endingTimestampMs": "1670335200000"
+	},
+	"Netflix_Gudetama_Nov_2022_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_Gudetama_Nov_2022_v3/Netflix_Gudetama_Nov_2022_v3.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1677596340000"
 	},
 	"Netflix_HereForTheHolidays_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Netflix_HereForTheHolidays_2020/Netflix_HereForTheHolidays_2020.png",
@@ -32753,6 +32793,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Nike_MambaMentality_2020_H_2/Nike_MambaMentality_2020_H_2.png",
 		"startingTimestampMs": "1598338800000",
 		"endingTimestampMs": "1598598000000"
+	},
+	"NinjaMustDie_JP_XmasBox_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NinjaMustDie_JP_XmasBox_2022/NinjaMustDie_JP_XmasBox_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1677596340000"
 	},
 	"NintendoMario_GB_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NintendoMario_GB_2021/NintendoMario_GB_2021.png",
@@ -40748,6 +40793,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/ShesTheFirst_2021/ShesTheFirst_2021.png",
 		"startingTimestampMs": "1633849200000",
 		"endingTimestampMs": "1634021940000"
+	},
+	"Shimamura_JP_XmasBox_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Shimamura_JP_XmasBox_2022/Shimamura_JP_XmasBox_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1677596340000"
 	},
 	"ShineALight_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ShineALight_2021/ShineALight_2021.png",
@@ -48944,6 +48994,11 @@
 		"startingTimestampMs": "1622559600000",
 		"endingTimestampMs": "1625122740000"
 	},
+	"angelchampagnej_JP_XmasBox_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/angelchampagnej_JP_XmasBox_2022/angelchampagnej_JP_XmasBox_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1677596340000"
+	},
 	"appleevent_march_2022_bl_us": {
 		"assetUrl": "https://abs.twimg.com/hashflags/appleevent_march_2022_bl_us/appleevent_march_2022_bl_us.png",
 		"startingTimestampMs": "1646721000000",
@@ -49188,6 +49243,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/eBay_Japan_Megawari_Qoo10_Q4_Nov_2022/eBay_Japan_Megawari_Qoo10_Q4_Nov_2022.png",
 		"startingTimestampMs": "1668351600000",
 		"endingTimestampMs": "1669647600000"
+	},
+	"eBay_Japan_Move_Campaign_Nov_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/eBay_Japan_Move_Campaign_Nov_2022/eBay_Japan_Move_Campaign_Nov_2022.png",
+		"startingTimestampMs": "1669820400000",
+		"endingTimestampMs": "1677596400000"
 	},
 	"eBay_Japan_Move_campaign_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/eBay_Japan_Move_campaign_Apr_2022/eBay_Japan_Move_campaign_Apr_2022.png",
