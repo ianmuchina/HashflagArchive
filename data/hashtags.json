@@ -75551,7 +75551,11 @@
 	"ライアフ": [
 		"LifeafterUpdateEvent_2021",
 		"lifeafter_game_season3_2021",
-		"NetEaseLifeafter_game2022"
+		"NetEaseLifeafter_game2022",
+		"lifeafter_game_Nov_2022"
+	],
+	"ライアフシーズン5": [
+		"lifeafter_game_Nov_2022"
 	],
 	"ライアフゾンビと荒海": [
 		"NetEaseLifeafter_game2022"
@@ -75585,10 +75589,14 @@
 	"ライフアフター": [
 		"LifeafterUpdateEvent_2021",
 		"lifeafter_game_season3_2021",
-		"NetEaseLifeafter_game2022"
+		"NetEaseLifeafter_game2022",
+		"lifeafter_game_Nov_2022"
 	],
 	"ライフアフターシーズン3": [
 		"lifeafter_game_season3_2021"
+	],
+	"ライフアフターシーズン５": [
+		"lifeafter_game_Nov_2022"
 	],
 	"ライフアフター建築": [
 		"lifeafter_game_season3_2021",
@@ -78488,6 +78496,9 @@
 		"StayHome_2020_2021_ext",
 		"StayHome_2020_2021_ext3",
 		"StayHome_2020_2021_ext2"
+	],
+	"異変の力": [
+		"lifeafter_game_Nov_2022"
 	],
 	"疫苗保护人人": [
 		"WorldImmunizationWeek_April_2021"
