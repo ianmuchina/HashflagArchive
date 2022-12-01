@@ -5629,6 +5629,11 @@
 		"startingTimestampMs": "1667015460000",
 		"endingTimestampMs": "1674964260000"
 	},
+	"Binance_Festival_Campaign_Oct_2022_add": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Binance_Festival_Campaign_Oct_2022_add/Binance_Festival_Campaign_Oct_2022_add.png",
+		"startingTimestampMs": "1669866660000",
+		"endingTimestampMs": "1674964260000"
+	},
 	"Binance_Flag_Q1_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Binance_Flag_Q1_2022/Binance_Flag_Q1_2022.png",
 		"startingTimestampMs": "1641484800000",
@@ -27773,6 +27778,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Method_2020/Method_2020.png",
 		"startingTimestampMs": "1581613200000",
 		"endingTimestampMs": "1609477200000"
+	},
+	"Metro_Boomin_2002": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Metro_Boomin_2002/Metro_Boomin_2002.png",
+		"startingTimestampMs": "1669867200000",
+		"endingTimestampMs": "1675224000000"
 	},
 	"MeusPremiosNick_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/MeusPremiosNick_2020/MeusPremiosNick_2020.png",
