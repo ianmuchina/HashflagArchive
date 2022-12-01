@@ -755,6 +755,9 @@
 	"50周年・思い出のメニューが続々": [
 		"McDonalds50thanniversaryJP2021"
 	],
+	"51_اليوم_الوطني_الإماراتي": [
+		"UAE_National_Day_Nov_2022"
+	],
 	"5aside": [
 		"Ladbrokes_5aside_2020_v2",
 		"Ladbrokes_5aside_2020",
@@ -4659,6 +4662,9 @@
 	"autismacceptancemonth": [
 		"AutismAcceptanceMonth_2021",
 		"Autism_Acceptance_Month_2022"
+	],
+	"autobots": [
+		"Paramount_Pictures_Transformers_Teaser_Autobot_Dec_2022"
 	],
 	"autochtones": [
 		"IndigenousPeoplesDay_2021",
@@ -23931,6 +23937,9 @@
 	"hello2022": [
 		"New_Years_Rockin_Eve_2021"
 	],
+	"hello2023": [
+		"Dick_Clark_Productions_NYRE_2022"
+	],
 	"helloadrenox": [
 		"HelloXUV700"
 	],
@@ -38628,7 +38637,8 @@
 	"newyearsrockineve": [
 		"New_Years_Rockin_Eve_2021",
 		"NewYearsRockinEve2020",
-		"NewYearsRockinEve2020_v2"
+		"NewYearsRockinEve2020_v2",
+		"Dick_Clark_Productions_NYRE_2022"
 	],
 	"newyorkforever": [
 		"NBA_Season_Teams_2021_NewYorkForever",
@@ -39215,7 +39225,8 @@
 		"Lucky_Daye_Mar_2022"
 	],
 	"nolaxrockineve": [
-		"New_Years_Rockin_Eve_2021"
+		"New_Years_Rockin_Eve_2021",
+		"Dick_Clark_Productions_NYRE_2022"
 	],
 	"nomadland": [
 		"SearchlightNomadland_2020",
@@ -39763,7 +39774,8 @@
 	"nyre": [
 		"New_Years_Rockin_Eve_2021",
 		"NewYearsRockinEve2020",
-		"NewYearsRockinEve2020_v2"
+		"NewYearsRockinEve2020_v2",
+		"Dick_Clark_Productions_NYRE_2022"
 	],
 	"nysl": [
 		"CDL_Team_NS_2022",
@@ -43963,6 +43975,9 @@
 	"povosindígenas": [
 		"IndigenousPeoplesDay_2021"
 	],
+	"powerballrockineve": [
+		"Dick_Clark_Productions_NYRE_2022"
+	],
 	"powerbook2": [
 		"PowerBookII_Ghost_Season1_2020",
 		"PowerBookII_Ghost_Season1B_2020"
@@ -44617,7 +44632,8 @@
 		"PruCIFlex2020"
 	],
 	"prxrockineve": [
-		"New_Years_Rockin_Eve_2021"
+		"New_Years_Rockin_Eve_2021",
+		"Dick_Clark_Productions_NYRE_2022"
 	],
 	"présidentielles": [
 		"French_Presidential_Elections_2022"
@@ -47095,7 +47111,8 @@
 	"rockineve": [
 		"New_Years_Rockin_Eve_2021",
 		"NewYearsRockinEve2020",
-		"NewYearsRockinEve2020_v2"
+		"NewYearsRockinEve2020_v2",
+		"Dick_Clark_Productions_NYRE_2022"
 	],
 	"rockinrio": [
 		"Official_Rock_in_Rio_Sept_2022"
@@ -58151,6 +58168,9 @@
 		"International_Transgender_Day_of_Visibility_2022",
 		"TransVisibility_2021"
 	],
+	"transformers": [
+		"Paramount_Pictures_Transformers_Teaser_Autobot_Dec_2022"
+	],
 	"transformthenight": [
 		"OPPOIndia_Jul_2022"
 	],
@@ -59130,18 +59150,25 @@
 	"uae50": [
 		"UAENationalDay50_2021"
 	],
+	"uae51": [
+		"UAE_National_Day_Nov_2022"
+	],
 	"uaena": [
 		"KpopVIT_IU_Sept_2021"
 	],
 	"uaenationalday": [
 		"UAENationalDay50_2021",
-		"UAENationalDay_2020"
+		"UAENationalDay_2020",
+		"UAE_National_Day_Nov_2022"
 	],
 	"uaenationalday49": [
 		"UAENationalDay_2020"
 	],
 	"uaenationalday50": [
 		"UAENationalDay50_2021"
+	],
+	"uaenationalday51": [
+		"UAE_National_Day_Nov_2022"
 	],
 	"uaflow": [
 		"UAFlow_2021"
@@ -66627,7 +66654,8 @@
 	],
 	"اليوم_الوطني_الإماراتي": [
 		"UAENationalDay50_2021",
-		"UAENationalDay_2020"
+		"UAENationalDay_2020",
+		"UAE_National_Day_Nov_2022"
 	],
 	"اليوم_الوطني_السعودي": [
 		"SaudiNationalDay2021",
@@ -73892,6 +73920,9 @@
 	],
 	"トライアスロン": [
 		"Olympics_2021_Sports_Triathlon"
+	],
+	"トランスフォーマー": [
+		"Paramount_Pictures_Transformers_Teaser_Autobot_Dec_2022"
 	],
 	"トランポリン": [
 		"Olympics_2021_Sports_TrampolineGymnastics"
@@ -82773,6 +82804,9 @@
 	],
 	"툴렌시티": [
 		"Nexon_Mapleastory_2021_JanWinter"
+	],
+	"트랜스포머": [
+		"Paramount_Pictures_Transformers_Teaser_Autobot_Dec_2022"
 	],
 	"트레이서": [
 		"Wavv_ZNE_Tracer_1_2022"
