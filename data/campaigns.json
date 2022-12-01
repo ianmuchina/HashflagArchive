@@ -23009,6 +23009,11 @@
 		"startingTimestampMs": "1651154400000",
 		"endingTimestampMs": "1676433540000"
 	},
+	"LAWSON_JP_XmasBox_2022_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LAWSON_JP_XmasBox_2022_v2/LAWSON_JP_XmasBox_2022_v2.png",
+		"startingTimestampMs": "1669906800000",
+		"endingTimestampMs": "1671980340000"
+	},
 	"LBFF_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LBFF_2020/LBFF_2020.png",
 		"startingTimestampMs": "1598065260000",
@@ -37743,6 +37748,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/PokemonStrahlenderDiamant/PokemonStrahlenderDiamant.png",
 		"startingTimestampMs": "1635724800000",
 		"endingTimestampMs": "1643673600000"
+	},
+	"Pokemon_Card_SV_Dec_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pokemon_Card_SV_Dec_2022/Pokemon_Card_SV_Dec_2022.png",
+		"startingTimestampMs": "1669906800000",
+		"endingTimestampMs": "1677682740000"
 	},
 	"Pokemon_JP_BD_SP_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Pokemon_JP_BD_SP_2021/Pokemon_JP_BD_SP_2021.png",

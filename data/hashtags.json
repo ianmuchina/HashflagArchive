@@ -43664,8 +43664,14 @@
 	"poisonivy": [
 		"HBO_Max_Harley_Quinn_S3_Round_2_Ivy_2022"
 	],
+	"pokeca": [
+		"Pokemon_Card_SV_Dec_2022"
+	],
 	"pokemonbrilliantdiamond": [
 		"PokemonBrilliantDiamond_2021_Dialga"
+	],
+	"pokemoncard": [
+		"Pokemon_Card_SV_Dec_2022"
 	],
 	"pokemonlegendenarceus": [
 		"Nintendo_Legenden_Arceus_2021_2022_v2",
@@ -61307,6 +61313,9 @@
 	"vsii": [
 		"VerdadesSecretas2"
 	],
+	"vstarユニバース": [
+		"Pokemon_Card_SV_Dec_2022"
+	],
 	"vstrongbaby": [
 		"ESPN_VFoundationGivingTuesday_2021",
 		"ESPN_Jimmy_V_Foundation_Jul_2022"
@@ -75268,6 +75277,9 @@
 	"ボーンズアンドオール": [
 		"UAR_Bones_and_All_Nov_2022"
 	],
+	"ポケカ": [
+		"Pokemon_Card_SV_Dec_2022"
+	],
 	"ポケチキ": [
 		"FamliyMart_JP_2020_Q2_3"
 	],
@@ -75288,6 +75300,9 @@
 	],
 	"ポケモンsp": [
 		"PokemonBrilliantDiamond_2021_Palkia"
+	],
+	"ポケモンカード": [
+		"Pokemon_Card_SV_Dec_2022"
 	],
 	"ポケモンスカーレット": [
 		"Pokemon_S_Launch_Nov_2022_v2"
@@ -76137,19 +76152,30 @@
 	],
 	"ローソン": [
 		"akiko_lawson_Xmas_2021",
-		"Xmasbox_C_2020_Lawson"
+		"Xmasbox_C_2020_Lawson",
+		"LAWSON_JP_XmasBox_2022_v2"
 	],
 	"ローソンから一足早くお届け": [
 		"Xmasbox_C_2020_Lawson"
 	],
+	"ローソンでメリクリ": [
+		"LAWSON_JP_XmasBox_2022_v2"
+	],
 	"ローソンどっちのエルチキ": [
 		"Xmasbox_C_2020_Lawson"
+	],
+	"ローソンのどらもっち食べたい": [
+		"LAWSON_JP_XmasBox_2022_v2"
 	],
 	"ローソンのエルチキ食べたい": [
 		"akiko_lawson_Xmas_2021"
 	],
 	"ローソンのロールケーキ食べたい": [
-		"akiko_lawson_Xmas_2021"
+		"akiko_lawson_Xmas_2021",
+		"LAWSON_JP_XmasBox_2022_v2"
+	],
+	"ローソンメリクリどらもっち": [
+		"LAWSON_JP_XmasBox_2022_v2"
 	],
 	"ワカンダフォーエバー": [
 		"Disney_BlackPanther2_BlackPanther_INTL"
