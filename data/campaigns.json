@@ -5944,6 +5944,11 @@
 		"startingTimestampMs": "1607036400000",
 		"endingTimestampMs": "1610751600000"
 	},
+	"Bouygues_Telecom_Christmas_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bouygues_Telecom_Christmas_2022/Bouygues_Telecom_Christmas_2022.png",
+		"startingTimestampMs": "1669917600000",
+		"endingTimestampMs": "1672524000000"
+	},
 	"Bouygues_Telecom_Christmas_Emoji_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Bouygues_Telecom_Christmas_Emoji_2021/Bouygues_Telecom_Christmas_Emoji_2021.png",
 		"startingTimestampMs": "1638918000000",
@@ -44588,6 +44593,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/Turner_AEW_Refresh_Aug_2022_v2/Turner_AEW_Refresh_Aug_2022_v2.png",
 		"startingTimestampMs": "1661558400000",
 		"endingTimestampMs": "1669507200000"
+	},
+	"Turner_AEW_Refresh_Dec_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Turner_AEW_Refresh_Dec_2022/Turner_AEW_Refresh_Dec_2022.png",
+		"startingTimestampMs": "1669917600000",
+		"endingTimestampMs": "1677646740000"
 	},
 	"Turner_AllEliteWrestling_AEW": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Turner_AllEliteWrestling_AEW/Turner_AllEliteWrestling_AEW.png",
