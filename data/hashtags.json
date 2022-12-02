@@ -17565,6 +17565,30 @@
 		"TS_Dec_2020_Album",
 		"TS_evermorealbum_2021"
 	],
+	"eversoul": [
+		"KakaoGames_EverSoul_Mephistopheles_2022"
+	],
+	"eversoul_adrianne": [
+		"KakaoGames_EverSoul_Adrianne_2022"
+	],
+	"eversoul_awakeyoursoul": [
+		"KakaoGames_EverSoul_Ayame_2022"
+	],
+	"eversoul_ayame": [
+		"KakaoGames_EverSoul_Ayame_2022"
+	],
+	"eversoul_mephistopheles": [
+		"KakaoGames_EverSoul_Mephistopheles_2022"
+	],
+	"eversoul_preregistration": [
+		"KakaoGames_EverSoul_Talia_2022"
+	],
+	"eversoul_soul": [
+		"KakaoGames_EverSoul_Adrianne_2022"
+	],
+	"eversoul_talia": [
+		"KakaoGames_EverSoul_Talia_2022"
+	],
 	"everupward": [
 		"Overwatch_League_NewYork_2022",
 		"OWL_Season4_Team_Feb_2021_NY",
@@ -50318,6 +50342,12 @@
 		"Slack_Frontiers_Jun_2022",
 		"Slack_Frontiers_Jun_2022_v2"
 	],
+	"slamdunk": [
+		"movie_slamdunk_Dec_2022"
+	],
+	"slamdunkmovie": [
+		"movie_slamdunk_Dec_2022"
+	],
 	"sle": [
 		"Paralympics_2021_SLE",
 		"Olympics_Countries_2021_SLE"
@@ -55672,6 +55702,9 @@
 	],
 	"thefinalsentence": [
 		"WentworthTheFinalSentence_2021"
+	],
+	"thefirstslamdunk": [
+		"movie_slamdunk_Dec_2022"
 	],
 	"thefirstsoldier": [
 		"Ateam_FF7FS_EMOJI_202110"
@@ -73499,6 +73532,9 @@
 	"スラミチ": [
 		"DQWalk_2point5y_anniversary_2022"
 	],
+	"スラムダンク": [
+		"movie_slamdunk_Dec_2022"
+	],
 	"スワローズ": [
 		"ProfessionalBaseball_JP_2021_YS_2"
 	],
@@ -78108,6 +78144,9 @@
 	"映画ストレンジワールド": [
 		"Disney_Strange_World_Splat_Nov_2022"
 	],
+	"映画スラムダンク": [
+		"movie_slamdunk_Dec_2022"
+	],
 	"映画ダンジョンズアンドドラゴンズ": [
 		"Paramount_Pictures_Dungeons_and_Dragons_Honor_Among_Thieves_Jul_2022_v2"
 	],
@@ -81913,6 +81952,30 @@
 	"에버렛로스": [
 		"Disney_BlackPanther2_EverettRoss_INTL"
 	],
+	"에버소울": [
+		"KakaoGames_EverSoul_Mephistopheles_2022"
+	],
+	"에버소울_메피스토펠레스": [
+		"KakaoGames_EverSoul_Mephistopheles_2022"
+	],
+	"에버소울_사전예약": [
+		"KakaoGames_EverSoul_Talia_2022"
+	],
+	"에버소울_아드리안": [
+		"KakaoGames_EverSoul_Adrianne_2022"
+	],
+	"에버소울_아야메": [
+		"KakaoGames_EverSoul_Ayame_2022"
+	],
+	"에버소울_영혼계약": [
+		"KakaoGames_EverSoul_Ayame_2022"
+	],
+	"에버소울_정령": [
+		"KakaoGames_EverSoul_Adrianne_2022"
+	],
+	"에버소울_탈리아": [
+		"KakaoGames_EverSoul_Talia_2022"
+	],
 	"에스에프나인": [
 		"KPOP_SF9_2020",
 		"Kpop_VIT_SF9_June_2021",
@@ -82070,6 +82133,9 @@
 	],
 	"오코예": [
 		"Disney_BlackPanther2_Okoye_INTL"
+	],
+	"오퍼레이터_원": [
+		"KakaoGames_EverSoul_Mephistopheles_2022"
 	],
 	"온유": [
 		"Kpop_VIT_SHINee_2021_ONEW",
@@ -82399,6 +82465,9 @@
 	"정의실현부_전략병기": [
 		"BlueArchiveLaunching_Nov2021_Tsurugi"
 	],
+	"정의의_빛": [
+		"KakaoGames_EverSoul_Adrianne_2022"
+	],
 	"제20대대선": [
 		"Korea_Presidential_Election_2022"
 	],
@@ -82471,6 +82540,9 @@
 	"지방선거": [
 		"Korea_Local_Elections_2022",
 		"Korea_Local_Elections_2022_v2"
+	],
+	"지상의_별": [
+		"KakaoGames_EverSoul_Talia_2022"
 	],
 	"지선": [
 		"Korea_Local_Elections_2022",
@@ -83046,6 +83118,9 @@
 	"피노키오": [
 		"DisneyPlus_Pinocchio_Pinocchio_2022",
 		"DisneyPlus_Pinocchio_Pinocchio_2022_V2"
+	],
+	"피안의_기다림": [
+		"KakaoGames_EverSoul_Ayame_2022"
 	],
 	"피원하모니": [
 		"KPop_Group_2020"
