@@ -2736,7 +2736,8 @@
 		"AmazonStudiosNowScreaming2021"
 	],
 	"amazonprime": [
-		"Amazon_Prime_Membership_Mexico_2022"
+		"Amazon_Prime_Membership_Mexico_2022",
+		"Amazon_CXM_Wold_Cup_2022"
 	],
 	"amazonprimeday": [
 		"amazonprimeday_2021",
@@ -35148,10 +35149,12 @@
 		"MeijiMeltykissPromotion_Japan_2020"
 	],
 	"membresiaamazonprime": [
-		"Amazon_Prime_Membership_Mexico_2022"
+		"Amazon_Prime_Membership_Mexico_2022",
+		"Amazon_CXM_Wold_Cup_2022"
 	],
 	"membresíaamazonprime": [
-		"Amazon_Prime_Membership_Mexico_2022"
+		"Amazon_Prime_Membership_Mexico_2022",
+		"Amazon_CXM_Wold_Cup_2022"
 	],
 	"memorialday": [
 		"MemorialDay2021"
@@ -44387,6 +44390,9 @@
 	],
 	"primaveramaisamarga": [
 		"Becks_Beer_Primavera_Sound_Oct_2022"
+	],
+	"prime": [
+		"Amazon_CXM_Wold_Cup_2022"
 	],
 	"primeday": [
 		"amazonprimeday_2021",
