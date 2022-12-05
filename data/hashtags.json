@@ -26071,6 +26071,9 @@
 	"innisfree": [
 		"Innisfree_serum_KR_2020"
 	],
+	"innoday": [
+		"OPPO_Innoday_Dec_2022"
+	],
 	"innogeneration": [
 		"Big2021_FR_2021"
 	],
@@ -40847,6 +40850,9 @@
 	"oppo": [
 		"OPPO_INNODAY_2021"
 	],
+	"oppocyberdog": [
+		"OPPO_Innoday_Dec_2022"
+	],
 	"oppof21proseries": [
 		"Oppo_F21_Apr_2022"
 	],
@@ -40864,6 +40870,9 @@
 	],
 	"oppofindx5series": [
 		"OPPO_FindX5_Feb_2022"
+	],
+	"oppoinnoday": [
+		"OPPO_Innoday_Dec_2022"
 	],
 	"oppoinnoday20": [
 		"OPPOINNODAY20"
@@ -76259,29 +76268,34 @@
 	"ローソン": [
 		"akiko_lawson_Xmas_2021",
 		"Xmasbox_C_2020_Lawson",
-		"LAWSON_JP_XmasBox_2022_v2"
+		"LAWSON_JP_XmasBox_2022_v2",
+		"LAWSON_JP_XmasBox_2022"
 	],
 	"ローソンから一足早くお届け": [
 		"Xmasbox_C_2020_Lawson"
 	],
 	"ローソンでメリクリ": [
-		"LAWSON_JP_XmasBox_2022_v2"
+		"LAWSON_JP_XmasBox_2022_v2",
+		"LAWSON_JP_XmasBox_2022"
 	],
 	"ローソンどっちのエルチキ": [
 		"Xmasbox_C_2020_Lawson"
 	],
 	"ローソンのどらもっち食べたい": [
-		"LAWSON_JP_XmasBox_2022_v2"
+		"LAWSON_JP_XmasBox_2022_v2",
+		"LAWSON_JP_XmasBox_2022"
 	],
 	"ローソンのエルチキ食べたい": [
 		"akiko_lawson_Xmas_2021"
 	],
 	"ローソンのロールケーキ食べたい": [
 		"akiko_lawson_Xmas_2021",
-		"LAWSON_JP_XmasBox_2022_v2"
+		"LAWSON_JP_XmasBox_2022_v2",
+		"LAWSON_JP_XmasBox_2022"
 	],
 	"ローソンメリクリどらもっち": [
-		"LAWSON_JP_XmasBox_2022_v2"
+		"LAWSON_JP_XmasBox_2022_v2",
+		"LAWSON_JP_XmasBox_2022"
 	],
 	"ワカンダフォーエバー": [
 		"Disney_BlackPanther2_BlackPanther_INTL"
