@@ -29719,6 +29719,11 @@
 		"startingTimestampMs": "1614153600000",
 		"endingTimestampMs": "1621925940000"
 	},
+	"NBCU_PCAs_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBCU_PCAs_2022/NBCU_PCAs_2022.png",
+		"startingTimestampMs": "1670227260000",
+		"endingTimestampMs": "1670572860000"
+	},
 	"NBCU_Peacock2020_v3": {
 		"assetUrl": "https://abs.twimg.com/hashflags/NBCU_Peacock2020_v3/NBCU_Peacock2020_v3.png",
 		"startingTimestampMs": "1594796400000",
