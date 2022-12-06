@@ -46964,6 +46964,11 @@
 		"startingTimestampMs": "1638878400000",
 		"endingTimestampMs": "1644901140000"
 	},
+	"WPMOY_Dec_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WPMOY_Dec_2022/WPMOY_Dec_2022.png",
+		"startingTimestampMs": "1670345400000",
+		"endingTimestampMs": "1676479800000"
+	},
 	"WSJ_Election2020_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/WSJ_Election2020_2020/WSJ_Election2020_2020.png",
 		"startingTimestampMs": "1601251200000",
