@@ -14879,6 +14879,11 @@
 		"startingTimestampMs": "1602403200000",
 		"endingTimestampMs": "1606808700000"
 	},
+	"G2Acom_Dec_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/G2Acom_Dec_2022/G2Acom_Dec_2022.png",
+		"startingTimestampMs": "1670477940000",
+		"endingTimestampMs": "1682833140000"
+	},
 	"G2_Esports_MSI_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/G2_Esports_MSI_May_2022/G2_Esports_MSI_May_2022.png",
 		"startingTimestampMs": "1652432400000",
