@@ -1649,6 +1649,11 @@
 		"startingTimestampMs": "1641497400000",
 		"endingTimestampMs": "1648537140000"
 	},
+	"ASUS_CES_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ASUS_CES_2023/ASUS_CES_2023.png",
+		"startingTimestampMs": "1670515200000",
+		"endingTimestampMs": "1678291200000"
+	},
 	"ASUS_Launch_Apr_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ASUS_Launch_Apr_2022/ASUS_Launch_Apr_2022.png",
 		"startingTimestampMs": "1650312000000",
@@ -9203,6 +9208,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/DQ_TACT_2_Jan_2021/DQ_TACT_2_Jan_2021.png",
 		"startingTimestampMs": "1610722800000",
 		"endingTimestampMs": "1618498800000"
+	},
+	"DQ_Treasures_Launch_Dec_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQ_Treasures_Launch_Dec_2022/DQ_Treasures_Launch_Dec_2022.png",
+		"startingTimestampMs": "1670511600000",
+		"endingTimestampMs": "1678287540000"
 	},
 	"DRL21_22": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DRL21_22/DRL21_22.png",

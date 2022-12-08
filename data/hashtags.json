@@ -4380,14 +4380,22 @@
 		"ASUS_CES_2022",
 		"ASUSOLED_2021",
 		"ASUS_Launch_Apr_2022",
-		"ASUS_Zenbook17_Fold_OLED_Aug_2022"
+		"ASUS_Zenbook17_Fold_OLED_Aug_2022",
+		"ASUS_CES_2023"
+	],
+	"asusces": [
+		"ASUS_CES_2023"
 	],
 	"asusces2022": [
 		"ASUS_CES_2022"
 	],
+	"asusces2023": [
+		"ASUS_CES_2023"
+	],
 	"asuslaunchevent": [
 		"ASUS_Launch_Apr_2022",
-		"ASUS_Zenbook17_Fold_OLED_Aug_2022"
+		"ASUS_Zenbook17_Fold_OLED_Aug_2022",
+		"ASUS_CES_2023"
 	],
 	"asusoled": [
 		"ASUSOLED_2021"
@@ -15313,6 +15321,9 @@
 	],
 	"dqタクト２周年を祝おう": [
 		"DQTACT_Anniversary_Jul_2022"
+	],
+	"dqトレジャーズ": [
+		"DQ_Treasures_Launch_Dec_2022"
 	],
 	"dqライバルズエース": [
 		"DQ_RIVALS_2020"
@@ -48891,6 +48902,9 @@
 	"seehergreatness": [
 		"Buick_SeeHerGreatness_Mar_2022"
 	],
+	"seeinganincrediblefuture": [
+		"ASUS_CES_2023"
+	],
 	"seeinggreen": [
 		"Nicki_Minaj_Mixtape_2021_V2"
 	],
@@ -71421,6 +71435,9 @@
 	"つなげハイキュー": [
 		"SamsungGalaxy_JP_2020"
 	],
+	"つのマイトレジャー団": [
+		"DQ_Treasures_Launch_Dec_2022"
+	],
 	"てりたま": [
 		"McDonaldsTeritama_2020"
 	],
@@ -71674,6 +71691,9 @@
 	],
 	"みんなでてりたま桜満開": [
 		"McDonaldsTeritama_2020"
+	],
+	"みんなのトレジャーライフ": [
+		"DQ_Treasures_Launch_Dec_2022"
 	],
 	"みんなの甲子園": [
 		"Spring_High_School_Baseball_MBS_2022"
@@ -74211,6 +74231,9 @@
 	"ドラクエけしケシ": [
 		"DQKeshikeshi_May_2022"
 	],
+	"ドラクエでお宝探し": [
+		"DQ_Treasures_Launch_Dec_2022"
+	],
 	"ドラクエウォーク": [
 		"DQWalk_2point5y_anniversary_2022",
 		"DQWalk_Aniv_B1_2020_H_BL",
@@ -74245,6 +74268,9 @@
 	],
 	"ドラクエタクト２周年": [
 		"DQTACT_Anniversary_Jul_2022"
+	],
+	"ドラクエトレジャーズ": [
+		"DQ_Treasures_Launch_Dec_2022"
 	],
 	"ドラクエライバルズエース": [
 		"DQ_RIVALS_2020"
