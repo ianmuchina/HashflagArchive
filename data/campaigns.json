@@ -9794,6 +9794,11 @@
 		"startingTimestampMs": "1620604800000",
 		"endingTimestampMs": "1628665200000"
 	},
+	"DisneyPlusTR_Dec_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlusTR_Dec_2022/DisneyPlusTR_Dec_2022.png",
+		"startingTimestampMs": "1670544000000",
+		"endingTimestampMs": "1678320000000"
+	},
 	"DisneyPlus_BobaFett_BobaFett_S1_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_BobaFett_BobaFett_S1_2021/DisneyPlus_BobaFett_BobaFett_S1_2021.png",
 		"startingTimestampMs": "1639492200000",
@@ -19733,6 +19738,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/ISL_Emoji_2022_23_OFC/ISL_Emoji_2022_23_OFC.png",
 		"startingTimestampMs": "1665532800000",
 		"endingTimestampMs": "1678987800000"
+	},
+	"ITVX_Dec_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ITVX_Dec_2022/ITVX_Dec_2022.png",
+		"startingTimestampMs": "1670543940000",
+		"endingTimestampMs": "1678262400000"
 	},
 	"ITV_Love_Island_May_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ITV_Love_Island_May_2022/ITV_Love_Island_May_2022.png",
