@@ -33511,17 +33511,26 @@
 	"m1gp2021": [
 		"M1_Grandprix_ABC_2021_v2"
 	],
+	"m1gp2022": [
+		"ABC_M1_Grandprix_Dec_2022"
+	],
+	"m1グランプリ": [
+		"ABC_M1_Grandprix_Dec_2022"
+	],
 	"m1グランプリ敗者復活戦": [
-		"M1_Grandprix_ABC_2021_v2"
+		"M1_Grandprix_ABC_2021_v2",
+		"ABC_M1_Grandprix_Dec_2022"
 	],
 	"m1グランプリ決勝戦": [
-		"M1_Grandprix_ABC_2021_v2"
+		"M1_Grandprix_ABC_2021_v2",
+		"ABC_M1_Grandprix_Dec_2022"
 	],
 	"m1敗者復活戦": [
 		"M1_Grandprix_ABC_2021_v2"
 	],
 	"m1決勝戦": [
-		"M1_Grandprix_ABC_2021_v2"
+		"M1_Grandprix_ABC_2021_v2",
+		"ABC_M1_Grandprix_Dec_2022"
 	],
 	"m3gan": [
 		"M3GAN_Movie_2022"

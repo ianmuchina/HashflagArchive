@@ -784,6 +784,11 @@
 		"startingTimestampMs": "1632142800000",
 		"endingTimestampMs": "1639987080000"
 	},
+	"ABC_M1_Grandprix_Dec_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ABC_M1_Grandprix_Dec_2022/ABC_M1_Grandprix_Dec_2022.png",
+		"startingTimestampMs": "1670634000000",
+		"endingTimestampMs": "1673658000000"
+	},
 	"ABC_Network_Bachelor_In_Paradise_S8_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ABC_Network_Bachelor_In_Paradise_S8_Sept_2022/ABC_Network_Bachelor_In_Paradise_S8_Sept_2022.png",
 		"startingTimestampMs": "1664170200000",
