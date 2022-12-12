@@ -902,6 +902,9 @@
 	"7月7日はカルピスの誕生日": [
 		"AsahiSoftDrinkCalpis02TanabataJapan2021"
 	],
+	"80thgoldenglobes": [
+		"Dick_Clark_Productions_Golden_Globes_2022"
+	],
 	"81921cb23227": [
 		"81921CB23227"
 	],
@@ -21829,7 +21832,11 @@
 		"TABSpringRacing_2021_GoldenEagle"
 	],
 	"goldenglobes": [
-		"GoldenGlobes_2021"
+		"GoldenGlobes_2021",
+		"Dick_Clark_Productions_Golden_Globes_2022"
+	],
+	"goldenglobes2023": [
+		"Dick_Clark_Productions_Golden_Globes_2022"
 	],
 	"goldenguardians": [
 		"LCS_GG_2022",
