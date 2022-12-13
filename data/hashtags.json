@@ -3204,7 +3204,8 @@
 		"WFS_AnotherEdenCollab_2021",
 		"WFS_AnotherEden_2022_5th_anniversary_Apr_2022",
 		"WFS_AnotherEden_Winter_Oct_2022",
-		"WFS_AnotherEden_Winter_Dec_2022"
+		"WFS_AnotherEden_Winter_Dec_2022",
+		"WFS_AnotherEden_Winter_Dec_2022_update"
 	],
 	"anotheredenchronocross": [
 		"WFS_AnotherEdenCollab_2021"
@@ -71987,7 +71988,8 @@
 		"WFS_AnotherEdenCollab_2021",
 		"WFS_AnotherEden_2022_5th_anniversary_Apr_2022",
 		"WFS_AnotherEden_Winter_Oct_2022",
-		"WFS_AnotherEden_Winter_Dec_2022"
+		"WFS_AnotherEden_Winter_Dec_2022",
+		"WFS_AnotherEden_Winter_Dec_2022_update"
 	],
 	"アナザーエデン5周年": [
 		"WFS_AnotherEden_2022_5th_anniversary_Apr_2022"
@@ -71996,7 +71998,8 @@
 		"WFS_AnotherEdenCollab_2021",
 		"WFS_AnotherEden_2022_5th_anniversary_Apr_2022",
 		"WFS_AnotherEden_Winter_Oct_2022",
-		"WFS_AnotherEden_Winter_Dec_2022"
+		"WFS_AnotherEden_Winter_Dec_2022",
+		"WFS_AnotherEden_Winter_Dec_2022_update"
 	],
 	"アナデンまつり2022": [
 		"WFS_AnotherEden_Winter_Oct_2022",
@@ -72004,6 +72007,9 @@
 	],
 	"アナデンクロノクロスコラボ": [
 		"WFS_AnotherEdenCollab_2021"
+	],
+	"アナデンテイルズコラボ": [
+		"WFS_AnotherEden_Winter_Dec_2022_update"
 	],
 	"アナデン第3部開幕": [
 		"WFS_AnotherEden_Winter_Oct_2022",
@@ -77895,6 +77901,9 @@
 	],
 	"年末ジャンボが当たったら": [
 		"Mizuho_Bank_Takarakuji_2021_2022"
+	],
+	"年末年始はアナデン": [
+		"WFS_AnotherEden_Winter_Dec_2022_update"
 	],
 	"幸せの紅茶": [
 		"KIRIN_Gogo_Tea_Japan_Feb_2022",
