@@ -24474,6 +24474,11 @@
 		"startingTimestampMs": "1596585600000",
 		"endingTimestampMs": "1599334320000"
 	},
+	"Ledger_Always_on_Dec_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ledger_Always_on_Dec_2022/Ledger_Always_on_Dec_2022.png",
+		"startingTimestampMs": "1670979600000",
+		"endingTimestampMs": "1678755600000"
+	},
 	"Ledger_Always_on_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/Ledger_Always_on_Sept_2022/Ledger_Always_on_Sept_2022.png",
 		"startingTimestampMs": "1662598800000",
