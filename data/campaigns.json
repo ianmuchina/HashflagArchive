@@ -38459,6 +38459,16 @@
 		"startingTimestampMs": "1650499200000",
 		"endingTimestampMs": "1653091200000"
 	},
+	"QA_Tailfin_Left_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/QA_Tailfin_Left_2022/QA_Tailfin_Left_2022.png",
+		"startingTimestampMs": "1671072960000",
+		"endingTimestampMs": "1678848960000"
+	},
+	"QA_Tailfin_Right_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/QA_Tailfin_Right_2022/QA_Tailfin_Right_2022.png",
+		"startingTimestampMs": "1671072960000",
+		"endingTimestampMs": "1678848960000"
+	},
 	"QA_with_Pedro_Sampaio_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/QA_with_Pedro_Sampaio_2022/QA_with_Pedro_Sampaio_2022.png",
 		"startingTimestampMs": "1643774400000",
