@@ -14679,7 +14679,8 @@
 		"LCK_Team_DWG_2022"
 	],
 	"dl2bloodyties": [
-		"dyinglight2_Skull_Aug_2022"
+		"dyinglight2_Skull_Aug_2022",
+		"dyinglight2_Skull_Dec_2022"
 	],
 	"dl7": [
 		"DemiAlbum_2021"
@@ -15882,9 +15883,13 @@
 		"St_Patricks_Day_2022",
 		"StPatricksDay_2021"
 	],
+	"dying2snap": [
+		"dyinglight2_Skull_Dec_2022"
+	],
 	"dyinglight2": [
 		"DyingLight2_Jan_2022",
-		"dyinglight2_Skull_Aug_2022"
+		"dyinglight2_Skull_Aug_2022",
+		"dyinglight2_Skull_Dec_2022"
 	],
 	"dynamicpitch": [
 		"KLeague_2021"
