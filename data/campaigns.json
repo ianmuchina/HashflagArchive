@@ -35644,6 +35644,11 @@
 		"startingTimestampMs": "1653058800000",
 		"endingTimestampMs": "1660834740000"
 	},
+	"PUBG_YearEnd_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PUBG_YearEnd_2022/PUBG_YearEnd_2022.png",
+		"startingTimestampMs": "1671177600000",
+		"endingTimestampMs": "1678953540000"
+	},
 	"PValley_PostPremiere_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/PValley_PostPremiere_2020/PValley_PostPremiere_2020.png",
 		"startingTimestampMs": "1594882800000",

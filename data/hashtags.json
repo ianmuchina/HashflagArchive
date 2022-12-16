@@ -44975,7 +44975,8 @@
 		"Krafton_PUBG_Dec_2022"
 	],
 	"pubgmobile": [
-		"PUBGMOBILE_JP2022May"
+		"PUBGMOBILE_JP2022May",
+		"PUBG_YearEnd_2022"
 	],
 	"pubgmから逃げちゃダメだ": [
 		"PUBGMOBILE_JP2022May_2"
@@ -44983,15 +44984,22 @@
 	"pubgm新livik登場": [
 		"PUBGMOBILE_JP2022May"
 	],
+	"pubgm総額1500万円": [
+		"PUBG_YearEnd_2022"
+	],
 	"pubgnewstate": [
 		"KraftonNewstateANOVA_2021_A",
 		"KraftonNewstateANOVA_2021_2"
 	],
 	"pubgモバイル": [
-		"PUBGMOBILE_JP2022May"
+		"PUBGMOBILE_JP2022May",
+		"PUBG_YearEnd_2022"
 	],
 	"pubgモバイル4周年": [
 		"PUBGMOBILE_JP2022May"
+	],
+	"pubgモバイル総額1500万円": [
+		"PUBG_YearEnd_2022"
 	],
 	"pubg最新作": [
 		"KraftonNewstateANOVA_2021_A",
@@ -74510,6 +74518,9 @@
 	],
 	"ドロイドのローラ": [
 		"Disneyplus_Obi_Wan_Kenobi_Lola_May_2022_v2"
+	],
+	"ドン勝": [
+		"PUBG_YearEnd_2022"
 	],
 	"ナイル殺人事件": [
 		"Disney_Death_on_the_Nile_2022"
