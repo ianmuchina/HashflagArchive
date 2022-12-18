@@ -2905,6 +2905,9 @@
 		"T-Mobile_Apple_NPI_Q3_Sept_2022",
 		"T-Mobile_Apple_NPI_Q3_Sept_2022_extend"
 	],
+	"amountainofentertainment": [
+		"Paramountplus_Mountain_of_Entertainment_Q4_2022"
+	],
 	"amourpourtohoku": [
 		"311Tohokumemorial_2021_v3_add"
 	],
@@ -37106,6 +37109,9 @@
 	"mrgardner": [
 		"Disney_Joe_2020"
 	],
+	"mrgarvey": [
+		"Paramountplus_Mountain_of_Entertainment_Q4_2022"
+	],
 	"mri": [
 		"Paralympics_2021_MRI",
 		"Olympics_Countries_2021_MRI_fix"
@@ -42094,11 +42100,15 @@
 	"paramasatenisi": [
 		"Paralympics_Sports_2021_ParaTableTennis"
 	],
+	"paramountmountain": [
+		"Paramountplus_Mountain_of_Entertainment_Q4_2022"
+	],
 	"paramountplus": [
 		"Paramount_Mountain_of_Entertainment_2_2022",
 		"ParamountPlus_2021",
 		"ParamountPlus_2021_ext",
-		"Paramountplus_Mountain_of_Movies_Rebrand_2022"
+		"Paramountplus_Mountain_of_Movies_Rebrand_2022",
+		"Paramountplus_Mountain_of_Entertainment_Q4_2022"
 	],
 	"paramountplusuk": [
 		"Paramount_Plus_UK_Jul_2022"
