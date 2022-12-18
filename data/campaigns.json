@@ -4349,6 +4349,11 @@
 		"startingTimestampMs": "1646751600000",
 		"endingTimestampMs": "1654700340000"
 	},
+	"BNE_saovs_gameinfo_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_saovs_gameinfo_2022/BNE_saovs_gameinfo_2022.png",
+		"startingTimestampMs": "1671375600000",
+		"endingTimestampMs": "1679151540000"
+	},
 	"BNE_syanimasu_EMOJI_Oct_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/BNE_syanimasu_EMOJI_Oct_2021/BNE_syanimasu_EMOJI_Oct_2021.png",
 		"startingTimestampMs": "1634742000000",
@@ -50463,6 +50468,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/ubereatsdelivery_Nov_2021/ubereatsdelivery_Nov_2021.png",
 		"startingTimestampMs": "1636030800000",
 		"endingTimestampMs": "1643633940000"
+	},
+	"umusicjapan_JP_XmasBox_2022": {
+		"assetUrl": "https://abs.twimg.com/hashflags/umusicjapan_JP_XmasBox_2022/umusicjapan_JP_XmasBox_2022.png",
+		"startingTimestampMs": "1671375600000",
+		"endingTimestampMs": "1679237940000"
 	},
 	"vaccinated_2021": {
 		"assetUrl": "https://abs.twimg.com/hashflags/vaccinated_2021/vaccinated_2021.png",
