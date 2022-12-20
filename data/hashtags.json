@@ -76421,13 +76421,18 @@
 		"Disney_Mandalorian_S2_RazorCrest"
 	],
 	"レコード大賞": [
-		"EMOJI_Japan_Record_Award_2021"
+		"EMOJI_Japan_Record_Award_2021",
+		"JapanRecordAwards2022"
 	],
 	"レコード大賞2021": [
 		"EMOJI_Japan_Record_Award_2021"
 	],
+	"レコード大賞2022": [
+		"JapanRecordAwards2022"
+	],
 	"レコ大": [
-		"EMOJI_Japan_Record_Award_2021"
+		"EMOJI_Japan_Record_Award_2021",
+		"JapanRecordAwards2022"
 	],
 	"レゴ": [
 		"LEGO_FIREBUG_IVS_Sept_2022",
@@ -78459,10 +78464,14 @@
 		"Sumitomo_Mitsui_Banking_Corporation_Oct_2022"
 	],
 	"日本レコード大賞": [
-		"EMOJI_Japan_Record_Award_2021"
+		"EMOJI_Japan_Record_Award_2021",
+		"JapanRecordAwards2022"
 	],
 	"日本レコード大賞2021": [
 		"EMOJI_Japan_Record_Award_2021"
+	],
+	"日本レコード大賞2022": [
+		"JapanRecordAwards2022"
 	],
 	"日本代表": [
 		"2022_FIFA_WorldCup_Japan"
