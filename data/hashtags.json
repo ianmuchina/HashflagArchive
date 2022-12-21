@@ -40267,6 +40267,9 @@
 		"OKX_Follower_Campaign_Aug_2022",
 		"OKX_Follower_Campaign_Nov_2022"
 	],
+	"okcibc": [
+		"OKXNFT_Campaign_Dec_2022"
+	],
 	"okex": [
 		"OKEx_Sept_2021_"
 	],
@@ -40308,7 +40311,8 @@
 	],
 	"okt": [
 		"OKC_Campaign_May_2022",
-		"OKXNFT_Campaign_Sept_2022"
+		"OKXNFT_Campaign_Sept_2022",
+		"OKXNFT_Campaign_Dec_2022"
 	],
 	"okta": [
 		"Okta_Nov_2022"
@@ -40333,7 +40337,8 @@
 	],
 	"okxchain": [
 		"OKC_Campaign_May_2022",
-		"OKXNFT_Campaign_Sept_2022"
+		"OKXNFT_Campaign_Sept_2022",
+		"OKXNFT_Campaign_Dec_2022"
 	],
 	"okxdefi": [
 		"Okx_Rebrand_2022"
@@ -40356,10 +40361,12 @@
 	],
 	"okxnft": [
 		"OKC_Campaign_May_2022",
-		"OKXNFT_Campaign_Sept_2022"
+		"OKXNFT_Campaign_Sept_2022",
+		"OKXNFT_Campaign_Dec_2022"
 	],
 	"okxwallet": [
-		"OKXNFT_Campaign_Sept_2022"
+		"OKXNFT_Campaign_Sept_2022",
+		"OKXNFT_Campaign_Dec_2022"
 	],
 	"okxweb3": [
 		"OKX_Follower_Campaign_Nov_2022"
