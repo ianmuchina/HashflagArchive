@@ -29240,7 +29240,8 @@
 	"kibo": [
 		"KIBOSeptember_2021",
 		"SpaceSunrise_2021_2022",
-		"SpaceSunrise_2020"
+		"SpaceSunrise_2020",
+		"KIBOproject2023"
 	],
 	"kick2020intheballots": [
 		"Freeform_KalPenn_2"
@@ -39692,6 +39693,9 @@
 	],
 	"nowekłamstewka": [
 		"HBO_Max_PLL_Original_Sin_Round_2_Shh_Jun_2022"
+	],
+	"nowinspace": [
+		"KIBOproject2023"
 	],
 	"nowruz": [
 		"nowruz2018_v4",
@@ -51539,7 +51543,8 @@
 		"SpacesSuperHost_2021"
 	],
 	"spacesunrise": [
-		"SpaceSunrise_2020"
+		"SpaceSunrise_2020",
+		"KIBOproject2023"
 	],
 	"spacesunrise2022": [
 		"SpaceSunrise_2021_2022"
@@ -75800,6 +75805,9 @@
 	"ポームム": [
 		"SUNTORY_pomum_Sept_2022"
 	],
+	"マイキー": [
+		"Kodansha_Mikey_2022_Emoji"
+	],
 	"マイソウルジェネレーター": [
 		"Disney_22_2020"
 	],
@@ -77927,11 +77935,13 @@
 		"Com2us_gamevilBSS_jp"
 	],
 	"宇宙なう": [
-		"SpaceSunrise_2021_2022"
+		"SpaceSunrise_2021_2022",
+		"KIBOproject2023"
 	],
 	"宇宙の初日の出": [
 		"SpaceSunrise_2021_2022",
-		"SpaceSunrise_2020"
+		"SpaceSunrise_2020",
+		"KIBOproject2023"
 	],
 	"宇宙へ投げ銭": [
 		"KIBOSeptember_2021"
@@ -78479,6 +78489,9 @@
 	"日光一文字": [
 		"konnosuke_2020"
 	],
+	"日和ってる奴いる": [
+		"Kodansha_Mikey_2022_Emoji"
+	],
 	"日本": [
 		"Paralympics_2021_JPN",
 		"Olympics_Countries_2021_JPN"
@@ -78738,6 +78751,9 @@
 	"杰克萨利": [
 		"Disney_TH_AvatarTheWayofWater_JakeSully_2022_V2"
 	],
+	"東リベ": [
+		"Kodansha_Mikey_2022_Emoji"
+	],
 	"東ロワ": [
 		"Touhou_LostWord_HakureiReim"
 	],
@@ -78747,12 +78763,18 @@
 	"東京ガールズコレクション": [
 		"Tokyo_Girls_Collection_Autumn_Jul_2022"
 	],
+	"東京リベンジャーズ": [
+		"Kodansha_Mikey_2022_Emoji"
+	],
 	"東京レインボープライド": [
 		"AlwaysProud_June_2021",
 		"Tokyo_RainbowPride_2021",
 		"Tokyo_Rainbow_Pride_Apr_2022",
 		"WeBelong_Pride_2022",
 		"Tokyo_Rainbow_Pride_Jun_2022"
+	],
+	"東京卍リベンジャーズ": [
+		"Kodansha_Mikey_2022_Emoji"
 	],
 	"東北ボランティア": [
 		"311Tohokumemorial_2021_v2",
