@@ -24509,6 +24509,11 @@
 		"startingTimestampMs": "1629417600000",
 		"endingTimestampMs": "1633021140000"
 	},
+	"LazadaTH_Emojis_1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_Emojis_1/LazadaTH_Emojis_1.png",
+		"startingTimestampMs": "1671901200000",
+		"endingTimestampMs": "1677258000000"
+	},
 	"LazadaTH_General_Aug_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_General_Aug_2022/LazadaTH_General_Aug_2022.png",
 		"startingTimestampMs": "1661472000000",
@@ -24553,6 +24558,21 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_SongKran_2022/LazadaTH_SongKran_2022.png",
 		"startingTimestampMs": "1647277200000",
 		"endingTimestampMs": "1650473940000"
+	},
+	"LazadaTH_emoji_2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_emoji_2/LazadaTH_emoji_2.png",
+		"startingTimestampMs": "1671901200000",
+		"endingTimestampMs": "1677258000000"
+	},
+	"LazadaTH_emoji_3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_emoji_3/LazadaTH_emoji_3.png",
+		"startingTimestampMs": "1671901200000",
+		"endingTimestampMs": "1674579600000"
+	},
+	"LazadaTH_emoji_4": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_emoji_4/LazadaTH_emoji_4.png",
+		"startingTimestampMs": "1671901200000",
+		"endingTimestampMs": "1677258000000"
 	},
 	"LcK_2021_Teams_DK": {
 		"assetUrl": "https://abs.twimg.com/hashflags/LcK_2021_Teams_DK/LcK_2021_Teams_DK.png",
