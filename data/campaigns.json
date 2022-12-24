@@ -1524,6 +1524,11 @@
 		"startingTimestampMs": "1648738800000",
 		"endingTimestampMs": "1656601140000"
 	},
+	"APV_Jujutsukaisen0": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APV_Jujutsukaisen0/APV_Jujutsukaisen0.png",
+		"startingTimestampMs": "1671868800000",
+		"endingTimestampMs": "1675177200000"
+	},
 	"APV_Mirzapur_2_2020": {
 		"assetUrl": "https://abs.twimg.com/hashflags/APV_Mirzapur_2_2020/APV_Mirzapur_2_2020.png",
 		"startingTimestampMs": "1601730000000",
