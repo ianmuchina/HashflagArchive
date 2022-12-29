@@ -1071,16 +1071,20 @@
 		"ABBA2021"
 	],
 	"abbottelem": [
-		"ABC_Abbott_Elementary_S2_Sept_2022"
+		"ABC_Abbott_Elementary_S2_Sept_2022",
+		"ABC_Abbott_Elementary_S2_March_2023"
 	],
 	"abbottelemabc": [
-		"ABC_Abbott_Elementary_S2_Sept_2022"
+		"ABC_Abbott_Elementary_S2_Sept_2022",
+		"ABC_Abbott_Elementary_S2_March_2023"
 	],
 	"abbottelementary": [
-		"ABC_Abbott_Elementary_S2_Sept_2022"
+		"ABC_Abbott_Elementary_S2_Sept_2022",
+		"ABC_Abbott_Elementary_S2_March_2023"
 	],
 	"abbottelementaryabc": [
-		"ABC_Abbott_Elementary_S2_Sept_2022"
+		"ABC_Abbott_Elementary_S2_Sept_2022",
+		"ABC_Abbott_Elementary_S2_March_2023"
 	],
 	"abbottranch": [
 		"Amazon_Studios_Outer_Range_Neon_Buffalo_2022"
@@ -1089,7 +1093,8 @@
 		"Amazon_Studios_Outer_Range_Neon_Buffalo_2022"
 	],
 	"abcabbottelementary": [
-		"ABC_Abbott_Elementary_S2_Sept_2022"
+		"ABC_Abbott_Elementary_S2_Sept_2022",
+		"ABC_Abbott_Elementary_S2_March_2023"
 	],
 	"abcclaimtofame": [
 		"ABC_Claim_To_Fame_Jul_2022"
@@ -21753,7 +21758,8 @@
 		"LCK_2021_Team_P1_AF_v2"
 	],
 	"gofrogs": [
-		"College_Football_Playoff_TCU_2022_v2"
+		"College_Football_Playoff_TCU_2022_v2",
+		"College_Football_Playoff_TCU_2023"
 	],
 	"gofullcaesar": [
 		"CaesarsSports_NFL_Season_Sept_2022"

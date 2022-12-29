@@ -744,6 +744,11 @@
 		"startingTimestampMs": "1632873600000",
 		"endingTimestampMs": "1654326060000"
 	},
+	"ABC_Abbott_Elementary_S2_March_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ABC_Abbott_Elementary_S2_March_2023/ABC_Abbott_Elementary_S2_March_2023.png",
+		"startingTimestampMs": "1672185600000",
+		"endingTimestampMs": "1677571140000"
+	},
 	"ABC_Abbott_Elementary_S2_Sept_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/ABC_Abbott_Elementary_S2_Sept_2022/ABC_Abbott_Elementary_S2_Sept_2022.png",
 		"startingTimestampMs": "1663570860000",
@@ -8128,6 +8133,11 @@
 		"assetUrl": "https://abs.twimg.com/hashflags/College_Football_Playoff_TCU_2022_v2/College_Football_Playoff_TCU_2022_v2.png",
 		"startingTimestampMs": "1672099200000",
 		"endingTimestampMs": "1679788800000"
+	},
+	"College_Football_Playoff_TCU_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/College_Football_Playoff_TCU_2023/College_Football_Playoff_TCU_2023.png",
+		"startingTimestampMs": "1672185600000",
+		"endingTimestampMs": "1679961600000"
 	},
 	"College_Football_Playoff_Trophy_2022": {
 		"assetUrl": "https://abs.twimg.com/hashflags/College_Football_Playoff_Trophy_2022/College_Football_Playoff_Trophy_2022.png",
