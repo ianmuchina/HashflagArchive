@@ -213,11 +213,11 @@ async function convertHashflagsIO() {
 
 // Map of campaigns to hashtags with asseturl & expiry
 let CampaignMap: Record<string, Campaign> = JSON.parse(
-  Deno.readTextFileSync("data/_campaigns.json"),
+  Deno.readTextFileSync("data/campaigns.json"),
 );
 // Map of hashtags to campaigns
 let HashtagMap: Record<string, Array<string>> = JSON.parse(
-  Deno.readTextFileSync("data/_hashtags.json"),
+  Deno.readTextFileSync("data/hashtags.json"),
 );
 
 let new_campaigns: Array<string> = [];
