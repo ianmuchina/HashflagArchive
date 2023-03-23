@@ -1,4 +1,4 @@
-type RawHashflag = {
+export type RawHashflag = {
   hashtag: string;
   starting_timestamp_ms: number;
   ending_timestamp_ms: number;
@@ -7,14 +7,14 @@ type RawHashflag = {
   is_hashfetti_enabled?: boolean;
 };
 
-type Campaign = {
+export type Campaign = {
   assetUrl: string;
   startingTimestampMs: number;
   endingTimestampMs: number;
   hashTags: Array<string>;
 };
 
-type hashflags_io = {
+export type hashflags_io = {
   hashtags: Array<string>;
   startsAt: number;
   endsAt: number;
@@ -74,10 +74,9 @@ async function convertTwitterHashFlags() {
   const activeHashflags = await fetchTwitterHashflags();
   // Generate campaign name.
   // NOTE: asssumes common url structure. Could be wrong
-  activeHashflags.forEach((v, index) => {
-    activeHashflags[index].campaign = v.asset_url.split("/")[4];
-    activeHashflags[index].hashtag = activeHashflags[index].hashtag
-      .toLowerCase();
+  activeHashflags.forEach((v, i) => {
+    activeHashflags[i].campaign = v.asset_url.split("/")[4];
+    activeHashflags[i].hashtag = activeHashflags[i].hashtag.toLowerCase();
   });
 
   activeHashflags.forEach((t) => {
@@ -94,7 +93,7 @@ async function convertTwitterHashFlags() {
 
   // Populate hashtag list
   activeHashflags.forEach((t) => {
-    if (CampaignMap[t.campaign]) {
+    if (Object.keys(CampaignMap).includes(t.campaign)) {
       // If campaign does not include the hashtag,
       if (CampaignMap[t.campaign].hashTags.includes(t.hashtag) == false) {
         // Append to campaign list.
@@ -220,6 +219,11 @@ let HashtagMap: Record<string, Array<string>> = JSON.parse(
   Deno.readTextFileSync("data/hashtags.json"),
 );
 
+Object.keys(HashtagMap).forEach(hashtag => {
+  HashtagMap[hashtag].forEach(c => {
+    CampaignMap[c].hashTags.push()
+  });
+})
 let new_campaigns: Array<string> = [];
 let new_hashtags: Array<string> = [];
 
