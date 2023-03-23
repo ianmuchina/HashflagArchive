@@ -130883,5 +130883,37 @@
 		"hashTags": [
 			"CrisesCore"
 		]
+	},
+	"Ludmilla_Sou_Ma-2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ludmilla_Sou_Ma-2023/Ludmilla_Sou_Ma-2023.png",
+		"startingTimestampMs": 1679583600000,
+		"endingTimestampMs": 1680318000000,
+		"hashTags": [
+			"brigasdemais",
+			"ludmillavilã",
+			"ludvila",
+			"ludvilã",
+			"vilaludmilla"
+		]
+	},
+	"ResidentEvil_RE4_Launch_Emoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ResidentEvil_RE4_Launch_Emoji_after/ResidentEvil_RE4_Launch_Emoji_after.png",
+		"startingTimestampMs": 1679583600000,
+		"endingTimestampMs": 1687139040000,
+		"hashTags": [
+			"re4",
+			"チェーンソー男",
+			"バイオ4",
+			"バイオre4",
+			"バイオハザード"
+		]
+	},
+	"Ultimate_Summit_6_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ultimate_Summit_6_Emoji_2023/Ultimate_Summit_6_Emoji_2023.png",
+		"startingTimestampMs": 1679580000000,
+		"endingTimestampMs": 1679900400000,
+		"hashTags": [
+			"ultimatesummit"
+		]
 	}
 }
