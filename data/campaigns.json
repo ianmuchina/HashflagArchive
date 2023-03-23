@@ -130915,5 +130915,13 @@
 		"hashTags": [
 			"ultimatesummit"
 		]
+	},
+	"Louis_Vuitton_Women_Show_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Louis_Vuitton_Women_Show_23/Louis_Vuitton_Women_Show_23.png",
+		"startingTimestampMs": 1679529600000,
+		"endingTimestampMs": 1685577600000,
+		"hashTags": [
+			"lvfw23"
+		]
 	}
 }
