@@ -2,7 +2,7 @@
 set -x
 set -e
 
-# sudo apt update && sudo apt-get install -y wget2
+sudo apt update && sudo apt-get install -y wget2
 
 # Download new images using http2 
 wget2 --no-clobber -P img/ -i tmp/new_urls
