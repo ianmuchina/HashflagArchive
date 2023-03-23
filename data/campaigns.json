@@ -130923,5 +130923,13 @@
 		"hashTags": [
 			"lvfw23"
 		]
+	},
+	"SuperMarioBrosMX": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SuperMarioBrosMX/SuperMarioBrosMX.png",
+		"startingTimestampMs": 1679529600000,
+		"endingTimestampMs": 1680332400000,
+		"hashTags": [
+			"supermariobroslapelícula"
+		]
 	}
 }
