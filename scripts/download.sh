@@ -9,4 +9,4 @@ wget2 --no-clobber -P img/ -i tmp/new_urls
 
 # Optimize Images
 # sudo apt update && sudo apt-get install -y optipng
-git ls-files img/ -o | xargs -I {}  optipng -nb -nc {}
+#git ls-files img/ -o | xargs -I {}  optipng -nb -nc {}
