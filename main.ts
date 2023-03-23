@@ -228,7 +228,7 @@ let new_campaigns: Array<string> = [];
 let new_hashtags: Array<string> = [];
 
 await convertTwitterHashFlags();
-await convertHashflagsIO();
+// await convertHashflagsIO();
 
 // List of image assets to download
 const all_urls: Array<string> = Object.values(CampaignMap).map((c) =>
