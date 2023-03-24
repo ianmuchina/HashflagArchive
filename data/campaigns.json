@@ -130983,5 +130983,17 @@
 			"eurovision",
 			"eurovision2023"
 		]
+	},
+	"EdSheeran_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EdSheeran_2023/EdSheeran_2023.png",
+		"startingTimestampMs": 1679655600000,
+		"endingTimestampMs": 1685646900000,
+		"hashTags": [
+			"edec",
+			"edeyesclosed",
+			"edsheeran",
+			"eyesclosed",
+			"sadbluemonster"
+		]
 	}
 }

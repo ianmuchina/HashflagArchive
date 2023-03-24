@@ -16513,7 +16513,8 @@
 	"edsheeran": [
 		"TSESEmoji",
 		"EdSheeran_June_UK_2021",
-		"EdSheeranTour2022"
+		"EdSheeranTour2022",
+		"EdSheeran_2023"
 	],
 	"edwiges": [
 		"HBO_Max_Harry_Potter_20th_REunion_Hedwig_2021"
@@ -90074,5 +90075,17 @@
 	],
 	"eurovision2023": [
 		"Eurovision_2023"
+	],
+	"edec": [
+		"EdSheeran_2023"
+	],
+	"edeyesclosed": [
+		"EdSheeran_2023"
+	],
+	"eyesclosed": [
+		"EdSheeran_2023"
+	],
+	"sadbluemonster": [
+		"EdSheeran_2023"
 	]
 }
