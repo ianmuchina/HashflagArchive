@@ -130952,5 +130952,15 @@
 			"mcdonaldsallamericans",
 			"wherehypebecomeslegacy"
 		]
+	},
+	"VictoriaMonet_SmokeRotation": {
+		"assetUrl": "https://abs.twimg.com/hashflags/VictoriaMonet_SmokeRotation/VictoriaMonet_SmokeRotation.png",
+		"startingTimestampMs": 1679637600000,
+		"endingTimestampMs": 1683381600000,
+		"hashTags": [
+			"babycanwesmoke",
+			"smokerotation",
+			"victoriamonet"
+		]
 	}
 }
