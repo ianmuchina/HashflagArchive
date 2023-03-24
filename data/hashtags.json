@@ -17817,7 +17817,8 @@
 	"eurovision": [
 		"Eurovision_Global_Music_Contest_Mar_2022",
 		"Eurovision_Netflix_2020_add",
-		"Eurovision_May_2021"
+		"Eurovision_May_2021",
+		"Eurovision_2023"
 	],
 	"eurovisionagain": [
 		"EurovisionAgain_2020",
@@ -90070,5 +90071,8 @@
 	],
 	"thewilderness": [
 		"Showtime_Yellowjackets_S2_Branded_Hashflag_2023"
+	],
+	"eurovision2023": [
+		"Eurovision_2023"
 	]
 }

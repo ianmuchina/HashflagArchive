@@ -130974,5 +130974,14 @@
 			"thewilderness",
 			"yellowjackets"
 		]
+	},
+	"Eurovision_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Eurovision_2023/Eurovision_2023.png",
+		"startingTimestampMs": 1679652000000,
+		"endingTimestampMs": 1685314800000,
+		"hashTags": [
+			"eurovision",
+			"eurovision2023"
+		]
 	}
 }
