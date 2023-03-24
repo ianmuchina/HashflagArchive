@@ -130940,5 +130940,17 @@
 			"naviodaxuxanogshow",
 			"naviodaxuxanomultishow"
 		]
+	},
+	"McDonaldsAllAmericanGame_2023_update": {
+		"assetUrl": "https://abs.twimg.com/hashflags/McDonaldsAllAmericanGame_2023_update/McDonaldsAllAmericanGame_2023_update.png",
+		"startingTimestampMs": 1679630400000,
+		"endingTimestampMs": 1680354000000,
+		"hashTags": [
+			"mcdaag",
+			"mcdonaldsallamerican",
+			"mcdonaldsallamericangames",
+			"mcdonaldsallamericans",
+			"wherehypebecomeslegacy"
+		]
 	}
 }
