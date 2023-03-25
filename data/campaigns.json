@@ -130995,5 +130995,13 @@
 			"eyesclosed",
 			"sadbluemonster"
 		]
+	},
+	"Mens_Final_Four_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Mens_Final_Four_23/Mens_Final_Four_23.png",
+		"startingTimestampMs": 1679716800000,
+		"endingTimestampMs": 1680624060000,
+		"hashTags": [
+			"mfinalfour"
+		]
 	}
 }
