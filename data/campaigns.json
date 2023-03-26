@@ -131003,5 +131003,13 @@
 		"hashTags": [
 			"mfinalfour"
 		]
+	},
+	"Womens_Final_Four_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Womens_Final_Four_23/Womens_Final_Four_23.png",
+		"startingTimestampMs": 1679803200000,
+		"endingTimestampMs": 1680537540000,
+		"hashTags": [
+			"wfinalfour"
+		]
 	}
 }
