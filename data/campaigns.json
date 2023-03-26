@@ -131028,5 +131028,16 @@
 		"hashTags": [
 			"rabbitholeseries"
 		]
+	},
+	"SHEIN_Ramadan_Campaign_2023_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SHEIN_Ramadan_Campaign_2023_during/SHEIN_Ramadan_Campaign_2023_during.png",
+		"startingTimestampMs": 1679864400000,
+		"endingTimestampMs": 1679950740000,
+		"hashTags": [
+			"shein",
+			"sheincares",
+			"sheinilovemyfam",
+			"sheinmen"
+		]
 	}
 }

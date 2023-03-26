@@ -50586,7 +50586,8 @@
 	"shein": [
 		"SHEINX100KCHALLENGE_2021",
 		"SHEIN_FW_Sept_2022_v2",
-		"SHEIN_Ramadan_Campaign_2023_before"
+		"SHEIN_Ramadan_Campaign_2023_before",
+		"SHEIN_Ramadan_Campaign_2023_during"
 	],
 	"sheineid": [
 		"SHEINX_Eid_Jun_2022"
@@ -86173,13 +86174,16 @@
 		"ShaniaTwain_2023"
 	],
 	"sheincares": [
-		"SHEIN_Ramadan_Campaign_2023_before"
+		"SHEIN_Ramadan_Campaign_2023_before",
+		"SHEIN_Ramadan_Campaign_2023_during"
 	],
 	"sheinilovemyfam": [
-		"SHEIN_Ramadan_Campaign_2023_before"
+		"SHEIN_Ramadan_Campaign_2023_before",
+		"SHEIN_Ramadan_Campaign_2023_during"
 	],
 	"sheinmen": [
-		"SHEIN_Ramadan_Campaign_2023_before"
+		"SHEIN_Ramadan_Campaign_2023_before",
+		"SHEIN_Ramadan_Campaign_2023_during"
 	],
 	"sheinramadan": [
 		"SHEIN_Ramadan_Campaign_2023_before"
