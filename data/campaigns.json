@@ -131075,5 +131075,15 @@
 			"romanvscody",
 			"undisputedtitle"
 		]
+	},
+	"CBS_Interactive_RabbitHoleS1_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CBS_Interactive_RabbitHoleS1_after/CBS_Interactive_RabbitHoleS1_after.png",
+		"startingTimestampMs": 1679904000000,
+		"endingTimestampMs": 1687593600000,
+		"hashTags": [
+			"rabbithole",
+			"rabbitholepplus",
+			"rabbitholeseries"
+		]
 	}
 }

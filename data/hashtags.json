@@ -90097,13 +90097,16 @@
 		"EdSheeran_2023"
 	],
 	"rabbithole": [
-		"CBS_Interactive_RabbitHoleS1_during"
+		"CBS_Interactive_RabbitHoleS1_during",
+		"CBS_Interactive_RabbitHoleS1_after"
 	],
 	"rabbitholepplus": [
-		"CBS_Interactive_RabbitHoleS1_during"
+		"CBS_Interactive_RabbitHoleS1_during",
+		"CBS_Interactive_RabbitHoleS1_after"
 	],
 	"rabbitholeseries": [
-		"CBS_Interactive_RabbitHoleS1_hashfetti"
+		"CBS_Interactive_RabbitHoleS1_hashfetti",
+		"CBS_Interactive_RabbitHoleS1_after"
 	],
 	"americannightmare": [
 		"WWE_AmericanNightmare"
