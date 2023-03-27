@@ -50590,7 +50590,8 @@
 		"SHEINX100KCHALLENGE_2021",
 		"SHEIN_FW_Sept_2022_v2",
 		"SHEIN_Ramadan_Campaign_2023_before",
-		"SHEIN_Ramadan_Campaign_2023_during"
+		"SHEIN_Ramadan_Campaign_2023_during",
+		"SHEIN_Ramadan_Campaign_2023_after"
 	],
 	"sheineid": [
 		"SHEINX_Eid_Jun_2022"
@@ -60018,7 +60019,8 @@
 	],
 	"twitterflightschool": [
 		"TwitterFlightSchool_2021_22",
-		"TwitterFlightSchool_2020"
+		"TwitterFlightSchool_2020",
+		"TwitterFlightSchool_2023"
 	],
 	"twitterforgood": [
 		"TwitterForGood_Refresh_2021",
@@ -86188,18 +86190,22 @@
 	],
 	"sheincares": [
 		"SHEIN_Ramadan_Campaign_2023_before",
-		"SHEIN_Ramadan_Campaign_2023_during"
+		"SHEIN_Ramadan_Campaign_2023_during",
+		"SHEIN_Ramadan_Campaign_2023_after"
 	],
 	"sheinilovemyfam": [
 		"SHEIN_Ramadan_Campaign_2023_before",
-		"SHEIN_Ramadan_Campaign_2023_during"
+		"SHEIN_Ramadan_Campaign_2023_during",
+		"SHEIN_Ramadan_Campaign_2023_after"
 	],
 	"sheinmen": [
 		"SHEIN_Ramadan_Campaign_2023_before",
-		"SHEIN_Ramadan_Campaign_2023_during"
+		"SHEIN_Ramadan_Campaign_2023_during",
+		"SHEIN_Ramadan_Campaign_2023_after"
 	],
 	"sheinramadan": [
-		"SHEIN_Ramadan_Campaign_2023_before"
+		"SHEIN_Ramadan_Campaign_2023_before",
+		"SHEIN_Ramadan_Campaign_2023_after"
 	],
 	"sirenetta": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2"

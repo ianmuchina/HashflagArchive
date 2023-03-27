@@ -131153,5 +131153,25 @@
 			"زكاتي",
 			"زكاتي_لأهلها"
 		]
+	},
+	"SHEIN_Ramadan_Campaign_2023_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SHEIN_Ramadan_Campaign_2023_after/SHEIN_Ramadan_Campaign_2023_after.png",
+		"startingTimestampMs": 1679950800000,
+		"endingTimestampMs": 1686517140000,
+		"hashTags": [
+			"shein",
+			"sheincares",
+			"sheinilovemyfam",
+			"sheinmen",
+			"sheinramadan"
+		]
+	},
+	"TwitterFlightSchool_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TwitterFlightSchool_2023/TwitterFlightSchool_2023.png",
+		"startingTimestampMs": 1679943600000,
+		"endingTimestampMs": 1703980800000,
+		"hashTags": [
+			"twitterflightschool"
+		]
 	}
 }
