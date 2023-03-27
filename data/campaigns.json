@@ -131116,5 +131116,13 @@
 			"三ツ矢の矢羽根つくってみた",
 			"三ツ矢サイダー"
 		]
+	},
+	"FCA_Foundation_to_Combat_Antisemitism_Launch_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FCA_Foundation_to_Combat_Antisemitism_Launch_2023/FCA_Foundation_to_Combat_Antisemitism_Launch_2023.png",
+		"startingTimestampMs": 1679936400000,
+		"endingTimestampMs": 1684169940000,
+		"hashTags": [
+			"standuptojewishhate"
+		]
 	}
 }
