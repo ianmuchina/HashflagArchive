@@ -131097,5 +131097,13 @@
 			"قناة_السعودية",
 			"هيئة_الإذاعة_والتلفزيون"
 		]
+	},
+	"WWE_StandAndDeliver_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_StandAndDeliver_2023/WWE_StandAndDeliver_2023.png",
+		"startingTimestampMs": 1679918400000,
+		"endingTimestampMs": 1680706800000,
+		"hashTags": [
+			"standanddeliver"
+		]
 	}
 }
