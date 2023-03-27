@@ -131124,5 +131124,34 @@
 		"hashTags": [
 			"standuptojewishhate"
 		]
+	},
+	"WWE_CharlotteVsRhea_RheaVsCharlotte_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_CharlotteVsRhea_RheaVsCharlotte_2023/WWE_CharlotteVsRhea_RheaVsCharlotte_2023.png",
+		"startingTimestampMs": 1679933700000,
+		"endingTimestampMs": 1680678000000,
+		"hashTags": [
+			"charlottevsrhea",
+			"rheavscharlotte"
+		]
+	},
+	"WWE_RomanReignsTribalChief_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_RomanReignsTribalChief_2023/WWE_RomanReignsTribalChief_2023.png",
+		"startingTimestampMs": 1679933700000,
+		"endingTimestampMs": 1680667200000,
+		"hashTags": [
+			"romanreigns",
+			"tribalchief"
+		]
+	},
+	"ZAKATY": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ZAKATY/ZAKATY.png",
+		"startingTimestampMs": 1679934600000,
+		"endingTimestampMs": 1687710600000,
+		"hashTags": [
+			"zakaty",
+			"زكاتك_تصل_لأهلها",
+			"زكاتي",
+			"زكاتي_لأهلها"
+		]
 	}
 }

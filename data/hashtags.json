@@ -66113,7 +66113,8 @@
 		"MentalHealthMonth_2021_add2"
 	],
 	"zakaty": [
-		"SaudiZakaty_Apr_2022"
+		"SaudiZakaty_Apr_2022",
+		"ZAKATY"
 	],
 	"zam": [
 		"Olympics_Countries_2021_ZAM",
@@ -68535,7 +68536,8 @@
 	],
 	"زكاتي": [
 		"Zakaty_May_2021",
-		"SaudiZakaty_Apr_2022"
+		"SaudiZakaty_Apr_2022",
+		"ZAKATY"
 	],
 	"زكاتي_تصلهم": [
 		"SaudiZakaty_Apr_2022"
@@ -90140,5 +90142,23 @@
 	],
 	"standuptojewishhate": [
 		"FCA_Foundation_to_Combat_Antisemitism_Launch_2023"
+	],
+	"charlottevsrhea": [
+		"WWE_CharlotteVsRhea_RheaVsCharlotte_2023"
+	],
+	"rheavscharlotte": [
+		"WWE_CharlotteVsRhea_RheaVsCharlotte_2023"
+	],
+	"romanreigns": [
+		"WWE_RomanReignsTribalChief_2023"
+	],
+	"tribalchief": [
+		"WWE_RomanReignsTribalChief_2023"
+	],
+	"زكاتك_تصل_لأهلها": [
+		"ZAKATY"
+	],
+	"زكاتي_لأهلها": [
+		"ZAKATY"
 	]
 }
