@@ -131039,5 +131039,41 @@
 			"sheinilovemyfam",
 			"sheinmen"
 		]
+	},
+	"WWE_AmericanNightmare": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_AmericanNightmare/WWE_AmericanNightmare.png",
+		"startingTimestampMs": 1679889600000,
+		"endingTimestampMs": 1680678000000,
+		"hashTags": [
+			"americannightmare",
+			"codyrhodes"
+		]
+	},
+	"ANWAgolf_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ANWAgolf_2023/ANWAgolf_2023.png",
+		"startingTimestampMs": 1679889600000,
+		"endingTimestampMs": 1680494400000,
+		"hashTags": [
+			"anwagolf"
+		]
+	},
+	"WWE_BiancaVsAsuka": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_BiancaVsAsuka/WWE_BiancaVsAsuka.png",
+		"startingTimestampMs": 1679889600000,
+		"endingTimestampMs": 1680678000000,
+		"hashTags": [
+			"asukavsbianca",
+			"biancavsasuka"
+		]
+	},
+	"WWE_UndisputedTitle_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_UndisputedTitle_2023/WWE_UndisputedTitle_2023.png",
+		"startingTimestampMs": 1679889600000,
+		"endingTimestampMs": 1680678000000,
+		"hashTags": [
+			"codyvsroman",
+			"romanvscody",
+			"undisputedtitle"
+		]
 	}
 }

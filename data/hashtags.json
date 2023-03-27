@@ -3337,7 +3337,8 @@
 	],
 	"anwagolf": [
 		"ANWAGOLF2022",
-		"ANWAgolf2021"
+		"ANWAgolf2021",
+		"ANWAgolf_2023"
 	],
 	"anxietymosquito": [
 		"Netflix_BigMouth_S4_2020_add"
@@ -11166,7 +11167,8 @@
 		"CODVeteruns100K_May_2022"
 	],
 	"codyrhodes": [
-		"Turner_RhodesToTheTop_S1_2021"
+		"Turner_RhodesToTheTop_S1_2021",
+		"WWE_AmericanNightmare"
 	],
 	"coffeeconfidential": [
 		"HBOMaxGossipGirl_July_2021_Latte"
@@ -90102,5 +90104,23 @@
 	],
 	"rabbitholeseries": [
 		"CBS_Interactive_RabbitHoleS1_hashfetti"
+	],
+	"americannightmare": [
+		"WWE_AmericanNightmare"
+	],
+	"asukavsbianca": [
+		"WWE_BiancaVsAsuka"
+	],
+	"biancavsasuka": [
+		"WWE_BiancaVsAsuka"
+	],
+	"codyvsroman": [
+		"WWE_UndisputedTitle_2023"
+	],
+	"romanvscody": [
+		"WWE_UndisputedTitle_2023"
+	],
+	"undisputedtitle": [
+		"WWE_UndisputedTitle_2023"
 	]
 }
