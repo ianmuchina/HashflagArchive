@@ -131085,5 +131085,17 @@
 			"rabbitholepplus",
 			"rabbitholeseries"
 		]
+	},
+	"Saudi_TV_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Saudi_TV_Emoji/Saudi_TV_Emoji.png",
+		"startingTimestampMs": 1679916600000,
+		"endingTimestampMs": 1682076600000,
+		"hashTags": [
+			"رمضان_على_السعودية",
+			"رمضان_عندنا",
+			"قناة_sbc",
+			"قناة_السعودية",
+			"هيئة_الإذاعة_والتلفزيون"
+		]
 	}
 }

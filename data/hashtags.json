@@ -68500,13 +68500,15 @@
 		"SaudiMOH_TaketheStep_2021"
 	],
 	"رمضان_على_السعودية": [
-		"SBA_Apr_2022"
+		"SBA_Apr_2022",
+		"Saudi_TV_Emoji"
 	],
 	"رمضان_على_شاهد": [
 		"ShahidVOD_Ramadan_2022"
 	],
 	"رمضان_عندنا": [
-		"SBA_Apr_2022"
+		"SBA_Apr_2022",
+		"Saudi_TV_Emoji"
 	],
 	"رمضان_كريم": [
 		"Ramadan_2021_Crescent",
@@ -68890,7 +68892,8 @@
 		"SBA_Apr_2022"
 	],
 	"قناة_السعودية": [
-		"SBA_Apr_2022"
+		"SBA_Apr_2022",
+		"Saudi_TV_Emoji"
 	],
 	"قوسالمخلب": [
 		"Sony_PlayStation_God_of_War_2_Oct_2022_translations"
@@ -69368,7 +69371,8 @@
 		"HONOR_70_smartphone_launch_Aug_2022"
 	],
 	"هيئة_الإذاعة_والتلفزيون": [
-		"SBA_Apr_2022"
+		"SBA_Apr_2022",
+		"Saudi_TV_Emoji"
 	],
 	"هيئة_الترفيه": [
 		"GEA_June_2021",
@@ -90125,5 +90129,8 @@
 	],
 	"undisputedtitle": [
 		"WWE_UndisputedTitle_2023"
+	],
+	"قناة_sbc": [
+		"Saudi_TV_Emoji"
 	]
 }
