@@ -85328,7 +85328,8 @@
 		"DTV_MLB_Q32023_BEFORE_HASHFETTI"
 	],
 	"dislyte": [
-		"Lilith_Dislyte_Before"
+		"Lilith_Dislyte_Before",
+		"Lilith_Dislyte_Before_v2"
 	],
 	"disney100": [
 		"Disney_Disney100_2023_V1"
@@ -86815,7 +86816,8 @@
 		"TheFlashMovie_2023_before"
 	],
 	"シンネオ": [
-		"Lilith_Dislyte_Before"
+		"Lilith_Dislyte_Before",
+		"Lilith_Dislyte_Before_v2"
 	],
 	"ジャネット": [
 		"DisneyTH_AntManAndTheWaspQuantumania_JanetVanDyne_2023"
@@ -86857,7 +86859,8 @@
 		"twst_jp_2023_3rd_Year_Anniversary"
 	],
 	"ディスライト": [
-		"Lilith_Dislyte_Before"
+		"Lilith_Dislyte_Before",
+		"Lilith_Dislyte_Before_v2"
 	],
 	"ディズニー100": [
 		"Disney_Disney100_2023_V1"
@@ -87113,10 +87116,12 @@
 		"wcat_project_feb2023_before"
 	],
 	"神世代ネオンシティ": [
-		"Lilith_Dislyte_Before"
+		"Lilith_Dislyte_Before",
+		"Lilith_Dislyte_Before_v2"
 	],
 	"神時代にノリ遅れるな": [
-		"Lilith_Dislyte_Before"
+		"Lilith_Dislyte_Before",
+		"Lilith_Dislyte_Before_v2"
 	],
 	"秘めた炎": [
 		"KATETOKYO_PR_after",
@@ -90166,5 +90171,11 @@
 	],
 	"زكاتي_لأهلها": [
 		"ZAKATY"
+	],
+	"appleclassical": [
+		"Apple_Music_Classical"
+	],
+	"applemusicclassical": [
+		"Apple_Music_Classical"
 	]
 }
