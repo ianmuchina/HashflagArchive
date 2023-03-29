@@ -131305,5 +131305,17 @@
 		"hashTags": [
 			"draftkings"
 		]
+	},
+	"JalanSpecialWeek_Q22023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/JalanSpecialWeek_Q22023/JalanSpecialWeek_Q22023.png",
+		"startingTimestampMs": 1680130800000,
+		"endingTimestampMs": 1687906800000,
+		"hashTags": [
+			"お得な旅はじゃらん",
+			"じゃらん",
+			"じゃらんスペシャルウィーク",
+			"にゃらん",
+			"旅行行くならじゃらん"
+		]
 	}
 }
