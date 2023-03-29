@@ -131278,5 +131278,16 @@
 			"三ツ矢の矢羽根つくってみた",
 			"三ツ矢サイダー"
 		]
+	},
+	"DTV_MLB_Q32023_DURING_HASHFETTI_ALLHASHTAGS": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DTV_MLB_Q32023_DURING_HASHFETTI_ALLHASHTAGS/DTV_MLB_Q32023_DURING_HASHFETTI_ALLHASHTAGS.png",
+		"startingTimestampMs": 1680073200000,
+		"endingTimestampMs": 1680159600000,
+		"hashTags": [
+			"catchthegame",
+			"directvhomefieldadvantage",
+			"directvsportstab",
+			"homefieldadvantage"
+		]
 	}
 }
