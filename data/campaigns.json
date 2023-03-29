@@ -131297,5 +131297,13 @@
 		"hashTags": [
 			"directvhomerun"
 		]
+	},
+	"DraftKings_DraftKings_Emoji_Extension_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_DraftKings_Emoji_Extension_2023/DraftKings_DraftKings_Emoji_Extension_2023.png",
+		"startingTimestampMs": 1680094800000,
+		"endingTimestampMs": 1687870740000,
+		"hashTags": [
+			"draftkings"
+		]
 	}
 }
