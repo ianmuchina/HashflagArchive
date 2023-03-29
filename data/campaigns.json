@@ -131289,5 +131289,13 @@
 			"directvsportstab",
 			"homefieldadvantage"
 		]
+	},
+	"DTV_MLB_Q32023_DURING_HASHFETTI_DIRECTVHomeRun": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DTV_MLB_Q32023_DURING_HASHFETTI_DIRECTVHomeRun/DTV_MLB_Q32023_DURING_HASHFETTI_DIRECTVHomeRun.png",
+		"startingTimestampMs": 1680073200000,
+		"endingTimestampMs": 1680159600000,
+		"hashTags": [
+			"directvhomerun"
+		]
 	}
 }
