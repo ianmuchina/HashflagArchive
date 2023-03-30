@@ -131317,5 +131317,41 @@
 			"にゃらん",
 			"旅行行くならじゃらん"
 		]
+	},
+	"ParamountPictures_DungeonsDragons_2023_during_fix_2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParamountPictures_DungeonsDragons_2023_during_fix_2/ParamountPictures_DungeonsDragons_2023_during_fix_2.png",
+		"startingTimestampMs": 1680159600000,
+		"endingTimestampMs": 1680245940000,
+		"hashTags": [
+			"calabozosydragones",
+			"dndfilm",
+			"dndfilmuk",
+			"dndhonoramongthieves",
+			"dndofilme",
+			"donjonsetdragonslefilm",
+			"dungeonsanddragonsmovie",
+			"映画ダンジョンズアンドドラゴンズ",
+			"던전앤드래곤"
+		]
+	},
+	"DTV_MLB_Q32023_AFTER_HASHFETTI_DIRECTVHomeRun": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DTV_MLB_Q32023_AFTER_HASHFETTI_DIRECTVHomeRun/DTV_MLB_Q32023_AFTER_HASHFETTI_DIRECTVHomeRun.png",
+		"startingTimestampMs": 1680159660000,
+		"endingTimestampMs": 1685343600000,
+		"hashTags": [
+			"catchthegame",
+			"directvhomefieldadvantage",
+			"directvhomerun",
+			"directvsportstab",
+			"homefieldadvantage"
+		]
+	},
+	"ParamountPictures_DungeonsDragons_2023_hashfetti_fix_2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParamountPictures_DungeonsDragons_2023_hashfetti_fix_2/ParamountPictures_DungeonsDragons_2023_hashfetti_fix_2.png",
+		"startingTimestampMs": 1680159600000,
+		"endingTimestampMs": 1680245940000,
+		"hashTags": [
+			"dndmovie"
+		]
 	}
 }
