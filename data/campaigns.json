@@ -131353,5 +131353,304 @@
 		"hashTags": [
 			"dndmovie"
 		]
+	},
+	"MLB_2023_HereToPlay": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_HereToPlay/MLB_2023_HereToPlay.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"aquíparajugar",
+			"heretoplay"
+		]
+	},
+	"A24_Beau_Is_Afraid_emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/A24_Beau_Is_Afraid_emoji/A24_Beau_Is_Afraid_emoji.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1687945860000,
+		"hashTags": [
+			"ariaster",
+			"beauisafraid",
+			"mwambassador",
+			"mwsponsored",
+			"perfectlysafe"
+		]
+	},
+	"MLB_2023_Dbacks": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Dbacks/MLB_2023_Dbacks.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"arizonaborn",
+			"dbacks"
+		]
+	},
+	"MLB_2023_Athletics": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Athletics/MLB_2023_Athletics.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"athletics",
+			"losatléticos"
+		]
+	},
+	"MLB_2023_Rojos": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Rojos/MLB_2023_Rojos.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"atobttr",
+			"rojos"
+		]
+	},
+	"MLB_2023_Birdland": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Birdland/MLB_2023_Birdland.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"birdland"
+		]
+	},
+	"MLB_2023_Regular_Season_BringTheGold": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_BringTheGold/MLB_2023_Regular_Season_BringTheGold.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"bringthegold"
+		]
+	},
+	"MLB_2023_CopadelaDiversion": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_CopadelaDiversion/MLB_2023_CopadelaDiversion.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"copadeladiversíon"
+		]
+	},
+	"MLB_2023_Regular_Season_Custom_Emoji-MIA_MakeItMiami_DaleMiami": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_Custom_Emoji-MIA_MakeItMiami_DaleMiami/MLB_2023_Regular_Season_Custom_Emoji-MIA_MakeItMiami_DaleMiami.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696262400000,
+		"hashTags": [
+			"dalemiami",
+			"makeitmiami"
+		]
+	},
+	"MLB_2023_DirtyWater": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_DirtyWater/MLB_2023_DirtyWater.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"dirtywater",
+			"mediasrojas"
+		]
+	},
+	"MLB_2023_Regular_Season_EsteEsMiCrew": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_EsteEsMiCrew/MLB_2023_Regular_Season_EsteEsMiCrew.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"esteesmicrew",
+			"thisismycrew"
+		]
+	},
+	"MLB_2023_ForTheA": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_ForTheA/MLB_2023_ForTheA.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"forthea",
+			"porlaa"
+		]
+	},
+	"MLB_2023_ForTheLand": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_ForTheLand/MLB_2023_ForTheLand.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"fortheland"
+		]
+	},
+	"MLB_2023_GoHalos": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_GoHalos/MLB_2023_GoHalos.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"gohalos",
+			"vamoshalos"
+		]
+	},
+	"MLB_2023_VamosBucs": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_VamosBucs/MLB_2023_VamosBucs.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"letsgobucs",
+			"vamosbucs"
+		]
+	},
+	"MLB_2023_Mets": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Mets/MLB_2023_Mets.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"lgm",
+			"vamosmets"
+		]
+	},
+	"MLB_2023_Regular_Season_RepBX": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_RepBX/MLB_2023_Regular_Season_RepBX.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"losdelbronx",
+			"repbx"
+		]
+	},
+	"MLB_2023_NATITUDE": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_NATITUDE/MLB_2023_NATITUDE.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"losnacionales",
+			"natitude"
+		]
+	},
+	"MLB_2023_Regular_Season_Rockies": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_Rockies/MLB_2023_Regular_Season_Rockies.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"losrockies",
+			"rockies"
+		]
+	},
+	"MLB_2023_Regular_Season_MNTwins": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_MNTwins/MLB_2023_Regular_Season_MNTwins.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"lostwins",
+			"mntwins"
+		]
+	},
+	"MLB_2023_Regular_Season_WhiteSox": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_WhiteSox/MLB_2023_Regular_Season_WhiteSox.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"loswhitesox",
+			"whitesox"
+		]
+	},
+	"MLB_2023_MiLBPostseason": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_MiLBPostseason/MLB_2023_MiLBPostseason.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"milbpostseason"
+		]
+	},
+	"MLB_2023_Bluejays": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Bluejays/MLB_2023_Bluejays.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"nextlevel"
+		]
+	},
+	"MLB_2023_NextStartsHere": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_NextStartsHere/MLB_2023_NextStartsHere.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"nextstartshere"
+		]
+	},
+	"MLB_2023_OpeningDay": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_OpeningDay/MLB_2023_OpeningDay.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"openingday"
+		]
+	},
+	"MLB_2023_StraightUpTX": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_StraightUpTX/MLB_2023_StraightUpTX.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"purotejas",
+			"straightuptx"
+		]
+	},
+	"MLB_2023_RaysUp": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_RaysUp/MLB_2023_RaysUp.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"raysup",
+			"somosrays"
+		]
+	},
+	"MLB_2023_Regular_Season_Ready2Reign": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_Ready2Reign/MLB_2023_Regular_Season_Ready2Reign.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"ready2reign"
+		]
+	},
+	"MLB_2023_RepDetroit": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_RepDetroit/MLB_2023_RepDetroit.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"repdetroit"
+		]
+	},
+	"MLB_2023_RingTheBell": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_RingTheBell/MLB_2023_RingTheBell.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"ringthebell",
+			"suenalacampana"
+		]
+	},
+	"MLB_2023_Royals": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Royals/MLB_2023_Royals.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"royals",
+			"welcometothecity"
+		]
+	},
+	"MLB_2023_Regular_Season_SeaUsRise": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_SeaUsRise/MLB_2023_Regular_Season_SeaUsRise.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"seausrise",
+			"subelamarea"
+		]
+	},
+	"MLB_2023_VamosGigantes": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_VamosGigantes/MLB_2023_VamosGigantes.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"sfgiants",
+			"vamosgigantes"
+		]
+	},
+	"MLB_2023_STLCards": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_STLCards/MLB_2023_STLCards.png",
+		"startingTimestampMs": 1680181200000,
+		"endingTimestampMs": 1696219200000,
+		"hashTags": [
+			"stlcardenales",
+			"stlcards"
+		]
 	}
 }
