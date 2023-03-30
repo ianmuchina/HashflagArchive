@@ -131675,5 +131675,32 @@
 			"ベンザブロックヤスモ",
 			"ベンザブロックｙａｓｕｍｏ"
 		]
+	},
+	"MLB_2023_Regular_Season_Custom_Emoji_PIT": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_Custom_Emoji_PIT/MLB_2023_Regular_Season_Custom_Emoji_PIT.png",
+		"startingTimestampMs": 1680206400000,
+		"endingTimestampMs": 1696244400000,
+		"hashTags": [
+			"letsgobucs",
+			"vamosbucs"
+		]
+	},
+	"MLB_2023_Regular_Season_Custom_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_Custom_Emoji/MLB_2023_Regular_Season_Custom_Emoji.png",
+		"startingTimestampMs": 1680206400000,
+		"endingTimestampMs": 1696244400000,
+		"hashTags": [
+			"raysup",
+			"somosrays"
+		]
+	},
+	"MLB_2023_Regular_Season_Custom_Emoji_PHI": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2023_Regular_Season_Custom_Emoji_PHI/MLB_2023_Regular_Season_Custom_Emoji_PHI.png",
+		"startingTimestampMs": 1680206400000,
+		"endingTimestampMs": 1696244400000,
+		"hashTags": [
+			"ringthebell",
+			"suenalacampana"
+		]
 	}
 }

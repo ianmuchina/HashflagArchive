@@ -31898,7 +31898,8 @@
 		"MLB_Teams_2021_PIT",
 		"MLB_Teams_2020_PIT",
 		"MLB_PIT_2022",
-		"MLB_2023_VamosBucs"
+		"MLB_2023_VamosBucs",
+		"MLB_2023_Regular_Season_Custom_Emoji_PIT"
 	],
 	"letsgobuffalo": [
 		"NHLTeam_2021_LetsGoBuffalo",
@@ -46595,7 +46596,8 @@
 		"MLB_Teams_2020_TB",
 		"MLB_Teams_2021_TB",
 		"MLB_TB_2022",
-		"MLB_2023_RaysUp"
+		"MLB_2023_RaysUp",
+		"MLB_2023_Regular_Season_Custom_Emoji"
 	],
 	"razemdamyrade": [
 		"MentalHealthMonth_2021_add2"
@@ -47817,7 +47819,8 @@
 		"MLB_Teams_2021_PHI",
 		"MLB_Teams_2020_PHI",
 		"MLB_PHI_2022",
-		"MLB_2023_RingTheBell"
+		"MLB_2023_RingTheBell",
+		"MLB_2023_Regular_Season_Custom_Emoji_PHI"
 	],
 	"rio2020": [
 		"Libertadores_2020"
@@ -53719,7 +53722,8 @@
 		"MLB_Teams_2021_PHI",
 		"MLB_Teams_2020_PHI",
 		"MLB_PHI_2022",
-		"MLB_2023_RingTheBell"
+		"MLB_2023_RingTheBell",
+		"MLB_2023_Regular_Season_Custom_Emoji_PHI"
 	],
 	"suffragemonth": [
 		"WomensSuffrageCentennial_2020"
@@ -61496,7 +61500,8 @@
 	],
 	"vamosbucs": [
 		"MLB_PIT_2022",
-		"MLB_2023_VamosBucs"
+		"MLB_2023_VamosBucs",
+		"MLB_2023_Regular_Season_Custom_Emoji_PIT"
 	],
 	"vamoscarbonero": [
 		"PenarolBirthday_2021",
@@ -90509,7 +90514,8 @@
 		"MLB_2023_Royals"
 	],
 	"somosrays": [
-		"MLB_2023_RaysUp"
+		"MLB_2023_RaysUp",
+		"MLB_2023_Regular_Season_Custom_Emoji"
 	],
 	"vamosmets": [
 		"MLB_2023_Mets"
