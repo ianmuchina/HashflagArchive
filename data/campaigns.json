@@ -131652,5 +131652,28 @@
 			"stlcardenales",
 			"stlcards"
 		]
+	},
+	"Redbull_NewOccasion_2023_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Redbull_NewOccasion_2023_before/Redbull_NewOccasion_2023_before.png",
+		"startingTimestampMs": 1680188400000,
+		"endingTimestampMs": 1680361140000,
+		"hashTags": [
+			"redbull",
+			"はじける新生活",
+			"レッドブル",
+			"新しい一歩",
+			"翼をさずける"
+		]
+	},
+	"ALINAMIN_PHARMACEUTICAL_2023_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ALINAMIN_PHARMACEUTICAL_2023_during/ALINAMIN_PHARMACEUTICAL_2023_during.png",
+		"startingTimestampMs": 1680188400000,
+		"endingTimestampMs": 1680274740000,
+		"hashTags": [
+			"yasumo",
+			"ベンザブロックyasumo",
+			"ベンザブロックヤスモ",
+			"ベンザブロックｙａｓｕｍｏ"
+		]
 	}
 }
