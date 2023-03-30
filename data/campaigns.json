@@ -131702,5 +131702,15 @@
 			"ringthebell",
 			"suenalacampana"
 		]
+	},
+	"TaylorSwift2023_extension": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TaylorSwift2023_extension/TaylorSwift2023_extension.png",
+		"startingTimestampMs": 1680134400000,
+		"endingTimestampMs": 1691816400000,
+		"hashTags": [
+			"taylorswift",
+			"tsmidnights",
+			"tstheerastour"
+		]
 	}
 }
