@@ -131797,5 +131797,16 @@
 			"ベンザブロックｙａｓｕｍｏ",
 			"島耕作は寝て治す"
 		]
+	},
+	"Disney_Parks_Tron_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Parks_Tron_2023/Disney_Parks_Tron_2023.png",
+		"startingTimestampMs": 1680272700000,
+		"endingTimestampMs": 1688194500000,
+		"hashTags": [
+			"troncoaster",
+			"tronlightcycle",
+			"tronlightcyclerun",
+			"tronride"
+		]
 	}
 }
