@@ -131712,5 +131712,13 @@
 			"tsmidnights",
 			"tstheerastour"
 		]
+	},
+	"Final_Four_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Final_Four_23/Final_Four_23.png",
+		"startingTimestampMs": 1680235200000,
+		"endingTimestampMs": 1680624000000,
+		"hashTags": [
+			"nationalchampionship"
+		]
 	}
 }
