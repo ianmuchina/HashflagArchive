@@ -131808,5 +131808,13 @@
 			"tronlightcyclerun",
 			"tronride"
 		]
+	},
+	"DreamvilleFest_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DreamvilleFest_2023/DreamvilleFest_2023.png",
+		"startingTimestampMs": 1680220800000,
+		"endingTimestampMs": 1680526800000,
+		"hashTags": [
+			"dreamvillefest"
+		]
 	}
 }
