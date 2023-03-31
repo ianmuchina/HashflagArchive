@@ -131754,5 +131754,14 @@
 		"hashTags": [
 			"streetfighter"
 		]
+	},
+	"Aplus_sfduelgame_2023Q1_v4": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Aplus_sfduelgame_2023Q1_v4/Aplus_sfduelgame_2023Q1_v4.png",
+		"startingTimestampMs": 1680238800000,
+		"endingTimestampMs": 1686459540000,
+		"hashTags": [
+			"sfduelgame",
+			"streetfighterduel"
+		]
 	}
 }
