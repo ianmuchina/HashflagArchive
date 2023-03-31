@@ -85414,7 +85414,8 @@
 	],
 	"dislyte": [
 		"Lilith_Dislyte_Before",
-		"Lilith_Dislyte_Before_v2"
+		"Lilith_Dislyte_Before_v2",
+		"Lilith_Dislyte_During_v2"
 	],
 	"disney100": [
 		"Disney_Disney100_2023_V1"
@@ -86911,7 +86912,8 @@
 	],
 	"シンネオ": [
 		"Lilith_Dislyte_Before",
-		"Lilith_Dislyte_Before_v2"
+		"Lilith_Dislyte_Before_v2",
+		"Lilith_Dislyte_During_v2"
 	],
 	"ジャネット": [
 		"DisneyTH_AntManAndTheWaspQuantumania_JanetVanDyne_2023"
@@ -86954,7 +86956,8 @@
 	],
 	"ディスライト": [
 		"Lilith_Dislyte_Before",
-		"Lilith_Dislyte_Before_v2"
+		"Lilith_Dislyte_Before_v2",
+		"Lilith_Dislyte_During_v2"
 	],
 	"ディズニー100": [
 		"Disney_Disney100_2023_V1"
@@ -87211,7 +87214,8 @@
 	],
 	"神世代ネオンシティ": [
 		"Lilith_Dislyte_Before",
-		"Lilith_Dislyte_Before_v2"
+		"Lilith_Dislyte_Before_v2",
+		"Lilith_Dislyte_During_v2"
 	],
 	"神時代にノリ遅れるな": [
 		"Lilith_Dislyte_Before",
@@ -90544,19 +90548,23 @@
 		"MLB_2023_Royals"
 	],
 	"yasumo": [
-		"ALINAMIN_PHARMACEUTICAL_2023_during"
+		"ALINAMIN_PHARMACEUTICAL_2023_during",
+		"ALINAMIN_PHARMACEUTICAL_2023_after"
 	],
 	"はじける新生活": [
 		"Redbull_NewOccasion_2023_before"
 	],
 	"ベンザブロックyasumo": [
-		"ALINAMIN_PHARMACEUTICAL_2023_during"
+		"ALINAMIN_PHARMACEUTICAL_2023_during",
+		"ALINAMIN_PHARMACEUTICAL_2023_after"
 	],
 	"ベンザブロックヤスモ": [
-		"ALINAMIN_PHARMACEUTICAL_2023_during"
+		"ALINAMIN_PHARMACEUTICAL_2023_during",
+		"ALINAMIN_PHARMACEUTICAL_2023_after"
 	],
 	"ベンザブロックｙａｓｕｍｏ": [
-		"ALINAMIN_PHARMACEUTICAL_2023_during"
+		"ALINAMIN_PHARMACEUTICAL_2023_during",
+		"ALINAMIN_PHARMACEUTICAL_2023_after"
 	],
 	"新しい一歩": [
 		"Redbull_NewOccasion_2023_before"
@@ -90572,5 +90580,8 @@
 	],
 	"jupitersdiary": [
 		"RodWave_2023"
+	],
+	"島耕作は寝て治す": [
+		"ALINAMIN_PHARMACEUTICAL_2023_after"
 	]
 }

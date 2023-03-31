@@ -131774,5 +131774,28 @@
 			"jupitersdiary",
 			"rodwave"
 		]
+	},
+	"Lilith_Dislyte_During_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lilith_Dislyte_During_v2/Lilith_Dislyte_During_v2.png",
+		"startingTimestampMs": 1680274800000,
+		"endingTimestampMs": 1680361140000,
+		"hashTags": [
+			"dislyte",
+			"シンネオ",
+			"ディスライト",
+			"神世代ネオンシティ"
+		]
+	},
+	"ALINAMIN_PHARMACEUTICAL_2023_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ALINAMIN_PHARMACEUTICAL_2023_after/ALINAMIN_PHARMACEUTICAL_2023_after.png",
+		"startingTimestampMs": 1680274800000,
+		"endingTimestampMs": 1687791540000,
+		"hashTags": [
+			"yasumo",
+			"ベンザブロックyasumo",
+			"ベンザブロックヤスモ",
+			"ベンザブロックｙａｓｕｍｏ",
+			"島耕作は寝て治す"
+		]
 	}
 }
