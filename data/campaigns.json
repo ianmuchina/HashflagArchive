@@ -131720,5 +131720,31 @@
 		"hashTags": [
 			"nationalchampionship"
 		]
+	},
+	"ParamountPictures_DungeonsDragons_2023_after_fix_2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParamountPictures_DungeonsDragons_2023_after_fix_2/ParamountPictures_DungeonsDragons_2023_after_fix_2.png",
+		"startingTimestampMs": 1680246000000,
+		"endingTimestampMs": 1685257140000,
+		"hashTags": [
+			"calabozosydragones",
+			"dndfilm",
+			"dndfilmuk",
+			"dndhonoramongthieves",
+			"dndmovie",
+			"dndofilme",
+			"donjonsetdragonslefilm",
+			"dungeonsanddragonsmovie",
+			"映画ダンジョンズアンドドラゴンズ",
+			"던전앤드래곤"
+		]
+	},
+	"Aplus_sfduelgame_2023Q1_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Aplus_sfduelgame_2023Q1_v3/Aplus_sfduelgame_2023Q1_v3.png",
+		"startingTimestampMs": 1680238800000,
+		"endingTimestampMs": 1686459540000,
+		"hashTags": [
+			"sfduelgame",
+			"streetfighterduel"
+		]
 	}
 }
