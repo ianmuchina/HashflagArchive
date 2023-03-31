@@ -48146,7 +48146,8 @@
 		"HBO_House_of_the_Dragon_Throne_Oct_2022_extend"
 	],
 	"rodwave": [
-		"RODWAVE_2021"
+		"RODWAVE_2021",
+		"RodWave_2023"
 	],
 	"rogerandbree": [
 		"Outlander_S6_RogerBrianna_Feb_2022"
@@ -90562,5 +90563,14 @@
 	],
 	"翼をさずける": [
 		"Redbull_NewOccasion_2023_before"
+	],
+	"beautifulmind": [
+		"RodWave_2023"
+	],
+	"fightthefeeling": [
+		"RodWave_2023"
+	],
+	"jupitersdiary": [
+		"RodWave_2023"
 	]
 }

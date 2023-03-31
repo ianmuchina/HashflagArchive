@@ -131763,5 +131763,16 @@
 			"sfduelgame",
 			"streetfighterduel"
 		]
+	},
+	"RodWave_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RodWave_2023/RodWave_2023.png",
+		"startingTimestampMs": 1680235200000,
+		"endingTimestampMs": 1685637000000,
+		"hashTags": [
+			"beautifulmind",
+			"fightthefeeling",
+			"jupitersdiary",
+			"rodwave"
+		]
 	}
 }
