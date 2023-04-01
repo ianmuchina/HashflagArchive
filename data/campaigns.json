@@ -132032,5 +132032,28 @@
 			"scottsforscotts",
 			"scottslawn"
 		]
+	},
+	"Lilith_Dislyte_After_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lilith_Dislyte_After_v2/Lilith_Dislyte_After_v2.png",
+		"startingTimestampMs": 1680361200000,
+		"endingTimestampMs": 1687305600000,
+		"hashTags": [
+			"dislyte",
+			"シンネオ",
+			"ディスライト",
+			"神世代ネオンシティ",
+			"神時代にノリ遅れるな"
+		]
+	},
+	"Redbull_NewOccasion_2023_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Redbull_NewOccasion_2023_during/Redbull_NewOccasion_2023_during.png",
+		"startingTimestampMs": 1680361200000,
+		"endingTimestampMs": 1680447540000,
+		"hashTags": [
+			"redbull",
+			"レッドブル",
+			"新しい一歩",
+			"翼をさずける"
+		]
 	}
 }

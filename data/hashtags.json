@@ -46952,7 +46952,8 @@
 		"RedBull_GIVESYOUWINGS_2021_V2",
 		"RedBull_GIVESYOUWINGS_2020_add",
 		"Red_Bull_Wings_2022_v3",
-		"Redbull_NewOccasion_2023_before"
+		"Redbull_NewOccasion_2023_before",
+		"Redbull_NewOccasion_2023_during"
 	],
 	"redbull\"\"givesyouwings\"\"redbullgivesyouwings\"\"redbullbcone\"\"redbullgaming": [
 		"Red_Bull_Wings_2022_v2"
@@ -77657,7 +77658,8 @@
 	"レッドブル": [
 		"RedBull_JP_Repositioning_2020_H2",
 		"RedBull_JP_Repositioning_2020_BL_H1",
-		"Redbull_NewOccasion_2023_before"
+		"Redbull_NewOccasion_2023_before",
+		"Redbull_NewOccasion_2023_during"
 	],
 	"レディーボーデン": [
 		"LOTTELadyBordenJP2021",
@@ -85443,7 +85445,8 @@
 	"dislyte": [
 		"Lilith_Dislyte_Before",
 		"Lilith_Dislyte_Before_v2",
-		"Lilith_Dislyte_During_v2"
+		"Lilith_Dislyte_During_v2",
+		"Lilith_Dislyte_After_v2"
 	],
 	"disney100": [
 		"Disney_Disney100_2023_V1"
@@ -86941,7 +86944,8 @@
 	"シンネオ": [
 		"Lilith_Dislyte_Before",
 		"Lilith_Dislyte_Before_v2",
-		"Lilith_Dislyte_During_v2"
+		"Lilith_Dislyte_During_v2",
+		"Lilith_Dislyte_After_v2"
 	],
 	"ジャネット": [
 		"DisneyTH_AntManAndTheWaspQuantumania_JanetVanDyne_2023"
@@ -86985,7 +86989,8 @@
 	"ディスライト": [
 		"Lilith_Dislyte_Before",
 		"Lilith_Dislyte_Before_v2",
-		"Lilith_Dislyte_During_v2"
+		"Lilith_Dislyte_During_v2",
+		"Lilith_Dislyte_After_v2"
 	],
 	"ディズニー100": [
 		"Disney_Disney100_2023_V1"
@@ -87243,11 +87248,13 @@
 	"神世代ネオンシティ": [
 		"Lilith_Dislyte_Before",
 		"Lilith_Dislyte_Before_v2",
-		"Lilith_Dislyte_During_v2"
+		"Lilith_Dislyte_During_v2",
+		"Lilith_Dislyte_After_v2"
 	],
 	"神時代にノリ遅れるな": [
 		"Lilith_Dislyte_Before",
-		"Lilith_Dislyte_Before_v2"
+		"Lilith_Dislyte_Before_v2",
+		"Lilith_Dislyte_After_v2"
 	],
 	"秘めた炎": [
 		"KATETOKYO_PR_after",
@@ -90595,10 +90602,12 @@
 		"ALINAMIN_PHARMACEUTICAL_2023_after"
 	],
 	"新しい一歩": [
-		"Redbull_NewOccasion_2023_before"
+		"Redbull_NewOccasion_2023_before",
+		"Redbull_NewOccasion_2023_during"
 	],
 	"翼をさずける": [
-		"Redbull_NewOccasion_2023_before"
+		"Redbull_NewOccasion_2023_before",
+		"Redbull_NewOccasion_2023_during"
 	],
 	"beautifulmind": [
 		"RodWave_2023"
