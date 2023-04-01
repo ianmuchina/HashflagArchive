@@ -132055,5 +132055,14 @@
 			"新しい一歩",
 			"翼をさずける"
 		]
+	},
+	"Absa_EverydayBanking_RYC_CustomEmoji1_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Absa_EverydayBanking_RYC_CustomEmoji1_2023/Absa_EverydayBanking_RYC_CustomEmoji1_2023.png",
+		"startingTimestampMs": 1680393600000,
+		"endingTimestampMs": 1688342340000,
+		"hashTags": [
+			"absarunyourcity",
+			"runyourcity"
+		]
 	}
 }
