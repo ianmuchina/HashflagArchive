@@ -131816,5 +131816,13 @@
 		"hashTags": [
 			"dreamvillefest"
 		]
+	},
+	"TheMasters23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TheMasters23/TheMasters23.png",
+		"startingTimestampMs": 1680321600000,
+		"endingTimestampMs": 1681099200000,
+		"hashTags": [
+			"themasters"
+		]
 	}
 }
