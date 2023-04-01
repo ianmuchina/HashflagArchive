@@ -132009,5 +132009,16 @@
 			"shocktheworld",
 			"winnable"
 		]
+	},
+	"Disney_ABC_Station_19_S6_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_ABC_Station_19_S6_2023/Disney_ABC_Station_19_S6_2023.png",
+		"startingTimestampMs": 1680336000000,
+		"endingTimestampMs": 1684915140000,
+		"hashTags": [
+			"abcstation19",
+			"station19",
+			"station19abc",
+			"stationabc"
+		]
 	}
 }

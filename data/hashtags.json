@@ -1123,7 +1123,8 @@
 	"abcstation19": [
 		"ABCStation19_Sept_2021",
 		"ABC_Station19_Fall_2020",
-		"Disney_ABC_Station_19_S6_2022"
+		"Disney_ABC_Station_19_S6_2022",
+		"Disney_ABC_Station_19_S6_2023"
 	],
 	"abctheconners": [
 		"ABC_TheConners_2020"
@@ -53182,12 +53183,14 @@
 	"station19": [
 		"ABCStation19_Sept_2021",
 		"ABC_Station19_Fall_2020",
-		"Disney_ABC_Station_19_S6_2022"
+		"Disney_ABC_Station_19_S6_2022",
+		"Disney_ABC_Station_19_S6_2023"
 	],
 	"station19abc": [
 		"ABCStation19_Sept_2021",
 		"ABC_Station19_Fall_2020",
-		"Disney_ABC_Station_19_S6_2022"
+		"Disney_ABC_Station_19_S6_2022",
+		"Disney_ABC_Station_19_S6_2023"
 	],
 	"station19finale": [
 		"ABCStation19_Sept_2021",
@@ -53196,7 +53199,8 @@
 	"stationabc": [
 		"ABCStation19_Sept_2021",
 		"ABC_Station19_Fall_2020",
-		"Disney_ABC_Station_19_S6_2022"
+		"Disney_ABC_Station_19_S6_2022",
+		"Disney_ABC_Station_19_S6_2023"
 	],
 	"stay": [
 		"WSPD_Aug_2022_add"
