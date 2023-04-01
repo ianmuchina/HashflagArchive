@@ -132020,5 +132020,17 @@
 			"station19abc",
 			"stationabc"
 		]
+	},
+	"Scotts_Lawn_Evergreen_Q2_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Scotts_Lawn_Evergreen_Q2_23/Scotts_Lawn_Evergreen_Q2_23.png",
+		"startingTimestampMs": 1680354000000,
+		"endingTimestampMs": 1688130000000,
+		"hashTags": [
+			"feedit",
+			"feedyourlawn",
+			"growvictorious",
+			"scottsforscotts",
+			"scottslawn"
+		]
 	}
 }
