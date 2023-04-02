@@ -132064,5 +132064,16 @@
 			"absarunyourcity",
 			"runyourcity"
 		]
+	},
+	"Blue_Beetle_Warner_Bros_Theatrical": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Blue_Beetle_Warner_Bros_Theatrical/Blue_Beetle_Warner_Bros_Theatrical.png",
+		"startingTimestampMs": 1680444000000,
+		"endingTimestampMs": 1688200500000,
+		"hashTags": [
+			"bluebeetle",
+			"bluebeetledc",
+			"bluebeetlefilm",
+			"bluebeetlemovie"
+		]
 	}
 }
