@@ -46954,7 +46954,8 @@
 		"RedBull_GIVESYOUWINGS_2020_add",
 		"Red_Bull_Wings_2022_v3",
 		"Redbull_NewOccasion_2023_before",
-		"Redbull_NewOccasion_2023_during"
+		"Redbull_NewOccasion_2023_during",
+		"Redbull_NewOccasion_2023_after"
 	],
 	"redbull\"\"givesyouwings\"\"redbullgivesyouwings\"\"redbullbcone\"\"redbullgaming": [
 		"Red_Bull_Wings_2022_v2"
@@ -77661,7 +77662,8 @@
 		"RedBull_JP_Repositioning_2020_H2",
 		"RedBull_JP_Repositioning_2020_BL_H1",
 		"Redbull_NewOccasion_2023_before",
-		"Redbull_NewOccasion_2023_during"
+		"Redbull_NewOccasion_2023_during",
+		"Redbull_NewOccasion_2023_after"
 	],
 	"レディーボーデン": [
 		"LOTTELadyBordenJP2021",
@@ -90589,7 +90591,8 @@
 		"ALINAMIN_PHARMACEUTICAL_2023_after"
 	],
 	"はじける新生活": [
-		"Redbull_NewOccasion_2023_before"
+		"Redbull_NewOccasion_2023_before",
+		"Redbull_NewOccasion_2023_after"
 	],
 	"ベンザブロックyasumo": [
 		"ALINAMIN_PHARMACEUTICAL_2023_during",
@@ -90605,11 +90608,13 @@
 	],
 	"新しい一歩": [
 		"Redbull_NewOccasion_2023_before",
-		"Redbull_NewOccasion_2023_during"
+		"Redbull_NewOccasion_2023_during",
+		"Redbull_NewOccasion_2023_after"
 	],
 	"翼をさずける": [
 		"Redbull_NewOccasion_2023_before",
-		"Redbull_NewOccasion_2023_during"
+		"Redbull_NewOccasion_2023_during",
+		"Redbull_NewOccasion_2023_after"
 	],
 	"beautifulmind": [
 		"RodWave_2023"

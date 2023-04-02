@@ -132075,5 +132075,17 @@
 			"bluebeetlefilm",
 			"bluebeetlemovie"
 		]
+	},
+	"Redbull_NewOccasion_2023_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Redbull_NewOccasion_2023_after/Redbull_NewOccasion_2023_after.png",
+		"startingTimestampMs": 1680447600000,
+		"endingTimestampMs": 1687964340000,
+		"hashTags": [
+			"redbull",
+			"はじける新生活",
+			"レッドブル",
+			"新しい一歩",
+			"翼をさずける"
+		]
 	}
 }
