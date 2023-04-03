@@ -68626,7 +68626,8 @@
 		"Ramadan_Crescent_2022"
 	],
 	"رمضان_معانا": [
-		"ShahidVOD_Ramadan_2022"
+		"ShahidVOD_Ramadan_2022",
+		"MBC_Ramadan_2023"
 	],
 	"روح_السعودية": [
 		"SaudiTourism_2020",
@@ -69272,7 +69273,8 @@
 		"WorldTheatreDay_2021_AE_2"
 	],
 	"مسلسلات_رمضان": [
-		"ShahidVOD_Ramadan_2022"
+		"ShahidVOD_Ramadan_2022",
+		"MBC_Ramadan_2023"
 	],
 	"مسمارول": [
 		"DisneyPlus_Ms_Marvel_May_2022_V2"
@@ -90769,5 +90771,20 @@
 	"dedosdecheetos": [
 		"Pepsico_Cheetos_before_during",
 		"Pepsico_Cheetos_during_update"
+	],
+	"besouroazol": [
+		"BlueBeetles_Espanol"
+	],
+	"bluebeetlepelicula": [
+		"BlueBeetles_Espanol"
+	],
+	"shahid": [
+		"MBC_Ramadan_2023"
+	],
+	"حكايات_لا_تنتهي": [
+		"MBC_Ramadan_2023"
+	],
+	"شاهد": [
+		"MBC_Ramadan_2023"
 	]
 }

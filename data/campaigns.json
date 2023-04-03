@@ -132159,5 +132159,26 @@
 			"cheetosdedosllenosdediversión",
 			"dedosdecheetos"
 		]
+	},
+	"BlueBeetles_Espanol": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BlueBeetles_Espanol/BlueBeetles_Espanol.png",
+		"startingTimestampMs": 1680480000000,
+		"endingTimestampMs": 1688220000000,
+		"hashTags": [
+			"besouroazol",
+			"bluebeetlepelicula"
+		]
+	},
+	"MBC_Ramadan_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MBC_Ramadan_2023/MBC_Ramadan_2023.png",
+		"startingTimestampMs": 1680546600000,
+		"endingTimestampMs": 1688322540000,
+		"hashTags": [
+			"shahid",
+			"حكايات_لا_تنتهي",
+			"رمضان_معانا",
+			"شاهد",
+			"مسلسلات_رمضان"
+		]
 	}
 }
