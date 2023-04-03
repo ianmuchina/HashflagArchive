@@ -132180,5 +132180,29 @@
 			"شاهد",
 			"مسلسلات_رمضان"
 		]
+	},
+	"OneTeam_Testing_Global_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OneTeam_Testing_Global_Hashmoji/OneTeam_Testing_Global_Hashmoji.png",
+		"startingTimestampMs": 1680553800000,
+		"endingTimestampMs": 1680640200000,
+		"hashTags": [
+			"oneteam"
+		]
+	},
+	"OneTeam_Testing_US_Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OneTeam_Testing_US_Hashfetti/OneTeam_Testing_US_Hashfetti.png",
+		"startingTimestampMs": 1680553800000,
+		"endingTimestampMs": 1680640200000,
+		"hashTags": [
+			"oneteam"
+		]
+	},
+	"Variety_Power_of_Women_Events_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Variety_Power_of_Women_Events_2023/Variety_Power_of_Women_Events_2023.png",
+		"startingTimestampMs": 1680554700000,
+		"endingTimestampMs": 1698793200000,
+		"hashTags": [
+			"powerofwomen"
+		]
 	}
 }
