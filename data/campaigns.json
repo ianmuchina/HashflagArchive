@@ -132087,5 +132087,17 @@
 			"新しい一歩",
 			"翼をさずける"
 		]
+	},
+	"Al_Ula_Skies_Festival_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Al_Ula_Skies_Festival_2023/Al_Ula_Skies_Festival_2023.png",
+		"startingTimestampMs": 1680508200000,
+		"endingTimestampMs": 1688284140000,
+		"hashTags": [
+			"alulamoments",
+			"alulaskies",
+			"العلا",
+			"سماء_العلا",
+			"لحظات_العلا"
+		]
 	}
 }
