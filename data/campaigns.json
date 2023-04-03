@@ -132107,5 +132107,17 @@
 		"hashTags": [
 			"percaya"
 		]
+	},
+	"Extraction_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Extraction_Emoji/Extraction_Emoji.png",
+		"startingTimestampMs": 1680523260000,
+		"endingTimestampMs": 1688342340000,
+		"hashTags": [
+			"extraction2",
+			"resgate2",
+			"tylerrake",
+			"tylerrake2",
+			"tylerrakelives"
+		]
 	}
 }
