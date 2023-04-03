@@ -90747,21 +90747,27 @@
 		"Extraction_Emoji"
 	],
 	"cadapedacinhoaproxima": [
-		"Pascoa_Lacta_before_during"
+		"Pascoa_Lacta_before_during",
+		"Pascoa_Lacta_during_update"
 	],
 	"favoritoslacta": [
-		"Pascoa_Lacta_before_during"
+		"Pascoa_Lacta_before_during",
+		"Pascoa_Lacta_during_update"
 	],
 	"juliettecomlacta": [
-		"Pascoa_Lacta_before_during"
+		"Pascoa_Lacta_before_during",
+		"Pascoa_Lacta_during_update"
 	],
 	"lactalovers": [
-		"Pascoa_Lacta_before_during"
+		"Pascoa_Lacta_before_during",
+		"Pascoa_Lacta_during_update"
 	],
 	"cheetosdedosllenosdediversión": [
-		"Pepsico_Cheetos_before_during"
+		"Pepsico_Cheetos_before_during",
+		"Pepsico_Cheetos_during_update"
 	],
 	"dedosdecheetos": [
-		"Pepsico_Cheetos_before_during"
+		"Pepsico_Cheetos_before_during",
+		"Pepsico_Cheetos_during_update"
 	]
 }

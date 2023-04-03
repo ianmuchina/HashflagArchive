@@ -132139,5 +132139,25 @@
 			"cheetosdedosllenosdediversión",
 			"dedosdecheetos"
 		]
+	},
+	"Pascoa_Lacta_during_update": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pascoa_Lacta_during_update/Pascoa_Lacta_during_update.png",
+		"startingTimestampMs": 1680544800000,
+		"endingTimestampMs": 1680663540000,
+		"hashTags": [
+			"cadapedacinhoaproxima",
+			"favoritoslacta",
+			"juliettecomlacta",
+			"lactalovers"
+		]
+	},
+	"Pepsico_Cheetos_during_update": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pepsico_Cheetos_during_update/Pepsico_Cheetos_during_update.png",
+		"startingTimestampMs": 1680544800000,
+		"endingTimestampMs": 1680674340000,
+		"hashTags": [
+			"cheetosdedosllenosdediversión",
+			"dedosdecheetos"
+		]
 	}
 }
