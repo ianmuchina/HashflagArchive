@@ -132099,5 +132099,13 @@
 			"سماء_العلا",
 			"لحظات_العلا"
 		]
+	},
+	"GrabID_Percaya_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GrabID_Percaya_2023/GrabID_Percaya_2023.png",
+		"startingTimestampMs": 1680509400000,
+		"endingTimestampMs": 1688285340000,
+		"hashTags": [
+			"percaya"
+		]
 	}
 }
