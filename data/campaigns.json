@@ -132204,5 +132204,41 @@
 		"hashTags": [
 			"powerofwomen"
 		]
+	},
+	"Spider_Man_ATSV_Twitter_Custom_Miles_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spider_Man_ATSV_Twitter_Custom_Miles_Emoji/Spider_Man_ATSV_Twitter_Custom_Miles_Emoji.png",
+		"startingTimestampMs": 1680584400000,
+		"endingTimestampMs": 1688428740000,
+		"hashTags": [
+			"acrossthespiderverse",
+			"milesmorales",
+			"shameikmoore",
+			"spiderman",
+			"spiderverse"
+		]
+	},
+	"Spider_Man_ATSV_Twitter_Custom_Gwen_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spider_Man_ATSV_Twitter_Custom_Gwen_Emoji/Spider_Man_ATSV_Twitter_Custom_Gwen_Emoji.png",
+		"startingTimestampMs": 1680584400000,
+		"endingTimestampMs": 1688428740000,
+		"hashTags": [
+			"ghostspider",
+			"gwenstacy",
+			"haileesteinfeld",
+			"spidergwen",
+			"spiderwoman"
+		]
+	},
+	"Spider_Man_ATSV_Twitter_Custom_2099_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spider_Man_ATSV_Twitter_Custom_2099_Emoji/Spider_Man_ATSV_Twitter_Custom_2099_Emoji.png",
+		"startingTimestampMs": 1680584400000,
+		"endingTimestampMs": 1688428740000,
+		"hashTags": [
+			"miguelohara",
+			"oscarisaac",
+			"spiderman2099",
+			"spidermanacrossthespiderverse",
+			"spidersociety"
+		]
 	}
 }
