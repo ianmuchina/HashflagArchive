@@ -61762,7 +61762,8 @@
 	],
 	"vctemea": [
 		"Riot_Valorant_VCT_Red_2022",
-		"LEAGUEOFLEGENDS_ESPORTS_RIOTEMOJIS_VCTEMEA"
+		"LEAGUEOFLEGENDS_ESPORTS_RIOTEMOJIS_VCTEMEA",
+		"VCT_EMEA_Events_2023"
 	],
 	"vctgamechangers": [
 		"Riot_Valorant_VCT_Orange_2022",
@@ -90828,5 +90829,8 @@
 	],
 	"spiderwoman": [
 		"Spider_Man_ATSV_Twitter_Custom_Gwen_Emoji"
+	],
+	"vctamericas": [
+		"VCT_Americas_Emoji_2023_Q2_2023"
 	]
 }

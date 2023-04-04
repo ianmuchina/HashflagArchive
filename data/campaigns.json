@@ -132240,5 +132240,21 @@
 			"spidermanacrossthespiderverse",
 			"spidersociety"
 		]
+	},
+	"VCT_Americas_Emoji_2023_Q2_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/VCT_Americas_Emoji_2023_Q2_2023/VCT_Americas_Emoji_2023_Q2_2023.png",
+		"startingTimestampMs": 1680591600000,
+		"endingTimestampMs": 1685574000000,
+		"hashTags": [
+			"vctamericas"
+		]
+	},
+	"VCT_EMEA_Events_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/VCT_EMEA_Events_2023/VCT_EMEA_Events_2023.png",
+		"startingTimestampMs": 1680591600000,
+		"endingTimestampMs": 1703977200000,
+		"hashTags": [
+			"vctemea"
+		]
 	}
 }
