@@ -132268,5 +132268,14 @@
 			"hibarbie",
 			"hiken"
 		]
+	},
+	"SuperMarioBrosLaPelicula_Mexico": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SuperMarioBrosLaPelicula_Mexico/SuperMarioBrosLaPelicula_Mexico.png",
+		"startingTimestampMs": 1680566400000,
+		"endingTimestampMs": 1682917200000,
+		"hashTags": [
+			"supermariobroslapelicula",
+			"supermariobroslapelícula"
+		]
 	}
 }
