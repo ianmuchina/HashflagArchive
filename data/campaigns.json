@@ -132256,5 +132256,17 @@
 		"hashTags": [
 			"vctemea"
 		]
+	},
+	"Warner_Bros_Barbie_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Warner_Bros_Barbie_2023/Warner_Bros_Barbie_2023.png",
+		"startingTimestampMs": 1680606000000,
+		"endingTimestampMs": 1696204740000,
+		"hashTags": [
+			"barbie",
+			"barbiemovie",
+			"barbiethemovie",
+			"hibarbie",
+			"hiken"
+		]
 	}
 }
