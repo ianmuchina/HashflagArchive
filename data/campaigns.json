@@ -132277,5 +132277,47 @@
 			"supermariobroslapelicula",
 			"supermariobroslapelícula"
 		]
+	},
+	"LCS_Team_Cloud9_NewLogo_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LCS_Team_Cloud9_NewLogo_2023/LCS_Team_Cloud9_NewLogo_2023.png",
+		"startingTimestampMs": 1680620400000,
+		"endingTimestampMs": 1703977200000,
+		"hashTags": [
+			"c9win",
+			"legac9",
+			"letsgoc9"
+		]
+	},
+	"Deutsche_Rentenversicherung_Bund_DRV_23_002_Sozialwahl_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Deutsche_Rentenversicherung_Bund_DRV_23_002_Sozialwahl_2023/Deutsche_Rentenversicherung_Bund_DRV_23_002_Sozialwahl_2023.png",
+		"startingTimestampMs": 1680652740000,
+		"endingTimestampMs": 1688310180000,
+		"hashTags": [
+			"deinestimmedeinewahl",
+			"sozialwahl",
+			"sozialwahl2023",
+			"sozialwahl23",
+			"sozialwahlen"
+		]
+	},
+	"TirTir_April_campaign_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TirTir_April_campaign_2023/TirTir_April_campaign_2023.png",
+		"startingTimestampMs": 1680652800000,
+		"endingTimestampMs": 1686009540000,
+		"hashTags": [
+			"tirtir",
+			"オーラクッション",
+			"ティルティル",
+			"マスクフィット",
+			"マスクフィットクッション"
+		]
+	},
+	"VCT_Americas_Emoji_2023_Q2_2023_RedLogo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/VCT_Americas_Emoji_2023_Q2_2023_RedLogo/VCT_Americas_Emoji_2023_Q2_2023_RedLogo.png",
+		"startingTimestampMs": 1680621300000,
+		"endingTimestampMs": 1685574000000,
+		"hashTags": [
+			"vctamericas"
+		]
 	}
 }
