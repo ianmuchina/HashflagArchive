@@ -90764,19 +90764,23 @@
 	],
 	"cadapedacinhoaproxima": [
 		"Pascoa_Lacta_before_during",
-		"Pascoa_Lacta_during_update"
+		"Pascoa_Lacta_during_update",
+		"Pascoa_Lacta_after_update"
 	],
 	"favoritoslacta": [
 		"Pascoa_Lacta_before_during",
-		"Pascoa_Lacta_during_update"
+		"Pascoa_Lacta_during_update",
+		"Pascoa_Lacta_after_update"
 	],
 	"juliettecomlacta": [
 		"Pascoa_Lacta_before_during",
-		"Pascoa_Lacta_during_update"
+		"Pascoa_Lacta_during_update",
+		"Pascoa_Lacta_after_update"
 	],
 	"lactalovers": [
 		"Pascoa_Lacta_before_during",
-		"Pascoa_Lacta_during_update"
+		"Pascoa_Lacta_during_update",
+		"Pascoa_Lacta_after_update"
 	],
 	"cheetosdedosllenosdediversión": [
 		"Pepsico_Cheetos_before_during",
@@ -90879,5 +90883,8 @@
 	],
 	"マスクフィットクッション": [
 		"TirTir_April_campaign_2023"
+	],
+	"páscoaélacta": [
+		"Pascoa_Lacta_after_update"
 	]
 }
