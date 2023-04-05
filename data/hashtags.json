@@ -90784,11 +90784,13 @@
 	],
 	"cheetosdedosllenosdediversión": [
 		"Pepsico_Cheetos_before_during",
-		"Pepsico_Cheetos_during_update"
+		"Pepsico_Cheetos_during_update",
+		"Pepsico_Cheetos_after_update"
 	],
 	"dedosdecheetos": [
 		"Pepsico_Cheetos_before_during",
-		"Pepsico_Cheetos_during_update"
+		"Pepsico_Cheetos_during_update",
+		"Pepsico_Cheetos_after_update"
 	],
 	"besouroazol": [
 		"BlueBeetles_Espanol"
@@ -90886,5 +90888,8 @@
 	],
 	"páscoaélacta": [
 		"Pascoa_Lacta_after_update"
+	],
+	"dedosllenosdediversión": [
+		"Pepsico_Cheetos_after_update"
 	]
 }
