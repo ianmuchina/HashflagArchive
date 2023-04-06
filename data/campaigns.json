@@ -132590,5 +132590,13 @@
 			"guardioesdagalaxia",
 			"strazcigalaxie"
 		]
+	},
+	"HDBeenDope_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HDBeenDope_2023/HDBeenDope_2023.png",
+		"startingTimestampMs": 1680730200000,
+		"endingTimestampMs": 1685448660000,
+		"hashTags": [
+			"labblockedin"
+		]
 	}
 }
