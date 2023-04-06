@@ -132606,5 +132606,13 @@
 		"hashTags": [
 			"gotgvol3"
 		]
+	},
+	"Adidas_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Adidas_After/Adidas_After.png",
+		"startingTimestampMs": 1680825720000,
+		"endingTimestampMs": 1681430400000,
+		"hashTags": [
+			"cluboriginals"
+		]
 	}
 }
