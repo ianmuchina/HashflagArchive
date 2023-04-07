@@ -132642,5 +132642,14 @@
 		"hashTags": [
 			"indianajones"
 		]
+	},
+	"Summer_Game_Fest_2023_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Summer_Game_Fest_2023_Emoji/Summer_Game_Fest_2023_Emoji.png",
+		"startingTimestampMs": 1680850800000,
+		"endingTimestampMs": 1688079600000,
+		"hashTags": [
+			"sgf23",
+			"summergamefest"
+		]
 	}
 }

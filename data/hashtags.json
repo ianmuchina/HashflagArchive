@@ -53874,7 +53874,8 @@
 		"SummerGamesFestival_add",
 		"summergamefest_May_2021",
 		"SummerGamesFestival",
-		"Summer_Game_Fest_Mar_2022"
+		"Summer_Game_Fest_Mar_2022",
+		"Summer_Game_Fest_2023_Emoji"
 	],
 	"summergamesfest": [
 		"SummerGamesFestival"
@@ -91350,5 +91351,8 @@
 	],
 	"indianajones": [
 		"Disney_TH_Indiana_Jones_2023_NEW"
+	],
+	"sgf23": [
+		"Summer_Game_Fest_2023_Emoji"
 	]
 }
