@@ -132651,5 +132651,15 @@
 			"sgf23",
 			"summergamefest"
 		]
+	},
+	"KaneBrown_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KaneBrown_2023/KaneBrown_2023.png",
+		"startingTimestampMs": 1680872400000,
+		"endingTimestampMs": 1681495080000,
+		"hashTags": [
+			"kanebrownfirecountry",
+			"kanefirecountry",
+			"kbfirecountry"
+		]
 	}
 }
