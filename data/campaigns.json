@@ -132634,5 +132634,13 @@
 			"nfhappy",
 			"nfmotto"
 		]
+	},
+	"Disney_TH_Indiana_Jones_2023_NEW": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_TH_Indiana_Jones_2023_NEW/Disney_TH_Indiana_Jones_2023_NEW.png",
+		"startingTimestampMs": 1680845400000,
+		"endingTimestampMs": 1688712900000,
+		"hashTags": [
+			"indianajones"
+		]
 	}
 }
