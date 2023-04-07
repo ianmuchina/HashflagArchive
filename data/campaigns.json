@@ -132614,5 +132614,25 @@
 		"hashTags": [
 			"cluboriginals"
 		]
+	},
+	"Daniel_Ceasar_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Daniel_Ceasar_2023/Daniel_Ceasar_2023.png",
+		"startingTimestampMs": 1680840000000,
+		"endingTimestampMs": 1685628720000,
+		"hashTags": [
+			"danielcaesar",
+			"danielcaesarcheckmate",
+			"danielcaesarneverenough"
+		]
+	},
+	"NF_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NF_2023/NF_2023.png",
+		"startingTimestampMs": 1680840000000,
+		"endingTimestampMs": 1688214360000,
+		"hashTags": [
+			"nfcareful",
+			"nfhappy",
+			"nfmotto"
+		]
 	}
 }
