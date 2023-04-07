@@ -91290,7 +91290,8 @@
 		"Disney_TH_GotGVol3_Cosmo_2023"
 	],
 	"＃宇宙犬コスモ": [
-		"Disney_TH_GotGVol3_Cosmo_2023"
+		"Disney_TH_GotGVol3_Cosmo_2023",
+		"Disney_TH_GotGVol3_Cosmo_Japan_2023"
 	],
 	"airmovie": [
 		"Prime_VIdeo_UAR_MGM-Air_Movie_emoji_2023"
@@ -91363,5 +91364,11 @@
 	],
 	"kbfirecountry": [
 		"KaneBrown_2023"
+	],
+	"nfhope": [
+		"NF_New_Hashtags"
+	],
+	"nfrealmusic": [
+		"NF_New_Hashtags"
 	]
 }

@@ -132661,5 +132661,22 @@
 			"kanefirecountry",
 			"kbfirecountry"
 		]
+	},
+	"NF_New_Hashtags": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NF_New_Hashtags/NF_New_Hashtags.png",
+		"startingTimestampMs": 1680825600000,
+		"endingTimestampMs": 1688184000000,
+		"hashTags": [
+			"nfhope",
+			"nfrealmusic"
+		]
+	},
+	"Disney_TH_GotGVol3_Cosmo_Japan_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_TH_GotGVol3_Cosmo_Japan_2023/Disney_TH_GotGVol3_Cosmo_Japan_2023.png",
+		"startingTimestampMs": 1680890400000,
+		"endingTimestampMs": 1688626500000,
+		"hashTags": [
+			"＃宇宙犬コスモ"
+		]
 	}
 }
