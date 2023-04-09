@@ -132711,5 +132711,17 @@
 			"fnciaohouse",
 			"foodnetwork"
 		]
+	},
+	"Ajinomoto_2023_Brand_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ajinomoto_2023_Brand_Emoji/Ajinomoto_2023_Brand_Emoji.png",
+		"startingTimestampMs": 1681052400000,
+		"endingTimestampMs": 1688828340000,
+		"hashTags": [
+			"んーふーすぎるギョーザ",
+			"ギョーザはサブ派",
+			"ギョーザはメインでもサブでも派",
+			"ギョーザはメイン派",
+			"味の素のギョーザ"
+		]
 	}
 }
