@@ -132699,5 +132699,17 @@
 			"coronationweekend",
 			"thebighelpout"
 		]
+	},
+	"WBD_Ciao_House_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WBD_Ciao_House_Emoji/WBD_Ciao_House_Emoji.png",
+		"startingTimestampMs": 1681045200000,
+		"endingTimestampMs": 1688807280000,
+		"hashTags": [
+			"caiohouse",
+			"ciaohouse",
+			"ciaohousefn",
+			"fnciaohouse",
+			"foodnetwork"
+		]
 	}
 }
