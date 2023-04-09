@@ -19,7 +19,8 @@
 		"Test191021_1",
 		"India_State_elections_Oct_2022",
 		"2022_FIFA_WorldCup_Denmark",
-		"CoronationKing"
+		"CoronationKing",
+		"CoronationKing_v3"
 	],
 	"\b装甲娘": [
 		"DMM_soukoumusume_2020"
@@ -85409,16 +85410,20 @@
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
 	],
 	"coronation": [
-		"CoronationKing"
+		"CoronationKing",
+		"CoronationKing_v3"
 	],
 	"coronationbiglunch": [
-		"CoronationKing"
+		"CoronationKing",
+		"CoronationKing_v3"
 	],
 	"coronationconcert": [
-		"CoronationKing"
+		"CoronationKing",
+		"CoronationKing_v3"
 	],
 	"coronationweekend": [
-		"CoronationKing"
+		"CoronationKing",
+		"CoronationKing_v3"
 	],
 	"couragecountry": [
 		"NWSL_Season_2023_NorthCarolina_Courage_6"
@@ -86433,7 +86438,8 @@
 		"Crown_Royal_2023"
 	],
 	"thebighelpout": [
-		"CoronationKing"
+		"CoronationKing",
+		"CoronationKing_v3"
 	],
 	"thechevronchampionship": [
 		"Chevron_LPGA_Championship_March_9"

@@ -132686,5 +132686,18 @@
 		"hashTags": [
 			"宇宙犬コスモ"
 		]
+	},
+	"CoronationKing_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CoronationKing_v3/CoronationKing_v3.png",
+		"startingTimestampMs": 1681041600000,
+		"endingTimestampMs": 1685577540000,
+		"hashTags": [
+			"",
+			"coronation",
+			"coronationbiglunch",
+			"coronationconcert",
+			"coronationweekend",
+			"thebighelpout"
+		]
 	}
 }
