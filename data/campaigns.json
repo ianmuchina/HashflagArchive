@@ -132723,5 +132723,13 @@
 			"ギョーザはメイン派",
 			"味の素のギョーザ"
 		]
+	},
+	"WNBA_Draft_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WNBA_Draft_2023/WNBA_Draft_2023.png",
+		"startingTimestampMs": 1681063200000,
+		"endingTimestampMs": 1681236000000,
+		"hashTags": [
+			"wnbadraft"
+		]
 	}
 }
