@@ -132731,5 +132731,16 @@
 		"hashTags": [
 			"wnbadraft"
 		]
+	},
+	"Brand_Hashtag_Emoji_2023_v4": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Brand_Hashtag_Emoji_2023_v4/Brand_Hashtag_Emoji_2023_v4.png",
+		"startingTimestampMs": 1681101000000,
+		"endingTimestampMs": 1688137140000,
+		"hashTags": [
+			"ブレスラボ",
+			"ブレスラボで息ストレスゼロへ",
+			"息ストレスゼロへ",
+			"息ストレスゼロ目指そうキャンペーン"
+		]
 	}
 }
