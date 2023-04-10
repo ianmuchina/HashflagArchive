@@ -132742,5 +132742,14 @@
 			"息ストレスゼロへ",
 			"息ストレスゼロ目指そうキャンペーン"
 		]
+	},
+	"Peston_Emoji_Q2toQ4_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Peston_Emoji_Q2toQ4_2023/Peston_Emoji_Q2toQ4_2023.png",
+		"startingTimestampMs": 1681117200000,
+		"endingTimestampMs": 1685692800000,
+		"hashTags": [
+			"itvpeston",
+			"peston"
+		]
 	}
 }
