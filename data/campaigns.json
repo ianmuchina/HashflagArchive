@@ -132781,5 +132781,23 @@
 			"ガーナで伝えたいこと",
 			"母の日ガーナ"
 		]
+	},
+	"LilBaby_ItsOnlyUsTour": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LilBaby_ItsOnlyUsTour/LilBaby_ItsOnlyUsTour.png",
+		"startingTimestampMs": 1681084800000,
+		"endingTimestampMs": 1688184000000,
+		"hashTags": [
+			"ioutour",
+			"itsonlyus",
+			"itsonlyustour"
+		]
+	},
+	"Rated_Rookie_Test": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Rated_Rookie_Test/Rated_Rookie_Test.png",
+		"startingTimestampMs": 1681084800000,
+		"endingTimestampMs": 1681156800000,
+		"hashTags": [
+			"ratedrookie"
+		]
 	}
 }

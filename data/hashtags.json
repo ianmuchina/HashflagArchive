@@ -46542,7 +46542,8 @@
 		"PaniniAmericaQ2_21",
 		"PaniniAmericaBrand_Q3Q4_2021",
 		"Panini_America_RatedRookie_PrT_Spotlight_Q1_Q2_2022_v3_extend",
-		"Panini_America_NFL_World_Cup_Sept_2022"
+		"Panini_America_NFL_World_Cup_Sept_2022",
+		"Rated_Rookie_Test"
 	],
 	"ratinthekitchen": [
 		"Turner_TBS_Rat_in_the_Kitchen_Mar_2022"
@@ -91441,5 +91442,14 @@
 	],
 	"母の日ガーナ": [
 		"GhanaMothersDay_x_SFCampaign_2023_v1"
+	],
+	"ioutour": [
+		"LilBaby_ItsOnlyUsTour"
+	],
+	"itsonlyus": [
+		"LilBaby_ItsOnlyUsTour"
+	],
+	"itsonlyustour": [
+		"LilBaby_ItsOnlyUsTour"
 	]
 }
