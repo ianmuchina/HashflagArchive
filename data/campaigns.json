@@ -132799,5 +132799,13 @@
 		"hashTags": [
 			"ratedrookie"
 		]
+	},
+	"RatedRookie_testing": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RatedRookie_testing/RatedRookie_testing.png",
+		"startingTimestampMs": 1681084800000,
+		"endingTimestampMs": 1681171200000,
+		"hashTags": [
+			"ratedrookie"
+		]
 	}
 }
