@@ -132751,5 +132751,23 @@
 			"itvpeston",
 			"peston"
 		]
+	},
+	"Huncho_Day": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Huncho_Day/Huncho_Day.png",
+		"startingTimestampMs": 1681124400000,
+		"endingTimestampMs": 1688240220000,
+		"hashTags": [
+			"hunchoday"
+		]
+	},
+	"Brand_Hashtag_Emoji_2023_v5": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Brand_Hashtag_Emoji_2023_v5/Brand_Hashtag_Emoji_2023_v5.png",
+		"startingTimestampMs": 1681114800000,
+		"endingTimestampMs": 1688137140000,
+		"hashTags": [
+			"ブレスラボ",
+			"息ストレスゼロへ",
+			"息ストレスゼロ目指そうキャンペーン"
+		]
 	}
 }
