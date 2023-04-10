@@ -132769,5 +132769,17 @@
 			"息ストレスゼロへ",
 			"息ストレスゼロ目指そうキャンペーン"
 		]
+	},
+	"GhanaMothersDay_x_SFCampaign_2023_v1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GhanaMothersDay_x_SFCampaign_2023_v1/GhanaMothersDay_x_SFCampaign_2023_v1.png",
+		"startingTimestampMs": 1681138800000,
+		"endingTimestampMs": 1684076340000,
+		"hashTags": [
+			"ghana_spy_family",
+			"ガーナ",
+			"ガーナ_spy_family",
+			"ガーナで伝えたいこと",
+			"母の日ガーナ"
+		]
 	}
 }

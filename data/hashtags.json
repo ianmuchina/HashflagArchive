@@ -73960,7 +73960,8 @@
 		"LOTTE_ghana_Valentine_JP_2022_v2",
 		"LOTTEghanaJP2021_sep",
 		"LOTTE_Ghana_Chocolate_JP_March_2021",
-		"LOTTEGhana_JP_Jan2021"
+		"LOTTEGhana_JP_Jan2021",
+		"GhanaMothersDay_x_SFCampaign_2023_v1"
 	],
 	"ガーナ10秒口どけ実験中": [
 		"LOTTEghanaJP2021_sep"
@@ -91428,5 +91429,17 @@
 	],
 	"hunchoday": [
 		"Huncho_Day"
+	],
+	"ghana_spy_family": [
+		"GhanaMothersDay_x_SFCampaign_2023_v1"
+	],
+	"ガーナ_spy_family": [
+		"GhanaMothersDay_x_SFCampaign_2023_v1"
+	],
+	"ガーナで伝えたいこと": [
+		"GhanaMothersDay_x_SFCampaign_2023_v1"
+	],
+	"母の日ガーナ": [
+		"GhanaMothersDay_x_SFCampaign_2023_v1"
 	]
 }
