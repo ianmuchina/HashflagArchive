@@ -132807,5 +132807,29 @@
 		"hashTags": [
 			"ratedrookie"
 		]
+	},
+	"Minecraft_Microsoft_Minecraft_Legends_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Minecraft_Microsoft_Minecraft_Legends_2023/Minecraft_Microsoft_Minecraft_Legends_2023.png",
+		"startingTimestampMs": 1681196400000,
+		"endingTimestampMs": 1688972400000,
+		"hashTags": [
+			"unitetheoverworld"
+		]
+	},
+	"FightThePiglins_JP": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FightThePiglins_JP/FightThePiglins_JP.png",
+		"startingTimestampMs": 1681196400000,
+		"endingTimestampMs": 1686380340000,
+		"hashTags": [
+			"オーバーワールドを一つに"
+		]
+	},
+	"Minecraft_Legends_JP": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Minecraft_Legends_JP/Minecraft_Legends_JP.png",
+		"startingTimestampMs": 1681196400000,
+		"endingTimestampMs": 1686380340000,
+		"hashTags": [
+			"ピグリンと戦おう"
+		]
 	}
 }
