@@ -132839,5 +132839,21 @@
 		"hashTags": [
 			"fightthepiglins"
 		]
+	},
+	"NBA_Playoffs_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_Playoffs_Emoji_2023/NBA_Playoffs_Emoji_2023.png",
+		"startingTimestampMs": 1681203600000,
+		"endingTimestampMs": 1687240800000,
+		"hashTags": [
+			"nbaplayoffs"
+		]
+	},
+	"NBA_Playoff_Mode_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_Playoff_Mode_Emoji_2023/NBA_Playoff_Mode_Emoji_2023.png",
+		"startingTimestampMs": 1681203600000,
+		"endingTimestampMs": 1687240800000,
+		"hashTags": [
+			"playoffmode"
+		]
 	}
 }

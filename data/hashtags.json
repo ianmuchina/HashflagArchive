@@ -38866,7 +38866,8 @@
 		"Turner_NBA_on_TNT_Oct_2022"
 	],
 	"nbaplayoffs": [
-		"NBAPlayoffs_2020"
+		"NBAPlayoffs_2020",
+		"NBA_Playoffs_Emoji_2023"
 	],
 	"nbaplayoffsontnt": [
 		"NBAPlayoffsonTNT_2021"
@@ -91462,5 +91463,8 @@
 	],
 	"fightthepiglins": [
 		"Minecraft_Legends_2023_FIGHTTHEPIGLINS"
+	],
+	"playoffmode": [
+		"NBA_Playoff_Mode_Emoji_2023"
 	]
 }
