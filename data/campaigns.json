@@ -132831,5 +132831,13 @@
 		"hashTags": [
 			"ピグリンと戦おう"
 		]
+	},
+	"Minecraft_Legends_2023_FIGHTTHEPIGLINS": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Minecraft_Legends_2023_FIGHTTHEPIGLINS/Minecraft_Legends_2023_FIGHTTHEPIGLINS.png",
+		"startingTimestampMs": 1681200000000,
+		"endingTimestampMs": 1689033540000,
+		"hashTags": [
+			"fightthepiglins"
+		]
 	}
 }
