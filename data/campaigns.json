@@ -132855,5 +132855,17 @@
 		"hashTags": [
 			"playoffmode"
 		]
+	},
+	"Al_Ula_Skies_Festival_2023_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Al_Ula_Skies_Festival_2023_before/Al_Ula_Skies_Festival_2023_before.png",
+		"startingTimestampMs": 1681201800000,
+		"endingTimestampMs": 1682503140000,
+		"hashTags": [
+			"alulamoments",
+			"alulaskies",
+			"العلا",
+			"سماء_العلا",
+			"لحظات_العلا"
+		]
 	}
 }
