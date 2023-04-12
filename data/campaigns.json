@@ -132921,5 +132921,13 @@
 		"hashTags": [
 			"brandedfeatures"
 		]
+	},
+	"UberEats_Q2_23_Uber_Oneders": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UberEats_Q2_23_Uber_Oneders/UberEats_Q2_23_Uber_Oneders.png",
+		"startingTimestampMs": 1681336800000,
+		"endingTimestampMs": 1688169540000,
+		"hashTags": [
+			"uberone"
+		]
 	}
 }
