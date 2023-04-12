@@ -132894,5 +132894,15 @@
 			"nle",
 			"nlechoppa"
 		]
+	},
+	"Im_A_Celebrity_All_Stars_South_Africa": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Im_A_Celebrity_All_Stars_South_Africa/Im_A_Celebrity_All_Stars_South_Africa.png",
+		"startingTimestampMs": 1681308000000,
+		"endingTimestampMs": 1684137600000,
+		"hashTags": [
+			"imaceleb",
+			"imacelebrity",
+			"imacelebritypodcast"
+		]
 	}
 }

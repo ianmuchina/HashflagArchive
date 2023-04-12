@@ -26243,13 +26243,15 @@
 		"JYPE_Nayeon_May_2022"
 	],
 	"imaceleb": [
-		"IAC_2020"
+		"IAC_2020",
+		"Im_A_Celebrity_All_Stars_South_Africa"
 	],
 	"imacelebfinal": [
 		"IAC_2020"
 	],
 	"imacelebrity": [
-		"IAC_2020"
+		"IAC_2020",
+		"Im_A_Celebrity_All_Stars_South_Africa"
 	],
 	"imacelebthedailydrop": [
 		"IAC_2020"
@@ -91489,5 +91491,8 @@
 	],
 	"nlechoppa": [
 		"NLE_Choppa"
+	],
+	"imacelebritypodcast": [
+		"Im_A_Celebrity_All_Stars_South_Africa"
 	]
 }
