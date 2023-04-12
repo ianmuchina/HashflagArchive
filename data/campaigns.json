@@ -132904,5 +132904,14 @@
 			"imacelebrity",
 			"imacelebritypodcast"
 		]
+	},
+	"YurucanGame_Launch_Emoji_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/YurucanGame_Launch_Emoji_during/YurucanGame_Launch_Emoji_during.png",
+		"startingTimestampMs": 1681311600000,
+		"endingTimestampMs": 1681397940000,
+		"hashTags": [
+			"ゆるキャン",
+			"各務原なでしこ"
+		]
 	}
 }
