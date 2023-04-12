@@ -132875,5 +132875,13 @@
 		"hashTags": [
 			"ピグリンを倒そう"
 		]
+	},
+	"LoL_Mid_Season_Invitational_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LoL_Mid_Season_Invitational_2023/LoL_Mid_Season_Invitational_2023.png",
+		"startingTimestampMs": 1681282800000,
+		"endingTimestampMs": 1685343600000,
+		"hashTags": [
+			"msi2023"
+		]
 	}
 }
