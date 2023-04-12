@@ -132913,5 +132913,13 @@
 			"ゆるキャン",
 			"各務原なでしこ"
 		]
+	},
+	"Branded_Features_Global_Test_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Branded_Features_Global_Test_v3/Branded_Features_Global_Test_v3.png",
+		"startingTimestampMs": 1681326000000,
+		"endingTimestampMs": 1681336800000,
+		"hashTags": [
+			"brandedfeatures"
+		]
 	}
 }
