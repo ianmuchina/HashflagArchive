@@ -132883,5 +132883,16 @@
 		"hashTags": [
 			"msi2023"
 		]
+	},
+	"NLE_Choppa": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NLE_Choppa/NLE_Choppa.png",
+		"startingTimestampMs": 1681297200000,
+		"endingTimestampMs": 1688239440000,
+		"hashTags": [
+			"choppa",
+			"cottonwood2",
+			"nle",
+			"nlechoppa"
+		]
 	}
 }
