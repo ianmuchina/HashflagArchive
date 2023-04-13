@@ -132968,5 +132968,13 @@
 			"ゆるキャン",
 			"各務原なでしこ"
 		]
+	},
+	"DraftKings_PickThe_Lock_Hashtag_Extension_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_PickThe_Lock_Hashtag_Extension_2023/DraftKings_PickThe_Lock_Hashtag_Extension_2023.png",
+		"startingTimestampMs": 1681401600000,
+		"endingTimestampMs": 1688936340000,
+		"hashTags": [
+			"pickthelock"
+		]
 	}
 }
