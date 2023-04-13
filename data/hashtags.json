@@ -1303,7 +1303,8 @@
 	],
 	"acm": [
 		"ACMAwards_2020",
-		"AcademyofCountryMusicAwards2021"
+		"AcademyofCountryMusicAwards2021",
+		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American"
 	],
 	"acmaward": [
 		"ACMAwards_2020",
@@ -1312,7 +1313,8 @@
 	"acmawards": [
 		"Amazon_Studios_ACMAs_2022",
 		"ACMAwards_2020",
-		"AcademyofCountryMusicAwards2021"
+		"AcademyofCountryMusicAwards2021",
+		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American"
 	],
 	"acmawards2021": [
 		"AcademyofCountryMusicAwards2021"
@@ -1324,7 +1326,8 @@
 		"AcademyofCountryMusicAwards2021"
 	],
 	"acmredcarpet": [
-		"Amazon_Studios_ACMAs_2022"
+		"Amazon_Studios_ACMAs_2022",
+		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American"
 	],
 	"acms": [
 		"Amazon_Studios_ACMAs_2022",
@@ -91505,5 +91508,11 @@
 	"brandedfeatures": [
 		"Branded_Features_Global_Test_v3",
 		"Branded_Features_Global_Test_APAC"
+	],
+	"amcs": [
+		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American"
+	],
+	"dollyandgarth": [
+		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American"
 	]
 }

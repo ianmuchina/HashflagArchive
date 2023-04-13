@@ -132937,5 +132937,17 @@
 		"hashTags": [
 			"brandedfeatures"
 		]
+	},
+	"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American/Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American.png",
+		"startingTimestampMs": 1681369260000,
+		"endingTimestampMs": 1686553140000,
+		"hashTags": [
+			"acm",
+			"acmawards",
+			"acmredcarpet",
+			"amcs",
+			"dollyandgarth"
+		]
 	}
 }
