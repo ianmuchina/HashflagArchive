@@ -132949,5 +132949,14 @@
 			"amcs",
 			"dollyandgarth"
 		]
+	},
+	"GrabID_Percaya_2023_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GrabID_Percaya_2023_v2/GrabID_Percaya_2023_v2.png",
+		"startingTimestampMs": 1681367100000,
+		"endingTimestampMs": 1688317740000,
+		"hashTags": [
+			"percaya",
+			"pesanuntukberbagi"
+		]
 	}
 }
