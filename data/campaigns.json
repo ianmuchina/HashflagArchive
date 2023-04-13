@@ -132929,5 +132929,13 @@
 		"hashTags": [
 			"uberone"
 		]
+	},
+	"Branded_Features_Global_Test_APAC": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Branded_Features_Global_Test_APAC/Branded_Features_Global_Test_APAC.png",
+		"startingTimestampMs": 1681358400000,
+		"endingTimestampMs": 1681365600000,
+		"hashTags": [
+			"brandedfeatures"
+		]
 	}
 }
