@@ -91501,10 +91501,12 @@
 		"Im_A_Celebrity_All_Stars_South_Africa"
 	],
 	"ゆるキャン": [
-		"YurucanGame_Launch_Emoji_during"
+		"YurucanGame_Launch_Emoji_during",
+		"YurucanGame_Launch_Emoji_after_v2"
 	],
 	"各務原なでしこ": [
-		"YurucanGame_Launch_Emoji_during"
+		"YurucanGame_Launch_Emoji_during",
+		"YurucanGame_Launch_Emoji_after_v2"
 	],
 	"brandedfeatures": [
 		"Branded_Features_Global_Test_v3",
@@ -91518,5 +91520,8 @@
 	],
 	"pesanuntukberbagi": [
 		"GrabID_Percaya_2023_v2"
+	],
+	"つなキャン": [
+		"YurucanGame_Launch_Emoji_after_v2"
 	]
 }
