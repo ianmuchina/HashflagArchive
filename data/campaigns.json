@@ -133017,5 +133017,13 @@
 		"hashTags": [
 			"ドリームゴーラウンド"
 		]
+	},
+	"Jood_for_Housing_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Jood_for_Housing_2023/Jood_for_Housing_2023.png",
+		"startingTimestampMs": 1681485300000,
+		"endingTimestampMs": 1688162220000,
+		"hashTags": [
+			"منصة_جود"
+		]
 	}
 }
