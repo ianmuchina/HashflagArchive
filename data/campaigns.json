@@ -133009,5 +133009,13 @@
 			"coronationweekend",
 			"thebighelpout"
 		]
+	},
+	"TDR_PR_2023_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TDR_PR_2023_during/TDR_PR_2023_during.png",
+		"startingTimestampMs": 1681484400000,
+		"endingTimestampMs": 1681570740000,
+		"hashTags": [
+			"ドリームゴーラウンド"
+		]
 	}
 }
