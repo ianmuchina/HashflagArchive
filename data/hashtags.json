@@ -85428,19 +85428,23 @@
 	],
 	"coronation": [
 		"CoronationKing",
-		"CoronationKing_v3"
+		"CoronationKing_v3",
+		"CoronationKing_V4_fix"
 	],
 	"coronationbiglunch": [
 		"CoronationKing",
-		"CoronationKing_v3"
+		"CoronationKing_v3",
+		"CoronationKing_V4_fix"
 	],
 	"coronationconcert": [
 		"CoronationKing",
-		"CoronationKing_v3"
+		"CoronationKing_v3",
+		"CoronationKing_V4_fix"
 	],
 	"coronationweekend": [
 		"CoronationKing",
-		"CoronationKing_v3"
+		"CoronationKing_v3",
+		"CoronationKing_V4_fix"
 	],
 	"couragecountry": [
 		"NWSL_Season_2023_NorthCarolina_Courage_6"
@@ -86456,7 +86460,8 @@
 	],
 	"thebighelpout": [
 		"CoronationKing",
-		"CoronationKing_v3"
+		"CoronationKing_v3",
+		"CoronationKing_V4_fix"
 	],
 	"thechevronchampionship": [
 		"Chevron_LPGA_Championship_March_9"

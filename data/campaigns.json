@@ -132997,5 +132997,17 @@
 			"kellyclarkson",
 			"mineme"
 		]
+	},
+	"CoronationKing_V4_fix": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CoronationKing_V4_fix/CoronationKing_V4_fix.png",
+		"startingTimestampMs": 1681446600000,
+		"endingTimestampMs": 1685577540000,
+		"hashTags": [
+			"coronation",
+			"coronationbiglunch",
+			"coronationconcert",
+			"coronationweekend",
+			"thebighelpout"
+		]
 	}
 }
