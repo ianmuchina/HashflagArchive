@@ -132976,5 +132976,26 @@
 		"hashTags": [
 			"pickthelock"
 		]
+	},
+	"NFL_x_CBS_Sport_Fishing_Championship": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_x_CBS_Sport_Fishing_Championship/NFL_x_CBS_Sport_Fishing_Championship.png",
+		"startingTimestampMs": 1681444800000,
+		"endingTimestampMs": 1681737120000,
+		"hashTags": [
+			"fritosthecatch",
+			"sportfishingchampionship"
+		]
+	},
+	"Kelly_Clarkson_Mine_Me": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Kelly_Clarkson_Mine_Me/Kelly_Clarkson_Mine_Me.png",
+		"startingTimestampMs": 1681444800000,
+		"endingTimestampMs": 1688215140000,
+		"hashTags": [
+			"kcme",
+			"kcmine",
+			"kcmineme",
+			"kellyclarkson",
+			"mineme"
+		]
 	}
 }
