@@ -91556,7 +91556,8 @@
 		"NFL_x_CBS_Sport_Fishing_Championship"
 	],
 	"ドリームゴーラウンド": [
-		"TDR_PR_2023_during"
+		"TDR_PR_2023_during",
+		"TDR_PR_2023_after"
 	],
 	"منصة_جود": [
 		"Jood_for_Housing_2023"
@@ -91581,5 +91582,8 @@
 	],
 	"whitehot": [
 		"NBA_Playoff_Team_Hashtag_Emoji_MIAMI_HEAT_2023"
+	],
+	"東京ディズニーリゾート40周年": [
+		"TDR_PR_2023_after"
 	]
 }

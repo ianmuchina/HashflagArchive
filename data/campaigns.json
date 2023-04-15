@@ -133113,5 +133113,14 @@
 		"hashTags": [
 			"wolvesback"
 		]
+	},
+	"TDR_PR_2023_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TDR_PR_2023_after/TDR_PR_2023_after.png",
+		"startingTimestampMs": 1681570800000,
+		"endingTimestampMs": 1689346740000,
+		"hashTags": [
+			"ドリームゴーラウンド",
+			"東京ディズニーリゾート40周年"
+		]
 	}
 }
