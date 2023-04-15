@@ -22218,7 +22218,8 @@
 	],
 	"goldblooded": [
 		"NBA_Season_Teams_2021_Pacers",
-		"NBA_Season_Teams_2022_GoldBlooded"
+		"NBA_Season_Teams_2022_GoldBlooded",
+		"NBA_Playoff_Team_Hashtag_Emoji_WARRIORS_2023"
 	],
 	"goldcard": [
 		"StandardBank_MyMoGold_2021"
@@ -46404,7 +46405,8 @@
 	],
 	"rallythevalley": [
 		"NBA_2021_Teams_RallyTheValley_add",
-		"NBA_Season_Teams_2022_RallyTheValley"
+		"NBA_Season_Teams_2022_RallyTheValley",
+		"NBA_Playoff_Team_Hashtag_Emoji_SUNS_2023"
 	],
 	"ralphie": [
 		"A_Christmas_Story_2022"
@@ -49875,7 +49877,8 @@
 		"WMHD_2022_v2"
 	],
 	"seered": [
-		"NBA_Season_Teams_2022_SeeRed"
+		"NBA_Season_Teams_2022_SeeRed",
+		"NBA_Playoff_Team_Hashtag_Emoji_Chicago_Bulls_2023"
 	],
 	"seetwins": [
 		"GT_Twitter_Hashflag_SeeTwins_2021"
@@ -64635,7 +64638,8 @@
 		"WolfgangVanHalen_2021"
 	],
 	"wolvesback": [
-		"NBA_Season_Teams_2022_WolvesBack"
+		"NBA_Season_Teams_2022_WolvesBack",
+		"NBA_Playoff_Team_Hashtag_Emoji_MINN_WOLVES_2023"
 	],
 	"womanking": [
 		"Sony_Pictures_The_Woman_King_Aug_2022"
@@ -91556,5 +91560,26 @@
 	],
 	"منصة_جود": [
 		"Jood_for_Housing_2023"
+	],
+	"bringitin": [
+		"NBA_Playoff_Team_Hashtag_Emoji_NUGGETS_2023"
+	],
+	"feeltheroar": [
+		"NBA_Playoff_Team_Hashtag_Emoji_SACKINGS_2023"
+	],
+	"fortheloveofphilly": [
+		"NBA_Playoff_Team_Hashtag_Emoji_76rs_2023"
+	],
+	"onenola": [
+		"NBA_Playoff_Team_Hashtag_Emoji_NewOrleans_2023"
+	],
+	"thebrooklynway": [
+		"NBA_Playoff_Team_Hashtag_Emoji_NETS_2023"
+	],
+	"together404": [
+		"NBA_Playoff_Team_Hashtag_Emoji_ATL_HAWKS_2023"
+	],
+	"whitehot": [
+		"NBA_Playoff_Team_Hashtag_Emoji_MIAMI_HEAT_2023"
 	]
 }
