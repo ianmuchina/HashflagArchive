@@ -133134,5 +133134,28 @@
 			"星穹列車地球ツアー",
 			"은하열차글로벌투어"
 		]
+	},
+	"EarthRevival_Launch_2023_April_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EarthRevival_Launch_2023_April_before/EarthRevival_Launch_2023_April_before.png",
+		"startingTimestampMs": 1681657200000,
+		"endingTimestampMs": 1681916340000,
+		"hashTags": [
+			"にじリバ",
+			"アスリバ",
+			"アスリバリリース前夜祭",
+			"アースリバイバル",
+			"超ド級の近未来を全力で生き抜け"
+		]
+	},
+	"KIRINBEER_Ichibanshibori_AprJapan2023Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KIRINBEER_Ichibanshibori_AprJapan2023Emoji/KIRINBEER_Ichibanshibori_AprJapan2023Emoji.png",
+		"startingTimestampMs": 1681657200000,
+		"endingTimestampMs": 1684076340000,
+		"hashTags": [
+			"一番搾り",
+			"一番搾り1万人体験会",
+			"新一番搾り",
+			"誰も知らない一番搾り誕生"
+		]
 	}
 }
