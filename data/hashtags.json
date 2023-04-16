@@ -36165,7 +36165,8 @@
 	"metgala": [
 		"MetGala2021_2021",
 		"Met_Gala_2020",
-		"Vogue_Met_Gala_May_2022"
+		"Vogue_Met_Gala_May_2022",
+		"MetGala2023"
 	],
 	"metgala2020": [
 		"Met_Gala_2020"
@@ -91638,5 +91639,11 @@
 	],
 	"sambutdengankfc": [
 		"KFC_Bucket_Kongsi"
+	],
+	"2023metgala": [
+		"MetGala2023"
+	],
+	"metgala2023": [
+		"MetGala2023"
 	]
 }

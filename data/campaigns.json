@@ -133169,5 +133169,15 @@
 			"kfcmalaysia",
 			"sambutdengankfc"
 		]
+	},
+	"MetGala2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MetGala2023/MetGala2023.png",
+		"startingTimestampMs": 1681689600000,
+		"endingTimestampMs": 1683849600000,
+		"hashTags": [
+			"2023metgala",
+			"metgala",
+			"metgala2023"
+		]
 	}
 }
