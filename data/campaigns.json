@@ -133157,5 +133157,17 @@
 			"新一番搾り",
 			"誰も知らない一番搾り誕生"
 		]
+	},
+	"KFC_Bucket_Kongsi": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KFC_Bucket_Kongsi/KFC_Bucket_Kongsi.png",
+		"startingTimestampMs": 1681660800000,
+		"endingTimestampMs": 1689001200000,
+		"hashTags": [
+			"hariharikongsikfc",
+			"kfcarabianspicecrunch",
+			"kfcbucketkongsi",
+			"kfcmalaysia",
+			"sambutdengankfc"
+		]
 	}
 }
