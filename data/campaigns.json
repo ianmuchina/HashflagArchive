@@ -133424,5 +133424,14 @@
 			"r5d4",
 			"อาร์5ดี4"
 		]
+	},
+	"SDAIA_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SDAIA_Emoji_2023/SDAIA_Emoji_2023.png",
+		"startingTimestampMs": 1681765200000,
+		"endingTimestampMs": 1688245200000,
+		"hashTags": [
+			"زكاتك_بإحسان",
+			"عايدهم_بإحسان"
+		]
 	}
 }
