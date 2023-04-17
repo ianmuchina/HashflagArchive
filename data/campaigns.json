@@ -133190,5 +133190,13 @@
 			"somethinginthewater",
 			"somethinginthewaterfest"
 		]
+	},
+	"Disney_TH_The_Boogeyman_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_TH_The_Boogeyman_2023/Disney_TH_The_Boogeyman_2023.png",
+		"startingTimestampMs": 1681714800000,
+		"endingTimestampMs": 1689663300000,
+		"hashTags": [
+			"theboogeyman"
+		]
 	}
 }
