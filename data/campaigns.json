@@ -133443,5 +133443,87 @@
 			"スターレイル発車カウントダウン",
 			"스타레일출발카운트다운"
 		]
+	},
+	"DisneyPlus_MandalorianS3_Grogu_2023_NEW": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_MandalorianS3_Grogu_2023_NEW/DisneyPlus_MandalorianS3_Grogu_2023_NEW.png",
+		"startingTimestampMs": 1681770300000,
+		"endingTimestampMs": 1689663300000,
+		"hashTags": [
+			"acriança",
+			"agyermek",
+			"babygrogu",
+			"bebekgrogu",
+			"bebêgrogu",
+			"dite",
+			"elniño",
+			"grogu",
+			"grogubayi",
+			"ilbambino",
+			"lenfant",
+			"piccologrogu",
+			"thechild",
+			"เจ้าหนูโกรกู",
+			"โกรกู",
+			"グローグー",
+			"ザチャイルド",
+			"ベイビーグローグー",
+			"그로구",
+			"베이비그로구"
+		]
+	},
+	"DisneyPlus_MandalorianS3_Mando_2023_NEW": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_MandalorianS3_Mando_2023_NEW/DisneyPlus_MandalorianS3_Mando_2023_NEW.png",
+		"startingTimestampMs": 1681770300000,
+		"endingTimestampMs": 1689663300000,
+		"hashTags": [
+			"amandalóri",
+			"dindjarin",
+			"ilmandaloriano",
+			"mandalorian",
+			"mandaloriano",
+			"mandalorien",
+			"mandalóri",
+			"mando",
+			"themandalorian",
+			"thisistheway",
+			"ชาวแมนดาลอร์",
+			"ดินจาริน",
+			"เดอะแมนดาลอเรี่ยน",
+			"แมนโด",
+			"ディンジャリン",
+			"マンダロリアン",
+			"マンドー",
+			"딘자린",
+			"만달로리안",
+			"만달로어인",
+			"만도"
+		]
+	},
+	"Disney_TH_The_Mandalorian_Praetorian_Guards_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_TH_The_Mandalorian_Praetorian_Guards_2023/Disney_TH_The_Mandalorian_Praetorian_Guards_2023.png",
+		"startingTimestampMs": 1681770900000,
+		"endingTimestampMs": 1689663300000,
+		"hashTags": [
+			"gardeprétorienne",
+			"gardesprétoriens",
+			"gardesprétoriensimpériaux",
+			"guardapretoriano",
+			"guardaspretorianos",
+			"guardaspretorianosimperiais",
+			"guardiapretoriana",
+			"guardiapretorianaimperial",
+			"guardiaspretorianos",
+			"imperialpraetorianguards",
+			"praetorianguard",
+			"praetorianguards",
+			"ทหารองค์รักษ์",
+			"ทหารองค์รักษ์อิมพีเรียล",
+			"พวกทหารองค์รักษ์",
+			"インペリアルプレトリアンガード",
+			"プレトリアンガード",
+			"근위병",
+			"근위병들",
+			"제국근위병들"
+		]
 	}
 }
