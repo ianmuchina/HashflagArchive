@@ -133433,5 +133433,15 @@
 			"زكاتك_بإحسان",
 			"عايدهم_بإحسان"
 		]
+	},
+	"MiHoYo_Star_Rail_Emoji-Pom_Pom_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MiHoYo_Star_Rail_Emoji-Pom_Pom_2023/MiHoYo_Star_Rail_Emoji-Pom_Pom_2023.png",
+		"startingTimestampMs": 1681768800000,
+		"endingTimestampMs": 1689549720000,
+		"hashTags": [
+			"starrailcountdown",
+			"スターレイル発車カウントダウン",
+			"스타레일출발카운트다운"
+		]
 	}
 }
