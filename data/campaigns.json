@@ -133179,5 +133179,16 @@
 			"metgala",
 			"metgala2023"
 		]
+	},
+	"Something_In_The_Water_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Something_In_The_Water_23/Something_In_The_Water_23.png",
+		"startingTimestampMs": 1681704000000,
+		"endingTimestampMs": 1685549940000,
+		"hashTags": [
+			"sitw",
+			"sitwfest",
+			"somethinginthewater",
+			"somethinginthewaterfest"
+		]
 	}
 }

@@ -51274,7 +51274,8 @@
 	],
 	"sitw": [
 		"Something_In_The_Water_Emoji",
-		"SITW_Emoji_2022"
+		"SITW_Emoji_2022",
+		"Something_In_The_Water_23"
 	],
 	"sitw22": [
 		"Something_In_The_Water_Emoji",
@@ -51282,7 +51283,8 @@
 	],
 	"sitwfest": [
 		"Something_In_The_Water_Emoji",
-		"SITW_Emoji_2022"
+		"SITW_Emoji_2022",
+		"Something_In_The_Water_23"
 	],
 	"sitycz": [
 		"Canada_Dry_Comfort_HFTC_2022",
@@ -51965,7 +51967,8 @@
 	],
 	"somethinginthewater": [
 		"Something_In_The_Water_Emoji",
-		"SITW_Emoji_2022"
+		"SITW_Emoji_2022",
+		"Something_In_The_Water_23"
 	],
 	"sommetr20": [
 		"R20_mWL_Oct_2022"
@@ -91645,5 +91648,8 @@
 	],
 	"metgala2023": [
 		"MetGala2023"
+	],
+	"somethinginthewaterfest": [
+		"Something_In_The_Water_23"
 	]
 }
