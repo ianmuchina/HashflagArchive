@@ -133533,5 +133533,13 @@
 		"hashTags": [
 			"minecraftlegends"
 		]
+	},
+	"Minecraft_Microsoft_Minecraft_Legends_2023_hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Minecraft_Microsoft_Minecraft_Legends_2023_hashfetti/Minecraft_Microsoft_Minecraft_Legends_2023_hashfetti.png",
+		"startingTimestampMs": 1681801200000,
+		"endingTimestampMs": 1681887540000,
+		"hashTags": [
+			"minecraftlegends"
+		]
 	}
 }
