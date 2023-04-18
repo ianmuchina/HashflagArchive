@@ -133564,5 +133564,13 @@
 			"miafest",
 			"miafest23"
 		]
+	},
+	"NBA_Playoff_Team_Hashtag_Emoji_Clippers_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA_Playoff_Team_Hashtag_Emoji_Clippers_2023/NBA_Playoff_Team_Hashtag_Emoji_Clippers_2023.png",
+		"startingTimestampMs": 1681858800000,
+		"endingTimestampMs": 1685556000000,
+		"hashTags": [
+			"allhands"
+		]
 	}
 }
