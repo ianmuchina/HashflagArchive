@@ -34325,10 +34325,12 @@
 		"Trace_Made_In_Africa_Festival_Jun_2022"
 	],
 	"madeinamericafest": [
-		"MIA2021"
+		"MIA2021",
+		"MadeInAmerica23"
 	],
 	"madeinamericafestival": [
-		"MIA2021"
+		"MIA2021",
+		"MadeInAmerica23"
 	],
 	"madeinlagos": [
 		"WizKid_2020",
@@ -36331,7 +36333,8 @@
 		"THE_GUY_ALBUM_Aug_2022"
 	],
 	"miafest": [
-		"MIA2021"
+		"MIA2021",
+		"MadeInAmerica23"
 	],
 	"miafestival": [
 		"MIA2021"
@@ -92172,5 +92175,8 @@
 	],
 	"getthehelpyouneed": [
 		"One_FNB_Awareness_Positive_Sentiment_FY23_Q4_Apr_Jun_2023"
+	],
+	"miafest23": [
+		"MadeInAmerica23"
 	]
 }

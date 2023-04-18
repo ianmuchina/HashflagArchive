@@ -133553,5 +133553,16 @@
 			"getthehelpyouneed",
 			"lovefnb"
 		]
+	},
+	"MadeInAmerica23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MadeInAmerica23/MadeInAmerica23.png",
+		"startingTimestampMs": 1681844100000,
+		"endingTimestampMs": 1693872000000,
+		"hashTags": [
+			"madeinamericafest",
+			"madeinamericafestival",
+			"miafest",
+			"miafest23"
+		]
 	}
 }
