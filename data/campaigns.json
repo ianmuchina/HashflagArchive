@@ -133525,5 +133525,13 @@
 			"근위병들",
 			"제국근위병들"
 		]
+	},
+	"Minecraft_Microsoft_Minecraft_Legends_2023_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Minecraft_Microsoft_Minecraft_Legends_2023_before/Minecraft_Microsoft_Minecraft_Legends_2023_before.png",
+		"startingTimestampMs": 1681790400000,
+		"endingTimestampMs": 1681801140000,
+		"hashTags": [
+			"minecraftlegends"
+		]
 	}
 }
