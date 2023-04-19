@@ -133589,5 +133589,13 @@
 		"hashTags": [
 			"minecraftlegends"
 		]
+	},
+	"DraftKings_IHartDraftKings_Hashtag_Extension_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_IHartDraftKings_Hashtag_Extension_2023/DraftKings_IHartDraftKings_Hashtag_Extension_2023.png",
+		"startingTimestampMs": 1681896120000,
+		"endingTimestampMs": 1689672060000,
+		"hashTags": [
+			"ihartdraftkings"
+		]
 	}
 }
