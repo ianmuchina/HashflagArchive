@@ -133597,5 +133597,17 @@
 		"hashTags": [
 			"ihartdraftkings"
 		]
+	},
+	"Sony_Insidious_5_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sony_Insidious_5_Branded_Hashtag/Sony_Insidious_5_Branded_Hashtag.png",
+		"startingTimestampMs": 1681909200000,
+		"endingTimestampMs": 1689685200000,
+		"hashTags": [
+			"insidious",
+			"insidious5",
+			"insidiousmovie",
+			"intothefurther",
+			"thereddoor"
+		]
 	}
 }
