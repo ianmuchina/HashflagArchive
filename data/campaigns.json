@@ -133581,5 +133581,13 @@
 			"londonmarathon",
 			"weruntogether"
 		]
+	},
+	"Minecraft_Microsoft_Minecraft_Legends_2023_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Minecraft_Microsoft_Minecraft_Legends_2023_after/Minecraft_Microsoft_Minecraft_Legends_2023_after.png",
+		"startingTimestampMs": 1681887600000,
+		"endingTimestampMs": 1689566340000,
+		"hashTags": [
+			"minecraftlegends"
+		]
 	}
 }
