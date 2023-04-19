@@ -133629,5 +133629,15 @@
 			"dkcasino",
 			"draftkingscasino"
 		]
+	},
+	"DraftKings_Sportsbook_Emoji_Extension_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_Sportsbook_Emoji_Extension_2023/DraftKings_Sportsbook_Emoji_Extension_2023.png",
+		"startingTimestampMs": 1681948800000,
+		"endingTimestampMs": 1689724740000,
+		"hashTags": [
+			"dksportsbook",
+			"draftkingssportsbook",
+			"peoplesparlay"
+		]
 	}
 }
