@@ -133620,5 +133620,14 @@
 			"アスリバリリース前夜祭",
 			"超ド級の近未来を全力で生き抜け"
 		]
+	},
+	"DraftKings_Casino_Branded_Hashtag_Extension": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_Casino_Branded_Hashtag_Extension/DraftKings_Casino_Branded_Hashtag_Extension.png",
+		"startingTimestampMs": 1681921500000,
+		"endingTimestampMs": 1689697500000,
+		"hashTags": [
+			"dkcasino",
+			"draftkingscasino"
+		]
 	}
 }
