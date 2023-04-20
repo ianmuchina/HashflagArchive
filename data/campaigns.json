@@ -133742,5 +133742,13 @@
 			"アースリバイバル",
 			"超ド級の近未来を全力で生き抜け"
 		]
+	},
+	"VCTPacificEmoji_Q2_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/VCTPacificEmoji_Q2_2023/VCTPacificEmoji_Q2_2023.png",
+		"startingTimestampMs": 1682009100000,
+		"endingTimestampMs": 1685343600000,
+		"hashTags": [
+			"vctpacific"
+		]
 	}
 }
