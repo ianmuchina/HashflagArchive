@@ -133750,5 +133750,17 @@
 		"hashTags": [
 			"vctpacific"
 		]
+	},
+	"Milatarie_Gun": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Milatarie_Gun/Milatarie_Gun.png",
+		"startingTimestampMs": 1682028000000,
+		"endingTimestampMs": 1683286800000,
+		"hashTags": [
+			"askmilitariegun",
+			"doitfaster",
+			"lifeunderthegun",
+			"militariegun",
+			"veryhigh"
+		]
 	}
 }
