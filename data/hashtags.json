@@ -91742,18 +91742,22 @@
 	],
 	"にじリバ": [
 		"EarthRevival_Launch_2023_April_before",
-		"EarthRevival_Launch_2023_April_during"
+		"EarthRevival_Launch_2023_April_during",
+		"EarthRevival_Launch_2023_April_after"
 	],
 	"アスリバ": [
 		"EarthRevival_Launch_2023_April_before",
-		"EarthRevival_Launch_2023_April_during"
+		"EarthRevival_Launch_2023_April_during",
+		"EarthRevival_Launch_2023_April_after"
 	],
 	"アスリバリリース前夜祭": [
 		"EarthRevival_Launch_2023_April_before",
-		"EarthRevival_Launch_2023_April_during"
+		"EarthRevival_Launch_2023_April_during",
+		"EarthRevival_Launch_2023_April_after"
 	],
 	"アースリバイバル": [
-		"EarthRevival_Launch_2023_April_before"
+		"EarthRevival_Launch_2023_April_before",
+		"EarthRevival_Launch_2023_April_after"
 	],
 	"一番搾り1万人体験会": [
 		"KIRINBEER_Ichibanshibori_AprJapan2023Emoji"
@@ -91763,7 +91767,8 @@
 	],
 	"超ド級の近未来を全力で生き抜け": [
 		"EarthRevival_Launch_2023_April_before",
-		"EarthRevival_Launch_2023_April_during"
+		"EarthRevival_Launch_2023_April_during",
+		"EarthRevival_Launch_2023_April_after"
 	],
 	"hariharikongsikfc": [
 		"KFC_Bucket_Kongsi"
