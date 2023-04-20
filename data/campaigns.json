@@ -133714,5 +133714,13 @@
 			"에리얼",
 			"인어공주"
 		]
+	},
+	"Buju_Banton_and_Snoop_Dogg_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Buju_Banton_and_Snoop_Dogg_2023/Buju_Banton_and_Snoop_Dogg_2023.png",
+		"startingTimestampMs": 1681963200000,
+		"endingTimestampMs": 1685632380000,
+		"hashTags": [
+			"highlife"
+		]
 	}
 }
