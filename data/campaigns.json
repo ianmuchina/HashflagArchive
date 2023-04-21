@@ -133762,5 +133762,13 @@
 			"militariegun",
 			"veryhigh"
 		]
+	},
+	"Apple_Ghosted_Cactus_Fix": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Apple_Ghosted_Cactus_Fix/Apple_Ghosted_Cactus_Fix.png",
+		"startingTimestampMs": 1682038800000,
+		"endingTimestampMs": 1684133940000,
+		"hashTags": [
+			"ghosted"
+		]
 	}
 }
