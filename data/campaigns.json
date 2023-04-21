@@ -133792,5 +133792,13 @@
 			"turkishairlines",
 			"türkhavayolları"
 		]
+	},
+	"Saudi_Aramco_Eid_Al_Fitr_2023_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Saudi_Aramco_Eid_Al_Fitr_2023_after/Saudi_Aramco_Eid_Al_Fitr_2023_after.png",
+		"startingTimestampMs": 1682110800000,
+		"endingTimestampMs": 1682542740000,
+		"hashTags": [
+			"تجمعنا_الفرحة"
+		]
 	}
 }
