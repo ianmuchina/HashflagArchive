@@ -133770,5 +133770,15 @@
 		"hashTags": [
 			"ghosted"
 		]
+	},
+	"Tiesto_Drive": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Tiesto_Drive/Tiesto_Drive.png",
+		"startingTimestampMs": 1682049600000,
+		"endingTimestampMs": 1688229780000,
+		"hashTags": [
+			"allnighter",
+			"tiesto",
+			"tiestodrive"
+		]
 	}
 }
