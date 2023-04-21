@@ -133780,5 +133780,17 @@
 			"tiesto",
 			"tiestodrive"
 		]
+	},
+	"TurkishAirlines_s_Emoji-2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TurkishAirlines_s_Emoji-2023/TurkishAirlines_s_Emoji-2023.png",
+		"startingTimestampMs": 1682067600000,
+		"endingTimestampMs": 1689897600000,
+		"hashTags": [
+			"championsintheskies",
+			"epicchallenge",
+			"morethanafinal",
+			"turkishairlines",
+			"türkhavayolları"
+		]
 	}
 }
