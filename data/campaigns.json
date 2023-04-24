@@ -133850,5 +133850,16 @@
 			"レトロ千鳥",
 			"千鳥のレイクシアター"
 		]
+	},
+	"Globo_BBB23_Finale_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_BBB23_Finale_2023/Globo_BBB23_Finale_2023.png",
+		"startingTimestampMs": 1682348400000,
+		"endingTimestampMs": 1682632800000,
+		"hashTags": [
+			"bbb23",
+			"finalbbb",
+			"finalbbb23",
+			"redebbb"
+		]
 	}
 }
