@@ -133808,5 +133808,24 @@
 		"hashTags": [
 			"lvprefall23"
 		]
+	},
+	"Xbox_Game_Pass": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Xbox_Game_Pass/Xbox_Game_Pass.png",
+		"startingTimestampMs": 1682319600000,
+		"endingTimestampMs": 1690095540000,
+		"hashTags": [
+			"gamepass",
+			"goodluckhavefun",
+			"xboxgamepass"
+		]
+	},
+	"XboxShowcase_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/XboxShowcase_2023/XboxShowcase_2023.png",
+		"startingTimestampMs": 1682319600000,
+		"endingTimestampMs": 1690095540000,
+		"hashTags": [
+			"xbox",
+			"xboxshowcase"
+		]
 	}
 }

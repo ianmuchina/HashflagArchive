@@ -20712,7 +20712,8 @@
 	],
 	"gamepass": [
 		"Microsoft_Xbox_E3_June_2022_v2",
-		"Xbox_Stoutland_and_Jonesy_Sept_2022"
+		"Xbox_Stoutland_and_Jonesy_Sept_2022",
+		"Xbox_Game_Pass"
 	],
 	"gamepasshaspcgames": [
 		"Xbox_The_Game_Awards_2021"
@@ -65350,7 +65351,8 @@
 		"Xbox_SeriesX_2020_v2",
 		"Xbox_SeriesX_2020",
 		"Microsoft_Xbox_E3_June_2022_v2",
-		"Xbox_France_Dec_2022"
+		"Xbox_France_Dec_2022",
+		"XboxShowcase_2023"
 	],
 	"xbox20": [
 		"20YearsOfXbox_2021",
@@ -65386,7 +65388,8 @@
 		"Xbox_GamePass_August_2020",
 		"XboxGamePass_2021",
 		"Microsoft_Xbox_E3_June_2022_v2",
-		"Xbox_Stoutland_and_Jonesy_Sept_2022"
+		"Xbox_Stoutland_and_Jonesy_Sept_2022",
+		"Xbox_Game_Pass"
 	],
 	"xboxgamepasspc": [
 		"Xbox_GamePass_Dec_2020",
@@ -92337,5 +92340,11 @@
 	],
 	"lvprefall23": [
 		"Louis_Vuitton-Pre_Fall_Seoul_Fashion_Show"
+	],
+	"goodluckhavefun": [
+		"Xbox_Game_Pass"
+	],
+	"xboxshowcase": [
+		"XboxShowcase_2023"
 	]
 }
