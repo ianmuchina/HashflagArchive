@@ -133861,5 +133861,261 @@
 			"finalbbb23",
 			"redebbb"
 		]
+	},
+	"NHL_Playoff_Extension_ALLCAPS": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_ALLCAPS/NHL_Playoff_Extension_ALLCAPS.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"allcaps"
+		]
+	},
+	"NHL_Playoff_Extension_Blackhawks": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_Blackhawks/NHL_Playoff_Extension_Blackhawks.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"blackhawks"
+		]
+	},
+	"NHL_Playoff_Extension_Canucks": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_Canucks/NHL_Playoff_Extension_Canucks.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"canucks"
+		]
+	},
+	"NHL_Playoff_Extension_CBJ": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_CBJ/NHL_Playoff_Extension_CBJ.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"cbj"
+		]
+	},
+	"NHL_Playoff_Extension_Flames": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_Flames/NHL_Playoff_Extension_Flames.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"flames"
+		]
+	},
+	"NHL_Playoff_Extension_Anaheim": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_Anaheim/NHL_Playoff_Extension_Anaheim.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"flytogether"
+		]
+	},
+	"NHL_Playoff_Extension_FueledByPhilly": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_FueledByPhilly/NHL_Playoff_Extension_FueledByPhilly.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"fueledbyphilly"
+		]
+	},
+	"NHL_Playoff_Extension_GoAvsGo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_GoAvsGo/NHL_Playoff_Extension_GoAvsGo.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"goavsgo"
+		]
+	},
+	"NHL_Playoff_Extension_GoBolts": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_GoBolts/NHL_Playoff_Extension_GoBolts.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"gobolts"
+		]
+	},
+	"NHL_Playoff_Extension_GoHabsGo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_GoHabsGo/NHL_Playoff_Extension_GoHabsGo.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"gohabsgo"
+		]
+	},
+	"NHL_Playoff_Extension_GoJetsGo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_GoJetsGo/NHL_Playoff_Extension_GoJetsGo.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"gojetsgo"
+		]
+	},
+	"NHL_Playoff_Extension_GoKingsGo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_GoKingsGo/NHL_Playoff_Extension_GoKingsGo.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"gokingsgo"
+		]
+	},
+	"NHL_Playoff_Extension_GoSensGo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_GoSensGo/NHL_Playoff_Extension_GoSensGo.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"gosensgo"
+		]
+	},
+	"NHL_Playoff_Extension_Isles": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_Isles/NHL_Playoff_Extension_Isles.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"isles"
+		]
+	},
+	"NHL_Playoff_Extension_LeafsForever": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_LeafsForever/NHL_Playoff_Extension_LeafsForever.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"leafsforever"
+		]
+	},
+	"NHL_Playoff_Extension_Buffalo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_Buffalo/NHL_Playoff_Extension_Buffalo.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"letsgobuffalo"
+		]
+	},
+	"NHL_Playoff_Extension_LetsGoCanes": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_LetsGoCanes/NHL_Playoff_Extension_LetsGoCanes.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"letsgocanes"
+		]
+	},
+	"NHL_Playoff_Extension_LetsGoOilers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_LetsGoOilers/NHL_Playoff_Extension_LetsGoOilers.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"letsgooilers"
+		]
+	},
+	"NHL_Playoff_Extension_LetsGoPens": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_LetsGoPens/NHL_Playoff_Extension_LetsGoPens.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"letsgopens"
+		]
+	},
+	"NHL_Playoff_Extension_LGRW": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_LGRW/NHL_Playoff_Extension_LGRW.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"lgrw"
+		]
+	},
+	"NHL_Playoff_Extension_mnwild": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_mnwild/NHL_Playoff_Extension_mnwild.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"mnwild"
+		]
+	},
+	"NHL_Playoff_Extension": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension/NHL_Playoff_Extension.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"nhlbruins"
+		]
+	},
+	"NHL_Playoff_Extension_NJDevils": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_NJDevils/NHL_Playoff_Extension_NJDevils.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"njdevils"
+		]
+	},
+	"NHL_Playoff_Extension_NYR": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_NYR/NHL_Playoff_Extension_NYR.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"nyr"
+		]
+	},
+	"NHL_Playoff_Extension_SeaKraken": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_SeaKraken/NHL_Playoff_Extension_SeaKraken.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"seakraken"
+		]
+	},
+	"NHL_Playoff_Extension_SJSharks": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_SJSharks/NHL_Playoff_Extension_SJSharks.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"sjsharks"
+		]
+	},
+	"NHL_Playoff_Extension_Smashville": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_Smashville/NHL_Playoff_Extension_Smashville.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"smashville"
+		]
+	},
+	"NHL_Playoff_Extension_stlblues": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_stlblues/NHL_Playoff_Extension_stlblues.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"stlblues"
+		]
+	},
+	"NHL_Playoff_Extension_TexasHockey": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_TexasHockey/NHL_Playoff_Extension_TexasHockey.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"texashockey"
+		]
+	},
+	"NHL_Playoff_Extension_TimeToHunt": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_TimeToHunt/NHL_Playoff_Extension_TimeToHunt.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"timetohunt"
+		]
+	},
+	"NHL_Playoff_Extension_VegasBorn": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_VegasBorn/NHL_Playoff_Extension_VegasBorn.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"vegasborn"
+		]
+	},
+	"NHL_Playoff_Extension_Arizona": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHL_Playoff_Extension_Arizona/NHL_Playoff_Extension_Arizona.png",
+		"startingTimestampMs": 1682380800000,
+		"endingTimestampMs": 1693458000000,
+		"hashTags": [
+			"yotes"
+		]
 	}
 }
