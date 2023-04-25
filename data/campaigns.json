@@ -134117,5 +134117,36 @@
 		"hashTags": [
 			"yotes"
 		]
+	},
+	"Paramount_Pictures_Transformers_RiseoftheBeasts_AUTOBOT_before_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramount_Pictures_Transformers_RiseoftheBeasts_AUTOBOT_before_v2/Paramount_Pictures_Transformers_RiseoftheBeasts_AUTOBOT_before_v2.png",
+		"startingTimestampMs": 1682409600000,
+		"endingTimestampMs": 1686211140000,
+		"hashTags": [
+			"autobots",
+			"optimusprime",
+			"transformers",
+			"トランスフォーマー",
+			"트랜스포머"
+		]
+	},
+	"EXNOA_TOUKEN_STAFF_NewCharaLaunch_MikazukiMunechika_2023_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EXNOA_TOUKEN_STAFF_NewCharaLaunch_MikazukiMunechika_2023_Branded_Hashtag/EXNOA_TOUKEN_STAFF_NewCharaLaunch_MikazukiMunechika_2023_Branded_Hashtag.png",
+		"startingTimestampMs": 1682409600000,
+		"endingTimestampMs": 1683039540000,
+		"hashTags": [
+			"とうらぶリニューアル",
+			"三日月宗近",
+			"刀剣乱舞"
+		]
+	},
+	"EXNOA_TOUKEN_STAFF_NewCharaLaunch_IshidaMasamune_2023_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EXNOA_TOUKEN_STAFF_NewCharaLaunch_IshidaMasamune_2023_Branded_Hashtag/EXNOA_TOUKEN_STAFF_NewCharaLaunch_IshidaMasamune_2023_Branded_Hashtag.png",
+		"startingTimestampMs": 1682409600000,
+		"endingTimestampMs": 1683039540000,
+		"hashTags": [
+			"新刀剣男士",
+			"石田正宗"
+		]
 	}
 }
