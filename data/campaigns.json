@@ -134148,5 +134148,29 @@
 			"新刀剣男士",
 			"石田正宗"
 		]
+	},
+	"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MiHoYo_StarRail_Emoji_March7th_2023_v6_Before/MiHoYo_StarRail_Emoji_March7th_2023_v6_Before.png",
+		"startingTimestampMs": 1682434800000,
+		"endingTimestampMs": 1682866800000,
+		"hashTags": [
+			"honkaistarrail",
+			"starrailallaboard",
+			"スターレイル",
+			"スターレイルリリース",
+			"스타레일그랜드오픈"
+		]
+	},
+	"Shinsei_Financial_Co_Ltd_2023_after_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Shinsei_Financial_Co_Ltd_2023_after_v2/Shinsei_Financial_Co_Ltd_2023_after_v2.png",
+		"startingTimestampMs": 1682434800000,
+		"endingTimestampMs": 1690210740000,
+		"hashTags": [
+			"レはレイクのレ",
+			"レイク",
+			"レイマル",
+			"レトロ千鳥",
+			"千鳥のレイクシアター"
+		]
 	}
 }
