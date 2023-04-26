@@ -134314,5 +134314,15 @@
 			"inabudhabi",
 			"في_أبوظبي"
 		]
+	},
+	"Lancamento_MS_2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lancamento_MS_2/Lancamento_MS_2.png",
+		"startingTimestampMs": 1682506800000,
+		"endingTimestampMs": 1683025200000,
+		"hashTags": [
+			"marinasena",
+			"olhonogato",
+			"vícioinerente"
+		]
 	}
 }
