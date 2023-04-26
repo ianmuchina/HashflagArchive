@@ -134654,5 +134654,13 @@
 			"트라이튼",
 			"트라이튼왕"
 		]
+	},
+	"Gag_Order-Music_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Gag_Order-Music_2023/Gag_Order-Music_2023.png",
+		"startingTimestampMs": 1682518200000,
+		"endingTimestampMs": 1690292280000,
+		"hashTags": [
+			"gagorder"
+		]
 	}
 }
