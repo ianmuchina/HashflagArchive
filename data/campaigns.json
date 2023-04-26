@@ -134172,5 +134172,21 @@
 			"レトロ千鳥",
 			"千鳥のレイクシアター"
 		]
+	},
+	"Eat_The_Acid": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Eat_The_Acid/Eat_The_Acid.png",
+		"startingTimestampMs": 1682481600000,
+		"endingTimestampMs": 1690292520000,
+		"hashTags": [
+			"eattheacid"
+		]
+	},
+	"RCA_Records_Kesha": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RCA_Records_Kesha/RCA_Records_Kesha.png",
+		"startingTimestampMs": 1682481600000,
+		"endingTimestampMs": 1690291200000,
+		"hashTags": [
+			"kesha"
+		]
 	}
 }
