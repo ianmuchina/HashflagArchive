@@ -17191,7 +17191,8 @@
 		"NAV_2020"
 	],
 	"emi_gala": [
-		"Emi_Gala_2022"
+		"Emi_Gala_2022",
+		"The_Emigala_2023"
 	],
 	"emicidaamarelo": [
 		"EmicidaAmarEloDoc_2020",
@@ -17204,7 +17205,8 @@
 		"EmicidaAmarEloDoc_2020"
 	],
 	"emigala": [
-		"Emi_Gala_2022"
+		"Emi_Gala_2022",
+		"The_Emigala_2023"
 	],
 	"emigala2022": [
 		"Emi_Gala_2022"
@@ -56841,7 +56843,8 @@
 		"AmazonStudios_LouisWain_2021"
 	],
 	"theemigala": [
-		"Emi_Gala_2022"
+		"Emi_Gala_2022",
+		"The_Emigala_2023"
 	],
 	"theempire": [
 		"TheEmpire_Disney_IN_2021"
@@ -68298,7 +68301,8 @@
 		"Beijing_Winter_Olympics_2022"
 	],
 	"ايمي_غالا": [
-		"Emi_Gala_2022"
+		"Emi_Gala_2022",
+		"The_Emigala_2023"
 	],
 	"باب_قلبي": [
 		"Ahlam_2021_P2",
@@ -93566,5 +93570,8 @@
 	],
 	"메이플스토리_20주년": [
 		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during"
+	],
+	"emigala2023": [
+		"The_Emigala_2023"
 	]
 }

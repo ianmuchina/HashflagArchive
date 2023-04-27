@@ -135056,5 +135056,17 @@
 			"메이플스토리",
 			"메이플스토리_20주년"
 		]
+	},
+	"The_Emigala_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/The_Emigala_2023/The_Emigala_2023.png",
+		"startingTimestampMs": 1682610420000,
+		"endingTimestampMs": 1690386360000,
+		"hashTags": [
+			"emi_gala",
+			"emigala",
+			"emigala2023",
+			"theemigala",
+			"ايمي_غالا"
+		]
 	}
 }
