@@ -135037,5 +135037,13 @@
 			"thehobby",
 			"whodoyoucollect"
 		]
+	},
+	"Panini_America_NFL_Draft_RatedRookie_hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Panini_America_NFL_Draft_RatedRookie_hashfetti/Panini_America_NFL_Draft_RatedRookie_hashfetti.png",
+		"startingTimestampMs": 1682578800000,
+		"endingTimestampMs": 1682665140000,
+		"hashTags": [
+			"ratedrookie"
+		]
 	}
 }
