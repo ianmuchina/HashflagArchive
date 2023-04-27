@@ -134673,5 +134673,13 @@
 			"think2023",
 			"thinkontour"
 		]
+	},
+	"NFLDraft_Hashfetti_Fix": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFLDraft_Hashfetti_Fix/NFLDraft_Hashfetti_Fix.png",
+		"startingTimestampMs": 1682553600000,
+		"endingTimestampMs": 1682665140000,
+		"hashTags": [
+			"nfldraft"
+		]
 	}
 }
