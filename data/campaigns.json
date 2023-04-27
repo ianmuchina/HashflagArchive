@@ -134693,5 +134693,263 @@
 			"سماء_العلا",
 			"لحظات_العلا"
 		]
+	},
+	"Vic_Mensa": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Vic_Mensa/Vic_Mensa.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1690301340000,
+		"hashTags": [
+			"$wish",
+			"swish",
+			"vicmensa"
+		]
+	},
+	"Buffalo_Bills_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Buffalo_Bills_23/Buffalo_Bills_23.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707140940000,
+		"hashTags": [
+			"billsmafia"
+		]
+	},
+	"NFL_Arizona_Cardinals": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Arizona_Cardinals/NFL_Arizona_Cardinals.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707142020000,
+		"hashTags": [
+			"birdgang"
+		]
+	},
+	"Los_Angeles_Chargers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Los_Angeles_Chargers/Los_Angeles_Chargers.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707142140000,
+		"hashTags": [
+			"boltup"
+		]
+	},
+	"Denver_Broncos": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Denver_Broncos/Denver_Broncos.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707141180000,
+		"hashTags": [
+			"broncoscountry"
+		]
+	},
+	"Carolina_Panthers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Carolina_Panthers/Carolina_Panthers.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707144420000,
+		"hashTags": [
+			"carolinapanthers"
+		]
+	},
+	"Kansas_City_Chiefs": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Kansas_City_Chiefs/Kansas_City_Chiefs.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707142440000,
+		"hashTags": [
+			"chiefskingdom"
+		]
+	},
+	"NFL_Chicago_Bears": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Chicago_Bears/NFL_Chicago_Bears.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707140520000,
+		"hashTags": [
+			"dabears"
+		]
+	},
+	"Dallas_Cowboys_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Dallas_Cowboys_2023/Dallas_Cowboys_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707143940000,
+		"hashTags": [
+			"dallascowboys"
+		]
+	},
+	"Cleveland_Browns": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Cleveland_Browns/Cleveland_Browns.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707141480000,
+		"hashTags": [
+			"dawgpound"
+		]
+	},
+	"Atlanta_Falcons_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Atlanta_Falcons_2023/Atlanta_Falcons_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707141720000,
+		"hashTags": [
+			"dirtybirds"
+		]
+	},
+	"Jacksonville_Jags_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Jacksonville_Jags_2023/Jacksonville_Jags_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707142620000,
+		"hashTags": [
+			"duuuval"
+		]
+	},
+	"Miami_Dolphins_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Miami_Dolphins_2023/Miami_Dolphins_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707139860000,
+		"hashTags": [
+			"finsup"
+		]
+	},
+	"Philadelphia_Eagles_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Philadelphia_Eagles_2023/Philadelphia_Eagles_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707141540000,
+		"hashTags": [
+			"flyeaglesfly"
+		]
+	},
+	"NFL_New_England_Patriots": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_New_England_Patriots/NFL_New_England_Patriots.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707144600000,
+		"hashTags": [
+			"foreverne"
+		]
+	},
+	"NFL_Colts": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Colts/NFL_Colts.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707142980000,
+		"hashTags": [
+			"fortheshoe"
+		]
+	},
+	"NFL_Draft": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Draft/NFL_Draft.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1706792820000,
+		"hashTags": [
+			"fttb"
+		]
+	},
+	"Tampa_Bay_Bucs": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Tampa_Bay_Bucs/Tampa_Bay_Bucs.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707141900000,
+		"hashTags": [
+			"gobucs"
+		]
+	},
+	"Green_Bay_Packers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Green_Bay_Packers/Green_Bay_Packers.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707144300000,
+		"hashTags": [
+			"gopackgo"
+		]
+	},
+	"Pittsburgh_Steelers_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pittsburgh_Steelers_2023/Pittsburgh_Steelers_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707145500000,
+		"hashTags": [
+			"herewego"
+		]
+	},
+	"Washington_Commanders_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Washington_Commanders_2023/Washington_Commanders_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707143340000,
+		"hashTags": [
+			"httc"
+		]
+	},
+	"NY_Giants_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NY_Giants_2023/NY_Giants_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707142020000,
+		"hashTags": [
+			"nygiants"
+		]
+	},
+	"Detroit_Lions": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Detroit_Lions/Detroit_Lions.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707144060000,
+		"hashTags": [
+			"onepride"
+		]
+	},
+	"Las_Vegas_Raiders": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Las_Vegas_Raiders/Las_Vegas_Raiders.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707144720000,
+		"hashTags": [
+			"raidernation"
+		]
+	},
+	"NFL_LA_Rams": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_LA_Rams/NFL_LA_Rams.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707144960000,
+		"hashTags": [
+			"ramshouse"
+		]
+	},
+	"NFL_Baltimore_Ravens": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Baltimore_Ravens/NFL_Baltimore_Ravens.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707145200000,
+		"hashTags": [
+			"ravensflock"
+		]
+	},
+	"NFL_Cincy_Bengals": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Cincy_Bengals/NFL_Cincy_Bengals.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707140700000,
+		"hashTags": [
+			"rulethejungle"
+		]
+	},
+	"NFL_New_Orleans_Saints": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_New_Orleans_Saints/NFL_New_Orleans_Saints.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707145320000,
+		"hashTags": [
+			"saints"
+		]
+	},
+	"Seattle_Seahawks_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Seattle_Seahawks_2023/Seattle_Seahawks_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707145380000,
+		"hashTags": [
+			"seahawks"
+		]
+	},
+	"NFL_Minnesota_Vikings": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Minnesota_Vikings/NFL_Minnesota_Vikings.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707145860000,
+		"hashTags": [
+			"skol"
+		]
+	},
+	"NY_Jets_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NY_Jets_2023/NY_Jets_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707143760000,
+		"hashTags": [
+			"takeflight"
+		]
+	},
+	"Houston_Texans_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Houston_Texans_2023/Houston_Texans_2023.png",
+		"startingTimestampMs": 1682568000000,
+		"endingTimestampMs": 1707145620000,
+		"hashTags": [
+			"wearetexans"
+		]
 	}
 }
