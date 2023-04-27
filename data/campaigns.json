@@ -135076,5 +135076,23 @@
 		"hashTags": [
 			"gopackgo"
 		]
+	},
+	"Hollywood_Bets_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hollywood_Bets_Emoji_2023/Hollywood_Bets_Emoji_2023.png",
+		"startingTimestampMs": 1682625600000,
+		"endingTimestampMs": 1690348560000,
+		"hashTags": [
+			"hdj",
+			"hollywoodbet",
+			"hollywoodbetsdurbanjuly"
+		]
+	},
+	"NFL2023_Carolina_Panthers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL2023_Carolina_Panthers/NFL2023_Carolina_Panthers.png",
+		"startingTimestampMs": 1682553600000,
+		"endingTimestampMs": 1707144420000,
+		"hashTags": [
+			"keeppounding"
+		]
 	}
 }
