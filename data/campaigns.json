@@ -135045,5 +135045,16 @@
 		"hashTags": [
 			"ratedrookie"
 		]
+	},
+	"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Nexon_MapleStory_KR_20thAnniversary_Q2_23_during/Nexon_MapleStory_KR_20thAnniversary_Q2_23_during.png",
+		"startingTimestampMs": 1682607600000,
+		"endingTimestampMs": 1682693940000,
+		"hashTags": [
+			"maplestory",
+			"메이플",
+			"메이플스토리",
+			"메이플스토리_20주년"
+		]
 	}
 }

@@ -82832,7 +82832,8 @@
 		"Disneyplus_Cars_on_the_Road_Mater_2022"
 	],
 	"메이플": [
-		"Maplestory_Update_2020_MapleTV"
+		"Maplestory_Update_2020_MapleTV",
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during"
 	],
 	"메이플m": [
 		"MaplestoryM_Angelicbuster_2020"
@@ -82844,7 +82845,8 @@
 		"Maplestory_Update_2020_MapleTV"
 	],
 	"메이플스토리": [
-		"Maplestory_Update_2020_MapleTV"
+		"Maplestory_Update_2020_MapleTV",
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during"
 	],
 	"메이플스토리m": [
 		"MaplestoryM_Angelicbuster_2020"
@@ -93558,5 +93560,11 @@
 	],
 	"vicmensa": [
 		"Vic_Mensa"
+	],
+	"maplestory": [
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during"
+	],
+	"메이플스토리_20주년": [
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during"
 	]
 }
