@@ -42607,7 +42607,8 @@
 		"PaniniAmericaBrand_Q3Q4_2021",
 		"Panini_America_RatedRookie_PrT_Spotlight_Q1_Q2_2022_v3_extend",
 		"Panini_America_NFL_World_Cup_Sept_2022",
-		"Panini_America_NFL_Draft_RatedRookie_before"
+		"Panini_America_NFL_Draft_RatedRookie_before",
+		"Panini_America_NFL_Draft_RatedRookie_during"
 	],
 	"panok": [
 		"ParanormalActivityNextofKin_2021"
@@ -45519,7 +45520,8 @@
 		"PaniniAmericaBrand_Q3Q4_2021",
 		"Panini_America_RatedRookie_PrT_Spotlight_Q1_Q2_2022_v3_extend",
 		"Panini_America_NFL_World_Cup_Sept_2022",
-		"Panini_America_NFL_Draft_RatedRookie_before"
+		"Panini_America_NFL_Draft_RatedRookie_before",
+		"Panini_America_NFL_Draft_RatedRookie_during"
 	],
 	"prk": [
 		"Olympics_Countries_2021_PRK"
@@ -57104,7 +57106,8 @@
 	"thehobby": [
 		"PaniniAmericaQ2_21",
 		"PaniniAmericaBrand_Q3Q4_2021",
-		"Panini_America_NFL_Draft_RatedRookie_before"
+		"Panini_America_NFL_Draft_RatedRookie_before",
+		"Panini_America_NFL_Draft_RatedRookie_during"
 	],
 	"thehomedepotspringdiy": [
 		"HomeDepotSpring_2021"
@@ -64299,7 +64302,8 @@
 		"PaniniAmericaBrand_Q3Q4_2021",
 		"Panini_America_RatedRookie_PrT_Spotlight_Q1_Q2_2022_v3_extend",
 		"Panini_America_NFL_World_Cup_Sept_2022",
-		"Panini_America_NFL_Draft_RatedRookie_before"
+		"Panini_America_NFL_Draft_RatedRookie_before",
+		"Panini_America_NFL_Draft_RatedRookie_during"
 	],
 	"whohasmypig": [
 		"NeonRated_PigtheFilm_June2021"
@@ -85345,7 +85349,8 @@
 	"apequenasereia": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"arabicpoetry2023": [
 		"ArabicPoetry2023"
@@ -85353,12 +85358,14 @@
 	"ariel": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"arielid": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"armeseeleninnot": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -85619,7 +85626,8 @@
 	"diekleinemeerjungfrau": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"directvhomefieldadvantage": [
 		"DTV_MLB_Q32023_BEFORE_HASHFETTI_DIRECTVHomeRun",
@@ -85650,17 +85658,20 @@
 	"disneyapequenasereia": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneyariel": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneyarielid": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneybösewichtursula": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -85668,42 +85679,50 @@
 	"disneykleinemeerjungfrau": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneyküçükdenizkızı": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneylapetitesirène": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneylittlemermaid": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneylittlemermaidid": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneymalasirena": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneynàngtiêncá": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneypequenasereia": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneypeterpan": [
 		"DisneyPlus_PeterPanAndWendy_2023"
@@ -85714,7 +85733,8 @@
 	"disneypetitesirène": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneyphảndiệnursula": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -85722,12 +85742,14 @@
 	"disneysirenetta": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneysirenita": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneyursula": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -85750,7 +85772,8 @@
 	"disneyаріель": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneyлиходійкаурсула": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -85758,7 +85781,8 @@
 	"disneyрусалонька": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"disneyурсула": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -86089,7 +86113,8 @@
 	"kleinemeerjungfrau": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"koiunited": [
 		"League_of_Legends_Esports_Team_Emojis_KOI_2023"
@@ -86100,7 +86125,8 @@
 	"küçükdenizkızı": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"l7nnonnomultishow": [
 		"Lollapalooza_2023",
@@ -86115,22 +86141,26 @@
 	"lapetitesirène": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"lasirenetta": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"lasirenita": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"lasirenitadedisney": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"leap23": [
 		"LEAP_cyber_security_Jan_2023"
@@ -86172,22 +86202,26 @@
 	"littlemermaid": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"littlemermaidid": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"littlemermaidph": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"littlemermaidsg": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"ln4": [
 		"LandoNorris_2023"
@@ -86221,7 +86255,8 @@
 	"malasirena": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"managerdale": [
 		"DisneyTH_AntManAndTheWaspQuantumania_Dale_2023"
@@ -86317,7 +86352,8 @@
 	"nàngtiêncá": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"obeymenightbringer": [
 		"ObeyMe2_Launch_campaign_2023"
@@ -86354,7 +86390,8 @@
 	"pequenasereia": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"peterpan": [
 		"DisneyPlus_PeterPanAndWendy_2023"
@@ -86386,7 +86423,8 @@
 	"petitesirène": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"phùthủybiển": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -86597,12 +86635,14 @@
 	"sirenetta": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"sirenita": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"sorcièredesmers": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -86710,27 +86750,32 @@
 	"thelittlemermaid": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Hashfetti_Fix"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Hashfetti_Fix",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"thelittlemermaidid": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"thelittlemermaidmy": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"thelittlemermaidph": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"thelittlemermaidsg": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"thepeopleschamp": [
 		"Quinn2023"
@@ -86889,7 +86934,8 @@
 	"аріель": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"дженетвандайн": [
 		"DisneyTH_AntManAndTheWaspQuantumania_JanetVanDyne_2023"
@@ -86927,7 +86973,8 @@
 	"русалонька": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"урсула": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -86941,12 +86988,14 @@
 	"אריאל": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"בתהיםהקטנה": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"דיסניאורסולה": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -86954,12 +87003,14 @@
 	"דיסניאריאל": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"דיסניבתהיםהקטנה": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"מכשפתהים": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -86970,12 +87021,14 @@
 	"آريل": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"آريل_ديزني": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"أكثر": [
 		"Alinma_Bank"
@@ -87019,12 +87072,14 @@
 	"حورية_البحر": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"حورية_البحر_ديزني": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"ديزني_بيتر_بان": [
 		"DisneyPlus_PeterPanAndWendy_2023"
@@ -87083,7 +87138,8 @@
 	"ดิสนีย์เงือกน้อยผจญภัย": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"ดิสนีย์เออร์ซูล่า": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -87091,7 +87147,8 @@
 	"ดิสนีย์แอเรียล": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"ตะลุยมิติควอนตัม": [
 		"DisneyTH_AntManAndTheWaspQuantumania_AntManWasp_2023"
@@ -87111,7 +87168,8 @@
 	"เงือกน้อยผจญภัย": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"เจเน็ตแวนไดน์": [
 		"DisneyTH_AntManAndTheWaspQuantumania_JanetVanDyne_2023"
@@ -87167,7 +87225,8 @@
 	"แอเรียล": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"แฮงค์พิม": [
 		"DisneyTH_AntManAndTheWaspQuantumania_HankPym_2023"
@@ -87213,7 +87272,8 @@
 	"アリエル": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"アントマン": [
 		"DisneyTH_AntManAndTheWaspQuantumania_AntMan_2023"
@@ -87316,7 +87376,8 @@
 	"ディズニーアリエル": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"ディズニーアースラ": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -87327,7 +87388,8 @@
 	"ディズニーリトルマーメイド": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"ディズニーヴィランズアースラ": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -87463,7 +87525,8 @@
 	"リトルマーメイド": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"ロッテ新チョコパイ": [
 		"Chocopie_40th_Anniversary_Time_Update"
@@ -87509,7 +87572,8 @@
 	"小美人魚": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"征服者カーン": [
 		"DisneyTH_AntManAndTheWaspQuantumania_KangHelmet_2023"
@@ -87523,7 +87587,8 @@
 	"愛麗兒": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"放置系rpg": [
 		"Loadcomplete_LegendofSlime_2022_v2"
@@ -87545,7 +87610,8 @@
 	"映画リトルマーメイド": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"東京レーニア": [
 		"MtRAINIER_Morinaga_Milk_Industry_MtRainier_2023_Emoji"
@@ -87608,12 +87674,14 @@
 	"迪士尼小美人魚": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"迪士尼愛麗兒": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"迪士尼烏蘇拉": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -87675,12 +87743,14 @@
 	"디즈니_에리얼": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"디즈니_인어공주": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"디즈니빌런울슐라": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -87753,7 +87823,8 @@
 	"에리얼": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"와스프": [
 		"DisneyTH_AntManAndTheWaspQuantumania_TheWasp_2023"
@@ -87764,7 +87835,8 @@
 	"인어공주": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_Before",
-		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During"
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_During",
+		"DisneyTH_TheLittleMermaid_Ariel_2023_V3_After"
 	],
 	"재닛반다인": [
 		"DisneyTH_AntManAndTheWaspQuantumania_JanetVanDyne_2023"
