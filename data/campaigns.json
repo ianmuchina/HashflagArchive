@@ -135068,5 +135068,13 @@
 			"theemigala",
 			"ايمي_غالا"
 		]
+	},
+	"NFL2023_GreenBay_Packers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL2023_GreenBay_Packers/NFL2023_GreenBay_Packers.png",
+		"startingTimestampMs": 1682553600000,
+		"endingTimestampMs": 1707101100000,
+		"hashTags": [
+			"gopackgo"
+		]
 	}
 }
