@@ -82845,7 +82845,8 @@
 	],
 	"메이플": [
 		"Maplestory_Update_2020_MapleTV",
-		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during"
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during",
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_after"
 	],
 	"메이플m": [
 		"MaplestoryM_Angelicbuster_2020"
@@ -82858,7 +82859,8 @@
 	],
 	"메이플스토리": [
 		"Maplestory_Update_2020_MapleTV",
-		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during"
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during",
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_after"
 	],
 	"메이플스토리m": [
 		"MaplestoryM_Angelicbuster_2020"
@@ -93574,10 +93576,12 @@
 		"Vic_Mensa"
 	],
 	"maplestory": [
-		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during"
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during",
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_after"
 	],
 	"메이플스토리_20주년": [
-		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during"
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_during",
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_after"
 	],
 	"emigala2023": [
 		"The_Emigala_2023"
@@ -93608,5 +93612,8 @@
 	],
 	"stonebwoy": [
 		"Def_Jam_StoneBwoy"
+	],
+	"우리가만든_20년의_메이플스토리": [
+		"Nexon_MapleStory_KR_20thAnniversary_Q2_23_after"
 	]
 }

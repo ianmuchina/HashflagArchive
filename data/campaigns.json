@@ -135134,5 +135134,17 @@
 			"thehobby",
 			"whodoyoucollect"
 		]
+	},
+	"Nexon_MapleStory_KR_20thAnniversary_Q2_23_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Nexon_MapleStory_KR_20thAnniversary_Q2_23_after/Nexon_MapleStory_KR_20thAnniversary_Q2_23_after.png",
+		"startingTimestampMs": 1682694000000,
+		"endingTimestampMs": 1690469940000,
+		"hashTags": [
+			"maplestory",
+			"메이플",
+			"메이플스토리",
+			"메이플스토리_20주년",
+			"우리가만든_20년의_메이플스토리"
+		]
 	}
 }
