@@ -135094,5 +135094,25 @@
 		"hashTags": [
 			"keeppounding"
 		]
+	},
+	"Republic_records_Joy_Oladokun": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Republic_records_Joy_Oladokun/Republic_records_Joy_Oladokun.png",
+		"startingTimestampMs": 1682654400000,
+		"endingTimestampMs": 1690293000000,
+		"hashTags": [
+			"acupofjoy",
+			"joyoladokun",
+			"proofoflife"
+		]
+	},
+	"Def_Jam_StoneBwoy": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Def_Jam_StoneBwoy/Def_Jam_StoneBwoy.png",
+		"startingTimestampMs": 1682654400000,
+		"endingTimestampMs": 1690460760000,
+		"hashTags": [
+			"fifthdimension",
+			"sb5d",
+			"stonebwoy"
+		]
 	}
 }
