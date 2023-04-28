@@ -135114,5 +135114,25 @@
 			"sb5d",
 			"stonebwoy"
 		]
+	},
+	"NFLDraft2023_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFLDraft2023_After/NFLDraft2023_After.png",
+		"startingTimestampMs": 1682665200000,
+		"endingTimestampMs": 1682924340000,
+		"hashTags": [
+			"nfldraft"
+		]
+	},
+	"Panini_America_NFL_Draft_RatedRookie_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Panini_America_NFL_Draft_RatedRookie_after/Panini_America_NFL_Draft_RatedRookie_after.png",
+		"startingTimestampMs": 1682665200000,
+		"endingTimestampMs": 1690354740000,
+		"hashTags": [
+			"panininft",
+			"prizm",
+			"ratedrookie",
+			"thehobby",
+			"whodoyoucollect"
+		]
 	}
 }

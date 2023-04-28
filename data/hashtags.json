@@ -39590,7 +39590,8 @@
 	"nfldraft": [
 		"NFLDraft2021",
 		"NFLDraft2022",
-		"NFLDraft_Hashfetti_Fix"
+		"NFLDraft_Hashfetti_Fix",
+		"NFLDraft2023_After"
 	],
 	"nfldraft2021": [
 		"NFLDraft2021"
@@ -42612,7 +42613,8 @@
 		"Panini_America_RatedRookie_PrT_Spotlight_Q1_Q2_2022_v3_extend",
 		"Panini_America_NFL_World_Cup_Sept_2022",
 		"Panini_America_NFL_Draft_RatedRookie_before",
-		"Panini_America_NFL_Draft_RatedRookie_during"
+		"Panini_America_NFL_Draft_RatedRookie_during",
+		"Panini_America_NFL_Draft_RatedRookie_after"
 	],
 	"panok": [
 		"ParanormalActivityNextofKin_2021"
@@ -45525,7 +45527,8 @@
 		"Panini_America_RatedRookie_PrT_Spotlight_Q1_Q2_2022_v3_extend",
 		"Panini_America_NFL_World_Cup_Sept_2022",
 		"Panini_America_NFL_Draft_RatedRookie_before",
-		"Panini_America_NFL_Draft_RatedRookie_during"
+		"Panini_America_NFL_Draft_RatedRookie_during",
+		"Panini_America_NFL_Draft_RatedRookie_after"
 	],
 	"prk": [
 		"Olympics_Countries_2021_PRK"
@@ -46640,7 +46643,8 @@
 		"Rated_Rookie_Test",
 		"RatedRookie_testing",
 		"Panini_America_NFL_Draft_RatedRookie_before",
-		"Panini_America_NFL_Draft_RatedRookie_hashfetti"
+		"Panini_America_NFL_Draft_RatedRookie_hashfetti",
+		"Panini_America_NFL_Draft_RatedRookie_after"
 	],
 	"ratinthekitchen": [
 		"Turner_TBS_Rat_in_the_Kitchen_Mar_2022"
@@ -57113,7 +57117,8 @@
 		"PaniniAmericaQ2_21",
 		"PaniniAmericaBrand_Q3Q4_2021",
 		"Panini_America_NFL_Draft_RatedRookie_before",
-		"Panini_America_NFL_Draft_RatedRookie_during"
+		"Panini_America_NFL_Draft_RatedRookie_during",
+		"Panini_America_NFL_Draft_RatedRookie_after"
 	],
 	"thehomedepotspringdiy": [
 		"HomeDepotSpring_2021"
@@ -64309,7 +64314,8 @@
 		"Panini_America_RatedRookie_PrT_Spotlight_Q1_Q2_2022_v3_extend",
 		"Panini_America_NFL_World_Cup_Sept_2022",
 		"Panini_America_NFL_Draft_RatedRookie_before",
-		"Panini_America_NFL_Draft_RatedRookie_during"
+		"Panini_America_NFL_Draft_RatedRookie_during",
+		"Panini_America_NFL_Draft_RatedRookie_after"
 	],
 	"whohasmypig": [
 		"NeonRated_PigtheFilm_June2021"
