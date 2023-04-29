@@ -135146,5 +135146,15 @@
 			"메이플스토리_20주년",
 			"우리가만든_20년의_메이플스토리"
 		]
+	},
+	"MetGala23V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MetGala23V2/MetGala23V2.png",
+		"startingTimestampMs": 1682725500000,
+		"endingTimestampMs": 1683936000000,
+		"hashTags": [
+			"2023metgala",
+			"metgala",
+			"metgala2023"
+		]
 	}
 }
