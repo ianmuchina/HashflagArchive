@@ -135156,5 +135156,14 @@
 			"metgala",
 			"metgala2023"
 		]
+	},
+	"Republic_records_Peach_PRC": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Republic_records_Peach_PRC/Republic_records_Peach_PRC.png",
+		"startingTimestampMs": 1682740800000,
+		"endingTimestampMs": 1690548900000,
+		"hashTags": [
+			"manicdreampixie",
+			"peachprc"
+		]
 	}
 }
