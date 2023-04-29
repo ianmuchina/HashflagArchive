@@ -6951,7 +6951,8 @@
 		"Binance_Apr_2022_v2",
 		"Binance_Jul_2022",
 		"Binance_Festival_Campaign_Oct_2022",
-		"Binance_2023_Q1_Campaign_Emoji_202301"
+		"Binance_2023_Q1_Campaign_Emoji_202301",
+		"Binance_2023_Q2_Campaign_Emoji_202304"
 	],
 	"binance10m": [
 		"Binance_10M_Follower_Nov_2022"
@@ -7032,7 +7033,8 @@
 	"bitcoinbutton": [
 		"Binance_Flag_Q1_2022_add_BitcoinButton",
 		"Binance_Apr_2022",
-		"Binance_Apr_2022_v2"
+		"Binance_Apr_2022_v2",
+		"Binance_2023_Q2_Campaign_Emoji_202304"
 	],
 	"bitcoincinsinden": [
 		"BTCTurk_2020_v2_ext",
@@ -7572,7 +7574,8 @@
 		"Binance_Apr_2022_v2",
 		"Binance_Jul_2022",
 		"Binance_Festival_Campaign_Oct_2022",
-		"Binance_2023_Q1_Campaign_Emoji_202301"
+		"Binance_2023_Q1_Campaign_Emoji_202301",
+		"Binance_2023_Q2_Campaign_Emoji_202304"
 	],
 	"bng": [
 		"ICCT20WorldCup_2021_BNG"
@@ -93624,5 +93627,11 @@
 	],
 	"peachprc": [
 		"Republic_records_Peach_PRC"
+	],
+	"binancepizza": [
+		"Binance_2023_Q2_Campaign_Emoji_202304"
+	],
+	"binanceturns6": [
+		"Binance_2023_Q2_Campaign_Emoji_202304"
 	]
 }
