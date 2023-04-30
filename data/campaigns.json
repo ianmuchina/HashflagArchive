@@ -135198,5 +135198,17 @@
 			"龍角散",
 			"龍角散ダイレクト"
 		]
+	},
+	"AQUADULU_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AQUADULU_2023/AQUADULU_2023.png",
+		"startingTimestampMs": 1682874000000,
+		"endingTimestampMs": 1690650000000,
+		"hashTags": [
+			"aqua",
+			"aquadingin",
+			"aquadulu",
+			"aquamurni",
+			"hanyaaqua"
+		]
 	}
 }
