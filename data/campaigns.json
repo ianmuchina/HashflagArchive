@@ -135177,5 +135177,26 @@
 			"bitcoinbutton",
 			"bnb"
 		]
+	},
+	"MiHoYo_StarRail_Emoji_March7th_2023_v6_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MiHoYo_StarRail_Emoji_March7th_2023_v6_During/MiHoYo_StarRail_Emoji_March7th_2023_v6_During.png",
+		"startingTimestampMs": 1682866800000,
+		"endingTimestampMs": 1682953200000,
+		"hashTags": [
+			"honkaistarrail",
+			"starrailallaboard",
+			"スターレイルリリース",
+			"스타레일그랜드오픈"
+		]
+	},
+	"Ryukakusan_PR_May_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ryukakusan_PR_May_2023/Ryukakusan_PR_May_2023.png",
+		"startingTimestampMs": 1682866800000,
+		"endingTimestampMs": 1685545140000,
+		"hashTags": [
+			"祭りののどにも龍角散",
+			"龍角散",
+			"龍角散ダイレクト"
+		]
 	}
 }
