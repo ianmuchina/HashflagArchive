@@ -135210,5 +135210,15 @@
 			"aquamurni",
 			"hanyaaqua"
 		]
+	},
+	"DD_Osama-music_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DD_Osama-music_2023/DD_Osama-music_2023.png",
+		"startingTimestampMs": 1682913600000,
+		"endingTimestampMs": 1690293780000,
+		"hashTags": [
+			"ddosama",
+			"everything4notti",
+			"here2stay"
+		]
 	}
 }
