@@ -135220,5 +135220,29 @@
 			"everything4notti",
 			"here2stay"
 		]
+	},
+	"Google_IO_2023_Media_Monks_Branded_Hashtag_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Google_IO_2023_Media_Monks_Branded_Hashtag_2023/Google_IO_2023_Media_Monks_Branded_Hashtag_2023.png",
+		"startingTimestampMs": 1682953200000,
+		"endingTimestampMs": 1684342800000,
+		"hashTags": [
+			"googleio",
+			"googleio2023",
+			"googleio23",
+			"io2023",
+			"io23"
+		]
+	},
+	"MiHoYo_StarRail_Emoji_March7th_2023_v6_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MiHoYo_StarRail_Emoji_March7th_2023_v6_After/MiHoYo_StarRail_Emoji_March7th_2023_v6_After.png",
+		"startingTimestampMs": 1682953200000,
+		"endingTimestampMs": 1690210800000,
+		"hashTags": [
+			"honkaistarrail",
+			"starrailallaboard",
+			"スターレイル",
+			"スターレイルリリース",
+			"스타레일그랜드오픈"
+		]
 	}
 }

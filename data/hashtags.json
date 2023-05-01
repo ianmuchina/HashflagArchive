@@ -22503,7 +22503,8 @@
 	],
 	"googleio": [
 		"GoogleIO2021",
-		"Google_IO_Q2_2022"
+		"Google_IO_Q2_2022",
+		"Google_IO_2023_Media_Monks_Branded_Hashtag_2023"
 	],
 	"googleio2021": [
 		"GoogleIO2021"
@@ -92638,22 +92639,27 @@
 	],
 	"honkaistarrail": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
-		"MiHoYo_StarRail_Emoji_March7th_2023_v6_During"
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_During",
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After"
 	],
 	"starrailallaboard": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
-		"MiHoYo_StarRail_Emoji_March7th_2023_v6_During"
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_During",
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After"
 	],
 	"スターレイル": [
-		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before"
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After"
 	],
 	"スターレイルリリース": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
-		"MiHoYo_StarRail_Emoji_March7th_2023_v6_During"
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_During",
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After"
 	],
 	"스타레일그랜드오픈": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
-		"MiHoYo_StarRail_Emoji_March7th_2023_v6_During"
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_During",
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After"
 	],
 	"eattheacid": [
 		"Eat_The_Acid"
@@ -93670,5 +93676,17 @@
 	],
 	"here2stay": [
 		"DD_Osama-music_2023"
+	],
+	"googleio2023": [
+		"Google_IO_2023_Media_Monks_Branded_Hashtag_2023"
+	],
+	"googleio23": [
+		"Google_IO_2023_Media_Monks_Branded_Hashtag_2023"
+	],
+	"io2023": [
+		"Google_IO_2023_Media_Monks_Branded_Hashtag_2023"
+	],
+	"io23": [
+		"Google_IO_2023_Media_Monks_Branded_Hashtag_2023"
 	]
 }
