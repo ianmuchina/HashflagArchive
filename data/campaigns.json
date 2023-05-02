@@ -135265,5 +135265,13 @@
 		"hashTags": [
 			"stjude"
 		]
+	},
+	"WWEBacklash2023Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWEBacklash2023Emoji/WWEBacklash2023Emoji.png",
+		"startingTimestampMs": 1682971200000,
+		"endingTimestampMs": 1683586800000,
+		"hashTags": [
+			"wwebacklash"
+		]
 	}
 }
