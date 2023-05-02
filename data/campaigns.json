@@ -135244,5 +135244,17 @@
 			"スターレイルリリース",
 			"스타레일그랜드오픈"
 		]
+	},
+	"Vikingrise_jp_2023Q2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Vikingrise_jp_2023Q2/Vikingrise_jp_2023Q2.png",
+		"startingTimestampMs": 1683032400000,
+		"endingTimestampMs": 1690808400000,
+		"hashTags": [
+			"vikingrise",
+			"バじゃなくてヴァな",
+			"ヴァイキングライズ",
+			"ヴァイライ",
+			"ヴァイライリリース記念"
+		]
 	}
 }
