@@ -135257,5 +135257,13 @@
 			"ヴァイライ",
 			"ヴァイライリリース記念"
 		]
+	},
+	"St_Jude_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/St_Jude_2023/St_Jude_2023.png",
+		"startingTimestampMs": 1683057600000,
+		"endingTimestampMs": 1693578240000,
+		"hashTags": [
+			"stjude"
+		]
 	}
 }
