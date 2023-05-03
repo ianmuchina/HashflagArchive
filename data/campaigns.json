@@ -135285,5 +135285,13 @@
 			"tronnetwork",
 			"trx"
 		]
+	},
+	"Mysten_Labs_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Mysten_Labs_2023/Mysten_Labs_2023.png",
+		"startingTimestampMs": 1683100800000,
+		"endingTimestampMs": 1685865600000,
+		"hashTags": [
+			"buildonsui"
+		]
 	}
 }
