@@ -135315,5 +135315,17 @@
 			"hollywoodbets",
 			"hollywoodbetsdurbanjuly"
 		]
+	},
+	"QueenCharlotte_Africa": {
+		"assetUrl": "https://abs.twimg.com/hashflags/QueenCharlotte_Africa/QueenCharlotte_Africa.png",
+		"startingTimestampMs": 1683139800000,
+		"endingTimestampMs": 1684835940000,
+		"hashTags": [
+			"queencharlotte",
+			"queencharlotteke",
+			"queencharlotteng",
+			"queencharlottexafrica",
+			"queencharlotteza"
+		]
 	}
 }
