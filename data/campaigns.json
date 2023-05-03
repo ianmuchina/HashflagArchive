@@ -135305,5 +135305,15 @@
 			"敵は全てのスパイダーマン",
 			"運命なんてブッつぶせ"
 		]
+	},
+	"Hollywood_Bets_Emoji_2023_fix": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hollywood_Bets_Emoji_2023_fix/Hollywood_Bets_Emoji_2023_fix.png",
+		"startingTimestampMs": 1683133200000,
+		"endingTimestampMs": 1690348560000,
+		"hashTags": [
+			"hdj",
+			"hollywoodbets",
+			"hollywoodbetsdurbanjuly"
+		]
 	}
 }
