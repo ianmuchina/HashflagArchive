@@ -135336,5 +135336,29 @@
 			"bigtasty",
 			"desnecessário"
 		]
+	},
+	"JioCinema_IPL_Twitter_Branded_Emoji_Activation_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/JioCinema_IPL_Twitter_Branded_Emoji_Activation_2023/JioCinema_IPL_Twitter_Branded_Emoji_Activation_2023.png",
+		"startingTimestampMs": 1683222300000,
+		"endingTimestampMs": 1690618680000,
+		"hashTags": [
+			"ipl2023",
+			"iplonjiocinema",
+			"jeetodhandhanadhan",
+			"jiocinema",
+			"tataipl"
+		]
+	},
+	"Queen_Charlotte_Africa_FIX": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Queen_Charlotte_Africa_FIX/Queen_Charlotte_Africa_FIX.png",
+		"startingTimestampMs": 1683219600000,
+		"endingTimestampMs": 1684835940000,
+		"hashTags": [
+			"queencharlotte",
+			"queencharlotteke",
+			"queencharlotteng",
+			"queencharlottexafrica",
+			"queencharlotteza"
+		]
 	}
 }
