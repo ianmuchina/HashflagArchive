@@ -135327,5 +135327,14 @@
 			"queencharlottexafrica",
 			"queencharlotteza"
 		]
+	},
+	"McD_BigTasty_Crispy_BBQ_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/McD_BigTasty_Crispy_BBQ_during/McD_BigTasty_Crispy_BBQ_during.png",
+		"startingTimestampMs": 1683169200000,
+		"endingTimestampMs": 1683255540000,
+		"hashTags": [
+			"bigtasty",
+			"desnecessário"
+		]
 	}
 }
