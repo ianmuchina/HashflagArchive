@@ -9170,7 +9170,8 @@
 	],
 	"canttameus": [
 		"WNBA_Teams_2021_MIN",
-		"WNBA_Season_MinnesotaLynx_2022"
+		"WNBA_Season_MinnesotaLynx_2022",
+		"2023_WNBA_Emojis_Minnesota_Lynx"
 	],
 	"cantwaitwontwait": [
 		"Sunfeast_2020"
@@ -11396,7 +11397,8 @@
 		"Titans_S3_2021_BarbaraGordon"
 	],
 	"commissionerscup": [
-		"WNBA_Season_Trophy_2022"
+		"WNBA_Season_Trophy_2022",
+		"2023_WNBA_Commissioners_Cup_Emoji"
 	],
 	"commonanswers": [
 		"Common_April_2021"
@@ -12226,7 +12228,8 @@
 		"TGHT_2021"
 	],
 	"ctsun": [
-		"WNBA_Season_ConnecticutSun_2022"
+		"WNBA_Season_ConnecticutSun_2022",
+		"2023_WNBA_Emojis_Connecticut_Sun"
 	],
 	"ctv3": [
 		"JadenSmith_2020"
@@ -26557,7 +26560,8 @@
 	],
 	"indianafever": [
 		"WNBA_Teams_2021_IND",
-		"WNBA_Season_IndianaFever_2022"
+		"WNBA_Season_IndianaFever_2022",
+		"2023_WNBA_Emojis_Indiana_Fever"
 	],
 	"indianastyle": [
 		"NBATeam20192020Season_Emojis_IND"
@@ -51475,7 +51479,8 @@
 	],
 	"skytown": [
 		"WNBA_Teams_2021_CHI",
-		"WNBA_Season_ChicagoSky_2022"
+		"WNBA_Season_ChicagoSky_2022",
+		"2023_WNBA_Emojis_Chicago_Sky"
 	],
 	"skywardsword": [
 		"NintendoZeldaSkywardSword_2021"
@@ -54776,7 +54781,8 @@
 	],
 	"takecover": [
 		"WNBA_Teams_2021_SEA",
-		"WNBA_Season_SeattleStorm_2022"
+		"WNBA_Season_SeattleStorm_2022",
+		"2023_WNBA_Emojis_Seattle_Storm"
 	],
 	"takeflight": [
 		"NFL_2020_2021_TakeFlight",
@@ -64723,7 +64729,8 @@
 	],
 	"wnba": [
 		"WNBA_2020_Season",
-		"WNBA_2021Season_25thAnniversary_2"
+		"WNBA_2021Season_25thAnniversary_2",
+		"2023_WNBA_Emojis_League"
 	],
 	"wnbaallstar": [
 		"WNBA_All_Star_Weekend_2022"
@@ -93798,5 +93805,35 @@
 	],
 	"hitcny": [
 		"2023_Twitter_Hashtag_Emoji-HITC_New_York"
+	],
+	"allinlv": [
+		"2023_WNBA_Emojis_Las_Vegas_Aces"
+	],
+	"atlantadream": [
+		"2023_WNBA_Emojis_Atlanta_Dream"
+	],
+	"ballonourterms": [
+		"2023_WNBA_Emojis_Washington_Mystics"
+	],
+	"evenmorew": [
+		"2023_WNBA_Commissioners_Cup_Emoji"
+	],
+	"lightitupnyl": [
+		"2023_WNBA_Emojis_New_York_Liberty"
+	],
+	"morethangame": [
+		"2023_WNBA_Emojis_League"
+	],
+	"noveladasnove": [
+		"Terra_e_Paixao_2023"
+	],
+	"novelaterraepaixão": [
+		"Terra_e_Paixao_2023"
+	],
+	"terraepaixão": [
+		"Terra_e_Paixao_2023"
+	],
+	"valleytogether": [
+		"2023_WNBA_Emojis_Phoenix_Mercury"
 	]
 }
