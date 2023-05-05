@@ -135498,5 +135498,13 @@
 		"hashTags": [
 			"valleytogether"
 		]
+	},
+	"2023_WNBA_Emojis_Dallas_Wings": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2023_WNBA_Emojis_Dallas_Wings/2023_WNBA_Emojis_Dallas_Wings.png",
+		"startingTimestampMs": 1683327600000,
+		"endingTimestampMs": 1694350800000,
+		"hashTags": [
+			"dallaswings"
+		]
 	}
 }
