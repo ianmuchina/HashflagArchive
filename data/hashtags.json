@@ -16577,7 +16577,8 @@
 		"TSESEmoji",
 		"EdSheeran_June_UK_2021",
 		"EdSheeranTour2022",
-		"EdSheeran_2023"
+		"EdSheeran_2023",
+		"Ed_Sheeran_Tour"
 	],
 	"edwiges": [
 		"HBO_Max_Harry_Potter_20th_REunion_Hedwig_2021"
@@ -35388,7 +35389,8 @@
 		"Disneyplus_Cars_on_the_Road_Mater_2022"
 	],
 	"mathematicstour": [
-		"EdSheeranTour2022"
+		"EdSheeranTour2022",
+		"Ed_Sheeran_Tour"
 	],
 	"matkool": [
 		"MatKool_2021"
@@ -93777,5 +93779,17 @@
 	],
 	"tataipl": [
 		"JioCinema_IPL_Twitter_Branded_Emoji_Activation_2023"
+	],
+	"armaniwhite": [
+		"Armani_White_2023"
+	],
+	"blanco": [
+		"Armani_White_2023"
+	],
+	"roadtocasablanco": [
+		"Armani_White_2023"
+	],
+	"subtract": [
+		"Ed_Sheeran_Tour"
 	]
 }

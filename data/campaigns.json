@@ -135360,5 +135360,25 @@
 			"queencharlottexafrica",
 			"queencharlotteza"
 		]
+	},
+	"Armani_White_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Armani_White_2023/Armani_White_2023.png",
+		"startingTimestampMs": 1683259200000,
+		"endingTimestampMs": 1690894500000,
+		"hashTags": [
+			"armaniwhite",
+			"blanco",
+			"roadtocasablanco"
+		]
+	},
+	"Ed_Sheeran_Tour": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ed_Sheeran_Tour/Ed_Sheeran_Tour.png",
+		"startingTimestampMs": 1683259200000,
+		"endingTimestampMs": 1695570180000,
+		"hashTags": [
+			"edsheeran",
+			"mathematicstour",
+			"subtract"
+		]
 	}
 }
