@@ -135380,5 +135380,15 @@
 			"mathematicstour",
 			"subtract"
 		]
+	},
+	"2023_Twitter_Hashtag_Emoji-HITC_New_York": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2023_Twitter_Hashtag_Emoji-HITC_New_York/2023_Twitter_Hashtag_Emoji-HITC_New_York.png",
+		"startingTimestampMs": 1683279540000,
+		"endingTimestampMs": 1684748340000,
+		"hashTags": [
+			"88borninnyc",
+			"headintheclouds",
+			"hitcny"
+		]
 	}
 }
