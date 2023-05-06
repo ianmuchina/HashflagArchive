@@ -135506,5 +135506,13 @@
 		"hashTags": [
 			"dallaswings"
 		]
+	},
+	"TSwiftSN": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TSwiftSN/TSwiftSN.png",
+		"startingTimestampMs": 1683382800000,
+		"endingTimestampMs": 1691366400000,
+		"hashTags": [
+			"speaknowtaylorsversion"
+		]
 	}
 }
