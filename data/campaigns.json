@@ -135514,5 +135514,21 @@
 		"hashTags": [
 			"speaknowtaylorsversion"
 		]
+	},
+	"NBA2KL_5v5_Season_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA2KL_5v5_Season_Emoji_2023/NBA2KL_5v5_Season_Emoji_2023.png",
+		"startingTimestampMs": 1683615600000,
+		"endingTimestampMs": 1691362800000,
+		"hashTags": [
+			"nba2kl5v5"
+		]
+	},
+	"NBA2KL_Playoffs_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBA2KL_Playoffs_Emoji_2023/NBA2KL_Playoffs_Emoji_2023.png",
+		"startingTimestampMs": 1683615600000,
+		"endingTimestampMs": 1691535600000,
+		"hashTags": [
+			"nba2klplayoffs"
+		]
 	}
 }
