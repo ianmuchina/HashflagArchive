@@ -135530,5 +135530,13 @@
 		"hashTags": [
 			"nba2klplayoffs"
 		]
+	},
+	"NBAFinals_2023_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBAFinals_2023_before/NBAFinals_2023_before.png",
+		"startingTimestampMs": 1683633600000,
+		"endingTimestampMs": 1685620740000,
+		"hashTags": [
+			"nbafinals"
+		]
 	}
 }
