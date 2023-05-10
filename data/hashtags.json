@@ -93916,16 +93916,20 @@
 		"NBA2KL_Playoffs_Emoji_2023"
 	],
 	"aquall": [
-		"I-ne_Aquall_during"
+		"I-ne_Aquall_during",
+		"I-ne_Aquall_after"
 	],
 	"うるおい美溶水シャンプー": [
-		"I-ne_Aquall_during"
+		"I-ne_Aquall_during",
+		"I-ne_Aquall_after"
 	],
 	"みずから潤う": [
-		"I-ne_Aquall_during"
+		"I-ne_Aquall_during",
+		"I-ne_Aquall_after"
 	],
 	"アクオル": [
-		"I-ne_Aquall_during"
+		"I-ne_Aquall_during",
+		"I-ne_Aquall_after"
 	],
 	"strongbow": [
 		"Strongbow-Branded_Q2_2023"
@@ -93938,5 +93942,8 @@
 	],
 	"silo\";\"siloseries": [
 		"Apple_TV_Silo_Launch_Emoji_2023"
+	],
+	"乾いたtlに潤いを": [
+		"I-ne_Aquall_after"
 	]
 }

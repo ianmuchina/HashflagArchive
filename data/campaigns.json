@@ -135642,5 +135642,17 @@
 		"hashTags": [
 			"silo\";\"siloseries"
 		]
+	},
+	"I-ne_Aquall_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/I-ne_Aquall_after/I-ne_Aquall_after.png",
+		"startingTimestampMs": 1683730800000,
+		"endingTimestampMs": 1691420340000,
+		"hashTags": [
+			"aquall",
+			"うるおい美溶水シャンプー",
+			"みずから潤う",
+			"アクオル",
+			"乾いたtlに潤いを"
+		]
 	}
 }
