@@ -135634,5 +135634,13 @@
 			"strongbowcider",
 			"takeabow"
 		]
+	},
+	"Apple_TV_Silo_Launch_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Apple_TV_Silo_Launch_Emoji_2023/Apple_TV_Silo_Launch_Emoji_2023.png",
+		"startingTimestampMs": 1683702000000,
+		"endingTimestampMs": 1688972340000,
+		"hashTags": [
+			"silo\";\"siloseries"
+		]
 	}
 }
