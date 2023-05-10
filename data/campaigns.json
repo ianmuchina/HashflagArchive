@@ -135654,5 +135654,13 @@
 			"アクオル",
 			"乾いたtlに潤いを"
 		]
+	},
+	"GooglePixel_PixelPhase2_Hashfetti_update": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GooglePixel_PixelPhase2_Hashfetti_update/GooglePixel_PixelPhase2_Hashfetti_update.png",
+		"startingTimestampMs": 1683750600000,
+		"endingTimestampMs": 1683837000000,
+		"hashTags": [
+			"googlepixel"
+		]
 	}
 }
