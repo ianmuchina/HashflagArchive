@@ -135624,5 +135624,15 @@
 			"에리얼",
 			"인어공주"
 		]
+	},
+	"Strongbow-Branded_Q2_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Strongbow-Branded_Q2_2023/Strongbow-Branded_Q2_2023.png",
+		"startingTimestampMs": 1683680460000,
+		"endingTimestampMs": 1691456460000,
+		"hashTags": [
+			"strongbow",
+			"strongbowcider",
+			"takeabow"
+		]
 	}
 }
