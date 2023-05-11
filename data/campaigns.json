@@ -135746,5 +135746,15 @@
 			"silo",
 			"siloseries"
 		]
+	},
+	"APG_ChaseB": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APG_ChaseB/APG_ChaseB.png",
+		"startingTimestampMs": 1683777600000,
+		"endingTimestampMs": 1691057640000,
+		"hashTags": [
+			"beveryafraid",
+			"chasebringring",
+			"ringringchaseb"
+		]
 	}
 }
