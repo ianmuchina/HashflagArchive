@@ -135756,5 +135756,34 @@
 			"chasebringring",
 			"ringringchaseb"
 		]
+	},
+	"J_LEAGUE_30th_Birthday_with_DAZN_and_J_LEAGUE_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/J_LEAGUE_30th_Birthday_with_DAZN_and_J_LEAGUE_2023/J_LEAGUE_30th_Birthday_with_DAZN_and_J_LEAGUE_2023.png",
+		"startingTimestampMs": 1683817200000,
+		"endingTimestampMs": 1684421940000,
+		"hashTags": [
+			"jリーグ30周年",
+			"ｊリーグ30周年"
+		]
+	},
+	"ZELDA_Launch_Emoji_May2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ZELDA_Launch_Emoji_May2023/ZELDA_Launch_Emoji_May2023.png",
+		"startingTimestampMs": 1683817200000,
+		"endingTimestampMs": 1691593140000,
+		"hashTags": [
+			"tearsofthekingdom",
+			"zelda",
+			"ゼルダ",
+			"ゼルダの伝説",
+			"ティアーズオブザキングダム"
+		]
+	},
+	"ASAHI_SOFT_DRINKS_Wakocha_Apr_Japan_2023_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ASAHI_SOFT_DRINKS_Wakocha_Apr_Japan_2023_Emoji/ASAHI_SOFT_DRINKS_Wakocha_Apr_Japan_2023_Emoji.png",
+		"startingTimestampMs": 1683817200000,
+		"endingTimestampMs": 1685545140000,
+		"hashTags": [
+			"和紅茶姉妹"
+		]
 	}
 }
