@@ -135842,5 +135842,13 @@
 		"hashTags": [
 			"otkgamesexpo"
 		]
+	},
+	"Disney_TH_Indiana_Jones_2023_Before_Whip": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_TH_Indiana_Jones_2023_Before_Whip/Disney_TH_Indiana_Jones_2023_Before_Whip.png",
+		"startingTimestampMs": 1683930600000,
+		"endingTimestampMs": 1684738740000,
+		"hashTags": [
+			"indianajones"
+		]
 	}
 }
