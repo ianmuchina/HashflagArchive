@@ -135822,5 +135822,25 @@
 			"laurendaiglealbum",
 			"thankgodido"
 		]
+	},
+	"MiHoYo_Star_Rail_Emoji-Pela_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MiHoYo_Star_Rail_Emoji-Pela_2023/MiHoYo_Star_Rail_Emoji-Pela_2023.png",
+		"startingTimestampMs": 1683874800000,
+		"endingTimestampMs": 1691709960000,
+		"hashTags": [
+			"multiversevistas",
+			"pela",
+			"マルチバースの瞬き",
+			"多元宇宙掠影",
+			"멀티버스순간"
+		]
+	},
+	"OTKGamesExpo2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OTKGamesExpo2023/OTKGamesExpo2023.png",
+		"startingTimestampMs": 1683874800000,
+		"endingTimestampMs": 1686524400000,
+		"hashTags": [
+			"otkgamesexpo"
+		]
 	}
 }
