@@ -135793,5 +135793,34 @@
 		"hashTags": [
 			"rocketraccoon"
 		]
+	},
+	"Republic_Jonas_Brothers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Republic_Jonas_Brothers/Republic_Jonas_Brothers.png",
+		"startingTimestampMs": 1683864000000,
+		"endingTimestampMs": 1691671080000,
+		"hashTags": [
+			"askjonasbrothers",
+			"jonasbrothers"
+		]
+	},
+	"Parker_mcCollum": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Parker_mcCollum/Parker_mcCollum.png",
+		"startingTimestampMs": 1683864000000,
+		"endingTimestampMs": 1690893180000,
+		"hashTags": [
+			"goldchainnation",
+			"neverenoughparker",
+			"parkermccollum"
+		]
+	},
+	"Atlantic_records_Lauren_Daigle": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Atlantic_records_Lauren_Daigle/Atlantic_records_Lauren_Daigle.png",
+		"startingTimestampMs": 1683864000000,
+		"endingTimestampMs": 1695819840000,
+		"hashTags": [
+			"laurendaigle",
+			"laurendaiglealbum",
+			"thankgodido"
+		]
 	}
 }
