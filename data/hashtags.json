@@ -50810,7 +50810,8 @@
 		"SHEIN_Ramadan_Campaign_2023_after"
 	],
 	"sheineid": [
-		"SHEINX_Eid_Jun_2022"
+		"SHEINX_Eid_Jun_2022",
+		"SHEINHaji_Campaign2023"
 	],
 	"sheineidfun": [
 		"SHEINX_Eid_Jun_2022"
@@ -94095,5 +94096,17 @@
 	],
 	"멀티버스순간": [
 		"MiHoYo_Star_Rail_Emoji-Pela_2023"
+	],
+	"sheineidsale": [
+		"SHEINHaji_Campaign2023"
+	],
+	"sheinkids": [
+		"SHEINHaji_Campaign2023"
+	],
+	"sheinvacation": [
+		"SHEINHaji_Campaign2023"
+	],
+	"sheinxnoha": [
+		"SHEINHaji_Campaign2023"
 	]
 }

@@ -135850,5 +135850,17 @@
 		"hashTags": [
 			"indianajones"
 		]
+	},
+	"SHEINHaji_Campaign2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SHEINHaji_Campaign2023/SHEINHaji_Campaign2023.png",
+		"startingTimestampMs": 1684098000000,
+		"endingTimestampMs": 1692046800000,
+		"hashTags": [
+			"sheineid",
+			"sheineidsale",
+			"sheinkids",
+			"sheinvacation",
+			"sheinxnoha"
+		]
 	}
 }
