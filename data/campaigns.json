@@ -135882,5 +135882,17 @@
 			"氷結",
 			"氷結が生まれ変わります"
 		]
+	},
+	"TRON_limited_Branded_emoji_extension_18ce55l98jr": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TRON_limited_Branded_emoji_extension_18ce55l98jr/TRON_limited_Branded_emoji_extension_18ce55l98jr.png",
+		"startingTimestampMs": 1684170000000,
+		"endingTimestampMs": 1691946000000,
+		"hashTags": [
+			"trc20tusd",
+			"trueusd",
+			"tusd",
+			"tusdio",
+			"tusdstablecoin"
+		]
 	}
 }

@@ -59596,7 +59596,8 @@
 		"Raybo_TUSD_official_Q4_2021",
 		"Raybo_TUSD_July_2021",
 		"TUSD_Oct_2022",
-		"Raybo_TUSD_2023_Q1_Emoji"
+		"Raybo_TUSD_2023_Q1_Emoji",
+		"TRON_limited_Branded_emoji_extension_18ce55l98jr"
 	],
 	"trc20usdt": [
 		"Raybo_Q421_TRONSCAN_ORG_extend_2022",
@@ -59821,7 +59822,8 @@
 		"Raybo_TUSD_July_2021",
 		"Raybo_tusdio_May_2022",
 		"TUSD_Oct_2022",
-		"Raybo_TUSD_2023_Q1_Emoji"
+		"Raybo_TUSD_2023_Q1_Emoji",
+		"TRON_limited_Branded_emoji_extension_18ce55l98jr"
 	],
 	"truist": [
 		"Truist_Bank_Truist_One_Sept_2022"
@@ -60104,10 +60106,12 @@
 		"Raybo_TUSD_July_2021",
 		"Raybo_tusdio_May_2022",
 		"TUSD_Oct_2022",
-		"Raybo_TUSD_2023_Q1_Emoji"
+		"Raybo_TUSD_2023_Q1_Emoji",
+		"TRON_limited_Branded_emoji_extension_18ce55l98jr"
 	],
 	"tusdstablecoin": [
-		"Raybo_tusdio_May_2022"
+		"Raybo_tusdio_May_2022",
+		"TRON_limited_Branded_emoji_extension_18ce55l98jr"
 	],
 	"tusker100": [
 		"Tusker_Centenary_Apr_2022"
@@ -94126,5 +94130,8 @@
 	],
 	"氷結が生まれ変わります": [
 		"KIRIN_hyoketsu_May_Japan_2023_Emoji_v2"
+	],
+	"tusdio": [
+		"TRON_limited_Branded_emoji_extension_18ce55l98jr"
 	]
 }
