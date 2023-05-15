@@ -135862,5 +135862,13 @@
 			"sheinvacation",
 			"sheinxnoha"
 		]
+	},
+	"NASCAR_AllStarRace_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NASCAR_AllStarRace_2023/NASCAR_AllStarRace_2023.png",
+		"startingTimestampMs": 1684141200000,
+		"endingTimestampMs": 1684796400000,
+		"hashTags": [
+			"allstarrace"
+		]
 	}
 }
