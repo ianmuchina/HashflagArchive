@@ -135894,5 +135894,17 @@
 			"tusdio",
 			"tusdstablecoin"
 		]
+	},
+	"Starz_Outlander_2023_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Starz_Outlander_2023_Branded_Hashtag/Starz_Outlander_2023_Branded_Hashtag.png",
+		"startingTimestampMs": 1684220460000,
+		"endingTimestampMs": 1691996340000,
+		"hashTags": [
+			"outlander",
+			"outlanderatmidnight",
+			"outlanderpremiere",
+			"outlanderstarz",
+			"thefrasers"
+		]
 	}
 }
