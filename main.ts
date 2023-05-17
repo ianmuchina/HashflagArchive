@@ -77,7 +77,7 @@ async function convertTwitterHashFlags() {
   // Generate campaign name.
   // NOTE: asssumes common url structure. Could be wrong
   activeHashflags.forEach((v, i) => {
-    console.log(key)
+    console.log(v)
     activeHashflags[i].campaign = v.asset_url.split("/")[4];
     activeHashflags[i].hashtag = activeHashflags[i].hashtag.toLowerCase();
   });
