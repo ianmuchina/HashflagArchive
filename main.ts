@@ -77,6 +77,7 @@ async function convertTwitterHashFlags() {
   // Generate campaign name.
   // NOTE: asssumes common url structure. Could be wrong
   activeHashflags.forEach((v, i) => {
+    console.log(key)
     activeHashflags[i].campaign = v.asset_url.split("/")[4];
     activeHashflags[i].hashtag = activeHashflags[i].hashtag.toLowerCase();
   });
@@ -163,7 +164,7 @@ async function convertHashflagsIO() {
     // TODO: Manual Overrides
     if (key.startsWith("https://abs.twimg.com/hashflags/")) {
       campaign = key.split("/")[4];
-    console.log(key)
+    
     } else {
       campaign = await sha256(campaign);
     }
