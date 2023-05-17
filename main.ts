@@ -163,6 +163,7 @@ async function convertHashflagsIO() {
     // TODO: Manual Overrides
     if (key.startsWith("https://abs.twimg.com/hashflags/")) {
       campaign = key.split("/")[4];
+    console.log(key)
     } else {
       campaign = await sha256(campaign);
     }
