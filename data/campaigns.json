@@ -135933,5 +135933,13 @@
 			"不可能的任務",
 			"미션임파서블"
 		]
+	},
+	"2023_WNBA_Emojis_BG_Game_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2023_WNBA_Emojis_BG_Game_2023/2023_WNBA_Emojis_BG_Game_2023.png",
+		"startingTimestampMs": 1684328400000,
+		"endingTimestampMs": 1684648800000,
+		"hashTags": [
+			"bgisback"
+		]
 	}
 }
