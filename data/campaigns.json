@@ -135941,5 +135941,41 @@
 		"hashTags": [
 			"bgisback"
 		]
+	},
+	"Buffalo_Bills_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Buffalo_Bills_2023/Buffalo_Bills_2023.png",
+		"startingTimestampMs": 1684281600000,
+		"endingTimestampMs": 1707140940000,
+		"hashTags": [
+			"billsmafia"
+		]
+	},
+	"Raid_CallofTheArbiter_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Raid_CallofTheArbiter_2023/Raid_CallofTheArbiter_2023.png",
+		"startingTimestampMs": 1684352640000,
+		"endingTimestampMs": 1687031040000,
+		"hashTags": [
+			"callofthearbiter"
+		]
+	},
+	"StreetFighter6_Launch_Emoji_May2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/StreetFighter6_Launch_Emoji_May2023/StreetFighter6_Launch_Emoji_May2023.png",
+		"startingTimestampMs": 1684335600000,
+		"endingTimestampMs": 1692111540000,
+		"hashTags": [
+			"sf6",
+			"streetfighter6",
+			"スト6",
+			"ストリートファイター6",
+			"春麗"
+		]
+	},
+	"NFL_Tennessee_Titans_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Tennessee_Titans_2023/NFL_Tennessee_Titans_2023.png",
+		"startingTimestampMs": 1684281600000,
+		"endingTimestampMs": 1707109200000,
+		"hashTags": [
+			"titans"
+		]
 	}
 }
