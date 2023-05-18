@@ -84,7 +84,7 @@ async function convertTwitterHashFlags() {
     }
     
     // Use sha256 hash if unknown url layout 
-    if (v.asset_url.split("/").length() != 5) {
+    if (v.asset_url.split("/").length != 5) {
       console.log("unknown layout ", v.asset_url)
       activeHashflags[i].campaign = sha256(v.asset_url)
     } else {
