@@ -1,3 +1,7 @@
+// Logs
+const UnknownData: any[] = JSON.parse(Deno.readTextFileSync("data/unknown.json"))
+
+
 export type RawHashflag = {
   hashtag: string;
   starting_timestamp_ms: number;
@@ -91,8 +95,9 @@ async function convertTwitterHashFlags() {
       return
     }
 
-    if (v.asset_url.split("/").length != 5) {
-      console.log("unknown asset url layout ", JSON.stringify(v))
+    if (v.asset_url.split("/").length != 6) {
+      console.log("unknown asset url layout ", v.asset_url.split("/").length)
+      console.log()
       UnknownData.push({
         "msg": "unknown asset_url layout",
         "data": v,
@@ -126,11 +131,11 @@ async function convertTwitterHashFlags() {
         t.starting_timestamp_ms != CampaignMap[c].startingTimestampMs ||
         t.ending_timestamp_ms != CampaignMap[c].endingTimestampMs ||
         t.asset_url != CampaignMap[c].assetUrl) {
-        console.error("mismatched data", "\n", JSON.stringify(t, null, "\t"), "\n", JSON.stringify(CampaignMap[c], null, "\t"))
+        console.error("mismatched campaign data", t.campaign)
         UnknownData.push(
           {
             "msg": "mismatch",
-            "data": [t, CampaignMap[c]]
+            "data": { "new": t, "old": CampaignMap[c] }
           })
       }
     }
@@ -287,8 +292,6 @@ new_campaigns.forEach((c) => {
 });
 
 
-// Logs
-const UnknownData: any[] = JSON.parse(Deno.readTextFileSync("data/unknown.json"))
 
 // Save downloaded json to file
 async function PersistData() {
