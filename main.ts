@@ -76,31 +76,41 @@ async function convertTwitterHashFlags() {
   console.log(activeHashflags.length)
   // Generate campaign name.
   // NOTE: asssumes common url structure. Could be wrong
-  activeHashflags.forEach((v, i) => {
-    
-    if (!Object.keys(v).includes("asset_url")){
-      console.error("no asset url", JSON.stringify(v, null, "\t"))
+  activeHashflags.forEach(async (v, i) => {
+
+    // Convert to lowercase
+    activeHashflags[i].hashtag = activeHashflags[i].hashtag.toLowerCase();
+    // Set campaign name
+
+    // If No asset url log errors to unknown.json
+    if (!Object.keys(v).includes("asset_url")) {
+      UnknownData.push({
+        "msg": "undefined asset url",
+        "data": v,
+      })
       return
     }
-    
-    // Use sha256 hash if unknown url layout 
+
     if (v.asset_url.split("/").length != 5) {
-      console.log("unknown layout ", v.asset_url)
-      activeHashflags[i].campaign = sha256(v.asset_url)
+      console.log("unknown asset url layout ", JSON.stringify(v))
+      UnknownData.push({
+        "msg": "unknown asset_url layout",
+        "data": v,
+      })
+      return
     } else {
       // TODO: Campaign name collisions with campaign id and campaign inferred_name
-      activeHashflags[i].campaign = v.asset_url.split("/")[4];
+      let campaign = v.asset_url.split("/")[4];
+      activeHashflags[i].campaign = campaign
     }
 
-    const m: Campaign = CampaignMap[activeHashflags[i].campaign]
-    if (m.startingTimestampMs != v.ending_timestamp_ms) {
-      console.error("non matching diff", JSON.stringify(m, null, "\t"), JSON.stringify(v, null, "\t"))
-    }
-    activeHashflags[i].hashtag = activeHashflags[i].hashtag.toLowerCase();
+
   });
 
+  // Add new hashflags
+
   activeHashflags.forEach((t) => {
-    if (Object.keys(CampaignMap).includes(t.campaign) == false) {
+    if (!Object.keys(CampaignMap).includes(t.campaign)) {
       new_campaigns.push(t.campaign);
       CampaignMap[t.campaign] = {
         assetUrl: t.asset_url,
@@ -108,6 +118,21 @@ async function convertTwitterHashFlags() {
         endingTimestampMs: t.ending_timestamp_ms,
         hashTags: [],
       };
+    } else {
+      // Check for errors ie: Exact campaign name but different data
+      let c = t.campaign
+      // Check if not exact match
+      if (
+        t.starting_timestamp_ms != CampaignMap[c].startingTimestampMs ||
+        t.ending_timestamp_ms != CampaignMap[c].endingTimestampMs ||
+        t.asset_url != CampaignMap[c].assetUrl) {
+        console.error("mismatched data", "\n", JSON.stringify(t, null, "\t"), "\n", JSON.stringify(CampaignMap[c], null, "\t"))
+        UnknownData.push(
+          {
+            "msg": "mismatch",
+            "data": [t, CampaignMap[c]]
+          })
+      }
     }
   });
 
@@ -179,9 +204,11 @@ async function convertHashflagsIO() {
     // Set Readable Campaign Name if image is from twitter cdn
     // TODO: Regression testing
     // TODO: Manual Overrides
-    if (key.startsWith("https://abs.twimg.com/hashflags/")) {
-      campaign = key.split("/")[4];    
+    let split = key.split('/')
+    if (key.startsWith("https://abs.twimg.com/hashflags/") && split.length == 5) {
+      campaign = split[4];
     } else {
+      console.log("UnknownKey:", key)
       campaign = await sha256(campaign);
     }
 
@@ -228,8 +255,6 @@ async function convertHashflagsIO() {
   }
 }
 
-
-
 // Map of campaigns to hashtags with asseturl & expiry
 let CampaignMap: Record<string, Campaign> = JSON.parse(
   Deno.readTextFileSync("data/campaigns.json"),
@@ -262,6 +287,9 @@ new_campaigns.forEach((c) => {
 });
 
 
+// Logs
+const UnknownData: any[] = JSON.parse(Deno.readTextFileSync("data/unknown.json"))
+
 // Save downloaded json to file
 async function PersistData() {
   // List of campaigns
@@ -282,6 +310,7 @@ async function PersistData() {
   );
   await Deno.writeTextFile("tmp/new_urls", new_urls.join("\r\n"));
   await Deno.writeTextFile("tmp/all_urls", all_urls.join("\r\n"));
+  await Deno.writeTextFile("data/unknown.json", JSON.stringify(UnknownData, null, "\t"))
 }
 
 await PersistData();
