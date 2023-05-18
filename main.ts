@@ -77,8 +77,25 @@ async function convertTwitterHashFlags() {
   // Generate campaign name.
   // NOTE: asssumes common url structure. Could be wrong
   activeHashflags.forEach((v, i) => {
-    console.log(v)
-    activeHashflags[i].campaign = v.asset_url.split("/")[4];
+    
+    if (!Object.keys(v).contains("asset_url")){
+      console.error("no asset url", JSON.stringify(v, null, "\t"))
+      return
+    }
+    
+    // Use sha256 hash if unknown url layout 
+    if (v.asset_url.split("/").length() != 5) {
+      console.log("unknown layout ", v.asset_url)
+      activeHashflags[i].campaign = sha256(v.asset_url)
+    } else {
+      // TODO: Campaign name collisions with campaign id and campaign inferred_name
+      activeHashflags[i].campaign = v.asset_url.split("/")[4];
+    }
+
+    const m: Campaign = CampaignMap[activeHashflags[i].campaign]
+    if (m.startingTimestampMs != v.ending_timestamp_ms) {
+      console.error("non matching diff", JSON.stringify(m, null, "\t"), JSON.stringify(v, null, "\t"))
+    }
     activeHashflags[i].hashtag = activeHashflags[i].hashtag.toLowerCase();
   });
 
@@ -163,8 +180,7 @@ async function convertHashflagsIO() {
     // TODO: Regression testing
     // TODO: Manual Overrides
     if (key.startsWith("https://abs.twimg.com/hashflags/")) {
-      campaign = key.split("/")[4];
-    
+      campaign = key.split("/")[4];    
     } else {
       campaign = await sha256(campaign);
     }
