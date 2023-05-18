@@ -78,7 +78,7 @@ async function convertTwitterHashFlags() {
   // NOTE: asssumes common url structure. Could be wrong
   activeHashflags.forEach((v, i) => {
     
-    if (!Object.keys(v).contains("asset_url")){
+    if (!Object.keys(v).includes("asset_url")){
       console.error("no asset url", JSON.stringify(v, null, "\t"))
       return
     }
