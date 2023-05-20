@@ -136057,5 +136057,13 @@
 		"hashTags": [
 			"ピグリンを倒そう"
 		]
+	},
+	"LVCRUISE24_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LVCRUISE24_2023/LVCRUISE24_2023.png",
+		"startingTimestampMs": 1684620000000,
+		"endingTimestampMs": 1692309600000,
+		"hashTags": [
+			"lvcruise24"
+		]
 	}
 }
