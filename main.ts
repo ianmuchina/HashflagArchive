@@ -1,5 +1,5 @@
 // Logs
-const UnknownData: any[] = JSON.parse(Deno.readTextFileSync("data/unknown.json"))
+const UnknownData: any[] = [] //JSON.parse(Deno.readTextFileSync("data/unknown.json"))
 
 
 export type RawHashflag = {
@@ -313,7 +313,7 @@ async function PersistData() {
   );
   await Deno.writeTextFile("tmp/new_urls", new_urls.join("\r\n"));
   await Deno.writeTextFile("tmp/all_urls", all_urls.join("\r\n"));
-  await Deno.writeTextFile("data/unknown.json", JSON.stringify(UnknownData, null, "\t"))
+  //await Deno.writeTextFile("data/unknown.json", JSON.stringify(UnknownData, null, "\t"))
 }
 
 await PersistData();
