@@ -135977,5 +135977,85 @@
 		"hashTags": [
 			"titans"
 		]
+	},
+	"Lil_Durk_Album_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lil_Durk_Album_23/Lil_Durk_Album_23.png",
+		"startingTimestampMs": 1684382400000,
+		"endingTimestampMs": 1692116940000,
+		"hashTags": [
+			"almosthealed",
+			"asklildurk",
+			"lildurk"
+		]
+	},
+	"Fast_X_Soundtrack_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Fast_X_Soundtrack_2023/Fast_X_Soundtrack_2023.png",
+		"startingTimestampMs": 1684468800000,
+		"endingTimestampMs": 1692105660000,
+		"hashTags": [
+			"angel_pt1",
+			"fastxkaicenat",
+			"fastxsoundtrack"
+		]
+	},
+	"Showtime-Yellowjackets_S2--Branded_Hashflag_2--2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Showtime-Yellowjackets_S2--Branded_Hashflag_2--2023/Showtime-Yellowjackets_S2--Branded_Hashflag_2--2023.png",
+		"startingTimestampMs": 1684483200000,
+		"endingTimestampMs": 1692259140000,
+		"hashTags": [
+			"antlerqueen",
+			"lottienat",
+			"mistynat",
+			"taivan",
+			"yellowjackets"
+		]
+	},
+	"CheetosBola_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CheetosBola_after/CheetosBola_after.png",
+		"startingTimestampMs": 1684378800000,
+		"endingTimestampMs": 1692241200000,
+		"hashTags": [
+			"cheetosbolavoltou"
+		]
+	},
+	"UCLfinal_HashmojiBeforeHashfetti_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UCLfinal_HashmojiBeforeHashfetti_2023/UCLfinal_HashmojiBeforeHashfetti_2023.png",
+		"startingTimestampMs": 1684403100000,
+		"endingTimestampMs": 1686355200000,
+		"hashTags": [
+			"uclfinal"
+		]
+	},
+	"UECLfinal_HashmojiBeforeHashfetti_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UECLfinal_HashmojiBeforeHashfetti_2023/UECLfinal_HashmojiBeforeHashfetti_2023.png",
+		"startingTimestampMs": 1684403100000,
+		"endingTimestampMs": 1686096000000,
+		"hashTags": [
+			"ueclfinal"
+		]
+	},
+	"UELfinal_HashmojiBeforeHashfetti_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UELfinal_HashmojiBeforeHashfetti_2023/UELfinal_HashmojiBeforeHashfetti_2023.png",
+		"startingTimestampMs": 1684403100000,
+		"endingTimestampMs": 1685491200000,
+		"hashTags": [
+			"uelfinal"
+		]
+	},
+	"UWCLfinal_HashmojiBeforeHashfetti_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UWCLfinal_HashmojiBeforeHashfetti_2023/UWCLfinal_HashmojiBeforeHashfetti_2023.png",
+		"startingTimestampMs": 1684403100000,
+		"endingTimestampMs": 1685750400000,
+		"hashTags": [
+			"uwclfinal"
+		]
+	},
+	"Minecraft_FightThePiglins_710": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Minecraft_FightThePiglins_710/Minecraft_FightThePiglins_710.png",
+		"startingTimestampMs": 1681171200000,
+		"endingTimestampMs": 1688972340000,
+		"hashTags": [
+			"ピグリンを倒そう"
+		]
 	}
 }
