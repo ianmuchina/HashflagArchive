@@ -136075,5 +136075,13 @@
 			"mr2outnow",
 			"mumblerap2"
 		]
+	},
+	"WWENightOfChampions2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWENightOfChampions2023/WWENightOfChampions2023.png",
+		"startingTimestampMs": 1684652400000,
+		"endingTimestampMs": 1685228400000,
+		"hashTags": [
+			"wwenoc"
+		]
 	}
 }
