@@ -136065,5 +136065,15 @@
 		"hashTags": [
 			"lvcruise24"
 		]
+	},
+	"Belly_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Belly_2023/Belly_2023.png",
+		"startingTimestampMs": 1684641600000,
+		"endingTimestampMs": 1692375780000,
+		"hashTags": [
+			"mr2",
+			"mr2outnow",
+			"mumblerap2"
+		]
 	}
 }
