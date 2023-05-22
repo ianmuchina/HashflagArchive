@@ -136095,5 +136095,13 @@
 			"エーテルゲイザー配信開始",
 			"ベルダンディ"
 		]
+	},
+	"AppleTVPlus_PrehistoricPlanet_S2_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AppleTVPlus_PrehistoricPlanet_S2_2023/AppleTVPlus_PrehistoricPlanet_S2_2023.png",
+		"startingTimestampMs": 1684717200000,
+		"endingTimestampMs": 1685343540000,
+		"hashTags": [
+			"prehistoricplanet"
+		]
 	}
 }
