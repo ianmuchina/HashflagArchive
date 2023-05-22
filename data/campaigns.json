@@ -136103,5 +136103,15 @@
 		"hashTags": [
 			"prehistoricplanet"
 		]
+	},
+	"Quando_Rondo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Quando_Rondo/Quando_Rondo.png",
+		"startingTimestampMs": 1684728000000,
+		"endingTimestampMs": 1692284040000,
+		"hashTags": [
+			"quandodocumentary",
+			"quandorecovery",
+			"quandorondo"
+		]
 	}
 }
