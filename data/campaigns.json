@@ -136129,5 +136129,28 @@
 		"hashTags": [
 			"nxtbattleground"
 		]
+	},
+	"AMPLEFUN_dorimiland_2023Q2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AMPLEFUN_dorimiland_2023Q2/AMPLEFUN_dorimiland_2023Q2.png",
+		"startingTimestampMs": 1684742400000,
+		"endingTimestampMs": 1692518400000,
+		"hashTags": [
+			"ドリラン",
+			"ドリランリリース記念",
+			"ドリラン夏祭り",
+			"ドリーミーランド",
+			"猫派犬派ウパル派"
+		]
+	},
+	"Blue_Lock_PWC_2023_Blue_Lock_Collaboration_Event_Hashtag_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Blue_Lock_PWC_2023_Blue_Lock_Collaboration_Event_Hashtag_v2/Blue_Lock_PWC_2023_Blue_Lock_Collaboration_Event_Hashtag_v2.png",
+		"startingTimestampMs": 1684742400000,
+		"endingTimestampMs": 1687359540000,
+		"hashTags": [
+			"ブルーロックpwc",
+			"ブルーロックpwcエゴライブ",
+			"ブルーロックpwc新キャラ予想",
+			"ブルーロックpwc生放送"
+		]
 	}
 }
