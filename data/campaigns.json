@@ -136113,5 +136113,21 @@
 			"quandorecovery",
 			"quandorondo"
 		]
+	},
+	"Disney_TH_Indiana_Jones_2023_Hashfetti_Hat": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_TH_Indiana_Jones_2023_Hashfetti_Hat/Disney_TH_Indiana_Jones_2023_Hashfetti_Hat.png",
+		"startingTimestampMs": 1684738800000,
+		"endingTimestampMs": 1684825140000,
+		"hashTags": [
+			"indianajones"
+		]
+	},
+	"WWENXTBattleground2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWENXTBattleground2023/WWENXTBattleground2023.png",
+		"startingTimestampMs": 1684738800000,
+		"endingTimestampMs": 1685314800000,
+		"hashTags": [
+			"nxtbattleground"
+		]
 	}
 }
