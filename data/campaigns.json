@@ -136161,5 +136161,21 @@
 			"本田クイズ",
 			"本田圭佑参戦"
 		]
+	},
+	"Disney_TH_DialofDestiny_2023_Hat": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_TH_DialofDestiny_2023_Hat/Disney_TH_DialofDestiny_2023_Hat.png",
+		"startingTimestampMs": 1684825200000,
+		"endingTimestampMs": 1692773940000,
+		"hashTags": [
+			"dialofdestiny"
+		]
+	},
+	"Disney_TH_Indiana_Jones_2023_After_Whip": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_TH_Indiana_Jones_2023_After_Whip/Disney_TH_Indiana_Jones_2023_After_Whip.png",
+		"startingTimestampMs": 1684825200000,
+		"endingTimestampMs": 1692773940000,
+		"hashTags": [
+			"indianajones"
+		]
 	}
 }
