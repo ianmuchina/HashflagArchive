@@ -136251,5 +136251,14 @@
 			"게일",
 			"픽사게일"
 		]
+	},
+	"HBOMax_Launch_Before_fix": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBOMax_Launch_Before_fix/HBOMax_Launch_Before_fix.png",
+		"startingTimestampMs": 1684870200000,
+		"endingTimestampMs": 1684900740000,
+		"hashTags": [
+			"streamonmax",
+			"theonetowatch"
+		]
 	}
 }
