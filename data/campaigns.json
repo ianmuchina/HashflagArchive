@@ -136319,5 +136319,18 @@
 		"hashTags": [
 			"ignsummerofgaming"
 		]
+	},
+	"undefined": {
+		"startingTimestampMs": 1684911600000,
+		"endingTimestampMs": 1684997940000,
+		"hashTags": []
+	},
+	"AsteroidCity_hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AsteroidCity_hashfetti/AsteroidCity_hashfetti.png",
+		"startingTimestampMs": 1684911600000,
+		"endingTimestampMs": 1684998000000,
+		"hashTags": [
+			"asteroidcity"
+		]
 	}
 }

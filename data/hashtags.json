@@ -94501,14 +94501,16 @@
 	],
 	"streamonmax": [
 		"HBOMax_Launch_Before_fix",
-		"HBOMax_Launch_Before_hashfetti"
+		"HBOMax_Launch_Before_hashfetti",
+		null
 	],
 	"theonetowatch": [
 		"HBOMax_Launch_Before_fix",
 		"HBOMax_Launch_Before_during"
 	],
 	"asteroidcity": [
-		"AsteroidCity_before"
+		"AsteroidCity_before",
+		"AsteroidCity_hashfetti"
 	],
 	"asteroidcityfilm": [
 		"AsteroidCity_before",
