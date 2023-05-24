@@ -94499,9 +94499,11 @@
 		"DisneyTH_Elemental_Clod_2023"
 	],
 	"streamonmax": [
-		"HBOMax_Launch_Before_fix"
+		"HBOMax_Launch_Before_fix",
+		"HBOMax_Launch_Before_hashfetti"
 	],
 	"theonetowatch": [
-		"HBOMax_Launch_Before_fix"
+		"HBOMax_Launch_Before_fix",
+		"HBOMax_Launch_Before_during"
 	]
 }

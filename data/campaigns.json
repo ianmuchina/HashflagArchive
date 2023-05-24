@@ -136272,5 +136272,21 @@
 			"militariegun",
 			"veryhigh"
 		]
+	},
+	"HBOMax_Launch_Before_hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBOMax_Launch_Before_hashfetti/HBOMax_Launch_Before_hashfetti.png",
+		"startingTimestampMs": 1684900800000,
+		"endingTimestampMs": 1684987200000,
+		"hashTags": [
+			"streamonmax"
+		]
+	},
+	"HBOMax_Launch_Before_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBOMax_Launch_Before_during/HBOMax_Launch_Before_during.png",
+		"startingTimestampMs": 1684900800000,
+		"endingTimestampMs": 1684987200000,
+		"hashTags": [
+			"theonetowatch"
+		]
 	}
 }
