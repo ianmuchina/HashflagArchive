@@ -136288,5 +136288,17 @@
 		"hashTags": [
 			"theonetowatch"
 		]
+	},
+	"AsteroidCity_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AsteroidCity_before/AsteroidCity_before.png",
+		"startingTimestampMs": 1684904400000,
+		"endingTimestampMs": 1684911540000,
+		"hashTags": [
+			"asteroidcity",
+			"asteroidcityfilm",
+			"asteroidcityilfilm",
+			"asteroidcitylefilm",
+			"asteroidcitymovie"
+		]
 	}
 }

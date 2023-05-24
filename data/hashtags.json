@@ -94505,5 +94505,20 @@
 	"theonetowatch": [
 		"HBOMax_Launch_Before_fix",
 		"HBOMax_Launch_Before_during"
+	],
+	"asteroidcity": [
+		"AsteroidCity_before"
+	],
+	"asteroidcityfilm": [
+		"AsteroidCity_before"
+	],
+	"asteroidcityilfilm": [
+		"AsteroidCity_before"
+	],
+	"asteroidcitylefilm": [
+		"AsteroidCity_before"
+	],
+	"asteroidcitymovie": [
+		"AsteroidCity_before"
 	]
 }
