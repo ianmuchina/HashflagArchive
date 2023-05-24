@@ -136300,5 +136300,24 @@
 			"asteroidcitylefilm",
 			"asteroidcitymovie"
 		]
+	},
+	"AsteroidCity_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AsteroidCity_during/AsteroidCity_during.png",
+		"startingTimestampMs": 1684911600000,
+		"endingTimestampMs": 1684998000000,
+		"hashTags": [
+			"asteroidcityfilm",
+			"asteroidcityilfilm",
+			"asteroidcitylefilm",
+			"asteroidcitymovie"
+		]
+	},
+	"IGNSummerOfGaming2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/IGNSummerOfGaming2023/IGNSummerOfGaming2023.png",
+		"startingTimestampMs": 1684911600000,
+		"endingTimestampMs": 1687647600000,
+		"hashTags": [
+			"ignsummerofgaming"
+		]
 	}
 }
