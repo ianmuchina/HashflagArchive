@@ -269,11 +269,12 @@ let HashtagMap: Record<string, Array<string>> = JSON.parse(
   Deno.readTextFileSync("data/hashtags.json"),
 );
 
-Object.keys(HashtagMap).forEach(hashtag => {
-  HashtagMap[hashtag].forEach(c => {
-    CampaignMap[c].hashTags.push()
-  });
-})
+// Object.keys(HashtagMap).forEach(hashtag => {
+//   HashtagMap[hashtag].forEach(c => {
+//     CampaignMap[c].hashTags.push()
+//   });
+// })
+
 let new_campaigns: Array<string> = [];
 let new_hashtags: Array<string> = [];
 
@@ -290,8 +291,6 @@ new_campaigns.forEach((c) => {
   new_hashtags = new_hashtags.concat(CampaignMap[c].hashTags);
   new_urls.push(CampaignMap[c].assetUrl);
 });
-
-
 
 // Save downloaded json to file
 async function PersistData() {
