@@ -136592,5 +136592,15 @@
 			"ドラゴンボールレジェンズ5周年",
 			"レジェンズ"
 		]
+	},
+	"Emoji_Juliette_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Emoji_Juliette_2023/Emoji_Juliette_2023.png",
+		"startingTimestampMs": 1685108100000,
+		"endingTimestampMs": 1685588400000,
+		"hashTags": [
+			"juliette",
+			"saidafrente",
+			"saidafrentejuliette"
+		]
 	}
 }
