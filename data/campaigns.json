@@ -136602,5 +136602,13 @@
 			"saidafrente",
 			"saidafrentejuliette"
 		]
+	},
+	"BANDAI_ONEPIECE_tcg_PackLaunch_2023_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BANDAI_ONEPIECE_tcg_PackLaunch_2023_Branded_Hashtag/BANDAI_ONEPIECE_tcg_PackLaunch_2023_Branded_Hashtag.png",
+		"startingTimestampMs": 1685145600000,
+		"endingTimestampMs": 1685977140000,
+		"hashTags": [
+			"ワンピカード"
+		]
 	}
 }
