@@ -13040,7 +13040,8 @@
 		"DB_Legends_12_23_2020",
 		"BNE_db_legends_jp_4th_anniversary_May_2022",
 		"db_legends_jp_YearEndCampaign_2022",
-		"BNE_DBlegends_2021"
+		"BNE_DBlegends_2021",
+		"BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag"
 	],
 	"dbレジェンズキャラ診断": [
 		"MyDBLegends_May_2021"
@@ -77854,7 +77855,8 @@
 		"DB_Legends_12_23_2020",
 		"BNE_db_legends_jp_4th_anniversary_May_2022",
 		"db_legends_jp_YearEndCampaign_2022",
-		"BNE_DBlegends_2021"
+		"BNE_DBlegends_2021",
+		"BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag"
 	],
 	"レジェンズ2周年に一言": [
 		"DB_Legends_JP_2020"
@@ -94710,5 +94712,11 @@
 	],
 	"wherethelightgoes": [
 		"Matchbox_20"
+	],
+	"dbl5thanniversary": [
+		"BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag"
+	],
+	"ドラゴンボールレジェンズ5周年": [
+		"BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag"
 	]
 }

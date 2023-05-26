@@ -136581,5 +136581,16 @@
 			"에리얼",
 			"인어공주"
 		]
+	},
+	"BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag/BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag.png",
+		"startingTimestampMs": 1685113200000,
+		"endingTimestampMs": 1689605940000,
+		"hashTags": [
+			"dbl5thanniversary",
+			"dblegends",
+			"ドラゴンボールレジェンズ5周年",
+			"レジェンズ"
+		]
 	}
 }
