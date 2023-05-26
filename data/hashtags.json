@@ -1607,7 +1607,8 @@
 		"aewontnt_May_2021",
 		"Turner_AEW_2022_extension",
 		"Turner_AEW_Refresh_Aug_2022_v2",
-		"Turner_AEW_Refresh_Dec_2022"
+		"Turner_AEW_Refresh_Dec_2022",
+		"AEW_Branded_Emoji_2023"
 	],
 	"aewdark": [
 		"Turner_AEW_2022",
@@ -1628,7 +1629,8 @@
 		"aewontnt_May_2021",
 		"Turner_AEW_2022_extension",
 		"Turner_AEW_Refresh_Aug_2022_v2",
-		"Turner_AEW_Refresh_Dec_2022"
+		"Turner_AEW_Refresh_Dec_2022",
+		"AEW_Branded_Emoji_2023"
 	],
 	"aewontbs": [
 		"AEWonTNT_Q4_2021"
@@ -1652,7 +1654,8 @@
 		"AEWonTNT_Q4_2021",
 		"Turner_AEW_2022_extension",
 		"Turner_AEW_Refresh_Aug_2022_v2",
-		"Turner_AEW_Refresh_Dec_2022"
+		"Turner_AEW_Refresh_Dec_2022",
+		"AEW_Branded_Emoji_2023"
 	],
 	"afazenda": [
 		"Fazenda_BR_Sept_2021"
@@ -94624,5 +94627,20 @@
 	],
 	"نحو_الفضاء": [
 		"Saudi_Space_campaign_emoji_2023"
+	],
+	"aewcollision": [
+		"AEW_Branded_Emoji_2023"
+	],
+	"aewfightforever": [
+		"AEW_Branded_Emoji_2023"
+	],
+	"matchboxtwenty": [
+		"Matchbox_20"
+	],
+	"slowdreamtour": [
+		"Matchbox_20"
+	],
+	"wherethelightgoes": [
+		"Matchbox_20"
 	]
 }

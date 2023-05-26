@@ -136484,5 +136484,27 @@
 		"hashTags": [
 			"نحو_الفضاء"
 		]
+	},
+	"AEW_Branded_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AEW_Branded_Emoji_2023/AEW_Branded_Emoji_2023.png",
+		"startingTimestampMs": 1685073600000,
+		"endingTimestampMs": 1692849540000,
+		"hashTags": [
+			"aew",
+			"aewcollision",
+			"aewdynamite",
+			"aewfightforever",
+			"aewrampage"
+		]
+	},
+	"Matchbox_20": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Matchbox_20/Matchbox_20.png",
+		"startingTimestampMs": 1685073600000,
+		"endingTimestampMs": 1695133020000,
+		"hashTags": [
+			"matchboxtwenty",
+			"slowdreamtour",
+			"wherethelightgoes"
+		]
 	}
 }
