@@ -136610,5 +136610,13 @@
 		"hashTags": [
 			"ワンピカード"
 		]
+	},
+	"TowerOfSky_Launch_2023_after_extended": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TowerOfSky_Launch_2023_after_extended/TowerOfSky_Launch_2023_after_extended.png",
+		"startingTimestampMs": 1685196060000,
+		"endingTimestampMs": 1687788000000,
+		"hashTags": [
+			"タワーオブスカイ"
+		]
 	}
 }
