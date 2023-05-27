@@ -136618,5 +136618,17 @@
 		"hashTags": [
 			"タワーオブスカイ"
 		]
+	},
+	"OKX_Branded_Emoji-5-23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OKX_Branded_Emoji-5-23/OKX_Branded_Emoji-5-23.png",
+		"startingTimestampMs": 1685206800000,
+		"endingTimestampMs": 1692982800000,
+		"hashTags": [
+			"okb",
+			"okx",
+			"okxearn",
+			"okxwallet",
+			"okxweb3"
+		]
 	}
 }
