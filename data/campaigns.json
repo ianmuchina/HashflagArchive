@@ -136650,5 +136650,17 @@
 			"thelazarusprojecttnt",
 			"thelazarusreset"
 		]
+	},
+	"The_Blackening_Lionsgate_update": {
+		"assetUrl": "https://abs.twimg.com/hashflags/The_Blackening_Lionsgate_update/The_Blackening_Lionsgate_update.png",
+		"startingTimestampMs": 1685318520000,
+		"endingTimestampMs": 1693007940000,
+		"hashTags": [
+			"blackening",
+			"blackeningposterchallenge",
+			"theblackening",
+			"wecantalldiefirst",
+			"whostheblackest"
+		]
 	}
 }
