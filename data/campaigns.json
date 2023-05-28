@@ -136630,5 +136630,13 @@
 			"okxwallet",
 			"okxweb3"
 		]
+	},
+	"RolandGarros_2023_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RolandGarros_2023_Hashmoji/RolandGarros_2023_Hashmoji.png",
+		"startingTimestampMs": 1685235600000,
+		"endingTimestampMs": 1686445140000,
+		"hashTags": [
+			"rolandgarros"
+		]
 	}
 }
