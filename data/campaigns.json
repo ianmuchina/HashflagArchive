@@ -136662,5 +136662,13 @@
 			"wecantalldiefirst",
 			"whostheblackest"
 		]
+	},
+	"NXTBattlegroundReUp2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NXTBattlegroundReUp2023/NXTBattlegroundReUp2023.png",
+		"startingTimestampMs": 1685292300000,
+		"endingTimestampMs": 1685401200000,
+		"hashTags": [
+			"nxtbattleground"
+		]
 	}
 }
