@@ -136670,5 +136670,13 @@
 		"hashTags": [
 			"nxtbattleground"
 		]
+	},
+	"CDL_Champs_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CDL_Champs_2023/CDL_Champs_2023.png",
+		"startingTimestampMs": 1685343600000,
+		"endingTimestampMs": 1687129200000,
+		"hashTags": [
+			"cdlchamps"
+		]
 	}
 }
