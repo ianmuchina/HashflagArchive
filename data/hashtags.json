@@ -33654,7 +33654,8 @@
 		"LoveIsland_2021",
 		"CBS_LoveIsland_S2",
 		"ITV_Love_Island_May_2022",
-		"Love_Island_Winter_2023"
+		"Love_Island_Winter_2023",
+		"LoveIsland_Summer2023"
 	],
 	"loveislandpeacock": [
 		"Peacock_Love_Island_US_Jul_2022"
@@ -94775,5 +94776,11 @@
 	],
 	"ブルリフt": [
 		"EXNOA_BRSUN_game_LiveCampaign_2023"
+	],
+	"loveislandaftersun": [
+		"LoveIsland_Summer2023"
+	],
+	"loveislandunseenbits": [
+		"LoveIsland_Summer2023"
 	]
 }

@@ -136689,5 +136689,15 @@
 			"ブルリフs生放送",
 			"ブルリフt"
 		]
+	},
+	"LoveIsland_Summer2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LoveIsland_Summer2023/LoveIsland_Summer2023.png",
+		"startingTimestampMs": 1685372400000,
+		"endingTimestampMs": 1691478000000,
+		"hashTags": [
+			"loveisland",
+			"loveislandaftersun",
+			"loveislandunseenbits"
+		]
 	}
 }
