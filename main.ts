@@ -36,7 +36,7 @@ async function genHeaders() {
     headers: { "Authorization": `Bearer ${bearer}` },
   });
   const json = await response.json();
-
+  console.log(json)
   return {
     "Authorization": `Bearer ${bearer}`,
     "X-Guest-Token": json.guest_token,
