@@ -136723,5 +136723,13 @@
 			"シャドウ降臨",
 			"陰の実力者"
 		]
+	},
+	"APPLE_WWDC_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APPLE_WWDC_2023/APPLE_WWDC_2023.png",
+		"startingTimestampMs": 1685404800000,
+		"endingTimestampMs": 1696575540000,
+		"hashTags": [
+			"wwdc23"
+		]
 	}
 }
