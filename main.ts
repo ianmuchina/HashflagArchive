@@ -77,6 +77,7 @@ async function fetchTwitterHashflags(): Promise<RawHashflag[]> {
 async function convertTwitterHashFlags() {
   const activeHashflags = await fetchTwitterHashflags();
   console.log(typeof activeHashflags)
+  console.log( activeHashflags)
   console.log(activeHashflags.length)
   // Generate campaign name.
   // NOTE: asssumes common url structure. Could be wrong
