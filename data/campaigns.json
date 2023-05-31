@@ -136731,5 +136731,67 @@
 		"hashTags": [
 			"wwdc23"
 		]
+	},
+	"ParamountPics_TMNT_MutantMayhem_Leonardo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParamountPics_TMNT_MutantMayhem_Leonardo/ParamountPics_TMNT_MutantMayhem_Leonardo.png",
+		"startingTimestampMs": 1685505600000,
+		"endingTimestampMs": 1693454340000,
+		"hashTags": [
+			"astartarugasninja",
+			"ooze",
+			"tmnt",
+			"tmntleo",
+			"tmntleonardo",
+			"toozeday"
+		]
+	},
+	"ParamountPics_TMNT_MutantMayhem_Michelangelo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParamountPics_TMNT_MutantMayhem_Michelangelo/ParamountPics_TMNT_MutantMayhem_Michelangelo.png",
+		"startingTimestampMs": 1685505600000,
+		"endingTimestampMs": 1693454340000,
+		"hashTags": [
+			"cowabunga",
+			"ninjaturtlescaosmutante",
+			"tmntmichelangelo",
+			"tmntmikey",
+			"tmntmovie",
+			"turtletots",
+			"코와붕가"
+		]
+	},
+	"ParamountPics_TMNT_MutantMayhem_Raphael_fix": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParamountPics_TMNT_MutantMayhem_Raphael_fix/ParamountPics_TMNT_MutantMayhem_Raphael_fix.png",
+		"startingTimestampMs": 1685505600000,
+		"endingTimestampMs": 1693454340000,
+		"hashTags": [
+			"mutantmayhem",
+			"ninjaturtleslefilm",
+			"tmntraph",
+			"tmntraphael",
+			"tortugasninja",
+			"닌자터틀"
+		]
+	},
+	"APG_Jhene_Aiko": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APG_Jhene_Aiko/APG_Jhene_Aiko.png",
+		"startingTimestampMs": 1685505600000,
+		"endingTimestampMs": 1688209620000,
+		"hashTags": [
+			"sleepsoul",
+			"sleepsouljheneaiko",
+			"sleepsoulvol3"
+		]
+	},
+	"ParamountPics_TMNT_MutantMayhem_Donatello": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParamountPics_TMNT_MutantMayhem_Donatello/ParamountPics_TMNT_MutantMayhem_Donatello.png",
+		"startingTimestampMs": 1685505600000,
+		"endingTimestampMs": 1693454340000,
+		"hashTags": [
+			"teenagemutantninjaturtlesmovie",
+			"tmntdonatello",
+			"tmntdonnie",
+			"tmntfilm",
+			"映画タートルズ"
+		]
 	}
 }
