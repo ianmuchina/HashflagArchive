@@ -136793,5 +136793,21 @@
 			"tmntfilm",
 			"映画タートルズ"
 		]
+	},
+	"UECLfinal_NoHashfetti_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UECLfinal_NoHashfetti_2023/UECLfinal_NoHashfetti_2023.png",
+		"startingTimestampMs": 1685523600000,
+		"endingTimestampMs": 1686787260000,
+		"hashTags": [
+			"ueclfinal"
+		]
+	},
+	"UELfinal_NoHashfetti_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UELfinal_NoHashfetti_2023/UELfinal_NoHashfetti_2023.png",
+		"startingTimestampMs": 1685523000000,
+		"endingTimestampMs": 1686787260000,
+		"hashTags": [
+			"uelfinal"
+		]
 	}
 }
