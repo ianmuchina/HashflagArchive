@@ -136821,5 +136821,22 @@
 			"ロッテチューインガム",
 			"今日は誰に会いに行く"
 		]
+	},
+	"HBOMax_Launch_AdditionalShows": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBOMax_Launch_AdditionalShows/HBOMax_Launch_AdditionalShows.png",
+		"startingTimestampMs": 1685553300000,
+		"endingTimestampMs": 1692590400000,
+		"hashTags": [
+			"bamarush",
+			"fullcircle",
+			"gremlins",
+			"greymatter",
+			"harleyquinn",
+			"projectgreenlight",
+			"smartless",
+			"swipingamerica",
+			"warrior",
+			"whatamieating"
+		]
 	}
 }

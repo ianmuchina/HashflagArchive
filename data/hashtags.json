@@ -20421,7 +20421,8 @@
 		"FinalCopaMx_2020_xolos"
 	],
 	"fullcircle": [
-		"LovecraftCountry_Ep10_2020"
+		"LovecraftCountry_Ep10_2020",
+		"HBOMax_Launch_AdditionalShows"
 	],
 	"fullfrontal": [
 		"FullFrontal_SamB_2020"
@@ -24200,7 +24201,8 @@
 	"harleyquinn": [
 		"DCFandom_2020_HarleyQuinn",
 		"TheSuicideSquad_2021_Characters_HarleyQuinn",
-		"HBO_Max_Harley_Quinn_S3_Round_2_Harley_Jul_2022"
+		"HBO_Max_Harley_Quinn_S3_Round_2_Harley_Jul_2022",
+		"HBOMax_Launch_AdditionalShows"
 	],
 	"harleyquinns3": [
 		"HBO_Max_Harley_Quinn_S3_Round_1_Jun_2022"
@@ -63147,7 +63149,8 @@
 		"DuneCharacter_2021_Gurney"
 	],
 	"warrior": [
-		"DuneCharacter_2021_Stilga"
+		"DuneCharacter_2021_Stilga",
+		"HBOMax_Launch_AdditionalShows"
 	],
 	"warriormotherqueen": [
 		"STARZ_TheSpanishPrincess_S2_2020"
@@ -94899,5 +94902,26 @@
 	],
 	"今日は誰に会いに行く": [
 		"LOTTE_GUM_Q2_23_v2"
+	],
+	"bamarush": [
+		"HBOMax_Launch_AdditionalShows"
+	],
+	"gremlins": [
+		"HBOMax_Launch_AdditionalShows"
+	],
+	"greymatter": [
+		"HBOMax_Launch_AdditionalShows"
+	],
+	"projectgreenlight": [
+		"HBOMax_Launch_AdditionalShows"
+	],
+	"smartless": [
+		"HBOMax_Launch_AdditionalShows"
+	],
+	"swipingamerica": [
+		"HBOMax_Launch_AdditionalShows"
+	],
+	"whatamieating": [
+		"HBOMax_Launch_AdditionalShows"
 	]
 }
