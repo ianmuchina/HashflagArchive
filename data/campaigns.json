@@ -136838,5 +136838,15 @@
 			"warrior",
 			"whatamieating"
 		]
+	},
+	"Ruffles_Lanchonete_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ruffles_Lanchonete_before/Ruffles_Lanchonete_before.png",
+		"startingTimestampMs": 1685588400000,
+		"endingTimestampMs": 1685674740000,
+		"hashTags": [
+			"ruffleslanchonete",
+			"rufflessaborcheeseburger",
+			"rufflessaborhotdog"
+		]
 	}
 }
