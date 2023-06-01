@@ -136848,5 +136848,15 @@
 			"rufflessaborcheeseburger",
 			"rufflessaborhotdog"
 		]
+	},
+	"LOSDELESPACIO": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LOSDELESPACIO/LOSDELESPACIO.png",
+		"startingTimestampMs": 1685591400000,
+		"endingTimestampMs": 1691193600000,
+		"hashTags": [
+			"lde",
+			"losdelacasa",
+			"losdelespacio"
+		]
 	}
 }
