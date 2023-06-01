@@ -136876,5 +136876,21 @@
 		"hashTags": [
 			"nbafinals"
 		]
+	},
+	"Nuggets_NBA_Finals": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Nuggets_NBA_Finals/Nuggets_NBA_Finals.png",
+		"startingTimestampMs": 1685577600000,
+		"endingTimestampMs": 1687305600000,
+		"hashTags": [
+			"bringitin"
+		]
+	},
+	"HEAT_NBA_Finals": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HEAT_NBA_Finals/HEAT_NBA_Finals.png",
+		"startingTimestampMs": 1685577600000,
+		"endingTimestampMs": 1687305600000,
+		"hashTags": [
+			"whitehot"
+		]
 	}
 }
