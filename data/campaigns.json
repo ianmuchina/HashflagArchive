@@ -136868,5 +136868,13 @@
 			"パワプロアプリ",
 			"パワプロ鬼滅の刃コラボ"
 		]
+	},
+	"NBAFinals_2023_hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBAFinals_2023_hashfetti/NBAFinals_2023_hashfetti.png",
+		"startingTimestampMs": 1685620800000,
+		"endingTimestampMs": 1685707200000,
+		"hashTags": [
+			"nbafinals"
+		]
 	}
 }
