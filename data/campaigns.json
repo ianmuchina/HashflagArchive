@@ -136892,5 +136892,18 @@
 		"hashTags": [
 			"whitehot"
 		]
+	},
+	"Warner_Bros_Barbie_2023_Update": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Warner_Bros_Barbie_2023_Update/Warner_Bros_Barbie_2023_Update.png",
+		"startingTimestampMs": 1685655000000,
+		"endingTimestampMs": 1696204740000,
+		"hashTags": [
+			"barbie",
+			"barbiemovie",
+			"barbiethealbum",
+			"barbiethemovie",
+			"hibarbie",
+			"hiken"
+		]
 	}
 }

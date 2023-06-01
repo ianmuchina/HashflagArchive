@@ -91645,19 +91645,24 @@
 		"VCT_Americas_Emoji_2023_Q2_2023_RedLogo"
 	],
 	"barbie": [
-		"Warner_Bros_Barbie_2023"
+		"Warner_Bros_Barbie_2023",
+		"Warner_Bros_Barbie_2023_Update"
 	],
 	"barbiemovie": [
-		"Warner_Bros_Barbie_2023"
+		"Warner_Bros_Barbie_2023",
+		"Warner_Bros_Barbie_2023_Update"
 	],
 	"barbiethemovie": [
-		"Warner_Bros_Barbie_2023"
+		"Warner_Bros_Barbie_2023",
+		"Warner_Bros_Barbie_2023_Update"
 	],
 	"hibarbie": [
-		"Warner_Bros_Barbie_2023"
+		"Warner_Bros_Barbie_2023",
+		"Warner_Bros_Barbie_2023_Update"
 	],
 	"hiken": [
-		"Warner_Bros_Barbie_2023"
+		"Warner_Bros_Barbie_2023",
+		"Warner_Bros_Barbie_2023_Update"
 	],
 	"deinestimmedeinewahl": [
 		"Deutsche_Rentenversicherung_Bund_DRV_23_002_Sozialwahl_2023"
@@ -94949,5 +94954,8 @@
 	],
 	"パワプロ鬼滅の刃コラボ": [
 		"2023_June_Pawapro_Kimetsu_Collaboration_before"
+	],
+	"barbiethealbum": [
+		"Warner_Bros_Barbie_2023_Update"
 	]
 }
