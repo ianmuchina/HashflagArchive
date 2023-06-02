@@ -136951,5 +136951,13 @@
 		"hashTags": [
 			"nbafinals"
 		]
+	},
+	"UWCLfinal_Hashfetti_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UWCLfinal_Hashfetti_2023/UWCLfinal_Hashfetti_2023.png",
+		"startingTimestampMs": 1685750460000,
+		"endingTimestampMs": 1685923140000,
+		"hashTags": [
+			"uwclfinal"
+		]
 	}
 }
