@@ -136924,5 +136924,24 @@
 			"metroverse",
 			"spiderversesoundtrack"
 		]
+	},
+	"Spider_Man_ATSV_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spider_Man_ATSV_during/Spider_Man_ATSV_during.png",
+		"startingTimestampMs": 1685689200000,
+		"endingTimestampMs": 1685775540000,
+		"hashTags": [
+			"acrossthespiderverse",
+			"milesmorales",
+			"shameikmoore",
+			"spiderman"
+		]
+	},
+	"Spider_Man_ATSV_hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spider_Man_ATSV_hashfetti/Spider_Man_ATSV_hashfetti.png",
+		"startingTimestampMs": 1685689200000,
+		"endingTimestampMs": 1685775540000,
+		"hashTags": [
+			"spiderverse"
+		]
 	}
 }
