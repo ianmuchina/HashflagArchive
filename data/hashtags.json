@@ -94938,10 +94938,12 @@
 		"Ruffles_Lanchonete_before"
 	],
 	"rufflessaborcheeseburger": [
-		"Ruffles_Lanchonete_before"
+		"Ruffles_Lanchonete_before",
+		"Ruffles_Lanchonete_during"
 	],
 	"rufflessaborhotdog": [
-		"Ruffles_Lanchonete_before"
+		"Ruffles_Lanchonete_before",
+		"Ruffles_Lanchonete_during"
 	],
 	"lde": [
 		"LOSDELESPACIO"

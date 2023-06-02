@@ -136905,5 +136905,14 @@
 			"hibarbie",
 			"hiken"
 		]
+	},
+	"Ruffles_Lanchonete_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ruffles_Lanchonete_during/Ruffles_Lanchonete_during.png",
+		"startingTimestampMs": 1685674800000,
+		"endingTimestampMs": 1685761200000,
+		"hashTags": [
+			"rufflessaborcheeseburger",
+			"rufflessaborhotdog"
+		]
 	}
 }
