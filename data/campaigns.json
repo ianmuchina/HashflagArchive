@@ -136943,5 +136943,13 @@
 		"hashTags": [
 			"spiderverse"
 		]
+	},
+	"NBAFinals_2023_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NBAFinals_2023_After/NBAFinals_2023_After.png",
+		"startingTimestampMs": 1685707260000,
+		"endingTimestampMs": 1687262400000,
+		"hashTags": [
+			"nbafinals"
+		]
 	}
 }
