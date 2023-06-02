@@ -136914,5 +136914,15 @@
 			"rufflessaborcheeseburger",
 			"rufflessaborhotdog"
 		]
+	},
+	"Metro_Boomin_Spiderverse": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Metro_Boomin_Spiderverse/Metro_Boomin_Spiderverse.png",
+		"startingTimestampMs": 1685678400000,
+		"endingTimestampMs": 1693386420000,
+		"hashTags": [
+			"metroboomin",
+			"metroverse",
+			"spiderversesoundtrack"
+		]
 	}
 }

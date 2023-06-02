@@ -36289,7 +36289,8 @@
 		"Twitter_Metro_Best_Kdrama_Awards_2021"
 	],
 	"metroboomin": [
-		"Metro_Boomin_2002"
+		"Metro_Boomin_2002",
+		"Metro_Boomin_Spiderverse"
 	],
 	"mettezunmasque": [
 		"WearAMask_2020_2021_ext4",
@@ -94959,5 +94960,11 @@
 	],
 	"barbiethealbum": [
 		"Warner_Bros_Barbie_2023_Update"
+	],
+	"metroverse": [
+		"Metro_Boomin_Spiderverse"
+	],
+	"spiderversesoundtrack": [
+		"Metro_Boomin_Spiderverse"
 	]
 }
