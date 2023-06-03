@@ -136967,5 +136967,15 @@
 		"hashTags": [
 			"wwdc23"
 		]
+	},
+	"Ruffles_Lanchonete_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ruffles_Lanchonete_after/Ruffles_Lanchonete_after.png",
+		"startingTimestampMs": 1685761260000,
+		"endingTimestampMs": 1688180460000,
+		"hashTags": [
+			"ruffleslanchonete",
+			"rufflessaborcheeseburger",
+			"rufflessaborhotdog"
+		]
 	}
 }

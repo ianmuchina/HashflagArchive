@@ -94944,15 +94944,18 @@
 		"HBOMax_Launch_AdditionalShows"
 	],
 	"ruffleslanchonete": [
-		"Ruffles_Lanchonete_before"
+		"Ruffles_Lanchonete_before",
+		"Ruffles_Lanchonete_after"
 	],
 	"rufflessaborcheeseburger": [
 		"Ruffles_Lanchonete_before",
-		"Ruffles_Lanchonete_during"
+		"Ruffles_Lanchonete_during",
+		"Ruffles_Lanchonete_after"
 	],
 	"rufflessaborhotdog": [
 		"Ruffles_Lanchonete_before",
-		"Ruffles_Lanchonete_during"
+		"Ruffles_Lanchonete_during",
+		"Ruffles_Lanchonete_after"
 	],
 	"lde": [
 		"LOSDELESPACIO"
