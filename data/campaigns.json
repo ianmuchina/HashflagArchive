@@ -136959,5 +136959,13 @@
 		"hashTags": [
 			"uwclfinal"
 		]
+	},
+	"APPLE_WWDC_PRE_CUSTOMLIKE": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APPLE_WWDC_PRE_CUSTOMLIKE/APPLE_WWDC_PRE_CUSTOMLIKE.png",
+		"startingTimestampMs": 1685664000000,
+		"endingTimestampMs": 1685948280000,
+		"hashTags": [
+			"wwdc23"
+		]
 	}
 }
