@@ -136977,5 +136977,25 @@
 			"rufflessaborcheeseburger",
 			"rufflessaborhotdog"
 		]
+	},
+	"Spider_Man_ATSV_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spider_Man_ATSV_after/Spider_Man_ATSV_after.png",
+		"startingTimestampMs": 1685775600000,
+		"endingTimestampMs": 1688428740000,
+		"hashTags": [
+			"acrossthespiderverse",
+			"milesmorales",
+			"shameikmoore",
+			"spiderman",
+			"spiderverse"
+		]
+	},
+	"VCTMastersJune2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/VCTMastersJune2023/VCTMastersJune2023.png",
+		"startingTimestampMs": 1685775600000,
+		"endingTimestampMs": 1688079600000,
+		"hashTags": [
+			"valorantmasters"
+		]
 	}
 }
