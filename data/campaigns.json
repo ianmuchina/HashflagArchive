@@ -137016,5 +137016,13 @@
 			"パワプロアプリ",
 			"パワプロ鬼滅の刃コラボ"
 		]
+	},
+	"UWCLfinal_AfterHashfetti_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UWCLfinal_AfterHashfetti_2023/UWCLfinal_AfterHashfetti_2023.png",
+		"startingTimestampMs": 1685923200000,
+		"endingTimestampMs": 1686441660000,
+		"hashTags": [
+			"uwclfinal"
+		]
 	}
 }
