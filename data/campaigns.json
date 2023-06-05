@@ -137024,5 +137024,15 @@
 		"hashTags": [
 			"uwclfinal"
 		]
+	},
+	"OBoticario_Valentines_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OBoticario_Valentines_before/OBoticario_Valentines_before.png",
+		"startingTimestampMs": 1685934000000,
+		"endingTimestampMs": 1686020340000,
+		"hashTags": [
+			"centraldoamor",
+			"diskboti",
+			"disklovezin"
+		]
 	}
 }
