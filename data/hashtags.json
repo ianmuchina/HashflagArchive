@@ -94835,7 +94835,8 @@
 	],
 	"wwdc23": [
 		"APPLE_WWDC_2023",
-		"APPLE_WWDC_PRE_CUSTOMLIKE"
+		"APPLE_WWDC_PRE_CUSTOMLIKE",
+		"APPLE_WWDC_GLOBAL_CUSTOMLIKE_2023"
 	],
 	"astartarugasninja": [
 		"ParamountPics_TMNT_MutantMayhem_Leonardo"
@@ -94998,5 +94999,26 @@
 	],
 	"disklovezin": [
 		"OBoticario_Valentines_before"
+	],
+	"bringthenrg": [
+		"NRG_LCS_Emoji2023"
+	],
+	"futuretakesflight": [
+		"Riyadh_Air_Launch_2023"
+	],
+	"riyadhair": [
+		"Riyadh_Air_Launch_2023"
+	],
+	"starfield": [
+		"Xbox_Games_Showcase_Starfield_Q4FY23_CY_2023"
+	],
+	"starfielddirect": [
+		"Xbox_Games_Showcase_Starfield_Q4FY23_CY_2023"
+	],
+	"المستقبل_يبدأ_هنا": [
+		"Riyadh_Air_Launch_2023"
+	],
+	"طيران_الرياض": [
+		"Riyadh_Air_Launch_2023"
 	]
 }

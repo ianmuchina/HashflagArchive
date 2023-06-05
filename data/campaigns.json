@@ -137034,5 +137034,41 @@
 			"diskboti",
 			"disklovezin"
 		]
+	},
+	"NRG_LCS_Emoji2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NRG_LCS_Emoji2023/NRG_LCS_Emoji2023.png",
+		"startingTimestampMs": 1685948400000,
+		"endingTimestampMs": 1703977200000,
+		"hashTags": [
+			"bringthenrg"
+		]
+	},
+	"Riyadh_Air_Launch_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Riyadh_Air_Launch_2023/Riyadh_Air_Launch_2023.png",
+		"startingTimestampMs": 1685940300000,
+		"endingTimestampMs": 1693716240000,
+		"hashTags": [
+			"futuretakesflight",
+			"riyadhair",
+			"المستقبل_يبدأ_هنا",
+			"طيران_الرياض"
+		]
+	},
+	"Xbox_Games_Showcase_Starfield_Q4FY23_CY_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Xbox_Games_Showcase_Starfield_Q4FY23_CY_2023/Xbox_Games_Showcase_Starfield_Q4FY23_CY_2023.png",
+		"startingTimestampMs": 1685948400000,
+		"endingTimestampMs": 1693897200000,
+		"hashTags": [
+			"starfield",
+			"starfielddirect"
+		]
+	},
+	"APPLE_WWDC_GLOBAL_CUSTOMLIKE_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APPLE_WWDC_GLOBAL_CUSTOMLIKE_2023/APPLE_WWDC_GLOBAL_CUSTOMLIKE_2023.png",
+		"startingTimestampMs": 1685948340000,
+		"endingTimestampMs": 1686034800000,
+		"hashTags": [
+			"wwdc23"
+		]
 	}
 }
