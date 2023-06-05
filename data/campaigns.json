@@ -137070,5 +137070,13 @@
 		"hashTags": [
 			"wwdc23"
 		]
+	},
+	"2023_WNBA_Emojis_LA_Sparks": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2023_WNBA_Emojis_LA_Sparks/2023_WNBA_Emojis_LA_Sparks.png",
+		"startingTimestampMs": 1685957700000,
+		"endingTimestampMs": 1696844100000,
+		"hashTags": [
+			"letsgosparks"
+		]
 	}
 }
