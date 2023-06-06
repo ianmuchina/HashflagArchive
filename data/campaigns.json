@@ -137098,5 +137098,14 @@
 			"diskboti",
 			"disklovezin"
 		]
+	},
+	"OBoticario_Valentines_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OBoticario_Valentines_during/OBoticario_Valentines_during.png",
+		"startingTimestampMs": 1686020400000,
+		"endingTimestampMs": 1686106740000,
+		"hashTags": [
+			"diskboti",
+			"disklovezin"
+		]
 	}
 }
