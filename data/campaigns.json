@@ -137127,5 +137127,28 @@
 		"hashTags": [
 			"wwdc23"
 		]
+	},
+	"ASAHI_SOFT_DRINKS_Calpis_June_Japan_2023_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ASAHI_SOFT_DRINKS_Calpis_June_Japan_2023_Emoji/ASAHI_SOFT_DRINKS_Calpis_June_Japan_2023_Emoji.png",
+		"startingTimestampMs": 1686063600000,
+		"endingTimestampMs": 1688741940000,
+		"hashTags": [
+			"7月7日はカルピスの日",
+			"しあわせの味",
+			"カルピス",
+			"七夕はカルピスと短冊つくろう",
+			"七夕はカルピスを飲んで願いごと"
+		]
+	},
+	"Mihoyo_HSR_Silverwolf_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Mihoyo_HSR_Silverwolf_2023/Mihoyo_HSR_Silverwolf_2023.png",
+		"startingTimestampMs": 1686063600000,
+		"endingTimestampMs": 1693839600000,
+		"hashTags": [
+			"lobaprateada",
+			"silverwolf",
+			"銀狼",
+			"은랑"
+		]
 	}
 }
