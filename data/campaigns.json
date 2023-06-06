@@ -137119,5 +137119,13 @@
 			"sexandthecity",
 			"sexandthecity25"
 		]
+	},
+	"APPLE_WWDC_POST_CUSTOMLIKE_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APPLE_WWDC_POST_CUSTOMLIKE_v2/APPLE_WWDC_POST_CUSTOMLIKE_v2.png",
+		"startingTimestampMs": 1686034860000,
+		"endingTimestampMs": 1686380400000,
+		"hashTags": [
+			"wwdc23"
+		]
 	}
 }
