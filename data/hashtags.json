@@ -11957,7 +11957,8 @@
 	"createwithoutlimits": [
 		"NEAR_Oct_2022",
 		"NEAR_Branded_Hashtag_2023_update",
-		"NEAR_Branded_Hashtag_2023"
+		"NEAR_Branded_Hashtag_2023",
+		"NEAR_Branded_Hashtag_July2023_Extension"
 	],
 	"createyourtake": [
 		"Pinterest_Createyourtake"
@@ -39166,12 +39167,14 @@
 	"near": [
 		"NEAR_Oct_2022",
 		"NEAR_Branded_Hashtag_2023_update",
-		"NEAR_Branded_Hashtag_2023"
+		"NEAR_Branded_Hashtag_2023",
+		"NEAR_Branded_Hashtag_July2023_Extension"
 	],
 	"nearisnow": [
 		"NEAR_Oct_2022",
 		"NEAR_Branded_Hashtag_2023_update",
-		"NEAR_Branded_Hashtag_2023"
+		"NEAR_Branded_Hashtag_2023",
+		"NEAR_Branded_Hashtag_July2023_Extension"
 	],
 	"nearnft": [
 		"NEAR_Oct_2022"
@@ -39179,7 +39182,8 @@
 	"nearprotocol": [
 		"NEAR_Oct_2022",
 		"NEAR_Branded_Hashtag_2023_update",
-		"NEAR_Branded_Hashtag_2023"
+		"NEAR_Branded_Hashtag_2023",
+		"NEAR_Branded_Hashtag_July2023_Extension"
 	],
 	"nearxsailgp": [
 		"NEAR_SailGP_Partnership_May_2022_v2"
@@ -86560,7 +86564,8 @@
 		"NBA2KL_3v3Emoji_2023"
 	],
 	"nearisthebos": [
-		"NEAR_Branded_Hashtag_2023_update"
+		"NEAR_Branded_Hashtag_2023_update",
+		"NEAR_Branded_Hashtag_July2023_Extension"
 	],
 	"neversaydie": [
 		"AFL_GoldCoast_Emoji_2023"
@@ -95226,5 +95231,14 @@
 	],
 	"realme11proseries5g": [
 		"Realme11Pro_2023_Emoji"
+	],
+	"askbeezy": [
+		"DoeBoy"
+	],
+	"beezy": [
+		"DoeBoy"
+	],
+	"doeboy": [
+		"DoeBoy"
 	]
 }

@@ -137288,5 +137288,27 @@
 			"realme11proplus5g",
 			"realme11proseries5g"
 		]
+	},
+	"DoeBoy": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DoeBoy/DoeBoy.png",
+		"startingTimestampMs": 1686171600000,
+		"endingTimestampMs": 1693958400000,
+		"hashTags": [
+			"askbeezy",
+			"beezy",
+			"doeboy"
+		]
+	},
+	"NEAR_Branded_Hashtag_July2023_Extension": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NEAR_Branded_Hashtag_July2023_Extension/NEAR_Branded_Hashtag_July2023_Extension.png",
+		"startingTimestampMs": 1686171600000,
+		"endingTimestampMs": 1688799540000,
+		"hashTags": [
+			"createwithoutlimits",
+			"near",
+			"nearisnow",
+			"nearisthebos",
+			"nearprotocol"
+		]
 	}
 }
