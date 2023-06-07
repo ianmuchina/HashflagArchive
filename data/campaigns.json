@@ -137160,5 +137160,13 @@
 			"lazada66wowfestival",
 			"lazada66wowth"
 		]
+	},
+	"ATV_Afterparty_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ATV_Afterparty_Emoji_2023/ATV_Afterparty_Emoji_2023.png",
+		"startingTimestampMs": 1686121200000,
+		"endingTimestampMs": 1693897140000,
+		"hashTags": [
+			"theafterparty"
+		]
 	}
 }
