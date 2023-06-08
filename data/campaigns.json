@@ -137360,5 +137360,15 @@
 			"lazadathailand",
 			"ลาซาด้า"
 		]
+	},
+	"Janelle_Monae": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Janelle_Monae/Janelle_Monae.png",
+		"startingTimestampMs": 1685937600000,
+		"endingTimestampMs": 1693631700000,
+		"hashTags": [
+			"champagneshit",
+			"janellemonae",
+			"theageofpleasure"
+		]
 	}
 }
