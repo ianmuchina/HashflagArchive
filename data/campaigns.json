@@ -137350,5 +137350,15 @@
 		"hashTags": [
 			"transformers"
 		]
+	},
+	"LazadaTH_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_2023/LazadaTH_2023.png",
+		"startingTimestampMs": 1686243600000,
+		"endingTimestampMs": 1693328400000,
+		"hashTags": [
+			"lazadath",
+			"lazadathailand",
+			"ลาซาด้า"
+		]
 	}
 }
