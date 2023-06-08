@@ -137330,5 +137330,25 @@
 			"トランスフォーマー",
 			"트랜스포머"
 		]
+	},
+	"BeavertownEmoji_HeinekenUK_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BeavertownEmoji_HeinekenUK_2023/BeavertownEmoji_HeinekenUK_2023.png",
+		"startingTimestampMs": 1686214800000,
+		"endingTimestampMs": 1693555140000,
+		"hashTags": [
+			"beavertown",
+			"beavertownbeer",
+			"beavertownbeerrun",
+			"beavertownbrewery",
+			"destinationplanetsummer"
+		]
+	},
+	"Paramount_Pictures_Transformers_RiseoftheBeasts_AUTOBOT_hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramount_Pictures_Transformers_RiseoftheBeasts_AUTOBOT_hashfetti/Paramount_Pictures_Transformers_RiseoftheBeasts_AUTOBOT_hashfetti.png",
+		"startingTimestampMs": 1686211200000,
+		"endingTimestampMs": 1686297540000,
+		"hashTags": [
+			"transformers"
+		]
 	}
 }

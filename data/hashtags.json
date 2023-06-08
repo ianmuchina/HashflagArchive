@@ -59597,7 +59597,8 @@
 	],
 	"transformers": [
 		"Paramount_Pictures_Transformers_Teaser_Autobot_Dec_2022",
-		"Paramount_Pictures_Transformers_RiseoftheBeasts_AUTOBOT_before_v2"
+		"Paramount_Pictures_Transformers_RiseoftheBeasts_AUTOBOT_before_v2",
+		"Paramount_Pictures_Transformers_RiseoftheBeasts_AUTOBOT_hashfetti"
 	],
 	"transformthenight": [
 		"OPPOIndia_Jul_2022"
@@ -95246,5 +95247,20 @@
 	],
 	"doeboy": [
 		"DoeBoy"
+	],
+	"beavertown": [
+		"BeavertownEmoji_HeinekenUK_2023"
+	],
+	"beavertownbeer": [
+		"BeavertownEmoji_HeinekenUK_2023"
+	],
+	"beavertownbeerrun": [
+		"BeavertownEmoji_HeinekenUK_2023"
+	],
+	"beavertownbrewery": [
+		"BeavertownEmoji_HeinekenUK_2023"
+	],
+	"destinationplanetsummer": [
+		"BeavertownEmoji_HeinekenUK_2023"
 	]
 }
