@@ -137401,5 +137401,15 @@
 			"joyridefilm",
 			"joyridemovie"
 		]
+	},
+	"Shiseido_MQ_Branded_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Shiseido_MQ_Branded_Emoji/Shiseido_MQ_Branded_Emoji.png",
+		"startingTimestampMs": 1686322800000,
+		"endingTimestampMs": 1694185140000,
+		"hashTags": [
+			"スキンセンサーベースneo",
+			"マキアージュの最強くずれ防止下地",
+			"マキアージュの最強崩れ防止下地"
+		]
 	}
 }
