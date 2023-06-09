@@ -137411,5 +137411,23 @@
 			"マキアージュの最強くずれ防止下地",
 			"マキアージュの最強崩れ防止下地"
 		]
+	},
+	"4inchHeels_Hashfetti_Global": {
+		"assetUrl": "https://abs.twimg.com/hashflags/4inchHeels_Hashfetti_Global/4inchHeels_Hashfetti_Global.png",
+		"startingTimestampMs": 1686326400000,
+		"endingTimestampMs": 1686380340000,
+		"hashTags": [
+			"4inchheels"
+		]
+	},
+	"Sony_Music_2023_PagTatag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sony_Music_2023_PagTatag/Sony_Music_2023_PagTatag.png",
+		"startingTimestampMs": 1686327360000,
+		"endingTimestampMs": 1696090560000,
+		"hashTags": [
+			"pagtatag",
+			"pagtatagworldtour",
+			"sb19pagtatag"
+		]
 	}
 }
