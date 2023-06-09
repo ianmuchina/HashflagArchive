@@ -137390,5 +137390,16 @@
 			"トランスフォーマー",
 			"트랜스포머"
 		]
+	},
+	"Joy_Ride_Movie": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Joy_Ride_Movie/Joy_Ride_Movie.png",
+		"startingTimestampMs": 1686312120000,
+		"endingTimestampMs": 1694131140000,
+		"hashTags": [
+			"brownietuesday",
+			"joyride",
+			"joyridefilm",
+			"joyridemovie"
+		]
 	}
 }
