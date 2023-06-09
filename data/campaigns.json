@@ -137438,5 +137438,13 @@
 			"isnothingsacred",
 			"jeremyzucker"
 		]
+	},
+	"UCLfinal_Hashfetti_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UCLfinal_Hashfetti_2023/UCLfinal_Hashfetti_2023.png",
+		"startingTimestampMs": 1686355260000,
+		"endingTimestampMs": 1686527940000,
+		"hashTags": [
+			"uclfinal"
+		]
 	}
 }
