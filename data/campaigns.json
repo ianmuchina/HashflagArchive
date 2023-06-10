@@ -137446,5 +137446,13 @@
 		"hashTags": [
 			"uclfinal"
 		]
+	},
+	"4inchHeels_Hashfetti_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/4inchHeels_Hashfetti_After/4inchHeels_Hashfetti_After.png",
+		"startingTimestampMs": 1686380400000,
+		"endingTimestampMs": 1691650740000,
+		"hashTags": [
+			"4inchheels"
+		]
 	}
 }
