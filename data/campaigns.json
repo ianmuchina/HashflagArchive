@@ -137462,5 +137462,17 @@
 		"hashTags": [
 			"uclfinal"
 		]
+	},
+	"NetflixBrazil_Tudum_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetflixBrazil_Tudum_before/NetflixBrazil_Tudum_before.png",
+		"startingTimestampMs": 1686538800000,
+		"endingTimestampMs": 1686970740000,
+		"hashTags": [
+			"netflixtudum",
+			"tudum",
+			"tudum2023",
+			"tudumbrazil",
+			"tudumevent"
+		]
 	}
 }

@@ -39348,7 +39348,8 @@
 		"Netflix_Streamfest_2020_v2"
 	],
 	"netflixtudum": [
-		"Netflix_Tudum_Sept_2022"
+		"Netflix_Tudum_Sept_2022",
+		"NetflixBrazil_Tudum_before"
 	],
 	"netherlands": [
 		"ICCT20WorldCup_2021_NED",
@@ -60019,13 +60020,15 @@
 	],
 	"tudum": [
 		"Netflix_TUDUM_2021",
-		"Netflix_Tudum_Sept_2022"
+		"Netflix_Tudum_Sept_2022",
+		"NetflixBrazil_Tudum_before"
 	],
 	"tudum2022": [
 		"Netflix_Tudum_Sept_2022"
 	],
 	"tudumevent": [
-		"Netflix_Tudum_Sept_2022"
+		"Netflix_Tudum_Sept_2022",
+		"NetflixBrazil_Tudum_before"
 	],
 	"tudumshow": [
 		"Netflix_Tudum_Sept_2022"
@@ -95322,5 +95325,11 @@
 	],
 	"jeremyzucker": [
 		"Jeremy_Zucker_2023"
+	],
+	"tudum2023": [
+		"NetflixBrazil_Tudum_before"
+	],
+	"tudumbrazil": [
+		"NetflixBrazil_Tudum_before"
 	]
 }
