@@ -137474,5 +137474,13 @@
 			"tudumbrazil",
 			"tudumevent"
 		]
+	},
+	"BETAwards2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BETAwards2023/BETAwards2023.png",
+		"startingTimestampMs": 1686549600000,
+		"endingTimestampMs": 1688195400000,
+		"hashTags": [
+			"betawards"
+		]
 	}
 }
