@@ -137503,5 +137503,16 @@
 			"ドラゴンクエストチャンピオンズ",
 			"乱戦ドラクエ"
 		]
+	},
+	"Avax_Avalanche_Update_until_June30": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Avax_Avalanche_Update_until_June30/Avax_Avalanche_Update_until_June30.png",
+		"startingTimestampMs": 1686675600000,
+		"endingTimestampMs": 1688108340000,
+		"hashTags": [
+			"avalanche",
+			"avax",
+			"choseavalanche",
+			"subnet"
+		]
 	}
 }
