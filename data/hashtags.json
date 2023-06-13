@@ -62553,7 +62553,8 @@
 		"Visible_RedRocks_2020"
 	],
 	"visitsaudi": [
-		"SaudiTourism_2020"
+		"SaudiTourism_2020",
+		"Rethink_Summer_Saudi_Tourism"
 	],
 	"vitwin": [
 		"LEC_Team_Vitality_2022",
@@ -68892,7 +68893,8 @@
 	],
 	"روح_السعودية": [
 		"SaudiTourism_2020",
-		"VisitSaudiWinterCampaign_2020"
+		"VisitSaudiWinterCampaign_2020",
+		"Rethink_Summer_Saudi_Tourism"
 	],
 	"زاتكا": [
 		"Zatca_sa_Nov_2021"
@@ -95357,5 +95359,14 @@
 	],
 	"乱戦ドラクエ": [
 		"DQ_Champion_Launch_2023_during"
+	],
+	"rethinksummer": [
+		"Rethink_Summer_Saudi_Tourism"
+	],
+	"صيف_السعودية": [
+		"Rethink_Summer_Saudi_Tourism"
+	],
+	"لاتروح_بعيد": [
+		"Rethink_Summer_Saudi_Tourism"
 	]
 }

@@ -137514,5 +137514,17 @@
 			"choseavalanche",
 			"subnet"
 		]
+	},
+	"Rethink_Summer_Saudi_Tourism": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Rethink_Summer_Saudi_Tourism/Rethink_Summer_Saudi_Tourism.png",
+		"startingTimestampMs": 1686679200000,
+		"endingTimestampMs": 1694390340000,
+		"hashTags": [
+			"rethinksummer",
+			"visitsaudi",
+			"روح_السعودية",
+			"صيف_السعودية",
+			"لاتروح_بعيد"
+		]
 	}
 }
