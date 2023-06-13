@@ -137482,5 +137482,15 @@
 		"hashTags": [
 			"betawards"
 		]
+	},
+	"Alex_Warren_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Alex_Warren_2023/Alex_Warren_2023.png",
+		"startingTimestampMs": 1686571200000,
+		"endingTimestampMs": 1691475420000,
+		"hashTags": [
+			"alexwarren",
+			"alexwarrengiveyoulove",
+			"giveyoulove"
+		]
 	}
 }
