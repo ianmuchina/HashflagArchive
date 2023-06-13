@@ -137526,5 +137526,13 @@
 			"صيف_السعودية",
 			"لاتروح_بعيد"
 		]
+	},
+	"Transition_Test_CustomLike_Update": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Transition_Test_CustomLike_Update/Transition_Test_CustomLike_Update.png",
+		"startingTimestampMs": 1686686400000,
+		"endingTimestampMs": 1686689940000,
+		"hashTags": [
+			"brandedfeaturestest"
+		]
 	}
 }
