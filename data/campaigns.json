@@ -137492,5 +137492,16 @@
 			"alexwarrengiveyoulove",
 			"giveyoulove"
 		]
+	},
+	"DQ_Champion_Launch_2023_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQ_Champion_Launch_2023_during/DQ_Champion_Launch_2023_during.png",
+		"startingTimestampMs": 1686668400000,
+		"endingTimestampMs": 1686754740000,
+		"hashTags": [
+			"dqチャンピオンズ",
+			"ドラクエチャンピオンズ",
+			"ドラゴンクエストチャンピオンズ",
+			"乱戦ドラクエ"
+		]
 	}
 }
