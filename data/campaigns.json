@@ -137562,5 +137562,90 @@
 		"hashTags": [
 			"vivatech"
 		]
+	},
+	"Oshinoko_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Oshinoko_2023/Oshinoko_2023.png",
+		"startingTimestampMs": 1686754800000,
+		"endingTimestampMs": 1689433200000,
+		"hashTags": [
+			"b小町アイ",
+			"oshinoko",
+			"推しの子"
+		]
+	},
+	"DQ_Champion_Launch_2023_During_CustomLike_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQ_Champion_Launch_2023_During_CustomLike_v2/DQ_Champion_Launch_2023_During_CustomLike_v2.png",
+		"startingTimestampMs": 1686754800000,
+		"endingTimestampMs": 1686841140000,
+		"hashTags": [
+			"dqチャンピオンズ",
+			"ドラクエチャンピオンズ",
+			"ドラゴンクエストチャンピオンズ",
+			"乱戦ドラクエ"
+		]
+	},
+	"Odin_Valhalla_Rising_2023_New_Gaming_App_Launch": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Odin_Valhalla_Rising_2023_New_Gaming_App_Launch/Odin_Valhalla_Rising_2023_New_Gaming_App_Launch.png",
+		"startingTimestampMs": 1686754800000,
+		"endingTimestampMs": 1689433140000,
+		"hashTags": [
+			"オーディン",
+			"オーディンに願いを",
+			"オーディンヴァルハラライジング",
+			"ヴァルハライブ",
+			"超ヴァルハラ百景"
+		]
+	},
+	"HeavenBurnsRed_Additional_Emoji_8_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HeavenBurnsRed_Additional_Emoji_8_extend/HeavenBurnsRed_Additional_Emoji_8_extend.png",
+		"startingTimestampMs": 1686754800000,
+		"endingTimestampMs": 1694617140000,
+		"hashTags": [
+			"ヘブバン",
+			"ヘブバンレディオ",
+			"ヘブバン生放送",
+			"ヘブンバーンズレッド",
+			"茅森月歌"
+		]
+	},
+	"UPDATE_HeavenBurnsRed_Additional_Emoji_2_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UPDATE_HeavenBurnsRed_Additional_Emoji_2_extend/UPDATE_HeavenBurnsRed_Additional_Emoji_2_extend.png",
+		"startingTimestampMs": 1686754800000,
+		"endingTimestampMs": 1694617140000,
+		"hashTags": [
+			"和泉ユキ"
+		]
+	},
+	"UPDATE_HeavenBurnsRed_Additional_Emoji_5_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UPDATE_HeavenBurnsRed_Additional_Emoji_5_extend/UPDATE_HeavenBurnsRed_Additional_Emoji_5_extend.png",
+		"startingTimestampMs": 1686754800000,
+		"endingTimestampMs": 1694617140000,
+		"hashTags": [
+			"國見タマ"
+		]
+	},
+	"UPDATE_HeavenBurnsRed_Additional_Emoji_4_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UPDATE_HeavenBurnsRed_Additional_Emoji_4_extend/UPDATE_HeavenBurnsRed_Additional_Emoji_4_extend.png",
+		"startingTimestampMs": 1686754800000,
+		"endingTimestampMs": 1694617140000,
+		"hashTags": [
+			"朝倉可憐"
+		]
+	},
+	"HeavenBurnsRed_Additional_Emoji_3_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HeavenBurnsRed_Additional_Emoji_3_extend/HeavenBurnsRed_Additional_Emoji_3_extend.png",
+		"startingTimestampMs": 1686754800000,
+		"endingTimestampMs": 1694617140000,
+		"hashTags": [
+			"東城つかさ"
+		]
+	},
+	"HeavenBurnsRed_Additional_Emoji_6_extend": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HeavenBurnsRed_Additional_Emoji_6_extend/HeavenBurnsRed_Additional_Emoji_6_extend.png",
+		"startingTimestampMs": 1686754800000,
+		"endingTimestampMs": 1694617140000,
+		"hashTags": [
+			"逢川めぐみ"
+		]
 	}
 }
