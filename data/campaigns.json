@@ -137534,5 +137534,33 @@
 		"hashTags": [
 			"brandedfeaturestest"
 		]
+	},
+	"Mysten_Labs_2023_until_4JUL2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Mysten_Labs_2023_until_4JUL2023/Mysten_Labs_2023_until_4JUL2023.png",
+		"startingTimestampMs": 1686704400000,
+		"endingTimestampMs": 1688457600000,
+		"hashTags": [
+			"buildonsui"
+		]
+	},
+	"McDonalds_June_Tentpole_2Q23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/McDonalds_June_Tentpole_2Q23/McDonalds_June_Tentpole_2Q23.png",
+		"startingTimestampMs": 1686546000000,
+		"endingTimestampMs": 1688965140000,
+		"hashTags": [
+			"grimacesbday",
+			"grimacesbdaymeal",
+			"grimacesbirthday",
+			"grimacesbirthdaymeal",
+			"hbdgrimace"
+		]
+	},
+	"EmojiVivaTech_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EmojiVivaTech_2023/EmojiVivaTech_2023.png",
+		"startingTimestampMs": 1686704400000,
+		"endingTimestampMs": 1687057200000,
+		"hashTags": [
+			"vivatech"
+		]
 	}
 }

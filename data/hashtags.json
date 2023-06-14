@@ -94150,7 +94150,8 @@
 		"WWEBacklash2023Emoji"
 	],
 	"buildonsui": [
-		"Mysten_Labs_2023"
+		"Mysten_Labs_2023",
+		"Mysten_Labs_2023_until_4JUL2023"
 	],
 	"スパイダーマンvs全スパイダーマン": [
 		"SPE_Spider_Man_2023_Spider_Man_movie_release_Hashtag_2023"
@@ -95371,5 +95372,23 @@
 	],
 	"brandedfeaturestest": [
 		"Transition_Test_CustomLike_Update"
+	],
+	"grimacesbday": [
+		"McDonalds_June_Tentpole_2Q23"
+	],
+	"grimacesbdaymeal": [
+		"McDonalds_June_Tentpole_2Q23"
+	],
+	"grimacesbirthday": [
+		"McDonalds_June_Tentpole_2Q23"
+	],
+	"grimacesbirthdaymeal": [
+		"McDonalds_June_Tentpole_2Q23"
+	],
+	"hbdgrimace": [
+		"McDonalds_June_Tentpole_2Q23"
+	],
+	"vivatech": [
+		"EmojiVivaTech_2023"
 	]
 }
