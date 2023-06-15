@@ -137647,5 +137647,31 @@
 		"hashTags": [
 			"逢川めぐみ"
 		]
+	},
+	"Nuggets_NBA_Finals_Before_Parade": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Nuggets_NBA_Finals_Before_Parade/Nuggets_NBA_Finals_Before_Parade.png",
+		"startingTimestampMs": 1686700800000,
+		"endingTimestampMs": 1686826740000,
+		"hashTags": [
+			"bringitin"
+		]
+	},
+	"NRG_LCS_Emoji_June2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NRG_LCS_Emoji_June2023/NRG_LCS_Emoji_June2023.png",
+		"startingTimestampMs": 1686758400000,
+		"endingTimestampMs": 1703977200000,
+		"hashTags": [
+			"bringthenrg",
+			"nrgwin"
+		]
+	},
+	"LCS_SummerHashtag_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LCS_SummerHashtag_2023/LCS_SummerHashtag_2023.png",
+		"startingTimestampMs": 1686758400000,
+		"endingTimestampMs": 1703977200000,
+		"hashTags": [
+			"itstartsnow",
+			"lcs"
+		]
 	}
 }

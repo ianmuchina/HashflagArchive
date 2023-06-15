@@ -31430,7 +31430,8 @@
 		"LCS_League_2021",
 		"LCS_League_2022_v2",
 		"LCS10_League_2022",
-		"LCS_League_2023"
+		"LCS_League_2023",
+		"LCS_SummerHashtag_2023"
 	],
 	"lcs10": [
 		"LCS10_League_2022"
@@ -86235,7 +86236,8 @@
 		"4503599712179207"
 	],
 	"itstartsnow": [
-		"LCS_League_2023"
+		"LCS_League_2023",
+		"LCS_SummerHashtag_2023"
 	],
 	"jalanjauhjanganlupapulang": [
 		"JalanJauhJanganLupaPulang"
@@ -92390,7 +92392,8 @@
 	],
 	"bringitin": [
 		"NBA_Playoff_Team_Hashtag_Emoji_NUGGETS_2023",
-		"Nuggets_NBA_Finals"
+		"Nuggets_NBA_Finals",
+		"Nuggets_NBA_Finals_Before_Parade"
 	],
 	"feeltheroar": [
 		"NBA_Playoff_Team_Hashtag_Emoji_SACKINGS_2023"
@@ -95059,7 +95062,8 @@
 		"OBoticario_Valentines_during"
 	],
 	"bringthenrg": [
-		"NRG_LCS_Emoji2023"
+		"NRG_LCS_Emoji2023",
+		"NRG_LCS_Emoji_June2023"
 	],
 	"futuretakesflight": [
 		"Riyadh_Air_Launch_2023"
@@ -95428,5 +95432,8 @@
 	],
 	"超ヴァルハラ百景": [
 		"Odin_Valhalla_Rising_2023_New_Gaming_App_Launch"
+	],
+	"nrgwin": [
+		"NRG_LCS_Emoji_June2023"
 	]
 }
