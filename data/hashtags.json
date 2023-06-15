@@ -76202,7 +76202,8 @@
 		"HarryPotterNetease_Q2_2021"
 	],
 	"ハリポタ覚醒": [
-		"HarryPotterNetease_Q2_2021"
+		"HarryPotterNetease_Q2_2021",
+		"NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_before"
 	],
 	"ハルク": [
 		"DisneyPlus_SheHulk_S1_BruceBanner"
@@ -95366,19 +95367,23 @@
 	],
 	"dqチャンピオンズ": [
 		"DQ_Champion_Launch_2023_during",
-		"DQ_Champion_Launch_2023_During_CustomLike_v2"
+		"DQ_Champion_Launch_2023_During_CustomLike_v2",
+		"DQ_Champion_Launch_2023_after"
 	],
 	"ドラクエチャンピオンズ": [
 		"DQ_Champion_Launch_2023_during",
-		"DQ_Champion_Launch_2023_During_CustomLike_v2"
+		"DQ_Champion_Launch_2023_During_CustomLike_v2",
+		"DQ_Champion_Launch_2023_after"
 	],
 	"ドラゴンクエストチャンピオンズ": [
 		"DQ_Champion_Launch_2023_during",
-		"DQ_Champion_Launch_2023_During_CustomLike_v2"
+		"DQ_Champion_Launch_2023_During_CustomLike_v2",
+		"DQ_Champion_Launch_2023_after"
 	],
 	"乱戦ドラクエ": [
 		"DQ_Champion_Launch_2023_during",
-		"DQ_Champion_Launch_2023_During_CustomLike_v2"
+		"DQ_Champion_Launch_2023_During_CustomLike_v2",
+		"DQ_Champion_Launch_2023_after"
 	],
 	"rethinksummer": [
 		"Rethink_Summer_Saudi_Tourism"
@@ -95445,5 +95450,35 @@
 	],
 	"leighanne": [
 		"Warner_Leigh_Anne_23"
+	],
+	"6月27日ハリポタ覚醒": [
+		"NetEase_HarryPotterMAJP_2023Launch_HarryDesign"
+	],
+	"6月27日魔法の覚醒": [
+		"NetEase_HarryPotterMAJP_2023Launch_HarryDesign"
+	],
+	"dqチャンプ": [
+		"DQ_Champion_Launch_2023_after"
+	],
+	"ハリポタ覚醒から入学許可": [
+		"NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_before"
+	],
+	"ハリポタ覚醒リリース": [
+		"NetEase_HarryPotterMAJP_2023Launch_HarryDesign"
+	],
+	"ハリポタ魔法の覚醒": [
+		"NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_before"
+	],
+	"ホグワーツからのお手紙": [
+		"NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_before"
+	],
+	"ホグワーツ入学許可書": [
+		"NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_before"
+	],
+	"魔法の覚醒": [
+		"NetEase_HarryPotterMAJP_2023Launch_HarryDesign"
+	],
+	"魔法の覚醒リリース": [
+		"NetEase_HarryPotterMAJP_2023Launch_HarryDesign"
 	]
 }

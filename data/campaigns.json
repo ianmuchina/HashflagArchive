@@ -137691,5 +137691,41 @@
 		"hashTags": [
 			"bringitin"
 		]
+	},
+	"NetEase_HarryPotterMAJP_2023Launch_HarryDesign": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetEase_HarryPotterMAJP_2023Launch_HarryDesign/NetEase_HarryPotterMAJP_2023Launch_HarryDesign.png",
+		"startingTimestampMs": 1686841200000,
+		"endingTimestampMs": 1694617200000,
+		"hashTags": [
+			"6月27日ハリポタ覚醒",
+			"6月27日魔法の覚醒",
+			"ハリポタ覚醒リリース",
+			"魔法の覚醒",
+			"魔法の覚醒リリース"
+		]
+	},
+	"DQ_Champion_Launch_2023_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQ_Champion_Launch_2023_after/DQ_Champion_Launch_2023_after.png",
+		"startingTimestampMs": 1686841200000,
+		"endingTimestampMs": 1694357940000,
+		"hashTags": [
+			"dqチャンピオンズ",
+			"dqチャンプ",
+			"ドラクエチャンピオンズ",
+			"ドラゴンクエストチャンピオンズ",
+			"乱戦ドラクエ"
+		]
+	},
+	"NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_before/NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_before.png",
+		"startingTimestampMs": 1686841200000,
+		"endingTimestampMs": 1688223540000,
+		"hashTags": [
+			"ハリポタ覚醒",
+			"ハリポタ覚醒から入学許可",
+			"ハリポタ魔法の覚醒",
+			"ホグワーツからのお手紙",
+			"ホグワーツ入学許可書"
+		]
 	}
 }
