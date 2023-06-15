@@ -137683,5 +137683,13 @@
 			"dsl",
 			"leighanne"
 		]
+	},
+	"Nuggets_Championship_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Nuggets_Championship_2023/Nuggets_Championship_2023.png",
+		"startingTimestampMs": 1686826800000,
+		"endingTimestampMs": 1686902400000,
+		"hashTags": [
+			"bringitin"
+		]
 	}
 }
