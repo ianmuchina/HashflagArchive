@@ -137743,5 +137743,16 @@
 		"hashTags": [
 			"mcdoxdjsnake"
 		]
+	},
+	"Strongbow_ULTRA_emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Strongbow_ULTRA_emoji_2023/Strongbow_ULTRA_emoji_2023.png",
+		"startingTimestampMs": 1686873660000,
+		"endingTimestampMs": 1690847940000,
+		"hashTags": [
+			"strongbowultra",
+			"strongbowultraapple",
+			"strongbowultracider",
+			"ultrastrongbow"
+		]
 	}
 }

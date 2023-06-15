@@ -53879,10 +53879,12 @@
 		"BBCChildrenInNeed2020_v2"
 	],
 	"strongbowultra": [
-		"Heineken_Strongbow_Ultra_Apr_2022"
+		"Heineken_Strongbow_Ultra_Apr_2022",
+		"Strongbow_ULTRA_emoji_2023"
 	],
 	"strongbowultracider": [
-		"Heineken_Strongbow_Ultra_Apr_2022"
+		"Heineken_Strongbow_Ultra_Apr_2022",
+		"Strongbow_ULTRA_emoji_2023"
 	],
 	"strongerasone": [
 		"ISL_2021_2022_NEUFC",
@@ -60913,7 +60915,8 @@
 		"Verizon_UltraShow_2022_v2"
 	],
 	"ultrastrongbow": [
-		"Heineken_Strongbow_Ultra_Apr_2022"
+		"Heineken_Strongbow_Ultra_Apr_2022",
+		"Strongbow_ULTRA_emoji_2023"
 	],
 	"ultron": [
 		"DisneyPlus_WhatIfLaunch_Ultron"
@@ -95484,5 +95487,8 @@
 	],
 	"mcdoxdjsnake": [
 		"CampagneJJ_2023_Hashmoji_before_Hashfetti"
+	],
+	"strongbowultraapple": [
+		"Strongbow_ULTRA_emoji_2023"
 	]
 }
