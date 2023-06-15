@@ -137727,5 +137727,13 @@
 			"ホグワーツからのお手紙",
 			"ホグワーツ入学許可書"
 		]
+	},
+	"SF_49ers_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SF_49ers_2023/SF_49ers_2023.png",
+		"startingTimestampMs": 1686787200000,
+		"endingTimestampMs": 1706832000000,
+		"hashTags": [
+			"fttb"
+		]
 	}
 }
