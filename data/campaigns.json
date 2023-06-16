@@ -137837,5 +137837,15 @@
 			"엘리멘탈시티",
 			"픽사엘리멘탈"
 		]
+	},
+	"Willie_Jones": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Willie_Jones/Willie_Jones.png",
+		"startingTimestampMs": 1686888000000,
+		"endingTimestampMs": 1701444540000,
+		"hashTags": [
+			"somethingtodanceto",
+			"williejones",
+			"williesomethingtodanceto"
+		]
 	}
 }
