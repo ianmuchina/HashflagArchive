@@ -137754,5 +137754,16 @@
 			"strongbowultracider",
 			"ultrastrongbow"
 		]
+	},
+	"Strongbow_Dark_Fruit_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Strongbow_Dark_Fruit_Emoji/Strongbow_Dark_Fruit_Emoji.png",
+		"startingTimestampMs": 1686877260000,
+		"endingTimestampMs": 1690847940000,
+		"hashTags": [
+			"darkfruittakeabow",
+			"strongbowdarkfruit",
+			"strongbowdf",
+			"takeabowdf"
+		]
 	}
 }
