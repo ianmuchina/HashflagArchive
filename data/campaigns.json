@@ -137847,5 +137847,13 @@
 			"williejones",
 			"williesomethingtodanceto"
 		]
+	},
+	"Pepsico_ElmaChips_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pepsico_ElmaChips_Before/Pepsico_ElmaChips_Before.png",
+		"startingTimestampMs": 1686884400000,
+		"endingTimestampMs": 1687489140000,
+		"hashTags": [
+			"amendoinselmachips"
+		]
 	}
 }
