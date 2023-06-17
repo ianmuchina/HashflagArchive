@@ -39355,7 +39355,8 @@
 	],
 	"netflixtudum": [
 		"Netflix_Tudum_Sept_2022",
-		"NetflixBrazil_Tudum_before"
+		"NetflixBrazil_Tudum_before",
+		"NetflixBrazil_Tudum_during"
 	],
 	"netherlands": [
 		"ICCT20WorldCup_2021_NED",
@@ -60036,7 +60037,8 @@
 	],
 	"tudumevent": [
 		"Netflix_Tudum_Sept_2022",
-		"NetflixBrazil_Tudum_before"
+		"NetflixBrazil_Tudum_before",
+		"NetflixBrazil_Tudum_during"
 	],
 	"tudumshow": [
 		"Netflix_Tudum_Sept_2022"
@@ -95486,10 +95488,12 @@
 		"Jeremy_Zucker_2023"
 	],
 	"tudum2023": [
-		"NetflixBrazil_Tudum_before"
+		"NetflixBrazil_Tudum_before",
+		"NetflixBrazil_Tudum_during"
 	],
 	"tudumbrazil": [
-		"NetflixBrazil_Tudum_before"
+		"NetflixBrazil_Tudum_before",
+		"NetflixBrazil_Tudum_during"
 	],
 	"alexwarren": [
 		"Alex_Warren_2023"

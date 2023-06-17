@@ -137934,5 +137934,16 @@
 		"hashTags": [
 			"elemental"
 		]
+	},
+	"NetflixBrazil_Tudum_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetflixBrazil_Tudum_during/NetflixBrazil_Tudum_during.png",
+		"startingTimestampMs": 1686970800000,
+		"endingTimestampMs": 1687060800000,
+		"hashTags": [
+			"netflixtudum",
+			"tudum2023",
+			"tudumbrazil",
+			"tudumevent"
+		]
 	}
 }
