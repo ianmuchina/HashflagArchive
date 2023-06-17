@@ -137945,5 +137945,15 @@
 			"tudumbrazil",
 			"tudumevent"
 		]
+	},
+	"RCA_Victoria_Monet": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RCA_Victoria_Monet/RCA_Victoria_Monet.png",
+		"startingTimestampMs": 1686974400000,
+		"endingTimestampMs": 1694860260000,
+		"hashTags": [
+			"ilookgood",
+			"onmymama",
+			"victoriamonet"
+		]
 	}
 }
