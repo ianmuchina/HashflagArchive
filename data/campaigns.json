@@ -138039,5 +138039,17 @@
 			"tudumbrazil",
 			"tudumevent"
 		]
+	},
+	"Aniplex_2023_Kimetsu_Anime": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Aniplex_2023_Kimetsu_Anime/Aniplex_2023_Kimetsu_Anime.png",
+		"startingTimestampMs": 1687102200000,
+		"endingTimestampMs": 1694962740000,
+		"hashTags": [
+			"demonslayer",
+			"刀鍛冶の里編",
+			"柱稽古編",
+			"竈門兄妹",
+			"鬼滅の刃"
+		]
 	}
 }
