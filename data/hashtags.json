@@ -39356,7 +39356,8 @@
 	"netflixtudum": [
 		"Netflix_Tudum_Sept_2022",
 		"NetflixBrazil_Tudum_before",
-		"NetflixBrazil_Tudum_during"
+		"NetflixBrazil_Tudum_during",
+		"NetflixBrazil_Tudum_after"
 	],
 	"netherlands": [
 		"ICCT20WorldCup_2021_NED",
@@ -60030,7 +60031,8 @@
 	"tudum": [
 		"Netflix_TUDUM_2021",
 		"Netflix_Tudum_Sept_2022",
-		"NetflixBrazil_Tudum_before"
+		"NetflixBrazil_Tudum_before",
+		"NetflixBrazil_Tudum_after"
 	],
 	"tudum2022": [
 		"Netflix_Tudum_Sept_2022"
@@ -60038,7 +60040,8 @@
 	"tudumevent": [
 		"Netflix_Tudum_Sept_2022",
 		"NetflixBrazil_Tudum_before",
-		"NetflixBrazil_Tudum_during"
+		"NetflixBrazil_Tudum_during",
+		"NetflixBrazil_Tudum_after"
 	],
 	"tudumshow": [
 		"Netflix_Tudum_Sept_2022"
@@ -95555,11 +95558,13 @@
 	],
 	"tudum2023": [
 		"NetflixBrazil_Tudum_before",
-		"NetflixBrazil_Tudum_during"
+		"NetflixBrazil_Tudum_during",
+		"NetflixBrazil_Tudum_after"
 	],
 	"tudumbrazil": [
 		"NetflixBrazil_Tudum_before",
-		"NetflixBrazil_Tudum_during"
+		"NetflixBrazil_Tudum_during",
+		"NetflixBrazil_Tudum_after"
 	],
 	"alexwarren": [
 		"Alex_Warren_2023"

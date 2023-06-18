@@ -138027,5 +138027,17 @@
 			"엘리멘탈시티",
 			"픽사엘리멘탈"
 		]
+	},
+	"NetflixBrazil_Tudum_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetflixBrazil_Tudum_after/NetflixBrazil_Tudum_after.png",
+		"startingTimestampMs": 1687060860000,
+		"endingTimestampMs": 1687233600000,
+		"hashTags": [
+			"netflixtudum",
+			"tudum",
+			"tudum2023",
+			"tudumbrazil",
+			"tudumevent"
+		]
 	}
 }
