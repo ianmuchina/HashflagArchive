@@ -138063,5 +138063,13 @@
 			"lvmenss24",
 			"lvxpharrell"
 		]
+	},
+	"BFTest1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BFTest1/BFTest1.png",
+		"startingTimestampMs": 1687208400000,
+		"endingTimestampMs": 1687218900000,
+		"hashTags": [
+			"brandedfeatures"
+		]
 	}
 }
