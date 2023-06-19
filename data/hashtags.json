@@ -33531,7 +33531,8 @@
 	],
 	"louisvuittonmen": [
 		"Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022",
-		"Louis_Vuitton_Men_Show_FW23_Jan_20"
+		"Louis_Vuitton_Men_Show_FW23_Jan_20",
+		"LV_Men_SS24"
 	],
 	"louiswain": [
 		"AmazonStudios_LouisWain_2021"
@@ -34105,7 +34106,8 @@
 		"LouisVuittonMen_FW21",
 		"LVMenFW22_Show_Men_Jan_2022",
 		"Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022",
-		"Louis_Vuitton_Men_Show_FW23_Jan_20"
+		"Louis_Vuitton_Men_Show_FW23_Jan_20",
+		"LV_Men_SS24"
 	],
 	"lvmenfw21": [
 		"LVMenFW21",
@@ -95734,5 +95736,14 @@
 	],
 	"竈門兄妹": [
 		"Aniplex_2023_Kimetsu_Anime"
+	],
+	"louisvuittonmenss24": [
+		"LV_Men_SS24"
+	],
+	"lvmenss24": [
+		"LV_Men_SS24"
+	],
+	"lvxpharrell": [
+		"LV_Men_SS24"
 	]
 }
