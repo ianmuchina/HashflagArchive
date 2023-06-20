@@ -138071,5 +138071,13 @@
 		"hashTags": [
 			"brandedfeatures"
 		]
+	},
+	"Mercado_Livre_Pride_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Mercado_Livre_Pride_During/Mercado_Livre_Pride_During.png",
+		"startingTimestampMs": 1687230000000,
+		"endingTimestampMs": 1687229940000,
+		"hashTags": [
+			"museadadiversidade"
+		]
 	}
 }
