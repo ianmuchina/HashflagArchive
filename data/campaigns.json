@@ -138123,5 +138123,13 @@
 		"hashTags": [
 			"mcdoxdjsnake"
 		]
+	},
+	"BFTestv2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BFTestv2/BFTestv2.png",
+		"startingTimestampMs": 1687305600000,
+		"endingTimestampMs": 1687312800000,
+		"hashTags": [
+			"brandedfeatures"
+		]
 	}
 }

@@ -92561,7 +92561,8 @@
 	"brandedfeatures": [
 		"Branded_Features_Global_Test_v3",
 		"Branded_Features_Global_Test_APAC",
-		"BFTest1"
+		"BFTest1",
+		"BFTestv2"
 	],
 	"amcs": [
 		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American"
