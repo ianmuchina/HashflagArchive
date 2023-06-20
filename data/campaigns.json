@@ -138095,5 +138095,25 @@
 		"hashTags": [
 			"museudadiversidade"
 		]
+	},
+	"Sony_Pictures_Kraven_The_Hunter": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sony_Pictures_Kraven_The_Hunter/Sony_Pictures_Kraven_The_Hunter.png",
+		"startingTimestampMs": 1687287600000,
+		"endingTimestampMs": 1695081540000,
+		"hashTags": [
+			"aarontaylorjohnson",
+			"kraven",
+			"kravenmovie",
+			"kraventhehunter",
+			"kraventhemovie"
+		]
+	},
+	"PowerThePlanetEmoji2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PowerThePlanetEmoji2023/PowerThePlanetEmoji2023.png",
+		"startingTimestampMs": 1687294800000,
+		"endingTimestampMs": 1687640340000,
+		"hashTags": [
+			"powertheplanet"
+		]
 	}
 }
