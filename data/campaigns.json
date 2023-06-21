@@ -138141,5 +138141,28 @@
 			"aliciakeys",
 			"keys2thesummer"
 		]
+	},
+	"FF16_Launch_Emoji_Animation_during_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FF16_Launch_Emoji_Animation_during_v2/FF16_Launch_Emoji_Animation_during_v2.png",
+		"startingTimestampMs": 1687359600000,
+		"endingTimestampMs": 1687445940000,
+		"hashTags": [
+			"finalfantasyxvi",
+			"ファイナルファンタジーxvi",
+			"召喚獣合戦",
+			"来いイフリート"
+		]
+	},
+	"Wonderful101_Launch_Emoji_June2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Wonderful101_Launch_Emoji_June2023/Wonderful101_Launch_Emoji_June2023.png",
+		"startingTimestampMs": 1687359600000,
+		"endingTimestampMs": 1689951540000,
+		"hashTags": [
+			"luka",
+			"platinumgames",
+			"thewonderful1",
+			"tw1",
+			"wondeful1gameplay"
+		]
 	}
 }
