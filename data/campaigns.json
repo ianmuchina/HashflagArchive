@@ -138131,5 +138131,15 @@
 		"hashTags": [
 			"brandedfeatures"
 		]
+	},
+	"Alicia_Keys_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Alicia_Keys_23/Alicia_Keys_23.png",
+		"startingTimestampMs": 1687320000000,
+		"endingTimestampMs": 1693479000000,
+		"hashTags": [
+			"aktour",
+			"aliciakeys",
+			"keys2thesummer"
+		]
 	}
 }

@@ -2291,7 +2291,8 @@
 		"AliciaKeysUnderdogAlbum2020_Flight2_v2",
 		"Alicia_Keys_Songs_In_A_Minor_Anniversary_Emoji_2021",
 		"AliciaKeys_2_2020",
-		"Alicia_Keys_Album_Piano_2021_Take2"
+		"Alicia_Keys_Album_Piano_2021_Take2",
+		"Alicia_Keys_23"
 	],
 	"aliciathealbum": [
 		"AliciaKeysUnderdogAlbum2020_Flight2_v2",
@@ -95771,5 +95772,11 @@
 	],
 	"powertheplanet": [
 		"PowerThePlanetEmoji2023"
+	],
+	"aktour": [
+		"Alicia_Keys_23"
+	],
+	"keys2thesummer": [
+		"Alicia_Keys_23"
 	]
 }
