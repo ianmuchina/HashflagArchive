@@ -43136,7 +43136,8 @@
 	],
 	"parm": [
 		"MORINAGA_PARM_JP_2020",
-		"MorinagaMilk_Parm_April_2021"
+		"MorinagaMilk_Parm_April_2021",
+		"Morinaga_Milk_Industry_PARM_2023_v2"
 	],
 	"parradise": [
 		"NRL_2020_PARRAdise",
@@ -76501,7 +76502,8 @@
 	],
 	"パルム": [
 		"MORINAGA_PARM_JP_2020",
-		"MorinagaMilk_Parm_April_2021"
+		"MorinagaMilk_Parm_April_2021",
+		"Morinaga_Milk_Industry_PARM_2023_v2"
 	],
 	"パワサカ": [
 		"PawasakaEmoji_2020"
@@ -81101,7 +81103,8 @@
 		"Netease_akashabook_jp_July_2021"
 	],
 	"結論パルム": [
-		"MorinagaMilk_Parm_April_2021"
+		"MorinagaMilk_Parm_April_2021",
+		"Morinaga_Milk_Industry_PARM_2023_v2"
 	],
 	"絵師アワード": [
 		"Vocaloids_Apr_2022"
@@ -95823,5 +95826,11 @@
 	],
 	"olympicday": [
 		"OlympicDay_2023"
+	],
+	"パルムヨギボー": [
+		"Morinaga_Milk_Industry_PARM_2023_v2"
+	],
+	"箱パルムヨギボー": [
+		"Morinaga_Milk_Industry_PARM_2023_v2"
 	]
 }

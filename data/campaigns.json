@@ -138195,5 +138195,17 @@
 			"journeeolympique",
 			"olympicday"
 		]
+	},
+	"Morinaga_Milk_Industry_PARM_2023_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Morinaga_Milk_Industry_PARM_2023_v2/Morinaga_Milk_Industry_PARM_2023_v2.png",
+		"startingTimestampMs": 1687442400000,
+		"endingTimestampMs": 1692716340000,
+		"hashTags": [
+			"parm",
+			"パルム",
+			"パルムヨギボー",
+			"箱パルムヨギボー",
+			"結論パルム"
+		]
 	}
 }
