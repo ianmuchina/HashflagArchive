@@ -95789,7 +95789,8 @@
 		"Alicia_Keys_23"
 	],
 	"finalfantasyxvi": [
-		"FF16_Launch_Emoji_Animation_during_v2"
+		"FF16_Launch_Emoji_Animation_during_v2",
+		"FF16_Launch_Emoji_Animation_after_v3"
 	],
 	"luka": [
 		"Wonderful101_Launch_Emoji_June2023"
@@ -95807,13 +95808,16 @@
 		"Wonderful101_Launch_Emoji_June2023"
 	],
 	"ファイナルファンタジーxvi": [
-		"FF16_Launch_Emoji_Animation_during_v2"
+		"FF16_Launch_Emoji_Animation_during_v2",
+		"FF16_Launch_Emoji_Animation_after_v3"
 	],
 	"召喚獣合戦": [
-		"FF16_Launch_Emoji_Animation_during_v2"
+		"FF16_Launch_Emoji_Animation_during_v2",
+		"FF16_Launch_Emoji_Animation_after_v3"
 	],
 	"来いイフリート": [
-		"FF16_Launch_Emoji_Animation_during_v2"
+		"FF16_Launch_Emoji_Animation_during_v2",
+		"FF16_Launch_Emoji_Animation_after_v3"
 	],
 	"anittafunkrave": [
 		"Republic_Anitta"
@@ -95832,5 +95836,8 @@
 	],
 	"箱パルムヨギボー": [
 		"Morinaga_Milk_Industry_PARM_2023_v2"
+	],
+	"ff16": [
+		"FF16_Launch_Emoji_Animation_after_v3"
 	]
 }

@@ -138207,5 +138207,17 @@
 			"箱パルムヨギボー",
 			"結論パルム"
 		]
+	},
+	"FF16_Launch_Emoji_Animation_after_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FF16_Launch_Emoji_Animation_after_v3/FF16_Launch_Emoji_Animation_after_v3.png",
+		"startingTimestampMs": 1687446000000,
+		"endingTimestampMs": 1695135540000,
+		"hashTags": [
+			"ff16",
+			"finalfantasyxvi",
+			"ファイナルファンタジーxvi",
+			"召喚獣合戦",
+			"来いイフリート"
+		]
 	}
 }
