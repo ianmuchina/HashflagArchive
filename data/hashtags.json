@@ -90035,10 +90035,12 @@
 		"Neymar_Jr_documentary_Jan_2022"
 	],
 	"kenzonigo": [
-		"Kenzo_Men_Show_Jan_2022_v2"
+		"Kenzo_Men_Show_Jan_2022_v2",
+		"KENZOSS24"
 	],
 	"kenzoparis": [
-		"Kenzo_Men_Show_Jan_2022_v2"
+		"Kenzo_Men_Show_Jan_2022_v2",
+		"KENZOSS24"
 	],
 	"worldbaseballclassic": [
 		"WorldBaseballClassic_2023"
@@ -95839,5 +95841,11 @@
 	],
 	"ff16": [
 		"FF16_Launch_Emoji_Animation_after_v3"
+	],
+	"kenzo": [
+		"KENZOSS24"
+	],
+	"kenzoss24": [
+		"KENZOSS24"
 	]
 }

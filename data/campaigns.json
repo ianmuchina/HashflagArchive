@@ -138219,5 +138219,16 @@
 			"召喚獣合戦",
 			"来いイフリート"
 		]
+	},
+	"KENZOSS24": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KENZOSS24/KENZOSS24.png",
+		"startingTimestampMs": 1687471200000,
+		"endingTimestampMs": 1695247200000,
+		"hashTags": [
+			"kenzo",
+			"kenzonigo",
+			"kenzoparis",
+			"kenzoss24"
+		]
 	}
 }
