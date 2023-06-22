@@ -138186,5 +138186,14 @@
 			"anittafunkrave",
 			"funkrave"
 		]
+	},
+	"OlympicDay_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OlympicDay_2023/OlympicDay_2023.png",
+		"startingTimestampMs": 1687424400000,
+		"endingTimestampMs": 1687679940000,
+		"hashTags": [
+			"journeeolympique",
+			"olympicday"
+		]
 	}
 }
