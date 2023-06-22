@@ -138164,5 +138164,27 @@
 			"tw1",
 			"wondeful1gameplay"
 		]
+	},
+	"And_Just_Like_That_S2_Custom_Emoji_2_of_3_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/And_Just_Like_That_S2_Custom_Emoji_2_of_3_2023/And_Just_Like_That_S2_Custom_Emoji_2_of_3_2023.png",
+		"startingTimestampMs": 1687406400000,
+		"endingTimestampMs": 1695873540000,
+		"hashTags": [
+			"ajlt",
+			"andjustlikethat",
+			"andjustlikethathbomax",
+			"andjustlikethatmax",
+			"andjustlikethats2"
+		]
+	},
+	"Republic_Anitta": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Republic_Anitta/Republic_Anitta.png",
+		"startingTimestampMs": 1687406400000,
+		"endingTimestampMs": 1694274720000,
+		"hashTags": [
+			"anitta",
+			"anittafunkrave",
+			"funkrave"
+		]
 	}
 }
