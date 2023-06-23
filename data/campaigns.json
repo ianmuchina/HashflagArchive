@@ -138230,5 +138230,56 @@
 			"kenzoparis",
 			"kenzoss24"
 		]
+	},
+	"Atlantic_Kelly_Clarkson_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Atlantic_Kelly_Clarkson_23/Atlantic_Kelly_Clarkson_23.png",
+		"startingTimestampMs": 1687492800000,
+		"endingTimestampMs": 1695318840000,
+		"hashTags": [
+			"chemistryoutnow",
+			"kcchemistry",
+			"kellyclarkson"
+		]
+	},
+	"Portugal_The_Man": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Portugal_The_Man/Portugal_The_Man.png",
+		"startingTimestampMs": 1687492800000,
+		"endingTimestampMs": 1695268800000,
+		"hashTags": [
+			"chrisblackchangedmylife",
+			"portugaltheman",
+			"tankdog"
+		]
+	},
+	"Republic_Coi_Leray": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Republic_Coi_Leray/Republic_Coi_Leray.png",
+		"startingTimestampMs": 1687492800000,
+		"endingTimestampMs": 1695305340000,
+		"hashTags": [
+			"coi",
+			"coileray",
+			"coithealbum"
+		]
+	},
+	"Republic_Kim_Petra_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Republic_Kim_Petra_23/Republic_Kim_Petra_23.png",
+		"startingTimestampMs": 1687492800000,
+		"endingTimestampMs": 1695385860000,
+		"hashTags": [
+			"feedthebeast",
+			"kimpetras"
+		]
+	},
+	"Wonderful101_Launch_Emoji_June2023_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Wonderful101_Launch_Emoji_June2023_v3/Wonderful101_Launch_Emoji_June2023_v3.png",
+		"startingTimestampMs": 1687483440000,
+		"endingTimestampMs": 1689951540000,
+		"hashTags": [
+			"luka",
+			"platinumgames",
+			"thewonderful1",
+			"tw1",
+			"wonderful1gameplay"
+		]
 	}
 }

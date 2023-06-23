@@ -11231,7 +11231,8 @@
 		"NHL_2021_Teams_CofRed"
 	],
 	"coileray": [
-		"Coi_Leray_2022_Album_Emoji"
+		"Coi_Leray_2022_Album_Emoji",
+		"Republic_Coi_Leray"
 	],
 	"coileraymountains": [
 		"Coi_Leray_2022_Album_Emoji"
@@ -86364,7 +86365,8 @@
 		"V2_KimetsunoYaibaDemonSlayer_2023_MovieLaunchEmoji"
 	],
 	"kimpetras": [
-		"KimPetras_2023"
+		"KimPetras_2023",
+		"Republic_Kim_Petra_23"
 	],
 	"kleinemeerjungfrau": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
@@ -92598,7 +92600,8 @@
 		"Kelly_Clarkson_Mine_Me"
 	],
 	"kellyclarkson": [
-		"Kelly_Clarkson_Mine_Me"
+		"Kelly_Clarkson_Mine_Me",
+		"Atlantic_Kelly_Clarkson_23"
 	],
 	"mineme": [
 		"Kelly_Clarkson_Mine_Me"
@@ -95795,16 +95798,20 @@
 		"FF16_Launch_Emoji_Animation_after_v3"
 	],
 	"luka": [
-		"Wonderful101_Launch_Emoji_June2023"
+		"Wonderful101_Launch_Emoji_June2023",
+		"Wonderful101_Launch_Emoji_June2023_v3"
 	],
 	"platinumgames": [
-		"Wonderful101_Launch_Emoji_June2023"
+		"Wonderful101_Launch_Emoji_June2023",
+		"Wonderful101_Launch_Emoji_June2023_v3"
 	],
 	"thewonderful1": [
-		"Wonderful101_Launch_Emoji_June2023"
+		"Wonderful101_Launch_Emoji_June2023",
+		"Wonderful101_Launch_Emoji_June2023_v3"
 	],
 	"tw1": [
-		"Wonderful101_Launch_Emoji_June2023"
+		"Wonderful101_Launch_Emoji_June2023",
+		"Wonderful101_Launch_Emoji_June2023_v3"
 	],
 	"wondeful1gameplay": [
 		"Wonderful101_Launch_Emoji_June2023"
@@ -95847,5 +95854,32 @@
 	],
 	"kenzoss24": [
 		"KENZOSS24"
+	],
+	"chemistryoutnow": [
+		"Atlantic_Kelly_Clarkson_23"
+	],
+	"chrisblackchangedmylife": [
+		"Portugal_The_Man"
+	],
+	"coi": [
+		"Republic_Coi_Leray"
+	],
+	"coithealbum": [
+		"Republic_Coi_Leray"
+	],
+	"feedthebeast": [
+		"Republic_Kim_Petra_23"
+	],
+	"kcchemistry": [
+		"Atlantic_Kelly_Clarkson_23"
+	],
+	"portugaltheman": [
+		"Portugal_The_Man"
+	],
+	"tankdog": [
+		"Portugal_The_Man"
+	],
+	"wonderful1gameplay": [
+		"Wonderful101_Launch_Emoji_June2023_v3"
 	]
 }
