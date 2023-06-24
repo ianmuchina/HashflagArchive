@@ -138315,5 +138315,13 @@
 			"أرويا_كروز",
 			"مرساها_نصراوي"
 		]
+	},
+	"Pepsico_ElmaChips_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pepsico_ElmaChips_After/Pepsico_ElmaChips_After.png",
+		"startingTimestampMs": 1687575600000,
+		"endingTimestampMs": 1692759540000,
+		"hashTags": [
+			"amendoinselmachips"
+		]
 	}
 }
