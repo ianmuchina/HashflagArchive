@@ -138333,5 +138333,13 @@
 			"theidolhbo",
 			"theweeknd"
 		]
+	},
+	"WWE_MITB_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_MITB_2023/WWE_MITB_2023.png",
+		"startingTimestampMs": 1687676400000,
+		"endingTimestampMs": 1688425200000,
+		"hashTags": [
+			"mitb"
+		]
 	}
 }
