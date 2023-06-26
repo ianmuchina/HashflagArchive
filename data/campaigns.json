@@ -138385,5 +138385,13 @@
 		"hashTags": [
 			"アーニャぱずるがんばるます"
 		]
+	},
+	"SaudiAramco_EidAlAdha_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SaudiAramco_EidAlAdha_2023/SaudiAramco_EidAlAdha_2023.png",
+		"startingTimestampMs": 1687813200000,
+		"endingTimestampMs": 1688331600000,
+		"hashTags": [
+			"أرامكو"
+		]
 	}
 }
