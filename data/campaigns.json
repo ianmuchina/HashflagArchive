@@ -138361,5 +138361,13 @@
 			"夏のゴクッとしあわせ",
 			"飲むアイス"
 		]
+	},
+	"Wimbledon2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Wimbledon2023/Wimbledon2023.png",
+		"startingTimestampMs": 1687766400000,
+		"endingTimestampMs": 1689548400000,
+		"hashTags": [
+			"wimbledon"
+		]
 	}
 }
