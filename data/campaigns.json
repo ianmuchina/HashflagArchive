@@ -138369,5 +138369,13 @@
 		"hashTags": [
 			"wimbledon"
 		]
+	},
+	"Disney_Essence_Fest_emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Essence_Fest_emoji_2023/Disney_Essence_Fest_emoji_2023.png",
+		"startingTimestampMs": 1687782600000,
+		"endingTimestampMs": 1688965200000,
+		"hashTags": [
+			"disneyxessence"
+		]
 	}
 }
