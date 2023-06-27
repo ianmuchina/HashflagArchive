@@ -138462,5 +138462,13 @@
 		"hashTags": [
 			"draftkings"
 		]
+	},
+	"Foundation_AppleTV_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Foundation_AppleTV_23/Foundation_AppleTV_23.png",
+		"startingTimestampMs": 1687870800000,
+		"endingTimestampMs": 1695797940000,
+		"hashTags": [
+			"foundation"
+		]
 	}
 }
