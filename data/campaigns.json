@@ -138454,5 +138454,13 @@
 		"hashTags": [
 			"nascarchicago"
 		]
+	},
+	"DraftKings_DraftKings_Hashmoji_Extension": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_DraftKings_Hashmoji_Extension/DraftKings_DraftKings_Hashmoji_Extension.png",
+		"startingTimestampMs": 1687860000000,
+		"endingTimestampMs": 1695635940000,
+		"hashTags": [
+			"draftkings"
+		]
 	}
 }
