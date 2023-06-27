@@ -138393,5 +138393,58 @@
 		"hashTags": [
 			"أرامكو"
 		]
+	},
+	"Five_Nights_Freddy_Bonnie": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Five_Nights_Freddy_Bonnie/Five_Nights_Freddy_Bonnie.png",
+		"startingTimestampMs": 1687827000000,
+		"endingTimestampMs": 1695603000000,
+		"hashTags": [
+			"bonniefnaf",
+			"fnafbonnie"
+		]
+	},
+	"Five_Nights_Freddy_Chica": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Five_Nights_Freddy_Chica/Five_Nights_Freddy_Chica.png",
+		"startingTimestampMs": 1687827000000,
+		"endingTimestampMs": 1695603000000,
+		"hashTags": [
+			"chicafnaf",
+			"fnafchica"
+		]
+	},
+	"Five_Nights_Freddy_Cupcake": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Five_Nights_Freddy_Cupcake/Five_Nights_Freddy_Cupcake.png",
+		"startingTimestampMs": 1687827000000,
+		"endingTimestampMs": 1695603000000,
+		"hashTags": [
+			"cupcakefnaf",
+			"fnafcupcake",
+			"mrcupcake"
+		]
+	},
+	"Five_Nights_Freddy_Freddy_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Five_Nights_Freddy_Freddy_v2/Five_Nights_Freddy_Freddy_v2.png",
+		"startingTimestampMs": 1687827000000,
+		"endingTimestampMs": 1695603000000,
+		"hashTags": [
+			"fivenightsatfreddys",
+			"fivenightsatfreddysfilm",
+			"fnaf",
+			"fnaffilme",
+			"fnafmovie",
+			"fnafpelicula",
+			"freddyfazbear",
+			"freddyfazbearspizza",
+			"프레디의피자가게"
+		]
+	},
+	"Five_Nights_Freddy_Foxy": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Five_Nights_Freddy_Foxy/Five_Nights_Freddy_Foxy.png",
+		"startingTimestampMs": 1687827000000,
+		"endingTimestampMs": 1695603000000,
+		"hashTags": [
+			"fnaffoxy",
+			"foxyfnaf"
+		]
 	}
 }
