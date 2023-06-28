@@ -138519,5 +138519,14 @@
 			"幽灵公馆",
 			"헌티드맨션"
 		]
+	},
+	"SpotifyBrasil_Hashmoji_Only": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SpotifyBrasil_Hashmoji_Only/SpotifyBrasil_Hashmoji_Only.png",
+		"startingTimestampMs": 1687932000000,
+		"endingTimestampMs": 1696046340000,
+		"hashTags": [
+			"rolandonomeuspotify",
+			"rolandonospotify"
+		]
 	}
 }
