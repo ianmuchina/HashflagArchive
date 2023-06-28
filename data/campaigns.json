@@ -138528,5 +138528,27 @@
 			"rolandonomeuspotify",
 			"rolandonospotify"
 		]
+	},
+	"Multivers_X_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Multivers_X_2023/Multivers_X_2023.png",
+		"startingTimestampMs": 1687996500000,
+		"endingTimestampMs": 1695772500000,
+		"hashTags": [
+			"builtonmultiversx",
+			"egld",
+			"hypergrowthx",
+			"multiversx",
+			"xportal"
+		]
+	},
+	"Essence_Festival_Custom_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Essence_Festival_Custom_Emoji/Essence_Festival_Custom_Emoji.png",
+		"startingTimestampMs": 1687996800000,
+		"endingTimestampMs": 1688601540000,
+		"hashTags": [
+			"essencefest",
+			"essencefest23",
+			"essencefestival"
+		]
 	}
 }

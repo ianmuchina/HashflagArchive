@@ -17745,13 +17745,15 @@
 	],
 	"essencefest": [
 		"EssenceFest_2021",
-		"Essence_Festival_of_Culture_2022"
+		"Essence_Festival_of_Culture_2022",
+		"Essence_Festival_Custom_Emoji"
 	],
 	"essencefest22": [
 		"Essence_Festival_of_Culture_2022"
 	],
 	"essencefestival": [
-		"Essence_Festival_of_Culture_2022"
+		"Essence_Festival_of_Culture_2022",
+		"Essence_Festival_Custom_Emoji"
 	],
 	"essencefestivalofculture": [
 		"Essence_Festival_of_Culture_2022"
@@ -96092,5 +96094,23 @@
 	],
 	"rolandonospotify": [
 		"SpotifyBrasil_Hashmoji_Only"
+	],
+	"builtonmultiversx": [
+		"Multivers_X_2023"
+	],
+	"egld": [
+		"Multivers_X_2023"
+	],
+	"essencefest23": [
+		"Essence_Festival_Custom_Emoji"
+	],
+	"hypergrowthx": [
+		"Multivers_X_2023"
+	],
+	"multiversx": [
+		"Multivers_X_2023"
+	],
+	"xportal": [
+		"Multivers_X_2023"
 	]
 }
