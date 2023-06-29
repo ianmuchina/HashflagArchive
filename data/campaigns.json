@@ -138550,5 +138550,14 @@
 			"essencefest23",
 			"essencefestival"
 		]
+	},
+	"Atlantic_LilUziVert_PinkAlbum_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Atlantic_LilUziVert_PinkAlbum_23/Atlantic_LilUziVert_PinkAlbum_23.png",
+		"startingTimestampMs": 1688011200000,
+		"endingTimestampMs": 1695816900000,
+		"hashTags": [
+			"liluzivert",
+			"pinktape"
+		]
 	}
 }
