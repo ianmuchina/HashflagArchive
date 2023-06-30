@@ -138586,5 +138586,27 @@
 		"hashTags": [
 			"indianajones"
 		]
+	},
+	"Tour_de_France_ASO_FR_1st_July_30th_July_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Tour_de_France_ASO_FR_1st_July_30th_July_2023/Tour_de_France_ASO_FR_1st_July_30th_July_2023.png",
+		"startingTimestampMs": 1688141340000,
+		"endingTimestampMs": 1690805340000,
+		"hashTags": [
+			"laveniràvélo",
+			"tdf2023",
+			"tdff2023"
+		]
+	},
+	"disneystudiojp_June_2023_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/disneystudiojp_June_2023_after/disneystudiojp_June_2023_after.png",
+		"startingTimestampMs": 1688137200000,
+		"endingTimestampMs": 1696085940000,
+		"hashTags": [
+			"ありがとうインディジョーンズ",
+			"ぶちかませインディ",
+			"みんなでインディジョーンズ",
+			"インディジョーンズと運命のダイヤル",
+			"インディ最後の冒険へ"
+		]
 	}
 }
