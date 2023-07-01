@@ -138608,5 +138608,14 @@
 			"インディジョーンズと運命のダイヤル",
 			"インディ最後の冒険へ"
 		]
+	},
+	"Consensys_Hashmoji_July_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Consensys_Hashmoji_July_2023/Consensys_Hashmoji_July_2023.png",
+		"startingTimestampMs": 1688184000000,
+		"endingTimestampMs": 1690775940000,
+		"hashTags": [
+			"consensys",
+			"shiftctrl"
+		]
 	}
 }
