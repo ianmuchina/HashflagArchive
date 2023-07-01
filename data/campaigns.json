@@ -138628,5 +138628,16 @@
 			"choseavalanche",
 			"subnet"
 		]
+	},
+	"Blue_Beetle_Warner_Bros_Theatrical_part_2_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Blue_Beetle_Warner_Bros_Theatrical_part_2_2023/Blue_Beetle_Warner_Bros_Theatrical_part_2_2023.png",
+		"startingTimestampMs": 1688200680000,
+		"endingTimestampMs": 1695976680000,
+		"hashTags": [
+			"bluebeetle",
+			"bluebeetledc",
+			"bluebeetlefilm",
+			"bluebeetlemovie"
+		]
 	}
 }
