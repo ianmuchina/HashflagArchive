@@ -138617,5 +138617,16 @@
 			"consensys",
 			"shiftctrl"
 		]
+	},
+	"Avax_Avalanche_Extension_until_October01": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Avax_Avalanche_Extension_until_October01/Avax_Avalanche_Extension_until_October01.png",
+		"startingTimestampMs": 1688194800000,
+		"endingTimestampMs": 1696143540000,
+		"hashTags": [
+			"avalanche",
+			"avax",
+			"choseavalanche",
+			"subnet"
+		]
 	}
 }
