@@ -138650,5 +138650,13 @@
 			"ホグワーツからのお手紙",
 			"ホグワーツ入学許可書"
 		]
+	},
+	"FDJ_Tour_de_France_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FDJ_Tour_de_France_2023/FDJ_Tour_de_France_2023.png",
+		"startingTimestampMs": 1688229060000,
+		"endingTimestampMs": 1696005060000,
+		"hashTags": [
+			"lafrancequiroule"
+		]
 	}
 }
