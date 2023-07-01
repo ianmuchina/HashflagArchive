@@ -138658,5 +138658,14 @@
 		"hashTags": [
 			"lafrancequiroule"
 		]
+	},
+	"Absa_EverydayBanking_RYC_CustomEmoji1_2023_v1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Absa_EverydayBanking_RYC_CustomEmoji1_2023_v1/Absa_EverydayBanking_RYC_CustomEmoji1_2023_v1.png",
+		"startingTimestampMs": 1688256000000,
+		"endingTimestampMs": 1696118340000,
+		"hashTags": [
+			"absarunyourcity",
+			"runyourcity"
+		]
 	}
 }
