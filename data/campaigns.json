@@ -138667,5 +138667,23 @@
 			"absarunyourcity",
 			"runyourcity"
 		]
+	},
+	"Republic_Jocelyn_TheIdol_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Republic_Jocelyn_TheIdol_23/Republic_Jocelyn_TheIdol_23.png",
+		"startingTimestampMs": 1688270400000,
+		"endingTimestampMs": 1695914820000,
+		"hashTags": [
+			"jocelyn",
+			"joss",
+			"lilyrosedepp"
+		]
+	},
+	"Republic_Tedros_TheIdol": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Republic_Tedros_TheIdol/Republic_Tedros_TheIdol.png",
+		"startingTimestampMs": 1688270400000,
+		"endingTimestampMs": 1690900140000,
+		"hashTags": [
+			"tedros"
+		]
 	}
 }
