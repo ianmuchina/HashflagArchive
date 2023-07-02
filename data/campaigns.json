@@ -138697,5 +138697,17 @@
 			"ペイディ",
 			"ペイディ1000万ダウンロードありがとう"
 		]
+	},
+	"AEON_JAPAN_July2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AEON_JAPAN_July2023/AEON_JAPAN_July2023.png",
+		"startingTimestampMs": 1688310000000,
+		"endingTimestampMs": 1690383540000,
+		"hashTags": [
+			"たのしいヤー",
+			"イオンに行くのかいどっちなんだい",
+			"イオン超ナツ夏祭り",
+			"イオン超ナツ夏祭りは7月14日〜7月17日",
+			"イオン超ナツ夏祭りは7月20日〜7月23日"
+		]
 	}
 }
