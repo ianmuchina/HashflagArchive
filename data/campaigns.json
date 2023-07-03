@@ -138731,5 +138731,28 @@
 			"wwcnow",
 			"wwconfox"
 		]
+	},
+	"Colopl_wcat_project_Anniversarys_Campaign_2023July_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Colopl_wcat_project_Anniversarys_Campaign_2023July_Branded_Hashtag/Colopl_wcat_project_Anniversarys_Campaign_2023July_Branded_Hashtag.png",
+		"startingTimestampMs": 1688396400000,
+		"endingTimestampMs": 1690988340000,
+		"hashTags": [
+			"7月8日は白猫生放送をみよう",
+			"白猫9周年",
+			"白猫プロジェクト",
+			"白猫プロジェクト9周年"
+		]
+	},
+	"NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_after/NetEase_HarryPotterMAJP_2023_Launch_Letter_Design_after.png",
+		"startingTimestampMs": 1688396400000,
+		"endingTimestampMs": 1689260340000,
+		"hashTags": [
+			"ハリポタ覚醒",
+			"ハリポタ覚醒から入学許可",
+			"ハリポタ魔法の覚醒",
+			"ホグワーツからのお手紙",
+			"ホグワーツ入学許可書"
+		]
 	}
 }
