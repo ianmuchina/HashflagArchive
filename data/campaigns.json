@@ -138709,5 +138709,15 @@
 			"イオン超ナツ夏祭りは7月14日〜7月17日",
 			"イオン超ナツ夏祭りは7月20日〜7月23日"
 		]
+	},
+	"O_Boticario_C10_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/O_Boticario_C10_Hashmoji/O_Boticario_C10_Hashmoji.png",
+		"startingTimestampMs": 1688356740000,
+		"endingTimestampMs": 1688961540000,
+		"hashTags": [
+			"biscoitooubolacha",
+			"botiébiscoito",
+			"botiébolacha"
+		]
 	}
 }
