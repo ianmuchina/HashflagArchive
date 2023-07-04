@@ -138754,5 +138754,21 @@
 			"ホグワーツからのお手紙",
 			"ホグワーツ入学許可書"
 		]
+	},
+	"4thOfJuly_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/4thOfJuly_2023/4thOfJuly_2023.png",
+		"startingTimestampMs": 1688443200000,
+		"endingTimestampMs": 1688540400000,
+		"hashTags": [
+			"4thofjuly",
+			"fourthofjuly",
+			"happy4th",
+			"happyfourth",
+			"happyindependenceday",
+			"independenceday",
+			"july4",
+			"july4th",
+			"julyfourth"
+		]
 	}
 }
