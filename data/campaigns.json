@@ -138794,5 +138794,39 @@
 			"戻れない青い春",
 			"最強の2人"
 		]
+	},
+	"JujutsuKaisen_by_ABEMA_2023_2_ver2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/JujutsuKaisen_by_ABEMA_2023_2_ver2/JujutsuKaisen_by_ABEMA_2023_2_ver2.png",
+		"startingTimestampMs": 1688569200000,
+		"endingTimestampMs": 1691333940000,
+		"hashTags": [
+			"jujutsukaisen",
+			"呪術廻戦全話無料配信中",
+			"夏油傑",
+			"戻れない青い春",
+			"最強の2人"
+		]
+	},
+	"Nestle_Nescafe_2023_Jul": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Nestle_Nescafe_2023_Jul/Nestle_Nescafe_2023_Jul.png",
+		"startingTimestampMs": 1688569200000,
+		"endingTimestampMs": 1693493940000,
+		"hashTags": [
+			"ネスカフェエクセラボトル",
+			"ネスカフェエクセラボトルコーヒー",
+			"ネスカフェボトルコーヒー"
+		]
+	},
+	"JujutsuKaisen_by_ABEMA_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/JujutsuKaisen_by_ABEMA_2023/JujutsuKaisen_by_ABEMA_2023.png",
+		"startingTimestampMs": 1688569200000,
+		"endingTimestampMs": 1691333940000,
+		"hashTags": [
+			"五条悟",
+			"呪術2期",
+			"呪術廻戦",
+			"呪術廻戦全話無料",
+			"懐玉・玉折"
+		]
 	}
 }
