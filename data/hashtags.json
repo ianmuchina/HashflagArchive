@@ -20702,7 +20702,8 @@
 		"Samsung_unpacked_2023_after",
 		"Samsung_unpacked_2023_before",
 		"Samsung_unpacked_2023",
-		"Samsung_unpacked_2023_during"
+		"Samsung_unpacked_2023_during",
+		"Samsung_Unpacked_LivestreamV1"
 	],
 	"galaxyzflip4": [
 		"GalaxyMobileJP_JPXmasBox_2022",
@@ -49388,7 +49389,8 @@
 		"Samsung_unpacked_2023_after",
 		"Samsung_unpacked_2023_hashfetti",
 		"Samsung_unpacked_2023_before",
-		"Samsung_unpacked_2023"
+		"Samsung_unpacked_2023",
+		"Samsung_Unpacked_LivestreamV1"
 	],
 	"samuraiblue": [
 		"Japan_Football_Association_World_Cup_Qatar_Emblem_Nov_2022"
@@ -61230,7 +61232,8 @@
 		"Samsung_unpacked_2023_after",
 		"Samsung_unpacked_2023_before",
 		"Samsung_unpacked_2023",
-		"Samsung_unpacked_2023_during"
+		"Samsung_unpacked_2023_during",
+		"Samsung_Unpacked_LivestreamV1"
 	],
 	"unpackingyj": [
 		"DCFanDome2021_Oct_YoungJustice"
@@ -96334,5 +96337,8 @@
 	],
 	"موسم_الجيمرز": [
 		"Gamers8_2023"
+	],
+	"jointheflipside": [
+		"Samsung_Unpacked_LivestreamV1"
 	]
 }

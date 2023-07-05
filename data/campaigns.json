@@ -138839,5 +138839,16 @@
 			"أرض_الأبطال",
 			"موسم_الجيمرز"
 		]
+	},
+	"Samsung_Unpacked_LivestreamV1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Samsung_Unpacked_LivestreamV1/Samsung_Unpacked_LivestreamV1.png",
+		"startingTimestampMs": 1688598000000,
+		"endingTimestampMs": 1693473300000,
+		"hashTags": [
+			"galaxyunpacked",
+			"jointheflipside",
+			"samsungunpacked",
+			"unpacked"
+		]
 	}
 }
