@@ -138828,5 +138828,16 @@
 			"呪術廻戦全話無料",
 			"懐玉・玉折"
 		]
+	},
+	"Gamers8_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Gamers8_2023/Gamers8_2023.png",
+		"startingTimestampMs": 1688580000000,
+		"endingTimestampMs": 1693936800000,
+		"hashTags": [
+			"gamers8",
+			"landofheroes",
+			"أرض_الأبطال",
+			"موسم_الجيمرز"
+		]
 	}
 }
