@@ -138870,5 +138870,25 @@
 			"おやすみカビゴン",
 			"ポケモンスリープ"
 		]
+	},
+	"Branded_hashflag_emoji_aletheiaclinic_7_6": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Branded_hashflag_emoji_aletheiaclinic_7_6/Branded_hashflag_emoji_aletheiaclinic_7_6.png",
+		"startingTimestampMs": 1688655600000,
+		"endingTimestampMs": 1691247540000,
+		"hashTags": [
+			"アリシアクリニック",
+			"エモ夏2023"
+		]
+	},
+	"Sapporo_Beer_Kuro_label_July_Japan_2023_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sapporo_Beer_Kuro_label_July_Japan_2023_Emoji/Sapporo_Beer_Kuro_label_July_Japan_2023_Emoji.png",
+		"startingTimestampMs": 1688655600000,
+		"endingTimestampMs": 1691333940000,
+		"hashTags": [
+			"丸くなるな星になれ",
+			"夢を追いつづける大人へ",
+			"黒ラベル",
+			"黒ラベルfes"
+		]
 	}
 }
