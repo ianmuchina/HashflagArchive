@@ -138850,5 +138850,13 @@
 			"samsungunpacked",
 			"unpacked"
 		]
+	},
+	"2023_Womens_World_Cup_Optus_Sport_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2023_Womens_World_Cup_Optus_Sport_before/2023_Womens_World_Cup_Optus_Sport_before.png",
+		"startingTimestampMs": 1688605200000,
+		"endingTimestampMs": 1689775140000,
+		"hashTags": [
+			"optussport"
+		]
 	}
 }
