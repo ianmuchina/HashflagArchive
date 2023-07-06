@@ -138890,5 +138890,15 @@
 			"黒ラベル",
 			"黒ラベルfes"
 		]
+	},
+	"Gamers8_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Gamers8_During/Gamers8_During.png",
+		"startingTimestampMs": 1688678400000,
+		"endingTimestampMs": 1688764800000,
+		"hashTags": [
+			"gamers8",
+			"landofheroes",
+			"أرض_الأبطال"
+		]
 	}
 }
