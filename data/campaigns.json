@@ -138918,5 +138918,16 @@
 		"hashTags": [
 			"wnbaallstar"
 		]
+	},
+	"Gamers8_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Gamers8_After/Gamers8_After.png",
+		"startingTimestampMs": 1688764860000,
+		"endingTimestampMs": 1693936800000,
+		"hashTags": [
+			"gamers8",
+			"landofheroes",
+			"أرض_الأبطال",
+			"موسم_الجيمرز"
+		]
 	}
 }
