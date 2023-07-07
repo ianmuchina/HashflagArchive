@@ -138910,5 +138910,13 @@
 			"matildas",
 			"tillitsdone"
 		]
+	},
+	"2023_WNBA_All_Star": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2023_WNBA_All_Star/2023_WNBA_All_Star.png",
+		"startingTimestampMs": 1688720400000,
+		"endingTimestampMs": 1689584400000,
+		"hashTags": [
+			"wnbaallstar"
+		]
 	}
 }
