@@ -2476,7 +2476,8 @@
 		"AaronJudge"
 	],
 	"allstargame": [
-		"MLBAllStar2022-STAR"
+		"MLBAllStar2022-STAR",
+		"MLB_All_Star_2023"
 	],
 	"allstars6": [
 		"ParamountRuPaulsDragRaceAllStars_July_2021"
@@ -25598,7 +25599,8 @@
 	],
 	"hrderby": [
 		"MLBHRDerby2021-HRDerby",
-		"MLBAllStar2022-BAT"
+		"MLBAllStar2022-BAT",
+		"MLB_HR_Derby_2023"
 	],
 	"hrv": [
 		"2022_FIFA_WorldCup_Croatia_HRV"
@@ -95944,16 +95946,20 @@
 		"Taisho_Pharma_The_mytol_essence_2023_v2"
 	],
 	"aroya": [
-		"AROYA_Cruises_Campaign_New_Brand_Launch"
+		"AROYA_Cruises_Campaign_New_Brand_Launch",
+		"Aroya_Cruises_2023"
 	],
 	"aroyacruises": [
-		"AROYA_Cruises_Campaign_New_Brand_Launch"
+		"AROYA_Cruises_Campaign_New_Brand_Launch",
+		"Aroya_Cruises_2023"
 	],
 	"أرويا": [
-		"AROYA_Cruises_Campaign_New_Brand_Launch"
+		"AROYA_Cruises_Campaign_New_Brand_Launch",
+		"Aroya_Cruises_2023"
 	],
 	"أرويا_كروز": [
-		"AROYA_Cruises_Campaign_New_Brand_Launch"
+		"AROYA_Cruises_Campaign_New_Brand_Launch",
+		"Aroya_Cruises_2023"
 	],
 	"مرساها_نصراوي": [
 		"AROYA_Cruises_Campaign_New_Brand_Launch"
@@ -96394,5 +96400,8 @@
 	],
 	"filmadaconiphone": [
 		"Apple_Mexico_Enmascarados_After"
+	],
+	"مرسانا_نصراوي": [
+		"Aroya_Cruises_2023"
 	]
 }

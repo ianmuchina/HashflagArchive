@@ -138937,5 +138937,33 @@
 		"hashTags": [
 			"filmadaconiphone"
 		]
+	},
+	"MLB_All_Star_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_All_Star_2023/MLB_All_Star_2023.png",
+		"startingTimestampMs": 1688806800000,
+		"endingTimestampMs": 1689202800000,
+		"hashTags": [
+			"allstargame"
+		]
+	},
+	"Aroya_Cruises_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Aroya_Cruises_2023/Aroya_Cruises_2023.png",
+		"startingTimestampMs": 1688806800000,
+		"endingTimestampMs": 1696582800000,
+		"hashTags": [
+			"aroya",
+			"aroyacruises",
+			"أرويا",
+			"أرويا_كروز",
+			"مرسانا_نصراوي"
+		]
+	},
+	"MLB_HR_Derby_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_HR_Derby_2023/MLB_HR_Derby_2023.png",
+		"startingTimestampMs": 1688806800000,
+		"endingTimestampMs": 1689202800000,
+		"hashTags": [
+			"hrderby"
+		]
 	}
 }
