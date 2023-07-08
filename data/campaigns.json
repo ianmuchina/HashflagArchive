@@ -138929,5 +138929,13 @@
 			"أرض_الأبطال",
 			"موسم_الجيمرز"
 		]
+	},
+	"Apple_Mexico_Enmascarados_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Apple_Mexico_Enmascarados_After/Apple_Mexico_Enmascarados_After.png",
+		"startingTimestampMs": 1688788860000,
+		"endingTimestampMs": 1691380800000,
+		"hashTags": [
+			"filmadaconiphone"
+		]
 	}
 }
