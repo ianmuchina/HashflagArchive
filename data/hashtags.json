@@ -76979,7 +76979,8 @@
 		"Suntory_Pre-mal_JP_Jul_2022",
 		"Premium_Malts_Renewal_CPN_Feb23__after",
 		"Premium_Malts_Renewal_CPN_Feb23__during",
-		"Premium_Malts_Renewal_CPN_Feb23__before"
+		"Premium_Malts_Renewal_CPN_Feb23__before",
+		"Hashmoji_PremiumMalts_jp_July-2023"
 	],
 	"プロスピa": [
 		"prospiA_PR_2020"
@@ -87932,7 +87933,8 @@
 	"プレモルでごほうび週末": [
 		"Premium_Malts_Renewal_CPN_Feb23__after",
 		"Premium_Malts_Renewal_CPN_Feb23__during",
-		"Premium_Malts_Renewal_CPN_Feb23__before"
+		"Premium_Malts_Renewal_CPN_Feb23__before",
+		"Hashmoji_PremiumMalts_jp_July-2023"
 	],
 	"ヘブバン1周年": [
 		"HeavenBurnsRed_Additional_reprogram",
@@ -88172,7 +88174,8 @@
 	"週末のごほうび": [
 		"Premium_Malts_Renewal_CPN_Feb23__after",
 		"Premium_Malts_Renewal_CPN_Feb23__during",
-		"Premium_Malts_Renewal_CPN_Feb23__before"
+		"Premium_Malts_Renewal_CPN_Feb23__before",
+		"Hashmoji_PremiumMalts_jp_July-2023"
 	],
 	"週末冷凍貯金部": [
 		"Reitou_Chokin_Brand_Hashtag_Emoji_2023_v1"
@@ -96411,21 +96414,31 @@
 		"Sports_For_All_Federation_Campaign_2023"
 	],
 	"セブン": [
-		"711SEJ_July_11th_2023_before"
+		"711SEJ_July_11th_2023_before",
+		"711SEJ_July_11th_2023_during_v2"
 	],
 	"セブンの豆知識": [
-		"711SEJ_July_11th_2023_before"
+		"711SEJ_July_11th_2023_before",
+		"711SEJ_July_11th_2023_during_v2"
 	],
 	"セブンは50歳": [
-		"711SEJ_July_11th_2023_before"
+		"711SEJ_July_11th_2023_before",
+		"711SEJ_July_11th_2023_during_v2"
 	],
 	"セブンイレブン": [
-		"711SEJ_July_11th_2023_before"
+		"711SEJ_July_11th_2023_before",
+		"711SEJ_July_11th_2023_during_v2"
 	],
 	"セブンイレブンの日": [
 		"711SEJ_July_11th_2023_before"
 	],
 	"lewifipartout": [
 		"Bouygues_Telecom-LeWiFiPartout"
+	],
+	"すずのビールはプレモルでした": [
+		"Hashmoji_PremiumMalts_jp_July-2023"
+	],
+	"プレミアムモルツ": [
+		"Hashmoji_PremiumMalts_jp_July-2023"
 	]
 }

@@ -138994,5 +138994,28 @@
 		"hashTags": [
 			"lewifipartout"
 		]
+	},
+	"Hashmoji_PremiumMalts_jp_July-2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hashmoji_PremiumMalts_jp_July-2023/Hashmoji_PremiumMalts_jp_July-2023.png",
+		"startingTimestampMs": 1689001200000,
+		"endingTimestampMs": 1696863540000,
+		"hashTags": [
+			"すずのビールはプレモルでした",
+			"プレミアムモルツ",
+			"プレモル",
+			"プレモルでごほうび週末",
+			"週末のごほうび"
+		]
+	},
+	"711SEJ_July_11th_2023_during_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/711SEJ_July_11th_2023_during_v2/711SEJ_July_11th_2023_during_v2.png",
+		"startingTimestampMs": 1689001200000,
+		"endingTimestampMs": 1689087540000,
+		"hashTags": [
+			"セブン",
+			"セブンの豆知識",
+			"セブンは50歳",
+			"セブンイレブン"
+		]
 	}
 }
