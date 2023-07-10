@@ -138986,5 +138986,13 @@
 			"セブンイレブン",
 			"セブンイレブンの日"
 		]
+	},
+	"Bouygues_Telecom-LeWiFiPartout": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bouygues_Telecom-LeWiFiPartout/Bouygues_Telecom-LeWiFiPartout.png",
+		"startingTimestampMs": 1688918400000,
+		"endingTimestampMs": 1691326800000,
+		"hashTags": [
+			"lewifipartout"
+		]
 	}
 }
