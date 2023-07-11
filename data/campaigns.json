@@ -139038,5 +139038,13 @@
 			"wonkafilm",
 			"wonkamovie"
 		]
+	},
+	"Amazon_Hashmoji_Prime_Day_Q3_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Amazon_Hashmoji_Prime_Day_Q3_2023/Amazon_Hashmoji_Prime_Day_Q3_2023.png",
+		"startingTimestampMs": 1689058800000,
+		"endingTimestampMs": 1689145140000,
+		"hashTags": [
+			"primeday"
+		]
 	}
 }
