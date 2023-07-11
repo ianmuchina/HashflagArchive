@@ -139017,5 +139017,26 @@
 			"セブンは50歳",
 			"セブンイレブン"
 		]
+	},
+	"Republic_NMiXX23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Republic_NMiXX23/Republic_NMiXX23.png",
+		"startingTimestampMs": 1689048000000,
+		"endingTimestampMs": 1698507480000,
+		"hashTags": [
+			"amidsummernmixxdream",
+			"amidsummernmixxsdream",
+			"nmixx"
+		]
+	},
+	"WB_Wonka_Custom_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WB_Wonka_Custom_Emoji_2023/WB_Wonka_Custom_Emoji_2023.png",
+		"startingTimestampMs": 1689048000000,
+		"endingTimestampMs": 1696824000000,
+		"hashTags": [
+			"willywonka",
+			"wonka",
+			"wonkafilm",
+			"wonkamovie"
+		]
 	}
 }
