@@ -139064,5 +139064,15 @@
 		"hashTags": [
 			"iem"
 		]
+	},
+	"DraftKings_Best_Ball_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_Best_Ball_2023/DraftKings_Best_Ball_2023.png",
+		"startingTimestampMs": 1689033600000,
+		"endingTimestampMs": 1697007600000,
+		"hashTags": [
+			"bestball",
+			"bestballweek",
+			"dkbestball"
+		]
 	}
 }
