@@ -139046,5 +139046,15 @@
 		"hashTags": [
 			"primeday"
 		]
+	},
+	"DisneyPlus_Ahsoka_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_2023/DisneyPlus_Ahsoka_2023.png",
+		"startingTimestampMs": 1689078600000,
+		"endingTimestampMs": 1697093940000,
+		"hashTags": [
+			"ahsoka",
+			"ahsokatano",
+			"ladyahsoka"
+		]
 	}
 }

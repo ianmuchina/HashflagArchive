@@ -1966,10 +1966,12 @@
 	],
 	"ahsoka": [
 		"Disney_Mandalorian_S2_Dec_2020_AhsokaTano",
-		"Disney_Maythe4th_2021_Ahsoka"
+		"Disney_Maythe4th_2021_Ahsoka",
+		"DisneyPlus_Ahsoka_2023"
 	],
 	"ahsokatano": [
-		"Disney_Mandalorian_S2_Dec_2020_AhsokaTano"
+		"Disney_Mandalorian_S2_Dec_2020_AhsokaTano",
+		"DisneyPlus_Ahsoka_2023"
 	],
 	"ahstories": [
 		"AHStories_July_2021",
@@ -96462,5 +96464,8 @@
 	],
 	"wonkamovie": [
 		"WB_Wonka_Custom_Emoji_2023"
+	],
+	"ladyahsoka": [
+		"DisneyPlus_Ahsoka_2023"
 	]
 }
