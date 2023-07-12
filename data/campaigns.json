@@ -139074,5 +139074,13 @@
 			"bestballweek",
 			"dkbestball"
 		]
+	},
+	"TheAfterparty_Update1_711": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TheAfterparty_Update1_711/TheAfterparty_Update1_711.png",
+		"startingTimestampMs": 1689033600000,
+		"endingTimestampMs": 1689382800000,
+		"hashTags": [
+			"theafterparty"
+		]
 	}
 }
