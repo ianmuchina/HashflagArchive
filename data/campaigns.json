@@ -139124,5 +139124,277 @@
 			"imgeekin",
 			"maybeitsme"
 		]
+	},
+	"WomensWorldCup_2023_Argentina": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Argentina/WomensWorldCup_2023_Argentina.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"arg"
+		]
+	},
+	"WomensWorldCup_2023_Australia": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Australia/WomensWorldCup_2023_Australia.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"aus"
+		]
+	},
+	"WomensWorldCup_2023_BeyondGreatness_Flower": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_BeyondGreatness_Flower/WomensWorldCup_2023_BeyondGreatness_Flower.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"beyondgreatness"
+		]
+	},
+	"WomensWorldCup_2023_Brazil": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Brazil/WomensWorldCup_2023_Brazil.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"bra"
+		]
+	},
+	"WomensWorldCup_2023_Canada": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Canada/WomensWorldCup_2023_Canada.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"can"
+		]
+	},
+	"WomensWorldCup_2023_China": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_China/WomensWorldCup_2023_China.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"chn"
+		]
+	},
+	"WomensWorldCup_2023_Colombia": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Colombia/WomensWorldCup_2023_Colombia.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"col"
+		]
+	},
+	"WomensWorldCup_2023_CostaRica": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_CostaRica/WomensWorldCup_2023_CostaRica.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"crc"
+		]
+	},
+	"WomensWorldCup_2023_Denmark": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Denmark/WomensWorldCup_2023_Denmark.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"den"
+		]
+	},
+	"WomensWorldCup_2023_England": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_England/WomensWorldCup_2023_England.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"eng"
+		]
+	},
+	"WomensWorldCup_2023_Spain": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Spain/WomensWorldCup_2023_Spain.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"esp"
+		]
+	},
+	"WomensWorldCup_2023_FIFAWWC_Trophy": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_FIFAWWC_Trophy/WomensWorldCup_2023_FIFAWWC_Trophy.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"fifawwc"
+		]
+	},
+	"WomensWorldCup_2023_France": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_France/WomensWorldCup_2023_France.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"fra"
+		]
+	},
+	"WomensWorldCup_2023_Germany": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Germany/WomensWorldCup_2023_Germany.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"ger"
+		]
+	},
+	"WomensWorldCup_2023_Haiti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Haiti/WomensWorldCup_2023_Haiti.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"hai"
+		]
+	},
+	"WomensWorldCup_2023_Ireland": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Ireland/WomensWorldCup_2023_Ireland.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"irl"
+		]
+	},
+	"WomensWorldCup_2023_Italy": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Italy/WomensWorldCup_2023_Italy.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"ita"
+		]
+	},
+	"WomensWorldCup_2023_Jamaica": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Jamaica/WomensWorldCup_2023_Jamaica.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"jam"
+		]
+	},
+	"WomensWorldCup_2023_Japan": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Japan/WomensWorldCup_2023_Japan.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"jpn"
+		]
+	},
+	"WomensWorldCup_2023_Korea": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Korea/WomensWorldCup_2023_Korea.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"kor"
+		]
+	},
+	"WomensWorldCup_2023_Morocco": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Morocco/WomensWorldCup_2023_Morocco.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"mar"
+		]
+	},
+	"WomensWorldCup_2023_Netherlands": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Netherlands/WomensWorldCup_2023_Netherlands.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"ned"
+		]
+	},
+	"WomensWorldCup_2023_Nigeria": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Nigeria/WomensWorldCup_2023_Nigeria.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"nga"
+		]
+	},
+	"WomensWorldCup_2023_Norway": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Norway/WomensWorldCup_2023_Norway.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"nor"
+		]
+	},
+	"WomensWorldCup_2023_NewZealand": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_NewZealand/WomensWorldCup_2023_NewZealand.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"nzl"
+		]
+	},
+	"WomensWorldCup_2023_Panama": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Panama/WomensWorldCup_2023_Panama.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"pan"
+		]
+	},
+	"WomensWorldCup_2023_Philippines": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Philippines/WomensWorldCup_2023_Philippines.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"phi"
+		]
+	},
+	"WomensWorldCup_2023_Portugal": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Portugal/WomensWorldCup_2023_Portugal.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"por"
+		]
+	},
+	"WomensWorldCup_2023_SouthAfrica": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_SouthAfrica/WomensWorldCup_2023_SouthAfrica.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"rsa"
+		]
+	},
+	"WomensWorldCup_2023_Switzerland": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Switzerland/WomensWorldCup_2023_Switzerland.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"sui"
+		]
+	},
+	"WomensWorldCup_2023_Sweden": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Sweden/WomensWorldCup_2023_Sweden.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"swe"
+		]
+	},
+	"WomensWorldCup_2023_USA": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_USA/WomensWorldCup_2023_USA.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"usa"
+		]
+	},
+	"WomensWorldCup_2023_VIETNAM": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_VIETNAM/WomensWorldCup_2023_VIETNAM.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"vie"
+		]
+	},
+	"WomensWorldCup_2023_Zambia": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WomensWorldCup_2023_Zambia/WomensWorldCup_2023_Zambia.png",
+		"startingTimestampMs": 1689238800000,
+		"endingTimestampMs": 1692954000000,
+		"hashTags": [
+			"zam"
+		]
 	}
 }
