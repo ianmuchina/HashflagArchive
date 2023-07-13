@@ -139094,5 +139094,35 @@
 			"ブルリフs",
 			"ブルリフs生放送"
 		]
+	},
+	"Druski": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Druski/Druski.png",
+		"startingTimestampMs": 1689220800000,
+		"endingTimestampMs": 1695427200000,
+		"hashTags": [
+			"4lifers",
+			"couldabeenrecords",
+			"druski"
+		]
+	},
+	"Republic_America2Korea": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Republic_America2Korea/Republic_America2Korea.png",
+		"startingTimestampMs": 1689220800000,
+		"endingTimestampMs": 1697205000000,
+		"hashTags": [
+			"a2k",
+			"america2korea",
+			"americatokorea"
+		]
+	},
+	"DDG": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DDG/DDG.png",
+		"startingTimestampMs": 1689220800000,
+		"endingTimestampMs": 1691840160000,
+		"hashTags": [
+			"ddg",
+			"imgeekin",
+			"maybeitsme"
+		]
 	}
 }
