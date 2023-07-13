@@ -139408,5 +139408,32 @@
 			"宮﨑駿",
 			"米津玄師"
 		]
+	},
+	"LilTjay": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LilTjay/LilTjay.png",
+		"startingTimestampMs": 1689260400000,
+		"endingTimestampMs": 1695430800000,
+		"hashTags": [
+			"askliltjay",
+			"liltjay",
+			"liltjay222"
+		]
+	},
+	"DisneyPlus_Ahsoka_Translations_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_Translations_2023/DisneyPlus_Ahsoka_Translations_2023.png",
+		"startingTimestampMs": 1689231600000,
+		"endingTimestampMs": 1697007540000,
+		"hashTags": [
+			"ท่านหญิงอาโซก้า",
+			"อาโซก้า",
+			"อาโซก้าทาโน่",
+			"เลดี้อาโซก้า",
+			"アソーカ",
+			"アソーカタノ",
+			"二刀流戦士アソーカ",
+			"레이디아소카",
+			"아소카",
+			"아소카타노"
+		]
 	}
 }
