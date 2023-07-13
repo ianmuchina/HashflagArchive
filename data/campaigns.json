@@ -139435,5 +139435,15 @@
 			"아소카",
 			"아소카타노"
 		]
+	},
+	"Druski_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Druski_V2/Druski_V2.png",
+		"startingTimestampMs": 1689177600000,
+		"endingTimestampMs": 1695430800000,
+		"hashTags": [
+			"4lifers",
+			"couldabeenrecords",
+			"druski"
+		]
 	}
 }
