@@ -139396,5 +139396,17 @@
 		"hashTags": [
 			"zam"
 		]
+	},
+	"SME_Yonezu_kenshi_2023_Movie_release_Hashtag_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SME_Yonezu_kenshi_2023_Movie_release_Hashtag_2023/SME_Yonezu_kenshi_2023_Movie_release_Hashtag_2023.png",
+		"startingTimestampMs": 1689260400000,
+		"endingTimestampMs": 1694617140000,
+		"hashTags": [
+			"kenshiyonezu",
+			"君たちはどう生きるか",
+			"地球儀",
+			"宮﨑駿",
+			"米津玄師"
+		]
 	}
 }
