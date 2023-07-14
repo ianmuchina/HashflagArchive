@@ -139445,5 +139445,30 @@
 			"couldabeenrecords",
 			"druski"
 		]
+	},
+	"DisneyPlus_Secret_Invasion_Rhodey_2023_Swap": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Secret_Invasion_Rhodey_2023_Swap/DisneyPlus_Secret_Invasion_Rhodey_2023_Swap.png",
+		"startingTimestampMs": 1689246600000,
+		"endingTimestampMs": 1689344940000,
+		"hashTags": [
+			"jamesrhodes",
+			"rhodey",
+			"เจมส์โรดส์",
+			"โรดี้",
+			"ジェームズローズ",
+			"ローディ",
+			"로디",
+			"제임스로드"
+		]
+	},
+	"Xuxa_ODocumentario_2023_During_fix": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Xuxa_ODocumentario_2023_During_fix/Xuxa_ODocumentario_2023_During_fix.png",
+		"startingTimestampMs": 1689303600000,
+		"endingTimestampMs": 1689390000000,
+		"hashTags": [
+			"xuxadocumentário",
+			"xuxanogloboplay",
+			"xuxaverso"
+		]
 	}
 }

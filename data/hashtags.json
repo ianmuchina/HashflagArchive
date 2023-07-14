@@ -95477,13 +95477,15 @@
 		"DisneyPlus_Secret_Invasion_NickFury_2023"
 	],
 	"jamesrhodes": [
-		"DisneyPlus_Secret_Invasion_Rhodey_2023"
+		"DisneyPlus_Secret_Invasion_Rhodey_2023",
+		"DisneyPlus_Secret_Invasion_Rhodey_2023_Swap"
 	],
 	"mariahill": [
 		"DisneyPlus_Secret_Invasion_MariaHill_2023"
 	],
 	"rhodey": [
-		"DisneyPlus_Secret_Invasion_Rhodey_2023"
+		"DisneyPlus_Secret_Invasion_Rhodey_2023",
+		"DisneyPlus_Secret_Invasion_Rhodey_2023_Swap"
 	],
 	"secretinvasion": [
 		"DisneyPlus_Secret_Invasion_NickFury_2023"
@@ -95516,13 +95518,15 @@
 		"DisneyPlus_Secret_Invasion_Skrull_2023"
 	],
 	"เจมส์โรดส์": [
-		"DisneyPlus_Secret_Invasion_Rhodey_2023"
+		"DisneyPlus_Secret_Invasion_Rhodey_2023",
+		"DisneyPlus_Secret_Invasion_Rhodey_2023_Swap"
 	],
 	"เทโลส": [
 		"DisneyPlus_Secret_Invasion_Talos_2023"
 	],
 	"โรดี้": [
-		"DisneyPlus_Secret_Invasion_Rhodey_2023"
+		"DisneyPlus_Secret_Invasion_Rhodey_2023",
+		"DisneyPlus_Secret_Invasion_Rhodey_2023_Swap"
 	],
 	"ไกอาห์": [
 		"DisneyPlus_Secret_Invasion_Giah_V2_2023"
@@ -95537,7 +95541,8 @@
 		"DisneyPlus_Secret_Invasion_NickFury_2023"
 	],
 	"ジェームズローズ": [
-		"DisneyPlus_Secret_Invasion_Rhodey_2023"
+		"DisneyPlus_Secret_Invasion_Rhodey_2023",
+		"DisneyPlus_Secret_Invasion_Rhodey_2023_Swap"
 	],
 	"スクラル": [
 		"DisneyPlus_Secret_Invasion_Skrull_2023"
@@ -95552,7 +95557,8 @@
 		"DisneyPlus_Secret_Invasion_MariaHill_2023"
 	],
 	"ローディ": [
-		"DisneyPlus_Secret_Invasion_Rhodey_2023"
+		"DisneyPlus_Secret_Invasion_Rhodey_2023",
+		"DisneyPlus_Secret_Invasion_Rhodey_2023_Swap"
 	],
 	"가이아": [
 		"DisneyPlus_Secret_Invasion_Giah_V2_2023"
@@ -95564,7 +95570,8 @@
 		"DisneyPlus_Secret_Invasion_NickFury_2023"
 	],
 	"로디": [
-		"DisneyPlus_Secret_Invasion_Rhodey_2023"
+		"DisneyPlus_Secret_Invasion_Rhodey_2023",
+		"DisneyPlus_Secret_Invasion_Rhodey_2023_Swap"
 	],
 	"마리아힐": [
 		"DisneyPlus_Secret_Invasion_MariaHill_2023"
@@ -95579,7 +95586,8 @@
 		"DisneyPlus_Secret_Invasion_NickFury_2023"
 	],
 	"제임스로드": [
-		"DisneyPlus_Secret_Invasion_Rhodey_2023"
+		"DisneyPlus_Secret_Invasion_Rhodey_2023",
+		"DisneyPlus_Secret_Invasion_Rhodey_2023_Swap"
 	],
 	"탈로스": [
 		"DisneyPlus_Secret_Invasion_Talos_2023"
@@ -96607,5 +96615,14 @@
 	],
 	"아소카타노": [
 		"DisneyPlus_Ahsoka_Translations_2023"
+	],
+	"xuxadocumentário": [
+		"Xuxa_ODocumentario_2023_During_fix"
+	],
+	"xuxanogloboplay": [
+		"Xuxa_ODocumentario_2023_During_fix"
+	],
+	"xuxaverso": [
+		"Xuxa_ODocumentario_2023_During_fix"
 	]
 }
