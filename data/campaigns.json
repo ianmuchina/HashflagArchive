@@ -139495,5 +139495,20 @@
 			"不可能的任務",
 			"미션임파서블"
 		]
+	},
+	"DisneyPlus_Secret_Invasion_Rhodey_2023_Skrull": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Secret_Invasion_Rhodey_2023_Skrull/DisneyPlus_Secret_Invasion_Rhodey_2023_Skrull.png",
+		"startingTimestampMs": 1689345000000,
+		"endingTimestampMs": 1693983300000,
+		"hashTags": [
+			"jamesrhodes",
+			"rhodey",
+			"เจมส์โรดส์",
+			"โรดี้",
+			"ジェームズローズ",
+			"ローディ",
+			"로디",
+			"제임스로드"
+		]
 	}
 }
