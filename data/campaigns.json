@@ -139480,5 +139480,20 @@
 			"lss",
 			"mirroralbum"
 		]
+	},
+	"Paramount_Pictures_MIssionImpossible_Continue": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramount_Pictures_MIssionImpossible_Continue/Paramount_Pictures_MIssionImpossible_Continue.png",
+		"startingTimestampMs": 1689338700000,
+		"endingTimestampMs": 1692169140000,
+		"hashTags": [
+			"mi",
+			"mi7",
+			"missionimpossible",
+			"missionimpossible7",
+			"missionimpossibledeadreckoning",
+			"ミッションインポッシブル",
+			"不可能的任務",
+			"미션임파서블"
+		]
 	}
 }
