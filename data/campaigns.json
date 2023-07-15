@@ -139510,5 +139510,13 @@
 			"로디",
 			"제임스로드"
 		]
+	},
+	"TheAfterparty_Update1_714": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TheAfterparty_Update1_714/TheAfterparty_Update1_714.png",
+		"startingTimestampMs": 1689382860000,
+		"endingTimestampMs": 1689728400000,
+		"hashTags": [
+			"theafterparty"
+		]
 	}
 }
