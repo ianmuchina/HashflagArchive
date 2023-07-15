@@ -96634,13 +96634,16 @@
 		"DisneyPlus_Ahsoka_Translations_2023"
 	],
 	"xuxadocumentário": [
-		"Xuxa_ODocumentario_2023_During_fix"
+		"Xuxa_ODocumentario_2023_During_fix",
+		"Xuxa_ODocumentario_2023_After_fix"
 	],
 	"xuxanogloboplay": [
-		"Xuxa_ODocumentario_2023_During_fix"
+		"Xuxa_ODocumentario_2023_During_fix",
+		"Xuxa_ODocumentario_2023_After_fix"
 	],
 	"xuxaverso": [
-		"Xuxa_ODocumentario_2023_During_fix"
+		"Xuxa_ODocumentario_2023_During_fix",
+		"Xuxa_ODocumentario_2023_After_fix"
 	],
 	"laurenspencersmith": [
 		"Island_Lauren_Spenser_Smith_23"
@@ -96650,5 +96653,8 @@
 	],
 	"mirroralbum": [
 		"Island_Lauren_Spenser_Smith_23"
+	],
+	"xuxaodocumentário": [
+		"Xuxa_ODocumentario_2023_After_fix"
 	]
 }
