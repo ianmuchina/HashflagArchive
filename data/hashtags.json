@@ -947,7 +947,8 @@
 	],
 	"8月5日はパピコの日": [
 		"GlicoPapico_JP_2020",
-		"Glico_Papico_JP_Jul_2022"
+		"Glico_Papico_JP_Jul_2022",
+		"Glico_Papico_2023"
 	],
 	"911fox": [
 		"911LoneStaronFOX_Dec_2020"
@@ -76502,7 +76503,8 @@
 	],
 	"パピコ": [
 		"GlicoPapico_relaunch2",
-		"Glico_Papico_JP_Jul_2022"
+		"Glico_Papico_JP_Jul_2022",
+		"Glico_Papico_2023"
 	],
 	"パピコ\n": [
 		"GlicoPapico_JP_2020",
@@ -76510,7 +76512,8 @@
 	],
 	"パピコの日": [
 		"GlicoPapico_JP_2020",
-		"Glico_Papico_JP_Jul_2022"
+		"Glico_Papico_JP_Jul_2022",
+		"Glico_Papico_2023"
 	],
 	"パラアイスホッケー": [
 		"Beijing_Paralympic_ParaIceHockey_2022"
@@ -96679,5 +96682,11 @@
 	],
 	"livelikerugby": [
 		"MasterCard_LiveLikeRugby"
+	],
+	"パピコなめらかリフレッシュ": [
+		"Glico_Papico_2023"
+	],
+	"パピコなめらカラオケ": [
+		"Glico_Papico_2023"
 	]
 }
