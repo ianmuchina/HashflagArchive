@@ -1436,7 +1436,8 @@
 	"adekunlegold": [
 		"AdekunleGold_2020",
 		"Adekunle_Gold_2020",
-		"Adekunle_Gold_Album_2022"
+		"Adekunle_Gold_Album_2022",
+		"AdekunleGold"
 	],
 	"adele": [
 		"Adele_30_Album_Emoji"
@@ -96688,5 +96689,11 @@
 	],
 	"パピコなめらカラオケ": [
 		"Glico_Papico_2023"
+	],
+	"ogaranya": [
+		"AdekunleGold"
+	],
+	"tequilaeverafter": [
+		"AdekunleGold"
 	]
 }

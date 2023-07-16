@@ -139571,5 +139571,15 @@
 			"パピコなめらカラオケ",
 			"パピコの日"
 		]
+	},
+	"AdekunleGold": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AdekunleGold/AdekunleGold.png",
+		"startingTimestampMs": 1689472800000,
+		"endingTimestampMs": 1694829600000,
+		"hashTags": [
+			"adekunlegold",
+			"ogaranya",
+			"tequilaeverafter"
+		]
 	}
 }
