@@ -139551,5 +139551,13 @@
 			"真・ドラクエvイベント",
 			"真・ドラゴンクエストvイベント"
 		]
+	},
+	"MasterCard_LiveLikeRugby": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MasterCard_LiveLikeRugby/MasterCard_LiveLikeRugby.png",
+		"startingTimestampMs": 1689516540000,
+		"endingTimestampMs": 1697465340000,
+		"hashTags": [
+			"livelikerugby"
+		]
 	}
 }
