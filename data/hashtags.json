@@ -15698,7 +15698,8 @@
 		"DQWalk_NewYear_2020_2021"
 	],
 	"dqタクト": [
-		"DQTACT_Anniversary_Jul_2022"
+		"DQTACT_Anniversary_Jul_2022",
+		"DQ_TACT_2023_Anniversary_1_Emoji_Tact"
 	],
 	"dqタクト２周年を祝おう": [
 		"DQTACT_Anniversary_Jul_2022"
@@ -75988,7 +75989,8 @@
 		"DQ_TACT_2_2020",
 		"DQ_TACT_2_Jan_2021",
 		"DQ_TACT_2021anniversary_2021",
-		"DQTACT_Anniversary_Jul_2022"
+		"DQTACT_Anniversary_Jul_2022",
+		"DQ_TACT_2023_Anniversary_1_Emoji_Tact"
 	],
 	"ドラクエタクト１周年": [
 		"DQ_TACT_2021anniversary_2021"
@@ -96656,5 +96658,23 @@
 	],
 	"xuxaodocumentário": [
 		"Xuxa_ODocumentario_2023_After_fix"
+	],
+	"dqタクト3周年": [
+		"DQ_TACT_2023_Anniversary_1_Emoji_Tact"
+	],
+	"ドラクエタクト３周年": [
+		"DQ_TACT_2023_Anniversary_1_Emoji_Tact"
+	],
+	"ドラゴンクエストタクト": [
+		"DQ_TACT_2023_Anniversary_1_Emoji_Tact"
+	],
+	"パパスが生きてるドラクエタクト": [
+		"DQ_TACT_2023_Anniversary_1_Emoji_Pankraz"
+	],
+	"真・ドラクエvイベント": [
+		"DQ_TACT_2023_Anniversary_1_Emoji_Pankraz"
+	],
+	"真・ドラゴンクエストvイベント": [
+		"DQ_TACT_2023_Anniversary_1_Emoji_Pankraz"
 	]
 }

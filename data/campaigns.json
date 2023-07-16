@@ -139529,5 +139529,27 @@
 			"xuxaodocumentário",
 			"xuxaverso"
 		]
+	},
+	"DQ_TACT_2023_Anniversary_1_Emoji_Tact": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQ_TACT_2023_Anniversary_1_Emoji_Tact/DQ_TACT_2023_Anniversary_1_Emoji_Tact.png",
+		"startingTimestampMs": 1689483600000,
+		"endingTimestampMs": 1692111540000,
+		"hashTags": [
+			"dqタクト",
+			"dqタクト3周年",
+			"ドラクエタクト",
+			"ドラクエタクト３周年",
+			"ドラゴンクエストタクト"
+		]
+	},
+	"DQ_TACT_2023_Anniversary_1_Emoji_Pankraz": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQ_TACT_2023_Anniversary_1_Emoji_Pankraz/DQ_TACT_2023_Anniversary_1_Emoji_Pankraz.png",
+		"startingTimestampMs": 1689483600000,
+		"endingTimestampMs": 1692111540000,
+		"hashTags": [
+			"パパスが生きてるドラクエタクト",
+			"真・ドラクエvイベント",
+			"真・ドラゴンクエストvイベント"
+		]
 	}
 }
