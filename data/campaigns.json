@@ -139581,5 +139581,22 @@
 			"ogaranya",
 			"tequilaeverafter"
 		]
+	},
+	"Pokemon_WCS2023_JP_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pokemon_WCS2023_JP_Emoji/Pokemon_WCS2023_JP_Emoji.png",
+		"startingTimestampMs": 1689606000000,
+		"endingTimestampMs": 1692284340000,
+		"hashTags": [
+			"pokegenicyokohama",
+			"pokemonliveshow",
+			"pokemonmatsuripark",
+			"pokemonparade",
+			"pokemontrainercruise",
+			"pokemonworlds",
+			"ポケモンwcs2023",
+			"ポケモンwcsアニメ",
+			"ポケモントレーナーズクルーズ",
+			"ポケモン夏祭りパーク"
+		]
 	}
 }
