@@ -139615,5 +139615,22 @@
 			"warrior",
 			"whatamieating"
 		]
+	},
+	"DraftKings_Casino_Hashmojis": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_Casino_Hashmojis/DraftKings_Casino_Hashmojis.png",
+		"startingTimestampMs": 1689638400000,
+		"endingTimestampMs": 1697500740000,
+		"hashTags": [
+			"dkcasino",
+			"draftkingscasino"
+		]
+	},
+	"DraftKings_PickTheLock": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_PickTheLock/DraftKings_PickTheLock.png",
+		"startingTimestampMs": 1689638400000,
+		"endingTimestampMs": 1697500740000,
+		"hashTags": [
+			"pickthelock"
+		]
 	}
 }
