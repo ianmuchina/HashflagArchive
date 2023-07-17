@@ -139598,5 +139598,22 @@
 			"ポケモントレーナーズクルーズ",
 			"ポケモン夏祭りパーク"
 		]
+	},
+	"HBOMax_Launch_AdditionalShows_fix": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HBOMax_Launch_AdditionalShows_fix/HBOMax_Launch_AdditionalShows_fix.png",
+		"startingTimestampMs": 1689625200000,
+		"endingTimestampMs": 1692590400000,
+		"hashTags": [
+			"bamarush",
+			"fullcircle",
+			"graymatter",
+			"gremlins",
+			"harleyquinn",
+			"projectgreenlight",
+			"smartless",
+			"swipingamerica",
+			"warrior",
+			"whatamieating"
+		]
 	}
 }
