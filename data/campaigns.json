@@ -139632,5 +139632,21 @@
 		"hashTags": [
 			"pickthelock"
 		]
+	},
+	"MasterCard_Rugby2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MasterCard_Rugby2023/MasterCard_Rugby2023.png",
+		"startingTimestampMs": 1689649200000,
+		"endingTimestampMs": 1697465340000,
+		"hashTags": [
+			"rugby2023"
+		]
+	},
+	"MasterCard_SeizeTheGame": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MasterCard_SeizeTheGame/MasterCard_SeizeTheGame.png",
+		"startingTimestampMs": 1689649200000,
+		"endingTimestampMs": 1697465340000,
+		"hashTags": [
+			"seizethegame"
+		]
 	}
 }
