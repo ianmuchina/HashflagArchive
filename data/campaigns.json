@@ -139660,5 +139660,13 @@
 			"fnbspaces",
 			"lovefnb"
 		]
+	},
+	"FDJ_Tour_de_France_2023_v1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FDJ_Tour_de_France_2023_v1/FDJ_Tour_de_France_2023_v1.png",
+		"startingTimestampMs": 1689672300000,
+		"endingTimestampMs": 1690063140000,
+		"hashTags": [
+			"lafrancequiroule"
+		]
 	}
 }
