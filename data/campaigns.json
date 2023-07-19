@@ -139676,5 +139676,32 @@
 		"hashTags": [
 			"tilitsdone"
 		]
+	},
+	"RoyWoods23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RoyWoods23/RoyWoods23.png",
+		"startingTimestampMs": 1689739200000,
+		"endingTimestampMs": 1691802000000,
+		"hashTags": [
+			"askroywoods",
+			"mixedemotions",
+			"roywoods"
+		]
+	},
+	"SnohAalegra23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SnohAalegra23/SnohAalegra23.png",
+		"startingTimestampMs": 1689739200000,
+		"endingTimestampMs": 1695873600000,
+		"hashTags": [
+			"bemysummer"
+		]
+	},
+	"Matildas_WWC_2023_during_match1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Matildas_WWC_2023_during_match1/Matildas_WWC_2023_during_match1.png",
+		"startingTimestampMs": 1689732000000,
+		"endingTimestampMs": 1689818340000,
+		"hashTags": [
+			"matildas",
+			"tillitsdone"
+		]
 	}
 }
