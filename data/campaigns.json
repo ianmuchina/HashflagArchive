@@ -139703,5 +139703,13 @@
 			"matildas",
 			"tillitsdone"
 		]
+	},
+	"AfterParty_3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AfterParty_3/AfterParty_3.png",
+		"startingTimestampMs": 1689724800000,
+		"endingTimestampMs": 1690333200000,
+		"hashTags": [
+			"theafterparty"
+		]
 	}
 }
