@@ -139721,5 +139721,15 @@
 			"matildas",
 			"tillitsdone"
 		]
+	},
+	"Streamys_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Streamys_2023/Streamys_2023.png",
+		"startingTimestampMs": 1689825600000,
+		"endingTimestampMs": 1695859140000,
+		"hashTags": [
+			"streamyawards",
+			"streamys",
+			"streamys2023"
+		]
 	}
 }
