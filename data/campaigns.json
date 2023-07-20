@@ -139731,5 +139731,16 @@
 			"streamys",
 			"streamys2023"
 		]
+	},
+	"DKSportsbook_Hashflag_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DKSportsbook_Hashflag_2023/DKSportsbook_Hashflag_2023.png",
+		"startingTimestampMs": 1689724800000,
+		"endingTimestampMs": 1692176340000,
+		"hashTags": [
+			"dksportsbook",
+			"draftkingssportsbook",
+			"earlywin",
+			"peoplesparlay"
+		]
 	}
 }
