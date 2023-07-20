@@ -139762,5 +139762,21 @@
 			"ピース",
 			"毎日ピースチャレンジ"
 		]
+	},
+	"2023_Womens_World_Cup_Optus_Sport_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2023_Womens_World_Cup_Optus_Sport_after/2023_Womens_World_Cup_Optus_Sport_after.png",
+		"startingTimestampMs": 1689861600000,
+		"endingTimestampMs": 1696082340000,
+		"hashTags": [
+			"optussport"
+		]
+	},
+	"DraftKings_SteppedUpSGP": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_SteppedUpSGP/DraftKings_SteppedUpSGP.png",
+		"startingTimestampMs": 1689714000000,
+		"endingTimestampMs": 1697489940000,
+		"hashTags": [
+			"steppedupsgp"
+		]
 	}
 }
