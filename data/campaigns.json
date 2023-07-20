@@ -139711,5 +139711,15 @@
 		"hashTags": [
 			"theafterparty"
 		]
+	},
+	"Matildas_WWC_2023_before_match2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Matildas_WWC_2023_before_match2/Matildas_WWC_2023_before_match2.png",
+		"startingTimestampMs": 1689818400000,
+		"endingTimestampMs": 1690336740000,
+		"hashTags": [
+			"gomatildas",
+			"matildas",
+			"tillitsdone"
+		]
 	}
 }
