@@ -139742,5 +139742,13 @@
 			"earlywin",
 			"peoplesparlay"
 		]
+	},
+	"FanFuel_Womens_World_Cup": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FanFuel_Womens_World_Cup/FanFuel_Womens_World_Cup.png",
+		"startingTimestampMs": 1689840000000,
+		"endingTimestampMs": 1692604800000,
+		"hashTags": [
+			"fanfuel"
+		]
 	}
 }
