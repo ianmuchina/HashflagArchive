@@ -139790,5 +139790,15 @@
 			"spotifyxnewjeans",
 			"스포티파이_버니랜드"
 		]
+	},
+	"GretaVanFleet": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GretaVanFleet/GretaVanFleet.png",
+		"startingTimestampMs": 1689912000000,
+		"endingTimestampMs": 1696122000000,
+		"hashTags": [
+			"gretavanfleet",
+			"intotheether",
+			"starcatcher"
+		]
 	}
 }
