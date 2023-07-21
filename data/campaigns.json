@@ -139837,5 +139837,13 @@
 			"fgoフェス",
 			"fgo夏祭り"
 		]
+	},
+	"UNIQLO_2023_AIRism_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UNIQLO_2023_AIRism_Hashtag/UNIQLO_2023_AIRism_Hashtag.png",
+		"startingTimestampMs": 1689937200000,
+		"endingTimestampMs": 1692529140000,
+		"hashTags": [
+			"エアリズム"
+		]
 	}
 }
