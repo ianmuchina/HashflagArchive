@@ -41535,7 +41535,8 @@
 	"onepiece": [
 		"ShueishaOnePiece1000_2020",
 		"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022",
-		"BNE_OPBR_global_Film_Luffy_Nov_2022"
+		"BNE_OPBR_global_Film_Luffy_Nov_2022",
+		"Netflix_OnePiece_Q3_2023"
 	],
 	"onepiece1000logs": [
 		"ShueishaOnePiece1000_2020"
@@ -96848,5 +96849,17 @@
 	],
 	"エアリズム": [
 		"UNIQLO_2023_AIRism_Hashtag"
+	],
+	"onepieceliveaction": [
+		"Netflix_OnePiece_Q3_2023"
+	],
+	"onepiecenetflix": [
+		"Netflix_OnePiece_Q3_2023"
+	],
+	"onepieceseries": [
+		"Netflix_OnePiece_Q3_2023"
+	],
+	"opla": [
+		"Netflix_OnePiece_Q3_2023"
 	]
 }
