@@ -19022,7 +19022,8 @@
 	"fgo": [
 		"DelightworksFateGrandOrder2020",
 		"Delightworks_FGO_0702_2021",
-		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022"
+		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022",
+		"FGO_2023_8th_Anniversary_Hashtag"
 	],
 	"fgo5周年": [
 		"DelightworksFateGrandOrder2020"
@@ -19052,7 +19053,8 @@
 		"Delightworks_FGO_0702_2021"
 	],
 	"fgoフェス": [
-		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022"
+		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022",
+		"FGO_2023_8th_Anniversary_Hashtag"
 	],
 	"fgs": [
 		"FutureGamesShow_21",
@@ -96834,5 +96836,14 @@
 	],
 	"laysgoaldengiveaway": [
 		"Frito_Lay_WWC_2023"
+	],
+	"fgo8周年": [
+		"FGO_2023_8th_Anniversary_Hashtag"
+	],
+	"fgo8周年メッセージ": [
+		"FGO_2023_8th_Anniversary_Hashtag"
+	],
+	"fgo夏祭り": [
+		"FGO_2023_8th_Anniversary_Hashtag"
 	]
 }

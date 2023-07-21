@@ -139825,5 +139825,17 @@
 		"hashTags": [
 			"laysgoaldengiveaway"
 		]
+	},
+	"FGO_2023_8th_Anniversary_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FGO_2023_8th_Anniversary_Hashtag/FGO_2023_8th_Anniversary_Hashtag.png",
+		"startingTimestampMs": 1689933600000,
+		"endingTimestampMs": 1697900340000,
+		"hashTags": [
+			"fgo",
+			"fgo8周年",
+			"fgo8周年メッセージ",
+			"fgoフェス",
+			"fgo夏祭り"
+		]
 	}
 }
