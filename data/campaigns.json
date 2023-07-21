@@ -139800,5 +139800,22 @@
 			"intotheether",
 			"starcatcher"
 		]
+	},
+	"Apple_Messi_Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Apple_Messi_Hashfetti/Apple_Messi_Hashfetti.png",
+		"startingTimestampMs": 1689922800000,
+		"endingTimestampMs": 1690009140000,
+		"hashTags": [
+			"mlsseasonpass"
+		]
+	},
+	"PaddyPowerComedyFestival": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PaddyPowerComedyFestival/PaddyPowerComedyFestival.png",
+		"startingTimestampMs": 1689922800000,
+		"endingTimestampMs": 1697612340000,
+		"hashTags": [
+			"paddypowercomedyfestival",
+			"ppcomedyfestival"
+		]
 	}
 }
