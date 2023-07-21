@@ -139817,5 +139817,13 @@
 			"paddypowercomedyfestival",
 			"ppcomedyfestival"
 		]
+	},
+	"Frito_Lay_WWC_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Frito_Lay_WWC_2023/Frito_Lay_WWC_2023.png",
+		"startingTimestampMs": 1689811200000,
+		"endingTimestampMs": 1692594000000,
+		"hashTags": [
+			"laysgoaldengiveaway"
+		]
 	}
 }
