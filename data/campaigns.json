@@ -139865,5 +139865,28 @@
 		"hashTags": [
 			"mlsseasonpass"
 		]
+	},
+	"Yostar-blue_archivejp-hashmoji_for_July": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Yostar-blue_archivejp-hashmoji_for_July/Yostar-blue_archivejp-hashmoji_for_July.png",
+		"startingTimestampMs": 1690038000000,
+		"endingTimestampMs": 1692630000000,
+		"hashTags": [
+			"アロナ",
+			"ブルアカ",
+			"ブルアカらいぶあっちっちsp",
+			"ブルーアーカイブ"
+		]
+	},
+	"Yostar-arknightsstaff-hashmoji_for_July": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Yostar-arknightsstaff-hashmoji_for_July/Yostar-arknightsstaff-hashmoji_for_July.png",
+		"startingTimestampMs": 1690038000000,
+		"endingTimestampMs": 1692630000000,
+		"hashTags": [
+			"アークナイツ",
+			"アークナイツハニバ2023",
+			"アークナイツハニバ生放送2023",
+			"アークナイツ戦友募集",
+			"リン・ユーシャ"
+		]
 	}
 }
