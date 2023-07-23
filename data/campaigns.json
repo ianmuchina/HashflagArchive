@@ -139896,5 +139896,23 @@
 		"hashTags": [
 			"sharkweek"
 		]
+	},
+	"La_Vuelta_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/La_Vuelta_2023/La_Vuelta_2023.png",
+		"startingTimestampMs": 1690149600000,
+		"endingTimestampMs": 1695599940000,
+		"hashTags": [
+			"carrefourconlavuelta",
+			"lavuelta23",
+			"lavuelta23bcn"
+		]
+	},
+	"FDJ_Tour_de_France_2023_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FDJ_Tour_de_France_2023_v2/FDJ_Tour_de_France_2023_v2.png",
+		"startingTimestampMs": 1690149600000,
+		"endingTimestampMs": 1696005060000,
+		"hashTags": [
+			"lafrancequiroule"
+		]
 	}
 }

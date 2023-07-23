@@ -9467,7 +9467,8 @@
 	"carrefourconlavuelta": [
 		"LaVuelta21",
 		"LaVuelta_2020",
-		"La_Vuelta_Jul_2022"
+		"La_Vuelta_Jul_2022",
+		"La_Vuelta_2023"
 	],
 	"carrieandbig": [
 		"HBOMax_AJLT_2021_MrBig"
@@ -96308,7 +96309,8 @@
 	],
 	"lafrancequiroule": [
 		"FDJ_Tour_de_France_2023",
-		"FDJ_Tour_de_France_2023_v1"
+		"FDJ_Tour_de_France_2023_v1",
+		"FDJ_Tour_de_France_2023_v2"
 	],
 	"jocelyn": [
 		"Republic_Jocelyn_TheIdol_23"
@@ -96882,5 +96884,11 @@
 	],
 	"sharkweek": [
 		"SharkWeek23-US-CustomLike"
+	],
+	"lavuelta23": [
+		"La_Vuelta_2023"
+	],
+	"lavuelta23bcn": [
+		"La_Vuelta_2023"
 	]
 }
