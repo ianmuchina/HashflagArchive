@@ -139888,5 +139888,13 @@
 			"アークナイツ戦友募集",
 			"リン・ユーシャ"
 		]
+	},
+	"SharkWeek23-US-CustomLike": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SharkWeek23-US-CustomLike/SharkWeek23-US-CustomLike.png",
+		"startingTimestampMs": 1690084800000,
+		"endingTimestampMs": 1690171140000,
+		"hashTags": [
+			"sharkweek"
+		]
 	}
 }
