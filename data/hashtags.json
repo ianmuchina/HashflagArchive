@@ -95264,13 +95264,15 @@
 		"ParamountPics_TMNT_MutantMayhem_Leonardo"
 	],
 	"cowabunga": [
-		"ParamountPics_TMNT_MutantMayhem_Michelangelo"
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo",
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo_Before"
 	],
 	"mutantmayhem": [
 		"ParamountPics_TMNT_MutantMayhem_Raphael_fix"
 	],
 	"ninjaturtlescaosmutante": [
-		"ParamountPics_TMNT_MutantMayhem_Michelangelo"
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo",
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo_Before"
 	],
 	"ninjaturtleslefilm": [
 		"ParamountPics_TMNT_MutantMayhem_Raphael_fix"
@@ -95309,13 +95311,16 @@
 		"ParamountPics_TMNT_MutantMayhem_Leonardo"
 	],
 	"tmntmichelangelo": [
-		"ParamountPics_TMNT_MutantMayhem_Michelangelo"
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo",
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo_Before"
 	],
 	"tmntmikey": [
-		"ParamountPics_TMNT_MutantMayhem_Michelangelo"
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo",
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo_Before"
 	],
 	"tmntmovie": [
-		"ParamountPics_TMNT_MutantMayhem_Michelangelo"
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo",
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo_Before"
 	],
 	"tmntraph": [
 		"ParamountPics_TMNT_MutantMayhem_Raphael_fix"
@@ -95330,7 +95335,8 @@
 		"ParamountPics_TMNT_MutantMayhem_Raphael_fix"
 	],
 	"turtletots": [
-		"ParamountPics_TMNT_MutantMayhem_Michelangelo"
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo",
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo_Before"
 	],
 	"映画タートルズ": [
 		"ParamountPics_TMNT_MutantMayhem_Donatello"
@@ -95339,7 +95345,8 @@
 		"ParamountPics_TMNT_MutantMayhem_Raphael_fix"
 	],
 	"코와붕가": [
-		"ParamountPics_TMNT_MutantMayhem_Michelangelo"
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo",
+		"ParamountPics_TMNT_MutantMayhem_Michelangelo_Before"
 	],
 	"acuo": [
 		"LOTTE_GUM_Q2_23_v2"
