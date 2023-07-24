@@ -139914,5 +139914,23 @@
 		"hashTags": [
 			"lafrancequiroule"
 		]
+	},
+	"Disney_ABC_TheBachelorette_S20_Hashmoji_Ent_US": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_ABC_TheBachelorette_S20_Hashmoji_Ent_US/Disney_ABC_TheBachelorette_S20_Hashmoji_Ent_US.png",
+		"startingTimestampMs": 1690171200000,
+		"endingTimestampMs": 1693551600000,
+		"hashTags": [
+			"bachelorette",
+			"charitylawson",
+			"thebachelorette"
+		]
+	},
+	"SharkWeek23-US-Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SharkWeek23-US-Hashmoji/SharkWeek23-US-Hashmoji.png",
+		"startingTimestampMs": 1690171200000,
+		"endingTimestampMs": 1697947140000,
+		"hashTags": [
+			"sharkweek"
+		]
 	}
 }

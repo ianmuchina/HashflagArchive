@@ -5137,7 +5137,8 @@
 		"TheBachelorette_2021",
 		"TheBachelorette_Fall_2021",
 		"Bachelorette_2020_2_v2",
-		"DisneyABC_Bachelorette_S19_Jul_2022"
+		"DisneyABC_Bachelorette_S19_Jul_2022",
+		"Disney_ABC_TheBachelorette_S20_Hashmoji_Ent_US"
 	],
 	"bacheloretteabc": [
 		"Bachelorette2020_Clare",
@@ -56630,7 +56631,8 @@
 		"TheBachelorette_Fall_2021",
 		"Bachelor_TheGreatestSeasonsEver_2020",
 		"Bachelorette_2020_2_v2",
-		"DisneyABC_Bachelorette_S19_Jul_2022"
+		"DisneyABC_Bachelorette_S19_Jul_2022",
+		"Disney_ABC_TheBachelorette_S20_Hashmoji_Ent_US"
 	],
 	"thebacheloretteabc": [
 		"Bachelorette2020_Clare",
@@ -96883,12 +96885,16 @@
 		"Yostar-arknightsstaff-hashmoji_for_July"
 	],
 	"sharkweek": [
-		"SharkWeek23-US-CustomLike"
+		"SharkWeek23-US-CustomLike",
+		"SharkWeek23-US-Hashmoji"
 	],
 	"lavuelta23": [
 		"La_Vuelta_2023"
 	],
 	"lavuelta23bcn": [
 		"La_Vuelta_2023"
+	],
+	"charitylawson": [
+		"Disney_ABC_TheBachelorette_S20_Hashmoji_Ent_US"
 	]
 }
