@@ -139944,5 +139944,14 @@
 			"宮﨑駿",
 			"米津玄師"
 		]
+	},
+	"Futurama_Hulu_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Futurama_Hulu_2023/Futurama_Hulu_2023.png",
+		"startingTimestampMs": 1690187400000,
+		"endingTimestampMs": 1697880360000,
+		"hashTags": [
+			"futurama",
+			"futuramaonhulu"
+		]
 	}
 }
