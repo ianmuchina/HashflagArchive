@@ -139993,5 +139993,17 @@
 			"turtletots",
 			"코와붕가"
 		]
+	},
+	"Bitget_Anniversary_Campaign_2023_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bitget_Anniversary_Campaign_2023_Hashmoji/Bitget_Anniversary_Campaign_2023_Hashmoji.png",
+		"startingTimestampMs": 1690277400000,
+		"endingTimestampMs": 1698226200000,
+		"hashTags": [
+			"bgb",
+			"bitget",
+			"bitget5thanniversary",
+			"bitgetrebranding",
+			"bitgetturns5"
+		]
 	}
 }
