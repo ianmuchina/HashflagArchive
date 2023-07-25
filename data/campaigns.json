@@ -140005,5 +140005,16 @@
 			"bitgetrebranding",
 			"bitgetturns5"
 		]
+	},
+	"SME_Yonezu_Kenshi_movie_release_2023_during_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SME_Yonezu_Kenshi_movie_release_2023_during_v2/SME_Yonezu_Kenshi_movie_release_2023_during_v2.png",
+		"startingTimestampMs": 1690297200000,
+		"endingTimestampMs": 1690383540000,
+		"hashTags": [
+			"kenshiyonezu",
+			"君たちはどう生きるか",
+			"地球儀",
+			"宮﨑駿"
+		]
 	}
 }
