@@ -140016,5 +140016,22 @@
 			"地球儀",
 			"宮﨑駿"
 		]
+	},
+	"Matildas_WWC_2023_during_match2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Matildas_WWC_2023_during_match2/Matildas_WWC_2023_during_match2.png",
+		"startingTimestampMs": 1690336800000,
+		"endingTimestampMs": 1690423140000,
+		"hashTags": [
+			"matildas",
+			"tillitsdone"
+		]
+	},
+	"ATV_Afterparty_Emoji_2023_Ep4": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ATV_Afterparty_Emoji_2023_Ep4/ATV_Afterparty_Emoji_2023_Ep4.png",
+		"startingTimestampMs": 1690333200000,
+		"endingTimestampMs": 1690937940000,
+		"hashTags": [
+			"theafterparty"
+		]
 	}
 }
