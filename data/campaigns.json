@@ -140085,5 +140085,14 @@
 			"gtacademy",
 			"jannmardenborough"
 		]
+	},
+	"Literature_Poetry_Campaign_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Literature_Poetry_Campaign_Emoji_2023/Literature_Poetry_Campaign_Emoji_2023.png",
+		"startingTimestampMs": 1690411200000,
+		"endingTimestampMs": 1698187200000,
+		"hashTags": [
+			"arabicpoetry2023",
+			"عام_الشعر_العربي_2023"
+		]
 	}
 }
