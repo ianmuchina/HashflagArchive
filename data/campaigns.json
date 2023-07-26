@@ -140062,5 +140062,17 @@
 			"cryptof1",
 			"cryptoufc"
 		]
+	},
+	"SME_Yonezu_Kenshi_movie_release_2023_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SME_Yonezu_Kenshi_movie_release_2023_after/SME_Yonezu_Kenshi_movie_release_2023_after.png",
+		"startingTimestampMs": 1690383600000,
+		"endingTimestampMs": 1694617140000,
+		"hashTags": [
+			"kenshiyonezu",
+			"君たちはどう生きるか",
+			"地球儀",
+			"宮﨑駿",
+			"米津玄師"
+		]
 	}
 }
