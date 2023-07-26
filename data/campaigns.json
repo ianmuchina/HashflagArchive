@@ -140041,5 +140041,14 @@
 		"hashTags": [
 			"1yeartogo"
 		]
+	},
+	"Apple_Pay_Hashmoji_July_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Apple_Pay_Hashmoji_July_23/Apple_Pay_Hashmoji_July_23.png",
+		"startingTimestampMs": 1690354740000,
+		"endingTimestampMs": 1698390000000,
+		"hashTags": [
+			"applepay",
+			"paytheappleway"
+		]
 	}
 }
