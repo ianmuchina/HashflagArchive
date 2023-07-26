@@ -140074,5 +140074,16 @@
 			"宮﨑駿",
 			"米津玄師"
 		]
+	},
+	"SonyPictures_GranTurismo_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SonyPictures_GranTurismo_2023/SonyPictures_GranTurismo_2023.png",
+		"startingTimestampMs": 1690403400000,
+		"endingTimestampMs": 1698130800000,
+		"hashTags": [
+			"granturismo",
+			"granturismomovie",
+			"gtacademy",
+			"jannmardenborough"
+		]
 	}
 }
