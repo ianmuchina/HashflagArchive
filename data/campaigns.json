@@ -140033,5 +140033,13 @@
 		"hashTags": [
 			"theafterparty"
 		]
+	},
+	"1YearToGo_Olympics_Hashfetti2023_v1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/1YearToGo_Olympics_Hashfetti2023_v1/1YearToGo_Olympics_Hashfetti2023_v1.png",
+		"startingTimestampMs": 1690344000000,
+		"endingTimestampMs": 1690430400000,
+		"hashTags": [
+			"1yeartogo"
+		]
 	}
 }
