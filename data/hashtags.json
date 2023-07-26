@@ -12111,7 +12111,8 @@
 		"Foris_NBA_Campaign_May_2022",
 		"Foris_Referral_Campaign_Aug_2022",
 		"Foris_Limited_Nov_2022",
-		"Foris_Limited_Cryptocom_23"
+		"Foris_Limited_Cryptocom_23",
+		"Foris_Limited_2023_Q3_Branded_Hashtag_202307"
 	],
 	"crofighters": [
 		"CryptocomUFC_2021"
@@ -12201,7 +12202,8 @@
 		"Cryptocom_F1_SG__2021",
 		"Cryptocom_FFTB_2021",
 		"CryptocomUFC_2021",
-		"Foris_NBA_Campaign_May_2022"
+		"Foris_NBA_Campaign_May_2022",
+		"Foris_Limited_2023_Q3_Branded_Hashtag_202307"
 	],
 	"cryptogg": [
 		"Cryptocom_Foris_SB_2022",
@@ -12218,7 +12220,8 @@
 		"Foris_NBA_Campaign_May_2022",
 		"Foris_Referral_Campaign_Aug_2022",
 		"Foris_Limited_Nov_2022",
-		"Foris_Limited_Cryptocom_23"
+		"Foris_Limited_Cryptocom_23",
+		"Foris_Limited_2023_Q3_Branded_Hashtag_202307"
 	],
 	"cryptouni": [
 		"Foris_Referral_Campaign_Aug_2022",
@@ -96965,5 +96968,11 @@
 	],
 	"paytheappleway": [
 		"Apple_Pay_Hashmoji_July_23"
+	],
+	"bornbrave": [
+		"Foris_Limited_2023_Q3_Branded_Hashtag_202307"
+	],
+	"cryptocom": [
+		"Foris_Limited_2023_Q3_Branded_Hashtag_202307"
 	]
 }
