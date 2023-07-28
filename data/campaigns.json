@@ -140164,5 +140164,77 @@
 			"treasure",
 			"treasurereboot"
 		]
+	},
+	"DisneyTH_HauntedMansion_HatboxGhost_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyTH_HauntedMansion_HatboxGhost_2023/DisneyTH_HauntedMansion_HatboxGhost_2023.png",
+		"startingTimestampMs": 1690521600000,
+		"endingTimestampMs": 1695884100000,
+		"hashTags": [
+			"bàleota",
+			"fantasmadacaixadochapéu",
+			"fantasmadehatbox",
+			"hatboxghost",
+			"lefantômeàlaboîteàchapeau",
+			"madameleota",
+			"madameleotaid",
+			"madameléota",
+			"madamleota",
+			"şapkakutuluhayalet",
+			"ผีกล่องหมวก",
+			"มาดามลีโอต้า",
+			"ハットボックスゴースト",
+			"マダムレオタ",
+			"丽奥塔夫人",
+			"帽盒幽灵",
+			"마담리오타",
+			"모자상자유령"
+		]
+	},
+	"DisneyTH_HauntedMansion_MadameLeota_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyTH_HauntedMansion_MadameLeota_2023/DisneyTH_HauntedMansion_MadameLeota_2023.png",
+		"startingTimestampMs": 1690521600000,
+		"endingTimestampMs": 1695884100000,
+		"hashTags": [
+			"bàleota",
+			"geistervilla",
+			"hauntedmansion",
+			"lacasadeifantasmi",
+			"lemanoirhanté",
+			"madameleota",
+			"madameleotaid",
+			"madameléota",
+			"madamleota",
+			"manoirhanté",
+			"mansiónembrujada",
+			"mansiónencantada",
+			"mansãoassombrada",
+			"mansãomalassombrada",
+			"periliköşk",
+			"มาดามลีโอต้า",
+			"ホーンテッドマンション",
+			"マダムレオタ",
+			"丽奥塔夫人",
+			"마담리오타"
+		]
+	},
+	"CardiBJealousy": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CardiBJealousy/CardiBJealousy.png",
+		"startingTimestampMs": 1690516800000,
+		"endingTimestampMs": 1698368400000,
+		"hashTags": [
+			"cardi",
+			"cardib",
+			"cardioffset"
+		]
+	},
+	"OffsetJealousy": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OffsetJealousy/OffsetJealousy.png",
+		"startingTimestampMs": 1690516800000,
+		"endingTimestampMs": 1698368400000,
+		"hashTags": [
+			"jealousy",
+			"offset",
+			"offsetcardi"
+		]
 	}
 }

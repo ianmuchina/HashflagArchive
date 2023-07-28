@@ -9384,7 +9384,8 @@
 		"CardiB_MegTheeStallion_2020_v2",
 		"Lizzo_Cardi_Single_Emoji_2021",
 		"Lizzo_Cardi_Single_2021_V2",
-		"Cardi_Hot_Shit_Emoji_2022"
+		"Cardi_Hot_Shit_Emoji_2022",
+		"CardiBJealousy"
 	],
 	"cardiamas": [
 		"AMAs2021_CardiAMAs"
@@ -9398,7 +9399,8 @@
 		"CardiB_MegTheeStallion_2020_v2",
 		"Lizzo_Cardi_Single_Emoji_2021",
 		"Lizzo_Cardi_Single_2021_V2",
-		"Cardi_Hot_Shit_Emoji_2022"
+		"Cardi_Hot_Shit_Emoji_2022",
+		"CardiBJealousy"
 	],
 	"cardibhot": [
 		"Cardi_Hot_Shit_Emoji_2022"
@@ -96214,10 +96216,12 @@
 		"DisneyTH_HauntedMansion_2023"
 	],
 	"geistervilla": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"hauntedmansion": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"hauntedmansionid": [
 		"DisneyTH_HauntedMansion_2023"
@@ -96235,34 +96239,43 @@
 		"DisneyTH_HauntedMansion_2023"
 	],
 	"lacasadeifantasmi": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"lemanoirhanté": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"manoirhanté": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"mansiónembrujada": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"mansiónencantada": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"mansãoassombrada": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"mansãomalassombrada": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"periliköşk": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"บ้านชวนเฮี้ยนผีชวนฮา": [
 		"DisneyTH_HauntedMansion_2023"
 	],
 	"ホーンテッドマンション": [
-		"DisneyTH_HauntedMansion_2023"
+		"DisneyTH_HauntedMansion_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
 	],
 	"幽灵公馆": [
 		"DisneyTH_HauntedMansion_2023"
@@ -97036,5 +97049,80 @@
 	],
 	"wheresremble": [
 		"Remble23"
+	],
+	"bàleota": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
+	],
+	"cardioffset": [
+		"CardiBJealousy"
+	],
+	"fantasmadacaixadochapéu": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023"
+	],
+	"fantasmadehatbox": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023"
+	],
+	"hatboxghost": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023"
+	],
+	"jealousy": [
+		"OffsetJealousy"
+	],
+	"lefantômeàlaboîteàchapeau": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023"
+	],
+	"madameleota": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
+	],
+	"madameleotaid": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
+	],
+	"madameléota": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
+	],
+	"madamleota": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
+	],
+	"offset": [
+		"OffsetJealousy"
+	],
+	"offsetcardi": [
+		"OffsetJealousy"
+	],
+	"şapkakutuluhayalet": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023"
+	],
+	"ผีกล่องหมวก": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023"
+	],
+	"มาดามลีโอต้า": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
+	],
+	"ハットボックスゴースト": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023"
+	],
+	"マダムレオタ": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
+	],
+	"丽奥塔夫人": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
+	],
+	"帽盒幽灵": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023"
+	],
+	"마담리오타": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023",
+		"DisneyTH_HauntedMansion_MadameLeota_2023"
+	],
+	"모자상자유령": [
+		"DisneyTH_HauntedMansion_HatboxGhost_2023"
 	]
 }
