@@ -140236,5 +140236,30 @@
 			"offset",
 			"offsetcardi"
 		]
+	},
+	"Big_Brother_Nigeria_All_Stars": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Big_Brother_Nigeria_All_Stars/Big_Brother_Nigeria_All_Stars.png",
+		"startingTimestampMs": 1690531200000,
+		"endingTimestampMs": 1696719540000,
+		"hashTags": [
+			"bbnaija",
+			"bbnaijaallstars"
+		]
+	},
+	"DisneyTH_HauntedMansion_MadameLeota_2023_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyTH_HauntedMansion_MadameLeota_2023_v2/DisneyTH_HauntedMansion_MadameLeota_2023_v2.png",
+		"startingTimestampMs": 1690521600000,
+		"endingTimestampMs": 1695884100000,
+		"hashTags": [
+			"bàleota",
+			"madameleota",
+			"madameleotaid",
+			"madameléota",
+			"madamleota",
+			"มาดามลีโอต้า",
+			"マダムレオタ",
+			"丽奥塔夫人",
+			"마담리오타"
+		]
 	}
 }
