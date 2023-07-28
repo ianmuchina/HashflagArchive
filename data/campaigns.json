@@ -140124,5 +140124,45 @@
 		"hashTags": [
 			"sóoreoéoreo"
 		]
+	},
+	"PostMalone23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PostMalone23/PostMalone23.png",
+		"startingTimestampMs": 1690516800000,
+		"endingTimestampMs": 1698454800000,
+		"hashTags": [
+			"austinpostmalone",
+			"postmalone",
+			"postmaloneaustin"
+		]
+	},
+	"Remble23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Remble23/Remble23.png",
+		"startingTimestampMs": 1690516800000,
+		"endingTimestampMs": 1698195600000,
+		"hashTags": [
+			"itsremble",
+			"remble",
+			"wheresremble"
+		]
+	},
+	"ThatMexicanOT23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ThatMexicanOT23/ThatMexicanOT23.png",
+		"startingTimestampMs": 1690516800000,
+		"endingTimestampMs": 1698195600000,
+		"hashTags": [
+			"lonestarluchador",
+			"thatmexicanot",
+			"thelonestarluchador"
+		]
+	},
+	"TREASURE23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TREASURE23/TREASURE23.png",
+		"startingTimestampMs": 1690516800000,
+		"endingTimestampMs": 1698195600000,
+		"hashTags": [
+			"reboot",
+			"treasure",
+			"treasurereboot"
+		]
 	}
 }
