@@ -140116,5 +140116,13 @@
 			"新生ジョッキ缶やってみた",
 			"生ジョッキ缶"
 		]
+	},
+	"Oreo-BR-CustomLike": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Oreo-BR-CustomLike/Oreo-BR-CustomLike.png",
+		"startingTimestampMs": 1690513200000,
+		"endingTimestampMs": 1690642740000,
+		"hashTags": [
+			"sóoreoéoreo"
+		]
 	}
 }
