@@ -140261,5 +140261,28 @@
 			"丽奥塔夫人",
 			"마담리오타"
 		]
+	},
+	"BF-8514_Spotify_NewJeans_Hashmoji_2023_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-8514_Spotify_NewJeans_Hashmoji_2023_During/BF-8514_Spotify_NewJeans_Hashmoji_2023_During.png",
+		"startingTimestampMs": 1690556400000,
+		"endingTimestampMs": 1690642740000,
+		"hashTags": [
+			"spoti_bunini",
+			"spotibunini",
+			"spotify_bunnyland",
+			"spotifyxnewjeans"
+		]
+	},
+	"APV_Bachelor_S5_Branded_Hashtag_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APV_Bachelor_S5_Branded_Hashtag_2023/APV_Bachelor_S5_Branded_Hashtag_2023.png",
+		"startingTimestampMs": 1690556400000,
+		"endingTimestampMs": 1698591540000,
+		"hashTags": [
+			"バチェラー",
+			"バチェラー5",
+			"バチェラージャパン",
+			"名バチェラーか迷バチェラー",
+			"長谷川さん"
+		]
 	}
 }
