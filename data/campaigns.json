@@ -140295,5 +140295,13 @@
 			"gtacademy",
 			"jannmardenborough"
 		]
+	},
+	"Oreo-BR-Hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Oreo-BR-Hashmoji_after/Oreo-BR-Hashmoji_after.png",
+		"startingTimestampMs": 1690599600000,
+		"endingTimestampMs": 1698375540000,
+		"hashTags": [
+			"sóoreoéoreo"
+		]
 	}
 }
