@@ -54197,7 +54197,8 @@
 	"summerslam": [
 		"SummerSlam_2021",
 		"WWE_SummerSlam_2020",
-		"WWE_SummerSlam_1_2022"
+		"WWE_SummerSlam_1_2022",
+		"SummerSlamEmoji2023"
 	],
 	"summerwalker": [
 		"Summer_Walker_Album_Emoji_2021"
@@ -55867,7 +55868,8 @@
 	],
 	"teamroman": [
 		"WWE_Team_Roman_2022",
-		"SummerSlam_2021_TeamRoman"
+		"SummerSlam_2021_TeamRoman",
+		"RomanReignsSummerSlamEmoji2023"
 	],
 	"teamruffles": [
 		"NBARuffles_MX_2020"
@@ -91305,7 +91307,8 @@
 		"WWE_UndisputedTitle_2023"
 	],
 	"undisputedtitle": [
-		"WWE_UndisputedTitle_2023"
+		"WWE_UndisputedTitle_2023",
+		"UndisputedTitleSummerSlam2023"
 	],
 	"قناة_sbc": [
 		"Saudi_TV_Emoji"
@@ -91320,7 +91323,8 @@
 		"WWE_CharlotteVsRhea_RheaVsCharlotte_2023"
 	],
 	"romanreigns": [
-		"WWE_RomanReignsTribalChief_2023"
+		"WWE_RomanReignsTribalChief_2023",
+		"RomanReignsSummerSlamEmoji2023"
 	],
 	"tribalchief": [
 		"WWE_RomanReignsTribalChief_2023"
@@ -97166,5 +97170,14 @@
 	],
 	"長谷川さん": [
 		"APV_Bachelor_S5_Branded_Hashtag_2023"
+	],
+	"jeyuso": [
+		"JeyUsoSummerSlamEmoji2023"
+	],
+	"teamjey": [
+		"JeyUsoSummerSlamEmoji2023"
+	],
+	"worldtitle": [
+		"WorldTitleSummerSlamEmoji2023"
 	]
 }

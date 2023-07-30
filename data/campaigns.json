@@ -140324,5 +140324,47 @@
 			"matildas",
 			"tillitsdone"
 		]
+	},
+	"JeyUsoSummerSlamEmoji2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/JeyUsoSummerSlamEmoji2023/JeyUsoSummerSlamEmoji2023.png",
+		"startingTimestampMs": 1690700400000,
+		"endingTimestampMs": 1691362800000,
+		"hashTags": [
+			"jeyuso",
+			"teamjey"
+		]
+	},
+	"RomanReignsSummerSlamEmoji2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RomanReignsSummerSlamEmoji2023/RomanReignsSummerSlamEmoji2023.png",
+		"startingTimestampMs": 1690700400000,
+		"endingTimestampMs": 1691362800000,
+		"hashTags": [
+			"romanreigns",
+			"teamroman"
+		]
+	},
+	"SummerSlamEmoji2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SummerSlamEmoji2023/SummerSlamEmoji2023.png",
+		"startingTimestampMs": 1690700400000,
+		"endingTimestampMs": 1691362800000,
+		"hashTags": [
+			"summerslam"
+		]
+	},
+	"UndisputedTitleSummerSlam2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UndisputedTitleSummerSlam2023/UndisputedTitleSummerSlam2023.png",
+		"startingTimestampMs": 1690700400000,
+		"endingTimestampMs": 1691362800000,
+		"hashTags": [
+			"undisputedtitle"
+		]
+	},
+	"WorldTitleSummerSlamEmoji2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WorldTitleSummerSlamEmoji2023/WorldTitleSummerSlamEmoji2023.png",
+		"startingTimestampMs": 1690700400000,
+		"endingTimestampMs": 1691362800000,
+		"hashTags": [
+			"worldtitle"
+		]
 	}
 }
