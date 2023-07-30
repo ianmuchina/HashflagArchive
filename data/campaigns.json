@@ -140315,5 +140315,14 @@
 			"spotifyxnewjeans",
 			"스포티파이_버니랜드"
 		]
+	},
+	"Matildas_WWC_2023_during_match3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Matildas_WWC_2023_during_match3/Matildas_WWC_2023_during_match3.png",
+		"startingTimestampMs": 1690682400000,
+		"endingTimestampMs": 1690768740000,
+		"hashTags": [
+			"matildas",
+			"tillitsdone"
+		]
 	}
 }
