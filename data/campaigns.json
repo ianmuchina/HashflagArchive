@@ -140399,5 +140399,23 @@
 			"jeonsomi_gameplan_20230807",
 			"전소미"
 		]
+	},
+	"QuavoRocketPower": {
+		"assetUrl": "https://abs.twimg.com/hashflags/QuavoRocketPower/QuavoRocketPower.png",
+		"startingTimestampMs": 1690776000000,
+		"endingTimestampMs": 1698627600000,
+		"hashTags": [
+			"longlivetakeoff",
+			"quavohuncho",
+			"rocketpower"
+		]
+	},
+	"SnohAalegraSweetTea": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SnohAalegraSweetTea/SnohAalegraSweetTea.png",
+		"startingTimestampMs": 1690776000000,
+		"endingTimestampMs": 1696032000000,
+		"hashTags": [
+			"sweettea"
+		]
 	}
 }
