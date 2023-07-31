@@ -140417,5 +140417,13 @@
 		"hashTags": [
 			"sweettea"
 		]
+	},
+	"Test-US-CustomLike": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Test-US-CustomLike/Test-US-CustomLike.png",
+		"startingTimestampMs": 1690837200000,
+		"endingTimestampMs": 1690844400000,
+		"hashTags": [
+			"brandedfeatures"
+		]
 	}
 }
