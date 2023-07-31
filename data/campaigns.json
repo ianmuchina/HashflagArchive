@@ -140387,5 +140387,17 @@
 			"bitcoinbutton",
 			"bnb"
 		]
+	},
+	"somi_official_Hashmoji_on_08_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/somi_official_Hashmoji_on_08_2023/somi_official_Hashmoji_on_08_2023.png",
+		"startingTimestampMs": 1690794000000,
+		"endingTimestampMs": 1693386000000,
+		"hashTags": [
+			"fastforward",
+			"gameplan",
+			"jeonsomi",
+			"jeonsomi_gameplan_20230807",
+			"전소미"
+		]
 	}
 }
