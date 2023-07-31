@@ -140376,5 +140376,16 @@
 			"matildas",
 			"tillitsdone"
 		]
+	},
+	"BF-8523_Binance_202307": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-8523_Binance_202307/BF-8523_Binance_202307.png",
+		"startingTimestampMs": 1690784100000,
+		"endingTimestampMs": 1698645600000,
+		"hashTags": [
+			"binance",
+			"binanceblockchainweek",
+			"bitcoinbutton",
+			"bnb"
+		]
 	}
 }
