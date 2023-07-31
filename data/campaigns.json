@@ -140425,5 +140425,38 @@
 		"hashTags": [
 			"brandedfeatures"
 		]
+	},
+	"IZA_TheTown_MusicFestival_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/IZA_TheTown_MusicFestival_2023/IZA_TheTown_MusicFestival_2023.png",
+		"startingTimestampMs": 1690844340000,
+		"endingTimestampMs": 1691783940000,
+		"hashTags": [
+			"afrodhit",
+			"fenasmaluca",
+			"fénasmaluca",
+			"iza"
+		]
+	},
+	"ParamountPics_TMNT_MutantMayhem_Michelangelo_Before_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParamountPics_TMNT_MutantMayhem_Michelangelo_Before_v3/ParamountPics_TMNT_MutantMayhem_Michelangelo_Before_v3.png",
+		"startingTimestampMs": 1690837200000,
+		"endingTimestampMs": 1690873140000,
+		"hashTags": [
+			"cowabunga",
+			"ninjaturtlescaosmutante",
+			"tmntmichelangelo",
+			"tmntmikey",
+			"tmntmovie",
+			"turtletots",
+			"코와붕가"
+		]
+	},
+	"ParamountPics_TMNT_MutantMayhem_v4": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParamountPics_TMNT_MutantMayhem_v4/ParamountPics_TMNT_MutantMayhem_v4.png",
+		"startingTimestampMs": 1690839900000,
+		"endingTimestampMs": 1693465140000,
+		"hashTags": [
+			"tortuesninja"
+		]
 	}
 }
