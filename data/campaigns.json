@@ -140530,5 +140530,13 @@
 			"엘리멘탈시티",
 			"픽사엘리멘탈"
 		]
+	},
+	"Ambev_BudZero_2023_after_fix": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ambev_BudZero_2023_after_fix/Ambev_BudZero_2023_after_fix.png",
+		"startingTimestampMs": 1690858800000,
+		"endingTimestampMs": 1698807540000,
+		"hashTags": [
+			"qualquerdiaédia"
+		]
 	}
 }
