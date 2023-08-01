@@ -12038,7 +12038,8 @@
 	],
 	"criancaesperanca": [
 		"CriancaEsperanca_BR_2021",
-		"Crianca_Esperanca_Jul_2022"
+		"Crianca_Esperanca_Jul_2022",
+		"Globo_Crianca_Esperanca"
 	],
 	"criancaesperança": [
 		"CriancaEsperanca_BR_2021",
@@ -12050,7 +12051,8 @@
 	],
 	"criançaesperança": [
 		"CriancaEsperanca_BR_2021",
-		"Crianca_Esperanca_Jul_2022"
+		"Crianca_Esperanca_Jul_2022",
+		"Globo_Crianca_Esperanca"
 	],
 	"cricketquotes": [
 		"DisneyPlus_Pinocchio_Jiminy_2022"
@@ -97308,5 +97310,8 @@
 	],
 	"qualquerdiaédia": [
 		"Ambev_BudZero_2023_after_fix"
+	],
+	"criançaesperança2023": [
+		"Globo_Crianca_Esperanca"
 	]
 }

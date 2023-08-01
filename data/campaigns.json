@@ -140567,5 +140567,15 @@
 		"hashTags": [
 			"tmntmovie"
 		]
+	},
+	"Globo_Crianca_Esperanca": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_Crianca_Esperanca/Globo_Crianca_Esperanca.png",
+		"startingTimestampMs": 1690880400000,
+		"endingTimestampMs": 1691571540000,
+		"hashTags": [
+			"criancaesperanca",
+			"criançaesperança",
+			"criançaesperança2023"
+		]
 	}
 }
