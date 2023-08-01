@@ -140577,5 +140577,16 @@
 			"criançaesperança",
 			"criançaesperança2023"
 		]
+	},
+	"AtlasFallen_HashmojiBeforeHashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AtlasFallen_HashmojiBeforeHashfetti/AtlasFallen_HashmojiBeforeHashfetti.png",
+		"startingTimestampMs": 1690905720000,
+		"endingTimestampMs": 1691618340000,
+		"hashTags": [
+			"af",
+			"atlasfallen",
+			"atlasfallenrpg",
+			"sandsurfing"
+		]
 	}
 }
