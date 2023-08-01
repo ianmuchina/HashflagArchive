@@ -140559,5 +140559,13 @@
 		"hashTags": [
 			"valorantchampions"
 		]
+	},
+	"ParamountPics_TMNT_MutantMayhem_Michelangelo_CustomLike_US": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParamountPics_TMNT_MutantMayhem_Michelangelo_CustomLike_US/ParamountPics_TMNT_MutantMayhem_Michelangelo_CustomLike_US.png",
+		"startingTimestampMs": 1690873200000,
+		"endingTimestampMs": 1690959540000,
+		"hashTags": [
+			"tmntmovie"
+		]
 	}
 }
