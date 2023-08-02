@@ -140614,5 +140614,32 @@
 		"hashTags": [
 			"tmntmovie"
 		]
+	},
+	"CODCombatRecord_August_2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CODCombatRecord_August_2/CODCombatRecord_August_2.png",
+		"startingTimestampMs": 1690988400000,
+		"endingTimestampMs": 1698937200000,
+		"hashTags": [
+			"codcombatrecord"
+		]
+	},
+	"NetflixJP_Zom100_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetflixJP_Zom100_v3/NetflixJP_Zom100_v3.png",
+		"startingTimestampMs": 1690988400000,
+		"endingTimestampMs": 1693666740000,
+		"hashTags": [
+			"zom100",
+			"ゾン100",
+			"ゾンビになるまでにしたい100のこと",
+			"不要不急の外出をしましょう"
+		]
+	},
+	"Branded_Emoji_Request_for_NetflixJP_on_20230803_ver2_zombini_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Branded_Emoji_Request_for_NetflixJP_on_20230803_ver2_zombini_v3/Branded_Emoji_Request_for_NetflixJP_on_20230803_ver2_zombini_v3.png",
+		"startingTimestampMs": 1690988400000,
+		"endingTimestampMs": 1693666740000,
+		"hashTags": [
+			"ゾンビニ"
+		]
 	}
 }
