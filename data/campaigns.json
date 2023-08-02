@@ -140588,5 +140588,13 @@
 			"atlasfallenrpg",
 			"sandsurfing"
 		]
+	},
+	"ATV_Afterparty_Emoji_2023_EP_5_Sebastian": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ATV_Afterparty_Emoji_2023_EP_5_Sebastian/ATV_Afterparty_Emoji_2023_EP_5_Sebastian.png",
+		"startingTimestampMs": 1690938000000,
+		"endingTimestampMs": 1691542740000,
+		"hashTags": [
+			"theafterparty"
+		]
 	}
 }
