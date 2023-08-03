@@ -140655,5 +140655,15 @@
 			"turtletots",
 			"코와붕가"
 		]
+	},
+	"HalleBailey23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HalleBailey23/HalleBailey23.png",
+		"startingTimestampMs": 1691035200000,
+		"endingTimestampMs": 1698973200000,
+		"hashTags": [
+			"angel",
+			"halleangel",
+			"hallebailey"
+		]
 	}
 }
