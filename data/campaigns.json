@@ -140717,5 +140717,13 @@
 			"ミセス",
 			"ミセスグリーンアップル"
 		]
+	},
+	"BF-8608_OnePlus_Aug23_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-8608_OnePlus_Aug23_Hashmoji/BF-8608_OnePlus_Aug23_Hashmoji.png",
+		"startingTimestampMs": 1691173800000,
+		"endingTimestampMs": 1696444140000,
+		"hashTags": [
+			"oneplusnordce3"
+		]
 	}
 }
