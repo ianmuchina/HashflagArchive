@@ -10448,7 +10448,8 @@
 	],
 	"chifam": [
 		"Showtime_TheCHI_2020",
-		"The_Chi_S5_Jun_2022"
+		"The_Chi_S5_Jun_2022",
+		"The_Chi_S6_2023"
 	],
 	"chike": [
 		"CHIKE_ALBUM_Brothers_Keeper_Aug_2022"
@@ -51164,7 +51165,8 @@
 		"Amazon_Studios_Shotgun_Wedding"
 	],
 	"shothechi": [
-		"The_Chi_S5_Jun_2022"
+		"The_Chi_S5_Jun_2022",
+		"The_Chi_S6_2023"
 	],
 	"shotinthedark": [
 		"ACDC_2020"
@@ -56883,7 +56885,8 @@
 		"Showtime_Q2_21_v3",
 		"Showtime_March_2021_update",
 		"Showtime_Q2_21",
-		"The_Chi_S5_Jun_2022"
+		"The_Chi_S5_Jun_2022",
+		"The_Chi_S6_2023"
 	],
 	"thechicks": [
 		"TheChicks_AlbumLaunch_2020"
@@ -97376,5 +97379,11 @@
 	],
 	"butterflycoupe": [
 		"KenTheMan23"
+	],
+	"chidays": [
+		"The_Chi_S6_2023"
+	],
+	"farewellkevin": [
+		"The_Chi_S6_2023"
 	]
 }
