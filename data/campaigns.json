@@ -140695,5 +140695,15 @@
 			"shothechi",
 			"thechi"
 		]
+	},
+	"RBD_Live_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RBD_Live_2023/RBD_Live_2023.png",
+		"startingTimestampMs": 1691154060000,
+		"endingTimestampMs": 1691758740000,
+		"hashTags": [
+			"dulcemaria",
+			"robertapardo",
+			"rojodulcemaria"
+		]
 	}
 }
