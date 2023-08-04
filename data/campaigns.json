@@ -140665,5 +140665,13 @@
 			"halleangel",
 			"hallebailey"
 		]
+	},
+	"KenTheMan23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KenTheMan23/KenTheMan23.png",
+		"startingTimestampMs": 1691121600000,
+		"endingTimestampMs": 1698969600000,
+		"hashTags": [
+			"butterflycoupe"
+		]
 	}
 }
