@@ -140673,5 +140673,15 @@
 		"hashTags": [
 			"butterflycoupe"
 		]
+	},
+	"NetflixJP_Zom100_v3_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetflixJP_Zom100_v3_2023/NetflixJP_Zom100_v3_2023.png",
+		"startingTimestampMs": 1691121600000,
+		"endingTimestampMs": 1693666740000,
+		"hashTags": [
+			"zom100",
+			"ゾン100",
+			"ゾンビになるまでにしたい100のこと"
+		]
 	}
 }
