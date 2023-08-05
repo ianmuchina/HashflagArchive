@@ -140745,5 +140745,25 @@
 			"tomaessemion",
 			"vidademionario"
 		]
+	},
+	"BNE_ONEPIECE_trecru_Event_2023Aug_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BNE_ONEPIECE_trecru_Event_2023Aug_Branded_Hashtag/BNE_ONEPIECE_trecru_Event_2023Aug_Branded_Hashtag.png",
+		"startingTimestampMs": 1691247600000,
+		"endingTimestampMs": 1699196340000,
+		"hashTags": [
+			"やりたかった事全部できる",
+			"ギア5",
+			"トレクル",
+			"トレクルにギア5登場",
+			"ルフィ"
+		]
+	},
+	"HeavenBurnsRed-JP-Hashmoji_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HeavenBurnsRed-JP-Hashmoji_during/HeavenBurnsRed-JP-Hashmoji_during.png",
+		"startingTimestampMs": 1691247600000,
+		"endingTimestampMs": 1691333940000,
+		"hashTags": [
+			"ヘブバン最大151連無料"
+		]
 	}
 }
