@@ -140725,5 +140725,14 @@
 		"hashTags": [
 			"oneplusnordce3"
 		]
+	},
+	"HeavenBurnsRed-JP-Hashmoji_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HeavenBurnsRed-JP-Hashmoji_before/HeavenBurnsRed-JP-Hashmoji_before.png",
+		"startingTimestampMs": 1691197200000,
+		"endingTimestampMs": 1691247540000,
+		"hashTags": [
+			"ヘブバンアニバーサリー",
+			"ヘブバン最大151連無料"
+		]
 	}
 }
