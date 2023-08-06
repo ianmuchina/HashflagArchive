@@ -140789,5 +140789,14 @@
 			"おやすみカビゴン",
 			"ポケモンスリープ"
 		]
+	},
+	"HeavenBurnsRed-JP-Hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HeavenBurnsRed-JP-Hashmoji_after/HeavenBurnsRed-JP-Hashmoji_after.png",
+		"startingTimestampMs": 1691334000000,
+		"endingTimestampMs": 1694185140000,
+		"hashTags": [
+			"ヘブバンアニバーサリー",
+			"ヘブバン最大151連無料"
+		]
 	}
 }

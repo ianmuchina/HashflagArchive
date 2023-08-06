@@ -97411,11 +97411,13 @@
 		"BF-8608_OnePlus_Aug23_Hashmoji"
 	],
 	"ヘブバンアニバーサリー": [
-		"HeavenBurnsRed-JP-Hashmoji_before"
+		"HeavenBurnsRed-JP-Hashmoji_before",
+		"HeavenBurnsRed-JP-Hashmoji_after"
 	],
 	"ヘブバン最大151連無料": [
 		"HeavenBurnsRed-JP-Hashmoji_before",
-		"HeavenBurnsRed-JP-Hashmoji_during"
+		"HeavenBurnsRed-JP-Hashmoji_during",
+		"HeavenBurnsRed-JP-Hashmoji_after"
 	],
 	"pepsiblackmionaria": [
 		"PepsiBR_MionNoBolso_2023_during_fix",
