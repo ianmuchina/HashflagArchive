@@ -97413,16 +97413,20 @@
 		"HeavenBurnsRed-JP-Hashmoji_during"
 	],
 	"pepsiblackmionaria": [
-		"PepsiBR_MionNoBolso_2023_during_fix"
+		"PepsiBR_MionNoBolso_2023_during_fix",
+		"PepsiBR_MionnoBolso_2023_after_fix"
 	],
 	"tomaessapepsiblack": [
-		"PepsiBR_MionNoBolso_2023_during_fix"
+		"PepsiBR_MionNoBolso_2023_during_fix",
+		"PepsiBR_MionnoBolso_2023_after_fix"
 	],
 	"tomaessemion": [
-		"PepsiBR_MionNoBolso_2023_during_fix"
+		"PepsiBR_MionNoBolso_2023_during_fix",
+		"PepsiBR_MionnoBolso_2023_after_fix"
 	],
 	"vidademionario": [
-		"PepsiBR_MionNoBolso_2023_during_fix"
+		"PepsiBR_MionNoBolso_2023_during_fix",
+		"PepsiBR_MionnoBolso_2023_after_fix"
 	],
 	"やりたかった事全部できる": [
 		"BNE_ONEPIECE_trecru_Event_2023Aug_Branded_Hashtag"
@@ -97432,5 +97436,8 @@
 	],
 	"トレクルにギア5登場": [
 		"BNE_ONEPIECE_trecru_Event_2023Aug_Branded_Hashtag"
+	],
+	"tomaessemionpepsi": [
+		"PepsiBR_MionnoBolso_2023_after_fix"
 	]
 }
