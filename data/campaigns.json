@@ -140777,5 +140777,17 @@
 			"tomaessemionpepsi",
 			"vidademionario"
 		]
+	},
+	"Pokemon_sleep_launch_JP_2023_v4": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pokemon_sleep_launch_JP_2023_v4/Pokemon_sleep_launch_JP_2023_v4.png",
+		"startingTimestampMs": 1691316060000,
+		"endingTimestampMs": 1692223200000,
+		"hashTags": [
+			"goodnightsnorlax",
+			"pokemonsleep",
+			"おはようカビゴン",
+			"おやすみカビゴン",
+			"ポケモンスリープ"
+		]
 	}
 }
