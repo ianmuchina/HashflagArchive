@@ -140798,5 +140798,73 @@
 			"ヘブバンアニバーサリー",
 			"ヘブバン最大151連無料"
 		]
+	},
+	"DisneyPlus_Ahsoka_BaylanSkoll_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_BaylanSkoll_2023/DisneyPlus_Ahsoka_BaylanSkoll_2023.png",
+		"startingTimestampMs": 1691386200000,
+		"endingTimestampMs": 1699426740000,
+		"hashTags": [
+			"baylan",
+			"baylanskoll",
+			"ベイラン",
+			"ベイランスコール",
+			"베일런",
+			"베일런스콜"
+		]
+	},
+	"DisneyPlus_Ahsoka_HeraSyndulla_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_HeraSyndulla_2023/DisneyPlus_Ahsoka_HeraSyndulla_2023.png",
+		"startingTimestampMs": 1691386200000,
+		"endingTimestampMs": 1699426740000,
+		"hashTags": [
+			"generalesyndulla",
+			"generalinsyndulla",
+			"generalsyndulla",
+			"herasyndulla",
+			"นายพลซินดุลล่า",
+			"เฮร่าซินดุลล่า",
+			"シンドゥーラ将軍",
+			"ヘラシンドゥーラ",
+			"신둘라장군",
+			"헤라신둘라"
+		]
+	},
+	"DisneyPlus_Ahsoka_LadyMorganElsbeth_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_LadyMorganElsbeth_2023/DisneyPlus_Ahsoka_LadyMorganElsbeth_2023.png",
+		"startingTimestampMs": 1691386200000,
+		"endingTimestampMs": 1699426740000,
+		"hashTags": [
+			"ladymorganelsbeth",
+			"leydimorganelsbeth",
+			"morganelsbeth",
+			"モーガンエルズベス",
+			"레이디모건엘스베스",
+			"모건엘스베스"
+		]
+	},
+	"DisneyPlus_Ahsoka_Sabine_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_Sabine_2023/DisneyPlus_Ahsoka_Sabine_2023.png",
+		"startingTimestampMs": 1691386200000,
+		"endingTimestampMs": 1699426740000,
+		"hashTags": [
+			"sabine",
+			"sabinewren",
+			"ซาบีน",
+			"ซาบีนเร็น",
+			"サビーヌ",
+			"サビーヌレン",
+			"사빈",
+			"사빈렌"
+		]
+	},
+	"DisneyPlus_Ahsoka_ShinHati_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_ShinHati_2023/DisneyPlus_Ahsoka_ShinHati_2023.png",
+		"startingTimestampMs": 1691386200000,
+		"endingTimestampMs": 1699426740000,
+		"hashTags": [
+			"shinhati",
+			"シンハティ",
+			"신하티"
+		]
 	}
 }
