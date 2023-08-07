@@ -140874,5 +140874,17 @@
 		"hashTags": [
 			"fedexcup"
 		]
+	},
+	"CallofDutyMainline2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CallofDutyMainline2023/CallofDutyMainline2023.png",
+		"startingTimestampMs": 1691413200000,
+		"endingTimestampMs": 1706688000000,
+		"hashTags": [
+			"callofduty",
+			"modernwarfare3",
+			"modernwarfareiii",
+			"mw3",
+			"mwiii"
+		]
 	}
 }

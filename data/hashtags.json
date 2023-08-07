@@ -9001,7 +9001,8 @@
 		"Callofduty_Vanguard_2022",
 		"Call_of_Duty_Cortez_2022",
 		"Call_of_Duty_MWII_2022",
-		"Call_of_Duty_MWII_2022_v2"
+		"Call_of_Duty_MWII_2022_v2",
+		"CallofDutyMainline2023"
 	],
 	"callofdutyleague": [
 		"CallofDutyLeague2021",
@@ -97548,5 +97549,17 @@
 	],
 	"fedexcup": [
 		"PGATourPlayoffs_FedExCup_2023"
+	],
+	"modernwarfare3": [
+		"CallofDutyMainline2023"
+	],
+	"modernwarfareiii": [
+		"CallofDutyMainline2023"
+	],
+	"mw3": [
+		"CallofDutyMainline2023"
+	],
+	"mwiii": [
+		"CallofDutyMainline2023"
 	]
 }
