@@ -140866,5 +140866,13 @@
 			"シンハティ",
 			"신하티"
 		]
+	},
+	"PGATourPlayoffs_FedExCup_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PGATourPlayoffs_FedExCup_2023/PGATourPlayoffs_FedExCup_2023.png",
+		"startingTimestampMs": 1691402400000,
+		"endingTimestampMs": 1693263600000,
+		"hashTags": [
+			"fedexcup"
+		]
 	}
 }
