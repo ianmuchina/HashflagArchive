@@ -140886,5 +140886,17 @@
 			"mw3",
 			"mwiii"
 		]
+	},
+	"Honkai_Star_Rail_Kafka_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Honkai_Star_Rail_Kafka_23/Honkai_Star_Rail_Kafka_23.png",
+		"startingTimestampMs": 1691506800000,
+		"endingTimestampMs": 1699455600000,
+		"hashTags": [
+			"kafka",
+			"カフカ",
+			"カフカを捕まえろ",
+			"卡芙卡",
+			"카프카"
+		]
 	}
 }
