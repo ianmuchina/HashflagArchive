@@ -140898,5 +140898,16 @@
 			"卡芙卡",
 			"카프카"
 		]
+	},
+	"OMITB_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OMITB_2023/OMITB_2023.png",
+		"startingTimestampMs": 1691452800000,
+		"endingTimestampMs": 1699257600000,
+		"hashTags": [
+			"omitb",
+			"onlymurders",
+			"onlymurdersinthebuilding",
+			"whokilledbenglenroy"
+		]
 	}
 }

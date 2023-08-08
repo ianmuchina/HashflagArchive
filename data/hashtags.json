@@ -41411,7 +41411,8 @@
 	],
 	"omitb": [
 		"Hulu_OnlyMurdersintheBuilding_2021_1",
-		"Hulu_OMITB_S2_Jun_2022"
+		"Hulu_OMITB_S2_Jun_2022",
+		"OMITB_2023"
 	],
 	"on_me": [
 		"KPOP_EXO_SC_2020_SEHUN"
@@ -41681,7 +41682,8 @@
 	],
 	"onlymurders": [
 		"Hulu_OnlyMurdersintheBuilding_2021_1",
-		"Hulu_OMITB_S2_Jun_2022"
+		"Hulu_OMITB_S2_Jun_2022",
+		"OMITB_2023"
 	],
 	"onlymurdersfinale": [
 		"OnlyMurdersFinale_2021"
@@ -41690,7 +41692,8 @@
 		"Hulu_OnlyMurdersintheBuilding_2021_1"
 	],
 	"onlymurdersinthebuilding": [
-		"Hulu_OMITB_S2_Jun_2022"
+		"Hulu_OMITB_S2_Jun_2022",
+		"OMITB_2023"
 	],
 	"onlymurdersonhulu": [
 		"Hulu_OnlyMurdersintheBuilding_2021_1",
@@ -97576,5 +97579,8 @@
 	],
 	"카프카": [
 		"Honkai_Star_Rail_Kafka_23"
+	],
+	"whokilledbenglenroy": [
+		"OMITB_2023"
 	]
 }
