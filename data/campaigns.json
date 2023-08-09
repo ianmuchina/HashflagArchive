@@ -140950,5 +140950,15 @@
 			"kemerdekaan",
 			"pestarakyatim3"
 		]
+	},
+	"AtlasFallen_HashmojiDuringHashfetti_v1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AtlasFallen_HashmojiDuringHashfetti_v1/AtlasFallen_HashmojiDuringHashfetti_v1.png",
+		"startingTimestampMs": 1691618400000,
+		"endingTimestampMs": 1691704740000,
+		"hashTags": [
+			"af",
+			"atlasfallenrpg",
+			"sandsurfing"
+		]
 	}
 }
