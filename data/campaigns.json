@@ -140926,5 +140926,17 @@
 		"hashTags": [
 			"theafterparty"
 		]
+	},
+	"24hourTV_August_10th_2023_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/24hourTV_August_10th_2023_Hashmoji/24hourTV_August_10th_2023_Hashmoji.png",
+		"startingTimestampMs": 1691593200000,
+		"endingTimestampMs": 1694271540000,
+		"hashTags": [
+			"つながる24時間テレビ",
+			"なにわ24",
+			"なにわとガンバローヤ",
+			"走ってなんぼの24時",
+			"起きろなにわちゃん"
+		]
 	}
 }
