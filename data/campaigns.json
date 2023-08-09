@@ -140938,5 +140938,17 @@
 			"走ってなんぼの24時",
 			"起きろなにわちゃん"
 		]
+	},
+	"BF8630_Indosat_Merdeka_Aug2023_Hashmoji_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF8630_Indosat_Merdeka_Aug2023_Hashmoji_Before/BF8630_Indosat_Merdeka_Aug2023_Hashmoji_Before.png",
+		"startingTimestampMs": 1691600400000,
+		"endingTimestampMs": 1692032340000,
+		"hashTags": [
+			"agustusan",
+			"collabonation",
+			"harimerdeka",
+			"kemerdekaan",
+			"pestarakyatim3"
+		]
 	}
 }
