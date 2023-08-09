@@ -140909,5 +140909,22 @@
 			"onlymurdersinthebuilding",
 			"whokilledbenglenroy"
 		]
+	},
+	"Betfair_90MinWin_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Betfair_90MinWin_2023/Betfair_90MinWin_2023.png",
+		"startingTimestampMs": 1691543280000,
+		"endingTimestampMs": 1694308080000,
+		"hashTags": [
+			"90min",
+			"90minwin"
+		]
+	},
+	"ATV_Afterparty_Emoji_2023_EP_6": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ATV_Afterparty_Emoji_2023_EP_6/ATV_Afterparty_Emoji_2023_EP_6.png",
+		"startingTimestampMs": 1691542800000,
+		"endingTimestampMs": 1692147540000,
+		"hashTags": [
+			"theafterparty"
+		]
 	}
 }
