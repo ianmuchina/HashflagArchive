@@ -140989,5 +140989,13 @@
 			"tiffpeopleschoiceaward",
 			"tifftribute"
 		]
+	},
+	"TestCampaign_US_CustomLike": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TestCampaign_US_CustomLike/TestCampaign_US_CustomLike.png",
+		"startingTimestampMs": 1691694000000,
+		"endingTimestampMs": 1691701200000,
+		"hashTags": [
+			"brandedfeatures"
+		]
 	}
 }
