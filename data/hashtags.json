@@ -97351,18 +97351,22 @@
 	],
 	"af": [
 		"AtlasFallen_HashmojiBeforeHashfetti",
-		"AtlasFallen_HashmojiDuringHashfetti_v1"
+		"AtlasFallen_HashmojiDuringHashfetti_v1",
+		"AtlasFallen_HashmojiAfterHashfetti"
 	],
 	"atlasfallen": [
-		"AtlasFallen_HashmojiBeforeHashfetti"
+		"AtlasFallen_HashmojiBeforeHashfetti",
+		"AtlasFallen_HashmojiAfterHashfetti"
 	],
 	"atlasfallenrpg": [
 		"AtlasFallen_HashmojiBeforeHashfetti",
-		"AtlasFallen_HashmojiDuringHashfetti_v1"
+		"AtlasFallen_HashmojiDuringHashfetti_v1",
+		"AtlasFallen_HashmojiAfterHashfetti"
 	],
 	"sandsurfing": [
 		"AtlasFallen_HashmojiBeforeHashfetti",
-		"AtlasFallen_HashmojiDuringHashfetti_v1"
+		"AtlasFallen_HashmojiDuringHashfetti_v1",
+		"AtlasFallen_HashmojiAfterHashfetti"
 	],
 	"1017alyx9sm": [
 		"1017Alyx"

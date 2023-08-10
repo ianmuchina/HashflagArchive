@@ -140997,5 +140997,16 @@
 		"hashTags": [
 			"brandedfeatures"
 		]
+	},
+	"AtlasFallen_HashmojiAfterHashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AtlasFallen_HashmojiAfterHashfetti/AtlasFallen_HashmojiAfterHashfetti.png",
+		"startingTimestampMs": 1691704800000,
+		"endingTimestampMs": 1698771720000,
+		"hashTags": [
+			"af",
+			"atlasfallen",
+			"atlasfallenrpg",
+			"sandsurfing"
+		]
 	}
 }
