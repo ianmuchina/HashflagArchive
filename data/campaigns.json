@@ -140979,5 +140979,15 @@
 		"hashTags": [
 			"1989taylorsversion"
 		]
+	},
+	"TIFF_2023_Hashmoji_Entertainment_CA": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TIFF_2023_Hashmoji_Entertainment_CA/TIFF_2023_Hashmoji_Entertainment_CA.png",
+		"startingTimestampMs": 1691683200000,
+		"endingTimestampMs": 1695452340000,
+		"hashTags": [
+			"tiff23",
+			"tiffpeopleschoiceaward",
+			"tifftribute"
+		]
 	}
 }
