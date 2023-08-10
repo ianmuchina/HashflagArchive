@@ -140960,5 +140960,16 @@
 			"atlasfallenrpg",
 			"sandsurfing"
 		]
+	},
+	"SonyPictures_GranTurismo_2023_Before_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SonyPictures_GranTurismo_2023_Before_V2/SonyPictures_GranTurismo_2023_Before_V2.png",
+		"startingTimestampMs": 1691544600000,
+		"endingTimestampMs": 1692946740000,
+		"hashTags": [
+			"granturismo",
+			"granturismomovie",
+			"gtacademy",
+			"jannmardenborough"
+		]
 	}
 }
