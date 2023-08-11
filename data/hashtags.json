@@ -14923,7 +14923,8 @@
 	],
 	"djkhaled": [
 		"DJ_Khaled_2021_Album_V2",
-		"DJ_Khaled_Aug_2022"
+		"DJ_Khaled_Aug_2022",
+		"DJKhaledSTBL"
 	],
 	"djkhaledgoddid": [
 		"DJ_Khaled_Aug_2022"
@@ -97641,5 +97642,11 @@
 	],
 	"tifftribute": [
 		"TIFF_2023_Hashmoji_Entertainment_CA"
+	],
+	"stbl": [
+		"DJKhaledSTBL"
+	],
+	"supposedtobeloved": [
+		"DJKhaledSTBL"
 	]
 }
