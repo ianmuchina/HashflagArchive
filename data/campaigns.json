@@ -141018,5 +141018,14 @@
 			"stbl",
 			"supposedtobeloved"
 		]
+	},
+	"TrippieRedd23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TrippieRedd23/TrippieRedd23.png",
+		"startingTimestampMs": 1691726400000,
+		"endingTimestampMs": 1699664400000,
+		"hashTags": [
+			"allty5",
+			"trippieredd"
+		]
 	}
 }
