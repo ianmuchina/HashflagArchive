@@ -141036,5 +141036,15 @@
 			"bet365neverordinary",
 			"neverordinary"
 		]
+	},
+	"Disney_Disney100_2023_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Disney100_2023_V2/Disney_Disney100_2023_V2.png",
+		"startingTimestampMs": 1691798400000,
+		"endingTimestampMs": 1704095700000,
+		"hashTags": [
+			"disney100",
+			"ディズニー100",
+			"디즈니100"
+		]
 	}
 }
