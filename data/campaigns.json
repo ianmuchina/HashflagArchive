@@ -141046,5 +141046,13 @@
 			"ディズニー100",
 			"디즈니100"
 		]
+	},
+	"AppleTV__Invasion_Season_2__Hashmoji__Aug_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AppleTV__Invasion_Season_2__Hashmoji__Aug_2023/AppleTV__Invasion_Season_2__Hashmoji__Aug_2023.png",
+		"startingTimestampMs": 1691802000000,
+		"endingTimestampMs": 1699581540000,
+		"hashTags": [
+			"invasionappletv"
+		]
 	}
 }
