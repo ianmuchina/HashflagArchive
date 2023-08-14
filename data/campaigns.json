@@ -141101,5 +141101,13 @@
 			"harimerdeka",
 			"kemerdekaan"
 		]
+	},
+	"SnohAalegraWait": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SnohAalegraWait/SnohAalegraWait.png",
+		"startingTimestampMs": 1691985600000,
+		"endingTimestampMs": 1698019200000,
+		"hashTags": [
+			"waitalittlelonger"
+		]
 	}
 }
