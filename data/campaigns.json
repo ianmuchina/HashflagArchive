@@ -141119,5 +141119,16 @@
 			"ソフトバンク",
 			"バスケットlive"
 		]
+	},
+	"OMITB_Hashfetti_Pre": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OMITB_Hashfetti_Pre/OMITB_Hashfetti_Pre.png",
+		"startingTimestampMs": 1692052200000,
+		"endingTimestampMs": 1692082740000,
+		"hashTags": [
+			"omitb",
+			"onlymurders",
+			"onlymurdersinthebuilding",
+			"whokilledbenglenroy"
+		]
 	}
 }
