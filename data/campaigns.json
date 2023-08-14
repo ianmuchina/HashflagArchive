@@ -141089,5 +141089,16 @@
 			"tiktoklite友達招待",
 			"tiktoklite夏祭り大抽選会"
 		]
+	},
+	"BF8630_Indosat_Merdeka_Aug2023_Hashmoji_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF8630_Indosat_Merdeka_Aug2023_Hashmoji_During/BF8630_Indosat_Merdeka_Aug2023_Hashmoji_During.png",
+		"startingTimestampMs": 1692032400000,
+		"endingTimestampMs": 1692118740000,
+		"hashTags": [
+			"agustusan",
+			"collabonation",
+			"harimerdeka",
+			"kemerdekaan"
+		]
 	}
 }
