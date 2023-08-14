@@ -141066,5 +141066,17 @@
 			"thenun",
 			"thenun2"
 		]
+	},
+	"Pepsico_Tostitos_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pepsico_Tostitos_2023/Pepsico_Tostitos_2023.png",
+		"startingTimestampMs": 1691992500000,
+		"endingTimestampMs": 1699315140000,
+		"hashTags": [
+			"showtostitos",
+			"siemprehayconque",
+			"siemprehayconqué",
+			"tostitos",
+			"tostitosencasa"
+		]
 	}
 }

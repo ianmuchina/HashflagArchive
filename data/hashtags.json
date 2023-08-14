@@ -51291,10 +51291,12 @@
 	],
 	"siemprehayconque": [
 		"Tostitos_MX_May_2021",
-		"Tostitos_May_2022"
+		"Tostitos_May_2022",
+		"Pepsico_Tostitos_2023"
 	],
 	"siemprehayconqué": [
-		"Tostitos_May_2022"
+		"Tostitos_May_2022",
+		"Pepsico_Tostitos_2023"
 	],
 	"siemprela": [
 		"MLB_LAD_2022_add"
@@ -97679,5 +97681,14 @@
 	],
 	"thenun2": [
 		"The_Nun2_Branded_Hashflag_2023"
+	],
+	"showtostitos": [
+		"Pepsico_Tostitos_2023"
+	],
+	"tostitos": [
+		"Pepsico_Tostitos_2023"
+	],
+	"tostitosencasa": [
+		"Pepsico_Tostitos_2023"
 	]
 }
