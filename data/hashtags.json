@@ -41418,7 +41418,8 @@
 		"Hulu_OnlyMurdersintheBuilding_2021_1",
 		"Hulu_OMITB_S2_Jun_2022",
 		"OMITB_2023",
-		"OMITB_Hashfetti_Pre"
+		"OMITB_Hashfetti_Pre",
+		"OMITB_Hashfetti_815"
 	],
 	"on_me": [
 		"KPOP_EXO_SC_2020_SEHUN"
@@ -41690,7 +41691,8 @@
 		"Hulu_OnlyMurdersintheBuilding_2021_1",
 		"Hulu_OMITB_S2_Jun_2022",
 		"OMITB_2023",
-		"OMITB_Hashfetti_Pre"
+		"OMITB_Hashfetti_Pre",
+		"OMITB_Hashfetti_During"
 	],
 	"onlymurdersfinale": [
 		"OnlyMurdersFinale_2021"
@@ -41701,7 +41703,8 @@
 	"onlymurdersinthebuilding": [
 		"Hulu_OMITB_S2_Jun_2022",
 		"OMITB_2023",
-		"OMITB_Hashfetti_Pre"
+		"OMITB_Hashfetti_Pre",
+		"OMITB_Hashfetti_During"
 	],
 	"onlymurdersonhulu": [
 		"Hulu_OnlyMurdersintheBuilding_2021_1",
@@ -97608,7 +97611,8 @@
 	],
 	"whokilledbenglenroy": [
 		"OMITB_2023",
-		"OMITB_Hashfetti_Pre"
+		"OMITB_Hashfetti_Pre",
+		"OMITB_Hashfetti_During"
 	],
 	"90min": [
 		"Betfair_90MinWin_2023"
@@ -97724,5 +97728,20 @@
 	],
 	"バスケットlive": [
 		"Hashmoji_2023_SoftBank_FIBA_Basketball"
+	],
+	"askmoreofai": [
+		"SalesforceAI_Week_Before"
+	],
+	"df23": [
+		"SalesforceAI_Week_Before"
+	],
+	"dreamforce23": [
+		"SalesforceAI_Week_Before"
+	],
+	"einsteinai": [
+		"SalesforceAI_Week_Before"
+	],
+	"salesforceai": [
+		"SalesforceAI_Week_Before"
 	]
 }

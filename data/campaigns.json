@@ -141138,5 +141138,35 @@
 		"hashTags": [
 			"brandedfeatures"
 		]
+	},
+	"SalesforceAI_Week_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SalesforceAI_Week_Before/SalesforceAI_Week_Before.png",
+		"startingTimestampMs": 1692082800000,
+		"endingTimestampMs": 1692709140000,
+		"hashTags": [
+			"askmoreofai",
+			"df23",
+			"dreamforce23",
+			"einsteinai",
+			"salesforceai"
+		]
+	},
+	"OMITB_Hashfetti_815": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OMITB_Hashfetti_815/OMITB_Hashfetti_815.png",
+		"startingTimestampMs": 1692082800000,
+		"endingTimestampMs": 1692169200000,
+		"hashTags": [
+			"omitb"
+		]
+	},
+	"OMITB_Hashfetti_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OMITB_Hashfetti_During/OMITB_Hashfetti_During.png",
+		"startingTimestampMs": 1692082800000,
+		"endingTimestampMs": 1692169200000,
+		"hashTags": [
+			"onlymurders",
+			"onlymurdersinthebuilding",
+			"whokilledbenglenroy"
+		]
 	}
 }
