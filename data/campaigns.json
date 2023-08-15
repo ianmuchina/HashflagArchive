@@ -141180,5 +141180,17 @@
 			"tiktoklite夏祭り大抽選会",
 			"tiktoklite山分け"
 		]
+	},
+	"BF8630_Indosat_Merdeka_Aug2023_Hashmoji_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF8630_Indosat_Merdeka_Aug2023_Hashmoji_After/BF8630_Indosat_Merdeka_Aug2023_Hashmoji_After.png",
+		"startingTimestampMs": 1692118800000,
+		"endingTimestampMs": 1696093140000,
+		"hashTags": [
+			"agustusan",
+			"collabonation",
+			"harimerdeka",
+			"kemerdekaan",
+			"pestarakyatim3"
+		]
 	}
 }
