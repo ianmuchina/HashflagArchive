@@ -141130,5 +141130,13 @@
 			"onlymurdersinthebuilding",
 			"whokilledbenglenroy"
 		]
+	},
+	"CustomLike_Hashfetti_Test_US": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CustomLike_Hashfetti_Test_US/CustomLike_Hashfetti_Test_US.png",
+		"startingTimestampMs": 1692054000000,
+		"endingTimestampMs": 1692064800000,
+		"hashTags": [
+			"brandedfeatures"
+		]
 	}
 }
