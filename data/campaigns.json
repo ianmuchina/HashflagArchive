@@ -141200,5 +141200,117 @@
 		"hashTags": [
 			"theafterparty"
 		]
+	},
+	"Genshin_Impact_Hashmoji_Furina_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Genshin_Impact_Hashmoji_Furina_2023/Genshin_Impact_Hashmoji_Furina_2023.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1700103600000,
+		"hashTags": [
+			"focalors",
+			"furina",
+			"フリーナ",
+			"芙宁娜",
+			"푸리나"
+		]
+	},
+	"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-8617_Genshin_Impact_2023Q3_Hashmoji-during/BF-8617_Genshin_Impact_2023Q3_Hashmoji-during.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1692241140000,
+		"hashTags": [
+			"fontaine",
+			"fontaineexpo",
+			"原神フォンテーヌ",
+			"폰타인_입주동참"
+		]
+	},
+	"Genshin_Impact_Hashmoji_Freminet_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Genshin_Impact_Hashmoji_Freminet_2023/Genshin_Impact_Hashmoji_Freminet_2023.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1700103600000,
+		"hashTags": [
+			"freminet",
+			"フレミネ",
+			"菲米尼",
+			"프레미네"
+		]
+	},
+	"GenshinPaimon_Gobal_CustomLike_v4": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GenshinPaimon_Gobal_CustomLike_v4/GenshinPaimon_Gobal_CustomLike_v4.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1692241140000,
+		"hashTags": [
+			"genshin"
+		]
+	},
+	"GenshinPaimon_Global_CustomLike_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GenshinPaimon_Global_CustomLike_v2/GenshinPaimon_Global_CustomLike_v2.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1692241140000,
+		"hashTags": [
+			"genshinimpact"
+		]
+	},
+	"BF-8617_Genshin_Impact_2023Q3_Hashfetti-Global": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-8617_Genshin_Impact_2023Q3_Hashfetti-Global/BF-8617_Genshin_Impact_2023Q3_Hashfetti-Global.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1692241140000,
+		"hashTags": [
+			"genshinimpactfontaine"
+		]
+	},
+	"Genshin_Impact_Hashmoji_Lynette_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Genshin_Impact_Hashmoji_Lynette_2023/Genshin_Impact_Hashmoji_Lynette_2023.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1700103600000,
+		"hashTags": [
+			"lynette",
+			"リネット",
+			"琳妮特",
+			"리넷"
+		]
+	},
+	"Genshin_Impact_Lyney_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Genshin_Impact_Lyney_2023/Genshin_Impact_Lyney_2023.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1700103600000,
+		"hashTags": [
+			"lyney",
+			"ようこそフォンテーヌへ",
+			"リネ",
+			"리니"
+		]
+	},
+	"GenshinPaimon_Global_CustomLike_v5": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GenshinPaimon_Global_CustomLike_v5/GenshinPaimon_Global_CustomLike_v5.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1692241140000,
+		"hashTags": [
+			"paimon"
+		]
+	},
+	"GenshinPaimon_JP_CustomLike_v1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GenshinPaimon_JP_CustomLike_v1/GenshinPaimon_JP_CustomLike_v1.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1692241140000,
+		"hashTags": [
+			"原神"
+		]
+	},
+	"Genshin_Paimon_JP_CustomLike_v1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Genshin_Paimon_JP_CustomLike_v1/Genshin_Paimon_JP_CustomLike_v1.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1692241140000,
+		"hashTags": [
+			"原神"
+		]
+	},
+	"GenshinPaimon_Global_CustomLike_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GenshinPaimon_Global_CustomLike_v3/GenshinPaimon_Global_CustomLike_v3.png",
+		"startingTimestampMs": 1692154800000,
+		"endingTimestampMs": 1692241140000,
+		"hashTags": [
+			"원신"
+		]
 	}
 }

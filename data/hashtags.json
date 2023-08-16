@@ -79223,7 +79223,9 @@
 		"miHoYo_genshin_1228_2021",
 		"miHoYo_genshin_0421",
 		"miHoYo_genshin_0701_2021",
-		"miHoYo_genshin_2020"
+		"miHoYo_genshin_2020",
+		"GenshinPaimon_JP_CustomLike_v1",
+		"Genshin_Paimon_JP_CustomLike_v1"
 	],
 	"原神屋台": [
 		"SummerFestival_2020_add4",
@@ -97756,5 +97758,83 @@
 	],
 	"tiktoklite山分け": [
 		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_after_giftbox"
+	],
+	"focalors": [
+		"Genshin_Impact_Hashmoji_Furina_2023"
+	],
+	"fontaine": [
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during"
+	],
+	"fontaineexpo": [
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during"
+	],
+	"freminet": [
+		"Genshin_Impact_Hashmoji_Freminet_2023"
+	],
+	"furina": [
+		"Genshin_Impact_Hashmoji_Furina_2023"
+	],
+	"genshin": [
+		"GenshinPaimon_Gobal_CustomLike_v4"
+	],
+	"genshinimpact": [
+		"GenshinPaimon_Global_CustomLike_v2"
+	],
+	"genshinimpactfontaine": [
+		"BF-8617_Genshin_Impact_2023Q3_Hashfetti-Global"
+	],
+	"lynette": [
+		"Genshin_Impact_Hashmoji_Lynette_2023"
+	],
+	"lyney": [
+		"Genshin_Impact_Lyney_2023"
+	],
+	"paimon": [
+		"GenshinPaimon_Global_CustomLike_v5"
+	],
+	"ようこそフォンテーヌへ": [
+		"Genshin_Impact_Lyney_2023"
+	],
+	"フリーナ": [
+		"Genshin_Impact_Hashmoji_Furina_2023"
+	],
+	"フレミネ": [
+		"Genshin_Impact_Hashmoji_Freminet_2023"
+	],
+	"リネ": [
+		"Genshin_Impact_Lyney_2023"
+	],
+	"リネット": [
+		"Genshin_Impact_Hashmoji_Lynette_2023"
+	],
+	"原神フォンテーヌ": [
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during"
+	],
+	"琳妮特": [
+		"Genshin_Impact_Hashmoji_Lynette_2023"
+	],
+	"芙宁娜": [
+		"Genshin_Impact_Hashmoji_Furina_2023"
+	],
+	"菲米尼": [
+		"Genshin_Impact_Hashmoji_Freminet_2023"
+	],
+	"리넷": [
+		"Genshin_Impact_Hashmoji_Lynette_2023"
+	],
+	"리니": [
+		"Genshin_Impact_Lyney_2023"
+	],
+	"원신": [
+		"GenshinPaimon_Global_CustomLike_v3"
+	],
+	"폰타인_입주동참": [
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during"
+	],
+	"푸리나": [
+		"Genshin_Impact_Hashmoji_Furina_2023"
+	],
+	"프레미네": [
+		"Genshin_Impact_Hashmoji_Freminet_2023"
 	]
 }
