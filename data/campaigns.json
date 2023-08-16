@@ -141322,5 +141322,27 @@
 			"usherboyfriend",
 			"usherxkeke"
 		]
+	},
+	"Gamescom2023Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Gamescom2023Emoji/Gamescom2023Emoji.png",
+		"startingTimestampMs": 1692169200000,
+		"endingTimestampMs": 1693782000000,
+		"hashTags": [
+			"gamescom",
+			"gamescom2023",
+			"gamescom23",
+			"gamescomonl"
+		]
+	},
+	"OMITB_Hashfetti_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OMITB_Hashfetti_After/OMITB_Hashfetti_After.png",
+		"startingTimestampMs": 1692169260000,
+		"endingTimestampMs": 1699254000000,
+		"hashTags": [
+			"omitb",
+			"onlymurders",
+			"onlymurdersinthebuilding",
+			"whokilledbenglenroy"
+		]
 	}
 }

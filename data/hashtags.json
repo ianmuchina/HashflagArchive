@@ -20839,7 +20839,8 @@
 	],
 	"gamescom": [
 		"gamescom2021",
-		"Gamescon_Aug_2022"
+		"Gamescon_Aug_2022",
+		"Gamescom2023Emoji"
 	],
 	"gamescom2020": [
 		"OfficialGamescom_2020"
@@ -20848,7 +20849,8 @@
 		"gamescom2021"
 	],
 	"gamescomonl": [
-		"gamescom2021"
+		"gamescom2021",
+		"Gamescom2023Emoji"
 	],
 	"gamingunleashed": [
 		"EEGaming_2021"
@@ -41420,7 +41422,8 @@
 		"Hulu_OMITB_S2_Jun_2022",
 		"OMITB_2023",
 		"OMITB_Hashfetti_Pre",
-		"OMITB_Hashfetti_815"
+		"OMITB_Hashfetti_815",
+		"OMITB_Hashfetti_After"
 	],
 	"on_me": [
 		"KPOP_EXO_SC_2020_SEHUN"
@@ -41693,7 +41696,8 @@
 		"Hulu_OMITB_S2_Jun_2022",
 		"OMITB_2023",
 		"OMITB_Hashfetti_Pre",
-		"OMITB_Hashfetti_During"
+		"OMITB_Hashfetti_During",
+		"OMITB_Hashfetti_After"
 	],
 	"onlymurdersfinale": [
 		"OnlyMurdersFinale_2021"
@@ -41705,7 +41709,8 @@
 		"Hulu_OMITB_S2_Jun_2022",
 		"OMITB_2023",
 		"OMITB_Hashfetti_Pre",
-		"OMITB_Hashfetti_During"
+		"OMITB_Hashfetti_During",
+		"OMITB_Hashfetti_After"
 	],
 	"onlymurdersonhulu": [
 		"Hulu_OnlyMurdersintheBuilding_2021_1",
@@ -97617,7 +97622,8 @@
 	"whokilledbenglenroy": [
 		"OMITB_2023",
 		"OMITB_Hashfetti_Pre",
-		"OMITB_Hashfetti_During"
+		"OMITB_Hashfetti_During",
+		"OMITB_Hashfetti_After"
 	],
 	"90min": [
 		"Betfair_90MinWin_2023"
@@ -97843,5 +97849,11 @@
 	],
 	"usherxkeke": [
 		"UsherBoyfriend23"
+	],
+	"gamescom2023": [
+		"Gamescom2023Emoji"
+	],
+	"gamescom23": [
+		"Gamescom2023Emoji"
 	]
 }
