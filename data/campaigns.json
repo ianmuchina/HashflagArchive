@@ -141192,5 +141192,13 @@
 			"kemerdekaan",
 			"pestarakyatim3"
 		]
+	},
+	"ATV_Afterparty_Emoji_2023_Ep_7": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ATV_Afterparty_Emoji_2023_Ep_7/ATV_Afterparty_Emoji_2023_Ep_7.png",
+		"startingTimestampMs": 1692147600000,
+		"endingTimestampMs": 1692752340000,
+		"hashTags": [
+			"theafterparty"
+		]
 	}
 }
