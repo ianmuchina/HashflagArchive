@@ -141344,5 +141344,13 @@
 			"onlymurdersinthebuilding",
 			"whokilledbenglenroy"
 		]
+	},
+	"RakutenTravel_Q32023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RakutenTravel_Q32023/RakutenTravel_Q32023.png",
+		"startingTimestampMs": 1692223200000,
+		"endingTimestampMs": 1693407600000,
+		"hashTags": [
+			"楽天トラベル温泉sale\"\"温泉いくなら楽天トラベル\"\"旅行いくなら楽天トラベル\"\"楽天トラベルで温泉いきたい\"\"楽天トラベル"
+		]
 	}
 }
