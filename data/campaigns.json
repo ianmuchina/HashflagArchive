@@ -141406,5 +141406,13 @@
 			"anitta",
 			"funkgeneration"
 		]
+	},
+	"RakutenCard_2023_My_Number_point_campaign": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RakutenCard_2023_My_Number_point_campaign/RakutenCard_2023_My_Number_point_campaign.png",
+		"startingTimestampMs": 1692284400000,
+		"endingTimestampMs": 1700233200000,
+		"hashTags": [
+			"ラストチャンスなんです"
+		]
 	}
 }
