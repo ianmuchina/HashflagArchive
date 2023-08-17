@@ -79231,7 +79231,8 @@
 		"miHoYo_genshin_0701_2021",
 		"miHoYo_genshin_2020",
 		"GenshinPaimon_JP_CustomLike_v1",
-		"Genshin_Paimon_JP_CustomLike_v1"
+		"Genshin_Paimon_JP_CustomLike_v1",
+		"GenshinPaimon_Hashmoji_After"
 	],
 	"原神屋台": [
 		"SummerFestival_2020_add4",
@@ -97770,10 +97771,12 @@
 		"Genshin_Impact_Hashmoji_Furina_2023"
 	],
 	"fontaine": [
-		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during"
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during",
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-after"
 	],
 	"fontaineexpo": [
-		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during"
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during",
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-after"
 	],
 	"freminet": [
 		"Genshin_Impact_Hashmoji_Freminet_2023"
@@ -97782,13 +97785,16 @@
 		"Genshin_Impact_Hashmoji_Furina_2023"
 	],
 	"genshin": [
-		"GenshinPaimon_Gobal_CustomLike_v4"
+		"GenshinPaimon_Gobal_CustomLike_v4",
+		"GenshinPaimon_Hashmoji_After"
 	],
 	"genshinimpact": [
-		"GenshinPaimon_Global_CustomLike_v2"
+		"GenshinPaimon_Global_CustomLike_v2",
+		"GenshinPaimon_Hashmoji_After"
 	],
 	"genshinimpactfontaine": [
-		"BF-8617_Genshin_Impact_2023Q3_Hashfetti-Global"
+		"BF-8617_Genshin_Impact_2023Q3_Hashfetti-Global",
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-after"
 	],
 	"lynette": [
 		"Genshin_Impact_Hashmoji_Lynette_2023"
@@ -97797,7 +97803,8 @@
 		"Genshin_Impact_Lyney_2023"
 	],
 	"paimon": [
-		"GenshinPaimon_Global_CustomLike_v5"
+		"GenshinPaimon_Global_CustomLike_v5",
+		"GenshinPaimon_Hashmoji_After"
 	],
 	"ようこそフォンテーヌへ": [
 		"Genshin_Impact_Lyney_2023"
@@ -97815,7 +97822,8 @@
 		"Genshin_Impact_Hashmoji_Lynette_2023"
 	],
 	"原神フォンテーヌ": [
-		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during"
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during",
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-after"
 	],
 	"琳妮特": [
 		"Genshin_Impact_Hashmoji_Lynette_2023"
@@ -97833,10 +97841,12 @@
 		"Genshin_Impact_Lyney_2023"
 	],
 	"원신": [
-		"GenshinPaimon_Global_CustomLike_v3"
+		"GenshinPaimon_Global_CustomLike_v3",
+		"GenshinPaimon_Hashmoji_After"
 	],
 	"폰타인_입주동참": [
-		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during"
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during",
+		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-after"
 	],
 	"푸리나": [
 		"Genshin_Impact_Hashmoji_Furina_2023"
@@ -97861,5 +97871,20 @@
 	],
 	"sleeperapp": [
 		"Sleeper_DFSKickOff_2023_Before"
+	],
+	"旅行いくなら楽天トラベル": [
+		"RakutenTravel_Q32023_v2"
+	],
+	"楽天トラベル": [
+		"RakutenTravel_Q32023_v2"
+	],
+	"楽天トラベルで温泉いきたい": [
+		"RakutenTravel_Q32023_v2"
+	],
+	"楽天トラベル温泉sale": [
+		"RakutenTravel_Q32023_v2"
+	],
+	"温泉いくなら楽天トラベル": [
+		"RakutenTravel_Q32023_v2"
 	]
 }

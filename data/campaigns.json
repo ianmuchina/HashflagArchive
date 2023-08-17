@@ -141360,5 +141360,41 @@
 		"hashTags": [
 			"sleeperapp"
 		]
+	},
+	"BF-8617_Genshin_Impact_2023Q3_Hashmoji-after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-8617_Genshin_Impact_2023Q3_Hashmoji-after/BF-8617_Genshin_Impact_2023Q3_Hashmoji-after.png",
+		"startingTimestampMs": 1692241200000,
+		"endingTimestampMs": 1700103540000,
+		"hashTags": [
+			"fontaine",
+			"fontaineexpo",
+			"genshinimpactfontaine",
+			"原神フォンテーヌ",
+			"폰타인_입주동참"
+		]
+	},
+	"GenshinPaimon_Hashmoji_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GenshinPaimon_Hashmoji_After/GenshinPaimon_Hashmoji_After.png",
+		"startingTimestampMs": 1692241200000,
+		"endingTimestampMs": 1700103540000,
+		"hashTags": [
+			"genshin",
+			"genshinimpact",
+			"paimon",
+			"原神",
+			"원신"
+		]
+	},
+	"RakutenTravel_Q32023_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RakutenTravel_Q32023_v2/RakutenTravel_Q32023_v2.png",
+		"startingTimestampMs": 1692234300000,
+		"endingTimestampMs": 1693407600000,
+		"hashTags": [
+			"旅行いくなら楽天トラベル",
+			"楽天トラベル",
+			"楽天トラベルで温泉いきたい",
+			"楽天トラベル温泉sale",
+			"温泉いくなら楽天トラベル"
+		]
 	}
 }
