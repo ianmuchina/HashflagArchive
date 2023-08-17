@@ -141352,5 +141352,13 @@
 		"hashTags": [
 			"楽天トラベル温泉sale\"\"温泉いくなら楽天トラベル\"\"旅行いくなら楽天トラベル\"\"楽天トラベルで温泉いきたい\"\"楽天トラベル"
 		]
+	},
+	"Sleeper_DFSKickOff_2023_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sleeper_DFSKickOff_2023_Before/Sleeper_DFSKickOff_2023_Before.png",
+		"startingTimestampMs": 1692234000000,
+		"endingTimestampMs": 1692428340000,
+		"hashTags": [
+			"sleeperapp"
+		]
 	}
 }
