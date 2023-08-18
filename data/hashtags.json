@@ -59382,13 +59382,15 @@
 		"I_Stand_With_Immigrant_Feb_2022"
 	],
 	"token2049": [
-		"token2049_Aug_2022"
+		"token2049_Aug_2022",
+		"Token2049_Aug_to_Sept_2023_Campaign"
 	],
 	"token2049ldn": [
 		"token2049_Aug_2022"
 	],
 	"token2049sg": [
-		"token2049_Aug_2022"
+		"token2049_Aug_2022",
+		"Token2049_Aug_to_Sept_2023_Campaign"
 	],
 	"tokio2020": [
 		"Tokyo2020_Olympics_add2"
@@ -97957,5 +97959,11 @@
 	],
 	"tommyegan": [
 		"STARZ_Power_Force_Hashmoji_2023"
+	],
+	"token2049dubai": [
+		"Token2049_Aug_to_Sept_2023_Campaign"
+	],
+	"token2049week": [
+		"Token2049_Aug_to_Sept_2023_Campaign"
 	]
 }

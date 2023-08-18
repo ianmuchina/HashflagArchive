@@ -141486,5 +141486,16 @@
 			"powerforce",
 			"tommyegan"
 		]
+	},
+	"Token2049_Aug_to_Sept_2023_Campaign": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Token2049_Aug_to_Sept_2023_Campaign/Token2049_Aug_to_Sept_2023_Campaign.png",
+		"startingTimestampMs": 1692374400000,
+		"endingTimestampMs": 1694966400000,
+		"hashTags": [
+			"token2049",
+			"token2049dubai",
+			"token2049sg",
+			"token2049week"
+		]
 	}
 }
