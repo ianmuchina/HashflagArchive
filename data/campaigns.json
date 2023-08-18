@@ -141424,5 +141424,55 @@
 			"samsungph",
 			"teamgalaxy"
 		]
+	},
+	"Tinashe23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Tinashe23/Tinashe23.png",
+		"startingTimestampMs": 1692331200000,
+		"endingTimestampMs": 1700265600000,
+		"hashTags": [
+			"bbang3l",
+			"tinashe",
+			"tinashetour"
+		]
+	},
+	"BritneySpearsMemoir": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BritneySpearsMemoir/BritneySpearsMemoir.png",
+		"startingTimestampMs": 1692331200000,
+		"endingTimestampMs": 1701388800000,
+		"hashTags": [
+			"britneybook",
+			"britneyspears",
+			"thewomaninme"
+		]
+	},
+	"RodWave23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RodWave23/RodWave23.png",
+		"startingTimestampMs": 1692331200000,
+		"endingTimestampMs": 1700269200000,
+		"hashTags": [
+			"callyourfriends",
+			"nostalgia",
+			"rodwave"
+		]
+	},
+	"Hozier23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hozier23/Hozier23.png",
+		"startingTimestampMs": 1692331200000,
+		"endingTimestampMs": 1700182800000,
+		"hashTags": [
+			"hozier",
+			"hozierunrealunearth",
+			"unrealunearth"
+		]
+	},
+	"JIHYO": {
+		"assetUrl": "https://abs.twimg.com/hashflags/JIHYO/JIHYO.png",
+		"startingTimestampMs": 1692331200000,
+		"endingTimestampMs": 1700182800000,
+		"hashTags": [
+			"jihyo",
+			"killinmegood",
+			"zone"
+		]
 	}
 }
