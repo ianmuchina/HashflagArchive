@@ -141474,5 +141474,17 @@
 			"killinmegood",
 			"zone"
 		]
+	},
+	"STARZ_Power_Force_Hashmoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/STARZ_Power_Force_Hashmoji_2023/STARZ_Power_Force_Hashmoji_2023.png",
+		"startingTimestampMs": 1692342000000,
+		"endingTimestampMs": 1699686000000,
+		"hashTags": [
+			"forcefridays",
+			"forcestarz",
+			"powerbook4",
+			"powerforce",
+			"tommyegan"
+		]
 	}
 }

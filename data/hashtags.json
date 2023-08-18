@@ -45212,7 +45212,8 @@
 		"PowerBookII_Ghost_Season1B_2020"
 	],
 	"powerbook4": [
-		"STARZ_Power_Book_Force_2022"
+		"STARZ_Power_Book_Force_2022",
+		"STARZ_Power_Force_Hashmoji_2023"
 	],
 	"powerbookii": [
 		"GhostStarz_S2_2021"
@@ -45247,7 +45248,8 @@
 		"Zilliqa_April_2021"
 	],
 	"powerforce": [
-		"STARZ_Power_Book_Force_2022"
+		"STARZ_Power_Book_Force_2022",
+		"STARZ_Power_Force_Hashmoji_2023"
 	],
 	"powerghost": [
 		"GhostStarz_S2_2021",
@@ -97946,5 +97948,14 @@
 	],
 	"zone": [
 		"JIHYO"
+	],
+	"forcefridays": [
+		"STARZ_Power_Force_Hashmoji_2023"
+	],
+	"forcestarz": [
+		"STARZ_Power_Force_Hashmoji_2023"
+	],
+	"tommyegan": [
+		"STARZ_Power_Force_Hashmoji_2023"
 	]
 }
