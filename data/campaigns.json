@@ -141497,5 +141497,25 @@
 			"token2049sg",
 			"token2049week"
 		]
+	},
+	"BrandedFeatures_AccentTest_818": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BrandedFeatures_AccentTest_818/BrandedFeatures_AccentTest_818.png",
+		"startingTimestampMs": 1692316800000,
+		"endingTimestampMs": 1692410400000,
+		"hashTags": [
+			"brandedféaturés"
+		]
+	},
+	"Pepsico_Tostitos_2023_Before_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pepsico_Tostitos_2023_Before_v2/Pepsico_Tostitos_2023_Before_v2.png",
+		"startingTimestampMs": 1692316800000,
+		"endingTimestampMs": 1692683940000,
+		"hashTags": [
+			"showtostitos",
+			"siemprehayconque",
+			"siemprehayconqué",
+			"tostitos",
+			"tostitosencasa"
+		]
 	}
 }
