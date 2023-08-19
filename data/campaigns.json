@@ -141517,5 +141517,21 @@
 			"tostitos",
 			"tostitosencasa"
 		]
+	},
+	"Sleeper_DFSKickOff_2023_Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sleeper_DFSKickOff_2023_Hashfetti/Sleeper_DFSKickOff_2023_Hashfetti.png",
+		"startingTimestampMs": 1692428400000,
+		"endingTimestampMs": 1692514740000,
+		"hashTags": [
+			"sleeperapp"
+		]
+	},
+	"Sleeper_DFSKickoff_US_CustomLike": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sleeper_DFSKickoff_US_CustomLike/Sleeper_DFSKickoff_US_CustomLike.png",
+		"startingTimestampMs": 1692428400000,
+		"endingTimestampMs": 1692514740000,
+		"hashTags": [
+			"sleeperfantasy"
+		]
 	}
 }

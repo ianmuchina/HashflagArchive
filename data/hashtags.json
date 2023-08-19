@@ -97882,7 +97882,8 @@
 		"RakutenTravel_Q32023"
 	],
 	"sleeperapp": [
-		"Sleeper_DFSKickOff_2023_Before"
+		"Sleeper_DFSKickOff_2023_Before",
+		"Sleeper_DFSKickOff_2023_Hashfetti"
 	],
 	"旅行いくなら楽天トラベル": [
 		"RakutenTravel_Q32023_v2"
@@ -97973,5 +97974,8 @@
 	],
 	"brandedféaturés": [
 		"BrandedFeatures_AccentTest_818"
+	],
+	"sleeperfantasy": [
+		"Sleeper_DFSKickoff_US_CustomLike"
 	]
 }
