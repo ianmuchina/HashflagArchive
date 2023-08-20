@@ -141541,5 +141541,13 @@
 		"hashTags": [
 			"アイナナ８周年"
 		]
+	},
+	"Sleeper_DFSKickOff_2023_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sleeper_DFSKickOff_2023_After/Sleeper_DFSKickOff_2023_After.png",
+		"startingTimestampMs": 1692514800000,
+		"endingTimestampMs": 1703984400000,
+		"hashTags": [
+			"sleeperapp"
+		]
 	}
 }
