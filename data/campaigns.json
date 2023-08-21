@@ -141604,5 +141604,16 @@
 			"سيتي_سكيب_السعودية",
 			"سيتي_سكيب_العالمي"
 		]
+	},
+	"DisneyPlus_Ahsoka_2023_R1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_2023_R1/DisneyPlus_Ahsoka_2023_R1.png",
+		"startingTimestampMs": 1692576000000,
+		"endingTimestampMs": 1696982100000,
+		"hashTags": [
+			"ahsoka",
+			"ahsokatano",
+			"ladyahsoka",
+			"tanotuesday"
+		]
 	}
 }

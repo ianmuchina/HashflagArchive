@@ -1969,11 +1969,13 @@
 	"ahsoka": [
 		"Disney_Mandalorian_S2_Dec_2020_AhsokaTano",
 		"Disney_Maythe4th_2021_Ahsoka",
-		"DisneyPlus_Ahsoka_2023"
+		"DisneyPlus_Ahsoka_2023",
+		"DisneyPlus_Ahsoka_2023_R1"
 	],
 	"ahsokatano": [
 		"Disney_Mandalorian_S2_Dec_2020_AhsokaTano",
-		"DisneyPlus_Ahsoka_2023"
+		"DisneyPlus_Ahsoka_2023",
+		"DisneyPlus_Ahsoka_2023_R1"
 	],
 	"ahstories": [
 		"AHStories_July_2021",
@@ -96796,7 +96798,8 @@
 		"WB_Wonka_Custom_Emoji_2023"
 	],
 	"ladyahsoka": [
-		"DisneyPlus_Ahsoka_2023"
+		"DisneyPlus_Ahsoka_2023",
+		"DisneyPlus_Ahsoka_2023_R1"
 	],
 	"bestball": [
 		"DraftKings_Best_Ball_2023"
@@ -98019,5 +98022,8 @@
 	],
 	"سيتي_سكيب_العالمي": [
 		"CityScape_Global_X_Hashmoji_2023"
+	],
+	"tanotuesday": [
+		"DisneyPlus_Ahsoka_2023_R1"
 	]
 }
