@@ -141593,5 +141593,16 @@
 			"golmundial",
 			"mundialfibaengol"
 		]
+	},
+	"CityScape_Global_X_Hashmoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CityScape_Global_X_Hashmoji_2023/CityScape_Global_X_Hashmoji_2023.png",
+		"startingTimestampMs": 1692618300000,
+		"endingTimestampMs": 1699909200000,
+		"hashTags": [
+			"cityscapeglobal",
+			"سيتي_سكيب",
+			"سيتي_سكيب_السعودية",
+			"سيتي_سكيب_العالمي"
+		]
 	}
 }
