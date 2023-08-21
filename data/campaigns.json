@@ -141564,5 +141564,15 @@
 			"사빈",
 			"사빈렌"
 		]
+	},
+	"MileyCyrus23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MileyCyrus23/MileyCyrus23.png",
+		"startingTimestampMs": 1692590400000,
+		"endingTimestampMs": 1698800400000,
+		"hashTags": [
+			"mileycyrus",
+			"usedtobeyoung",
+			"utby"
+		]
 	}
 }
