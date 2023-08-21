@@ -141574,5 +141574,14 @@
 			"usedtobeyoung",
 			"utby"
 		]
+	},
+	"USTA_USOpen_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/USTA_USOpen_2023/USTA_USOpen_2023.png",
+		"startingTimestampMs": 1692612000000,
+		"endingTimestampMs": 1694473200000,
+		"hashTags": [
+			"usopen",
+			"usopen2023"
+		]
 	}
 }

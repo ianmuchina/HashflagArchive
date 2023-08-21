@@ -61611,7 +61611,8 @@
 		"USOpen_2021",
 		"USOpen_2021_Tennis",
 		"USOpen_2020",
-		"US_Open_Aug_2022"
+		"US_Open_Aug_2022",
+		"USTA_USOpen_2023"
 	],
 	"usopen2022": [
 		"US_Open_Aug_2022"
@@ -97996,5 +97997,8 @@
 	],
 	"utby": [
 		"MileyCyrus23"
+	],
+	"usopen2023": [
+		"USTA_USOpen_2023"
 	]
 }
