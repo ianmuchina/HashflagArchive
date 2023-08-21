@@ -141583,5 +141583,15 @@
 			"usopen",
 			"usopen2023"
 		]
+	},
+	"GOL_FIBA_World_Cup_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GOL_FIBA_World_Cup_2023/GOL_FIBA_World_Cup_2023.png",
+		"startingTimestampMs": 1692618900000,
+		"endingTimestampMs": 1695085200000,
+		"hashTags": [
+			"fibawengol",
+			"golmundial",
+			"mundialfibaengol"
+		]
 	}
 }

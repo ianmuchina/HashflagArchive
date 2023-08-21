@@ -22442,7 +22442,8 @@
 		"boltplus_Jun_2022"
 	],
 	"golmundial": [
-		"World_Cup_TV_Broadcaster_Spain_Nov_2022"
+		"World_Cup_TV_Broadcaster_Spain_Nov_2022",
+		"GOL_FIBA_World_Cup_2023"
 	],
 	"golos": [
 		"CBLOL_FLAMENGO_Season_2022_v4",
@@ -98000,5 +98001,11 @@
 	],
 	"usopen2023": [
 		"USTA_USOpen_2023"
+	],
+	"fibawengol": [
+		"GOL_FIBA_World_Cup_2023"
+	],
+	"mundialfibaengol": [
+		"GOL_FIBA_World_Cup_2023"
 	]
 }
