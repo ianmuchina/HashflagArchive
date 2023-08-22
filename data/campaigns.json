@@ -141696,5 +141696,13 @@
 			"warhaven",
 			"워헤이븐"
 		]
+	},
+	"GCPDemo_US_CustomLike": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GCPDemo_US_CustomLike/GCPDemo_US_CustomLike.png",
+		"startingTimestampMs": 1692712800000,
+		"endingTimestampMs": 1692795600000,
+		"hashTags": [
+			"bfdemo"
+		]
 	}
 }
