@@ -7928,7 +7928,8 @@
 	],
 	"bountyrush": [
 		"BNE_OPBR_global_Film_Uta_Nov_2022",
-		"BNE_OPBR_official_NewYearCampaign_2023"
+		"BNE_OPBR_official_NewYearCampaign_2023",
+		"BNE_OPBR_official_in_app_event_Branded_Hashtag_2023Aug"
 	],
 	"bountyrush_filmred": [
 		"BNE_OPBR_global_Film_Uta_Nov_2022"
@@ -76441,7 +76442,8 @@
 		"JP_ONEPIECE_Jan_2021_v2",
 		"BNE_bountyrush_Feb_2022_extend",
 		"BNE_OPBR_official_Event_for_the_film_Luffy_Aug_2022",
-		"BNE_OPBR_official_NewYearCampaign_2023"
+		"BNE_OPBR_official_NewYearCampaign_2023",
+		"BNE_OPBR_official_in_app_event_Branded_Hashtag_2023Aug"
 	],
 	"バウンティラッシュ2周年": [
 		"OPBR_official_JP_Jan_2021",
@@ -98054,5 +98056,14 @@
 	],
 	"watchnflgames": [
 		"Hulu_NFL_Scatter_Amplify"
+	],
+	"これがおれの最高地点だ": [
+		"BNE_OPBR_official_in_app_event_Branded_Hashtag_2023Aug"
+	],
+	"バウンティラッシュ1億dl突破": [
+		"BNE_OPBR_official_in_app_event_Branded_Hashtag_2023Aug"
+	],
+	"私が食べたい悪魔の実": [
+		"BNE_OPBR_official_in_app_event_Branded_Hashtag_2023Aug"
 	]
 }
