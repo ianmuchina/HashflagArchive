@@ -141655,5 +141655,16 @@
 			"gamescom23",
 			"gamescomonl"
 		]
+	},
+	"SalesforceAI_Week_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SalesforceAI_Week_During/SalesforceAI_Week_During.png",
+		"startingTimestampMs": 1692709200000,
+		"endingTimestampMs": 1692795600000,
+		"hashTags": [
+			"askmoreofai",
+			"df23",
+			"dreamforce23",
+			"einsteinai"
+		]
 	}
 }
