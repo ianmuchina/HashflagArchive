@@ -141633,5 +141633,17 @@
 			"tostitos",
 			"tostitosencasa"
 		]
+	},
+	"Hulu_NFL_Scatter_Amplify": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Hulu_NFL_Scatter_Amplify/Hulu_NFL_Scatter_Amplify.png",
+		"startingTimestampMs": 1692687600000,
+		"endingTimestampMs": 1700524800000,
+		"hashTags": [
+			"allinoneplan",
+			"huluhaslivesports",
+			"hulupluslivetv",
+			"jalenhurts",
+			"watchnflgames"
+		]
 	}
 }
