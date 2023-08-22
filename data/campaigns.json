@@ -141645,5 +141645,15 @@
 			"jalenhurts",
 			"watchnflgames"
 		]
+	},
+	"Gamescom2023EmojiHashmojiDuringHashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Gamescom2023EmojiHashmojiDuringHashfetti/Gamescom2023EmojiHashmojiDuringHashfetti.png",
+		"startingTimestampMs": 1692692400000,
+		"endingTimestampMs": 1692778800000,
+		"hashTags": [
+			"gamescom",
+			"gamescom23",
+			"gamescomonl"
+		]
 	}
 }
