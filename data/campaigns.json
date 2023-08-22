@@ -141615,5 +141615,13 @@
 			"ladyahsoka",
 			"tanotuesday"
 		]
+	},
+	"MyXAnniversary": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MyXAnniversary/MyXAnniversary.png",
+		"startingTimestampMs": 1692576000000,
+		"endingTimestampMs": 1724198400000,
+		"hashTags": [
+			"myxanniversary"
+		]
 	}
 }
