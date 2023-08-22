@@ -141623,5 +141623,15 @@
 		"hashTags": [
 			"myxanniversary"
 		]
+	},
+	"Pepsico_Tostitos_2023_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pepsico_Tostitos_2023_during/Pepsico_Tostitos_2023_during.png",
+		"startingTimestampMs": 1692684000000,
+		"endingTimestampMs": 1692770340000,
+		"hashTags": [
+			"showtostitos",
+			"tostitos",
+			"tostitosencasa"
+		]
 	}
 }
