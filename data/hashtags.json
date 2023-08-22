@@ -97539,22 +97539,26 @@
 	],
 	"sabine": [
 		"DisneyPlus_Ahsoka_Sabine_2023",
-		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd"
+		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd",
+		"DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart"
 	],
 	"sabinewren": [
 		"DisneyPlus_Ahsoka_Sabine_2023",
-		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd"
+		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd",
+		"DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart"
 	],
 	"shinhati": [
 		"DisneyPlus_Ahsoka_ShinHati_2023"
 	],
 	"ซาบีน": [
 		"DisneyPlus_Ahsoka_Sabine_2023",
-		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd"
+		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd",
+		"DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart"
 	],
 	"ซาบีนเร็น": [
 		"DisneyPlus_Ahsoka_Sabine_2023",
-		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd"
+		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd",
+		"DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart"
 	],
 	"นายพลซินดุลล่า": [
 		"DisneyPlus_Ahsoka_HeraSyndulla_2023"
@@ -97564,11 +97568,13 @@
 	],
 	"サビーヌ": [
 		"DisneyPlus_Ahsoka_Sabine_2023",
-		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd"
+		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd",
+		"DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart"
 	],
 	"サビーヌレン": [
 		"DisneyPlus_Ahsoka_Sabine_2023",
-		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd"
+		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd",
+		"DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart"
 	],
 	"シンドゥーラ将軍": [
 		"DisneyPlus_Ahsoka_HeraSyndulla_2023"
@@ -97602,11 +97608,13 @@
 	],
 	"사빈": [
 		"DisneyPlus_Ahsoka_Sabine_2023",
-		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd"
+		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd",
+		"DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart"
 	],
 	"사빈렌": [
 		"DisneyPlus_Ahsoka_Sabine_2023",
-		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd"
+		"DisneyPlus_Ahsoka_Sabine_2023_LongHair_NewEnd",
+		"DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart"
 	],
 	"신둘라장군": [
 		"DisneyPlus_Ahsoka_HeraSyndulla_2023"
@@ -98077,5 +98085,128 @@
 	],
 	"bfdemo": [
 		"GCPDemo_US_CustomLike"
+	],
+	"chopperdroid": [
+		"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart"
+	],
+	"chopperdroide": [
+		"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart"
+	],
+	"droidchopper": [
+		"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart"
+	],
+	"droidechopper": [
+		"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart"
+	],
+	"droidhuyang": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"gatodeloth": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"gatoloth": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"huyang": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"huyangdroid": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"huyangdroide": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"huyangdroïde": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"lothcat": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"lothcaturday": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"lothgatto": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"lothgattoday": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"lothkatze": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"profesorhuyang": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"professeurhuyang": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"professorhuyang": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"profesörhuyang": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"sábadodeloth": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"sábadodogatoloth": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"ช๊อปเปอร์ดรอยด์": [
+		"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart"
+	],
+	"ดรอยด์ช๊อปเปอร์": [
+		"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart"
+	],
+	"ศาสตราจารย์ฮูแยง": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"ฮูแยง": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"ฮูแยงดรอยด์": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"チョッパードロイド": [
+		"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart"
+	],
+	"ドロイドチョッパー": [
+		"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart"
+	],
+	"ヒューヤング": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"ヒューヤングドロイド": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"プロフェッサーヒューヤング": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"ロズキャット": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"ロズキャットと過ごす土曜日": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"드로이드차퍼": [
+		"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart"
+	],
+	"드로이드후양": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"로스캣": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"로스캣요일": [
+		"DisneyPlus_Ahsoka_Lothcat_2023_NewStart"
+	],
+	"차퍼드로이드": [
+		"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart"
+	],
+	"후양": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
+	],
+	"후양박사": [
+		"DisneyPlus_Ahsoka_Huyang_2023_NewStart"
 	]
 }

@@ -141704,5 +141704,82 @@
 		"hashTags": [
 			"bfdemo"
 		]
+	},
+	"DisneyPlus_Ahsoka_DroidChopper_2023_NewStart": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_DroidChopper_2023_NewStart/DisneyPlus_Ahsoka_DroidChopper_2023_NewStart.png",
+		"startingTimestampMs": 1692747000000,
+		"endingTimestampMs": 1699426740000,
+		"hashTags": [
+			"chopperdroid",
+			"chopperdroide",
+			"droidchopper",
+			"droidechopper",
+			"ช๊อปเปอร์ดรอยด์",
+			"ดรอยด์ช๊อปเปอร์",
+			"チョッパードロイド",
+			"ドロイドチョッパー",
+			"드로이드차퍼",
+			"차퍼드로이드"
+		]
+	},
+	"DisneyPlus_Ahsoka_Huyang_2023_NewStart": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_Huyang_2023_NewStart/DisneyPlus_Ahsoka_Huyang_2023_NewStart.png",
+		"startingTimestampMs": 1692747000000,
+		"endingTimestampMs": 1699426740000,
+		"hashTags": [
+			"droidhuyang",
+			"huyang",
+			"huyangdroid",
+			"huyangdroide",
+			"huyangdroïde",
+			"profesorhuyang",
+			"professeurhuyang",
+			"professorhuyang",
+			"profesörhuyang",
+			"ศาสตราจารย์ฮูแยง",
+			"ฮูแยง",
+			"ฮูแยงดรอยด์",
+			"ヒューヤング",
+			"ヒューヤングドロイド",
+			"プロフェッサーヒューヤング",
+			"드로이드후양",
+			"후양",
+			"후양박사"
+		]
+	},
+	"DisneyPlus_Ahsoka_Lothcat_2023_NewStart": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_Lothcat_2023_NewStart/DisneyPlus_Ahsoka_Lothcat_2023_NewStart.png",
+		"startingTimestampMs": 1692747000000,
+		"endingTimestampMs": 1699426740000,
+		"hashTags": [
+			"gatodeloth",
+			"gatoloth",
+			"lothcat",
+			"lothcaturday",
+			"lothgatto",
+			"lothgattoday",
+			"lothkatze",
+			"sábadodeloth",
+			"sábadodogatoloth",
+			"ロズキャット",
+			"ロズキャットと過ごす土曜日",
+			"로스캣",
+			"로스캣요일"
+		]
+	},
+	"DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart/DisneyPlus_Ahsoka_Sabine_2023_ShortHair_NewStart.png",
+		"startingTimestampMs": 1692747000000,
+		"endingTimestampMs": 1699426740000,
+		"hashTags": [
+			"sabine",
+			"sabinewren",
+			"ซาบีน",
+			"ซาบีนเร็น",
+			"サビーヌ",
+			"サビーヌレン",
+			"사빈",
+			"사빈렌"
+		]
 	}
 }
