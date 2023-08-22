@@ -141666,5 +141666,13 @@
 			"dreamforce23",
 			"einsteinai"
 		]
+	},
+	"SalesforceAI_Week_Hashfetti_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SalesforceAI_Week_Hashfetti_V2/SalesforceAI_Week_Hashfetti_V2.png",
+		"startingTimestampMs": 1692709200000,
+		"endingTimestampMs": 1692795600000,
+		"hashTags": [
+			"salesforceai"
+		]
 	}
 }
