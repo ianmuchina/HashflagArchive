@@ -141781,5 +141781,13 @@
 			"사빈",
 			"사빈렌"
 		]
+	},
+	"ATV_Afterparty_Emoji_2023_Ep_8": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ATV_Afterparty_Emoji_2023_Ep_8/ATV_Afterparty_Emoji_2023_Ep_8.png",
+		"startingTimestampMs": 1692752400000,
+		"endingTimestampMs": 1693357140000,
+		"hashTags": [
+			"theafterparty"
+		]
 	}
 }
