@@ -51317,12 +51317,14 @@
 		"Tostitos_MX_May_2021",
 		"Tostitos_May_2022",
 		"Pepsico_Tostitos_2023",
-		"Pepsico_Tostitos_2023_Before_v2"
+		"Pepsico_Tostitos_2023_Before_v2",
+		"Pepsico_Tostitos_2023_After_V2"
 	],
 	"siemprehayconqué": [
 		"Tostitos_May_2022",
 		"Pepsico_Tostitos_2023",
-		"Pepsico_Tostitos_2023_Before_v2"
+		"Pepsico_Tostitos_2023_Before_v2",
+		"Pepsico_Tostitos_2023_After_V2"
 	],
 	"siemprela": [
 		"MLB_LAD_2022_add"
@@ -97750,17 +97752,20 @@
 	"showtostitos": [
 		"Pepsico_Tostitos_2023",
 		"Pepsico_Tostitos_2023_Before_v2",
-		"Pepsico_Tostitos_2023_during"
+		"Pepsico_Tostitos_2023_during",
+		"Pepsico_Tostitos_2023_After_V2"
 	],
 	"tostitos": [
 		"Pepsico_Tostitos_2023",
 		"Pepsico_Tostitos_2023_Before_v2",
-		"Pepsico_Tostitos_2023_during"
+		"Pepsico_Tostitos_2023_during",
+		"Pepsico_Tostitos_2023_After_V2"
 	],
 	"tostitosencasa": [
 		"Pepsico_Tostitos_2023",
 		"Pepsico_Tostitos_2023_Before_v2",
-		"Pepsico_Tostitos_2023_during"
+		"Pepsico_Tostitos_2023_during",
+		"Pepsico_Tostitos_2023_After_V2"
 	],
 	"tiktoklite": [
 		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_during_giftbox",
