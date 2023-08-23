@@ -141824,5 +141824,16 @@
 			"gamescom23",
 			"gamescomonl"
 		]
+	},
+	"EXNOA_BRSUN_game_LiveCampaign_2023Aug_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EXNOA_BRSUN_game_LiveCampaign_2023Aug_Branded_Hashtag/EXNOA_BRSUN_game_LiveCampaign_2023Aug_Branded_Hashtag.png",
+		"startingTimestampMs": 1692790200000,
+		"endingTimestampMs": 1694750340000,
+		"hashTags": [
+			"ブルリフ",
+			"ブルリフrst",
+			"ブルリフs",
+			"ブルリフs生放送"
+		]
 	}
 }
