@@ -20845,7 +20845,8 @@
 		"gamescom2021",
 		"Gamescon_Aug_2022",
 		"Gamescom2023Emoji",
-		"Gamescom2023EmojiHashmojiDuringHashfetti"
+		"Gamescom2023EmojiHashmojiDuringHashfetti",
+		"Gamescom2023EmojiHashmojiAfterHashfetti"
 	],
 	"gamescom2020": [
 		"OfficialGamescom_2020"
@@ -20856,7 +20857,8 @@
 	"gamescomonl": [
 		"gamescom2021",
 		"Gamescom2023Emoji",
-		"Gamescom2023EmojiHashmojiDuringHashfetti"
+		"Gamescom2023EmojiHashmojiDuringHashfetti",
+		"Gamescom2023EmojiHashmojiAfterHashfetti"
 	],
 	"gamingunleashed": [
 		"EEGaming_2021"
@@ -97913,11 +97915,13 @@
 		"UsherBoyfriend23"
 	],
 	"gamescom2023": [
-		"Gamescom2023Emoji"
+		"Gamescom2023Emoji",
+		"Gamescom2023EmojiHashmojiAfterHashfetti"
 	],
 	"gamescom23": [
 		"Gamescom2023Emoji",
-		"Gamescom2023EmojiHashmojiDuringHashfetti"
+		"Gamescom2023EmojiHashmojiDuringHashfetti",
+		"Gamescom2023EmojiHashmojiAfterHashfetti"
 	],
 	"楽天トラベル温泉sale\"\"温泉いくなら楽天トラベル\"\"旅行いくなら楽天トラベル\"\"楽天トラベルで温泉いきたい\"\"楽天トラベル": [
 		"RakutenTravel_Q32023"
