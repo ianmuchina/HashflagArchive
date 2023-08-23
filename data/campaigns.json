@@ -141835,5 +141835,17 @@
 			"ブルリフs",
 			"ブルリフs生放送"
 		]
+	},
+	"SalesforceAI_Week_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SalesforceAI_Week_After/SalesforceAI_Week_After.png",
+		"startingTimestampMs": 1692795660000,
+		"endingTimestampMs": 1694761200000,
+		"hashTags": [
+			"askmoreofai",
+			"df23",
+			"dreamforce23",
+			"einsteinai",
+			"salesforceai"
+		]
 	}
 }
