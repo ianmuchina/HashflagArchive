@@ -141857,5 +141857,15 @@
 			"ネトフリワンピ",
 			"実写のワンピ"
 		]
+	},
+	"EdSheeran23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EdSheeran23/EdSheeran23.png",
+		"startingTimestampMs": 1692849600000,
+		"endingTimestampMs": 1700787600000,
+		"hashTags": [
+			"autumniscoming",
+			"autumnvariations",
+			"edsheeran"
+		]
 	}
 }
