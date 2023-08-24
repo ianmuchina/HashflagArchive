@@ -141867,5 +141867,15 @@
 			"autumnvariations",
 			"edsheeran"
 		]
+	},
+	"BurnaBoy23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BurnaBoy23/BurnaBoy23.png",
+		"startingTimestampMs": 1692849600000,
+		"endingTimestampMs": 1700787600000,
+		"hashTags": [
+			"burna",
+			"burnaboy",
+			"itoldthem"
+		]
 	}
 }

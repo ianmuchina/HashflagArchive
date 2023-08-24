@@ -8743,14 +8743,16 @@
 		"MD_BurgerKoreaPedas_2021"
 	],
 	"burna": [
-		"BurnaBoy_2020"
+		"BurnaBoy_2020",
+		"BurnaBoy23"
 	],
 	"burnaatmadison": [
 		"Burna_Boy_at_Madison_Square_Gardens_Apr_2022"
 	],
 	"burnaboy": [
 		"BurnaBoy_2020",
-		"Burna_Boy_at_Madison_Square_Gardens_Apr_2022"
+		"Burna_Boy_at_Madison_Square_Gardens_Apr_2022",
+		"BurnaBoy23"
 	],
 	"burnamsg": [
 		"Burna_Boy_at_Madison_Square_Gardens_Apr_2022"
@@ -98256,5 +98258,8 @@
 	],
 	"autumnvariations": [
 		"EdSheeran23"
+	],
+	"itoldthem": [
+		"BurnaBoy23"
 	]
 }
