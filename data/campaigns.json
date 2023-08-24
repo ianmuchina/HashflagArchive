@@ -141847,5 +141847,15 @@
 			"einsteinai",
 			"salesforceai"
 		]
+	},
+	"NetflixJP_20230825-20230924_ONEPIECE": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetflixJP_20230825-20230924_ONEPIECE/NetflixJP_20230825-20230924_ONEPIECE.png",
+		"startingTimestampMs": 1692889200000,
+		"endingTimestampMs": 1695567540000,
+		"hashTags": [
+			"onepiece",
+			"ネトフリワンピ",
+			"実写のワンピ"
+		]
 	}
 }

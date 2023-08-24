@@ -41577,7 +41577,8 @@
 		"ShueishaOnePiece1000_2020",
 		"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022",
 		"BNE_OPBR_global_Film_Luffy_Nov_2022",
-		"Netflix_OnePiece_Q3_2023"
+		"Netflix_OnePiece_Q3_2023",
+		"NetflixJP_20230825-20230924_ONEPIECE"
 	],
 	"onepiece1000logs": [
 		"ShueishaOnePiece1000_2020"
@@ -98242,5 +98243,11 @@
 	],
 	"tenésespalda": [
 		"CUC_00128700_Naranja_X_Ecosistema_NX_2023"
+	],
+	"ネトフリワンピ": [
+		"NetflixJP_20230825-20230924_ONEPIECE"
+	],
+	"実写のワンピ": [
+		"NetflixJP_20230825-20230924_ONEPIECE"
 	]
 }
