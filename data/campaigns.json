@@ -141925,5 +141925,13 @@
 		"hashTags": [
 			"شاركنا_مساحتك"
 		]
+	},
+	"AlRabie_Backtoschool_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AlRabie_Backtoschool_2023/AlRabie_Backtoschool_2023.png",
+		"startingTimestampMs": 1692964500000,
+		"endingTimestampMs": 1700740500000,
+		"hashTags": [
+			"زعيم_الفسحة"
+		]
 	}
 }
