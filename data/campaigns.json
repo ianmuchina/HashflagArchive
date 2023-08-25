@@ -141889,5 +141889,15 @@
 			"にゃらん",
 			"旅行行くならじゃらん"
 		]
+	},
+	"Fridayy23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Fridayy23/Fridayy23.png",
+		"startingTimestampMs": 1692936000000,
+		"endingTimestampMs": 1700269200000,
+		"hashTags": [
+			"fridayy",
+			"standbyme",
+			"whenitcomestoyou"
+		]
 	}
 }
