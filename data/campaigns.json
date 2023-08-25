@@ -141951,5 +141951,17 @@
 			"vma",
 			"vmas"
 		]
+	},
+	"OKX_Branded_Emoji_Aug_Oct_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OKX_Branded_Emoji_Aug_Oct_2023/OKX_Branded_Emoji_Aug_Oct_2023.png",
+		"startingTimestampMs": 1693007940000,
+		"endingTimestampMs": 1700697540000,
+		"hashTags": [
+			"okb",
+			"okx",
+			"okxearn",
+			"okxwallet",
+			"okxweb3"
+		]
 	}
 }
