@@ -141933,5 +141933,13 @@
 		"hashTags": [
 			"زعيم_الفسحة"
 		]
+	},
+	"TrifectaTest_US_Hashfetti_CustomLike_Hashmedia": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TrifectaTest_US_Hashfetti_CustomLike_Hashmedia/TrifectaTest_US_Hashfetti_CustomLike_Hashmedia.png",
+		"startingTimestampMs": 1692974100000,
+		"endingTimestampMs": 1693573200000,
+		"hashTags": [
+			"6160224test"
+		]
 	}
 }
