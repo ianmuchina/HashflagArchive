@@ -141941,5 +141941,15 @@
 		"hashTags": [
 			"6160224test"
 		]
+	},
+	"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramount_MTV_VMAs_Hashmoji_Ent_US_Before/Paramount_MTV_VMAs_Hashmoji_Ent_US_Before.png",
+		"startingTimestampMs": 1693002600000,
+		"endingTimestampMs": 1694491140000,
+		"hashTags": [
+			"mtvvmas",
+			"vma",
+			"vmas"
+		]
 	}
 }
