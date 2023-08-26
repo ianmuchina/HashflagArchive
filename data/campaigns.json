@@ -141974,5 +141974,17 @@
 			"gtacademy",
 			"jannmardenborough"
 		]
+	},
+	"Underdog_Fantasy_Pickem_HashMoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Underdog_Fantasy_Pickem_HashMoji_2023/Underdog_Fantasy_Pickem_HashMoji_2023.png",
+		"startingTimestampMs": 1693036800000,
+		"endingTimestampMs": 1701003600000,
+		"hashTags": [
+			"pickem",
+			"underdog",
+			"underdogfantasy",
+			"underdogpickem",
+			"underdogpicks"
+		]
 	}
 }
