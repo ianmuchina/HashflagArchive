@@ -141963,5 +141963,16 @@
 			"okxwallet",
 			"okxweb3"
 		]
+	},
+	"SonyPictures_GranTurismo_2023_After_V3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SonyPictures_GranTurismo_2023_After_V3/SonyPictures_GranTurismo_2023_After_V3.png",
+		"startingTimestampMs": 1693033260000,
+		"endingTimestampMs": 1698130800000,
+		"hashTags": [
+			"granturismo",
+			"granturismomovie",
+			"gtacademy",
+			"jannmardenborough"
+		]
 	}
 }
