@@ -141998,5 +141998,15 @@
 			"ダンクロ",
 			"ヘスティア"
 		]
+	},
+	"JazzChisholm": {
+		"assetUrl": "https://abs.twimg.com/hashflags/JazzChisholm/JazzChisholm.png",
+		"startingTimestampMs": 1693022400000,
+		"endingTimestampMs": 1696122000000,
+		"hashTags": [
+			"jazzchisholm",
+			"jazzchisholmfdn",
+			"jazzchisholmfoundation"
+		]
 	}
 }
