@@ -141986,5 +141986,17 @@
 			"underdogpickem",
 			"underdogpicks"
 		]
+	},
+	"danmachidanchro_Branded_Hashtag_request": {
+		"assetUrl": "https://abs.twimg.com/hashflags/danmachidanchro_Branded_Hashtag_request/danmachidanchro_Branded_Hashtag_request.png",
+		"startingTimestampMs": 1693062000000,
+		"endingTimestampMs": 1700837940000,
+		"hashTags": [
+			"danchro",
+			"danmachi",
+			"ダンまち新作ゲームリリース",
+			"ダンクロ",
+			"ヘスティア"
+		]
 	}
 }
