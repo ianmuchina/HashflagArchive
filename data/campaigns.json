@@ -142034,5 +142034,13 @@
 		"hashTags": [
 			"lewifipartout"
 		]
+	},
+	"Ubisoft_Crew_Motorfest": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Ubisoft_Crew_Motorfest/Ubisoft_Crew_Motorfest.png",
+		"startingTimestampMs": 1693180860000,
+		"endingTimestampMs": 1701129540000,
+		"hashTags": [
+			"thecrewmotorfest"
+		]
 	}
 }
