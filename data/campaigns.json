@@ -142018,5 +142018,13 @@
 			"fortnitechapter4season4",
 			"fortnitelastresort"
 		]
+	},
+	"WWE_Payback_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWE_Payback_2023/WWE_Payback_2023.png",
+		"startingTimestampMs": 1693119600000,
+		"endingTimestampMs": 1693810800000,
+		"hashTags": [
+			"wwepayback"
+		]
 	}
 }
