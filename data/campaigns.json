@@ -142026,5 +142026,13 @@
 		"hashTags": [
 			"wwepayback"
 		]
+	},
+	"BouyguesTelecom_LeWiFiPartout_Extention2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BouyguesTelecom_LeWiFiPartout_Extention2/BouyguesTelecom_LeWiFiPartout_Extention2.png",
+		"startingTimestampMs": 1693173600000,
+		"endingTimestampMs": 1695599940000,
+		"hashTags": [
+			"lewifipartout"
+		]
 	}
 }
