@@ -142053,5 +142053,16 @@
 			"expendables4",
 			"theexpendables"
 		]
+	},
+	"DK_Sportsboook": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DK_Sportsboook/DK_Sportsboook.png",
+		"startingTimestampMs": 1693180800000,
+		"endingTimestampMs": 1697526000000,
+		"hashTags": [
+			"dksportsbook",
+			"draftkingssportsbook",
+			"earlywin",
+			"peoplesparlay"
+		]
 	}
 }
