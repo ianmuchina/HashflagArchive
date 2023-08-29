@@ -142073,5 +142073,16 @@
 			"starfield",
 			"starfielddirect"
 		]
+	},
+	"IMDanHeng_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/IMDanHeng_2023/IMDanHeng_2023.png",
+		"startingTimestampMs": 1693321200000,
+		"endingTimestampMs": 1701270000000,
+		"hashTags": [
+			"imdanheng",
+			"丹恒コレクション",
+			"丹恒飲月",
+			"단항컬렉션"
+		]
 	}
 }
