@@ -142121,5 +142121,17 @@
 			"tiesto",
 			"tiestoboth"
 		]
+	},
+	"eBay_Japan_Megawari_Q3_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/eBay_Japan_Megawari_Q3_2023/eBay_Japan_Megawari_Q3_2023.png",
+		"startingTimestampMs": 1693353600000,
+		"endingTimestampMs": 1701302340000,
+		"hashTags": [
+			"qoo10",
+			"qoo10メガ割",
+			"qoo10最大のショッピング祭り",
+			"キューテン",
+			"メガ割"
+		]
 	}
 }
