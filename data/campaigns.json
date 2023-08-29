@@ -142084,5 +142084,13 @@
 			"丹恒飲月",
 			"단항컬렉션"
 		]
+	},
+	"AppleEvent_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AppleEvent_23/AppleEvent_23.png",
+		"startingTimestampMs": 1693267200000,
+		"endingTimestampMs": 1694761140000,
+		"hashTags": [
+			"appleevent"
+		]
 	}
 }
