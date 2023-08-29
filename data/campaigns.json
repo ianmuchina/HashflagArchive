@@ -142092,5 +142092,34 @@
 		"hashTags": [
 			"appleevent"
 		]
+	},
+	"DeltaGoodrem23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DeltaGoodrem23/DeltaGoodrem23.png",
+		"startingTimestampMs": 1693281600000,
+		"endingTimestampMs": 1701219600000,
+		"hashTags": [
+			"backtoyourheart",
+			"deltagoodrem"
+		]
+	},
+	"Citygirls23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Citygirls23/Citygirls23.png",
+		"startingTimestampMs": 1693281600000,
+		"endingTimestampMs": 1701219600000,
+		"hashTags": [
+			"citygirls",
+			"citygirlsfacedown",
+			"citygirlsummer"
+		]
+	},
+	"Tiesto23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Tiesto23/Tiesto23.png",
+		"startingTimestampMs": 1693281600000,
+		"endingTimestampMs": 1701216000000,
+		"hashTags": [
+			"iwantboth",
+			"tiesto",
+			"tiestoboth"
+		]
 	}
 }
