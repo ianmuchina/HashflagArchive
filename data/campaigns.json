@@ -142064,5 +142064,14 @@
 			"earlywin",
 			"peoplesparlay"
 		]
+	},
+	"Starfield-Q1FY24-CY_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Starfield-Q1FY24-CY_2023/Starfield-Q1FY24-CY_2023.png",
+		"startingTimestampMs": 1693217760000,
+		"endingTimestampMs": 1696068960000,
+		"hashTags": [
+			"starfield",
+			"starfielddirect"
+		]
 	}
 }
