@@ -142169,5 +142169,24 @@
 		"hashTags": [
 			"brandedfeatures"
 		]
+	},
+	"KFC_Philippines_GetLoaded_hashmoji_New_timing": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KFC_Philippines_GetLoaded_hashmoji_New_timing/KFC_Philippines_GetLoaded_hashmoji_New_timing.png",
+		"startingTimestampMs": 1693353600000,
+		"endingTimestampMs": 1693497600000,
+		"hashTags": [
+			"getloadedwithkfc"
+		]
+	},
+	"SaudiPayments_Hashmoji2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SaudiPayments_Hashmoji2023/SaudiPayments_Hashmoji2023.png",
+		"startingTimestampMs": 1693429140000,
+		"endingTimestampMs": 1701205140000,
+		"hashTags": [
+			"seamlessksa",
+			"اغلى_ارض",
+			"نبدي_الجود",
+			"نمكن_لتبتكر"
+		]
 	}
 }
