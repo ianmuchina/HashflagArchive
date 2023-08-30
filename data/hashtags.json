@@ -96656,7 +96656,8 @@
 	],
 	"jujutsukaisen": [
 		"JujutsuKaisen_by_ABEMA_2023_2",
-		"JujutsuKaisen_by_ABEMA_2023_2_ver2"
+		"JujutsuKaisen_by_ABEMA_2023_2_ver2",
+		"JujutsuKaisen_by_ABEMA_2023_3"
 	],
 	"呪術廻戦全話無料配信中": [
 		"JujutsuKaisen_by_ABEMA_2023_2",
@@ -96690,10 +96691,12 @@
 		"JujutsuKaisen_by_ABEMA_2023"
 	],
 	"呪術廻戦": [
-		"JujutsuKaisen_by_ABEMA_2023"
+		"JujutsuKaisen_by_ABEMA_2023",
+		"JujutsuKaisen_by_ABEMA_2023_3"
 	],
 	"呪術廻戦全話無料": [
-		"JujutsuKaisen_by_ABEMA_2023"
+		"JujutsuKaisen_by_ABEMA_2023",
+		"JujutsuKaisen_by_ABEMA_2023_3"
 	],
 	"懐玉・玉折": [
 		"JujutsuKaisen_by_ABEMA_2023"
@@ -98415,5 +98418,11 @@
 	],
 	"intelinnovation": [
 		"IntelInnovation_Hashmoji_2023"
+	],
+	"渋谷事変": [
+		"JujutsuKaisen_by_ABEMA_2023_3"
+	],
+	"虎杖悠仁": [
+		"JujutsuKaisen_by_ABEMA_2023_3"
 	]
 }
