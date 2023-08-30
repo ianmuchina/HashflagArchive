@@ -142141,5 +142141,13 @@
 		"hashTags": [
 			"theafterparty"
 		]
+	},
+	"IntelInnovation_Hashmoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/IntelInnovation_Hashmoji_2023/IntelInnovation_Hashmoji_2023.png",
+		"startingTimestampMs": 1693389600000,
+		"endingTimestampMs": 1696143540000,
+		"hashTags": [
+			"intelinnovation"
+		]
 	}
 }
