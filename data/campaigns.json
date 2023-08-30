@@ -142133,5 +142133,13 @@
 			"キューテン",
 			"メガ割"
 		]
+	},
+	"ATV_Afterparty_Emoji_2023_EP_9": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ATV_Afterparty_Emoji_2023_EP_9/ATV_Afterparty_Emoji_2023_EP_9.png",
+		"startingTimestampMs": 1693357200000,
+		"endingTimestampMs": 1693961940000,
+		"hashTags": [
+			"theafterparty"
+		]
 	}
 }
