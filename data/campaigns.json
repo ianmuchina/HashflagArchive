@@ -142161,5 +142161,13 @@
 			"渋谷事変",
 			"虎杖悠仁"
 		]
+	},
+	"BrandedFeatures_X_AlwaysOn": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BrandedFeatures_X_AlwaysOn/BrandedFeatures_X_AlwaysOn.png",
+		"startingTimestampMs": 1693414440000,
+		"endingTimestampMs": 1704096000000,
+		"hashTags": [
+			"brandedfeatures"
+		]
 	}
 }
