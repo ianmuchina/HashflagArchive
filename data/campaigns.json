@@ -142200,5 +142200,23 @@
 			"collegegameday",
 			"startsaturdaystrong"
 		]
+	},
+	"KFC_Philippines_GetLoaded_hashmoji_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KFC_Philippines_GetLoaded_hashmoji_before/KFC_Philippines_GetLoaded_hashmoji_before.png",
+		"startingTimestampMs": 1693497600000,
+		"endingTimestampMs": 1694188740000,
+		"hashTags": [
+			"getloadedwithkfc"
+		]
+	},
+	"TGC_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TGC_2023/TGC_2023.png",
+		"startingTimestampMs": 1693494000000,
+		"endingTimestampMs": 1696086000000,
+		"hashTags": [
+			"tgc",
+			"マイナビtgc",
+			"東京ガールズコレクション"
+		]
 	}
 }

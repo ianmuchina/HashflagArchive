@@ -56463,7 +56463,8 @@
 		"The_Game_Awards_2022"
 	],
 	"tgc": [
-		"Tokyo_Girls_Collection_Autumn_Jul_2022"
+		"Tokyo_Girls_Collection_Autumn_Jul_2022",
+		"TGC_2023"
 	],
 	"tght": [
 		"TGHT_2021"
@@ -80501,7 +80502,8 @@
 		"Tokyo2020_Olympics_add"
 	],
 	"東京ガールズコレクション": [
-		"Tokyo_Girls_Collection_Autumn_Jul_2022"
+		"Tokyo_Girls_Collection_Autumn_Jul_2022",
+		"TGC_2023"
 	],
 	"東京リベンジャーズ": [
 		"Kodansha_Mikey_2022_Emoji"
@@ -98431,7 +98433,8 @@
 		"JujutsuKaisen_by_ABEMA_2023_3"
 	],
 	"getloadedwithkfc": [
-		"KFC_Philippines_GetLoaded_hashmoji_New_timing"
+		"KFC_Philippines_GetLoaded_hashmoji_New_timing",
+		"KFC_Philippines_GetLoaded_hashmoji_before"
 	],
 	"seamlessksa": [
 		"SaudiPayments_Hashmoji2023"
@@ -98447,5 +98450,8 @@
 	],
 	"collegegameday": [
 		"Fox_Sport_College_Football_2023_Hashmoji"
+	],
+	"マイナビtgc": [
+		"TGC_2023"
 	]
 }
