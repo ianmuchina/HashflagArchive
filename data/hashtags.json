@@ -6822,10 +6822,12 @@
 	],
 	"bignoonkickoff": [
 		"BigNoonKickoff_FoxCFB2020",
-		"CFBonFOX_2021"
+		"CFBonFOX_2021",
+		"Fox_Sport_College_Football_2023_Hashmoji"
 	],
 	"bignoonsaturday": [
-		"CFBonFOX_2021"
+		"CFBonFOX_2021",
+		"Fox_Sport_College_Football_2023_Hashmoji"
 	],
 	"bigonalidlchristmas": [
 		"Lidl_Christmas_2020"
@@ -9941,7 +9943,8 @@
 		"MLS_Season_2023_Chicago_Fire_4"
 	],
 	"cfbonfox": [
-		"CFBonFOX_2021"
+		"CFBonFOX_2021",
+		"Fox_Sport_College_Football_2023_Hashmoji"
 	],
 	"cfbplayoff": [
 		"CFBPlayoff202021",
@@ -53430,7 +53433,8 @@
 		"StarTrekDay_2020_StarTrekVOY"
 	],
 	"startsaturdaystrong": [
-		"CFBonFOX_2021"
+		"CFBonFOX_2021",
+		"Fox_Sport_College_Football_2023_Hashmoji"
 	],
 	"startshort": [
 		"YouTube_YT_Shorts_2022"
@@ -98440,5 +98444,8 @@
 	],
 	"نمكن_لتبتكر": [
 		"SaudiPayments_Hashmoji2023"
+	],
+	"collegegameday": [
+		"Fox_Sport_College_Football_2023_Hashmoji"
 	]
 }
