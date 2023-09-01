@@ -142218,5 +142218,52 @@
 			"マイナビtgc",
 			"東京ガールズコレクション"
 		]
+	},
+	"Globo_The_Town_Festival_1st_weekend_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_The_Town_Festival_1st_weekend_V2/Globo_The_Town_Festival_1st_weekend_V2.png",
+		"startingTimestampMs": 1693522800000,
+		"endingTimestampMs": 1694559600000,
+		"hashTags": [
+			"brunomarsnomultishow",
+			"luisasonzanomultishow",
+			"luísasonzanomultishow",
+			"matuenomultishow",
+			"matuênomultishow"
+		]
+	},
+	"Globo_The_Town_Festival_1st_weekend7_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_The_Town_Festival_1st_weekend7_V2/Globo_The_Town_Festival_1st_weekend7_V2.png",
+		"startingTimestampMs": 1693522800000,
+		"endingTimestampMs": 1694559600000,
+		"hashTags": [
+			"gloriagroovenomultishow",
+			"jaonomultishow",
+			"jãonomultishow"
+		]
+	},
+	"Globo_The_Town_Gshow_1st_weekend_V3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_The_Town_Gshow_1st_weekend_V3/Globo_The_Town_Gshow_1st_weekend_V3.png",
+		"startingTimestampMs": 1693522800000,
+		"endingTimestampMs": 1693868400000,
+		"hashTags": [
+			"gshownothetown2023"
+		]
+	},
+	"Intel_Innovation_2023_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Intel_Innovation_2023_Before/Intel_Innovation_2023_Before.png",
+		"startingTimestampMs": 1693440000000,
+		"endingTimestampMs": 1695106740000,
+		"hashTags": [
+			"intelinnovation"
+		]
+	},
+	"Globo_The_Town_Festival_1st_weekend3_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_The_Town_Festival_1st_weekend3_V2/Globo_The_Town_Festival_1st_weekend3_V2.png",
+		"startingTimestampMs": 1693522800000,
+		"endingTimestampMs": 1694559600000,
+		"hashTags": [
+			"thetown2023nocanalbis",
+			"thetown2023nomultishow"
+		]
 	}
 }
