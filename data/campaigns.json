@@ -142361,5 +142361,14 @@
 			"sloveniabasketball",
 			"winforslovenia"
 		]
+	},
+	"BFI_London_Film_Festival_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BFI_London_Film_Festival_2023/BFI_London_Film_Festival_2023.png",
+		"startingTimestampMs": 1693582380000,
+		"endingTimestampMs": 1696905600000,
+		"hashTags": [
+			"lff",
+			"lffawards"
+		]
 	}
 }
