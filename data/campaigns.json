@@ -142311,5 +142311,43 @@
 		"hashTags": [
 			"méquinothetown"
 		]
+	},
+	"Globo_The_Town_Festival_1st_weekend2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_The_Town_Festival_1st_weekend2/Globo_The_Town_Festival_1st_weekend2.png",
+		"startingTimestampMs": 1693562400000,
+		"endingTimestampMs": 1694599200000,
+		"hashTags": [
+			"demilovatonomultishow",
+			"harieleryanecabelinhonomultishow",
+			"postmalonenomultishow"
+		]
+	},
+	"Globo_The_Town_Festival_1st_weekend5": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_The_Town_Festival_1st_weekend5/Globo_The_Town_Festival_1st_weekend5.png",
+		"startingTimestampMs": 1693562400000,
+		"endingTimestampMs": 1694599200000,
+		"hashTags": [
+			"foofightersnomultishow",
+			"pittynomultishow"
+		]
+	},
+	"Globo_The_Town_Festival_1st_weekend6": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_The_Town_Festival_1st_weekend6/Globo_The_Town_Festival_1st_weekend6.png",
+		"startingTimestampMs": 1693562400000,
+		"endingTimestampMs": 1694599200000,
+		"hashTags": [
+			"kimpetrasnomultishow",
+			"marinasenanomultishow",
+			"pabllovittarnomultishow"
+		]
+	},
+	"Globo_The_Town_Festival_1st_weekend4": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_The_Town_Festival_1st_weekend4/Globo_The_Town_Festival_1st_weekend4.png",
+		"startingTimestampMs": 1693562400000,
+		"endingTimestampMs": 1694599200000,
+		"hashTags": [
+			"ludmillanomultishow",
+			"maroon5nomultishow"
+		]
 	}
 }
