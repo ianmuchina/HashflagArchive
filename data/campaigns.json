@@ -142370,5 +142370,13 @@
 			"lff",
 			"lffawards"
 		]
+	},
+	"Draftkings_Hashmoji_1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Draftkings_Hashmoji_1/Draftkings_Hashmoji_1.png",
+		"startingTimestampMs": 1693526400000,
+		"endingTimestampMs": 1693637940000,
+		"hashTags": [
+			"draftkings"
+		]
 	}
 }
