@@ -142349,5 +142349,17 @@
 			"ludmillanomultishow",
 			"maroon5nomultishow"
 		]
+	},
+	"Amplify_FIBA_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Amplify_FIBA_2023/Amplify_FIBA_2023.png",
+		"startingTimestampMs": 1693303200000,
+		"endingTimestampMs": 1694469600000,
+		"hashTags": [
+			"ifeelbasketball",
+			"mysloteam",
+			"sloveeniateam",
+			"sloveniabasketball",
+			"winforslovenia"
+		]
 	}
 }
