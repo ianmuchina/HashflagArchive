@@ -142265,5 +142265,35 @@
 			"thetown2023nocanalbis",
 			"thetown2023nomultishow"
 		]
+	},
+	"Timbaland23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Timbaland23/Timbaland23.png",
+		"startingTimestampMs": 1693540800000,
+		"endingTimestampMs": 1701306000000,
+		"hashTags": [
+			"iconictrio",
+			"keepgoingup",
+			"timbonellyjustin"
+		]
+	},
+	"LilWayne23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LilWayne23/LilWayne23.png",
+		"startingTimestampMs": 1693540800000,
+		"endingTimestampMs": 1698832800000,
+		"hashTags": [
+			"katfood",
+			"lilwayne",
+			"lilwaynekatfood"
+		]
+	},
+	"NickiMinaj23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NickiMinaj23/NickiMinaj23.png",
+		"startingTimestampMs": 1693540800000,
+		"endingTimestampMs": 1701306000000,
+		"hashTags": [
+			"lasttimeisawyou",
+			"nickiminaj",
+			"nickiminajlasttimeisawyou"
+		]
 	}
 }
