@@ -142295,5 +142295,13 @@
 			"nickiminaj",
 			"nickiminajlasttimeisawyou"
 		]
+	},
+	"OWLGrandFinals2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OWLGrandFinals2023/OWLGrandFinals2023.png",
+		"startingTimestampMs": 1693551600000,
+		"endingTimestampMs": 1696230000000,
+		"hashTags": [
+			"owlgrandfinals"
+		]
 	}
 }
