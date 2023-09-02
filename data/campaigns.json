@@ -142378,5 +142378,13 @@
 		"hashTags": [
 			"draftkings"
 		]
+	},
+	"NFL_KickOff_Hashtags_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_KickOff_Hashtags_2023/NFL_KickOff_Hashtags_2023.png",
+		"startingTimestampMs": 1693630800000,
+		"endingTimestampMs": 1694577600000,
+		"hashTags": [
+			"kickoff2023"
+		]
 	}
 }
