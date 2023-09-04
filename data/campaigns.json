@@ -142423,5 +142423,13 @@
 		"hashTags": [
 			"draftkings"
 		]
+	},
+	"Billboard_Latin_Music_Week_US": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Billboard_Latin_Music_Week_US/Billboard_Latin_Music_Week_US.png",
+		"startingTimestampMs": 1693800000000,
+		"endingTimestampMs": 1697428740000,
+		"hashTags": [
+			"billboardlatinweek"
+		]
 	}
 }
