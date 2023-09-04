@@ -142440,5 +142440,16 @@
 			"homeofarabica",
 			"موطن_ارابيكا"
 		]
+	},
+	"Xiaomi13TSeries_Hashmoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Xiaomi13TSeries_Hashmoji_2023/Xiaomi13TSeries_Hashmoji_2023.png",
+		"startingTimestampMs": 1693864800000,
+		"endingTimestampMs": 1699135200000,
+		"hashTags": [
+			"masterpieceinsight",
+			"xiaomi13t",
+			"xiaomi13tpro",
+			"xiaomi13tseries"
+		]
 	}
 }
