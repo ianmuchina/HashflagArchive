@@ -142431,5 +142431,14 @@
 		"hashTags": [
 			"billboardlatinweek"
 		]
+	},
+	"Jazeancoffee_Twitter_Campaign_Aug23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Jazeancoffee_Twitter_Campaign_Aug23/Jazeancoffee_Twitter_Campaign_Aug23.png",
+		"startingTimestampMs": 1693812600000,
+		"endingTimestampMs": 1698785940000,
+		"hashTags": [
+			"homeofarabica",
+			"موطن_ارابيكا"
+		]
 	}
 }
