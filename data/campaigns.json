@@ -142480,5 +142480,14 @@
 			"베니스유령살인사건",
 			"에르큘포와로"
 		]
+	},
+	"Spotify_Rolando_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_Rolando_Before/Spotify_Rolando_Before.png",
+		"startingTimestampMs": 1693943400000,
+		"endingTimestampMs": 1693969140000,
+		"hashTags": [
+			"rolandonomeuspotify",
+			"rolandonospotify"
+		]
 	}
 }
