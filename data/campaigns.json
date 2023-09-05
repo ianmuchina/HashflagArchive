@@ -142489,5 +142489,13 @@
 			"rolandonomeuspotify",
 			"rolandonospotify"
 		]
+	},
+	"Globo_The_Town_Gshow_2nd_weekend_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Globo_The_Town_Gshow_2nd_weekend_V2/Globo_The_Town_Gshow_2nd_weekend_V2.png",
+		"startingTimestampMs": 1693954800000,
+		"endingTimestampMs": 1694473200000,
+		"hashTags": [
+			"gshownothetown2023"
+		]
 	}
 }
