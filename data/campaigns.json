@@ -142505,5 +142505,13 @@
 		"hashTags": [
 			"theafterparty"
 		]
+	},
+	"Spotify_Rolando_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_Rolando_During/Spotify_Rolando_During.png",
+		"startingTimestampMs": 1693969200000,
+		"endingTimestampMs": 1694055540000,
+		"hashTags": [
+			"rolandonomeuspotify"
+		]
 	}
 }
