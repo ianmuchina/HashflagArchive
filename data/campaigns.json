@@ -142513,5 +142513,29 @@
 		"hashTags": [
 			"rolandonomeuspotify"
 		]
+	},
+	"NFL_KickOff_Hashtags_2023_Kickoff_PreHashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_KickOff_Hashtags_2023_Kickoff_PreHashfetti/NFL_KickOff_Hashtags_2023_Kickoff_PreHashfetti.png",
+		"startingTimestampMs": 1693958400000,
+		"endingTimestampMs": 1694069940000,
+		"hashTags": [
+			"kickoff2023"
+		]
+	},
+	"NFL_KickOff_Hashtags_2023_NFL": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_KickOff_Hashtags_2023_NFL/NFL_KickOff_Hashtags_2023_NFL.png",
+		"startingTimestampMs": 1693958400000,
+		"endingTimestampMs": 1706659200000,
+		"hashTags": [
+			"nfl"
+		]
+	},
+	"2023_NFLPlus_full_season": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2023_NFLPlus_full_season/2023_NFLPlus_full_season.png",
+		"startingTimestampMs": 1693983600000,
+		"endingTimestampMs": 1706684340000,
+		"hashTags": [
+			"nflplus"
+		]
 	}
 }

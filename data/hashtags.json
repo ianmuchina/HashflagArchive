@@ -39776,7 +39776,8 @@
 	"nfl": [
 		"NFL_2020_2021_ItTakesAllOfUs_NFL",
 		"NFL_2020_2021_ItStartsWithUs_NFL",
-		"NFL_2021_2022"
+		"NFL_2021_2022",
+		"NFL_KickOff_Hashtags_2023_NFL"
 	],
 	"nflafricatouchdown": [
 		"NFLAfricaTouchdown"
@@ -98568,7 +98569,8 @@
 		"Amplify_FIBA_2023"
 	],
 	"kickoff2023": [
-		"NFL_KickOff_Hashtags_2023"
+		"NFL_KickOff_Hashtags_2023",
+		"NFL_KickOff_Hashtags_2023_Kickoff_PreHashfetti"
 	],
 	"homeofarabica": [
 		"Jazeancoffee_Twitter_Campaign_Aug23"
@@ -98650,5 +98652,8 @@
 	],
 	"에르큘포와로": [
 		"DisneyTH_HauntinginVenice_Poirot_2023"
+	],
+	"nflplus": [
+		"2023_NFLPlus_full_season"
 	]
 }
