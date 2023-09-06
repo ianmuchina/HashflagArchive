@@ -142545,5 +142545,13 @@
 		"hashTags": [
 			"furyngannou"
 		]
+	},
+	"Heineken_H150_TheTown_BR_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Heineken_H150_TheTown_BR_Before/Heineken_H150_TheTown_BR_Before.png",
+		"startingTimestampMs": 1693958400000,
+		"endingTimestampMs": 1694228340000,
+		"hashTags": [
+			"heinekennothetown"
+		]
 	}
 }
