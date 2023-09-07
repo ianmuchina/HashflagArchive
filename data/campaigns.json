@@ -142580,5 +142580,21 @@
 		"hashTags": [
 			"laligue1surfree"
 		]
+	},
+	"Draftkings_Hashfetti_97": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Draftkings_Hashfetti_97/Draftkings_Hashfetti_97.png",
+		"startingTimestampMs": 1694070000000,
+		"endingTimestampMs": 1694156340000,
+		"hashTags": [
+			"draftkings"
+		]
+	},
+	"NFL_KickOff_Hashtags_2023_Kickoff_Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_KickOff_Hashtags_2023_Kickoff_Hashfetti/NFL_KickOff_Hashtags_2023_Kickoff_Hashfetti.png",
+		"startingTimestampMs": 1694070000000,
+		"endingTimestampMs": 1694156340000,
+		"hashTags": [
+			"kickoff2023"
+		]
 	}
 }
