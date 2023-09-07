@@ -142553,5 +142553,14 @@
 		"hashTags": [
 			"heinekennothetown"
 		]
+	},
+	"Spotify_Rolando_Hashfetti_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Spotify_Rolando_Hashfetti_After/Spotify_Rolando_Hashfetti_After.png",
+		"startingTimestampMs": 1694055600000,
+		"endingTimestampMs": 1695959940000,
+		"hashTags": [
+			"rolandonomeuspotify",
+			"rolandonospotify"
+		]
 	}
 }
