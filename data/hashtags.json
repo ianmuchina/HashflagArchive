@@ -3793,7 +3793,8 @@
 		"Paralympics_2021_ARG",
 		"Olympics_Countries_2021_ARG",
 		"2022_FIFA_WorldCup_Argentina",
-		"WomensWorldCup_2023_Argentina"
+		"WomensWorldCup_2023_Argentina",
+		"Rugby_World_Cup_2023_ARG"
 	],
 	"argent": [
 		"Beijing_Paralympic_silver_2022",
@@ -4724,7 +4725,8 @@
 		"Olympics_Countries_2021_AUS",
 		"ICCT20WorldCup_2021_AUS",
 		"2022_FIFA_WorldCup_AUS_triagram",
-		"WomensWorldCup_2023_Australia"
+		"WomensWorldCup_2023_Australia",
+		"Rugby_World_Cup_2023_AUS"
 	],
 	"ausadapts": [
 		"Paralympics_2021_AUS"
@@ -10435,7 +10437,8 @@
 	],
 	"chi": [
 		"Paralympics_2021_CHI",
-		"Olympics_Countries_2021_CHI"
+		"Olympics_Countries_2021_CHI",
+		"Rugby_World_Cup_2023_CHI"
 	],
 	"chibalotte": [
 		"ProfessionalBaseball_JP_2021_chibalotte"
@@ -17439,7 +17442,8 @@
 		"ICCT20WorldCup_2021_ENG",
 		"Womens_Euros_ENG_2022",
 		"2022_FIFA_WorldCup_ENG_triagram",
-		"WomensWorldCup_2023_England"
+		"WomensWorldCup_2023_England",
+		"Rugby_World_Cup_2023_ENG"
 	],
 	"engarde": [
 		"CDL_Team_Legion_2022",
@@ -19210,7 +19214,8 @@
 	],
 	"fij": [
 		"Olympics_Countries_2021_FIJ",
-		"Paralympics_2021_FIJ"
+		"Paralympics_2021_FIJ",
+		"Rugby_World_Cup_2023_FIJ"
 	],
 	"fijnebliksemmcqueendag": [
 		"Disneyplus_Cars_on_the_Road_95_Aug_2022"
@@ -20170,7 +20175,8 @@
 		"Paralympics_2021_FRA",
 		"Womens_Euros_FRA_2022",
 		"2022_FIFA_WorldCup_France",
-		"WomensWorldCup_2023_France"
+		"WomensWorldCup_2023_France",
+		"Rugby_World_Cup_2023_FRA"
 	],
 	"fragranceinthaw": [
 		"miHoYoGenshinImpact1stAnniversary_2021_HuTao"
@@ -21189,7 +21195,8 @@
 	"geo": [
 		"Paralympics_2021_GEO",
 		"Olympics_Countries_2021_GEO",
-		"Paralympics_2021_GEO_"
+		"Paralympics_2021_GEO_",
+		"Rugby_World_Cup_2023_GEO"
 	],
 	"georgemichael": [
 		"George_Michael_Older_Sept_2022_v2"
@@ -27248,7 +27255,8 @@
 		"Unacademy_March_2021"
 	],
 	"ire": [
-		"ICCT20WorldCup_2021_IRE"
+		"ICCT20WorldCup_2021_IRE",
+		"Rugby_World_Cup_2023_IRE"
 	],
 	"ireland": [
 		"ICCT20WorldCup_2021_IRE",
@@ -27410,7 +27418,8 @@
 		"Olympics_Countries_2021_ITA",
 		"Euro_UK_2021_ITA",
 		"Womens_Euros_ITA_2022",
-		"WomensWorldCup_2023_Italy"
+		"WomensWorldCup_2023_Italy",
+		"Rugby_World_Cup_2023_ITA"
 	],
 	"italiateam": [
 		"ItaliaTeam_2021"
@@ -28821,7 +28830,8 @@
 		"Paralympics_2021_JPN",
 		"Olympics_Countries_2021_JPN",
 		"2022_FIFA_WorldCup_Japan",
-		"WomensWorldCup_2023_Japan"
+		"WomensWorldCup_2023_Japan",
+		"Rugby_World_Cup_2023_JPN"
 	],
 	"jr_아론_백호_민현_렌": [
 		"NUEST_PLEDIS_New_ALBUM_NUEST_Mar_2022"
@@ -38851,7 +38861,8 @@
 	"nam": [
 		"Paralympics_2021_NAM",
 		"ICCT20WorldCup_2021_NAM",
-		"Olympics_Countries_2021_NAM"
+		"Olympics_Countries_2021_NAM",
+		"Rugby_World_Cup_2023_NAM2"
 	],
 	"namaari": [
 		"Disney_RayaandtheLastDragon_2021_Namaari"
@@ -40894,7 +40905,8 @@
 	"nzl": [
 		"Paralympics_2021_NZL",
 		"Olympics_Countries_2021_NZL",
-		"WomensWorldCup_2023_NewZealand"
+		"WomensWorldCup_2023_NewZealand",
+		"Rugby_World_Cup_2023_NZL"
 	],
 	"nzpol": [
 		"NZElection_2020",
@@ -45080,7 +45092,8 @@
 		"Olympics_Countries_2021_POR",
 		"Womens_Euros_POR_2022",
 		"2022_FIFA_WorldCup_Korea_Portugal",
-		"WomensWorldCup_2023_Portugal"
+		"WomensWorldCup_2023_Portugal",
+		"Rugby_World_Cup_2023_POR"
 	],
 	"poraquitatudobem": [
 		"AnaGabriela_Oct_2022"
@@ -48902,7 +48915,8 @@
 	],
 	"rou": [
 		"Olympics_Countries_2021_ROU",
-		"Paralympics_2021_ROU"
+		"Paralympics_2021_ROU",
+		"Rugby_World_Cup_2023_ROU"
 	],
 	"rowdyroddypiper": [
 		"AENWWE_Docuseries_2021"
@@ -48960,7 +48974,8 @@
 	"rsa": [
 		"Olympics_Countries_2021_RSA",
 		"Paralympics_2021_RSA",
-		"WomensWorldCup_2023_SouthAfrica"
+		"WomensWorldCup_2023_SouthAfrica",
+		"Rugby_World_Cup_2023_RSA"
 	],
 	"rsl": [
 		"MLS_2022_Team_RSL_2022",
@@ -49466,7 +49481,8 @@
 		"HBO_Max_Harry_Potter_20th_REunion_HogwartsCastle_2021_add"
 	],
 	"sam": [
-		"Olympics_Countries_2021_SAM"
+		"Olympics_Countries_2021_SAM",
+		"Rugby_World_Cup_2023_SAM"
 	],
 	"samahangpinaeasy": [
 		"CarolingTMoji2020"
@@ -49998,7 +50014,8 @@
 	],
 	"sco": [
 		"ICCT20WorldCup_2021_SCO",
-		"Euro_UK_2021_SCO"
+		"Euro_UK_2021_SCO",
+		"Rugby_World_Cup_2023_SCO"
 	],
 	"scorecheck": [
 		"ANZ_Financial_Wellbeing_Apr_2022_v2"
@@ -56469,7 +56486,8 @@
 	],
 	"tga": [
 		"Olympics_Countries_2021_TGA",
-		"Paralympics_2021_TGA"
+		"Paralympics_2021_TGA",
+		"Rugby_World_Cup_2023_TGA"
 	],
 	"tga2020": [
 		"TheGameAwards2020",
@@ -61549,7 +61567,8 @@
 	"uru": [
 		"Paralympics_2021_URU",
 		"Olympics_Countries_2021_URU",
-		"2022_FIFA_WorldCup_Uruguay"
+		"2022_FIFA_WorldCup_Uruguay",
+		"Rugby_World_Cup_2023_URU2"
 	],
 	"us_monastir": [
 		"BasketBallAfricanLeague_2021_USMONASTIR"
@@ -63281,7 +63300,8 @@
 	],
 	"wal": [
 		"Euro_UK_2021_WAL",
-		"2022_FIFA_WorldCup_Wales"
+		"2022_FIFA_WorldCup_Wales",
+		"Rugby_World_Cup_2023_WAL"
 	],
 	"walk2endalz": [
 		"ALZ_2021",
@@ -96049,7 +96069,8 @@
 		"Rethink_Summer_Saudi_Tourism"
 	],
 	"brandedfeaturestest": [
-		"Transition_Test_CustomLike_Update"
+		"Transition_Test_CustomLike_Update",
+		"BF-8822_BF_Test_Hashmoji_v2"
 	],
 	"grimacesbday": [
 		"McDonalds_June_Tentpole_2Q23"
@@ -98675,5 +98696,137 @@
 	],
 	"laligue1surfree": [
 		"LaLigue1SurFree_2023"
+	],
+	"20thcenturystudiosocriador": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"20thcenturystudiosresistencia": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"20thcenturystudiosresistência": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"20thcenturystudiosstvoritel": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"20thcenturystudiosthecreator": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"20세기스튜디오_크리에이터": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"alfí": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"alphie": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"brandedfeaturestest1": [
+		"BF-8822_BF_Test_Hashmoji_v2"
+	],
+	"brandedfeaturestest2": [
+		"BF-8822_BF_Test_Hashmoji_v2"
+	],
+	"brandedfeaturestest3": [
+		"BF-8822_BF_Test_Hashmoji_v2"
+	],
+	"brandedfeaturestest4": [
+		"BF-8822_BF_Test_Hashmoji_v2"
+	],
+	"brandedfeaturestest5": [
+		"BF-8822_BF_Test_Hashmoji_v2"
+	],
+	"kẻkiếntạo": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"ocriador": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"ocriador-filme": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"resistencia": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"resistenciapelícula": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"resistência": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"resistênciafilme": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"rugbyworldcup": [
+		"Rugby_World_Cup_2023_Trophy"
+	],
+	"rwc2023": [
+		"Rugby_World_Cup_2023_Trophy"
+	],
+	"rwc23": [
+		"Rugby_World_Cup_2023_Trophy"
+	],
+	"stvoritel": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"stvoritelfilm": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"thecreator": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"thecreatorfilm": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"thecreatormovie": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"thecreatormovieph": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"thecreatormoviesg": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"thecreatormovieth": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"thecreatormovievn": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"thecreatorpelícula": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"thecreatorph": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"thecreatorsg": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"อัลฟี่": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"เดอะครีเอเตอร์": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"アルフィー": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"ザクリエイター": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"ザ・クリエイター創造者": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"兵器と呼ばれた少女": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"알피": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"영화_크리에이터": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
+	],
+	"크리에이터": [
+		"DisneyTH_TheCreator_Alphie_2023_R2"
 	]
 }
