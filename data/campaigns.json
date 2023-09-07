@@ -142822,5 +142822,47 @@
 		"hashTags": [
 			"wal"
 		]
+	},
+	"ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_before/ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_before.png",
+		"startingTimestampMs": 1694098800000,
+		"endingTimestampMs": 1694271540000,
+		"hashTags": [
+			"asahisuperdry",
+			"スーパードライ",
+			"ラグビー観るならスーパードライ",
+			"銀色のヤツ",
+			"ｱｻﾋｨｽｩﾊﾟｧﾄﾞｩﾙｧｧｧｧｲ"
+		]
+	},
+	"ensemble_stars_Hashmoji_hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ensemble_stars_Hashmoji_hashfetti/ensemble_stars_Hashmoji_hashfetti.png",
+		"startingTimestampMs": 1694098800000,
+		"endingTimestampMs": 1694185140000,
+		"hashTags": [
+			"power_of_you",
+			"アンタレスを遊ぼう",
+			"キミを応援した結果",
+			"私の応援歌",
+			"絶対応援宣言"
+		]
+	},
+	"Q3-DITO-Bamverse_2023_Sep": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Q3-DITO-Bamverse_2023_Sep/Q3-DITO-Bamverse_2023_Sep.png",
+		"startingTimestampMs": 1694102400000,
+		"endingTimestampMs": 1696003140000,
+		"hashTags": [
+			"todonadito"
+		]
+	},
+	"APV_JigenDaisuke_Branded_Hashtag_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/APV_JigenDaisuke_Branded_Hashtag_2023/APV_JigenDaisuke_Branded_Hashtag_2023.png",
+		"startingTimestampMs": 1694098800000,
+		"endingTimestampMs": 1701356340000,
+		"hashTags": [
+			"実写次元大介",
+			"映画次元大介",
+			"次元大介"
+		]
 	}
 }
