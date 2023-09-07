@@ -142572,5 +142572,13 @@
 			"tec",
 			"tecthealbum"
 		]
+	},
+	"LaLigue1SurFree_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LaLigue1SurFree_2023/LaLigue1SurFree_2023.png",
+		"startingTimestampMs": 1694066400000,
+		"endingTimestampMs": 1698875940000,
+		"hashTags": [
+			"laligue1surfree"
+		]
 	}
 }
