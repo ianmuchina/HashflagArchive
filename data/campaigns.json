@@ -142562,5 +142562,15 @@
 			"rolandonomeuspotify",
 			"rolandonospotify"
 		]
+	},
+	"LilTecca23V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LilTecca23V2/LilTecca23V2.png",
+		"startingTimestampMs": 1694059200000,
+		"endingTimestampMs": 1701910800000,
+		"hashTags": [
+			"liltecca",
+			"tec",
+			"tecthealbum"
+		]
 	}
 }
