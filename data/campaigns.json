@@ -142881,5 +142881,15 @@
 			"totalenergiesofficialsponsor",
 			"totalenergiesrugby"
 		]
+	},
+	"LynkCo09_Hashmoji_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LynkCo09_Hashmoji_Before/LynkCo09_Hashmoji_Before.png",
+		"startingTimestampMs": 1694044800000,
+		"endingTimestampMs": 1695067140000,
+		"hashTags": [
+			"lynkco09",
+			"lynkcomiddleeast",
+			"voyageforlegend"
+		]
 	}
 }
