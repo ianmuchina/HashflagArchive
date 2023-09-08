@@ -72835,7 +72835,8 @@
 		"Disney_Turning_Red_Red_Panda_Mei_Shocked_2022"
 	],
 	"あんスタ": [
-		"enstars_music6yearsanniversary_2021"
+		"enstars_music6yearsanniversary_2021",
+		"ensemble_stars_Hashmoji_after"
 	],
 	"あんスタ5周年": [
 		"ensters_music_JP_2020"
@@ -98845,16 +98846,19 @@
 		"ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_before"
 	],
 	"power_of_you": [
-		"ensemble_stars_Hashmoji_hashfetti"
+		"ensemble_stars_Hashmoji_hashfetti",
+		"ensemble_stars_Hashmoji_after"
 	],
 	"todonadito": [
 		"Q3-DITO-Bamverse_2023_Sep"
 	],
 	"アンタレスを遊ぼう": [
-		"ensemble_stars_Hashmoji_hashfetti"
+		"ensemble_stars_Hashmoji_hashfetti",
+		"ensemble_stars_Hashmoji_after"
 	],
 	"キミを応援した結果": [
-		"ensemble_stars_Hashmoji_hashfetti"
+		"ensemble_stars_Hashmoji_hashfetti",
+		"ensemble_stars_Hashmoji_after"
 	],
 	"ラグビー観るならスーパードライ": [
 		"ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_before"
@@ -98869,10 +98873,12 @@
 		"APV_JigenDaisuke_Branded_Hashtag_2023"
 	],
 	"私の応援歌": [
-		"ensemble_stars_Hashmoji_hashfetti"
+		"ensemble_stars_Hashmoji_hashfetti",
+		"ensemble_stars_Hashmoji_after"
 	],
 	"絶対応援宣言": [
-		"ensemble_stars_Hashmoji_hashfetti"
+		"ensemble_stars_Hashmoji_hashfetti",
+		"ensemble_stars_Hashmoji_after"
 	],
 	"銀色のヤツ": [
 		"ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_before"
@@ -98924,5 +98930,20 @@
 	],
 	"youtubetv": [
 		"YoutubeTV_NFLSundayTicket_2023"
+	],
+	"ff7": [
+		"Applibot_FFVII_EC_JP_Launch_2023Sep_Branded_Hashtag"
+	],
+	"ff7ec": [
+		"Applibot_FFVII_EC_JP_Launch_2023Sep_Branded_Hashtag"
+	],
+	"ff7evercrisis": [
+		"Applibot_FFVII_EC_JP_Launch_2023Sep_Branded_Hashtag"
+	],
+	"ff7エバークライシス": [
+		"Applibot_FFVII_EC_JP_Launch_2023Sep_Branded_Hashtag"
+	],
+	"ff7スマホ最新作": [
+		"Applibot_FFVII_EC_JP_Launch_2023Sep_Branded_Hashtag"
 	]
 }

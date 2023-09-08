@@ -142974,5 +142974,30 @@
 		"hashTags": [
 			"nascarplayoffs"
 		]
+	},
+	"Applibot_FFVII_EC_JP_Launch_2023Sep_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Applibot_FFVII_EC_JP_Launch_2023Sep_Branded_Hashtag/Applibot_FFVII_EC_JP_Launch_2023Sep_Branded_Hashtag.png",
+		"startingTimestampMs": 1694185200000,
+		"endingTimestampMs": 1702134000000,
+		"hashTags": [
+			"ff7",
+			"ff7ec",
+			"ff7evercrisis",
+			"ff7エバークライシス",
+			"ff7スマホ最新作"
+		]
+	},
+	"ensemble_stars_Hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ensemble_stars_Hashmoji_after/ensemble_stars_Hashmoji_after.png",
+		"startingTimestampMs": 1694185200000,
+		"endingTimestampMs": 1702047540000,
+		"hashTags": [
+			"power_of_you",
+			"あんスタ",
+			"アンタレスを遊ぼう",
+			"キミを応援した結果",
+			"私の応援歌",
+			"絶対応援宣言"
+		]
 	}
 }
