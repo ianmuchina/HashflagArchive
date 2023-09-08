@@ -143009,5 +143009,13 @@
 			"fastandfreeshipping",
 			"lazadamy"
 		]
+	},
+	"BF-8817_Lazada_HepidiLazada_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-8817_Lazada_HepidiLazada_Hashmoji/BF-8817_Lazada_HepidiLazada_Hashmoji.png",
+		"startingTimestampMs": 1694192400000,
+		"endingTimestampMs": 1699462740000,
+		"hashTags": [
+			"hepidilazada"
+		]
 	}
 }
