@@ -9420,7 +9420,8 @@
 		"Lizzo_Cardi_Single_Emoji_2021",
 		"Lizzo_Cardi_Single_2021_V2",
 		"Cardi_Hot_Shit_Emoji_2022",
-		"CardiBJealousy"
+		"CardiBJealousy",
+		"CardiMeg"
 	],
 	"cardibhot": [
 		"Cardi_Hot_Shit_Emoji_2022"
@@ -94944,10 +94945,12 @@
 		"Republic_Jonas_Brothers"
 	],
 	"laurendaigle": [
-		"Atlantic_records_Lauren_Daigle"
+		"Atlantic_records_Lauren_Daigle",
+		"LaurenDaigleAlbum23"
 	],
 	"laurendaiglealbum": [
-		"Atlantic_records_Lauren_Daigle"
+		"Atlantic_records_Lauren_Daigle",
+		"LaurenDaigleAlbum23"
 	],
 	"neverenoughparker": [
 		"Parker_mcCollum"
@@ -98884,5 +98887,23 @@
 	],
 	"voyageforlegend": [
 		"LynkCo09_Hashmoji_Before"
+	],
+	"bongos": [
+		"CardiMeg"
+	],
+	"bornforgreatness": [
+		"BujuBanton23"
+	],
+	"bujubanton": [
+		"BujuBanton23"
+	],
+	"bujubantonbfg": [
+		"BujuBanton23"
+	],
+	"cardimeg": [
+		"CardiMeg"
+	],
+	"thesearethedays": [
+		"LaurenDaigleAlbum23"
 	]
 }

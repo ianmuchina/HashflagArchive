@@ -142891,5 +142891,35 @@
 			"lynkcomiddleeast",
 			"voyageforlegend"
 		]
+	},
+	"CardiMeg": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CardiMeg/CardiMeg.png",
+		"startingTimestampMs": 1694145600000,
+		"endingTimestampMs": 1701910800000,
+		"hashTags": [
+			"bongos",
+			"cardib",
+			"cardimeg"
+		]
+	},
+	"BujuBanton23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BujuBanton23/BujuBanton23.png",
+		"startingTimestampMs": 1694145600000,
+		"endingTimestampMs": 1701392400000,
+		"hashTags": [
+			"bornforgreatness",
+			"bujubanton",
+			"bujubantonbfg"
+		]
+	},
+	"LaurenDaigleAlbum23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LaurenDaigleAlbum23/LaurenDaigleAlbum23.png",
+		"startingTimestampMs": 1694145600000,
+		"endingTimestampMs": 1701997200000,
+		"hashTags": [
+			"laurendaigle",
+			"laurendaiglealbum",
+			"thesearethedays"
+		]
 	}
 }
