@@ -142966,5 +142966,13 @@
 		"hashTags": [
 			"sundayticket"
 		]
+	},
+	"Nascar_Playoffs_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Nascar_Playoffs_2023/Nascar_Playoffs_2023.png",
+		"startingTimestampMs": 1694167200000,
+		"endingTimestampMs": 1699311600000,
+		"hashTags": [
+			"nascarplayoffs"
+		]
 	}
 }
