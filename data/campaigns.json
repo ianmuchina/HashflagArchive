@@ -142999,5 +142999,15 @@
 			"私の応援歌",
 			"絶対応援宣言"
 		]
+	},
+	"LazadaMY_9_9_Hashmoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LazadaMY_9_9_Hashmoji_2023/LazadaMY_9_9_Hashmoji_2023.png",
+		"startingTimestampMs": 1694188800000,
+		"endingTimestampMs": 1701374400000,
+		"hashTags": [
+			"addtocartaddtolifemy",
+			"fastandfreeshipping",
+			"lazadamy"
+		]
 	}
 }
