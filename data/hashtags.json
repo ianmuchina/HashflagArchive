@@ -15795,7 +15795,8 @@
 		"Draftkings_Hashmoji_1",
 		"Draftkings_Hashfett_92",
 		"Draftkings_Hashmoji_2",
-		"Draftkings_Hashfetti_97"
+		"Draftkings_Hashfetti_97",
+		"Draftkings_Hashmoji_3"
 	],
 	"draftkingsbigwin": [
 		"DKCasino_DraftKingsBigWin_Aug_2022",
@@ -21726,7 +21727,8 @@
 		"RedBull_GIVESYOUWINGS_2021_V3",
 		"RedBull_GIVESYOUWINGS_2021_V2",
 		"RedBull_GIVESYOUWINGS_2020",
-		"Red_Bull_Wings_2022_v3"
+		"Red_Bull_Wings_2022_v3",
+		"RedBull_Q3_4_Promoted_Tweets_NFL_F1_2023"
 	],
 	"givethanksnotpranks": [
 		"TMobileAprilFools2021"
@@ -47335,7 +47337,8 @@
 		"Red_Bull_Wings_2022_v3",
 		"Redbull_NewOccasion_2023_before",
 		"Redbull_NewOccasion_2023_during",
-		"Redbull_NewOccasion_2023_after"
+		"Redbull_NewOccasion_2023_after",
+		"RedBull_Q3_4_Promoted_Tweets_NFL_F1_2023"
 	],
 	"redbull\"\"givesyouwings\"\"redbullgivesyouwings\"\"redbullbcone\"\"redbullgaming": [
 		"Red_Bull_Wings_2022_v2"
@@ -47358,10 +47361,12 @@
 		"RedBull_GIVESYOUWINGS_2021_V3",
 		"RedBull_GIVESYOUWINGS_2021_V2",
 		"RedBull_GIVESYOUWINGS_2020_add",
-		"Red_Bull_Wings_2022_v3"
+		"Red_Bull_Wings_2022_v3",
+		"RedBull_Q3_4_Promoted_Tweets_NFL_F1_2023"
 	],
 	"redbullgivesyouwings": [
-		"Red_Bull_Wings_2022_v3"
+		"Red_Bull_Wings_2022_v3",
+		"RedBull_Q3_4_Promoted_Tweets_NFL_F1_2023"
 	],
 	"redbullshowrun": [
 		"Telcel_F1_2022"
@@ -98600,7 +98605,8 @@
 	"kickoff2023": [
 		"NFL_KickOff_Hashtags_2023",
 		"NFL_KickOff_Hashtags_2023_Kickoff_PreHashfetti",
-		"NFL_KickOff_Hashtags_2023_Kickoff_Hashfetti"
+		"NFL_KickOff_Hashtags_2023_Kickoff_Hashfetti",
+		"2023_Kickoff_post_Hashfett_pre_like"
 	],
 	"homeofarabica": [
 		"Jazeancoffee_Twitter_Campaign_Aug23"
@@ -98905,5 +98911,17 @@
 	],
 	"thesearethedays": [
 		"LaurenDaigleAlbum23"
+	],
+	"nflsundayticket": [
+		"YoutubeTV_NFLSundayTicket_2023"
+	],
+	"redbullracing": [
+		"RedBull_Q3_4_Promoted_Tweets_NFL_F1_2023"
+	],
+	"sundayticket": [
+		"YoutubeTV_Hashfetti"
+	],
+	"youtubetv": [
+		"YoutubeTV_NFLSundayTicket_2023"
 	]
 }

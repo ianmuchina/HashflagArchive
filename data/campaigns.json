@@ -142921,5 +142921,50 @@
 			"laurendaiglealbum",
 			"thesearethedays"
 		]
+	},
+	"Draftkings_Hashmoji_3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Draftkings_Hashmoji_3/Draftkings_Hashmoji_3.png",
+		"startingTimestampMs": 1694156400000,
+		"endingTimestampMs": 1694329140000,
+		"hashTags": [
+			"draftkings"
+		]
+	},
+	"RedBull_Q3_4_Promoted_Tweets_NFL_F1_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/RedBull_Q3_4_Promoted_Tweets_NFL_F1_2023/RedBull_Q3_4_Promoted_Tweets_NFL_F1_2023.png",
+		"startingTimestampMs": 1694156400000,
+		"endingTimestampMs": 1702364400000,
+		"hashTags": [
+			"givesyouwings",
+			"redbull",
+			"redbullgaming",
+			"redbullgivesyouwings",
+			"redbullracing"
+		]
+	},
+	"2023_Kickoff_post_Hashfett_pre_like": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2023_Kickoff_post_Hashfett_pre_like/2023_Kickoff_post_Hashfett_pre_like.png",
+		"startingTimestampMs": 1694156400000,
+		"endingTimestampMs": 1694329140000,
+		"hashTags": [
+			"kickoff2023"
+		]
+	},
+	"YoutubeTV_NFLSundayTicket_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/YoutubeTV_NFLSundayTicket_2023/YoutubeTV_NFLSundayTicket_2023.png",
+		"startingTimestampMs": 1694156400000,
+		"endingTimestampMs": 1702105140000,
+		"hashTags": [
+			"nflsundayticket",
+			"youtubetv"
+		]
+	},
+	"YoutubeTV_Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/YoutubeTV_Hashfetti/YoutubeTV_Hashfetti.png",
+		"startingTimestampMs": 1694156400000,
+		"endingTimestampMs": 1694242740000,
+		"hashTags": [
+			"sundayticket"
+		]
 	}
 }
