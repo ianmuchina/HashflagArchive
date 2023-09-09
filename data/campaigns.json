@@ -143070,5 +143070,13 @@
 			"銀色のヤツ",
 			"ｱｻﾋｨｽｩﾊﾟｧﾄﾞｩﾙｧｧｧｧｲ"
 		]
+	},
+	"KFC_Philippines_GetLoaded_hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KFC_Philippines_GetLoaded_hashmoji_after/KFC_Philippines_GetLoaded_hashmoji_after.png",
+		"startingTimestampMs": 1694275200000,
+		"endingTimestampMs": 1696089540000,
+		"hashTags": [
+			"getloadedwithkfc"
+		]
 	}
 }
