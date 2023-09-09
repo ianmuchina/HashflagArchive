@@ -143051,5 +143051,13 @@
 			"후양",
 			"후양박사"
 		]
+	},
+	"YoutubeTV_SundayTicket_postHashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/YoutubeTV_SundayTicket_postHashfetti/YoutubeTV_SundayTicket_postHashfetti.png",
+		"startingTimestampMs": 1694242800000,
+		"endingTimestampMs": 1702105140000,
+		"hashTags": [
+			"sundayticket"
+		]
 	}
 }
