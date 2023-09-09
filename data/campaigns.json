@@ -143078,5 +143078,17 @@
 		"hashTags": [
 			"getloadedwithkfc"
 		]
+	},
+	"Valvoline_KSA_Campaign_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Valvoline_KSA_Campaign_2023/Valvoline_KSA_Campaign_2023.png",
+		"startingTimestampMs": 1694293200000,
+		"endingTimestampMs": 1702155600000,
+		"hashTags": [
+			"trustedfor150years",
+			"valvoline_aramco",
+			"valvolinebyaramco",
+			"valvolineksa",
+			"valvolinesaudi"
+		]
 	}
 }
