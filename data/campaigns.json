@@ -143090,5 +143090,21 @@
 			"valvolineksa",
 			"valvolinesaudi"
 		]
+	},
+	"Draftkings_Hashfetti_910_launched": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Draftkings_Hashfetti_910_launched/Draftkings_Hashfetti_910_launched.png",
+		"startingTimestampMs": 1694329200000,
+		"endingTimestampMs": 1694415540000,
+		"hashTags": [
+			"draftkings"
+		]
+	},
+	"NFL_Custom_Like_Hashfetti_23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Custom_Like_Hashfetti_23/NFL_Custom_Like_Hashfetti_23.png",
+		"startingTimestampMs": 1694329200000,
+		"endingTimestampMs": 1694415600000,
+		"hashTags": [
+			"kickoff2023"
+		]
 	}
 }
