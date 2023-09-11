@@ -143154,5 +143154,15 @@
 		"hashTags": [
 			"kickoff2023"
 		]
+	},
+	"Sony_Pictures_Dumb_Money": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sony_Pictures_Dumb_Money/Sony_Pictures_Dumb_Money.png",
+		"startingTimestampMs": 1694433600000,
+		"endingTimestampMs": 1696895940000,
+		"hashTags": [
+			"dumbmoney",
+			"dumbmoneymovie",
+			"roaringkitty"
+		]
 	}
 }
