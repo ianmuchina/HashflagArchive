@@ -143118,5 +143118,13 @@
 			"銀色のヤツ",
 			"ｱｻﾋｨｽｩﾊﾟｧﾄﾞｩﾙｧｧｧｧｲ"
 		]
+	},
+	"Nestle_KitKat_TheTown_Hashmoji_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Nestle_KitKat_TheTown_Hashmoji_After/Nestle_KitKat_TheTown_Hashmoji_After.png",
+		"startingTimestampMs": 1694401260000,
+		"endingTimestampMs": 1696906800000,
+		"hashTags": [
+			"letsrockthebreak"
+		]
 	}
 }
