@@ -143164,5 +143164,17 @@
 			"dumbmoneymovie",
 			"roaringkitty"
 		]
+	},
+	"DQWALK_Summer_2023_Emoji_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQWALK_Summer_2023_Emoji_Before/DQWALK_Summer_2023_Emoji_Before.png",
+		"startingTimestampMs": 1694444400000,
+		"endingTimestampMs": 1694530740000,
+		"hashTags": [
+			"dqウォーク",
+			"dqウォーク4周年",
+			"ドラクエウォーク",
+			"ドラクエウォーク4周年",
+			"ドラゴンクエストウォーク"
+		]
 	}
 }

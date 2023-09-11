@@ -15719,7 +15719,8 @@
 		"DQWalk_Aniv_B1_2020_H_all",
 		"DQWalk_Anniversary_Slime_Sept_2022",
 		"DQWalk_Anniversary_Mar23_After_v2",
-		"DQWalk_Anniversary_Mar23_During_v2"
+		"DQWalk_Anniversary_Mar23_During_v2",
+		"DQWALK_Summer_2023_Emoji_Before"
 	],
 	"dqウォーク1周年": [
 		"DQWalk_Aniv_B1_2020_H2",
@@ -76155,7 +76156,8 @@
 		"DQWalk_SQUAREENIX_DQWALK_H1_2020",
 		"DQWalk_Anniversary_Slime_Sept_2022",
 		"DQWalk_Anniversary_Mar23_After_v2",
-		"DQWalk_Anniversary_Mar23_During_v2"
+		"DQWalk_Anniversary_Mar23_During_v2",
+		"DQWALK_Summer_2023_Emoji_Before"
 	],
 	"ドラクエウォーク1周年": [
 		"DQWalk_Aniv_B1_2020_H2",
@@ -76205,7 +76207,8 @@
 		"DQWalk_Aniv_B1_2020_H_all",
 		"DQWalk_Anniversary_Slime_Sept_2022",
 		"DQWalk_Anniversary_Mar23_After_v2",
-		"DQWalk_Anniversary_Mar23_During_v2"
+		"DQWalk_Anniversary_Mar23_During_v2",
+		"DQWALK_Summer_2023_Emoji_Before"
 	],
 	"ドラゴンクエストウォーク1周年": [
 		"DQWalk_Aniv_B1_2020_H2",
@@ -99042,5 +99045,11 @@
 	],
 	"roaringkitty": [
 		"Sony_Pictures_Dumb_Money"
+	],
+	"dqウォーク4周年": [
+		"DQWALK_Summer_2023_Emoji_Before"
+	],
+	"ドラクエウォーク4周年": [
+		"DQWALK_Summer_2023_Emoji_Before"
 	]
 }
