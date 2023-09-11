@@ -143126,5 +143126,33 @@
 		"hashTags": [
 			"letsrockthebreak"
 		]
+	},
+	"Lionsgate_SawX_Hashmoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_SawX_Hashmoji_2023/Lionsgate_SawX_Hashmoji_2023.png",
+		"startingTimestampMs": 1694415600000,
+		"endingTimestampMs": 1702191600000,
+		"hashTags": [
+			"billythepuppet",
+			"iwanttoplayagame",
+			"jigsaw",
+			"sawtenber",
+			"sawx"
+		]
+	},
+	"Draftkings_Hashfetti_910": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Draftkings_Hashfetti_910/Draftkings_Hashfetti_910.png",
+		"startingTimestampMs": 1694415600000,
+		"endingTimestampMs": 1699685940000,
+		"hashTags": [
+			"draftkings"
+		]
+	},
+	"Kickoff2023_post_like": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Kickoff2023_post_like/Kickoff2023_post_like.png",
+		"startingTimestampMs": 1694415660000,
+		"endingTimestampMs": 1706659200000,
+		"hashTags": [
+			"kickoff2023"
+		]
 	}
 }
