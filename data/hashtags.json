@@ -38245,7 +38245,8 @@
 		"MTV_VMAs_2021",
 		"2020_MTVVideoMusicAwards",
 		"Paramount_VMAs_Jul_2022",
-		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before"
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before",
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_During"
 	],
 	"mtvwednesdays": [
 		"MTV_April_2021"
@@ -62927,13 +62928,15 @@
 		"MTV_VMAs_2021",
 		"2020_MTVVideoMusicAwards",
 		"Paramount_VMAs_Jul_2022",
-		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before"
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before",
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_During"
 	],
 	"vmas": [
 		"MTV_VMAs_2021",
 		"2020_MTVVideoMusicAwards",
 		"Paramount_VMAs_Jul_2022",
-		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before"
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before",
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Hashfetti"
 	],
 	"vmastancam": [
 		"2020_VMAs_StanCam"

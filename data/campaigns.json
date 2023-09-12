@@ -143196,5 +143196,22 @@
 			"dreamforce23",
 			"einsteinai"
 		]
+	},
+	"Paramount_MTV_VMAs_Hashmoji_Ent_US_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramount_MTV_VMAs_Hashmoji_Ent_US_During/Paramount_MTV_VMAs_Hashmoji_Ent_US_During.png",
+		"startingTimestampMs": 1694491200000,
+		"endingTimestampMs": 1694588340000,
+		"hashTags": [
+			"mtvvmas",
+			"vma"
+		]
+	},
+	"Paramount_MTV_VMAs_Hashmoji_Ent_US_Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramount_MTV_VMAs_Hashmoji_Ent_US_Hashfetti/Paramount_MTV_VMAs_Hashmoji_Ent_US_Hashfetti.png",
+		"startingTimestampMs": 1694491200000,
+		"endingTimestampMs": 1694588340000,
+		"hashTags": [
+			"vmas"
+		]
 	}
 }
