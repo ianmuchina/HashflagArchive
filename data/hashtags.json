@@ -3044,7 +3044,8 @@
 		"AnaGabriela_Oct_2022"
 	],
 	"anakin": [
-		"Disney_Maythe4th_2021_Anakin"
+		"Disney_Maythe4th_2021_Anakin",
+		"DisneyPlus_Ahsoka_Anakin_2023"
 	],
 	"anaklelakisesungguhnya": [
 		"DisneyPlus_Pinocchio_Pinocchio_2022",
@@ -15908,7 +15909,8 @@
 		"Dreamforce2020",
 		"Salesforce_df21",
 		"Salesforce_Dreamforce_Q3_Aug_2022",
-		"Dreamforce_2023_Before"
+		"Dreamforce_2023_Before",
+		"Dreamforce_2023_During"
 	],
 	"dreamforce20": [
 		"Dreamforce2020"
@@ -97939,25 +97941,29 @@
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
 		"SalesforceAI_Week_After",
-		"Dreamforce_2023_Before"
+		"Dreamforce_2023_Before",
+		"Dreamforce_2023_During"
 	],
 	"df23": [
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
 		"SalesforceAI_Week_After",
-		"Dreamforce_2023_Before"
+		"Dreamforce_2023_Before",
+		"Dreamforce_2023_Hashfetti"
 	],
 	"dreamforce23": [
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
 		"SalesforceAI_Week_After",
-		"Dreamforce_2023_Before"
+		"Dreamforce_2023_Before",
+		"Dreamforce_2023_During"
 	],
 	"einsteinai": [
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
 		"SalesforceAI_Week_After",
-		"Dreamforce_2023_Before"
+		"Dreamforce_2023_Before",
+		"Dreamforce_2023_During"
 	],
 	"salesforceai": [
 		"SalesforceAI_Week_Before",
@@ -99070,5 +99076,26 @@
 	"ドラクエウォーク4周年": [
 		"DQWALK_Summer_2023_Emoji_Before",
 		"DQWALK_Summer_2023_Emoji_Before_v2"
+	],
+	"anakinskywalker": [
+		"DisneyPlus_Ahsoka_Anakin_2023"
+	],
+	"อนาคิน": [
+		"DisneyPlus_Ahsoka_Anakin_2023"
+	],
+	"อนาคินสกายวอล์คเกอร์": [
+		"DisneyPlus_Ahsoka_Anakin_2023"
+	],
+	"アナキン": [
+		"DisneyPlus_Ahsoka_Anakin_2023"
+	],
+	"アナキンスカイウォーカー": [
+		"DisneyPlus_Ahsoka_Anakin_2023"
+	],
+	"아나킨": [
+		"DisneyPlus_Ahsoka_Anakin_2023"
+	],
+	"아나킨스카이워커": [
+		"DisneyPlus_Ahsoka_Anakin_2023"
 	]
 }

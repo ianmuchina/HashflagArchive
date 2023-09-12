@@ -143244,5 +143244,39 @@
 			"ドラクエウォーク4周年",
 			"ドラゴンクエストウォーク"
 		]
+	},
+	"DisneyPlus_Ahsoka_Anakin_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyPlus_Ahsoka_Anakin_2023/DisneyPlus_Ahsoka_Anakin_2023.png",
+		"startingTimestampMs": 1694518200000,
+		"endingTimestampMs": 1702364100000,
+		"hashTags": [
+			"anakin",
+			"anakinskywalker",
+			"อนาคิน",
+			"อนาคินสกายวอล์คเกอร์",
+			"アナキン",
+			"アナキンスカイウォーカー",
+			"아나킨",
+			"아나킨스카이워커"
+		]
+	},
+	"Dreamforce_2023_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Dreamforce_2023_During/Dreamforce_2023_During.png",
+		"startingTimestampMs": 1694520000000,
+		"endingTimestampMs": 1694606340000,
+		"hashTags": [
+			"askmoreofai",
+			"dreamforce",
+			"dreamforce23",
+			"einsteinai"
+		]
+	},
+	"Dreamforce_2023_Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Dreamforce_2023_Hashfetti/Dreamforce_2023_Hashfetti.png",
+		"startingTimestampMs": 1694520000000,
+		"endingTimestampMs": 1694606340000,
+		"hashTags": [
+			"df23"
+		]
 	}
 }
