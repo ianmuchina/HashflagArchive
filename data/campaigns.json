@@ -143278,5 +143278,17 @@
 		"hashTags": [
 			"df23"
 		]
+	},
+	"Pokemon_cojp_DLC_launch_2023Sep_Branded_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Pokemon_cojp_DLC_launch_2023Sep_Branded_Hashtag/Pokemon_cojp_DLC_launch_2023Sep_Branded_Hashtag.png",
+		"startingTimestampMs": 1694523600000,
+		"endingTimestampMs": 1702479540000,
+		"hashTags": [
+			"pokemonscarletviolet",
+			"ポケモンdlc",
+			"ポケモンsv",
+			"ポケモンsvゼロの秘宝",
+			"碧の仮面"
+		]
 	}
 }
