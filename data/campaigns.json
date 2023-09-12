@@ -143232,5 +143232,17 @@
 			"bitget5thanniversary",
 			"bitgetrebranding"
 		]
+	},
+	"DQWALK_Summer_2023_Emoji_Before_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQWALK_Summer_2023_Emoji_Before_v2/DQWALK_Summer_2023_Emoji_Before_v2.png",
+		"startingTimestampMs": 1694508420000,
+		"endingTimestampMs": 1694789940000,
+		"hashTags": [
+			"dqウォーク",
+			"dqウォーク4周年",
+			"ドラクエウォーク",
+			"ドラクエウォーク4周年",
+			"ドラゴンクエストウォーク"
+		]
 	}
 }
