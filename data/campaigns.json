@@ -143213,5 +143213,24 @@
 		"hashTags": [
 			"vmas"
 		]
+	},
+	"Event_23_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Event_23_During/Event_23_During.png",
+		"startingTimestampMs": 1694501940000,
+		"endingTimestampMs": 1694588400000,
+		"hashTags": [
+			"appleevent"
+		]
+	},
+	"Bitget_Anniversary_Campaign_2023_Hashmoji_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bitget_Anniversary_Campaign_2023_Hashmoji_v2/Bitget_Anniversary_Campaign_2023_Hashmoji_v2.png",
+		"startingTimestampMs": 1693843200000,
+		"endingTimestampMs": 1698226200000,
+		"hashTags": [
+			"bgb",
+			"bitget",
+			"bitget5thanniversary",
+			"bitgetrebranding"
+		]
 	}
 }
