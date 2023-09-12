@@ -3570,7 +3570,8 @@
 		"ded1f3f9ed683be7da79d4a02e3c86a9c2362686",
 		"d27c6a320f2b02e3405d96f242f37eb2d4c32aab",
 		"253a687eb687bd78c531d33d2b63c2c4ce48da7d",
-		"AppleEvent_23"
+		"AppleEvent_23",
+		"Event_23_pre"
 	],
 	"applepayでも": [
 		"Mastercard_JP_Wave_2021"
@@ -15904,7 +15905,8 @@
 	"dreamforce": [
 		"Dreamforce2020",
 		"Salesforce_df21",
-		"Salesforce_Dreamforce_Q3_Aug_2022"
+		"Salesforce_Dreamforce_Q3_Aug_2022",
+		"Dreamforce_2023_Before"
 	],
 	"dreamforce20": [
 		"Dreamforce2020"
@@ -97925,22 +97927,26 @@
 	"askmoreofai": [
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
-		"SalesforceAI_Week_After"
+		"SalesforceAI_Week_After",
+		"Dreamforce_2023_Before"
 	],
 	"df23": [
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
-		"SalesforceAI_Week_After"
+		"SalesforceAI_Week_After",
+		"Dreamforce_2023_Before"
 	],
 	"dreamforce23": [
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
-		"SalesforceAI_Week_After"
+		"SalesforceAI_Week_After",
+		"Dreamforce_2023_Before"
 	],
 	"einsteinai": [
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
-		"SalesforceAI_Week_After"
+		"SalesforceAI_Week_After",
+		"Dreamforce_2023_Before"
 	],
 	"salesforceai": [
 		"SalesforceAI_Week_Before",

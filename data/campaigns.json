@@ -143176,5 +143176,25 @@
 			"ドラクエウォーク4周年",
 			"ドラゴンクエストウォーク"
 		]
+	},
+	"Event_23_pre": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Event_23_pre/Event_23_pre.png",
+		"startingTimestampMs": 1694390400000,
+		"endingTimestampMs": 1694501880000,
+		"hashTags": [
+			"appleevent"
+		]
+	},
+	"Dreamforce_2023_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Dreamforce_2023_Before/Dreamforce_2023_Before.png",
+		"startingTimestampMs": 1694390400000,
+		"endingTimestampMs": 1694519940000,
+		"hashTags": [
+			"askmoreofai",
+			"df23",
+			"dreamforce",
+			"dreamforce23",
+			"einsteinai"
+		]
 	}
 }
