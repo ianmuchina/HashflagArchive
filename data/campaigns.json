@@ -143327,5 +143327,15 @@
 		"hashTags": [
 			"dedosdecheetos"
 		]
+	},
+	"Sia23v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sia23v2/Sia23v2.png",
+		"startingTimestampMs": 1694577600000,
+		"endingTimestampMs": 1701478800000,
+		"hashTags": [
+			"gimmelove",
+			"reasonablewoman",
+			"sia"
+		]
 	}
 }
