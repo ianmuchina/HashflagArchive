@@ -143409,5 +143409,16 @@
 			"ヘブバンレディオ",
 			"ヘブバン生放送"
 		]
+	},
+	"Immutable_Branded_Feature_Hashmoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Immutable_Branded_Feature_Hashmoji_2023/Immutable_Branded_Feature_Hashmoji_2023.png",
+		"startingTimestampMs": 1694646000000,
+		"endingTimestampMs": 1697238000000,
+		"hashTags": [
+			"immutable",
+			"onimmutable",
+			"web3gaming",
+			"zkevm"
+		]
 	}
 }
