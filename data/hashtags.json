@@ -15911,7 +15911,8 @@
 		"Salesforce_df21",
 		"Salesforce_Dreamforce_Q3_Aug_2022",
 		"Dreamforce_2023_Before",
-		"Dreamforce_2023_During"
+		"Dreamforce_2023_During",
+		"Dreamforce_2023_After"
 	],
 	"dreamforce20": [
 		"Dreamforce2020"
@@ -97948,28 +97949,32 @@
 		"SalesforceAI_Week_During",
 		"SalesforceAI_Week_After",
 		"Dreamforce_2023_Before",
-		"Dreamforce_2023_During"
+		"Dreamforce_2023_During",
+		"Dreamforce_2023_After"
 	],
 	"df23": [
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
 		"SalesforceAI_Week_After",
 		"Dreamforce_2023_Before",
-		"Dreamforce_2023_Hashfetti"
+		"Dreamforce_2023_Hashfetti",
+		"Dreamforce_2023_After"
 	],
 	"dreamforce23": [
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
 		"SalesforceAI_Week_After",
 		"Dreamforce_2023_Before",
-		"Dreamforce_2023_During"
+		"Dreamforce_2023_During",
+		"Dreamforce_2023_After"
 	],
 	"einsteinai": [
 		"SalesforceAI_Week_Before",
 		"SalesforceAI_Week_During",
 		"SalesforceAI_Week_After",
 		"Dreamforce_2023_Before",
-		"Dreamforce_2023_During"
+		"Dreamforce_2023_During",
+		"Dreamforce_2023_After"
 	],
 	"salesforceai": [
 		"SalesforceAI_Week_Before",
