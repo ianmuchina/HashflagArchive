@@ -3573,7 +3573,8 @@
 		"253a687eb687bd78c531d33d2b63c2c4ce48da7d",
 		"AppleEvent_23",
 		"Event_23_pre",
-		"Event_23_During"
+		"Event_23_During",
+		"Event_23_post"
 	],
 	"applepayでも": [
 		"Mastercard_JP_Wave_2021"
@@ -38250,7 +38251,8 @@
 		"2020_MTVVideoMusicAwards",
 		"Paramount_VMAs_Jul_2022",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before",
-		"Paramount_MTV_VMAs_Hashmoji_Ent_US_During"
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_During",
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2"
 	],
 	"mtvwednesdays": [
 		"MTV_April_2021"
@@ -62933,14 +62935,16 @@
 		"2020_MTVVideoMusicAwards",
 		"Paramount_VMAs_Jul_2022",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before",
-		"Paramount_MTV_VMAs_Hashmoji_Ent_US_During"
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_During",
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2"
 	],
 	"vmas": [
 		"MTV_VMAs_2021",
 		"2020_MTVVideoMusicAwards",
 		"Paramount_VMAs_Jul_2022",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before",
-		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Hashfetti"
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Hashfetti",
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2"
 	],
 	"vmastancam": [
 		"2020_VMAs_StanCam"
@@ -99146,5 +99150,20 @@
 	],
 	"sia": [
 		"Sia23v2"
+	],
+	"dreamworkstrolls": [
+		"Trolls_All_2023_Hashmoji_only"
+	],
+	"lestrolls3": [
+		"Trolls_All_2023_Hashmoji_only"
+	],
+	"trolls3todosjuntos": [
+		"Trolls_All_2023_Hashmoji_only"
+	],
+	"trollsbandtogether": [
+		"Trolls_All_2023_TrollsBandTogether_PRE"
+	],
+	"드림웍스_트롤밴드투게더": [
+		"Trolls_All_2023_Hashmoji_only"
 	]
 }

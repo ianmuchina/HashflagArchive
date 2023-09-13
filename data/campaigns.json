@@ -143337,5 +143337,42 @@
 			"reasonablewoman",
 			"sia"
 		]
+	},
+	"Event_23_post": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Event_23_post/Event_23_post.png",
+		"startingTimestampMs": 1694588460000,
+		"endingTimestampMs": 1694761140000,
+		"hashTags": [
+			"appleevent"
+		]
+	},
+	"Trolls_All_2023_Hashmoji_only": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Trolls_All_2023_Hashmoji_only/Trolls_All_2023_Hashmoji_only.png",
+		"startingTimestampMs": 1694588400000,
+		"endingTimestampMs": 1702537140000,
+		"hashTags": [
+			"dreamworkstrolls",
+			"lestrolls3",
+			"trolls3todosjuntos",
+			"드림웍스_트롤밴드투게더"
+		]
+	},
+	"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2/Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2.png",
+		"startingTimestampMs": 1694588400000,
+		"endingTimestampMs": 1695884340000,
+		"hashTags": [
+			"mtvvmas",
+			"vma",
+			"vmas"
+		]
+	},
+	"Trolls_All_2023_TrollsBandTogether_PRE": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Trolls_All_2023_TrollsBandTogether_PRE/Trolls_All_2023_TrollsBandTogether_PRE.png",
+		"startingTimestampMs": 1694588400000,
+		"endingTimestampMs": 1694761140000,
+		"hashTags": [
+			"trollsbandtogether"
+		]
 	}
 }
