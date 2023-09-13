@@ -143386,5 +143386,28 @@
 			"dreamforce23",
 			"einsteinai"
 		]
+	},
+	"Monster_Hunter_Now_Launch_Emoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Monster_Hunter_Now_Launch_Emoji_2023/Monster_Hunter_Now_Launch_Emoji_2023.png",
+		"startingTimestampMs": 1694617200000,
+		"endingTimestampMs": 1702684740000,
+		"hashTags": [
+			"mhnow",
+			"palico",
+			"オトモ",
+			"モンハンnow",
+			"モンハンnowで討伐したいモンスター"
+		]
+	},
+	"HeavenBurnsRed_Additional_Emoji_Aug_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HeavenBurnsRed_Additional_Emoji_Aug_2023/HeavenBurnsRed_Additional_Emoji_Aug_2023.png",
+		"startingTimestampMs": 1694617200000,
+		"endingTimestampMs": 1702393140000,
+		"hashTags": [
+			"ヘブバン",
+			"ヘブバングッズ",
+			"ヘブバンレディオ",
+			"ヘブバン生放送"
+		]
 	}
 }
