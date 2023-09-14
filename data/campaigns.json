@@ -143429,5 +143429,24 @@
 			"dedosdecheetos",
 			"issoémuitocheetos"
 		]
+	},
+	"Aquaman2_Hashmoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Aquaman2_Hashmoji_2023/Aquaman2_Hashmoji_2023.png",
+		"startingTimestampMs": 1694664000000,
+		"endingTimestampMs": 1702439940000,
+		"hashTags": [
+			"aquaman",
+			"aquamanandthelostkingdom"
+		]
+	},
+	"Jbalvin23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Jbalvin23/Jbalvin23.png",
+		"startingTimestampMs": 1694664000000,
+		"endingTimestampMs": 1701910800000,
+		"hashTags": [
+			"dientes",
+			"jbalvin",
+			"sonrie"
+		]
 	}
 }
