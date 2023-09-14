@@ -143448,5 +143448,45 @@
 			"jbalvin",
 			"sonrie"
 		]
+	},
+	"DisneyTH_HauntinginVenice_Poirot_2023_DuringHashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyTH_HauntinginVenice_Poirot_2023_DuringHashfetti/DisneyTH_HauntinginVenice_Poirot_2023_DuringHashfetti.png",
+		"startingTimestampMs": 1694674800000,
+		"endingTimestampMs": 1694761260000,
+		"hashTags": [
+			"ahauntinginveniceid",
+			"ahauntinginvenicemy",
+			"ahauntinginveniceph",
+			"ahauntinginvenicesg",
+			"ahauntinginveniceth",
+			"anoitedasbruxas",
+			"assassinioavenezia",
+			"caceríaenvenecia",
+			"herculepoirot",
+			"misterioemveneza",
+			"misterioenvenecia",
+			"mystèreàvenise",
+			"привидиувенеці",
+			"ฆาตกรรมหลอนแห่งนครเวนิส",
+			"แอร์กูลปัวโรต์",
+			"ベネチアの亡霊",
+			"名探偵ポアロ",
+			"大侦探波洛",
+			"威尼斯惊魂夜",
+			"베니스유령살인사건",
+			"에르큘포와로"
+		]
+	},
+	"Bitget_Anniversary_Campaign_2023_Hashmoji_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bitget_Anniversary_Campaign_2023_Hashmoji_v3/Bitget_Anniversary_Campaign_2023_Hashmoji_v3.png",
+		"startingTimestampMs": 1694667600000,
+		"endingTimestampMs": 1698226200000,
+		"hashTags": [
+			"bgb",
+			"bitget",
+			"bitget5thanniversary",
+			"bitgetrebranding",
+			"bitgetturns5"
+		]
 	}
 }
