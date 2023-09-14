@@ -143488,5 +143488,13 @@
 			"bitgetrebranding",
 			"bitgetturns5"
 		]
+	},
+	"DisneyTH_HauntinginVenice_Poirot_2023_Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyTH_HauntinginVenice_Poirot_2023_Hashfetti/DisneyTH_HauntinginVenice_Poirot_2023_Hashfetti.png",
+		"startingTimestampMs": 1694674800000,
+		"endingTimestampMs": 1694761140000,
+		"hashTags": [
+			"ahauntinginvenice"
+		]
 	}
 }
