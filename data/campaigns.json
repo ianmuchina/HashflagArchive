@@ -143420,5 +143420,14 @@
 			"web3gaming",
 			"zkevm"
 		]
+	},
+	"PEPSICO_Cheetos_Cheetle_BR_Hashmoji_After_V1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PEPSICO_Cheetos_Cheetle_BR_Hashmoji_After_V1/PEPSICO_Cheetos_Cheetle_BR_Hashmoji_After_V1.png",
+		"startingTimestampMs": 1694660400000,
+		"endingTimestampMs": 1699930740000,
+		"hashTags": [
+			"dedosdecheetos",
+			"issoémuitocheetos"
+		]
 	}
 }
