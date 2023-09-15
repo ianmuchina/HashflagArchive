@@ -143546,5 +143546,42 @@
 			"sbsoutnow",
 			"silencebetweensongs"
 		]
+	},
+	"DisneyTH_HauntinginVenice_Poirot_2023_AfterHashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DisneyTH_HauntinginVenice_Poirot_2023_AfterHashfetti/DisneyTH_HauntinginVenice_Poirot_2023_AfterHashfetti.png",
+		"startingTimestampMs": 1694761260000,
+		"endingTimestampMs": 1701906900000,
+		"hashTags": [
+			"ahauntinginvenice",
+			"ahauntinginveniceid",
+			"ahauntinginvenicemy",
+			"ahauntinginveniceph",
+			"ahauntinginvenicesg",
+			"ahauntinginveniceth",
+			"anoitedasbruxas",
+			"assassinioavenezia",
+			"caceríaenvenecia",
+			"herculepoirot",
+			"misterioemveneza",
+			"misterioenvenecia",
+			"mystèreàvenise",
+			"привидиувенеці",
+			"ฆาตกรรมหลอนแห่งนครเวนิส",
+			"แอร์กูลปัวโรต์",
+			"ベネチアの亡霊",
+			"名探偵ポアロ",
+			"大侦探波洛",
+			"威尼斯惊魂夜",
+			"베니스유령살인사건",
+			"에르큘포와로"
+		]
+	},
+	"Trolls_All_2023_TrollsBandTogether_hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Trolls_All_2023_TrollsBandTogether_hashfetti/Trolls_All_2023_TrollsBandTogether_hashfetti.png",
+		"startingTimestampMs": 1694761200000,
+		"endingTimestampMs": 1694847540000,
+		"hashTags": [
+			"trollsbandtogether"
+		]
 	}
 }
