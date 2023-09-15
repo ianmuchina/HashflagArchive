@@ -143594,5 +143594,17 @@
 			"ドラクエウォーク",
 			"ドラゴンクエストウォーク"
 		]
+	},
+	"Charter_of_Makkah_Sep_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Charter_of_Makkah_Sep_2023/Charter_of_Makkah_Sep_2023.png",
+		"startingTimestampMs": 1694811600000,
+		"endingTimestampMs": 1702674000000,
+		"hashTags": [
+			"chartemecque",
+			"charterofmakkah",
+			"piagammakkah",
+			"میثاق_مکہ_مکرمہ",
+			"وثيقة_مكة_المكرمة"
+		]
 	}
 }
