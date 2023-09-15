@@ -143526,5 +143526,25 @@
 			"promosalmango",
 			"unmango"
 		]
+	},
+	"KidCudi23V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KidCudi23V2/KidCudi23V2.png",
+		"startingTimestampMs": 1694750400000,
+		"endingTimestampMs": 1701392400000,
+		"hashTags": [
+			"insano",
+			"kidcudi",
+			"moonman"
+		]
+	},
+	"MadisonBeer23": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MadisonBeer23/MadisonBeer23.png",
+		"startingTimestampMs": 1694750400000,
+		"endingTimestampMs": 1701910800000,
+		"hashTags": [
+			"madisonbeer",
+			"sbsoutnow",
+			"silencebetweensongs"
+		]
 	}
 }

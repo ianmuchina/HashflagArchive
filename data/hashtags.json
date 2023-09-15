@@ -29966,7 +29966,8 @@
 	],
 	"kidcudi": [
 		"KidCudi_2020",
-		"Netflix_Entergalactic_Sept_2022"
+		"Netflix_Entergalactic_Sept_2022",
+		"KidCudi23V2"
 	],
 	"kidi": [
 		"Kidi_4Play_Sept_2022"
@@ -34614,7 +34615,8 @@
 		"Manifest_MTTU_Album_2021"
 	],
 	"madisonbeer": [
-		"MadisonBeer_Feb_2021"
+		"MadisonBeer_Feb_2021",
+		"MadisonBeer23"
 	],
 	"madisonbeerlifesupport": [
 		"MadisonBeer_Feb_2021"
@@ -99270,5 +99272,17 @@
 	],
 	"unmango": [
 		"Naranja_X_Smartes_2023"
+	],
+	"insano": [
+		"KidCudi23V2"
+	],
+	"moonman": [
+		"KidCudi23V2"
+	],
+	"sbsoutnow": [
+		"MadisonBeer23"
+	],
+	"silencebetweensongs": [
+		"MadisonBeer23"
 	]
 }
