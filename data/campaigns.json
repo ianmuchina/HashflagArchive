@@ -143618,5 +143618,24 @@
 			"underdogpickem",
 			"underdogpicks"
 		]
+	},
+	"Lionsgate_Sept_2023_UK_Hashmoji_AdditionalHashtags_V1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_Sept_2023_UK_Hashmoji_AdditionalHashtags_V1/Lionsgate_Sept_2023_UK_Hashmoji_AdditionalHashtags_V1.png",
+		"startingTimestampMs": 1694818800000,
+		"endingTimestampMs": 1702594740000,
+		"hashTags": [
+			"lionsgateplus",
+			"outlander",
+			"poweruniverse",
+			"thegreat"
+		]
+	},
+	"NFL_Sunday_Ticket_Youtube_pre": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Sunday_Ticket_Youtube_pre/NFL_Sunday_Ticket_Youtube_pre.png",
+		"startingTimestampMs": 1694736000000,
+		"endingTimestampMs": 1694847540000,
+		"hashTags": [
+			"sundayticket"
+		]
 	}
 }
