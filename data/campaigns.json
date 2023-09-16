@@ -143653,5 +143653,17 @@
 		"hashTags": [
 			"trollsbandtogether"
 		]
+	},
+	"DQWALK_Summer_2023_Emoji_After_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DQWALK_Summer_2023_Emoji_After_v2/DQWALK_Summer_2023_Emoji_After_v2.png",
+		"startingTimestampMs": 1694876400000,
+		"endingTimestampMs": 1702306740000,
+		"hashTags": [
+			"dqウォーク",
+			"dqウォーク4周年",
+			"ドラクエウォーク",
+			"ドラクエウォーク4周年",
+			"ドラゴンクエストウォーク"
+		]
 	}
 }
