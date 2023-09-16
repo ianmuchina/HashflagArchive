@@ -99085,7 +99085,8 @@
 	"sundayticket": [
 		"YoutubeTV_Hashfetti",
 		"YoutubeTV_SundayTicket_postHashfetti",
-		"NFL_Sunday_Ticket_Youtube_pre"
+		"NFL_Sunday_Ticket_Youtube_pre",
+		"NFL_Sunday_Ticket_Youtube_during"
 	],
 	"youtubetv": [
 		"YoutubeTV_NFLSundayTicket_2023"
@@ -99241,7 +99242,8 @@
 	],
 	"trollsbandtogether": [
 		"Trolls_All_2023_TrollsBandTogether_PRE",
-		"Trolls_All_2023_TrollsBandTogether_hashfetti"
+		"Trolls_All_2023_TrollsBandTogether_hashfetti",
+		"Trolls_All_2023_TrollsBandTogether_post"
 	],
 	"드림웍스_트롤밴드투게더": [
 		"Trolls_All_2023_Hashmoji_only"

@@ -143637,5 +143637,21 @@
 		"hashTags": [
 			"sundayticket"
 		]
+	},
+	"NFL_Sunday_Ticket_Youtube_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Sunday_Ticket_Youtube_during/NFL_Sunday_Ticket_Youtube_during.png",
+		"startingTimestampMs": 1694847600000,
+		"endingTimestampMs": 1694933940000,
+		"hashTags": [
+			"sundayticket"
+		]
+	},
+	"Trolls_All_2023_TrollsBandTogether_post": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Trolls_All_2023_TrollsBandTogether_post/Trolls_All_2023_TrollsBandTogether_post.png",
+		"startingTimestampMs": 1694847600000,
+		"endingTimestampMs": 1702537140000,
+		"hashTags": [
+			"trollsbandtogether"
+		]
 	}
 }
