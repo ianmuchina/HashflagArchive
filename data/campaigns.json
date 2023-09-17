@@ -143673,5 +143673,32 @@
 		"hashTags": [
 			"lifeuncensored"
 		]
+	},
+	"UnderdogFantasy_2023_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UnderdogFantasy_2023_During/UnderdogFantasy_2023_During.png",
+		"startingTimestampMs": 1694934000000,
+		"endingTimestampMs": 1695020340000,
+		"hashTags": [
+			"pickem",
+			"underdog",
+			"underdogpickem",
+			"underdogpicks"
+		]
+	},
+	"NFL_Sunday_Ticket_Youtube_hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Sunday_Ticket_Youtube_hashfetti/NFL_Sunday_Ticket_Youtube_hashfetti.png",
+		"startingTimestampMs": 1694934000000,
+		"endingTimestampMs": 1695020340000,
+		"hashTags": [
+			"sundayticket"
+		]
+	},
+	"UnderdogFantasy_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UnderdogFantasy_2023/UnderdogFantasy_2023.png",
+		"startingTimestampMs": 1694934000000,
+		"endingTimestampMs": 1695020340000,
+		"hashTags": [
+			"underdogfantasy"
+		]
 	}
 }
