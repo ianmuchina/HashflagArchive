@@ -143732,5 +143732,13 @@
 			"sheinfw23",
 			"sheinstyle"
 		]
+	},
+	"Aramco_SND_2023_Hashmoji_Beforev1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Aramco_SND_2023_Hashmoji_Beforev1/Aramco_SND_2023_Hashmoji_Beforev1.png",
+		"startingTimestampMs": 1694984400000,
+		"endingTimestampMs": 1695157140000,
+		"hashTags": [
+			"شواهد_العز"
+		]
 	}
 }
