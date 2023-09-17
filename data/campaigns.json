@@ -143700,5 +143700,25 @@
 		"hashTags": [
 			"underdogfantasy"
 		]
+	},
+	"Samsung_SDC_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Samsung_SDC_2023/Samsung_SDC_2023.png",
+		"startingTimestampMs": 1694962800000,
+		"endingTimestampMs": 1696690740000,
+		"hashTags": [
+			"samsung_dev",
+			"sdc2023",
+			"sdc23"
+		]
+	},
+	"Craft_Boss_Hashmoji_in_Sep_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Craft_Boss_Hashmoji_in_Sep_2023/Craft_Boss_Hashmoji_in_Sep_2023.png",
+		"startingTimestampMs": 1694962800000,
+		"endingTimestampMs": 1702997940000,
+		"hashTags": [
+			"クラフトボス",
+			"ボスと外へ",
+			"飲むって脱出"
+		]
 	}
 }

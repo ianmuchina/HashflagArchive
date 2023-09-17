@@ -49567,7 +49567,8 @@
 	"samsung_dev": [
 		"Samsung_SDC21_2021",
 		"Samsung_Electronics_SDC2022_Sept_2022",
-		"Samsung_Electronics_SDC2022_Sept_2022_v2"
+		"Samsung_Electronics_SDC2022_Sept_2022_v2",
+		"Samsung_SDC_2023"
 	],
 	"samsungevent": [
 		"Samsung_SDC21_2021",
@@ -99348,5 +99349,20 @@
 	],
 	"lifeuncensored": [
 		"Lionsgate_Sept_2023_UK_Hashmoji_LifeUncensored_AFTER_V1"
+	],
+	"sdc2023": [
+		"Samsung_SDC_2023"
+	],
+	"sdc23": [
+		"Samsung_SDC_2023"
+	],
+	"クラフトボス": [
+		"Craft_Boss_Hashmoji_in_Sep_2023"
+	],
+	"ボスと外へ": [
+		"Craft_Boss_Hashmoji_in_Sep_2023"
+	],
+	"飲むって脱出": [
+		"Craft_Boss_Hashmoji_in_Sep_2023"
 	]
 }
