@@ -143720,5 +143720,17 @@
 			"ボスと外へ",
 			"飲むって脱出"
 		]
+	},
+	"SHEIN_Sep2023_Hashmoji_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SHEIN_Sep2023_Hashmoji_Before/SHEIN_Sep2023_Hashmoji_Before.png",
+		"startingTimestampMs": 1694966400000,
+		"endingTimestampMs": 1695592740000,
+		"hashTags": [
+			"frontrowlive",
+			"shein",
+			"sheinforall",
+			"sheinfw23",
+			"sheinstyle"
+		]
 	}
 }
