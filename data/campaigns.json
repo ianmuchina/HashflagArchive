@@ -143759,5 +143759,45 @@
 			"intheair",
 			"kanebrown"
 		]
+	},
+	"BestOfVCT2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BestOfVCT2023/BestOfVCT2023.png",
+		"startingTimestampMs": 1695020400000,
+		"endingTimestampMs": 1704063600000,
+		"hashTags": [
+			"bestofvct"
+		]
+	},
+	"Tubi_Sept_Brand_2023_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Tubi_Sept_Brand_2023_Hashmoji/Tubi_Sept_Brand_2023_Hashmoji.png",
+		"startingTimestampMs": 1695020400000,
+		"endingTimestampMs": 1702796400000,
+		"hashTags": [
+			"findyourrabbithole",
+			"justkeepsgoing",
+			"tubi",
+			"tubibelike",
+			"watchontubi"
+		]
+	},
+	"UnderdogFantasy_2023_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UnderdogFantasy_2023_After/UnderdogFantasy_2023_After.png",
+		"startingTimestampMs": 1695020400000,
+		"endingTimestampMs": 1701003600000,
+		"hashTags": [
+			"pickem",
+			"underdog",
+			"underdogfantasy",
+			"underdogpickem",
+			"underdogpicks"
+		]
+	},
+	"NFL_Sunday_Ticket_Youtube_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFL_Sunday_Ticket_Youtube_after/NFL_Sunday_Ticket_Youtube_after.png",
+		"startingTimestampMs": 1695020400000,
+		"endingTimestampMs": 1702969140000,
+		"hashTags": [
+			"sundayticket"
+		]
 	}
 }
