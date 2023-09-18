@@ -143749,5 +143749,15 @@
 			"cadburyfc",
 			"tastetheaction"
 		]
+	},
+	"KaneBrownInTheair": {
+		"assetUrl": "https://abs.twimg.com/hashflags/KaneBrownInTheair/KaneBrownInTheair.png",
+		"startingTimestampMs": 1695009600000,
+		"endingTimestampMs": 1702029600000,
+		"hashTags": [
+			"icanfeelit",
+			"intheair",
+			"kanebrown"
+		]
 	}
 }
