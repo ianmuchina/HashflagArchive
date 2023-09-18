@@ -143811,5 +143811,14 @@
 			"sheinfw23",
 			"sheinstyle"
 		]
+	},
+	"LynkCo09_Hashmoji_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LynkCo09_Hashmoji_During/LynkCo09_Hashmoji_During.png",
+		"startingTimestampMs": 1695067200000,
+		"endingTimestampMs": 1695153540000,
+		"hashTags": [
+			"lynkcomiddleeast",
+			"voyageforlegend"
+		]
 	}
 }
