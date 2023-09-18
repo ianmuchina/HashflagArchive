@@ -143820,5 +143820,17 @@
 			"lynkcomiddleeast",
 			"voyageforlegend"
 		]
+	},
+	"XBoxJP_Tokyo_GameShow": {
+		"assetUrl": "https://abs.twimg.com/hashflags/XBoxJP_Tokyo_GameShow/XBoxJP_Tokyo_GameShow.png",
+		"startingTimestampMs": 1694995200000,
+		"endingTimestampMs": 1702857600000,
+		"hashTags": [
+			"xboxjapan",
+			"xboxjp",
+			"xboxtgs",
+			"xboxtokyogameshow",
+			"xbox東京ゲームショウ"
+		]
 	}
 }
