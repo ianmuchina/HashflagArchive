@@ -143799,5 +143799,17 @@
 		"hashTags": [
 			"sundayticket"
 		]
+	},
+	"SHEIN_Sep2023_Hashmoji_Beforev1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SHEIN_Sep2023_Hashmoji_Beforev1/SHEIN_Sep2023_Hashmoji_Beforev1.png",
+		"startingTimestampMs": 1694966400000,
+		"endingTimestampMs": 1695589140000,
+		"hashTags": [
+			"frontrowlive",
+			"shein",
+			"sheinforall",
+			"sheinfw23",
+			"sheinstyle"
+		]
 	}
 }
