@@ -143854,5 +143854,21 @@
 			"sdc2023",
 			"sdc23"
 		]
+	},
+	"Esports_Awards_2023_OneHashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Esports_Awards_2023_OneHashtag/Esports_Awards_2023_OneHashtag.png",
+		"startingTimestampMs": 1695106800000,
+		"endingTimestampMs": 1701673200000,
+		"hashTags": [
+			"esportsawards2023"
+		]
+	},
+	"Intel_Innovation_2023_Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Intel_Innovation_2023_Hashfetti/Intel_Innovation_2023_Hashfetti.png",
+		"startingTimestampMs": 1695106800000,
+		"endingTimestampMs": 1695193140000,
+		"hashTags": [
+			"intelinnovation"
+		]
 	}
 }
