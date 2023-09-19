@@ -22956,7 +22956,8 @@
 	],
 	"grandezademéxico": [
 		"EstadodeGuanajuato2021",
-		"Guanajuato_ContigoSi_May_2022"
+		"Guanajuato_ContigoSi_May_2022",
+		"Gobierno_GTO_200_years_2023"
 	],
 	"grandinquisiteur": [
 		"Disneyplus_Obi_Wan_Kenobi_Grand_Inquisitor_2022_v2"
@@ -23276,7 +23277,8 @@
 	],
 	"gto": [
 		"Guanajuato_ContigoSi_May_2022",
-		"GobiernoGTO_2022"
+		"GobiernoGTO_2022",
+		"Gobierno_GTO_200_years_2023"
 	],
 	"gtoviveengrande": [
 		"EstadodeGuanajuato_2020"
@@ -23294,7 +23296,8 @@
 	"guanajuato": [
 		"EstadodeGuanajuato2021",
 		"Guanajuato_ContigoSi_May_2022",
-		"GobiernoGTO_2022"
+		"GobiernoGTO_2022",
+		"Gobierno_GTO_200_years_2023"
 	],
 	"guapdad4000": [
 		"Guapdad_4000_2021"
@@ -49569,7 +49572,8 @@
 		"Samsung_SDC21_2021",
 		"Samsung_Electronics_SDC2022_Sept_2022",
 		"Samsung_Electronics_SDC2022_Sept_2022_v2",
-		"Samsung_SDC_2023"
+		"Samsung_SDC_2023",
+		"Samsung_SDC_2023_Hashmoji"
 	],
 	"samsungevent": [
 		"Samsung_SDC21_2021",
@@ -62869,7 +62873,8 @@
 	"vivegrandeshistorias": [
 		"EstadodeGuanajuato_2020",
 		"EstadodeGuanajuato2021",
-		"GobiernoGTO_2022"
+		"GobiernoGTO_2022",
+		"Gobierno_GTO_200_years_2023"
 	],
 	"vivelavodka": [
 		"Grey_Goose_Dec_2021"
@@ -99364,10 +99369,12 @@
 		"Lionsgate_Sept_2023_UK_Hashmoji_LifeUncensored_AFTER_V1"
 	],
 	"sdc2023": [
-		"Samsung_SDC_2023"
+		"Samsung_SDC_2023",
+		"Samsung_SDC_2023_Hashmoji"
 	],
 	"sdc23": [
-		"Samsung_SDC_2023"
+		"Samsung_SDC_2023",
+		"Samsung_SDC_2023_Hashmoji"
 	],
 	"クラフトボス": [
 		"Craft_Boss_Hashmoji_in_Sep_2023"
@@ -99437,5 +99444,8 @@
 	],
 	"xbox東京ゲームショウ": [
 		"XBoxJP_Tokyo_GameShow"
+	],
+	"contigosiempre": [
+		"Gobierno_GTO_200_years_2023"
 	]
 }

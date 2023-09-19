@@ -143832,5 +143832,27 @@
 			"xboxtokyogameshow",
 			"xbox東京ゲームショウ"
 		]
+	},
+	"Gobierno_GTO_200_years_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Gobierno_GTO_200_years_2023/Gobierno_GTO_200_years_2023.png",
+		"startingTimestampMs": 1695084000000,
+		"endingTimestampMs": 1702490340000,
+		"hashTags": [
+			"contigosiempre",
+			"grandezademéxico",
+			"gto",
+			"guanajuato",
+			"vivegrandeshistorias"
+		]
+	},
+	"Samsung_SDC_2023_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Samsung_SDC_2023_Hashmoji/Samsung_SDC_2023_Hashmoji.png",
+		"startingTimestampMs": 1695085500000,
+		"endingTimestampMs": 1696777140000,
+		"hashTags": [
+			"samsung_dev",
+			"sdc2023",
+			"sdc23"
+		]
 	}
 }
