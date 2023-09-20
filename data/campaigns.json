@@ -143881,5 +143881,13 @@
 			"estarcercallegarlejos",
 			"estoesvolar"
 		]
+	},
+	"Intel_Innovation_2023_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Intel_Innovation_2023_After/Intel_Innovation_2023_After.png",
+		"startingTimestampMs": 1695193200000,
+		"endingTimestampMs": 1696143540000,
+		"hashTags": [
+			"intelinnovation"
+		]
 	}
 }
