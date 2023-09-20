@@ -143870,5 +143870,16 @@
 		"hashTags": [
 			"intelinnovation"
 		]
+	},
+	"Aeromexico_Rebranding_Hashmoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Aeromexico_Rebranding_Hashmoji_2023/Aeromexico_Rebranding_Hashmoji_2023.png",
+		"startingTimestampMs": 1695178800000,
+		"endingTimestampMs": 1697770740000,
+		"hashTags": [
+			"aeromexico",
+			"aeroméxico",
+			"estarcercallegarlejos",
+			"estoesvolar"
+		]
 	}
 }
