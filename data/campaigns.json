@@ -143889,5 +143889,28 @@
 		"hashTags": [
 			"intelinnovation"
 		]
+	},
+	"FateSR_Launch_Hashtag_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FateSR_Launch_Hashtag_2023/FateSR_Launch_Hashtag_2023.png",
+		"startingTimestampMs": 1695222000000,
+		"endingTimestampMs": 1703257140000,
+		"hashTags": [
+			"fatesr",
+			"fatesrもうすぐ発売",
+			"fatesr発売中",
+			"サムライレムナント",
+			"江戸で聖杯戦争"
+		]
+	},
+	"elixir_TW_TRP_2023Q3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/elixir_TW_TRP_2023Q3/elixir_TW_TRP_2023Q3.png",
+		"startingTimestampMs": 1695222000000,
+		"endingTimestampMs": 1703084340000,
+		"hashTags": [
+			"シワ改善は完成形へ",
+			"レチノパワー",
+			"レチノパワーリンクルクリーム",
+			"純粋レチノール"
+		]
 	}
 }
