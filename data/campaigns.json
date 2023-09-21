@@ -143953,5 +143953,16 @@
 			"sleeperfantasy",
 			"sleeperpicks"
 		]
+	},
+	"Forza_Pre-Launch_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Forza_Pre-Launch_Emoji/Forza_Pre-Launch_Emoji.png",
+		"startingTimestampMs": 1695279600000,
+		"endingTimestampMs": 1703055540000,
+		"hashTags": [
+			"forza",
+			"forzahorizon",
+			"forzamotorsport",
+			"seeyouatthestartingline"
+		]
 	}
 }

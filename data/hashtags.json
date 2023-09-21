@@ -20144,10 +20144,12 @@
 	"forza": [
 		"XboxWoodstock_2021",
 		"ForzaHorizon5_2021_v2",
-		"Xbox_Forza_Jun_2022"
+		"Xbox_Forza_Jun_2022",
+		"Forza_Pre-Launch_Emoji"
 	],
 	"forzahorizon": [
-		"ForzaHorizon_Go_2021"
+		"ForzaHorizon_Go_2021",
+		"Forza_Pre-Launch_Emoji"
 	],
 	"forzahorizon5": [
 		"ForzaHorizon5_Go_2021",
@@ -20156,7 +20158,8 @@
 		"Xbox_Forza_Jun_2022"
 	],
 	"forzamotorsport": [
-		"Xbox_Forza_Jun_2022"
+		"Xbox_Forza_Jun_2022",
+		"Forza_Pre-Launch_Emoji"
 	],
 	"forçaclone99": [
 		"Disney_TheBadBatch_Helmet_April_2021",
@@ -99524,5 +99527,8 @@
 	],
 	"sleeperpicks": [
 		"Sleeper_DFS_Phase2_2023"
+	],
+	"seeyouatthestartingline": [
+		"Forza_Pre-Launch_Emoji"
 	]
 }
