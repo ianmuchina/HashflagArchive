@@ -98131,7 +98131,8 @@
 	"sleeperapp": [
 		"Sleeper_DFSKickOff_2023_Before",
 		"Sleeper_DFSKickOff_2023_Hashfetti",
-		"Sleeper_DFSKickOff_2023_After"
+		"Sleeper_DFSKickOff_2023_After",
+		"Sleeper_DFS_Phase2_2023"
 	],
 	"旅行いくなら楽天トラベル": [
 		"RakutenTravel_Q32023_v2"
@@ -98226,7 +98227,8 @@
 		"BrandedFeatures_AccentTest_818"
 	],
 	"sleeperfantasy": [
-		"Sleeper_DFSKickoff_US_CustomLike"
+		"Sleeper_DFSKickoff_US_CustomLike",
+		"Sleeper_DFS_Phase2_2023"
 	],
 	"アイナナ８周年": [
 		"BNO_iD7Mng_Ogami_AnniversaryEvent_2023Aug_Branded_Hashtag"
@@ -99516,5 +99518,11 @@
 	],
 	"thegoldenbachelor": [
 		"Disney_ABC_GoldenBachelor_Hashmoji_US"
+	],
+	"sleeperdfs": [
+		"Sleeper_DFS_Phase2_2023"
+	],
+	"sleeperpicks": [
+		"Sleeper_DFS_Phase2_2023"
 	]
 }

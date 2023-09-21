@@ -143942,5 +143942,16 @@
 			"teamgerry",
 			"thegoldenbachelor"
 		]
+	},
+	"Sleeper_DFS_Phase2_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sleeper_DFS_Phase2_2023/Sleeper_DFS_Phase2_2023.png",
+		"startingTimestampMs": 1695267000000,
+		"endingTimestampMs": 1703203140000,
+		"hashTags": [
+			"sleeperapp",
+			"sleeperdfs",
+			"sleeperfantasy",
+			"sleeperpicks"
+		]
 	}
 }
