@@ -143932,5 +143932,15 @@
 		"hashTags": [
 			"شواهد_العز"
 		]
+	},
+	"Disney_ABC_GoldenBachelor_Hashmoji_US": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_ABC_GoldenBachelor_Hashmoji_US/Disney_ABC_GoldenBachelor_Hashmoji_US.png",
+		"startingTimestampMs": 1695268800000,
+		"endingTimestampMs": 1701489540000,
+		"hashTags": [
+			"goldenbachelor",
+			"teamgerry",
+			"thegoldenbachelor"
+		]
 	}
 }
