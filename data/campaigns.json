@@ -62435,7 +62435,9 @@
 			"Lazada1212TH",
 			"Lazada1212THAllOutYearEndSale",
 			"lazada1212th",
-			"lazada1212thalloutyearendsale"
+			"lazada1212thalloutyearendsale",
+			"lazflashextra",
+			"lazflashช่วยเปย์"
 		]
 	},
 	"LazadaTH_emoji_3": {
@@ -62446,7 +62448,10 @@
 			"LazadaTH",
 			"LazadaThailand",
 			"ลาซาด้า",
-			"lazadathailand"
+			"lazadathailand",
+			"lazbeautyth",
+			"lazbeautyสวยครบช้อปล้นช้อยส์",
+			"สวยครบช้อปล้นช้อยส์"
 		]
 	},
 	"LazadaTH_emoji_4": {
@@ -62457,7 +62462,12 @@
 			"AddToCartAddToLife",
 			"PurchaseHistory",
 			"ช้อปสิ่งที่ชอบเพิ่มสิ่งที่ใช้ให้ชีวิต",
-			"purchasehistory"
+			"purchasehistory",
+			"lazlook",
+			"lazlookth",
+			"lazlookwednesday",
+			"styledwithlazlook",
+			"สไตล์ดีราคาโดนที่lazlook"
 		]
 	},
 	"LcK_2021_Teams_DK": {
@@ -143995,6 +144005,18 @@
 			"スローン大提督",
 			"쓰론",
 			"쓰론대제독"
+		]
+	},
+	"LazadaTH_Emoji_1_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_Emoji_1_2023/LazadaTH_Emoji_1_2023.png",
+		"startingTimestampMs": 1695315600000,
+		"endingTimestampMs": 1703264400000,
+		"hashTags": [
+			"addtocartaddtolife",
+			"lazadath",
+			"reviewlazada",
+			"รีวิวลาซาด้า",
+			"ลาซาด้า"
 		]
 	}
 }
