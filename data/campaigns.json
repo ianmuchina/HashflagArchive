@@ -144068,5 +144068,14 @@
 			"styledwithlazlook",
 			"สไตล์ดีราคาโดนที่lazlook"
 		]
+	},
+	"LazadaTH_emoji_2_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_emoji_2_2023/LazadaTH_emoji_2_2023.png",
+		"startingTimestampMs": 1695366000000,
+		"endingTimestampMs": 1703134800000,
+		"hashTags": [
+			"lazflashextra",
+			"lazflashช่วยเปย์"
+		]
 	}
 }
