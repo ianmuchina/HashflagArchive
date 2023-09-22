@@ -144018,5 +144018,15 @@
 			"รีวิวลาซาด้า",
 			"ลาซาด้า"
 		]
+	},
+	"BristonMaroney": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BristonMaroney/BristonMaroney.png",
+		"startingTimestampMs": 1695355200000,
+		"endingTimestampMs": 1699405200000,
+		"hashTags": [
+			"bristonmaroney",
+			"chaosparty",
+			"ultrapture"
+		]
 	}
 }
