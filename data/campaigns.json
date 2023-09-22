@@ -144046,5 +144046,27 @@
 			"expendables4",
 			"theexpendables"
 		]
+	},
+	"LazadaTH_emoji_3_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_emoji_3_2023/LazadaTH_emoji_3_2023.png",
+		"startingTimestampMs": 1695315600000,
+		"endingTimestampMs": 1703134800000,
+		"hashTags": [
+			"lazbeautyth",
+			"lazbeautyสวยครบช้อปล้นช้อยส์",
+			"สวยครบช้อปล้นช้อยส์"
+		]
+	},
+	"LazadaTH_emoji_4_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LazadaTH_emoji_4_2023/LazadaTH_emoji_4_2023.png",
+		"startingTimestampMs": 1695315600000,
+		"endingTimestampMs": 1703134800000,
+		"hashTags": [
+			"lazlook",
+			"lazlookth",
+			"lazlookwednesday",
+			"styledwithlazlook",
+			"สไตล์ดีราคาโดนที่lazlook"
+		]
 	}
 }
