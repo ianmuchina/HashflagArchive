@@ -144028,5 +144028,23 @@
 			"chaosparty",
 			"ultrapture"
 		]
+	},
+	"Lionsgate_Expendables4_2023_Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_Expendables4_2023_Hashfetti/Lionsgate_Expendables4_2023_Hashfetti.png",
+		"startingTimestampMs": 1695366000000,
+		"endingTimestampMs": 1695452340000,
+		"hashTags": [
+			"expend4bles"
+		]
+	},
+	"Lionsgate_Expendables4_2023_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_Expendables4_2023_During/Lionsgate_Expendables4_2023_During.png",
+		"startingTimestampMs": 1695366000000,
+		"endingTimestampMs": 1695452340000,
+		"hashTags": [
+			"expendables",
+			"expendables4",
+			"theexpendables"
+		]
 	}
 }
