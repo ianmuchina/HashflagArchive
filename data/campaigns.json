@@ -144118,5 +144118,14 @@
 			"poweruniverse",
 			"thegreat"
 		]
+	},
+	"SkyBet_AccaFreeze_2023_BEFORE": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SkyBet_AccaFreeze_2023_BEFORE/SkyBet_AccaFreeze_2023_BEFORE.png",
+		"startingTimestampMs": 1695427200000,
+		"endingTimestampMs": 1696031940000,
+		"hashTags": [
+			"accafreeze",
+			"skybetaccafreeze"
+		]
 	}
 }
