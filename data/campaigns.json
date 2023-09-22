@@ -144077,5 +144077,13 @@
 			"lazflashextra",
 			"lazflashช่วยเปย์"
 		]
+	},
+	"UNIQLO_2023_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UNIQLO_2023_Hashmoji/UNIQLO_2023_Hashmoji.png",
+		"startingTimestampMs": 1695380400000,
+		"endingTimestampMs": 1697972340000,
+		"hashTags": [
+			"ユニクロツーリズム"
+		]
 	}
 }
