@@ -57397,7 +57397,8 @@
 	],
 	"thegreat": [
 		"Hulu_TheGreat2020",
-		"Lionsgate_Sept_2023_UK_Hashmoji_AdditionalHashtags_V1"
+		"Lionsgate_Sept_2023_UK_Hashmoji_AdditionalHashtags_V1",
+		"Lionsgate_Sept_2023_UK_Hashmojis_v2"
 	],
 	"thegreatcornholio": [
 		"Paramountplus_Beavis_and_Butt-head_Aug_2022"
@@ -99383,10 +99384,12 @@
 		"Charter_of_Makkah_Sep_2023"
 	],
 	"lionsgateplus": [
-		"Lionsgate_Sept_2023_UK_Hashmoji_AdditionalHashtags_V1"
+		"Lionsgate_Sept_2023_UK_Hashmoji_AdditionalHashtags_V1",
+		"Lionsgate_Sept_2023_UK_Hashmojis_v2"
 	],
 	"poweruniverse": [
-		"Lionsgate_Sept_2023_UK_Hashmoji_AdditionalHashtags_V1"
+		"Lionsgate_Sept_2023_UK_Hashmoji_AdditionalHashtags_V1",
+		"Lionsgate_Sept_2023_UK_Hashmojis_v2"
 	],
 	"lifeuncensored": [
 		"Lionsgate_Sept_2023_UK_Hashmoji_LifeUncensored_AFTER_V1"
@@ -99657,5 +99660,8 @@
 	],
 	"روح_العثيم": [
 		"SA00193087_Othaimmarkets_Al_Othaim_2023"
+	],
+	"outlander\"\"lifeuncensored": [
+		"Lionsgate_Sept_2023_UK_Hashmojis_v2"
 	]
 }
