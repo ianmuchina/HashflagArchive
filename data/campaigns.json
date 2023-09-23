@@ -144127,5 +144127,16 @@
 			"accafreeze",
 			"skybetaccafreeze"
 		]
+	},
+	"Lionsgate_Expendables4_2023_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_Expendables4_2023_After/Lionsgate_Expendables4_2023_After.png",
+		"startingTimestampMs": 1695452400000,
+		"endingTimestampMs": 1700981940000,
+		"hashTags": [
+			"expend4bles",
+			"expendables",
+			"expendables4",
+			"theexpendables"
+		]
 	}
 }
