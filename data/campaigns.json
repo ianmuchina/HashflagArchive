@@ -144138,5 +144138,13 @@
 			"expendables4",
 			"theexpendables"
 		]
+	},
+	"Aramco_SND_2023_Hashmoji_After_2nd": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Aramco_SND_2023_Hashmoji_After_2nd/Aramco_SND_2023_Hashmoji_After_2nd.png",
+		"startingTimestampMs": 1695502860000,
+		"endingTimestampMs": 1696107600000,
+		"hashTags": [
+			"شواهد_العز"
+		]
 	}
 }
