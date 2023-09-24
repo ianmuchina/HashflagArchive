@@ -144171,5 +144171,15 @@
 		"hashTags": [
 			"nxtnomercy"
 		]
+	},
+	"SHEIN_Sep2023_Hashmoji_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SHEIN_Sep2023_Hashmoji_During/SHEIN_Sep2023_Hashmoji_During.png",
+		"startingTimestampMs": 1695592800000,
+		"endingTimestampMs": 1695679200000,
+		"hashTags": [
+			"shein",
+			"sheinforall",
+			"sheinstyle"
+		]
 	}
 }
