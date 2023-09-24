@@ -7049,7 +7049,8 @@
 		"AE_Bobby_Brown_Docu-Series_May_2022"
 	],
 	"bip": [
-		"ABC_Network_Bachelor_In_Paradise_S8_Sept_2022"
+		"ABC_Network_Bachelor_In_Paradise_S8_Sept_2022",
+		"Disney_ABC_BIP_S9_Ent_USOnly"
 	],
 	"bip7": [
 		"BachelorInParadise_7_2021"
@@ -99676,5 +99677,8 @@
 	],
 	"skybetaccafreeze": [
 		"SkyBet_AccaFreeze_2023_BEFORE"
+	],
+	"nxtnomercy": [
+		"NXT_No_Mercy_2023"
 	]
 }

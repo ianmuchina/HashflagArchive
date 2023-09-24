@@ -144155,5 +144155,21 @@
 			"bachelorinparadise",
 			"bachelorinparadiseabc"
 		]
+	},
+	"Disney_ABC_BIP_S9_Ent_USOnly": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_ABC_BIP_S9_Ent_USOnly/Disney_ABC_BIP_S9_Ent_USOnly.png",
+		"startingTimestampMs": 1695528060000,
+		"endingTimestampMs": 1703217540000,
+		"hashTags": [
+			"bip"
+		]
+	},
+	"NXT_No_Mercy_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NXT_No_Mercy_2023/NXT_No_Mercy_2023.png",
+		"startingTimestampMs": 1695538800000,
+		"endingTimestampMs": 1696201200000,
+		"hashTags": [
+			"nxtnomercy"
+		]
 	}
 }
