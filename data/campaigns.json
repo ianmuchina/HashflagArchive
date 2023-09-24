@@ -144146,5 +144146,14 @@
 		"hashTags": [
 			"شواهد_العز"
 		]
+	},
+	"Disney_ABC_BIP_S9_Ent_Global": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_ABC_BIP_S9_Ent_Global/Disney_ABC_BIP_S9_Ent_Global.png",
+		"startingTimestampMs": 1695528000000,
+		"endingTimestampMs": 1703217540000,
+		"hashTags": [
+			"bachelorinparadise",
+			"bachelorinparadiseabc"
+		]
 	}
 }
