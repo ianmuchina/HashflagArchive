@@ -144216,5 +144216,13 @@
 			"su2c",
 			"su2cjokes"
 		]
+	},
+	"DraftKings_Hashmoji_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DraftKings_Hashmoji_2023/DraftKings_Hashmoji_2023.png",
+		"startingTimestampMs": 1695646800000,
+		"endingTimestampMs": 1703375940000,
+		"hashTags": [
+			"draftkings"
+		]
 	}
 }
