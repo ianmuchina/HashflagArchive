@@ -144224,5 +144224,17 @@
 		"hashTags": [
 			"draftkings"
 		]
+	},
+	"SHEIN_Sep2023_Hashmoji_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SHEIN_Sep2023_Hashmoji_After/SHEIN_Sep2023_Hashmoji_After.png",
+		"startingTimestampMs": 1695679260000,
+		"endingTimestampMs": 1700236800000,
+		"hashTags": [
+			"frontrowlive",
+			"shein",
+			"sheinforall",
+			"sheinfw23",
+			"sheinstyle"
+		]
 	}
 }

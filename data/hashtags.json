@@ -51118,7 +51118,8 @@
 		"SHEIN_Ramadan_Campaign_2023_after",
 		"SHEIN_Sep2023_Hashmoji_Before",
 		"SHEIN_Sep2023_Hashmoji_Beforev1",
-		"SHEIN_Sep2023_Hashmoji_During"
+		"SHEIN_Sep2023_Hashmoji_During",
+		"SHEIN_Sep2023_Hashmoji_After"
 	],
 	"sheineid": [
 		"SHEINX_Eid_Jun_2022",
@@ -51131,7 +51132,8 @@
 		"SHEIN_FW_Sept_2022_v2",
 		"SHEIN_Sep2023_Hashmoji_Before",
 		"SHEIN_Sep2023_Hashmoji_Beforev1",
-		"SHEIN_Sep2023_Hashmoji_During"
+		"SHEIN_Sep2023_Hashmoji_During",
+		"SHEIN_Sep2023_Hashmoji_After"
 	],
 	"sheinfw21": [
 		"SHEINX100KCHALLENGE_2021"
@@ -99425,16 +99427,19 @@
 	],
 	"frontrowlive": [
 		"SHEIN_Sep2023_Hashmoji_Before",
-		"SHEIN_Sep2023_Hashmoji_Beforev1"
+		"SHEIN_Sep2023_Hashmoji_Beforev1",
+		"SHEIN_Sep2023_Hashmoji_After"
 	],
 	"sheinfw23": [
 		"SHEIN_Sep2023_Hashmoji_Before",
-		"SHEIN_Sep2023_Hashmoji_Beforev1"
+		"SHEIN_Sep2023_Hashmoji_Beforev1",
+		"SHEIN_Sep2023_Hashmoji_After"
 	],
 	"sheinstyle": [
 		"SHEIN_Sep2023_Hashmoji_Before",
 		"SHEIN_Sep2023_Hashmoji_Beforev1",
-		"SHEIN_Sep2023_Hashmoji_During"
+		"SHEIN_Sep2023_Hashmoji_During",
+		"SHEIN_Sep2023_Hashmoji_After"
 	],
 	"شواهد_العز": [
 		"Aramco_SND_2023_Hashmoji_Beforev1",
