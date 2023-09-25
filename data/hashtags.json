@@ -24997,7 +24997,8 @@
 	"hiphopawards": [
 		"BET_HipHopAwards_2020",
 		"BET_HipHopAwards_2021",
-		"BET_Hip_Hop_Awards_2022"
+		"BET_Hip_Hop_Awards_2022",
+		"BET_HipHopAwards_2023_US_Ent"
 	],
 	"hiphopbirthday": [
 		"HipHop_Boombox_2021_V3",
@@ -99683,5 +99684,8 @@
 	],
 	"nxtnomercy": [
 		"NXT_No_Mercy_2023"
+	],
+	"bet": [
+		"BET_HipHopAwards_2023_US_Ent"
 	]
 }

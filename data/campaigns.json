@@ -144181,5 +144181,14 @@
 			"sheinforall",
 			"sheinstyle"
 		]
+	},
+	"BET_HipHopAwards_2023_US_Ent": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BET_HipHopAwards_2023_US_Ent/BET_HipHopAwards_2023_US_Ent.png",
+		"startingTimestampMs": 1695614400000,
+		"endingTimestampMs": 1696996740000,
+		"hashTags": [
+			"bet",
+			"hiphopawards"
+		]
 	}
 }
