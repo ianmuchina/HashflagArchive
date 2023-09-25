@@ -144206,5 +144206,15 @@
 		"hashTags": [
 			"worlds2023"
 		]
+	},
+	"Stand_Up_to_Cancer_Jokes_2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Stand_Up_to_Cancer_Jokes_2023/Stand_Up_to_Cancer_Jokes_2023.png",
+		"startingTimestampMs": 1695638940000,
+		"endingTimestampMs": 1700045340000,
+		"hashTags": [
+			"standuptocancer",
+			"su2c",
+			"su2cjokes"
+		]
 	}
 }
