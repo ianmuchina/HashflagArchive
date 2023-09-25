@@ -144190,5 +144190,21 @@
 			"bet",
 			"hiphopawards"
 		]
+	},
+	"HaloWorldChampsEmoji2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HaloWorldChampsEmoji2023/HaloWorldChampsEmoji2023.png",
+		"startingTimestampMs": 1695625200000,
+		"endingTimestampMs": 1697842800000,
+		"hashTags": [
+			"halowc"
+		]
+	},
+	"LoL_Worlds_2023_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LoL_Worlds_2023_Emoji/LoL_Worlds_2023_Emoji.png",
+		"startingTimestampMs": 1695625200000,
+		"endingTimestampMs": 1701471600000,
+		"hashTags": [
+			"worlds2023"
+		]
 	}
 }
