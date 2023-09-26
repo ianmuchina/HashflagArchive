@@ -78266,7 +78266,8 @@
 		"Shinsei_Financial_Co_Ltd_Nov_2022",
 		"JP_XmasBox2022_Shinsei_Financial_Co_Ltd_Emoji",
 		"Shinsei_Financial_Co_Ltd_2023_before",
-		"Shinsei_Financial_Co_Ltd_2023_after_v2"
+		"Shinsei_Financial_Co_Ltd_2023_after_v2",
+		"Shinsei_Financial_Co_Ltd_hashmoji_v3"
 	],
 	"レイアオーガナ": [
 		"DisneyPlus_ObiWan_June_2022_Leia_Japan"
@@ -78281,7 +78282,8 @@
 		"JP_XmasBox2022_Shinsei_Financial_Co_Ltd_Emoji",
 		"Shinsei_Financial_Co_Ltd_2023_before",
 		"Shinsei_Financial_Co_Ltd_2023_during",
-		"Shinsei_Financial_Co_Ltd_2023_after_v2"
+		"Shinsei_Financial_Co_Ltd_2023_after_v2",
+		"Shinsei_Financial_Co_Ltd_hashmoji_v3"
 	],
 	"レイザークレスト": [
 		"Disney_Mandalorian_S2_RazorCrest"
@@ -93753,12 +93755,14 @@
 	"レイマル": [
 		"Shinsei_Financial_Co_Ltd_2023_before",
 		"Shinsei_Financial_Co_Ltd_2023_during",
-		"Shinsei_Financial_Co_Ltd_2023_after_v2"
+		"Shinsei_Financial_Co_Ltd_2023_after_v2",
+		"Shinsei_Financial_Co_Ltd_hashmoji_v3"
 	],
 	"レトロ千鳥": [
 		"Shinsei_Financial_Co_Ltd_2023_before",
 		"Shinsei_Financial_Co_Ltd_2023_during",
-		"Shinsei_Financial_Co_Ltd_2023_after_v2"
+		"Shinsei_Financial_Co_Ltd_2023_after_v2",
+		"Shinsei_Financial_Co_Ltd_hashmoji_v3"
 	],
 	"千鳥のレイクシアター": [
 		"Shinsei_Financial_Co_Ltd_2023_before",
@@ -99809,5 +99813,8 @@
 	],
 	"エズラブリッジャー": [
 		"DisneyPlus_Ahsoka_Ezra_2023_R1"
+	],
+	"揺レ揺レハンモック": [
+		"Shinsei_Financial_Co_Ltd_hashmoji_v3"
 	]
 }
