@@ -144236,5 +144236,26 @@
 			"sheinfw23",
 			"sheinstyle"
 		]
+	},
+	"BreedersCup_2023_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BreedersCup_2023_Before/BreedersCup_2023_Before.png",
+		"startingTimestampMs": 1695600000000,
+		"endingTimestampMs": 1699034340000,
+		"hashTags": [
+			"bc23",
+			"breederscup"
+		]
+	},
+	"Bomtoon_LowTideinTwilight_Sep2023": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Bomtoon_LowTideinTwilight_Sep2023/Bomtoon_LowTideinTwilight_Sep2023.png",
+		"startingTimestampMs": 1695693600000,
+		"endingTimestampMs": 1698199200000,
+		"hashTags": [
+			"lowtideintwilight",
+			"ทะเลรัตติกาล",
+			"水邊之夜",
+			"물가의밤",
+			"여태주"
+		]
 	}
 }
