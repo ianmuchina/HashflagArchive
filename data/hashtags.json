@@ -22885,7 +22885,8 @@
 	],
 	"gousa": [
 		"RyderCup_2021_GoUSA",
-		"Handball_WorldCup_Egypt_2021_USA"
+		"Handball_WorldCup_Egypt_2021_USA",
+		"Ryder_Cup_2023_USA"
 	],
 	"govawards": [
 		"Oscars_2022"
@@ -49281,7 +49282,8 @@
 		"Titans_S3_2021_BeastBoy"
 	],
 	"rydercup": [
-		"RyderCup_2021"
+		"RyderCup_2021",
+		"Ryder_Cup_2023_Trophy"
 	],
 	"rydercup2020": [
 		"RyderCup_2021"
@@ -55761,7 +55763,8 @@
 		"Africa_Cup_of_Nations_Ethiopia_2022"
 	],
 	"teameurope": [
-		"RyderCup_2021_TeamEurope"
+		"RyderCup_2021_TeamEurope",
+		"Ryder_Cup_2023_Europe"
 	],
 	"teamevans": [
 		"Netflix_The_Gray_Man_ChrisEvans_May_2022"
