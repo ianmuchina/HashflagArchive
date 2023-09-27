@@ -12796,7 +12796,8 @@
 		"DemiAlbum_2021"
 	],
 	"dancingwiththestars": [
-		"Disney_ABC_DWTS_Season_Finale_Discoball_Sept_2022"
+		"Disney_ABC_DWTS_Season_Finale_Discoball_Sept_2022",
+		"Disney_ABC_DWTS_2023_US_ENT"
 	],
 	"dandelionknight": [
 		"miHoYoGenshinImpact1stAnniversary_2021_GenshinJean"
@@ -16304,7 +16305,8 @@
 	"dwts": [
 		"DWTS_Sept_2021",
 		"DWTS_2020",
-		"Disney_ABC_DWTS_Season_Finale_Discoball_Sept_2022"
+		"Disney_ABC_DWTS_Season_Finale_Discoball_Sept_2022",
+		"Disney_ABC_DWTS_2023_US_ENT"
 	],
 	"dwts31": [
 		"Disney_ABC_DWTS_Season_Finale_Discoball_Sept_2022_add"
@@ -96516,55 +96518,71 @@
 		"SaudiAramco_EidAlAdha_2023"
 	],
 	"bonniefnaf": [
-		"Five_Nights_Freddy_Bonnie"
+		"Five_Nights_Freddy_Bonnie",
+		"Five_Nights_2023_Bonnie"
 	],
 	"chicafnaf": [
-		"Five_Nights_Freddy_Chica"
+		"Five_Nights_Freddy_Chica",
+		"Five_Nights_2023_Chica"
 	],
 	"cupcakefnaf": [
-		"Five_Nights_Freddy_Cupcake"
+		"Five_Nights_Freddy_Cupcake",
+		"Five_Nights_2023_Cupcakes"
 	],
 	"fivenightsatfreddys": [
-		"Five_Nights_Freddy_Freddy_v2"
+		"Five_Nights_Freddy_Freddy_v2",
+		"Five_Nights_2023_Freddy"
 	],
 	"fivenightsatfreddysfilm": [
 		"Five_Nights_Freddy_Freddy_v2"
 	],
 	"fnaf": [
-		"Five_Nights_Freddy_Freddy_v2"
+		"Five_Nights_Freddy_Freddy_v2",
+		"Five_Nights_2023_Freddy"
 	],
 	"fnafbonnie": [
-		"Five_Nights_Freddy_Bonnie"
+		"Five_Nights_Freddy_Bonnie",
+		"Five_Nights_2023_Bonnie"
 	],
 	"fnafchica": [
-		"Five_Nights_Freddy_Chica"
+		"Five_Nights_Freddy_Chica",
+		"Five_Nights_2023_Chica"
 	],
 	"fnafcupcake": [
-		"Five_Nights_Freddy_Cupcake"
+		"Five_Nights_Freddy_Cupcake",
+		"Five_Nights_2023_Cupcakes"
 	],
 	"fnaffilme": [
-		"Five_Nights_Freddy_Freddy_v2"
+		"Five_Nights_Freddy_Freddy_v2",
+		"Five_Nights_2023_Freddy"
 	],
 	"fnaffoxy": [
-		"Five_Nights_Freddy_Foxy"
+		"Five_Nights_Freddy_Foxy",
+		"Five_Nights_2023_Foxy"
 	],
 	"fnafmovie": [
-		"Five_Nights_Freddy_Freddy_v2"
+		"Five_Nights_Freddy_Freddy_v2",
+		"Five_Nights_2023_Freddy"
 	],
 	"fnafpelicula": [
-		"Five_Nights_Freddy_Freddy_v2"
+		"Five_Nights_Freddy_Freddy_v2",
+		"Five_Nights_2023_Freddy"
 	],
 	"foxyfnaf": [
-		"Five_Nights_Freddy_Foxy"
+		"Five_Nights_Freddy_Foxy",
+		"Five_Nights_2023_Foxy"
 	],
 	"freddyfazbear": [
-		"Five_Nights_Freddy_Freddy_v2"
+		"Five_Nights_Freddy_Freddy_v2",
+		"Five_Nights_2023_Freddy"
 	],
 	"freddyfazbearspizza": [
-		"Five_Nights_Freddy_Freddy_v2"
+		"Five_Nights_Freddy_Freddy_v2",
+		"Five_Nights_2023_Freddy"
 	],
 	"mrcupcake": [
-		"Five_Nights_Freddy_Cupcake"
+		"Five_Nights_Freddy_Cupcake",
+		"Five_Nights_2023_Cupcakes"
 	],
 	"프레디의피자가게": [
 		"Five_Nights_Freddy_Freddy_v2"
@@ -99716,10 +99734,12 @@
 		"Lionsgate_Sept_2023_UK_Hashmojis_v2"
 	],
 	"accafreeze": [
-		"SkyBet_AccaFreeze_2023_BEFORE"
+		"SkyBet_AccaFreeze_2023_BEFORE",
+		"SkyBet_AccaFreeze_2023_BEFORE_v1"
 	],
 	"skybetaccafreeze": [
-		"SkyBet_AccaFreeze_2023_BEFORE"
+		"SkyBet_AccaFreeze_2023_BEFORE",
+		"SkyBet_AccaFreeze_2023_BEFORE_v1"
 	],
 	"nxtnomercy": [
 		"NXT_No_Mercy_2023"
@@ -99773,46 +99793,60 @@
 		"NBA_SacramentoHashmoji"
 	],
 	"capitãoenoch": [
-		"DisneyPlus_Ahsoka_Enoch_2023"
+		"DisneyPlus_Ahsoka_Enoch_2023",
+		"DisneyPlus_Ahsoka_Enoch_2023_R3"
 	],
 	"captainenoch": [
-		"DisneyPlus_Ahsoka_Enoch_2023"
+		"DisneyPlus_Ahsoka_Enoch_2023",
+		"DisneyPlus_Ahsoka_Enoch_2023_R3"
 	],
 	"enoch": [
-		"DisneyPlus_Ahsoka_Ezra_2023_R1"
+		"DisneyPlus_Ahsoka_Ezra_2023_R1",
+		"DisneyPlus_Ahsoka_Enoch_2023_R3"
 	],
 	"ezra": [
-		"DisneyPlus_Ahsoka_Ezra_2023_R1"
+		"DisneyPlus_Ahsoka_Ezra_2023_R1",
+		"DisneyPlus_Ahsoka_Ezra_2023_R2"
 	],
 	"ezrabridger": [
-		"DisneyPlus_Ahsoka_Ezra_2023_R1"
+		"DisneyPlus_Ahsoka_Ezra_2023_R1",
+		"DisneyPlus_Ahsoka_Ezra_2023_R2"
 	],
 	"kaptenenoch": [
-		"DisneyPlus_Ahsoka_Enoch_2023"
+		"DisneyPlus_Ahsoka_Enoch_2023",
+		"DisneyPlus_Ahsoka_Enoch_2023_R3"
 	],
 	"ผู้กองอีนอค": [
-		"DisneyPlus_Ahsoka_Enoch_2023"
+		"DisneyPlus_Ahsoka_Enoch_2023",
+		"DisneyPlus_Ahsoka_Enoch_2023_R3"
 	],
 	"อีนอค": [
-		"DisneyPlus_Ahsoka_Ezra_2023_R1"
+		"DisneyPlus_Ahsoka_Ezra_2023_R1",
+		"DisneyPlus_Ahsoka_Enoch_2023_R3"
 	],
 	"เอสร่า": [
-		"DisneyPlus_Ahsoka_Ezra_2023_R1"
+		"DisneyPlus_Ahsoka_Ezra_2023_R1",
+		"DisneyPlus_Ahsoka_Ezra_2023_R2"
 	],
 	"เอสร่าบริ๊ดเจอร์": [
-		"DisneyPlus_Ahsoka_Ezra_2023_R1"
+		"DisneyPlus_Ahsoka_Ezra_2023_R1",
+		"DisneyPlus_Ahsoka_Ezra_2023_R2"
 	],
 	"イノック": [
-		"DisneyPlus_Ahsoka_Ezra_2023_R1"
+		"DisneyPlus_Ahsoka_Ezra_2023_R1",
+		"DisneyPlus_Ahsoka_Enoch_2023_R3"
 	],
 	"イノック隊長": [
-		"DisneyPlus_Ahsoka_Enoch_2023"
+		"DisneyPlus_Ahsoka_Enoch_2023",
+		"DisneyPlus_Ahsoka_Enoch_2023_R3"
 	],
 	"エズラ": [
-		"DisneyPlus_Ahsoka_Ezra_2023_R1"
+		"DisneyPlus_Ahsoka_Ezra_2023_R1",
+		"DisneyPlus_Ahsoka_Ezra_2023_R2"
 	],
 	"エズラブリッジャー": [
-		"DisneyPlus_Ahsoka_Ezra_2023_R1"
+		"DisneyPlus_Ahsoka_Ezra_2023_R1",
+		"DisneyPlus_Ahsoka_Ezra_2023_R2"
 	],
 	"揺レ揺レハンモック": [
 		"Shinsei_Financial_Co_Ltd_hashmoji_v3"
