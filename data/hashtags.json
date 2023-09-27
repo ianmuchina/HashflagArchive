@@ -4430,7 +4430,8 @@
 	"assassinscreed": [
 		"Ubisoft_AssassinsCreed_2020",
 		"Ubisoft_AssassinsCreed_2020_Flight2",
-		"Ubisoft_AssassinsCreed_2020_Flight3"
+		"Ubisoft_AssassinsCreed_2020_Flight3",
+		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Beforev1"
 	],
 	"assassinscreedvalhalla": [
 		"Ubisoft_AssassinsCreed_2020",
@@ -100093,5 +100094,56 @@
 	],
 	"위시_아샤": [
 		"DisneyTH_Wish_Asha_2023_R1"
+	],
+	"assassinscreedmirage": [
+		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Beforev1"
+	],
+	"genshinimpact3years": [
+		"GenshinImpact3Years_2023"
+	],
+	"navia": [
+		"Genshinimpact_Navia_2023"
+	],
+	"neuvillette": [
+		"Genshinimpact_Neuvillette_2023"
+	],
+	"wriothesley": [
+		"GenshinImpact_Wriothesley_2023"
+	],
+	"ナヴィア": [
+		"Genshinimpact_Navia_2023"
+	],
+	"ヌヴィレット": [
+		"Genshinimpact_Neuvillette_2023"
+	],
+	"リオセスリ": [
+		"GenshinImpact_Wriothesley_2023"
+	],
+	"原神3周年": [
+		"GenshinImpact3Years_2023"
+	],
+	"原神三週年": [
+		"GenshinImpact3Years_2023"
+	],
+	"娜維婭": [
+		"Genshinimpact_Navia_2023"
+	],
+	"萊歐斯利": [
+		"GenshinImpact_Wriothesley_2023"
+	],
+	"那維萊特": [
+		"Genshinimpact_Neuvillette_2023"
+	],
+	"나비아": [
+		"Genshinimpact_Navia_2023"
+	],
+	"느비예트": [
+		"Genshinimpact_Neuvillette_2023"
+	],
+	"라이오슬리": [
+		"GenshinImpact_Wriothesley_2023"
+	],
+	"원신3주년": [
+		"GenshinImpact3Years_2023"
 	]
 }
