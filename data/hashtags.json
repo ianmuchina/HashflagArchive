@@ -26947,7 +26947,8 @@
 	],
 	"intelevo": [
 		"IntelEvo_2020",
-		"IntelEvoLaptops_2021"
+		"IntelEvoLaptops_2021",
+		"BF-8907_IntelSG_Hashmoji"
 	],
 	"intelgamerdays": [
 		"intelgamerdays_2021",
@@ -100150,5 +100151,17 @@
 	],
 	"원신3주년": [
 		"GenshinImpact3Years_2023"
+	],
+	"gamewithintel": [
+		"BF-8907_IntelSG_Hashmoji"
+	],
+	"intelcore": [
+		"BF-8907_IntelSG_Hashmoji"
+	],
+	"intelxeon": [
+		"BF-8907_IntelSG_Hashmoji"
+	],
+	"itstartswithintel": [
+		"BF-8907_IntelSG_Hashmoji"
 	]
 }
