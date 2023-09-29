@@ -26948,7 +26948,8 @@
 	"intelevo": [
 		"IntelEvo_2020",
 		"IntelEvoLaptops_2021",
-		"BF-8907_IntelSG_Hashmoji"
+		"BF-8907_IntelSG_Hashmoji",
+		"BF-8907_IntelSG_Hashmoji_v2"
 	],
 	"intelgamerdays": [
 		"intelgamerdays_2021",
@@ -100157,13 +100158,16 @@
 		"GenshinImpact3Years_2023"
 	],
 	"gamewithintel": [
-		"BF-8907_IntelSG_Hashmoji"
+		"BF-8907_IntelSG_Hashmoji",
+		"BF-8907_IntelSG_Hashmoji_v2"
 	],
 	"intelcore": [
-		"BF-8907_IntelSG_Hashmoji"
+		"BF-8907_IntelSG_Hashmoji",
+		"BF-8907_IntelSG_Hashmoji_v2"
 	],
 	"intelxeon": [
-		"BF-8907_IntelSG_Hashmoji"
+		"BF-8907_IntelSG_Hashmoji",
+		"BF-8907_IntelSG_Hashmoji_v2"
 	],
 	"itstartswithintel": [
 		"BF-8907_IntelSG_Hashmoji"
@@ -100179,5 +100183,8 @@
 	],
 	"فانتوم_في_الرياض": [
 		"RCRC_PhantomoftheOpera_2023"
+	],
+	"startswithintel": [
+		"BF-8907_IntelSG_Hashmoji_v2"
 	]
 }
