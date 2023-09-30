@@ -1664,7 +1664,8 @@
 		"AEW_Branded_Emoji_2023"
 	],
 	"afazenda": [
-		"Fazenda_BR_Sept_2021"
+		"Fazenda_BR_Sept_2021",
+		"BF-9242_AFazenda"
 	],
 	"afazenda12": [
 		"AFazenda2020",
@@ -17097,7 +17098,8 @@
 	"eliminaçãoafazenda": [
 		"AFazenda2020",
 		"AFazenda2020_ext",
-		"Fazenda_BR_Sept_2021"
+		"Fazenda_BR_Sept_2021",
+		"BF-9242_AFazenda"
 	],
 	"eliminaçãopowercouple": [
 		"PowerCouple_BR_May_2021",
@@ -49029,7 +49031,8 @@
 	"roçaafazenda": [
 		"AFazenda2020",
 		"AFazenda2020_ext",
-		"Fazenda_BR_Sept_2021"
+		"Fazenda_BR_Sept_2021",
+		"BF-9242_AFazenda"
 	],
 	"rpbmh": [
 		"Vince_Staples_Album_Apr_2022"
@@ -99761,11 +99764,13 @@
 	"accafreeze": [
 		"SkyBet_AccaFreeze_2023_BEFORE",
 		"SkyBet_AccaFreeze_2023_BEFORE_v1",
-		"SkyBet_AccaFreeze_2023_DURING_v1"
+		"SkyBet_AccaFreeze_2023_DURING_v1",
+		"SkyBet_AccaFreeze_2023_AFTER_v1"
 	],
 	"skybetaccafreeze": [
 		"SkyBet_AccaFreeze_2023_BEFORE",
-		"SkyBet_AccaFreeze_2023_BEFORE_v1"
+		"SkyBet_AccaFreeze_2023_BEFORE_v1",
+		"SkyBet_AccaFreeze_2023_AFTER_v1"
 	],
 	"nxtnomercy": [
 		"NXT_No_Mercy_2023"
