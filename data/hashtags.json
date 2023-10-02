@@ -19671,7 +19671,8 @@
 		"AirCanada_FlyTheFlag_2021"
 	],
 	"flythew": [
-		"MLB_Teams_2020_PS_CC"
+		"MLB_Teams_2020_PS_CC",
+		"MLB_2023_Cubs_Playoffs"
 	],
 	"flytogether": [
 		"NHLTeam_2021_FlyTogether",
@@ -39828,7 +39829,8 @@
 	"nextlevel": [
 		"MLB_TOR_2022",
 		"MLB_Postseason_TOR_2022",
-		"MLB_2023_Bluejays"
+		"MLB_2023_Bluejays",
+		"MLB_2023_Bluejays_Playoffs"
 	],
 	"nextlevelchef": [
 		"FOX_Next_Level_Chef_2021"
@@ -42111,7 +42113,8 @@
 		"CapitalOneOrangeBowl_Dec_2020"
 	],
 	"orangeoctober": [
-		"SFMLBPostseason2021"
+		"SFMLBPostseason2021",
+		"MLB_2023_Giants_Playoffs"
 	],
 	"orangeornothing": [
 		"IPL_2021_SRH",
@@ -45308,7 +45311,8 @@
 	"postseason": [
 		"MLB_Teams_2020_PS",
 		"MLBPostseason2021",
-		"MLB_Postseason_Postseason_2022"
+		"MLB_Postseason_Postseason_2022",
+		"MLB_2023_Postseason_Playoffs"
 	],
 	"posty": [
 		"PostMalone2022"
@@ -47078,7 +47082,8 @@
 		"MLB_Teams_2021_TB",
 		"MLB_TB_2022",
 		"MLB_2023_RaysUp",
-		"MLB_2023_Regular_Season_Custom_Emoji"
+		"MLB_2023_Regular_Season_Custom_Emoji",
+		"MLB_2023_Rays_Playoffs"
 	],
 	"razemdamyrade": [
 		"MentalHealthMonth_2021_add2"
@@ -47559,7 +47564,8 @@
 		"Netflix_RedNoticeFilm_2021"
 	],
 	"redoctober": [
-		"MLB_Postseason_PHI_2022"
+		"MLB_Postseason_PHI_2022",
+		"MLB_2023_Phillies_Playoffs"
 	],
 	"redpandameiturningred": [
 		"Disney_Turning_Red_Red_Panda_Mei_Shocked_2022"
@@ -50715,7 +50721,8 @@
 	"seriemundial": [
 		"MLB_Teams_2020_PS_WS_trophy",
 		"MLB_Teams_2020_PS_WS",
-		"MLB_Postseason_WorldSeries_2022_add"
+		"MLB_Postseason_WorldSeries_2022_add",
+		"MLB_2023_WorldSeries_Playoffs"
 	],
 	"seriess": [
 		"Xbox_FAWS_2_2021",
@@ -65528,7 +65535,8 @@
 		"MLB_Teams_2020_PS_WS_trophy",
 		"WorldSeriesMLBPostseason2021",
 		"MLB_Teams_2020_PS_WS",
-		"MLB_Postseason_WorldSeries_2022"
+		"MLB_Postseason_WorldSeries_2022",
+		"MLB_2023_WorldSeries_Playoffs"
 	],
 	"worldseriesofpoker": [
 		"WSOPMainEvent_2021_extend",
@@ -100282,5 +100290,44 @@
 	],
 	"barbieimaxselfie": [
 		"Barbie_OCTtoJAN_Update"
+	],
+	"asoneatl": [
+		"MLB_2023_ForTheA_Playoffs"
+	],
+	"brewedforbattle": [
+		"MLB_2023_Brewers_Playoffs"
+	],
+	"creemosentc": [
+		"MLB_2023_Twins_Playoffs"
+	],
+	"embracethechaos": [
+		"MLB_2023_Dbacks_PLAYOFFS"
+	],
+	"fightingfish": [
+		"MLB_2023_Marlins_Playoffs"
+	],
+	"goandtakeit": [
+		"MLB_2023_Rangers_Playoffs"
+	],
+	"letsgododgers": [
+		"MLB_2023_Dodgers_Playoffs"
+	],
+	"rallyreds": [
+		"MLB_2023_Reds_Playoffs"
+	],
+	"soakitin": [
+		"MLB_2023_Orioles_Playoffs_Fix"
+	],
+	"tridentesarriba": [
+		"MLB_2023_Mariners_Playoffs"
+	],
+	"tridentsup": [
+		"MLB_2023_Mariners_Playoffs"
+	],
+	"veyagarralo": [
+		"MLB_2023_Rangers_Playoffs"
+	],
+	"webelieveintc": [
+		"MLB_2023_Twins_Playoffs"
 	]
 }
