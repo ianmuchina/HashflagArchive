@@ -100212,16 +100212,20 @@
 		"BF-8907_IntelSG_Hashmoji"
 	],
 	"phantomoftheopera": [
-		"RCRC_PhantomoftheOpera_2023"
+		"RCRC_PhantomoftheOpera_2023",
+		"RCRC_PhantomoftheOpera_2023_Hashmoji"
 	],
 	"phantomriyadh": [
-		"RCRC_PhantomoftheOpera_2023"
+		"RCRC_PhantomoftheOpera_2023",
+		"RCRC_PhantomoftheOpera_2023_Hashmoji"
 	],
 	"فانتوم_أوف_ذا_اوبرا": [
-		"RCRC_PhantomoftheOpera_2023"
+		"RCRC_PhantomoftheOpera_2023",
+		"RCRC_PhantomoftheOpera_2023_Hashmoji"
 	],
 	"فانتوم_في_الرياض": [
-		"RCRC_PhantomoftheOpera_2023"
+		"RCRC_PhantomoftheOpera_2023",
+		"RCRC_PhantomoftheOpera_2023_Hashmoji"
 	],
 	"startswithintel": [
 		"BF-8907_IntelSG_Hashmoji_v2"
@@ -100420,5 +100424,8 @@
 	],
 	"lokitemporada2": [
 		"DisneyPlus_Loki_S2_2023_BeforeHashfetti"
+	],
+	"فانتوم_أوف_ذا_أوبرا": [
+		"RCRC_PhantomoftheOpera_2023_Hashmoji"
 	]
 }
