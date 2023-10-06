@@ -4433,7 +4433,8 @@
 		"Ubisoft_AssassinsCreed_2020_Flight2",
 		"Ubisoft_AssassinsCreed_2020_Flight3",
 		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Beforev1",
-		"Ubisoft_AssassinsCreedMirage_Launch_US_CustomLikev1"
+		"Ubisoft_AssassinsCreedMirage_Launch_US_CustomLikev1",
+		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Afterv1"
 	],
 	"assassinscreedvalhalla": [
 		"Ubisoft_AssassinsCreed_2020",
@@ -33352,7 +33353,8 @@
 		"Loki_2WO_May_2021",
 		"Disney_LokiLaunch_TVA_Jacket_Loki_2021_V2",
 		"DisneyPlus_Loki_S2_2023",
-		"DisneyPlus_Loki_S2_2023_BeforeHashfetti"
+		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
+		"DisneyPlus_Loki_S2_2023_Hashfetti"
 	],
 	"lokialligator": [
 		"Disney_LokiLaunch_AlligatorLoki_2021_v2"
@@ -100148,7 +100150,8 @@
 	],
 	"assassinscreedmirage": [
 		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Beforev1",
-		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Duringv1"
+		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Duringv1",
+		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Afterv1"
 	],
 	"genshinimpact3years": [
 		"GenshinImpact3Years_2023"
@@ -100356,11 +100359,13 @@
 	],
 	"lokis2": [
 		"DisneyPlus_Loki_S2_2023",
-		"DisneyPlus_Loki_S2_2023_BeforeHashfetti"
+		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
 	],
 	"lokiseason2": [
 		"DisneyPlus_Loki_S2_2023",
-		"DisneyPlus_Loki_S2_2023_BeforeHashfetti"
+		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
 	],
 	"sliving": [
 		"ParisHilton_PartnershipAnnouncement_2023"
@@ -100423,16 +100428,20 @@
 		"BF-9201_Google_Pixel8"
 	],
 	"lokisaison2": [
-		"DisneyPlus_Loki_S2_2023_BeforeHashfetti"
+		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
 	],
 	"lokistagione2": [
-		"DisneyPlus_Loki_S2_2023_BeforeHashfetti"
+		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
 	],
 	"lokit2": [
-		"DisneyPlus_Loki_S2_2023_BeforeHashfetti"
+		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
 	],
 	"lokitemporada2": [
-		"DisneyPlus_Loki_S2_2023_BeforeHashfetti"
+		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
 	],
 	"فانتوم_أوف_ذا_أوبرا": [
 		"RCRC_PhantomoftheOpera_2023_Hashmoji"
