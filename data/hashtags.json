@@ -53252,7 +53252,8 @@
 	],
 	"spy_family": [
 		"shonenjump_plus_Dec_2020",
-		"Shueisha_SPYxFAMILY_Jun_2022"
+		"Shueisha_SPYxFAMILY_Jun_2022",
+		"ABEMA_18ce549twrx_Hashmoji_1007-1231"
 	],
 	"spyfamily": [
 		"shonenjump_plus_campaign_2021"
@@ -74077,7 +74078,8 @@
 	"アーニャ": [
 		"shonenjump_plus_campaign_2021",
 		"shonenjump_plus_Dec_2020",
-		"Shueisha_SPYxFAMILY_Jun_2022"
+		"Shueisha_SPYxFAMILY_Jun_2022",
+		"ABEMA_18ce549twrx_Hashmoji_1007-1231"
 	],
 	"アーニャとドッジボール": [
 		"Whitecat_Summer_campaign_Jul_2022"
@@ -75589,7 +75591,8 @@
 	"スパイファミリー": [
 		"shonenjump_plus_campaign_2021",
 		"shonenjump_plus_Dec_2020",
-		"Shueisha_SPYxFAMILY_Jun_2022"
+		"Shueisha_SPYxFAMILY_Jun_2022",
+		"ABEMA_18ce549twrx_Hashmoji_1007-1231"
 	],
 	"スパ祭": [
 		"Spider_Man_Sony_Pictures_Trend_Award_2021_v2"
@@ -100399,22 +100402,27 @@
 	],
 	"ひまわりシャンプー": [
 		"himawari_kracie_before",
-		"himawari_kracie_during"
+		"himawari_kracie_during",
+		"himawari_kracie_after"
 	],
 	"シャンプーは雨の日に選ぼう": [
-		"himawari_kracie_before"
+		"himawari_kracie_before",
+		"himawari_kracie_after"
 	],
 	"ディアボーテ": [
 		"himawari_kracie_before",
-		"himawari_kracie_during"
+		"himawari_kracie_during",
+		"himawari_kracie_after"
 	],
 	"新ディアボーテ": [
 		"himawari_kracie_before",
-		"himawari_kracie_during"
+		"himawari_kracie_during",
+		"himawari_kracie_after"
 	],
 	"雨の日もまとまる髪へ": [
 		"himawari_kracie_before",
-		"himawari_kracie_during"
+		"himawari_kracie_during",
+		"himawari_kracie_after"
 	],
 	"googlepixel8": [
 		"BF-9201_Google_Pixel_During",
@@ -100484,5 +100492,11 @@
 	],
 	"wendyshow": [
 		"BF-9175_WendysShow_2023"
+	],
+	"あべますぱいふぁみりーむりょう": [
+		"ABEMA_18ce549twrx_Hashmoji_1007-1231"
+	],
+	"アベマでスパイファミリー": [
+		"ABEMA_18ce549twrx_Hashmoji_1007-1231"
 	]
 }
