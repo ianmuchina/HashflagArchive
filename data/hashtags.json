@@ -33356,7 +33356,8 @@
 		"DisneyPlus_Loki_S2_2023",
 		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
 		"DisneyPlus_Loki_S2_2023_Hashfetti",
-		"DisneyPlus_Loki_S2_2023_Hashfetti_R1"
+		"DisneyPlus_Loki_S2_2023_Hashfetti_R1",
+		"DisneyPlus_Loki_S2_2023_AfterHashfetti"
 	],
 	"lokialligator": [
 		"Disney_LokiLaunch_AlligatorLoki_2021_v2"
@@ -100365,12 +100366,14 @@
 	"lokis2": [
 		"DisneyPlus_Loki_S2_2023",
 		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
-		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti",
+		"DisneyPlus_Loki_S2_2023_AfterHashfetti"
 	],
 	"lokiseason2": [
 		"DisneyPlus_Loki_S2_2023",
 		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
-		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti",
+		"DisneyPlus_Loki_S2_2023_AfterHashfetti"
 	],
 	"sliving": [
 		"ParisHilton_PartnershipAnnouncement_2023"
@@ -100439,19 +100442,23 @@
 	],
 	"lokisaison2": [
 		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
-		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti",
+		"DisneyPlus_Loki_S2_2023_AfterHashfetti"
 	],
 	"lokistagione2": [
 		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
-		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti",
+		"DisneyPlus_Loki_S2_2023_AfterHashfetti"
 	],
 	"lokit2": [
 		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
-		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti",
+		"DisneyPlus_Loki_S2_2023_AfterHashfetti"
 	],
 	"lokitemporada2": [
 		"DisneyPlus_Loki_S2_2023_BeforeHashfetti",
-		"DisneyPlus_Loki_S2_2023_DuringHashfetti"
+		"DisneyPlus_Loki_S2_2023_DuringHashfetti",
+		"DisneyPlus_Loki_S2_2023_AfterHashfetti"
 	],
 	"فانتوم_أوف_ذا_أوبرا": [
 		"RCRC_PhantomoftheOpera_2023_Hashmoji"
