@@ -43509,7 +43509,8 @@
 		"JLoXMaluma_2020"
 	],
 	"patphelps": [
-		"STARZ_Shining_Vale_Woman_Feb_2022"
+		"STARZ_Shining_Vale_Woman_Feb_2022",
+		"Starz_ShiningVale_S2_Hashmoji_2023"
 	],
 	"patrickmahomes": [
 		"GOAT_SuperBowl_2021"
@@ -51266,10 +51267,12 @@
 		"PokemonBrilliantDiamond_2021_Palkia"
 	],
 	"shiningvale": [
-		"STARZ_Shining_Vale_Woman_Feb_2022"
+		"STARZ_Shining_Vale_Woman_Feb_2022",
+		"Starz_ShiningVale_S2_Hashmoji_2023"
 	],
 	"shiningvalepremiere": [
-		"STARZ_Shining_Vale_Woman_Feb_2022"
+		"STARZ_Shining_Vale_Woman_Feb_2022",
+		"Starz_ShiningVale_S2_Hashmoji_2023"
 	],
 	"shinmegamitenseiv": [
 		"SEGA_SMT5_2021"
@@ -100535,5 +100538,11 @@
 	],
 	"kayosports": [
 		"KayoSports_CWC_23_after"
+	],
+	"patandterry": [
+		"Starz_ShiningVale_S2_Hashmoji_2023"
+	],
+	"shiningvalestarz": [
+		"Starz_ShiningVale_S2_Hashmoji_2023"
 	]
 }
