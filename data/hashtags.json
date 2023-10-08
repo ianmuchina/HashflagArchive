@@ -100513,15 +100513,22 @@
 		"ABEMA_18ce549twrx_Hashmoji_1007-1231"
 	],
 	"cwc23onkayo": [
-		"KayoSports_CWC_23_during"
+		"KayoSports_CWC_23_during",
+		"KayoSports_CWC_23_after"
 	],
 	"cwconkayo": [
-		"KayoSports_CWC_23_during"
+		"KayoSports_CWC_23_during",
+		"KayoSports_CWC_23_after"
 	],
 	"kayocwc": [
-		"KayoSports_CWC_23_during"
+		"KayoSports_CWC_23_during",
+		"KayoSports_CWC_23_after"
 	],
 	"kayosportscwc": [
-		"KayoSports_CWC_23_during"
+		"KayoSports_CWC_23_during",
+		"KayoSports_CWC_23_after"
+	],
+	"kayosports": [
+		"KayoSports_CWC_23_after"
 	]
 }
