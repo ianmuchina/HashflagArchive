@@ -26955,7 +26955,8 @@
 		"IntelEvo_2020",
 		"IntelEvoLaptops_2021",
 		"BF-8907_IntelSG_Hashmoji",
-		"BF-8907_IntelSG_Hashmoji_v2"
+		"BF-8907_IntelSG_Hashmoji_v2",
+		"BF-8907_IntelSG_Hashmoji_v3"
 	],
 	"intelgamerdays": [
 		"intelgamerdays_2021",
@@ -100221,15 +100222,18 @@
 	],
 	"gamewithintel": [
 		"BF-8907_IntelSG_Hashmoji",
-		"BF-8907_IntelSG_Hashmoji_v2"
+		"BF-8907_IntelSG_Hashmoji_v2",
+		"BF-8907_IntelSG_Hashmoji_v3"
 	],
 	"intelcore": [
 		"BF-8907_IntelSG_Hashmoji",
-		"BF-8907_IntelSG_Hashmoji_v2"
+		"BF-8907_IntelSG_Hashmoji_v2",
+		"BF-8907_IntelSG_Hashmoji_v3"
 	],
 	"intelxeon": [
 		"BF-8907_IntelSG_Hashmoji",
-		"BF-8907_IntelSG_Hashmoji_v2"
+		"BF-8907_IntelSG_Hashmoji_v2",
+		"BF-8907_IntelSG_Hashmoji_v3"
 	],
 	"itstartswithintel": [
 		"BF-8907_IntelSG_Hashmoji"
@@ -100251,7 +100255,8 @@
 		"RCRC_PhantomoftheOpera_2023_Hashmoji"
 	],
 	"startswithintel": [
-		"BF-8907_IntelSG_Hashmoji_v2"
+		"BF-8907_IntelSG_Hashmoji_v2",
+		"BF-8907_IntelSG_Hashmoji_v3"
 	],
 	"lvss24": [
 		"LVSS24_Fashion_Show"
