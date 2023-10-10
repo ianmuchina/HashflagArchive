@@ -19686,7 +19686,8 @@
 		"NHL_2021_Teams_FlyTogether",
 		"NHL_Team_2022_Anaheim",
 		"NHL_Team_2022_Anaheim_v2",
-		"NHL_Playoff_Extension_Anaheim"
+		"NHL_Playoff_Extension_Anaheim",
+		"NHL_AnaheimDucks_2023"
 	],
 	"flywin": [
 		"LCS_FLY_2022",
@@ -100850,5 +100851,17 @@
 	],
 	"猫のグース": [
 		"DisneyTH_TheMarvels_Goose_2023"
+	],
+	"colorpurple": [
+		"WB_The_Color_Purple_2023"
+	],
+	"nhlfaceoff": [
+		"NHL_FaceOff_2023"
+	],
+	"purplelove": [
+		"WB_The_Color_Purple_2023"
+	],
+	"thecolorpurple": [
+		"WB_The_Color_Purple_2023"
 	]
 }
