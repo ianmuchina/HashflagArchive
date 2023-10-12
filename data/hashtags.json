@@ -19687,7 +19687,8 @@
 		"NHL_Team_2022_Anaheim",
 		"NHL_Team_2022_Anaheim_v2",
 		"NHL_Playoff_Extension_Anaheim",
-		"NHL_AnaheimDucks_2023"
+		"NHL_AnaheimDucks_2023",
+		"NHL_NewAnaheimDucks_2023"
 	],
 	"flywin": [
 		"LCS_FLY_2022",
@@ -51836,7 +51837,8 @@
 		"NHL_Team_2022_SJ",
 		"NHL_Team_2022_SJ_v2",
 		"NHL_Playoff_Extension_SJSharks",
-		"NHL_SJSharks_2023"
+		"NHL_SJSharks_2023",
+		"NHL_NewSJSharks_2023"
 	],
 	"skateboarding": [
 		"Olympics_2021_Sports_Skateboarding"
