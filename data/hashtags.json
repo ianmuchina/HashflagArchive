@@ -96818,7 +96818,8 @@
 		"Multivers_X_2023"
 	],
 	"egld": [
-		"Multivers_X_2023"
+		"Multivers_X_2023",
+		"xDay2023_MultiversX_Hashmoji"
 	],
 	"essencefest23": [
 		"Essence_Festival_Custom_Emoji"
@@ -96827,10 +96828,12 @@
 		"Multivers_X_2023"
 	],
 	"multiversx": [
-		"Multivers_X_2023"
+		"Multivers_X_2023",
+		"xDay2023_MultiversX_Hashmoji"
 	],
 	"xportal": [
-		"Multivers_X_2023"
+		"Multivers_X_2023",
+		"xDay2023_MultiversX_Hashmoji"
 	],
 	"liluzivert": [
 		"Atlantic_LilUziVert_PinkAlbum_23"
@@ -100903,5 +100906,11 @@
 	],
 	"zionylennox": [
 		"Zion_Lennox_Warner_Music_BR"
+	],
+	"xday": [
+		"xDay2023_MultiversX_Hashmoji"
+	],
+	"xdayhackathon": [
+		"xDay2023_MultiversX_Hashmoji"
 	]
 }
