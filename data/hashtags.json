@@ -100312,7 +100312,8 @@
 	],
 	"startswithintel": [
 		"BF-8907_IntelSG_Hashmoji_v2",
-		"BF-8907_IntelSG_Hashmoji_v3"
+		"BF-8907_IntelSG_Hashmoji_v3",
+		"Intel_Anthem_Brand_Q4_2023_Hashmoji"
 	],
 	"lvss24": [
 		"LVSS24_Fashion_Show"
@@ -100935,5 +100936,8 @@
 	],
 	"seewhatcryptocanbe": [
 		"BF-9280_Kraken_2023_During"
+	],
+	"iamintel": [
+		"Intel_Anthem_Brand_Q4_2023_Hashmoji"
 	]
 }
