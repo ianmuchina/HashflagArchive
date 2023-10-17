@@ -100997,13 +100997,16 @@
 		"BF-9314_BingoPlus_PAPPA_Hashmoji"
 	],
 	"cryptocanbe": [
-		"BF-9280_Kraken_2023_During"
+		"BF-9280_Kraken_2023_During",
+		"BF-9280_Kraken_2023_After"
 	],
 	"kraken": [
-		"BF-9280_Kraken_2023_Hashfetti_Start"
+		"BF-9280_Kraken_2023_Hashfetti_Start",
+		"BF-9280_Kraken_2023_After"
 	],
 	"seewhatcryptocanbe": [
-		"BF-9280_Kraken_2023_During"
+		"BF-9280_Kraken_2023_During",
+		"BF-9280_Kraken_2023_After"
 	],
 	"iamintel": [
 		"Intel_Anthem_Brand_Q4_2023_Hashmoji"
