@@ -41767,7 +41767,8 @@
 		"BNE_OPBR_global_Film_Shanks_Nov_2022"
 	],
 	"oneplus": [
-		"OnePlus_Negroni_Launch_Mar_2022"
+		"OnePlus_Negroni_Launch_Mar_2022",
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during"
 	],
 	"oneplus10pro": [
 		"OnePlus_Negroni_Launch_Mar_2022"
@@ -51433,7 +51434,8 @@
 		"ACDC_2020"
 	],
 	"shotononeplus": [
-		"OnePlus_Negroni_Launch_Mar_2022"
+		"OnePlus_Negroni_Launch_Mar_2022",
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during"
 	],
 	"showcasegreatness": [
 		"LCS_FLY_2022",
@@ -101095,5 +101097,11 @@
 	],
 	"nuevaavianca": [
 		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiDuringHashfetti"
+	],
+	"oneplusopenlaunchevent": [
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during"
+	],
+	"openforeverything": [
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during"
 	]
 }
