@@ -36582,7 +36582,8 @@
 	],
 	"mexicogp": [
 		"MexicoGP_2021",
-		"Mexicos_Grand_Prix_MexicoGP_Sept_2022"
+		"Mexicos_Grand_Prix_MexicoGP_Sept_2022",
+		"BF-9254_Formula1_MexicoGP"
 	],
 	"mexicogp60": [
 		"Mexicos_Grand_Prix_MexicoGP60_Sept_2022"
@@ -101169,5 +101170,8 @@
 	],
 	"楽天ペイ": [
 		"RakutenPay_Hashmoji_Q3_2023"
+	],
+	"racepect": [
+		"BF-9255_Formula1_Mexico_Racepect"
 	]
 }
