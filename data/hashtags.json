@@ -35353,7 +35353,8 @@
 		"Marines_Mar_2022"
 	],
 	"mario": [
-		"Nintendo_POLE_Sept2020"
+		"Nintendo_POLE_Sept2020",
+		"Super_Mario_Wonder_Launch_Emoji"
 	],
 	"mario35": [
 		"Nintendo_POLE_Sept2020",
@@ -77849,7 +77850,8 @@
 	],
 	"マリオ": [
 		"Nintendo_POLE_Sept2020",
-		"NintendoMario_GB_2021"
+		"NintendoMario_GB_2021",
+		"Super_Mario_Wonder_Launch_Emoji"
 	],
 	"マリグナント": [
 		"MalignantMovie_2021"
@@ -101101,16 +101103,20 @@
 		"SA00196804_SoudahDevCo_SoudahPeaks_2023"
 	],
 	"avianca": [
-		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiDuringHashfetti"
+		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiDuringHashfetti",
+		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiAfterHashfetti"
 	],
 	"dondeestalaa": [
-		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiDuringHashfetti"
+		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiDuringHashfetti",
+		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiAfterHashfetti"
 	],
 	"holaavianca": [
-		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiDuringHashfetti"
+		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiDuringHashfetti",
+		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiAfterHashfetti"
 	],
 	"nuevaavianca": [
-		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiDuringHashfetti"
+		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiDuringHashfetti",
+		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiAfterHashfetti"
 	],
 	"oneplusopenlaunchevent": [
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during",
@@ -101132,5 +101138,32 @@
 	],
 	"lenovotechworld": [
 		"LenovoTechWorld_2023"
+	],
+	"elcieloesdetodos": [
+		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiAfterHashfetti"
+	],
+	"supermariobroswonder": [
+		"Super_Mario_Wonder_Launch_Emoji"
+	],
+	"おトクなペイは楽天ペイ": [
+		"RakutenPay_Hashmoji_Q3_2023"
+	],
+	"スーパーマリオ": [
+		"Super_Mario_Wonder_Launch_Emoji"
+	],
+	"スーパーマリオブラザーズワンダー": [
+		"Super_Mario_Wonder_Launch_Emoji"
+	],
+	"ポイントピッして楽天ペイ": [
+		"RakutenPay_Hashmoji_Q3_2023"
+	],
+	"マクドナルドで楽天ペイ": [
+		"RakutenPay_Hashmoji_Q3_2023"
+	],
+	"楽天pay": [
+		"RakutenPay_Hashmoji_Q3_2023"
+	],
+	"楽天ペイ": [
+		"RakutenPay_Hashmoji_Q3_2023"
 	]
 }
