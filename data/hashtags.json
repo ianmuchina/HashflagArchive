@@ -99202,7 +99202,8 @@
 		"Rugby_World_Cup_2023_Trophy"
 	],
 	"rwc2023": [
-		"Rugby_World_Cup_2023_Trophy"
+		"Rugby_World_Cup_2023_Trophy",
+		"Rugby_World_Cup_2023_TrophyNew"
 	],
 	"rwc23": [
 		"Rugby_World_Cup_2023_Trophy"
@@ -101221,5 +101222,8 @@
 	],
 	"oneplusopen": [
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2"
+	],
+	"rwcfinal": [
+		"Rugby_World_Cup_2023_TrophyNew"
 	]
 }
