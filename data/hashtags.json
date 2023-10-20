@@ -5770,7 +5770,8 @@
 	"bbmas": [
 		"BBMA_2020_Flight2",
 		"BillboardMusicAwards_2021",
-		"BBMAs_May_2022_v2"
+		"BBMAs_May_2022_v2",
+		"Billboard_BBMAs_2023_US"
 	],
 	"bbmas20": [
 		"BBMA_2020_Flight2"
@@ -6948,7 +6949,8 @@
 	"billboardmusicawards": [
 		"BBMA_2020_Flight2",
 		"BillboardMusicAwards_2021",
-		"BBMAs_May_2022_v2"
+		"BBMAs_May_2022_v2",
+		"Billboard_BBMAs_2023_US"
 	],
 	"billboards2020": [
 		"LatinBillboardAwards2020"
@@ -101176,5 +101178,32 @@
 	],
 	"cominginhot": [
 		"NBA_SunsHashmojiV2"
+	],
+	"bbmas2023": [
+		"Billboard_BBMAs_2023_US"
+	],
+	"lastrodeo": [
+		"RestlessRoad23V2"
+	],
+	"omothailand": [
+		"BF-9341_UnileverThailand_Omo_hashmoji"
+	],
+	"ppkritt": [
+		"BF-9341_UnileverThailand_Omo_hashmoji"
+	],
+	"restlessroad": [
+		"RestlessRoad23V2"
+	],
+	"restlessrodeo": [
+		"RestlessRoad23V2"
+	],
+	"หอมหรูตัวแม่ต้องโอโมสูตรน้ำ": [
+		"BF-9341_UnileverThailand_Omo_hashmoji"
+	],
+	"หอมหรูเกินต้านลักซ์ชูเกินใคร": [
+		"BF-9341_UnileverThailand_Omo_hashmoji"
+	],
+	"เสื้อพีพีเลือกโอโมพลัสสูตรน้ำ": [
+		"BF-9341_UnileverThailand_Omo_hashmoji"
 	]
 }
