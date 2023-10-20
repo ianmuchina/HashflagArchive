@@ -41774,7 +41774,8 @@
 		"OnePlus_Negroni_Launch_Mar_2022",
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during",
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during_v2",
-		"BF-9401_OnePlus_India_Foldable_Hashmoji_20Oct_during_CL_v4"
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_20Oct_during_CL_v4",
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2"
 	],
 	"oneplus10pro": [
 		"OnePlus_Negroni_Launch_Mar_2022"
@@ -51444,7 +51445,8 @@
 		"OnePlus_Negroni_Launch_Mar_2022",
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during",
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during_v2",
-		"BF-9401_OnePlus_India_Foldable_Hashmoji_20Oct_during_CL_v4"
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_20Oct_during_CL_v4",
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2"
 	],
 	"showcasegreatness": [
 		"LCS_FLY_2022",
@@ -101131,12 +101133,14 @@
 	"oneplusopenlaunchevent": [
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during",
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during_v2",
-		"BF-9401_OnePlus_India_Foldable_Hashmoji_20Oct_during_CL_v4"
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_20Oct_during_CL_v4",
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2"
 	],
 	"openforeverything": [
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during",
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during_v2",
-		"BF-9401_OnePlus_India_Foldable_Hashmoji_20Oct_during_CL_v4"
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_20Oct_during_CL_v4",
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2"
 	],
 	"web3": [
 		"Hashmoji_Q4_23_BAU"
@@ -101214,5 +101218,8 @@
 	"เสื้อพีพีเลือกโอโมพลัสสูตรน้ำ": [
 		"BF-9341_UnileverThailand_Omo_hashmoji",
 		"BF-9341_UnileverThailand_Omo_hashmoji_v2"
+	],
+	"oneplusopen": [
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2"
 	]
 }
