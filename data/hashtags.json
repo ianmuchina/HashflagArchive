@@ -39210,7 +39210,8 @@
 	"nba": [
 		"NBALeague_2021",
 		"NBATeam20192020Season_Emojis_NBA",
-		"NBA_League_and_Team_NBA_2022"
+		"NBA_League_and_Team_NBA_2022",
+		"NBALogo_Hashtag_2023"
 	],
 	"nba2k21": [
 		"NBA_2K21_2020"
@@ -101261,5 +101262,11 @@
 	],
 	"salaarcomingbloodysoon": [
 		"Salaar_Movie_Promotions_2023_2024"
+	],
+	"nbax": [
+		"NBAX_NewCommunityHashtag_V1"
+	],
+	"neweedoesmore": [
+		"BF-9334_EERebrand_2023_Hashmoji_DoubleDot_V2"
 	]
 }
