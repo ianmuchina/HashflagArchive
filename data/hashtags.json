@@ -96691,7 +96691,8 @@
 		"Five_Nights_2023_Freddy",
 		"Five_Nights_2023_Freddy_2023",
 		"FRIDAYNIGHT_Freddy_PreHashfetti",
-		"FRIDAYNIGHT_Freddy_During"
+		"FRIDAYNIGHT_Freddy_During",
+		"FRIDAYNIGHT_Freddy_After"
 	],
 	"fivenightsatfreddysfilm": [
 		"Five_Nights_Freddy_Freddy_v2"
@@ -96701,7 +96702,8 @@
 		"Five_Nights_2023_Freddy",
 		"Five_Nights_2023_Freddy_2023",
 		"FRIDAYNIGHT_Freddy_PreHashfetti",
-		"FRIDAYNIGHT_Freddy_During"
+		"FRIDAYNIGHT_Freddy_During",
+		"FRIDAYNIGHT_Freddy_After"
 	],
 	"fnafbonnie": [
 		"Five_Nights_Freddy_Bonnie",
@@ -96720,7 +96722,8 @@
 		"Five_Nights_2023_Freddy",
 		"Five_Nights_2023_Freddy_2023",
 		"FRIDAYNIGHT_Freddy_PreHashfetti",
-		"FRIDAYNIGHT_Freddy_During"
+		"FRIDAYNIGHT_Freddy_During",
+		"FRIDAYNIGHT_Freddy_After"
 	],
 	"fnaffoxy": [
 		"Five_Nights_Freddy_Foxy",
@@ -96731,14 +96734,16 @@
 		"Five_Nights_2023_Freddy",
 		"Five_Nights_2023_Freddy_2023",
 		"FRIDAYNIGHT_Freddy_PreHashfetti",
-		"FRIDAYNIGHT_Freddy_Global_Hashfetti"
+		"FRIDAYNIGHT_Freddy_Global_Hashfetti",
+		"FRIDAYNIGHT_Freddy_After"
 	],
 	"fnafpelicula": [
 		"Five_Nights_Freddy_Freddy_v2",
 		"Five_Nights_2023_Freddy",
 		"Five_Nights_2023_Freddy_2023",
 		"FRIDAYNIGHT_Freddy_PreHashfetti",
-		"FRIDAYNIGHT_Freddy_During"
+		"FRIDAYNIGHT_Freddy_During",
+		"FRIDAYNIGHT_Freddy_After"
 	],
 	"foxyfnaf": [
 		"Five_Nights_Freddy_Foxy",
@@ -96749,14 +96754,16 @@
 		"Five_Nights_2023_Freddy",
 		"Five_Nights_2023_Freddy_2023",
 		"FRIDAYNIGHT_Freddy_PreHashfetti",
-		"FRIDAYNIGHT_Freddy_During"
+		"FRIDAYNIGHT_Freddy_During",
+		"FRIDAYNIGHT_Freddy_After"
 	],
 	"freddyfazbearspizza": [
 		"Five_Nights_Freddy_Freddy_v2",
 		"Five_Nights_2023_Freddy",
 		"Five_Nights_2023_Freddy_2023",
 		"FRIDAYNIGHT_Freddy_PreHashfetti",
-		"FRIDAYNIGHT_Freddy_During"
+		"FRIDAYNIGHT_Freddy_During",
+		"FRIDAYNIGHT_Freddy_After"
 	],
 	"mrcupcake": [
 		"Five_Nights_Freddy_Cupcake",
@@ -96766,7 +96773,8 @@
 		"Five_Nights_Freddy_Freddy_v2",
 		"Five_Nights_2023_Freddy_2023",
 		"FRIDAYNIGHT_Freddy_PreHashfetti",
-		"FRIDAYNIGHT_Freddy_During"
+		"FRIDAYNIGHT_Freddy_During",
+		"FRIDAYNIGHT_Freddy_After"
 	],
 	"nascarchicago": [
 		"NASCAR_Chicago_Race_Weekend_2023"
@@ -101475,5 +101483,8 @@
 	],
 	"위시_왕": [
 		"DisneyTH_Wish_KingMagnifico_2023"
+	],
+	"kiatipoff23": [
+		"BF-9380_NBA_TipOff_2023"
 	]
 }
