@@ -26983,7 +26983,8 @@
 		"IntelEvoLaptops_2021",
 		"BF-8907_IntelSG_Hashmoji",
 		"BF-8907_IntelSG_Hashmoji_v2",
-		"BF-8907_IntelSG_Hashmoji_v3"
+		"BF-8907_IntelSG_Hashmoji_v3",
+		"BF-8907_IntelSG_Hashmoji_v4"
 	],
 	"intelgamerdays": [
 		"intelgamerdays_2021",
@@ -100429,17 +100430,20 @@
 	"gamewithintel": [
 		"BF-8907_IntelSG_Hashmoji",
 		"BF-8907_IntelSG_Hashmoji_v2",
-		"BF-8907_IntelSG_Hashmoji_v3"
+		"BF-8907_IntelSG_Hashmoji_v3",
+		"BF-8907_IntelSG_Hashmoji_v4"
 	],
 	"intelcore": [
 		"BF-8907_IntelSG_Hashmoji",
 		"BF-8907_IntelSG_Hashmoji_v2",
-		"BF-8907_IntelSG_Hashmoji_v3"
+		"BF-8907_IntelSG_Hashmoji_v3",
+		"BF-8907_IntelSG_Hashmoji_v4"
 	],
 	"intelxeon": [
 		"BF-8907_IntelSG_Hashmoji",
 		"BF-8907_IntelSG_Hashmoji_v2",
-		"BF-8907_IntelSG_Hashmoji_v3"
+		"BF-8907_IntelSG_Hashmoji_v3",
+		"BF-8907_IntelSG_Hashmoji_v4"
 	],
 	"itstartswithintel": [
 		"BF-8907_IntelSG_Hashmoji"
@@ -101142,10 +101146,12 @@
 		"WixStudio_Hashmoji"
 	],
 	"soudahdevelopment": [
-		"SA00196804_SoudahDevCo_SoudahDevelopment_2023"
+		"SA00196804_SoudahDevCo_SoudahDevelopment_2023",
+		"SA00196804_SoudahDevCo_SoudahDevelopment_2023_Hashmoji"
 	],
 	"soudahpeaks": [
-		"SA00196804_SoudahDevCo_SoudahPeaks_2023"
+		"SA00196804_SoudahDevCo_SoudahPeaks_2023",
+		"SA00196804_SoudahDevCo_SoudahPeaks_2023_Hashmoji"
 	],
 	"avianca": [
 		"Avianca_Col_Reposicionamiento_Oct2023_HashmojiDuringHashfetti",
@@ -101486,5 +101492,11 @@
 	],
 	"kiatipoff23": [
 		"BF-9380_NBA_TipOff_2023"
+	],
+	"السودة_للتطوير": [
+		"SA00196804_SoudahDevCo_SoudahDevelopment_2023_Hashmoji"
+	],
+	"قمم_السودة": [
+		"SA00196804_SoudahDevCo_SoudahPeaks_2023_Hashmoji"
 	]
 }
