@@ -98230,15 +98230,18 @@
 	],
 	"tiktoklite": [
 		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_during_giftbox",
-		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_after_giftbox"
+		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_after_giftbox",
+		"BF-9488_TikTok_Lite_Halloween_Hashmoji"
 	],
 	"tiktokliteポイ活": [
 		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_during_giftbox",
-		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_after_giftbox"
+		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_after_giftbox",
+		"BF-9488_TikTok_Lite_Halloween_Hashmoji"
 	],
 	"tiktoklite友達招待": [
 		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_during_giftbox",
-		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_after_giftbox"
+		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_after_giftbox",
+		"BF-9488_TikTok_Lite_Halloween_Hashmoji"
 	],
 	"tiktoklite夏祭り大抽選会": [
 		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_during_giftbox",
@@ -98296,7 +98299,8 @@
 		"SalesforceAI_Week_After"
 	],
 	"tiktoklite山分け": [
-		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_after_giftbox"
+		"BF-8638_TikTok_Lite_JP_Aug_2023_Hashmoji_after_giftbox",
+		"BF-9488_TikTok_Lite_Halloween_Hashmoji"
 	],
 	"focalors": [
 		"Genshin_Impact_Hashmoji_Furina_2023"
@@ -101505,5 +101509,8 @@
 	],
 	"قمم_السودة": [
 		"SA00196804_SoudahDevCo_SoudahPeaks_2023_Hashmoji"
+	],
+	"tiktokliteメガポイントweek": [
+		"BF-9488_TikTok_Lite_Halloween_Hashmoji"
 	]
 }
