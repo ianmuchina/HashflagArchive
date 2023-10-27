@@ -3578,7 +3578,8 @@
 		"Event_23_pre",
 		"Event_23_During",
 		"Event_23_post",
-		"AppleEvent_OctoberEvent"
+		"AppleEvent_OctoberEvent",
+		"ScaryFast_Pre_custom"
 	],
 	"applepayでも": [
 		"Mastercard_JP_Wave_2021"
