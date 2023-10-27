@@ -52156,7 +52156,8 @@
 		"NHL_Playoff_Extension_Smashville"
 	],
 	"smbc日本シリーズ": [
-		"Sumitomo_Mitsui_Banking_Corporation_Oct_2022"
+		"Sumitomo_Mitsui_Banking_Corporation_Oct_2022",
+		"Sumitomo_Mitsui_Banking_Corporation_Emoji"
 	],
 	"smellsliketeenspirit": [
 		"NirvanaAnniversary2021"
@@ -77944,7 +77945,8 @@
 		"DisneyTH_TheMarvels_MsMarvel_2023"
 	],
 	"ミドすけ": [
-		"Sumitomo_Mitsui_Banking_Corporation_Oct_2022"
+		"Sumitomo_Mitsui_Banking_Corporation_Oct_2022",
+		"Sumitomo_Mitsui_Banking_Corporation_Emoji"
 	],
 	"ミニオン": [
 		"Minions_Mar_2022"
@@ -80554,7 +80556,8 @@
 		"Japan_Academy_45th_2022"
 	],
 	"日本シリーズ": [
-		"Sumitomo_Mitsui_Banking_Corporation_Oct_2022"
+		"Sumitomo_Mitsui_Banking_Corporation_Oct_2022",
+		"Sumitomo_Mitsui_Banking_Corporation_Emoji"
 	],
 	"日本レコード大賞": [
 		"EMOJI_Japan_Record_Award_2021",
@@ -101702,5 +101705,11 @@
 	],
 	"니케agf": [
 		"Tecent_NIKKE_JP_RAPI_2023_Hahsmoji"
+	],
+	"smbcolive": [
+		"Sumitomo_Mitsui_Banking_Corporation_Emoji"
+	],
+	"smbcみんなの声援賞": [
+		"Sumitomo_Mitsui_Banking_Corporation_Emoji"
 	]
 }
