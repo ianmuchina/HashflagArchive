@@ -97621,12 +97621,14 @@
 	"bgb": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
 		"Bitget_Anniversary_Campaign_2023_Hashmoji_v2",
-		"Bitget_Anniversary_Campaign_2023_Hashmoji_v3"
+		"Bitget_Anniversary_Campaign_2023_Hashmoji_v3",
+		"Q4_2023_Bitgetglobal"
 	],
 	"bitget": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
 		"Bitget_Anniversary_Campaign_2023_Hashmoji_v2",
-		"Bitget_Anniversary_Campaign_2023_Hashmoji_v3"
+		"Bitget_Anniversary_Campaign_2023_Hashmoji_v3",
+		"Q4_2023_Bitgetglobal"
 	],
 	"bitget5thanniversary": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -101669,5 +101671,14 @@
 	],
 	"thg": [
 		"BF-9489_Lionsgate_HungerGames"
+	],
+	"bitgetblue": [
+		"Q4_2023_Bitgetglobal"
+	],
+	"bitgetcopytrading": [
+		"Q4_2023_Bitgetglobal"
+	],
+	"bitgetxmessi": [
+		"Q4_2023_Bitgetglobal"
 	]
 }
