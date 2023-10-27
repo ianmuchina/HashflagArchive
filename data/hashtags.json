@@ -22991,7 +22991,8 @@
 	"grandeconquista": [
 		"Sudamericana_2021_ext",
 		"Sudamericana_2021",
-		"Sudamericana_Jun_2022"
+		"Sudamericana_Jun_2022",
+		"BF-9511_Conmebol_Sudamericana"
 	],
 	"grandeinquisidorsabredeluz": [
 		"Disneyplus_Obi_Wan_Kenobi_Lightsaber_2022"
@@ -30912,7 +30913,8 @@
 		"RepsolMotogpMotorcycle_2021"
 	],
 	"lagranconquista": [
-		"Sudamericana_Jun_2022"
+		"Sudamericana_Jun_2022",
+		"BF-9511_Conmebol_Sudamericana"
 	],
 	"lagrandeboucleelectrique": [
 		"Enedis_TDF_2021"
@@ -54368,7 +54370,8 @@
 		"Sudamericana_2021_ext",
 		"Sudamericana_2021",
 		"Sulamericana_2020",
-		"Sudamericana_Jun_2022"
+		"Sudamericana_Jun_2022",
+		"BF-9511_Conmebol_Sudamericana"
 	],
 	"suebird": [
 		"SueEmoji2022"
@@ -101639,5 +101642,17 @@
 	],
 	"ujcsummit23": [
 		"UJCSummit23"
+	],
+	"fluminense": [
+		"BF-9514_LibertadoresFinals_FluminenseClub"
+	],
+	"fortalezaec": [
+		"BF-9516_SudamericanaFials_FortalezaClub"
+	],
+	"odestinoestáchamando": [
+		"BF-9516_SudamericanaFials_FortalezaClub"
+	],
+	"vamostricolores": [
+		"BF-9514_LibertadoresFinals_FluminenseClub"
 	]
 }
