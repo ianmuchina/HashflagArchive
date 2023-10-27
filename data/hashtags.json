@@ -98174,7 +98174,8 @@
 	],
 	"1989taylorsversion": [
 		"TaylorSwift1989",
-		"Taylors_Version_Pre"
+		"Taylors_Version_Pre",
+		"Taylors_Version_1989_Hashfetti"
 	],
 	"tiff23": [
 		"TIFF_2023_Hashmoji_Entertainment_CA"
@@ -99465,7 +99466,8 @@
 	],
 	"battleofthebaddest": [
 		"Riyadhseason_Boxing_2023_Hashmoji_afterv2",
-		"Riyadhseason_BattleOfTheBaddest_23_HashmojiBeforeHashfetti"
+		"Riyadhseason_BattleOfTheBaddest_23_HashmojiBeforeHashfetti",
+		"Riyadhseason_BattleOfTheBaddest_23_HashfettiUS"
 	],
 	"ヒュイヤン": [
 		"DisneyPlus_Ahsoka_Huyang_2023_R1"
@@ -101655,5 +101657,17 @@
 	],
 	"vamostricolores": [
 		"BF-9514_LibertadoresFinals_FluminenseClub"
+	],
+	"hungergames": [
+		"BF-9489_Lionsgate_HungerGames"
+	],
+	"tbosas": [
+		"BF-9489_Lionsgate_HungerGames"
+	],
+	"thehungergames": [
+		"BF-9489_Lionsgate_HungerGames"
+	],
+	"thg": [
+		"BF-9489_Lionsgate_HungerGames"
 	]
 }
