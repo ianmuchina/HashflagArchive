@@ -101714,16 +101714,20 @@
 		"Sumitomo_Mitsui_Banking_Corporation_Emoji"
 	],
 	"damadenegro": [
-		"LaHoraMarcada_MX_Hashmojis_During_v2"
+		"LaHoraMarcada_MX_Hashmojis_During_v2",
+		"LaHoraMarcada_MX_Hashmoji_After"
 	],
 	"damadenegroenvix": [
-		"LaHoraMarcada_MX_Hashmojis_During_v2"
+		"LaHoraMarcada_MX_Hashmojis_During_v2",
+		"LaHoraMarcada_MX_Hashmoji_After"
 	],
 	"horamarcada": [
-		"LaHoraMarcada_MX_Hashmojis_During_v2"
+		"LaHoraMarcada_MX_Hashmojis_During_v2",
+		"LaHoraMarcada_MX_Hashmoji_After"
 	],
 	"lahoramarcadaenvix": [
-		"LaHoraMarcada_MX_Hashmojis_During_v2"
+		"LaHoraMarcada_MX_Hashmojis_During_v2",
+		"LaHoraMarcada_MX_Hashmoji_After"
 	],
 	"bocajuniors": [
 		"BF_9520_Libertadores_Finals_BocaJuniorsClub"
@@ -101736,5 +101740,8 @@
 	],
 	"lduq": [
 		"BF_9515_Sudamericana_Finals_LigaDeQuitoClub"
+	],
+	"lahoramarcada": [
+		"LaHoraMarcada_MX_Hashmoji_After"
 	]
 }
