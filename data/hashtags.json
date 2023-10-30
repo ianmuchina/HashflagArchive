@@ -101327,7 +101327,8 @@
 	],
 	"omothailand": [
 		"BF-9341_UnileverThailand_Omo_hashmoji",
-		"BF-9341_UnileverThailand_Omo_hashmoji_v2"
+		"BF-9341_UnileverThailand_Omo_hashmoji_v2",
+		"BF-9341_UnileverThailand_Omo_hashmoji_v3"
 	],
 	"ppkritt": [
 		"BF-9341_UnileverThailand_Omo_hashmoji"
@@ -101340,15 +101341,18 @@
 	],
 	"หอมหรูตัวแม่ต้องโอโมสูตรน้ำ": [
 		"BF-9341_UnileverThailand_Omo_hashmoji",
-		"BF-9341_UnileverThailand_Omo_hashmoji_v2"
+		"BF-9341_UnileverThailand_Omo_hashmoji_v2",
+		"BF-9341_UnileverThailand_Omo_hashmoji_v3"
 	],
 	"หอมหรูเกินต้านลักซ์ชูเกินใคร": [
 		"BF-9341_UnileverThailand_Omo_hashmoji",
-		"BF-9341_UnileverThailand_Omo_hashmoji_v2"
+		"BF-9341_UnileverThailand_Omo_hashmoji_v2",
+		"BF-9341_UnileverThailand_Omo_hashmoji_v3"
 	],
 	"เสื้อพีพีเลือกโอโมพลัสสูตรน้ำ": [
 		"BF-9341_UnileverThailand_Omo_hashmoji",
-		"BF-9341_UnileverThailand_Omo_hashmoji_v2"
+		"BF-9341_UnileverThailand_Omo_hashmoji_v2",
+		"BF-9341_UnileverThailand_Omo_hashmoji_v3"
 	],
 	"oneplusopen": [
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2"
@@ -101781,5 +101785,11 @@
 	],
 	"hottieween": [
 		"Hottieween"
+	],
+	"cltest": [
+		"CLTest_Global_v1"
+	],
+	"omoxppkrit": [
+		"BF-9341_UnileverThailand_Omo_hashmoji_v3"
 	]
 }
