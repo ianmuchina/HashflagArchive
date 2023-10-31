@@ -23783,7 +23783,8 @@
 	"halloween": [
 		"Halloween_US_2021_2",
 		"Halloween_2020",
-		"f6d52c6b7d534ddbb8d30082138de02e20adb18c"
+		"f6d52c6b7d534ddbb8d30082138de02e20adb18c",
+		"Halloween_Custom_Like_2023"
 	],
 	"halloween20": [
 		"Halloween_2020"
@@ -24126,7 +24127,8 @@
 		"4thOfJuly_2023"
 	],
 	"happyhalloween": [
-		"Halloween_2020"
+		"Halloween_2020",
+		"Halloween_Custom_Like_2023"
 	],
 	"happyhalloween20": [
 		"Halloween_2020"
