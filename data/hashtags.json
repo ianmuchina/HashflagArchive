@@ -9550,7 +9550,8 @@
 		"SouthPark_VaccinationSpecial_2021",
 		"SouthPark_2020_cartman",
 		"Paramountplus_South_Park_Special_3_4_2022",
-		"Paramountplus_South_Park_Special_3_4_2022_v2"
+		"Paramountplus_South_Park_Special_3_4_2022_v2",
+		"Paramount_SouthPark_2023"
 	],
 	"cartoonito": [
 		"CartoonitoHBOMax_2021"
@@ -39825,7 +39826,8 @@
 	"newsouthpark": [
 		"Paramount_South_Park_2021_v2",
 		"Paramountplus_South_Park_Special_3_4_2022",
-		"Paramountplus_South_Park_Special_3_4_2022_v2"
+		"Paramountplus_South_Park_Special_3_4_2022_v2",
+		"Paramount_SouthPark_2023"
 	],
 	"newstate": [
 		"KraftonNewstateANOVA_2021_A",
@@ -52852,7 +52854,8 @@
 		"SouthPark_VaccinationSpecial_2021",
 		"SouthPark_2020_cartman",
 		"Paramountplus_South_Park_Special_3_4_2022",
-		"South_Park_25th_Anniversary_Jul_2022"
+		"South_Park_25th_Anniversary_Jul_2022",
+		"Paramount_SouthPark_2023"
 	],
 	"southpark25": [
 		"South_Park_25th_Anniversary_Jul_2022"
@@ -101861,5 +101864,8 @@
 	],
 	"الفرق_بيدك": [
 		"Car_fuel_saving_Taqa_sa_Hashmoji_2023"
+	],
+	"panderverse": [
+		"Paramount_SouthPark_2023"
 	]
 }
