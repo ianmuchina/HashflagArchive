@@ -98450,19 +98450,23 @@
 		"Sleeper_DFS_Phase2_2023"
 	],
 	"旅行いくなら楽天トラベル": [
-		"RakutenTravel_Q32023_v2"
+		"RakutenTravel_Q32023_v2",
+		"RakutenTravel_Q4_2023"
 	],
 	"楽天トラベル": [
-		"RakutenTravel_Q32023_v2"
+		"RakutenTravel_Q32023_v2",
+		"RakutenTravel_Q4_2023"
 	],
 	"楽天トラベルで温泉いきたい": [
 		"RakutenTravel_Q32023_v2"
 	],
 	"楽天トラベル温泉sale": [
-		"RakutenTravel_Q32023_v2"
+		"RakutenTravel_Q32023_v2",
+		"RakutenTravel_Q4_2023"
 	],
 	"温泉いくなら楽天トラベル": [
-		"RakutenTravel_Q32023_v2"
+		"RakutenTravel_Q32023_v2",
+		"RakutenTravel_Q4_2023"
 	],
 	"afavelalovestory": [
 		"Anitta23"
@@ -101833,5 +101837,20 @@
 	],
 	"nflfrankfurtgames": [
 		"NFL_Frankfurt_Games23"
+	],
+	"hellokitty": [
+		"HelloKitty50th_JP_During"
+	],
+	"hellokitty50th": [
+		"HelloKitty50th_JP_During"
+	],
+	"ハローキティ": [
+		"HelloKitty50th_JP_During"
+	],
+	"ハローキティ50th": [
+		"HelloKitty50th_JP_During"
+	],
+	"楽天トラベルでいきたい温泉": [
+		"RakutenTravel_Q4_2023"
 	]
 }
