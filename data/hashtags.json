@@ -101849,16 +101849,20 @@
 		"NFL_Frankfurt_Games23"
 	],
 	"hellokitty": [
-		"HelloKitty50th_JP_During"
+		"HelloKitty50th_JP_During",
+		"HelloKitty50th_JP_After"
 	],
 	"hellokitty50th": [
-		"HelloKitty50th_JP_During"
+		"HelloKitty50th_JP_During",
+		"HelloKitty50th_JP_After"
 	],
 	"ハローキティ": [
-		"HelloKitty50th_JP_During"
+		"HelloKitty50th_JP_During",
+		"HelloKitty50th_JP_After"
 	],
 	"ハローキティ50th": [
-		"HelloKitty50th_JP_During"
+		"HelloKitty50th_JP_During",
+		"HelloKitty50th_JP_After"
 	],
 	"楽天トラベルでいきたい温泉": [
 		"RakutenTravel_Q4_2023"
@@ -101904,5 +101908,8 @@
 	],
 	"مهرجان_ضيافة": [
 		"DIAFA_2023"
+	],
+	"ハローキティ50周年": [
+		"HelloKitty50th_JP_After"
 	]
 }
