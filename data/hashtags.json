@@ -20896,7 +20896,8 @@
 	],
 	"gameawards": [
 		"TGA2021",
-		"The_Game_Awards_2022"
+		"The_Game_Awards_2022",
+		"TheGameAwards2023"
 	],
 	"gamebudxnba": [
 		"GameBudxNBA_2020"
@@ -57521,7 +57522,8 @@
 		"TheGameAwards2020",
 		"TheGameAwards2020_BL_H2",
 		"TheGameAwards2020_H3",
-		"The_Game_Awards_2022"
+		"The_Game_Awards_2022",
+		"TheGameAwards2023"
 	],
 	"thegameawards2020": [
 		"TheGameAwards2020",
@@ -60186,7 +60188,8 @@
 		"Netflix_Tribesofeuropa_2021"
 	],
 	"tribewin": [
-		"Tribe_Gaming_Jun_2022"
+		"Tribe_Gaming_Jun_2022",
+		"TribeGaming2023"
 	],
 	"trident": [
 		"Trident_BR_2020",
@@ -101888,5 +101891,11 @@
 	],
 	"fortniteog": [
 		"FortniteOGCh1_V2"
+	],
+	"shapinggreatness": [
+		"TribeGaming2023"
+	],
+	"tga10": [
+		"TheGameAwards2023"
 	]
 }
