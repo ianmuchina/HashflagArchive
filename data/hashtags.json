@@ -14098,7 +14098,8 @@
 	],
 	"diafa": [
 		"DIAFA_Oct_2022",
-		"DIAFA_2021"
+		"DIAFA_2021",
+		"DIAFA_2023"
 	],
 	"diafa2022": [
 		"DIAFA_Oct_2022"
@@ -101897,5 +101898,11 @@
 	],
 	"tga10": [
 		"TheGameAwards2023"
+	],
+	"diafa2023": [
+		"DIAFA_2023"
+	],
+	"مهرجان_ضيافة": [
+		"DIAFA_2023"
 	]
 }
