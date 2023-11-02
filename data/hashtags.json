@@ -40976,7 +40976,8 @@
 		"NWSL_Season_NWSLChallengeCup_2022"
 	],
 	"nwslchampionship": [
-		"NWSL_Season_NWSLChampionship_2022"
+		"NWSL_Season_NWSLChampionship_2022",
+		"NWSL_Final2023"
 	],
 	"nxde": [
 		"Cube_ent_GIDLE_Oct_2022"
@@ -101930,5 +101931,8 @@
 	],
 	"wentandtookit": [
 		"MLB_2023_Rangers_WS"
+	],
+	"championsplayhere": [
+		"NWSL_Final2023"
 	]
 }
