@@ -101955,5 +101955,11 @@
 	],
 	"cobra": [
 		"MTSCobra"
+	],
+	"andersonspidersilva": [
+		"BF-9564_ParamountPlusBR_AndersonSilva_Before"
+	],
+	"spidernoparamount": [
+		"BF-9564_ParamountPlusBR_AndersonSilva_Before"
 	]
 }
