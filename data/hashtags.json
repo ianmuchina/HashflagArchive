@@ -36090,7 +36090,8 @@
 		"MegTheeStallion_2020_Q4",
 		"MegTheeStallion_GoodNews_H_all",
 		"Meg_Thee_Stallion_Graduation_Emoji_2021",
-		"Meg_Thee_Stallion_Aug_2022"
+		"Meg_Thee_Stallion_Aug_2022",
+		"MTSCobra"
 	],
 	"megantheestallionamas": [
 		"AMAsArtist_2021_BTSMeganTheeStallion"
@@ -101951,5 +101952,8 @@
 	],
 	"onetruegod": [
 		"A24_Dream_Scenario_Hashmoji_Q423"
+	],
+	"cobra": [
+		"MTSCobra"
 	]
 }
