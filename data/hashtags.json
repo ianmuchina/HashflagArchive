@@ -45641,7 +45641,8 @@
 	"premiomultishow": [
 		"PMMB_2021",
 		"PremioMultishow_2020",
-		"Emoji_Premio_Multishow_2022"
+		"Emoji_Premio_Multishow_2022",
+		"Globo_Premio_Multishow_2023"
 	],
 	"premiomultishow2021": [
 		"PMMB_2021"
@@ -46143,7 +46144,8 @@
 	"prêmiomultishow": [
 		"PMMB_2021",
 		"PremioMultishow_2020",
-		"Emoji_Premio_Multishow_2022"
+		"Emoji_Premio_Multishow_2022",
+		"Globo_Premio_Multishow_2023"
 	],
 	"prêmiomultishow2021": [
 		"PMMB_2021"
@@ -101990,5 +101992,11 @@
 	],
 	"greycup": [
 		"CFL_GreyCup_2023_CA"
+	],
+	"premiomultishow2023": [
+		"Globo_Premio_Multishow_2023"
+	],
+	"prêmiomultishow2023": [
+		"Globo_Premio_Multishow_2023"
 	]
 }
