@@ -31470,10 +31470,12 @@
 		"LazadaID_Indonesia"
 	],
 	"lazada1111": [
-		"Lazada1111_2021"
+		"Lazada1111_2021",
+		"LazadaTH_D11_Hashmoji_before"
 	],
 	"lazada1111th": [
-		"LazadaTH1111_2021"
+		"LazadaTH1111_2021",
+		"LazadaTH_D11_Hashmoji_before"
 	],
 	"lazada1111ถูกสุดในรอบปี": [
 		"LazadaTH1111_2021"
@@ -102193,5 +102195,14 @@
 	],
 	"lazadamy1111": [
 		"BF-9608_LazadaMY1111_Hashmoji1_before"
+	],
+	"lazada1111thlive": [
+		"LazadaTH_D11_Hashmoji_before"
+	],
+	"lazada1111trendyspace": [
+		"LazadaTH_D11_Hashmoji_before"
+	],
+	"lazbeauty1111เทรนด์สวยต้องลอง": [
+		"LazadaTH_D11_Hashmoji_before"
 	]
 }
