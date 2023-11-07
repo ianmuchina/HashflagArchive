@@ -45646,7 +45646,8 @@
 		"PMMB_2021",
 		"PremioMultishow_2020",
 		"Emoji_Premio_Multishow_2022",
-		"Globo_Premio_Multishow_2023"
+		"Globo_Premio_Multishow_2023",
+		"Globo_Premio_Multishow_20232"
 	],
 	"premiomultishow2021": [
 		"PMMB_2021"
@@ -46149,7 +46150,8 @@
 		"PMMB_2021",
 		"PremioMultishow_2020",
 		"Emoji_Premio_Multishow_2022",
-		"Globo_Premio_Multishow_2023"
+		"Globo_Premio_Multishow_2023",
+		"Globo_Premio_Multishow_20232"
 	],
 	"prêmiomultishow2021": [
 		"PMMB_2021"
@@ -102005,7 +102007,8 @@
 		"Globo_Premio_Multishow_2023"
 	],
 	"prêmiomultishow2023": [
-		"Globo_Premio_Multishow_2023"
+		"Globo_Premio_Multishow_2023",
+		"Globo_Premio_Multishow_20232"
 	],
 	"bodedewish": [
 		"DisneyTH_Wish_Valentino_2023_R1"
@@ -102204,5 +102207,8 @@
 	],
 	"lazbeauty1111เทรนด์สวยต้องลอง": [
 		"LazadaTH_D11_Hashmoji_before"
+	],
+	"glônoprêmiomultishow": [
+		"Globo_Premio_Multishow_20232"
 	]
 }
