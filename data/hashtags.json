@@ -5777,7 +5777,8 @@
 		"BBMA_2020_Flight2",
 		"BillboardMusicAwards_2021",
 		"BBMAs_May_2022_v2",
-		"Billboard_BBMAs_2023_US"
+		"Billboard_BBMAs_2023_US",
+		"Billboard_BBMAs2023_Before"
 	],
 	"bbmas20": [
 		"BBMA_2020_Flight2"
@@ -6956,7 +6957,8 @@
 		"BBMA_2020_Flight2",
 		"BillboardMusicAwards_2021",
 		"BBMAs_May_2022_v2",
-		"Billboard_BBMAs_2023_US"
+		"Billboard_BBMAs_2023_US",
+		"Billboard_BBMAs2023_Before"
 	],
 	"billboards2020": [
 		"LatinBillboardAwards2020"
@@ -101395,7 +101397,8 @@
 		"NBA_SunsHashmojiV2"
 	],
 	"bbmas2023": [
-		"Billboard_BBMAs_2023_US"
+		"Billboard_BBMAs_2023_US",
+		"Billboard_BBMAs2023_Before"
 	],
 	"lastrodeo": [
 		"RestlessRoad23V2"
