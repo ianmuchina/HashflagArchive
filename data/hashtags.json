@@ -5778,7 +5778,8 @@
 		"BillboardMusicAwards_2021",
 		"BBMAs_May_2022_v2",
 		"Billboard_BBMAs_2023_US",
-		"Billboard_BBMAs2023_Before"
+		"Billboard_BBMAs2023_Before",
+		"Billboard_BBMAs2023_Before_V2"
 	],
 	"bbmas20": [
 		"BBMA_2020_Flight2"
@@ -6958,7 +6959,8 @@
 		"BillboardMusicAwards_2021",
 		"BBMAs_May_2022_v2",
 		"Billboard_BBMAs_2023_US",
-		"Billboard_BBMAs2023_Before"
+		"Billboard_BBMAs2023_Before",
+		"Billboard_BBMAs2023_Before_V2"
 	],
 	"billboards2020": [
 		"LatinBillboardAwards2020"
@@ -101398,7 +101400,8 @@
 	],
 	"bbmas2023": [
 		"Billboard_BBMAs_2023_US",
-		"Billboard_BBMAs2023_Before"
+		"Billboard_BBMAs2023_Before",
+		"Billboard_BBMAs2023_Before_V2"
 	],
 	"lastrodeo": [
 		"RestlessRoad23V2"
