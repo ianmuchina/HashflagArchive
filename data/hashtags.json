@@ -62513,7 +62513,8 @@
 	],
 	"vctgamechangers": [
 		"Riot_Valorant_VCT_Orange_2022",
-		"VCTGameChangers_2021"
+		"VCTGameChangers_2021",
+		"VCTGameChangersChamps2023"
 	],
 	"vctjp": [
 		"Riot_Valorant_VCT_Red_2022"
@@ -102301,5 +102302,8 @@
 	],
 	"tradebrilliantly": [
 		"BF-9553_ScwhabTrading_V3"
+	],
+	"tftvegasopen": [
+		"TFT_VegasOpen_2023"
 	]
 }
