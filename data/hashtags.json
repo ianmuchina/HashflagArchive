@@ -9861,7 +9861,8 @@
 		"Central_Department_Store_2022_v3"
 	],
 	"centraldepartmentstore": [
-		"Central_Department_Store_2022_v3"
+		"Central_Department_Store_2022_v3",
+		"Central_Prospect_Activation_Nov_Dec_2023_before"
 	],
 	"centralparktv": [
 		"Apple_CentralPark_MusicNote2",
@@ -72494,7 +72495,8 @@
 		"Disney_RonsGoneWrong_Duo_DUOKWs_2021"
 	],
 	"ห้างเซ็นทรัล": [
-		"Central_Department_Store_2022_v3"
+		"Central_Department_Store_2022_v3",
+		"Central_Prospect_Activation_Nov_Dec_2023_before"
 	],
 	"อธิษฐานเพื่อโทโฮคุ": [
 		"311Tohokumemorial_2021_v3_add"
@@ -72605,7 +72607,8 @@
 		"Disney_ShangChi_2021_Xialing"
 	],
 	"เซ็นทรัล": [
-		"Central_Department_Store_2022_v3"
+		"Central_Department_Store_2022_v3",
+		"Central_Prospect_Activation_Nov_Dec_2023_before"
 	],
 	"เดนวิทแมน": [
 		"Disney_Marvel_TheEternals_DaneWhitman_2021"
@@ -102308,5 +102311,11 @@
 	],
 	"tftvegasopen": [
 		"TFT_VegasOpen_2023"
+	],
+	"centralgiftdestination": [
+		"Central_Prospect_Activation_Nov_Dec_2023_before"
+	],
+	"centralletscelebrate2024": [
+		"Central_Prospect_Activation_Nov_Dec_2023_before"
 	]
 }
