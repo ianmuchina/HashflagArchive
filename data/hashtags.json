@@ -47726,7 +47726,8 @@
 		"NFL_Teams_2021_RedSea"
 	],
 	"redseaiff": [
-		"RSIFF_NOV_2022"
+		"RSIFF_NOV_2022",
+		"VisitRedSea_Q4_Campaign_Oct_23"
 	],
 	"redseaiff22": [
 		"RSIFF_NOV_2022"
@@ -70176,7 +70177,8 @@
 		"TV_and_Radio_Festival_Nov_2022"
 	],
 	"مهرجان_البحر_الأحمر_السينمائي_الدولي": [
-		"RSIFF_NOV_2022"
+		"RSIFF_NOV_2022",
+		"VisitRedSea_Q4_Campaign_Oct_23"
 	],
 	"مهرجان_ـضيافة": [
 		"DIAFA_Oct_2022"
@@ -102360,5 +102362,20 @@
 	],
 	"الرياض_إكسبو2030": [
 		"RiyadhExpo_2023_Hashmoji"
+	],
+	"dpworldxicc": [
+		"DP_World_Cricket_2023"
+	],
+	"redseaiff23": [
+		"VisitRedSea_Q4_Campaign_Oct_23"
+	],
+	"smartlogisticsbeyondboundaries": [
+		"DP_World_Cricket_2023"
+	],
+	"yourstoryyourfestival": [
+		"VisitRedSea_Q4_Campaign_Oct_23"
+	],
+	"قصتك_في_مهرجانك": [
+		"VisitRedSea_Q4_Campaign_Oct_23"
 	]
 }
