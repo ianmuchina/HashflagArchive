@@ -69312,7 +69312,8 @@
 		"MaharaHR_April_2021"
 	],
 	"خلك_حريص": [
-		"Be_Careful_Campaign_Character_Aug_2022"
+		"Be_Careful_Campaign_Character_Aug_2022",
+		"Care_Emoji_SaudiBanks_2023"
 	],
 	"خلك_في_البيت": [
 		"StayHome_2020_ItalianAdd",
@@ -102013,7 +102014,8 @@
 		"MTSCobra"
 	],
 	"andersonspidersilva": [
-		"BF-9564_ParamountPlusBR_AndersonSilva_Before"
+		"BF-9564_ParamountPlusBR_AndersonSilva_Before",
+		"BF-9564_ParamountPlusBR_AndersonSilva_During"
 	],
 	"spidernoparamount": [
 		"BF-9564_ParamountPlusBR_AndersonSilva_Before"
@@ -102408,5 +102410,8 @@
 	],
 	"جاكو_جا": [
 		"Jaco_App_Digital_Campaign_2023_HashmojiAfterHashfetti"
+	],
+	"be_careful": [
+		"Care_Emoji_SaudiBanks_2023"
 	]
 }
