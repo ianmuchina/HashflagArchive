@@ -75363,7 +75363,8 @@
 		"WB_Shazam_Jul_2022"
 	],
 	"シャニマス": [
-		"BNE_syanimasu_EMOJI_Oct_2021"
+		"BNE_syanimasu_EMOJI_Oct_2021",
+		"BNE_imassc_prism_app_launch_2023_Nov_Branded_Hashtag"
 	],
 	"シャニマスpから担当に一言": [
 		"BNE_syanimasu_EMOJI_Oct_2021"
@@ -102022,10 +102023,12 @@
 	],
 	"andersonspidersilva": [
 		"BF-9564_ParamountPlusBR_AndersonSilva_Before",
-		"BF-9564_ParamountPlusBR_AndersonSilva_During"
+		"BF-9564_ParamountPlusBR_AndersonSilva_During",
+		"BF-9564_ParamountPlusBR_AndersonSilva_After"
 	],
 	"spidernoparamount": [
-		"BF-9564_ParamountPlusBR_AndersonSilva_Before"
+		"BF-9564_ParamountPlusBR_AndersonSilva_Before",
+		"BF-9564_ParamountPlusBR_AndersonSilva_After"
 	],
 	"mlom": [
 		"AppleTV_MonarchHashmoji_November2023"
@@ -102423,5 +102426,14 @@
 	],
 	"welcome2collegrove": [
 		"2ChainzWayneW2C"
+	],
+	"シャニソン": [
+		"BNE_imassc_prism_app_launch_2023_Nov_Branded_Hashtag"
+	],
+	"シャニソンリリース": [
+		"BNE_imassc_prism_app_launch_2023_Nov_Branded_Hashtag"
+	],
+	"シャニソン生配信": [
+		"BNE_imassc_prism_app_launch_2023_Nov_Branded_Hashtag"
 	]
 }
