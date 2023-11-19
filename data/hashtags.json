@@ -5780,7 +5780,8 @@
 		"BBMAs_May_2022_v2",
 		"Billboard_BBMAs_2023_US",
 		"Billboard_BBMAs2023_Before",
-		"Billboard_BBMAs2023_Before_V2"
+		"Billboard_BBMAs2023_Before_V2",
+		"Billboard_BBMAs2023_Hashfetti"
 	],
 	"bbmas20": [
 		"BBMA_2020_Flight2"
@@ -6961,7 +6962,8 @@
 		"BBMAs_May_2022_v2",
 		"Billboard_BBMAs_2023_US",
 		"Billboard_BBMAs2023_Before",
-		"Billboard_BBMAs2023_Before_V2"
+		"Billboard_BBMAs2023_Before_V2",
+		"Billboard_BBMAs2023_During"
 	],
 	"billboards2020": [
 		"LatinBillboardAwards2020"
@@ -101441,7 +101443,8 @@
 	"bbmas2023": [
 		"Billboard_BBMAs_2023_US",
 		"Billboard_BBMAs2023_Before",
-		"Billboard_BBMAs2023_Before_V2"
+		"Billboard_BBMAs2023_Before_V2",
+		"Billboard_BBMAs2023_During"
 	],
 	"lastrodeo": [
 		"RestlessRoad23V2"
