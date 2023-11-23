@@ -33832,7 +33832,8 @@
 	"louisvuittonmen": [
 		"Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022",
 		"Louis_Vuitton_Men_Show_FW23_Jan_20",
-		"LV_Men_SS24"
+		"LV_Men_SS24",
+		"Louis_Vuitton_Homme_Pre_Fall_2023"
 	],
 	"louiswain": [
 		"AmazonStudios_LouisWain_2021"
@@ -34413,7 +34414,8 @@
 		"LVMenFW22_Show_Men_Jan_2022",
 		"Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022",
 		"Louis_Vuitton_Men_Show_FW23_Jan_20",
-		"LV_Men_SS24"
+		"LV_Men_SS24",
+		"Louis_Vuitton_Homme_Pre_Fall_2023"
 	],
 	"lvmenfw21": [
 		"LVMenFW21",
@@ -96601,7 +96603,8 @@
 		"LV_Men_SS24"
 	],
 	"lvxpharrell": [
-		"LV_Men_SS24"
+		"LV_Men_SS24",
+		"Louis_Vuitton_Homme_Pre_Fall_2023"
 	],
 	"museadadiversidade": [
 		"Mercado_Livre_Pride_During",
@@ -102575,5 +102578,11 @@
 	],
 	"جوائز_تروجيمنج": [
 		"TrueGaming_Awards_2023_KSA"
+	],
+	"louisvuittonmenprefall24": [
+		"Louis_Vuitton_Homme_Pre_Fall_2023"
+	],
+	"lvmenprefall24": [
+		"Louis_Vuitton_Homme_Pre_Fall_2023"
 	]
 }
