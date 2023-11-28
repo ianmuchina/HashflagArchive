@@ -101311,16 +101311,20 @@
 		"xDay2023_MultiversX_Hashmoji"
 	],
 	"bingoplus": [
-		"BF-9314_BingoPlus_PAPPA_Hashmoji"
+		"BF-9314_BingoPlus_PAPPA_Hashmoji",
+		"BingoPlus_PAPPA_2023_HashmojiExtension1"
 	],
 	"bingoplusday": [
-		"BF-9314_BingoPlus_PAPPA_Hashmoji"
+		"BF-9314_BingoPlus_PAPPA_Hashmoji",
+		"BingoPlus_PAPPA_2023_HashmojiExtension1"
 	],
 	"bingoplusph": [
-		"BF-9314_BingoPlus_PAPPA_Hashmoji"
+		"BF-9314_BingoPlus_PAPPA_Hashmoji",
+		"BingoPlus_PAPPA_2023_HashmojiExtension1"
 	],
 	"bpdaythepapapday": [
-		"BF-9314_BingoPlus_PAPPA_Hashmoji"
+		"BF-9314_BingoPlus_PAPPA_Hashmoji",
+		"BingoPlus_PAPPA_2023_HashmojiExtension1"
 	],
 	"cryptocanbe": [
 		"BF-9280_Kraken_2023_During",
@@ -102640,5 +102644,35 @@
 	],
 	"دورة_الألعاب_السعودية": [
 		"TheSaudiGames_TORCH_TOUR_2023"
+	],
+	"アトリエシリーズ": [
+		"Atelier_Resleri_Hashmoji_Valeria_2023"
+	],
+	"コミケでレスレリ": [
+		"Atelier_Resleri_Hashmoji_Resna_2023"
+	],
+	"レスナ": [
+		"Atelier_Resleri_Hashmoji_Resna_2023"
+	],
+	"レスレリ": [
+		"Atelier_Resleri_Hashmoji_Resna_2023"
+	],
+	"レスレリアーナ": [
+		"Atelier_Resleri_Hashmoji_Valeria_2023"
+	],
+	"レスレリアーナのアトリエ": [
+		"Atelier_Resleri_Hashmoji_Valeria_2023"
+	],
+	"レスレリガチャ100回無料決定": [
+		"Atelier_Resleri_Hashmoji_Resna_2023"
+	],
+	"レスレリクリスマス": [
+		"Atelier_Resleri_Hashmoji_Resna_2023"
+	],
+	"レスレリ生放送": [
+		"Atelier_Resleri_Hashmoji_Valeria_2023"
+	],
+	"ヴァレリア": [
+		"Atelier_Resleri_Hashmoji_Valeria_2023"
 	]
 }
