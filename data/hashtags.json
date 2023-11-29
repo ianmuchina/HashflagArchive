@@ -102412,15 +102412,18 @@
 	],
 	"exporiyad2030": [
 		"RiyadhExpo_2023_Hashmoji",
-		"RiyadhExpo2030_HashmojiBeforeHashfettiv1"
+		"RiyadhExpo2030_HashmojiBeforeHashfettiv1",
+		"RiyadhExpo2030_HashmojiAfterHashfetti_2023"
 	],
 	"riyadhexpo2030": [
 		"RiyadhExpo_2023_Hashmoji",
-		"RiyadhExpo2030_Hashmoji_v1"
+		"RiyadhExpo2030_Hashmoji_v1",
+		"RiyadhExpo2030_HashmojiAfterHashfetti_2023"
 	],
 	"الرياض_إكسبو2030": [
 		"RiyadhExpo_2023_Hashmoji",
-		"RiyadhExpo2030_HashmojiBeforeHashfettiv1"
+		"RiyadhExpo2030_HashmojiBeforeHashfettiv1",
+		"RiyadhExpo2030_HashmojiAfterHashfetti_2023"
 	],
 	"dpworldxicc": [
 		"DP_World_Cricket_2023"
@@ -102700,5 +102703,11 @@
 	],
 	"tiktokawardsbrasil": [
 		"BF-9832_TikToKAwards2023_Before"
+	],
+	"riyadhtheworldschoice": [
+		"RiyadhExpo2030_HashmojiAfterHashfetti_2023"
+	],
+	"الرياض_اختيار_العالم": [
+		"RiyadhExpo2030_HashmojiAfterHashfetti_2023"
 	]
 }
