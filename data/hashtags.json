@@ -78892,7 +78892,8 @@
 		"Asahi_Mitsuya_Japan_Mar_2022",
 		"ASAHI_Mitsuya_CPN_2023_before",
 		"ASAHI_Mitsuya_CPN_2023_during",
-		"ASAHI_Mitsuya_CPN_2023_after"
+		"ASAHI_Mitsuya_CPN_2023_after",
+		"Asahi_soft_drinks_mitsuya_xmas_Japan_2023_Hashmoji_new"
 	],
 	"三ツ矢の矢羽根つくってみた": [
 		"Asahi_Mitsuya_Japan_Mar_2022",
@@ -78907,7 +78908,8 @@
 		"AsahiSoftDrink_cider_Japan_2021",
 		"ASAHI_Mitsuya_CPN_2023_before",
 		"ASAHI_Mitsuya_CPN_2023_during",
-		"ASAHI_Mitsuya_CPN_2023_after"
+		"ASAHI_Mitsuya_CPN_2023_after",
+		"Asahi_soft_drinks_mitsuya_xmas_Japan_2023_Hashmoji_new"
 	],
 	"三ツ矢夏まつり": [
 		"AsahiSoftDrinkmitsuyasummercider2_Japan_2021"
@@ -102720,5 +102722,14 @@
 	"cop28uae": [
 		"COP28_UAE_Hashmoji",
 		"COP28_UAE_Hashmoji_2023"
+	],
+	"2023年も三ツ矢サンタにお願い": [
+		"Asahi_soft_drinks_mitsuya_xmas_Japan_2023_Hashmoji_new"
+	],
+	"2023年も三ツ矢サンタにお願いキャンペーン": [
+		"Asahi_soft_drinks_mitsuya_xmas_Japan_2023_Hashmoji_new"
+	],
+	"三ツ矢サンタ": [
+		"Asahi_soft_drinks_mitsuya_xmas_Japan_2023_Hashmoji_new"
 	]
 }
