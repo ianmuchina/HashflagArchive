@@ -78706,7 +78706,8 @@
 		"akiko_lawson_Xmas_2021",
 		"Xmasbox_C_2020_Lawson",
 		"LAWSON_JP_XmasBox_2022_v2",
-		"LAWSON_JP_XmasBox_2022"
+		"LAWSON_JP_XmasBox_2022",
+		"LAWSON_2023Q4_Hashmoji_akiko_lawson"
 	],
 	"ローソンから一足早くお届け": [
 		"Xmasbox_C_2020_Lawson"
@@ -78728,7 +78729,8 @@
 	"ローソンのロールケーキ食べたい": [
 		"akiko_lawson_Xmas_2021",
 		"LAWSON_JP_XmasBox_2022_v2",
-		"LAWSON_JP_XmasBox_2022"
+		"LAWSON_JP_XmasBox_2022",
+		"LAWSON_2023Q4_Hashmoji_akiko_lawson"
 	],
 	"ローソンメリクリどらもっち": [
 		"LAWSON_JP_XmasBox_2022_v2",
@@ -102826,5 +102828,14 @@
 	],
 	"surebingonaryoround": [
 		"BF-9875_BingoPlus_Christmas_2023_Hashmoji"
+	],
+	"ローソンのマチカフェ当たった": [
+		"LAWSON_2023Q4_Hashmoji_akiko_lawson"
+	],
+	"ローソンプレミアムロールケーキ": [
+		"LAWSON_2023Q4_Hashmoji_akiko_lawson"
+	],
+	"ローソンメリーデリシャス": [
+		"LAWSON_2023Q4_Hashmoji_akiko_lawson"
 	]
 }
