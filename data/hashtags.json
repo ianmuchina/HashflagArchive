@@ -101317,7 +101317,8 @@
 	],
 	"bingoplus": [
 		"BF-9314_BingoPlus_PAPPA_Hashmoji",
-		"BingoPlus_PAPPA_2023_HashmojiExtension1"
+		"BingoPlus_PAPPA_2023_HashmojiExtension1",
+		"BF-9875_BingoPlus_Christmas_2023_Hashmoji"
 	],
 	"bingoplusday": [
 		"BF-9314_BingoPlus_PAPPA_Hashmoji",
@@ -101325,7 +101326,8 @@
 	],
 	"bingoplusph": [
 		"BF-9314_BingoPlus_PAPPA_Hashmoji",
-		"BingoPlus_PAPPA_2023_HashmojiExtension1"
+		"BingoPlus_PAPPA_2023_HashmojiExtension1",
+		"BF-9875_BingoPlus_Christmas_2023_Hashmoji"
 	],
 	"bpdaythepapapday": [
 		"BF-9314_BingoPlus_PAPPA_Hashmoji",
@@ -102815,5 +102817,14 @@
 	],
 	"bybit": [
 		"Bybit_Bybit_Hashmoji_2023"
+	],
+	"merryangchristmassabingoplus": [
+		"BF-9875_BingoPlus_Christmas_2023_Hashmoji"
+	],
+	"merrymoreprizeswithbingoplus": [
+		"BF-9875_BingoPlus_Christmas_2023_Hashmoji"
+	],
+	"surebingonaryoround": [
+		"BF-9875_BingoPlus_Christmas_2023_Hashmoji"
 	]
 }
