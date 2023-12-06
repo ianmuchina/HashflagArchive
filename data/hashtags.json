@@ -102627,19 +102627,24 @@
 		"Louis_Vuitton_Homme_Pre_Fall_2023"
 	],
 	"botinonatal": [
-		"O_Boticario_C17_2023"
+		"O_Boticario_C17_2023",
+		"O_Boticario_C17_2023_Before"
 	],
 	"nataldoboti": [
-		"O_Boticario_C17_2023"
+		"O_Boticario_C17_2023",
+		"O_Boticario_C17_2023_Before"
 	],
 	"nataldoboticário": [
-		"O_Boticario_C17_2023"
+		"O_Boticario_C17_2023",
+		"O_Boticario_C17_2023_Before"
 	],
 	"oboticário": [
-		"O_Boticario_C17_2023"
+		"O_Boticario_C17_2023",
+		"O_Boticario_C17_2023_Before"
 	],
 	"sejaumamorpresente": [
-		"O_Boticario_C17_2023"
+		"O_Boticario_C17_2023",
+		"O_Boticario_C17_2023_Before"
 	],
 	"bybithello": [
 		"Bybit_Official_Hashmoji_1"
@@ -102855,5 +102860,20 @@
 	],
 	"hellobybit": [
 		"Bybit_Official_Hashmoji_2023"
+	],
+	"playlife": [
+		"Qiddiya_Launch_2023_Hashmoji"
+	],
+	"qiddiyacity": [
+		"Qiddiya_Launch_2023_Hashmoji"
+	],
+	"القدية": [
+		"Qiddiya_Launch_2023_Hashmoji"
+	],
+	"اللعب_يحيينا": [
+		"Qiddiya_Launch_2023_Hashmoji"
+	],
+	"مدينة_القدية": [
+		"Qiddiya_Launch_2023_Hashmoji"
 	]
 }
