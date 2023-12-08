@@ -40122,7 +40122,8 @@
 		"Nicki_Minaj_DWHAP_2022_Emoji",
 		"NickiMinajPinkprintAnniversary2020",
 		"Nicki_Minaj_Mixtape_2021_V2",
-		"NickiMinaj23"
+		"NickiMinaj23",
+		"NickiMinaj_PinkFriday2_US"
 	],
 	"nickiminajvanguard": [
 		"MTV_VMAs_Aug_2022"
@@ -102901,5 +102902,11 @@
 	],
 	"鈴木羽那": [
 		"BNE_imassc_prism_applaunch_2023Dec_BrandedHashtag"
+	],
+	"nickiday": [
+		"NickiMinaj_PinkFriday2_US"
+	],
+	"pinkfriday2": [
+		"NickiMinaj_PinkFriday2_US"
 	]
 }
