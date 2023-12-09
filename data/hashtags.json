@@ -102942,16 +102942,20 @@
 		"BF-9912_LazadaPH_1212_2023_hashmoji_before"
 	],
 	"awasmodus": [
-		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_during"
+		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_during",
+		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_after"
 	],
 	"bankbca": [
-		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_during"
+		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_during",
+		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_after"
 	],
 	"indrowarkop": [
-		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_during"
+		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_during",
+		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_after"
 	],
 	"pikirulang": [
-		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_during"
+		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_during",
+		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_after"
 	],
 	" \"اكتشف_بُعد_الأحساء": [
 		"BF-9902DiscoverbeyondAlAhsa2023CharacterEmoji"
@@ -102973,5 +102977,8 @@
 	],
 	"綺良々": [
 		"Kirara_Genshin_Impact_Q4_2023"
+	],
+	"dontknowkasihno": [
+		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_after"
 	]
 }
