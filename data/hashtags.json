@@ -102716,19 +102716,23 @@
 		"BAJ_Ajwaa_Card_Campaign_2023"
 	],
 	"awardstiktok": [
-		"BF-9832_TikToKAwards2023_Before"
+		"BF-9832_TikToKAwards2023_Before",
+		"BF-9832_TikToKAwards2023_During"
 	],
 	"tiktokawards": [
-		"BF-9832_TikToKAwards2023_Before"
+		"BF-9832_TikToKAwards2023_Before",
+		"BF-9832_TikToKAwards2023_During"
 	],
 	"tiktokawards2023": [
-		"BF-9832_TikToKAwards2023_Before"
+		"BF-9832_TikToKAwards2023_Before",
+		"BF-9832_TikToKAwards2023_During"
 	],
 	"tiktokawards23": [
 		"BF-9832_TikToKAwards2023_Before"
 	],
 	"tiktokawardsbrasil": [
-		"BF-9832_TikToKAwards2023_Before"
+		"BF-9832_TikToKAwards2023_Before",
+		"BF-9832_TikToKAwards2023_During"
 	],
 	"riyadhtheworldschoice": [
 		"RiyadhExpo2030_HashmojiAfterHashfetti_2023"
@@ -102963,7 +102967,8 @@
 		"BF-9902DiscoverbeyondAlAhsa2023CharacterEmoji"
 	],
 	"اكتشف_بُعد": [
-		"BF-9902DiscoverbeyondAlAhsa2023CharacterEmoji"
+		"BF-9902DiscoverbeyondAlAhsa2023CharacterEmoji",
+		"BF-9902_DiscoverbeyondAl-Ahsa2023CharacterEmoji"
 	],
 	"kirara": [
 		"Kirara_Genshin_Impact_Q4_2023"
@@ -103021,5 +103026,8 @@
 	],
 	"ลาซาด้าการันตีราคาถูก": [
 		"BF-9939_LazadaTH_1212_hashmoji_before"
+	],
+	"اكتشف_بُعد_الأحساء": [
+		"BF-9902_DiscoverbeyondAl-Ahsa2023CharacterEmoji"
 	]
 }
