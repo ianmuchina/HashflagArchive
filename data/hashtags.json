@@ -102814,10 +102814,12 @@
 	],
 	"welcomethechampions": [
 		"FCWC_2023_before",
-		"FCWC_2023_during"
+		"FCWC_2023_during",
+		"FCWC_2023_after"
 	],
 	"هلا_بالأبطال": [
-		"FCWC_2023_before"
+		"FCWC_2023_before",
+		"FCWC_2023_after"
 	],
 	"forkknife": [
 		"FortniteEco"
