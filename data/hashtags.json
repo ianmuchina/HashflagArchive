@@ -31504,7 +31504,8 @@
 	"lazada1212th": [
 		"LazadaTH_emoji_2",
 		"BF-9939_LazadaTH_1212_hashmoji_before",
-		"BF-9939_LazadaTH_1212_hashmoji_during"
+		"BF-9939_LazadaTH_1212_hashmoji_during",
+		"BF-9939_LazadaTH_1212_hashmoji_after"
 	],
 	"lazada1212thalloutyearendsale": [
 		"LazadaTH_emoji_2"
@@ -103035,24 +103036,32 @@
 		"Kimmugi_Off_Hashmoji2023_v2"
 	],
 	"lazada1212thlive": [
-		"BF-9939_LazadaTH_1212_hashmoji_before"
+		"BF-9939_LazadaTH_1212_hashmoji_before",
+		"BF-9939_LazadaTH_1212_hashmoji_after"
 	],
 	"lazadafashion1212th": [
 		"BF-9939_LazadaTH_1212_hashmoji_before",
-		"BF-9939_LazadaTH_1212_hashmoji_during"
+		"BF-9939_LazadaTH_1212_hashmoji_during",
+		"BF-9939_LazadaTH_1212_hashmoji_after"
 	],
 	"lazbeauty1212th": [
 		"BF-9939_LazadaTH_1212_hashmoji_before",
-		"BF-9939_LazadaTH_1212_hashmoji_during"
+		"BF-9939_LazadaTH_1212_hashmoji_during",
+		"BF-9939_LazadaTH_1212_hashmoji_after"
 	],
 	"ลาซาด้าการันตีราคาถูก": [
 		"BF-9939_LazadaTH_1212_hashmoji_before",
-		"BF-9939_LazadaTH_1212_hashmoji_during"
+		"BF-9939_LazadaTH_1212_hashmoji_during",
+		"BF-9939_LazadaTH_1212_hashmoji_after"
 	],
 	"اكتشف_بُعد_الأحساء": [
 		"BF-9902_DiscoverbeyondAl-Ahsa2023CharacterEmoji"
 	],
 	"tvshowshopee1212": [
-		"BF-9816_Shopee1212_2023_During"
+		"BF-9816_Shopee1212_2023_During",
+		"BF-9816_Shopee1212_2023_After"
+	],
+	"puncakshopee1212": [
+		"BF-9816_Shopee1212_2023_After"
 	]
 }
