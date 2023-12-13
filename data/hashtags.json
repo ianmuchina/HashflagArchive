@@ -41455,7 +41455,8 @@
 		"OKX_Follower_Campaign_Nov_2022",
 		"OKX_follower_2023-feb_brandedhashtag",
 		"OKX_Branded_Emoji-5-23",
-		"OKX_Branded_Emoji_Aug_Oct_2023"
+		"OKX_Branded_Emoji_Aug_Oct_2023",
+		"BF-9882_OKX_BrandedEmoji_2023"
 	],
 	"okxchain": [
 		"OKC_Campaign_May_2022",
@@ -41494,12 +41495,14 @@
 		"OKXNFT_Campaign_Sept_2022",
 		"OKXNFT_Campaign_Dec_2022",
 		"OKX_Branded_Emoji-5-23",
-		"OKX_Branded_Emoji_Aug_Oct_2023"
+		"OKX_Branded_Emoji_Aug_Oct_2023",
+		"BF-9882_OKX_BrandedEmoji_2023"
 	],
 	"okxweb3": [
 		"OKX_Follower_Campaign_Nov_2022",
 		"OKX_Branded_Emoji-5-23",
-		"OKX_Branded_Emoji_Aug_Oct_2023"
+		"OKX_Branded_Emoji_Aug_Oct_2023",
+		"BF-9882_OKX_BrandedEmoji_2023"
 	],
 	"ol2021": [
 		"OSL2021"
@@ -103088,5 +103091,11 @@
 	],
 	"jogapralua": [
 		"BF-9923_Anitta_2023"
+	],
+	"tradelikeapro": [
+		"BF-9882_OKX_BrandedEmoji_2023"
+	],
+	"x1byokx": [
+		"BF-9882_OKX_BrandedEmoji_2023"
 	]
 }
