@@ -3187,7 +3187,8 @@
 		"AnittaGirlFromRio_2021",
 		"Anitta10Years_2020",
 		"Republic_Anitta",
-		"Anitta23"
+		"Anitta23",
+		"BF-9923_Anitta_2023"
 	],
 	"anitta10anos": [
 		"Anitta10Years_2020"
@@ -102641,19 +102642,23 @@
 	],
 	"botinonatal": [
 		"O_Boticario_C17_2023",
-		"O_Boticario_C17_2023_Before"
+		"O_Boticario_C17_2023_Before",
+		"O_Boticario_C17_2023_During"
 	],
 	"nataldoboti": [
 		"O_Boticario_C17_2023",
-		"O_Boticario_C17_2023_Before"
+		"O_Boticario_C17_2023_Before",
+		"O_Boticario_C17_2023_During"
 	],
 	"nataldoboticário": [
 		"O_Boticario_C17_2023",
-		"O_Boticario_C17_2023_Before"
+		"O_Boticario_C17_2023_Before",
+		"O_Boticario_C17_2023_During"
 	],
 	"oboticário": [
 		"O_Boticario_C17_2023",
-		"O_Boticario_C17_2023_Before"
+		"O_Boticario_C17_2023_Before",
+		"O_Boticario_C17_2023_During"
 	],
 	"sejaumamorpresente": [
 		"O_Boticario_C17_2023",
@@ -103067,5 +103072,11 @@
 	],
 	"puncakshopee1212": [
 		"BF-9816_Shopee1212_2023_After"
+	],
+	"anittajogapralua": [
+		"BF-9923_Anitta_2023"
+	],
+	"jogapralua": [
+		"BF-9923_Anitta_2023"
 	]
 }
