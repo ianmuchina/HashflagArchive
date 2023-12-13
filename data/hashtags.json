@@ -34543,7 +34543,8 @@
 		"ABC_M1_Grandprix_Dec_2022"
 	],
 	"m1グランプリ": [
-		"ABC_M1_Grandprix_Dec_2022"
+		"ABC_M1_Grandprix_Dec_2022",
+		"M1GrandPrix"
 	],
 	"m1グランプリ敗者復活戦": [
 		"M1_Grandprix_ABC_2021_v2",
@@ -103097,5 +103098,11 @@
 	],
 	"x1byokx": [
 		"BF-9882_OKX_BrandedEmoji_2023"
+	],
+	"m1gp2023": [
+		"M1GrandPrix"
+	],
+	"m1決勝": [
+		"M1GrandPrix"
 	]
 }
