@@ -10004,7 +10004,8 @@
 	"cfbplayoff": [
 		"CFBPlayoff202021",
 		"CFP2021-22",
-		"College_Football_Playoffs_CFBLOGO_2023"
+		"College_Football_Playoffs_CFBLOGO_2023",
+		"CFBPlayoffs_2023"
 	],
 	"cffc": [
 		"MLS2020_CHI",
@@ -22200,7 +22201,8 @@
 	],
 	"goblue": [
 		"MichiganFootballCFP2021",
-		"College_Football_Playoff_Michigan_2022_v2"
+		"College_Football_Playoff_Michigan_2022_v2",
+		"CFBPlayoffs_GoBlue_2023"
 	],
 	"gobolts": [
 		"NHLTeam_2021_GoBolts",
@@ -39179,7 +39181,8 @@
 		"CFPNationalChampionship2021TrophyEmoji",
 		"CFPNationalChamp2022",
 		"College_Football_Playoff_Trophy_2022",
-		"Final_Four_23"
+		"Final_Four_23",
+		"CFBPlayoffs_NationalChampionship_2023"
 	],
 	"nationalcomingoutday": [
 		"NationalComingOutDay_2020"
@@ -48842,7 +48845,8 @@
 	],
 	"rolltide": [
 		"AlabamaCFP2021YEARLONG",
-		"AlabamaCFP2021"
+		"AlabamaCFP2021",
+		"CFBPlayoffs_RollTide_2023"
 	],
 	"rolluptherim": [
 		"Tim_Hortons_RUTW_2022",
@@ -103118,5 +103122,11 @@
 	],
 	"ヘブバン2周年": [
 		"Heavenburnsred_Dec2023_Hashmoji"
+	],
+	"hookem": [
+		"CFBPlayoffs_HookEm_2023"
+	],
+	"purplereign": [
+		"CFBPlayoffs_PurpleReign_2023"
 	]
 }
