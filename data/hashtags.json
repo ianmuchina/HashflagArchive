@@ -21983,7 +21983,8 @@
 		"GlobeJackRussellQ42020"
 	],
 	"globes": [
-		"GoldenGlobes_2021"
+		"GoldenGlobes_2021",
+		"GoldenGlobes2024_US"
 	],
 	"globes78": [
 		"GoldenGlobes_2021"
@@ -22526,7 +22527,8 @@
 	],
 	"goldenglobes": [
 		"GoldenGlobes_2021",
-		"Dick_Clark_Productions_Golden_Globes_2022"
+		"Dick_Clark_Productions_Golden_Globes_2022",
+		"GoldenGlobes2024_US"
 	],
 	"goldenglobes2023": [
 		"Dick_Clark_Productions_Golden_Globes_2022"
@@ -103168,5 +103170,8 @@
 	],
 	"ces24": [
 		"CES2024"
+	],
+	"goldenglobes2024": [
+		"GoldenGlobes2024_US"
 	]
 }
