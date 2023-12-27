@@ -92581,7 +92581,8 @@
 		"Al_Ula_Skies_Festival_2023",
 		"Al_Ula_Skies_Festival_2023_before",
 		"Al_Ula_Skies_Festival_2023_during_v2",
-		"Al_Ula_Skies_Festival_2023_after_v2"
+		"Al_Ula_Skies_Festival_2023_after_v2",
+		"Winter_At_Tantora_2023_during"
 	],
 	"سماء_العلا": [
 		"Al_Ula_Skies_Festival_2023",
@@ -103247,5 +103248,11 @@
 	],
 	"ポケモンコンシェルジュ": [
 		"BF-9980_NetflixJP_Hashmoji_20231228"
+	],
+	"alula": [
+		"Winter_At_Tantora_2023_during"
+	],
+	"winterattantora": [
+		"Winter_At_Tantora_2023_during"
 	]
 }
