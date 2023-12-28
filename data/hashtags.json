@@ -19797,13 +19797,15 @@
 		"FNB_Oct_2022",
 		"FNB_Emoji_request_extension_Oct_Dec_2023",
 		"One_FNB_Awareness_Q4Nov_Dec_2023",
-		"BF-9601_One_FNB_Awareness_Jan2024"
+		"BF-9601_One_FNB_Awareness_Jan2024",
+		"BF-9601_One_FNB_Hashmoji_Jan2024"
 	],
 	"fnbbusiness": [
 		"FNB_BrandLove_2021",
 		"FNB_Jul_2022",
 		"One_FNB_Awareness_Positive_Sentiment_FY23_Q4_Apr_Jun_2023",
-		"BF-9601_One_FNB_Awareness_Jan2024"
+		"BF-9601_One_FNB_Awareness_Jan2024",
+		"BF-9601_One_FNB_Hashmoji_Jan2024"
 	],
 	"fnbisoftlife": [
 		"FNB_Brand_Love_v3_Mar_2022",
@@ -33968,7 +33970,8 @@
 		"One_FNB_Awareness_AlwaysOn_FY24_Q1JulSep2023_Twitter_",
 		"FNB_Emoji_request_extension_Oct_Dec_2023",
 		"One_FNB_Awareness_Q4Nov_Dec_2023",
-		"BF-9601_One_FNB_Awareness_Jan2024"
+		"BF-9601_One_FNB_Awareness_Jan2024",
+		"BF-9601_One_FNB_Hashmoji_Jan2024"
 	],
 	"lovefortohoku": [
 		"311Tohokumemorial_2021_v2",
@@ -93968,7 +93971,8 @@
 	],
 	"fnbsafe": [
 		"One_FNB_Awareness_Positive_Sentiment_FY23_Q4_Apr_Jun_2023",
-		"BF-9601_One_FNB_Awareness_Jan2024"
+		"BF-9601_One_FNB_Awareness_Jan2024",
+		"BF-9601_One_FNB_Hashmoji_Jan2024"
 	],
 	"getthehelpyouneed": [
 		"One_FNB_Awareness_Positive_Sentiment_FY23_Q4_Apr_Jun_2023"
@@ -103284,6 +103288,7 @@
 		"BF-9982_NetflixJP_Hashmoji_20231228_3_Yanap"
 	],
 	"fnbsummer": [
-		"BF-9601_One_FNB_Awareness_Jan2024"
+		"BF-9601_One_FNB_Awareness_Jan2024",
+		"BF-9601_One_FNB_Hashmoji_Jan2024"
 	]
 }
