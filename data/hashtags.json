@@ -92588,7 +92588,8 @@
 		"Al_Ula_Skies_Festival_2023_before",
 		"Al_Ula_Skies_Festival_2023_during_v2",
 		"Al_Ula_Skies_Festival_2023_after_v2",
-		"Winter_At_Tantora_2023_during"
+		"Winter_At_Tantora_2023_during",
+		"Winter_At_Tantora_2023_after"
 	],
 	"سماء_العلا": [
 		"Al_Ula_Skies_Festival_2023",
@@ -103258,10 +103259,12 @@
 		"BF-9980_NetflixJP_Hashmoji_20231228"
 	],
 	"alula": [
-		"Winter_At_Tantora_2023_during"
+		"Winter_At_Tantora_2023_during",
+		"Winter_At_Tantora_2023_after"
 	],
 	"winterattantora": [
-		"Winter_At_Tantora_2023_during"
+		"Winter_At_Tantora_2023_during",
+		"Winter_At_Tantora_2023_after"
 	],
 	"furret": [
 		"BF-9984_NetflixJP_Hashmoji_20231228_5_Ootachi"
@@ -103290,5 +103293,8 @@
 	"fnbsummer": [
 		"BF-9601_One_FNB_Awareness_Jan2024",
 		"BF-9601_One_FNB_Hashmoji_Jan2024"
+	],
+	"شتاء_طنطورة": [
+		"Winter_At_Tantora_2023_after"
 	]
 }
