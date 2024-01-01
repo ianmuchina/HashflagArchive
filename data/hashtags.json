@@ -7975,7 +7975,8 @@
 	"bountyrush": [
 		"BNE_OPBR_global_Film_Uta_Nov_2022",
 		"BNE_OPBR_official_NewYearCampaign_2023",
-		"BNE_OPBR_official_in_app_event_Branded_Hashtag_2023Aug"
+		"BNE_OPBR_official_in_app_event_Branded_Hashtag_2023Aug",
+		"BNE_OPBR_official_appevent_2024Jan_BrandedHashtag"
 	],
 	"bountyrush_filmred": [
 		"BNE_OPBR_global_Film_Uta_Nov_2022"
@@ -41857,7 +41858,8 @@
 		"BNE_OPBR_official_Event_for_the_film_Shanks_Aug_2022",
 		"BNE_OPBR_global_Film_Luffy_Nov_2022",
 		"Netflix_OnePiece_Q3_2023",
-		"NetflixJP_20230825-20230924_ONEPIECE"
+		"NetflixJP_20230825-20230924_ONEPIECE",
+		"BNE_OPBR_official_appevent_2024Jan_BrandedHashtag"
 	],
 	"onepiece1000logs": [
 		"ShueishaOnePiece1000_2020"
@@ -78292,7 +78294,8 @@
 		"ProfessionalBaseball_JP_2021_YS"
 	],
 	"ヤマト": [
-		"BNE_OPBR_official_2021"
+		"BNE_OPBR_official_2021",
+		"BNE_OPBR_official_appevent_2024Jan_BrandedHashtag"
 	],
 	"ユウタ": [
 		"SMent_NCT127_Japan_Tour_4_May_2022"
@@ -103306,5 +103309,11 @@
 	"haaland": [
 		"BF-9998_Haaland_Start_Hashfetti",
 		"BF-9997_Haaland_After_Hashmoji"
+	],
+	"エース": [
+		"BNE_OPBR_official_appevent_2024Jan_BrandedHashtag"
+	],
+	"バウンティラッシュ5周年": [
+		"BNE_OPBR_official_appevent_2024Jan_BrandedHashtag"
 	]
 }
