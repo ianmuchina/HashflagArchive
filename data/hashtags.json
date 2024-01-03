@@ -12750,7 +12750,8 @@
 	"dakarinsaudi": [
 		"Dakar_2021",
 		"FR_DAKAR_2022",
-		"ASO-Dakar_Rally_2023"
+		"ASO-Dakar_Rally_2023",
+		"Dakar_Rally_2024"
 	],
 	"daleformaatufuturo": [
 		"US_Census_2020_Flight2"
@@ -103323,5 +103324,11 @@
 	],
 	"معاك": [
 		"BF-10043_Saudi_Electricity_2024"
+	],
+	"dakar2024": [
+		"Dakar_Rally_2024"
+	],
+	"داكار2024": [
+		"Dakar_Rally_2024"
 	]
 }
