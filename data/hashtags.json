@@ -7025,7 +7025,8 @@
 		"Binance_2023_Q1_Campaign_Emoji_202301",
 		"Binance_2023_Q2_Campaign_Emoji_202304",
 		"BF-8523_Binance_202307",
-		"Binance_Q3_Campaign_Emoji_202310"
+		"Binance_Q3_Campaign_Emoji_202310",
+		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2"
 	],
 	"binance10m": [
 		"Binance_10M_Follower_Nov_2022"
@@ -7034,11 +7035,13 @@
 		"Binance_Blockchain_Week_2022",
 		"Binance_Jul_2022",
 		"BF-8523_Binance_202307",
-		"Binance_Q3_Campaign_Emoji_202310"
+		"Binance_Q3_Campaign_Emoji_202310",
+		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2"
 	],
 	"binancechristmas": [
 		"Binance_Festival_Campaign_Oct_2022_add",
-		"Binance_Q3_Campaign_Emoji_202310"
+		"Binance_Q3_Campaign_Emoji_202310",
+		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2"
 	],
 	"binancesmartchain": [
 		"Binance_Q4_2020",
@@ -7656,7 +7659,8 @@
 		"Binance_2023_Q1_Campaign_Emoji_202301",
 		"Binance_2023_Q2_Campaign_Emoji_202304",
 		"BF-8523_Binance_202307",
-		"Binance_Q3_Campaign_Emoji_202310"
+		"Binance_Q3_Campaign_Emoji_202310",
+		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2"
 	],
 	"bng": [
 		"ICCT20WorldCup_2021_BNG"
@@ -86312,7 +86316,8 @@
 	],
 	"binancebuild": [
 		"Binance_2023_Q1_Campaign_Emoji_202301",
-		"Binance_Q3_Campaign_Emoji_202310"
+		"Binance_Q3_Campaign_Emoji_202310",
+		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2"
 	],
 	"blackmafiafamily": [
 		"BMF_S2_Emoji"
@@ -99854,19 +99859,23 @@
 	],
 	"ahorráalmango": [
 		"Naranja_X_Smartes_2023",
-		"Naranja_X_Smartes_Hashmoji_2023"
+		"Naranja_X_Smartes_Hashmoji_2023",
+		"BF-10037_AR00223174_NaranjaX_Verano_2024"
 	],
 	"losmangosdenx": [
 		"Naranja_X_Smartes_2023",
-		"Naranja_X_Smartes_Hashmoji_2023"
+		"Naranja_X_Smartes_Hashmoji_2023",
+		"BF-10037_AR00223174_NaranjaX_Verano_2024"
 	],
 	"mangosparaahorrarunosmangos": [
 		"Naranja_X_Smartes_2023",
-		"Naranja_X_Smartes_Hashmoji_2023"
+		"Naranja_X_Smartes_Hashmoji_2023",
+		"BF-10037_AR00223174_NaranjaX_Verano_2024"
 	],
 	"promosalmango": [
 		"Naranja_X_Smartes_2023",
-		"Naranja_X_Smartes_Hashmoji_2023"
+		"Naranja_X_Smartes_Hashmoji_2023",
+		"BF-10037_AR00223174_NaranjaX_Verano_2024"
 	],
 	"unmango": [
 		"Naranja_X_Smartes_2023",
@@ -103390,5 +103399,8 @@
 	],
 	"أمم_إفريقيا_2023": [
 		"Africa_Cup_of_Nations_2024"
+	],
+	"veranoalmango": [
+		"BF-10037_AR00223174_NaranjaX_Verano_2024"
 	]
 }
