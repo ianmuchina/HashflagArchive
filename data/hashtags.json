@@ -21996,7 +21996,8 @@
 	],
 	"globes": [
 		"GoldenGlobes_2021",
-		"GoldenGlobes2024_US"
+		"GoldenGlobes2024_US",
+		"GoldenGlobes2024_US_2"
 	],
 	"globes78": [
 		"GoldenGlobes_2021"
@@ -22540,7 +22541,8 @@
 	"goldenglobes": [
 		"GoldenGlobes_2021",
 		"Dick_Clark_Productions_Golden_Globes_2022",
-		"GoldenGlobes2024_US"
+		"GoldenGlobes2024_US",
+		"GoldenGlobes2024_US_2"
 	],
 	"goldenglobes2023": [
 		"Dick_Clark_Productions_Golden_Globes_2022"
@@ -103231,7 +103233,8 @@
 		"CES2024"
 	],
 	"goldenglobes2024": [
-		"GoldenGlobes2024_US"
+		"GoldenGlobes2024_US",
+		"GoldenGlobes2024_US_2"
 	],
 	"rebelmoon": [
 		"NetflixRebelMoon_CustomLike",
