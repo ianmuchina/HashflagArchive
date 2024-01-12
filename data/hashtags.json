@@ -2663,7 +2663,8 @@
 		"LoL_Fnatic_2020",
 		"LEC_Team_Fnatic_2022",
 		"LEC_EM_2021_FNCWIN",
-		"LeagueofLegends_Esports_TeamEmojis_Fnatic"
+		"LeagueofLegends_Esports_TeamEmojis_Fnatic",
+		"FNATIC_Emoji_2024"
 	],
 	"alwaysgame": [
 		"NBA_2021_Teams_AlwaysGame"
@@ -19842,7 +19843,8 @@
 		"LoL_Fnatic_2020",
 		"LEC_Team_Fnatic_2022",
 		"LEC_EM_2021_FNCWIN",
-		"LeagueofLegends_Esports_TeamEmojis_Fnatic"
+		"LeagueofLegends_Esports_TeamEmojis_Fnatic",
+		"FNATIC_Emoji_2024"
 	],
 	"fnxmeg": [
 		"MegTheeStallion_GoodNews_H_all"
@@ -20832,7 +20834,8 @@
 		"LEC_EM_2021_G2WIN",
 		"G2_Esports_2023",
 		"League_of_Legends_Esports_Team_Emojis_G2_Esports_2023_v2",
-		"League_of_Legends_Esports_Team_Emojis_G2_Esports_2023"
+		"League_of_Legends_Esports_Team_Emojis_G2_Esports_2023",
+		"G2Esports2024Emoji"
 	],
 	"g2win": [
 		"LEC_Team_G2Esports_2022",
@@ -20840,7 +20843,8 @@
 		"LEC_EM_2021_G2WIN",
 		"G2_Esports_2023",
 		"League_of_Legends_Esports_Team_Emojis_G2_Esports_2023_v2",
-		"League_of_Legends_Esports_Team_Emojis_G2_Esports_2023"
+		"League_of_Legends_Esports_Team_Emojis_G2_Esports_2023",
+		"G2Esports2024Emoji"
 	],
 	"g5_لعمان": [
 		"OmanTel5G_2021"
@@ -52036,7 +52040,8 @@
 		"LEC_2020_SK",
 		"LEC_EM_2021_SKWIN",
 		"LEC_Team_SKGaming_2022_v2",
-		"League_of_Legends_Esports_Team_Emojis_SK_Gaming_2023"
+		"League_of_Legends_Esports_Team_Emojis_SK_Gaming_2023",
+		"SKGaming2024Emoji"
 	],
 	"skyfiber": [
 		"Swak_Sa_Sky_Fiber_Feb_2022"
@@ -103456,5 +103461,26 @@
 	],
 	"ao24": [
 		"BF-10107_2024_AustralianOpen_Tennis_Hashmoji"
+	],
+	"hellomoto-peachfuzz": [
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during"
+	],
+	"kcorp": [
+		"KCorp2024Emoji"
+	],
+	"kcwin": [
+		"KCorp2024Emoji"
+	],
+	"motorolapeachfuzz": [
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during"
+	],
+	"motorolarazr40ultra": [
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during"
+	],
+	"motoxcolourof2024": [
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during"
+	],
+	"sknights": [
+		"SKGaming2024Emoji"
 	]
 }
