@@ -4769,7 +4769,8 @@
 	],
 	"ausopen": [
 		"Australian_Open_2021",
-		"AusOpen_2021"
+		"AusOpen_2021",
+		"BF-10107_2024_AustralianOpen_Tennis_Hashmoji"
 	],
 	"ausparalympics": [
 		"Paralympics_2021_AUS"
@@ -103452,5 +103453,8 @@
 	],
 	"jchristpremiere": [
 		"JChrist"
+	],
+	"ao24": [
+		"BF-10107_2024_AustralianOpen_Tennis_Hashmoji"
 	]
 }
