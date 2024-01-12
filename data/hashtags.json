@@ -5907,11 +5907,13 @@
 	],
 	"bdspower": [
 		"LEC_Team_BDS_2022",
-		"LeagueofLegends_Esports_TeamEmojis_TeamBDS"
+		"LeagueofLegends_Esports_TeamEmojis_TeamBDS",
+		"TeamBDSLEC2024"
 	],
 	"bdswin": [
 		"LEC_Team_BDS_2022",
-		"LeagueofLegends_Esports_TeamEmojis_TeamBDS"
+		"LeagueofLegends_Esports_TeamEmojis_TeamBDS",
+		"TeamBDSLEC2024"
 	],
 	"bdsy": [
 		"Bravo_BDSY_Feb_2022"
@@ -31847,7 +31849,8 @@
 		"LEC_teal_2022_v2",
 		"LEC_orange_2022",
 		"LEC_teal_2022_v2_extend",
-		"LeagueofLegends_Esports_RiotEmojis_LEC"
+		"LeagueofLegends_Esports_RiotEmojis_LEC",
+		"LEC-Riot-Emoji2024"
 	],
 	"lec2020": [
 		"LEC_2020_LEC_add"
@@ -62875,7 +62878,8 @@
 		"LEC_Team_Vitality_2022",
 		"LEC_EM_2021_VITWIN",
 		"LEC_2020_Vitality",
-		"League_of_Legends_Esports_Team_Emojis_Team_Vitality"
+		"League_of_Legends_Esports_Team_Emojis_Team_Vitality",
+		"TeamVitalityLEC2024"
 	],
 	"vfoscarparty": [
 		"Vanity_Fair_Oscar_Party_2022_v2"
@@ -63147,7 +63151,8 @@
 		"LEC_Team_Vitality_2022",
 		"LEC_EM_2021_VITWIN",
 		"LEC_2020_Vitality",
-		"League_of_Legends_Esports_Team_Emojis_Team_Vitality"
+		"League_of_Legends_Esports_Team_Emojis_Team_Vitality",
+		"TeamVitalityLEC2024"
 	],
 	"viudanegra": [
 		"Disney_BlackWidow_Symbol_2021_V2"
@@ -86769,7 +86774,8 @@
 		"Bud_Light_Super_Bowl_2023"
 	],
 	"emeamasters": [
-		"LeagueofLegends_Esports_RiotEmojis_EMEAMasters"
+		"LeagueofLegends_Esports_RiotEmojis_EMEAMasters",
+		"EMEAMastersEmoji2024"
 	],
 	"enterthegame": [
 		"League_of_Legends_Esports_Team_Emojis_SK_Gaming_2023"
@@ -87850,7 +87856,8 @@
 		"DisneyTH_AntManAndTheWaspQuantumania_TheWasp_2023"
 	],
 	"thwin": [
-		"League_of_Legends_Esports_Team_Emojis_Heretics"
+		"League_of_Legends_Esports_Team_Emojis_Heretics",
+		"HereticsLEC2024"
 	],
 	"thếgiớilượngtử": [
 		"DisneyTH_AntManAndTheWaspQuantumania_AntManWasp_2023"
@@ -87908,7 +87915,8 @@
 		"Popes_Exorcist_Emoji_2023"
 	],
 	"vamosheretics": [
-		"League_of_Legends_Esports_Team_Emojis_Heretics"
+		"League_of_Legends_Esports_Team_Emojis_Heretics",
+		"HereticsLEC2024"
 	],
 	"vamoswave": [
 		"NWSL_Season_2023_SanDiego_Wave_11"
@@ -103482,5 +103490,17 @@
 	],
 	"sknights": [
 		"SKGaming2024Emoji"
+	],
+	"gamechangersemea": [
+		"GameChangersEMEAEmoji2024"
+	],
+	"gomadkoi": [
+		"MadlionsKOIEmoji2024"
+	],
+	"mdkwin": [
+		"MadlionsKOIEmoji2024"
+	],
+	"tftrisinglegendsemea": [
+		"RisingLegendsEmoji2024"
 	]
 }
