@@ -103474,7 +103474,8 @@
 		"BF-10107_2024_AustralianOpen_Tennis_Hashmoji"
 	],
 	"hellomoto-peachfuzz": [
-		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during"
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during",
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after"
 	],
 	"kcorp": [
 		"KCorp2024Emoji"
@@ -103483,13 +103484,16 @@
 		"KCorp2024Emoji"
 	],
 	"motorolapeachfuzz": [
-		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during"
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during",
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after"
 	],
 	"motorolarazr40ultra": [
-		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during"
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during",
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after"
 	],
 	"motoxcolourof2024": [
-		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during"
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during",
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after"
 	],
 	"sknights": [
 		"SKGaming2024Emoji"
@@ -103523,5 +103527,8 @@
 	],
 	"wearegiantx": [
 		"GiantXLECEmoji2024"
+	],
+	"hellomotohellocolor": [
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after"
 	]
 }
