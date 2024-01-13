@@ -22865,7 +22865,8 @@
 	"gorogue": [
 		"LEC_Team_Rogue_2022",
 		"LEC_2020_Rogue",
-		"LEC_EM_2021_RGEWIN"
+		"LEC_EM_2021_RGEWIN",
+		"RogueLECemoji2024"
 	],
 	"gorr": [
 		"Disney_Thor2_Gor_2022"
@@ -48311,7 +48312,8 @@
 	"rgewin": [
 		"LEC_Team_Rogue_2022",
 		"LEC_2020_Rogue",
-		"LEC_EM_2021_RGEWIN"
+		"LEC_EM_2021_RGEWIN",
+		"RogueLECemoji2024"
 	],
 	"rgneverstops": [
 		"RolandGarros_May_2021"
@@ -103515,5 +103517,11 @@
 	],
 	"semfronteiras": [
 		"LATAMAirlines_BBB2024_Brazil_CustomLike"
+	],
+	"gxwin": [
+		"GiantXLECEmoji2024"
+	],
+	"wearegiantx": [
+		"GiantXLECEmoji2024"
 	]
 }
