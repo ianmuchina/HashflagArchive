@@ -103485,15 +103485,18 @@
 	],
 	"motorolapeachfuzz": [
 		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during",
-		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after"
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after",
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after_v2"
 	],
 	"motorolarazr40ultra": [
 		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during",
-		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after"
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after",
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after_v2"
 	],
 	"motoxcolourof2024": [
 		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during",
-		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after"
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after",
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after_v2"
 	],
 	"sknights": [
 		"SKGaming2024Emoji"
@@ -103529,6 +103532,22 @@
 		"GiantXLECEmoji2024"
 	],
 	"hellomotohellocolor": [
-		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after"
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after",
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after_v2"
+	],
+	"hellomotopeachfuzz": [
+		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after_v2"
+	],
+	"noveladas9": [
+		"BF-10210_Globo_Novelas_2024"
+	],
+	"renacer": [
+		"BF-10210_Globo_Novelas_2024"
+	],
+	"renascer": [
+		"BF-10210_Globo_Novelas_2024"
+	],
+	"renascer2024": [
+		"BF-10210_Globo_Novelas_2024"
 	]
 }
