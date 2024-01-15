@@ -33873,7 +33873,9 @@
 		"Louis_Vuitton_Men_Show_FW23_Jan_20",
 		"LV_Men_SS24",
 		"Louis_Vuitton_Homme_Pre_Fall_2023",
-		"BF-10110_LVMenFW24_hashmoji"
+		"BF-10110_LVMenFW24_hashmoji",
+		"BF-10110_LVMenFW24_hashmoji_v2",
+		"LVMenFW24_hashmoji_Q4"
 	],
 	"louiswain": [
 		"AmazonStudios_LouisWain_2021"
@@ -34457,7 +34459,8 @@
 		"Louis_Vuitton_Men_SS23_Fashion_Show_Jun_2022",
 		"Louis_Vuitton_Men_Show_FW23_Jan_20",
 		"LV_Men_SS24",
-		"Louis_Vuitton_Homme_Pre_Fall_2023"
+		"Louis_Vuitton_Homme_Pre_Fall_2023",
+		"LVMenFW24_hashmoji_Q4"
 	],
 	"lvmenfw21": [
 		"LVMenFW21",
@@ -96706,7 +96709,9 @@
 	"lvxpharrell": [
 		"LV_Men_SS24",
 		"Louis_Vuitton_Homme_Pre_Fall_2023",
-		"BF-10110_LVMenFW24_hashmoji"
+		"BF-10110_LVMenFW24_hashmoji",
+		"BF-10110_LVMenFW24_hashmoji_v2",
+		"LVMenFW24_hashmoji_Q4"
 	],
 	"museadadiversidade": [
 		"Mercado_Livre_Pride_During",
@@ -103553,9 +103558,15 @@
 		"BF-10210_Globo_Novelas_2024"
 	],
 	"louisvuittonmenfw24": [
-		"BF-10110_LVMenFW24_hashmoji"
+		"BF-10110_LVMenFW24_hashmoji",
+		"BF-10110_LVMenFW24_hashmoji_v2",
+		"LVMenFW24_hashmoji_Q4"
 	],
 	"lvmenfw24\"'\"lvmen": [
-		"BF-10110_LVMenFW24_hashmoji"
+		"BF-10110_LVMenFW24_hashmoji",
+		"BF-10110_LVMenFW24_hashmoji_v2"
+	],
+	"lvmenfw24": [
+		"LVMenFW24_hashmoji_Q4"
 	]
 }
