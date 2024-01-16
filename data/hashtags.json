@@ -15818,7 +15818,8 @@
 	],
 	"dqタクト": [
 		"DQTACT_Anniversary_Jul_2022",
-		"DQ_TACT_2023_Anniversary_1_Emoji_Tact"
+		"DQ_TACT_2023_Anniversary_1_Emoji_Tact",
+		"BF-10098_DQTACT_Jan_2024_emoji"
 	],
 	"dqタクト２周年を祝おう": [
 		"DQTACT_Anniversary_Jul_2022"
@@ -76571,7 +76572,8 @@
 		"DQ_TACT_2_Jan_2021",
 		"DQ_TACT_2021anniversary_2021",
 		"DQTACT_Anniversary_Jul_2022",
-		"DQ_TACT_2023_Anniversary_1_Emoji_Tact"
+		"DQ_TACT_2023_Anniversary_1_Emoji_Tact",
+		"BF-10098_DQTACT_Jan_2024_emoji"
 	],
 	"ドラクエタクト１周年": [
 		"DQ_TACT_2021anniversary_2021"
@@ -97611,7 +97613,8 @@
 		"DQ_TACT_2023_Anniversary_1_Emoji_Tact"
 	],
 	"ドラゴンクエストタクト": [
-		"DQ_TACT_2023_Anniversary_1_Emoji_Tact"
+		"DQ_TACT_2023_Anniversary_1_Emoji_Tact",
+		"BF-10098_DQTACT_Jan_2024_emoji"
 	],
 	"パパスが生きてるドラクエタクト": [
 		"DQ_TACT_2023_Anniversary_1_Emoji_Pankraz"
@@ -103571,5 +103574,11 @@
 	],
 	"ao2024": [
 		"BF-10107_2024_AustralianOpen_Tennis_Hashmoji"
+	],
+	"ダラクドレアム": [
+		"BF-10098_DQTACT_Jan_2024_emoji"
+	],
+	"勇者レック登場": [
+		"BF-10098_DQTACT_Jan_2024_emoji"
 	]
 }
