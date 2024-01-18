@@ -41897,7 +41897,8 @@
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during",
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during_v2",
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_20Oct_during_CL_v4",
-		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2"
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2",
+		"BF-10208_Oneplus_India_hashmoji_before_v2"
 	],
 	"oneplus10pro": [
 		"OnePlus_Negroni_Launch_Mar_2022"
@@ -51579,7 +51580,8 @@
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during",
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_during_v2",
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_20Oct_during_CL_v4",
-		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2"
+		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2",
+		"BF-10208_Oneplus_India_hashmoji_before_v2"
 	],
 	"showcasegreatness": [
 		"LCS_FLY_2022",
@@ -62597,7 +62599,8 @@
 	"vctemea": [
 		"Riot_Valorant_VCT_Red_2022",
 		"LEAGUEOFLEGENDS_ESPORTS_RIOTEMOJIS_VCTEMEA",
-		"VCT_EMEA_Events_2023"
+		"VCT_EMEA_Events_2023",
+		"ValorantEMEA-Emoji-2024"
 	],
 	"vctgamechangers": [
 		"Riot_Valorant_VCT_Orange_2022",
@@ -103630,5 +103633,14 @@
 	],
 	"desangetdargent": [
 		"BF-10264_CanalPlusHashmoji_DArgentetdesang_2024"
+	],
+	"oneplus12": [
+		"BF-10208_Oneplus_India_hashmoji_before_v2"
+	],
+	"oneplus12r": [
+		"BF-10208_Oneplus_India_hashmoji_before_v2"
+	],
+	"smoothbeyondbelief": [
+		"BF-10208_Oneplus_India_hashmoji_before_v2"
 	]
 }
