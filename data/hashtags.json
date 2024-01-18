@@ -101077,7 +101077,8 @@
 	"argentetsang": [
 		"CanalPlus_DArgentEtDeSang_23_HashmojiBeforeHashfetti",
 		"CanalPlus_DArgentEtDeSang_23_HashmojiDuringHashfetti",
-		"CanalPlus_DArgentEtDeSang_23_HashmojiAfterHashfetti"
+		"CanalPlus_DArgentEtDeSang_23_HashmojiAfterHashfetti",
+		"BF-10264_CanalPlusHashmoji_DArgentetdesang_2024"
 	],
 	"asmarvels": [
 		"DisneyTH_TheMarvels_CaptainMarvel_2023",
@@ -101160,7 +101161,8 @@
 	"dargentetdesang": [
 		"CanalPlus_DArgentEtDeSang_23_HashmojiBeforeHashfetti",
 		"CanalPlus_DArgentEtDeSang_23_HashmojiFix",
-		"CanalPlus_DArgentEtDeSang_23_HashmojiAfterHashfetti"
+		"CanalPlus_DArgentEtDeSang_23_HashmojiAfterHashfetti",
+		"BF-10264_CanalPlusHashmoji_DArgentetdesang_2024"
 	],
 	"fancứngcủacaptainmarvel": [
 		"DisneyTH_TheMarvels_MsMarvel_2023"
@@ -103625,5 +103627,8 @@
 	],
 	"galaxys24": [
 		"BF-9970_Eureka_Unpacked_Jan17-Feb29_2024Hashmoji"
+	],
+	"desangetdargent": [
+		"BF-10264_CanalPlusHashmoji_DArgentetdesang_2024"
 	]
 }
