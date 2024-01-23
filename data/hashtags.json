@@ -42493,7 +42493,8 @@
 		"The_Academy_Oscars_2023_Jimmy",
 		"The_Academy_Oscars_2023",
 		"The_Academy_Oscars_2023_Jimmy_v2",
-		"The_Academy_Oscars_2023_Afterv2"
+		"The_Academy_Oscars_2023_Afterv2",
+		"The_Academy_Oscars2024_US_Ent"
 	],
 	"oscarisaac": [
 		"DuneCharacter_2021_DukeLeto",
@@ -42514,7 +42515,8 @@
 		"3bcfbc220aff328ac93e329a9bdd9382b0c8994e",
 		"The_Academy_Oscars_2023",
 		"The_Academy_Oscars_2023_Jimmy_v2",
-		"The_Academy_Oscars_2023_Afterv2"
+		"The_Academy_Oscars_2023_Afterv2",
+		"The_Academy_Oscars2024_US_Ent"
 	],
 	"oscarscheermoment": [
 		"Oscars_2022_add"
@@ -103690,5 +103692,8 @@
 	],
 	"lyricallemonade": [
 		"LyricalLemonade"
+	],
+	"oscars2024": [
+		"The_Academy_Oscars2024_US_Ent"
 	]
 }
