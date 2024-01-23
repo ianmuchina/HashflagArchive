@@ -78609,7 +78609,8 @@
 		"JP_XmasBox2022_Shinsei_Financial_Co_Ltd_Emoji",
 		"Shinsei_Financial_Co_Ltd_2023_before",
 		"Shinsei_Financial_Co_Ltd_2023_after_v2",
-		"Shinsei_Financial_Co_Ltd_hashmoji_v3"
+		"Shinsei_Financial_Co_Ltd_hashmoji_v3",
+		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji"
 	],
 	"レイアオーガナ": [
 		"DisneyPlus_ObiWan_June_2022_Leia_Japan"
@@ -78625,7 +78626,8 @@
 		"Shinsei_Financial_Co_Ltd_2023_before",
 		"Shinsei_Financial_Co_Ltd_2023_during",
 		"Shinsei_Financial_Co_Ltd_2023_after_v2",
-		"Shinsei_Financial_Co_Ltd_hashmoji_v3"
+		"Shinsei_Financial_Co_Ltd_hashmoji_v3",
+		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji"
 	],
 	"レイザークレスト": [
 		"Disney_Mandalorian_S2_RazorCrest"
@@ -94156,7 +94158,8 @@
 		"Shinsei_Financial_Co_Ltd_2023_before",
 		"Shinsei_Financial_Co_Ltd_2023_during",
 		"Shinsei_Financial_Co_Ltd_2023_after_v2",
-		"Shinsei_Financial_Co_Ltd_hashmoji_v3"
+		"Shinsei_Financial_Co_Ltd_hashmoji_v3",
+		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji"
 	],
 	"千鳥のレイクシアター": [
 		"Shinsei_Financial_Co_Ltd_2023_before",
@@ -103695,5 +103698,11 @@
 	],
 	"oscars2024": [
 		"The_Academy_Oscars2024_US_Ent"
+	],
+	"惚レ惚レマッチング": [
+		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji"
+	],
+	"華大どんたくでもレイク": [
+		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji"
 	]
 }
