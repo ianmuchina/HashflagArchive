@@ -99888,7 +99888,8 @@
 	],
 	"immutable": [
 		"Immutable_Branded_Feature_Hashmoji_2023",
-		"Hashmoji_Q4_23_BAU"
+		"Hashmoji_Q4_23_BAU",
+		"BF-10277_Hashmoji_Q124_BAU"
 	],
 	"onimmutable": [
 		"Immutable_Branded_Feature_Hashmoji_2023",
@@ -99896,11 +99897,13 @@
 	],
 	"web3gaming": [
 		"Immutable_Branded_Feature_Hashmoji_2023",
-		"Hashmoji_Q4_23_BAU"
+		"Hashmoji_Q4_23_BAU",
+		"BF-10277_Hashmoji_Q124_BAU"
 	],
 	"zkevm": [
 		"Immutable_Branded_Feature_Hashmoji_2023",
-		"Hashmoji_Q4_23_BAU"
+		"Hashmoji_Q4_23_BAU",
+		"BF-10277_Hashmoji_Q124_BAU"
 	],
 	"aquamanandthelostkingdom": [
 		"Aquaman2_Hashmoji_2023"
@@ -101589,7 +101592,8 @@
 		"BF-9401_OnePlus_India_Foldable_Hashmoji_19Oct_after_v2"
 	],
 	"web3": [
-		"Hashmoji_Q4_23_BAU"
+		"Hashmoji_Q4_23_BAU",
+		"BF-10277_Hashmoji_Q124_BAU"
 	],
 	"hashtag": [
 		"BF-9016_GlobalHashmoji_Test",
@@ -103709,5 +103713,11 @@
 	],
 	"華大どんたくでもレイク": [
 		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji"
+	],
+	"crypto": [
+		"BF-10277_Hashmoji_Q124_BAU"
+	],
+	"gamefi": [
+		"BF-10277_Hashmoji_Q124_BAU"
 	]
 }
