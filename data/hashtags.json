@@ -9703,7 +9703,8 @@
 		"CBLOL_secondsplit_2020",
 		"CBLOL_Jan_2022",
 		"CBLOL_Jul_2022",
-		"CBLoL_LeagueEmoji_2023"
+		"CBLoL_LeagueEmoji_2023",
+		"CBLoL2024Emoji"
 	],
 	"cbsclarice": [
 		"CBS_Clarice_2021"
@@ -14063,7 +14064,8 @@
 	"diadefuria": [
 		"CBLOL_FURIA_Season_2022",
 		"CBLOL_FURIA_Season_2022_v2",
-		"CBLoL_Franchise_League_Emoji_Furia_2023"
+		"CBLoL_Franchise_League_Emoji_Furia_2023",
+		"FuriaEmoji2024"
 	],
 	"diadeinternetsegura": [
 		"Safer_Internet_Day_2022_add"
@@ -22457,7 +22459,8 @@
 		"INTZ_June_2021",
 		"INTZ_Feb_2021",
 		"CBLOL_INTZ_Season_2022_v2",
-		"CBLoL_Franchise_LeagueEmoji_INTZ_2023"
+		"CBLoL_Franchise_LeagueEmoji_INTZ_2023",
+		"INTZEmoji2024"
 	],
 	"goirish": [
 		"NotreDameCFP2021"
@@ -22487,7 +22490,8 @@
 	"gokabum": [
 		"CBLOL_KABUM_Season_2022",
 		"CBLOL_KABUM_Season_2022_v2",
-		"CBLoL_Franchise_LeagueEmoji_KABUM2023"
+		"CBLoL_Franchise_LeagueEmoji_KABUM2023",
+		"KabumEmoji2024"
 	],
 	"gokbm": [
 		"CBLOL_KABUM_Season_2022",
@@ -22623,12 +22627,14 @@
 	],
 	"golos": [
 		"CBLOL_FLAMENGO_Season_2022_v4",
-		"CBLoL_Franchise_League_Emoji_LosGrandes2023"
+		"CBLoL_Franchise_League_Emoji_LosGrandes2023",
+		"LosGrandesCBLoLEmoji2024"
 	],
 	"goloud": [
 		"CBLOL_LOUD_Season_2022",
 		"CBLOL_LOUD_Season_2022_v2",
-		"CBLoL_LOUD_Jan_2023"
+		"CBLoL_LOUD_Jan_2023",
+		"LOUDCBLoLEmoji2024"
 	],
 	"gomad": [
 		"LEC_Team_MADLions_2022",
@@ -22806,7 +22812,8 @@
 		"CBLOL_PAINGAMING_Season_2022",
 		"CBLOL_PAINGAMING_Season_2022_v2",
 		"CBLOL_PAINGAMING_Season_2022_v3",
-		"CBLoL_Franchise_LeagueEmoji_PainGaming2023"
+		"CBLoL_Franchise_LeagueEmoji_PainGaming2023",
+		"PainGaming2024Emoji"
 	],
 	"goparalympicsgb": [
 		"Paralympics_2021_GBR"
@@ -86929,7 +86936,8 @@
 		"Fortnite_Chapter_4_Season_2_update"
 	],
 	"govks": [
-		"CBLoL_Franchise_League_Emoji_Vivo_Keyd_Stars_2023"
+		"CBLoL_Franchise_League_Emoji_Vivo_Keyd_Stars_2023",
+		"VivoKeydEmoji2024"
 	],
 	"greatacting": [
 		"Pepsi_Super_Bowl_Clapper_MAY",
@@ -103719,5 +103727,11 @@
 	],
 	"gamefi": [
 		"BF-10277_Hashmoji_Q124_BAU"
+	],
+	"pracimalbr": [
+		"LibertyCBLoLEmoji2024"
+	],
+	"segueofx": [
+		"FLUXOEmoji2024"
 	]
 }
