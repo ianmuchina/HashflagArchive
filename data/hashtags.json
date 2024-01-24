@@ -99902,7 +99902,8 @@
 	"immutable": [
 		"Immutable_Branded_Feature_Hashmoji_2023",
 		"Hashmoji_Q4_23_BAU",
-		"BF-10277_Hashmoji_Q124_BAU"
+		"BF-10277_Hashmoji_Q124_BAU",
+		"BF-10277_Immutable_V2"
 	],
 	"onimmutable": [
 		"Immutable_Branded_Feature_Hashmoji_2023",
