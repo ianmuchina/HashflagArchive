@@ -86452,7 +86452,8 @@
 		"CBLoL_LeagueEmoji_2023"
 	],
 	"challengersemea": [
-		"League_of_Legends_Esports_Riot_Emojis_ChallengersEMEA_2023"
+		"League_of_Legends_Esports_Riot_Emojis_ChallengersEMEA_2023",
+		"ChallengersEMEA2024"
 	],
 	"champions": [
 		"Champions_Movie_2023"
@@ -103765,5 +103766,8 @@
 	],
 	"statefarm": [
 		"BF10256SuperBowlHashmoji2024"
+	],
+	"vctgamechangersemea": [
+		"VCTGameChangersEMEA"
 	]
 }
