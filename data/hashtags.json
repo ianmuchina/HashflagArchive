@@ -54734,7 +54734,8 @@
 		"SBLVI2022",
 		"NFL_Super_Bowl_Hashmojis_2023_before",
 		"NFL_Super_Bowl_Hashmojis_2023",
-		"NFL_Super_Bowl_Hashmojis_2023_after"
+		"NFL_Super_Bowl_Hashmojis_2023_after",
+		"NFL_SB_2024"
 	],
 	"superbowlsquares": [
 		"Rocket_Mortgage_Jan_2022",
@@ -103796,5 +103797,11 @@
 	],
 	"thinkyoutheshit": [
 		"IceSpiceFart"
+	],
+	"sblviii": [
+		"NFL_SB_2024"
+	],
+	"superbowllviii": [
+		"NFL_SB_2024"
 	]
 }
