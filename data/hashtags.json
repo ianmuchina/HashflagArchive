@@ -7032,7 +7032,8 @@
 		"Binance_2023_Q2_Campaign_Emoji_202304",
 		"BF-8523_Binance_202307",
 		"Binance_Q3_Campaign_Emoji_202310",
-		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2"
+		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2",
+		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
 	],
 	"binance10m": [
 		"Binance_10M_Follower_Nov_2022"
@@ -7666,7 +7667,8 @@
 		"Binance_2023_Q2_Campaign_Emoji_202304",
 		"BF-8523_Binance_202307",
 		"Binance_Q3_Campaign_Emoji_202310",
-		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2"
+		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2",
+		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
 	],
 	"bng": [
 		"ICCT20WorldCup_2021_BNG"
@@ -103803,5 +103805,14 @@
 	],
 	"superbowllviii": [
 		"NFL_SB_2024"
+	],
+	"binancecampus": [
+		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
+	],
+	"binancedragonyear": [
+		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
+	],
+	"ramadanwithbinance": [
+		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
 	]
 }
