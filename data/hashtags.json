@@ -23067,7 +23067,8 @@
 		"GRAMMYs_2021",
 		"GRAMMYs_2021_ext",
 		"Grammys_2022_Emoji_V2",
-		"GRAMMYS_2023_Campaign"
+		"GRAMMYS_2023_Campaign",
+		"GRAMMYs2024_US_Ent"
 	],
 	"grammyscbs": [
 		"CBS_Grammys_2022"
@@ -47605,7 +47606,8 @@
 		"GRAMMYs_2021",
 		"GRAMMYs_2021_ext",
 		"Grammys_2022_Emoji_V2",
-		"GRAMMYS_2023_Campaign"
+		"GRAMMYS_2023_Campaign",
+		"GRAMMYs2024_US_Ent"
 	],
 	"recoveroutloud": [
 		"MobilizeRecovery21"
@@ -103823,5 +103825,8 @@
 	],
 	"ramadanwithbinance": [
 		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
+	],
+	"grammyhouse": [
+		"GRAMMYs2024_US_Ent"
 	]
 }
