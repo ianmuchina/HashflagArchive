@@ -94230,7 +94230,8 @@
 	"honkaistarrail": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_During",
-		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After"
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After",
+		"BF-10271_miHoYo_HSR_DreamStarRail"
 	],
 	"starrailallaboard": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
@@ -94239,7 +94240,8 @@
 	],
 	"スターレイル": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
-		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After"
+		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After",
+		"BF-10271_miHoYo_HSR_DreamStarRail"
 	],
 	"スターレイルリリース": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
@@ -103851,5 +103853,29 @@
 	],
 	"リリンク": [
 		"BF-10251_Cygames_gbf_relink_jp_Gamelaunch_2024Feb_Branded_Hashtag"
+	],
+	"diveintodreams": [
+		"BF-10270_miHoYoHSRClockieBrandedEmoji"
+	],
+	"penacony": [
+		"BF-10270_miHoYoHSRClockieBrandedEmoji"
+	],
+	"starrail": [
+		"BF-10271_miHoYo_HSR_DreamStarRail"
+	],
+	"ピノコニー": [
+		"BF-10270_miHoYoHSRClockieBrandedEmoji"
+	],
+	"夢中へようこそ": [
+		"BF-10270_miHoYoHSRClockieBrandedEmoji"
+	],
+	"崩壊スターレイル": [
+		"BF-10271_miHoYo_HSR_DreamStarRail"
+	],
+	"꿈속으로체크인": [
+		"BF-10270_miHoYoHSRClockieBrandedEmoji"
+	],
+	"붕괴스타레일": [
+		"BF-10271_miHoYo_HSR_DreamStarRail"
 	]
 }
