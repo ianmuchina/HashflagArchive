@@ -51411,7 +51411,8 @@
 		"SHEIN_Sep2023_Hashmoji_Before",
 		"SHEIN_Sep2023_Hashmoji_Beforev1",
 		"SHEIN_Sep2023_Hashmoji_During",
-		"SHEIN_Sep2023_Hashmoji_After"
+		"SHEIN_Sep2023_Hashmoji_After",
+		"BF-10323_2024_SHEIN_Ramadan_Campaign"
 	],
 	"sheineid": [
 		"SHEINX_Eid_Jun_2022",
@@ -51425,7 +51426,8 @@
 		"SHEIN_Sep2023_Hashmoji_Before",
 		"SHEIN_Sep2023_Hashmoji_Beforev1",
 		"SHEIN_Sep2023_Hashmoji_During",
-		"SHEIN_Sep2023_Hashmoji_After"
+		"SHEIN_Sep2023_Hashmoji_After",
+		"BF-10323_2024_SHEIN_Ramadan_Campaign"
 	],
 	"sheinfw21": [
 		"SHEINX100KCHALLENGE_2021"
@@ -87736,7 +87738,8 @@
 	],
 	"sheinramadan": [
 		"SHEIN_Ramadan_Campaign_2023_before",
-		"SHEIN_Ramadan_Campaign_2023_after"
+		"SHEIN_Ramadan_Campaign_2023_after",
+		"BF-10323_2024_SHEIN_Ramadan_Campaign"
 	],
 	"sirenetta": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
@@ -103894,5 +103897,11 @@
 	],
 	"เซรั่มลดรอยสิวถึงต้นตอ": [
 		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024"
+	],
+	"sheinfindshunter": [
+		"BF-10323_2024_SHEIN_Ramadan_Campaign"
+	],
+	"sheingoodfinds": [
+		"BF-10323_2024_SHEIN_Ramadan_Campaign"
 	]
 }
