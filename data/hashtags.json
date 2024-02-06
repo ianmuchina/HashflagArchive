@@ -37628,7 +37628,8 @@
 		"Disney_LokiLaunch_Mobius_2021"
 	],
 	"mobo": [
-		"MOBOAwards2021"
+		"MOBOAwards2021",
+		"MOBO_Awards_2024"
 	],
 	"mobo25": [
 		"MOBO_25_Oct_2022"
@@ -37636,7 +37637,8 @@
 	"moboawards": [
 		"MOBOAwards_2020",
 		"MOBOAwards2021",
-		"MOBO_25_Oct_2022"
+		"MOBO_25_Oct_2022",
+		"MOBO_Awards_2024"
 	],
 	"moboawards2020": [
 		"MOBOAwards_2020"
@@ -103983,5 +103985,8 @@
 	],
 	"neighbaaa": [
 		"BF-10257_StateFarmRequest2_SuperBowlHashmoji2024"
+	],
+	"mobos": [
+		"MOBO_Awards_2024"
 	]
 }
