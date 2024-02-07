@@ -75970,7 +75970,8 @@
 		"ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_after",
 		"ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_CL_before",
 		"ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_CL_during",
-		"ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_CL_after"
+		"ASAHI_BREWERIES_Rugby_WorldCup_Japan_2023_CL_after",
+		"ASAHI_Superdry_Feb_Japan_2024_emoji"
 	],
 	"スーパーニンテンドーワールド": [
 		"USJNintendoWorld_JP_Feb_2021"
@@ -103990,5 +103991,11 @@
 	],
 	"mobos": [
 		"MOBO_Awards_2024"
+	],
+	"八村塁にdryでエールを": [
+		"ASAHI_Superdry_Feb_Japan_2024_emoji"
+	],
+	"最高の渇きにdry": [
+		"ASAHI_Superdry_Feb_Japan_2024_emoji"
 	]
 }
