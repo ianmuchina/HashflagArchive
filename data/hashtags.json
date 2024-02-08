@@ -54755,7 +54755,8 @@
 		"NFL_Super_Bowl_Hashmojis_2023_before",
 		"NFL_Super_Bowl_Hashmojis_2023",
 		"NFL_Super_Bowl_Hashmojis_2023_after",
-		"NFL_SB_2024"
+		"NFL_SB_2024",
+		"NFL_SB_2024_before"
 	],
 	"superbowlsquares": [
 		"Rocket_Mortgage_Jan_2022",
@@ -103840,7 +103841,8 @@
 		"NFL_SB_2024"
 	],
 	"superbowllviii": [
-		"NFL_SB_2024"
+		"NFL_SB_2024",
+		"NFL_SB_2024_before"
 	],
 	"binancecampus": [
 		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
@@ -104030,5 +104032,23 @@
 	],
 	"skullandbones": [
 		"BF-10391_SkullandBones_Feb24_Hashmoji"
+	],
+	"arabianleopardday": [
+		"BF-10429_RCU-Arabia-Leapard"
+	],
+	"internationalarabianleopardday": [
+		"BF-10429_RCU-Arabia-Leapard"
+	],
+	"leapofhope": [
+		"BF-10429_RCU-Arabia-Leapard"
+	],
+	"sbvliii": [
+		"NFL_SB_2024_before"
+	],
+	"اليوم_العالمي_للنمر_العربي": [
+		"BF-10429_RCU-Arabia-Leapard"
+	],
+	"وثبة_أمل": [
+		"BF-10429_RCU-Arabia-Leapard"
 	]
 }
