@@ -104019,16 +104019,19 @@
 		"AvenueFilms_LandOfBad_Feb2024"
 	],
 	"chiefs": [
-		"ChiefsSwagSurf"
+		"ChiefsSwagSurf",
+		"CSwagSurf"
 	],
 	"chiefsswag": [
-		"ChiefsSwagSurf"
+		"ChiefsSwagSurf",
+		"CSwagSurf"
 	],
 	"liveodds": [
 		"live_odds_betmgm"
 	],
 	"swagsurfin": [
-		"ChiefsSwagSurf"
+		"ChiefsSwagSurf",
+		"CSwagSurf"
 	],
 	"skullandbones": [
 		"BF-10391_SkullandBones_Feb24_Hashmoji"
