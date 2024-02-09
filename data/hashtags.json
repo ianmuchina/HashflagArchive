@@ -6504,7 +6504,8 @@
 		"BetMGM_NFL_2021",
 		"BETMGM_Hashfetti_SB",
 		"BETMGM_Hashfetti_SB_Hashmoji",
-		"BETMGM_Custom_Like_20824"
+		"BETMGM_Custom_Like_20824",
+		"BETMGM_Standard_PRE_SB"
 	],
 	"betmode": [
 		"TheScoreBet_Ontario_Launch_Apr_2022",
@@ -104072,5 +104073,8 @@
 	],
 	"honormwc2024": [
 		"Honor_MWC_2024_Hashmoji"
+	],
+	"sbinlv": [
+		"LasVegasSB2024_Hashfetti_2_9_v2"
 	]
 }
