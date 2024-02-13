@@ -104002,10 +104002,12 @@
 		"BF-10379_CornettoWhiteRose_Hashmoji_before"
 	],
 	"cornettowhiterose": [
-		"BF-10379_CornettoWhiteRose_Hashmoji_before"
+		"BF-10379_CornettoWhiteRose_Hashmoji_before",
+		"BF-10379_CornettoWhiteRose_Hashmoji_during"
 	],
 	"unwrapcornetto": [
-		"BF-10379_CornettoWhiteRose_Hashmoji_before"
+		"BF-10379_CornettoWhiteRose_Hashmoji_before",
+		"BF-10379_CornettoWhiteRose_Hashmoji_during"
 	],
 	"lenovotechworldindia": [
 		"Lenovo_India_Tech_World_2024"
@@ -104140,5 +104142,8 @@
 	],
 	"玉森生誕祭withwowow": [
 		"BF-10329_wowow_mj_WOWOWkissmy_Hashmoji_2024"
+	],
+	"banishers": [
+		"BF-10301_Focus_Banishers_2024_Hashmojiv1"
 	]
 }
