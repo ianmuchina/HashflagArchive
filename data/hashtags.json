@@ -31860,7 +31860,8 @@
 	],
 	"leap": [
 		"JamesBay2022",
-		"LEAP_cyber_security_Jan_2023"
+		"LEAP_cyber_security_Jan_2023",
+		"BF-10490_Hashmoji-Leapandinnovate2024"
 	],
 	"leap22": [
 		"LEAP_Jan_2022"
@@ -70136,7 +70137,8 @@
 	],
 	"ليب": [
 		"LEAP_Jan_2022",
-		"LEAP_cyber_security_Jan_2023"
+		"LEAP_cyber_security_Jan_2023",
+		"BF-10490_Hashmoji-Leapandinnovate2024"
 	],
 	"ليب22": [
 		"LEAP_Jan_2022"
@@ -104222,5 +104224,14 @@
 	],
 	"스포티파이": [
 		"BF-10427_SpotifyKorean_Hahsmoji"
+	],
+	"leap24": [
+		"BF-10490_Hashmoji-Leapandinnovate2024"
+	],
+	"ليب24": [
+		"BF-10490_Hashmoji-Leapandinnovate2024"
+	],
+	"ليب_في_ملهم": [
+		"BF-10490_Hashmoji-Leapandinnovate2024"
 	]
 }
