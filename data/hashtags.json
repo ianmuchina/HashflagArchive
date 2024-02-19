@@ -14506,7 +14506,8 @@
 	],
 	"directv": [
 		"DIRECTV_StreamRebrand_2021",
-		"DIRECTV_StreamRebrand_2021_all"
+		"DIRECTV_StreamRebrand_2021_all",
+		"BF-10365_DirecTV_Feb2024_Hashmoji"
 	],
 	"directvstream": [
 		"DIRECTV_StreamRebrand_2021",
@@ -104250,5 +104251,14 @@
 	],
 	"sharethelovesharetheluck": [
 		"AB_Leisure_Philippines_hashmoji"
+	],
+	"directvsatellitefree": [
+		"BF-10365_DirecTV_Feb2024_Hashmoji"
+	],
+	"satellitefreedirectv": [
+		"BF-10365_DirecTV_Feb2024_Hashmoji"
+	],
+	"streamdirectvsatellitefree": [
+		"BF-10365_DirecTV_Feb2024_Hashmoji"
 	]
 }
