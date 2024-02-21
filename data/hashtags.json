@@ -100915,11 +100915,13 @@
 	],
 	"thisishowwefly": [
 		"SaudiaAirlines_RebrandingCampaign_2023_During",
-		"SaudiaAirlines_RebrandingCampaign_2023_After"
+		"SaudiaAirlines_RebrandingCampaign_2023_After",
+		"BF-10543_SaudiAirlinesFoundingDay_2024_Hashmoji"
 	],
 	"الخطوط_السعودية": [
 		"SaudiaAirlines_RebrandingCampaign_2023_During",
-		"SaudiaAirlines_RebrandingCampaign_2023_After"
+		"SaudiaAirlines_RebrandingCampaign_2023_After",
+		"BF-10543_SaudiAirlinesFoundingDay_2024_Hashmoji"
 	],
 	"لنا_جونا": [
 		"SaudiaAirlines_RebrandingCampaign_2023_During",
@@ -101024,7 +101026,8 @@
 		"Forza_update_2"
 	],
 	"السعودية_لنا_جونا": [
-		"SaudiaAirlines_RebrandingCampaign_2023_After"
+		"SaudiaAirlines_RebrandingCampaign_2023_After",
+		"BF-10543_SaudiAirlinesFoundingDay_2024_Hashmoji"
 	],
 	"appsocioinfonavit": [
 		"SocioInfonavit_2023"
@@ -104278,5 +104281,11 @@
 	],
 	"メイクくずれあるある": [
 		"BF-10398_Shiseido_MQ_Campaign_Q124"
+	],
+	"saudiaairlines": [
+		"BF-10543_SaudiAirlinesFoundingDay_2024_Hashmoji"
+	],
+	"من_بدينا_وهذا_جونا": [
+		"BF-10543_SaudiAirlinesFoundingDay_2024_Hashmoji"
 	]
 }
