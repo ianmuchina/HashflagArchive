@@ -96607,7 +96607,8 @@
 		"Joy_Ride_Movie"
 	],
 	"スキンセンサーベースneo": [
-		"Shiseido_MQ_Branded_Emoji"
+		"Shiseido_MQ_Branded_Emoji",
+		"BF-10398_Shiseido_MQ_Campaign_Q124"
 	],
 	"マキアージュの最強くずれ防止下地": [
 		"Shiseido_MQ_Branded_Emoji"
@@ -104274,5 +104275,8 @@
 	],
 	"promobca": [
 		"BF-10544_HUT_BCA_2024_Hashmoji"
+	],
+	"メイクくずれあるある": [
+		"BF-10398_Shiseido_MQ_Campaign_Q124"
 	]
 }
