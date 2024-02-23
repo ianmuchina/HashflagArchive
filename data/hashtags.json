@@ -14508,7 +14508,8 @@
 	"directv": [
 		"DIRECTV_StreamRebrand_2021",
 		"DIRECTV_StreamRebrand_2021_all",
-		"BF-10365_DirecTV_Feb2024_Hashmoji"
+		"BF-10365_DirecTV_Feb2024_Hashmoji",
+		"BF-10365_DirecTV_Feb2024_Hashmoji_before"
 	],
 	"directvstream": [
 		"DIRECTV_StreamRebrand_2021",
@@ -104269,13 +104270,16 @@
 		"AB_Leisure_Philippines_hashmoji"
 	],
 	"directvsatellitefree": [
-		"BF-10365_DirecTV_Feb2024_Hashmoji"
+		"BF-10365_DirecTV_Feb2024_Hashmoji",
+		"BF-10365_DirecTV_Feb2024_Hashmoji_before"
 	],
 	"satellitefreedirectv": [
-		"BF-10365_DirecTV_Feb2024_Hashmoji"
+		"BF-10365_DirecTV_Feb2024_Hashmoji",
+		"BF-10365_DirecTV_Feb2024_Hashmoji_before"
 	],
 	"streamdirectvsatellitefree": [
-		"BF-10365_DirecTV_Feb2024_Hashmoji"
+		"BF-10365_DirecTV_Feb2024_Hashmoji",
+		"BF-10365_DirecTV_Feb2024_Hashmoji_before"
 	],
 	"bikintambahmeriah": [
 		"BF-10544_HUT_BCA_2024_Hashmoji"
@@ -104327,5 +104331,8 @@
 	],
 	"ls4ts3": [
 		"LilDurk_Album_2024"
+	],
+	"tsttpd": [
+		"Taylor_Swift_Album2024"
 	]
 }
