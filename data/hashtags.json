@@ -104317,14 +104317,17 @@
 	],
 	"lenstolegend": [
 		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiBefore",
-		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiDuring"
+		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiDuring",
+		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiAfter"
 	],
 	"xiaomi14series": [
-		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiBefore"
+		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiBefore",
+		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiAfter"
 	],
 	"xiaomi14ultra": [
 		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiBefore",
-		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiDuring"
+		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiDuring",
+		"BF-10465_Xiaomi_MWC_Feb2024_HashmojiAfter"
 	],
 	"dkpartner": [
 		"DKPartner_Additional_v2"
