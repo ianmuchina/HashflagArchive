@@ -14510,7 +14510,8 @@
 		"DIRECTV_StreamRebrand_2021_all",
 		"BF-10365_DirecTV_Feb2024_Hashmoji",
 		"BF-10365_DirecTV_Feb2024_Hashmoji_before",
-		"BF-10578_DirecTV_US_CustomLike_Hashfetti"
+		"BF-10578_DirecTV_US_CustomLike_Hashfetti",
+		"BF-10365_DirecTV_Feb2024_Hashmoji_after"
 	],
 	"directvstream": [
 		"DIRECTV_StreamRebrand_2021",
@@ -104277,17 +104278,20 @@
 	"directvsatellitefree": [
 		"BF-10365_DirecTV_Feb2024_Hashmoji",
 		"BF-10365_DirecTV_Feb2024_Hashmoji_before",
-		"BF-10365_DirecTV_Feb2024_Hashmoji_during"
+		"BF-10365_DirecTV_Feb2024_Hashmoji_during",
+		"BF-10365_DirecTV_Feb2024_Hashmoji_after"
 	],
 	"satellitefreedirectv": [
 		"BF-10365_DirecTV_Feb2024_Hashmoji",
 		"BF-10365_DirecTV_Feb2024_Hashmoji_before",
-		"BF-10365_DirecTV_Feb2024_Hashmoji_during"
+		"BF-10365_DirecTV_Feb2024_Hashmoji_during",
+		"BF-10365_DirecTV_Feb2024_Hashmoji_after"
 	],
 	"streamdirectvsatellitefree": [
 		"BF-10365_DirecTV_Feb2024_Hashmoji",
 		"BF-10365_DirecTV_Feb2024_Hashmoji_before",
-		"BF-10365_DirecTV_Feb2024_Hashmoji_during"
+		"BF-10365_DirecTV_Feb2024_Hashmoji_during",
+		"BF-10365_DirecTV_Feb2024_Hashmoji_after"
 	],
 	"bikintambahmeriah": [
 		"BF-10544_HUT_BCA_2024_Hashmoji"
