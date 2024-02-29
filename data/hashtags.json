@@ -9472,7 +9472,8 @@
 		"Lizzo_Cardi_Single_Emoji_2021",
 		"Lizzo_Cardi_Single_2021_V2",
 		"Cardi_Hot_Shit_Emoji_2022",
-		"CardiBJealousy"
+		"CardiBJealousy",
+		"CardiBSongReleasePt1_US"
 	],
 	"cardiamas": [
 		"AMAs2021_CardiAMAs"
@@ -9488,7 +9489,8 @@
 		"Lizzo_Cardi_Single_2021_V2",
 		"Cardi_Hot_Shit_Emoji_2022",
 		"CardiBJealousy",
-		"CardiMeg"
+		"CardiMeg",
+		"CardiBSongReleasePt1_US"
 	],
 	"cardibhot": [
 		"Cardi_Hot_Shit_Emoji_2022"
@@ -104374,5 +104376,8 @@
 	],
 	"tsttpd": [
 		"Taylor_Swift_Album2024"
+	],
+	"likewhat": [
+		"CardiBSongReleasePt1_US"
 	]
 }
