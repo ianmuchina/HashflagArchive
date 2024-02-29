@@ -31871,7 +31871,8 @@
 	"leap": [
 		"JamesBay2022",
 		"LEAP_cyber_security_Jan_2023",
-		"BF-10490_Hashmoji-Leapandinnovate2024"
+		"BF-10490_Hashmoji-Leapandinnovate2024",
+		"BF-10490_Leapandinnovate2024_Hashmoji_nonCL"
 	],
 	"leap22": [
 		"LEAP_Jan_2022"
@@ -70152,7 +70153,8 @@
 	"ليب": [
 		"LEAP_Jan_2022",
 		"LEAP_cyber_security_Jan_2023",
-		"BF-10490_Hashmoji-Leapandinnovate2024"
+		"BF-10490_Hashmoji-Leapandinnovate2024",
+		"BF-10490_Leapandinnovate2024_Hashmoji_nonCL"
 	],
 	"ليب22": [
 		"LEAP_Jan_2022"
@@ -102864,7 +102866,8 @@
 		"Jaco_App_Digital_Campaign_2023_AdditionalHashmoji"
 	],
 	"جاكو": [
-		"Jaco_App_Digital_Campaign_2023_AdditionalHashmoji"
+		"Jaco_App_Digital_Campaign_2023_AdditionalHashmoji",
+		"BF-10573_HeyJaco_March24_Hashmoji"
 	],
 	"noorriyadh": [
 		"Noor_Riyadh_Festival_2023"
@@ -104277,13 +104280,15 @@
 		"BF-10427_SpotifyKorean_Hahsmoji"
 	],
 	"leap24": [
-		"BF-10490_Hashmoji-Leapandinnovate2024"
+		"BF-10490_Hashmoji-Leapandinnovate2024",
+		"BF-10490_Leapandinnovate2024_Hashmoji_nonCL"
 	],
 	"ليب24": [
 		"BF-10490_Hashmoji-Leapandinnovate2024"
 	],
 	"ليب_في_ملهم": [
-		"BF-10490_Hashmoji-Leapandinnovate2024"
+		"BF-10490_Hashmoji-Leapandinnovate2024",
+		"BF-10490_Leapandinnovate2024_Hashmoji_nonCL"
 	],
 	"kpoponfirstcrush": [
 		"BF-10537_SpotifyKPopON_2024Hahsmoji"
@@ -104381,5 +104386,11 @@
 	],
 	"likewhat": [
 		"CardiBSongReleasePt1_US"
+	],
+	"جاكو_جاب_الفيديو": [
+		"BF-10573_HeyJaco_March24_Hashmoji"
+	],
+	"جاكو_منك_وفيك": [
+		"BF-10573_HeyJaco_March24_Hashmoji"
 	]
 }
