@@ -8307,7 +8307,8 @@
 	"brits": [
 		"BRITs_BRIT_Awards_2022",
 		"BRITs2021",
-		"The_BRIT_Awards_2023"
+		"The_BRIT_Awards_2023",
+		"The_BRIT_Awards_20242"
 	],
 	"brits2021": [
 		"BRITs2021"
@@ -104404,5 +104405,11 @@
 	],
 	"lvfw24": [
 		"BF-10580_WomenShow_Feb24"
+	],
+	"thebritawards": [
+		"The_BRIT_Awards_20242"
+	],
+	"thebrits": [
+		"The_BRIT_Awards_20242"
 	]
 }
