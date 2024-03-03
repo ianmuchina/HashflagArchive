@@ -99985,7 +99985,8 @@
 	"mhnow": [
 		"Monster_Hunter_Now_Launch_Emoji_2023",
 		"BF-9888_MJH_Now_Dec_2023_emoji",
-		"BF-9888_MJH_Now_Dec_2023_emoji_v2"
+		"BF-9888_MJH_Now_Dec_2023_emoji_v2",
+		"BF-10513_MH_Now_March_2024_emoji"
 	],
 	"palico": [
 		"Monster_Hunter_Now_Launch_Emoji_2023"
@@ -100003,7 +100004,8 @@
 	"モンハンnow": [
 		"Monster_Hunter_Now_Launch_Emoji_2023",
 		"BF-9888_MJH_Now_Dec_2023_emoji",
-		"BF-9888_MJH_Now_Dec_2023_emoji_v2"
+		"BF-9888_MJH_Now_Dec_2023_emoji_v2",
+		"BF-10513_MH_Now_March_2024_emoji"
 	],
 	"モンハンnowで討伐したいモンスター": [
 		"Monster_Hunter_Now_Launch_Emoji_2023"
@@ -104416,5 +104418,14 @@
 	],
 	"صناعة_وحياة": [
 		"BF-10639_Hashmoji_RCJY_2024"
+	],
+	"mhnowcelebration": [
+		"BF-10513_MH_Now_March_2024_emoji"
+	],
+	"mhnowcreation": [
+		"BF-10513_MH_Now_March_2024_emoji"
+	],
+	"モンハンnow感謝祭": [
+		"BF-10513_MH_Now_March_2024_emoji"
 	]
 }
