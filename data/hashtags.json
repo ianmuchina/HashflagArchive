@@ -104488,16 +104488,20 @@
 		"Shopee_BR_Hashmoji_1"
 	],
 	"amo": [
-		"BF-10628_claro_brasil_4xHashmoji_Before"
+		"BF-10628_claro_brasil_4xHashmoji_Before",
+		"BF-10628_claro_brasil_Hashmoji_After_V2"
 	],
 	"conectada": [
-		"BF-10628_claro_brasil_4xHashmoji_Before"
+		"BF-10628_claro_brasil_4xHashmoji_Before",
+		"BF-10628_claro_brasil_Hashmoji_After_V2"
 	],
 	"conectado": [
-		"BF-10628_claro_brasil_4xHashmoji_Before"
+		"BF-10628_claro_brasil_4xHashmoji_Before",
+		"BF-10628_claro_brasil_Hashmoji_After_V2"
 	],
 	"conexão": [
-		"BF-10628_claro_brasil_4xHashmoji_Before"
+		"BF-10628_claro_brasil_4xHashmoji_Before",
+		"BF-10628_claro_brasil_Hashmoji_After_V2"
 	],
 	"お腹が太めな方に朗報": [
 		"Hashmoji_alli_taisho_3_6"
@@ -104525,5 +104529,8 @@
 	],
 	"wsl": [
 		"World_Surf_League_2024"
+	],
+	"claroconectamaisvc": [
+		"BF-10628_claro_brasil_Hashmoji_After_V2"
 	]
 }
