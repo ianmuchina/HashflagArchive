@@ -69620,14 +69620,16 @@
 	],
 	"رمضان_على_السعودية": [
 		"SBA_Apr_2022",
-		"Saudi_TV_Emoji"
+		"Saudi_TV_Emoji",
+		"BF-10662_Hashmoji_SBA_Ramadan_2024"
 	],
 	"رمضان_على_شاهد": [
 		"ShahidVOD_Ramadan_2022"
 	],
 	"رمضان_عندنا": [
 		"SBA_Apr_2022",
-		"Saudi_TV_Emoji"
+		"Saudi_TV_Emoji",
+		"BF-10662_Hashmoji_SBA_Ramadan_2024"
 	],
 	"رمضان_كريم": [
 		"Ramadan_2021_Crescent",
@@ -70027,7 +70029,8 @@
 	],
 	"قناة_السعودية": [
 		"SBA_Apr_2022",
-		"Saudi_TV_Emoji"
+		"Saudi_TV_Emoji",
+		"BF-10662_Hashmoji_SBA_Ramadan_2024"
 	],
 	"قوسالمخلب": [
 		"Sony_PlayStation_God_of_War_2_Oct_2022_translations"
@@ -70302,7 +70305,8 @@
 	],
 	"مسلسلات_رمضان": [
 		"ShahidVOD_Ramadan_2022",
-		"MBC_Ramadan_2023"
+		"MBC_Ramadan_2023",
+		"BF-10597_YangoPlay_March24_HashmojiBefore"
 	],
 	"مسمارول": [
 		"DisneyPlus_Ms_Marvel_May_2022_V2"
@@ -70514,7 +70518,8 @@
 	],
 	"هيئة_الإذاعة_والتلفزيون": [
 		"SBA_Apr_2022",
-		"Saudi_TV_Emoji"
+		"Saudi_TV_Emoji",
+		"BF-10662_Hashmoji_SBA_Ramadan_2024"
 	],
 	"هيئة_الترفيه": [
 		"GEA_June_2021",
@@ -92090,7 +92095,8 @@
 		"UndisputedTitleSummerSlam2023"
 	],
 	"قناة_sbc": [
-		"Saudi_TV_Emoji"
+		"Saudi_TV_Emoji",
+		"BF-10662_Hashmoji_SBA_Ramadan_2024"
 	],
 	"standuptojewishhate": [
 		"FCA_Foundation_to_Combat_Antisemitism_Launch_2023",
@@ -104567,5 +104573,8 @@
 	],
 	"hubbltv": [
 		"BF-10676_Hubbl_2024_Hashmojis"
+	],
+	"يانغو_بلاي": [
+		"BF-10597_YangoPlay_March24_HashmojiBefore"
 	]
 }
