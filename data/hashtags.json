@@ -40158,7 +40158,8 @@
 	"ngabuburit": [
 		"Ramadan_2021_Crescent",
 		"Ramadan_Crescent_2022",
-		"BF-10665_Ramadan_2024_Crescent"
+		"BF-10665_Ramadan_2024_Crescent",
+		"BF-10655_Indosat_IM3_Ramadan_2024_hashmoji"
 	],
 	"ngaraatekaumaono": [
 		"OrangeTheWorld_2020",
@@ -104585,5 +104586,14 @@
 	],
 	"hubbl": [
 		"BF-10676_Hubbl_2024_TriggerHashmoji_After"
+	],
+	"im3": [
+		"BF-10655_Indosat_IM3_Ramadan_2024_hashmoji"
+	],
+	"pasarramadanim3": [
+		"BF-10655_Indosat_IM3_Ramadan_2024_hashmoji"
+	],
+	"silaturahmi": [
+		"BF-10655_Indosat_IM3_Ramadan_2024_hashmoji"
 	]
 }
