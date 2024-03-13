@@ -70311,7 +70311,8 @@
 		"ShahidVOD_Ramadan_2022",
 		"MBC_Ramadan_2023",
 		"BF-10597_YangoPlay_March24_HashmojiBefore",
-		"BF-10597_YangoPlay_March24_HashmojiDuring"
+		"BF-10597_YangoPlay_March24_HashmojiDuring",
+		"BF-10597_YangoPlay_March24_HashmojiAfter"
 	],
 	"مسمارول": [
 		"DisneyPlus_Ms_Marvel_May_2022_V2"
@@ -104567,7 +104568,8 @@
 	],
 	"رمضان_يجمعنا": [
 		"BF-10636_MBC_Ramadan_2024",
-		"BF-10638_MBC_Ramadan_2024_TriggerHashtag_Before"
+		"BF-10638_MBC_Ramadan_2024_TriggerHashtag_Before",
+		"BF-10638_MBC_Ramadan_2024_TriggerHashtag_After"
 	],
 	"فنانيس": [
 		"BF-10636_MBC_Ramadan_2024",
@@ -104586,7 +104588,8 @@
 		"BF-10676_Hubbl_2024_Hashmojis"
 	],
 	"يانغو_بلاي": [
-		"BF-10597_YangoPlay_March24_HashmojiBefore"
+		"BF-10597_YangoPlay_March24_HashmojiBefore",
+		"BF-10597_YangoPlay_March24_HashmojiAfter"
 	],
 	"hubbl": [
 		"BF-10676_Hubbl_2024_TriggerHashmoji_After"
