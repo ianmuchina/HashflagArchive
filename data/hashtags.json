@@ -9477,7 +9477,8 @@
 		"Lizzo_Cardi_Single_2021_V2",
 		"Cardi_Hot_Shit_Emoji_2022",
 		"CardiBJealousy",
-		"CardiBSongReleasePt1_US"
+		"CardiBSongReleasePt1_US",
+		"CardiBSongReleasePt2_US"
 	],
 	"cardiamas": [
 		"AMAs2021_CardiAMAs"
@@ -9494,7 +9495,8 @@
 		"Cardi_Hot_Shit_Emoji_2022",
 		"CardiBJealousy",
 		"CardiMeg",
-		"CardiBSongReleasePt1_US"
+		"CardiBSongReleasePt1_US",
+		"CardiBSongReleasePt2_US"
 	],
 	"cardibhot": [
 		"Cardi_Hot_Shit_Emoji_2022"
@@ -104613,5 +104615,8 @@
 	],
 	"280comtéaop": [
 		"BF-10609_McDonaldsFR_March24_280Comte_HashmojiAfterv1"
+	],
+	"enough": [
+		"CardiBSongReleasePt2_US"
 	]
 }
