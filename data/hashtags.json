@@ -5451,7 +5451,8 @@
 	],
 	"baonpdx": [
 		"NWSL_Season_PortlandThorns_2022",
-		"NWSL_Season_2023_Portland_Thorns_9"
+		"NWSL_Season_2023_Portland_Thorns_9",
+		"NWSL_Portland_Hashtag2024"
 	],
 	"bar": [
 		"Olympics_Countries_2021_BAR",
@@ -41141,7 +41142,8 @@
 	],
 	"nwsl": [
 		"NWSL_Season_NWSL_2022",
-		"NWSL_Season_2023_NWSL_League_13"
+		"NWSL_Season_2023_NWSL_League_13",
+		"NWSL_League2_Hashtag2024"
 	],
 	"nwslchallengecup": [
 		"NWSL_Season_NWSLChallengeCup_2022"
@@ -87255,7 +87257,8 @@
 		"DisneyTH_AntManAndTheWaspQuantumania_KangHelmet_2023"
 	],
 	"kcbaby": [
-		"NWSL_Season_2023_KansasCity_Current_5"
+		"NWSL_Season_2023_KansasCity_Current_5",
+		"NWSL_KC_Hashtag2024"
 	],
 	"kesilang": [
 		"DisneyTH_AntManAndTheWaspQuantumania_CassieLang_2023"
@@ -88138,7 +88141,8 @@
 		"MLS_Season_2023_Atlanta_United"
 	],
 	"weplayhere": [
-		"NWSL_Season_2023_NWSL_League_13"
+		"NWSL_Season_2023_NWSL_League_13",
+		"NWSL_League_Hashtag2024"
 	],
 	"wethea": [
 		"CDL_Team_AtlantaFaZe_2023"
@@ -104620,5 +104624,32 @@
 	],
 	"enough": [
 		"CardiBSongReleasePt2_US"
+	],
+	"bayfc": [
+		"NWSL_Bay_Hashtag2024"
+	],
+	"forthelove": [
+		"NWSL_NC_Hashtag2024"
+	],
+	"gothamfc": [
+		"NWSL_GothamFC_2024"
+	],
+	"hereforthecrown": [
+		"NWSL_Seattle_Hashtag2024"
+	],
+	"makewaves": [
+		"NWSL_SanDiego_Hashtag2024"
+	],
+	"thatsthespirit": [
+		"NWSL_Washington_Hashtag2024"
+	],
+	"urfc": [
+		"NWSL_Utah_Hashtag2024"
+	],
+	"vamospride": [
+		"NWSL_Orlando_Hashtag2024"
+	],
+	"withthestars": [
+		"NWSL_Chicago_Hashtag2024"
 	]
 }
