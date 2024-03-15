@@ -3119,7 +3119,8 @@
 	],
 	"angelcityfc": [
 		"NWSL_Season_AngelCityFC_2022",
-		"NWSL_Season_2023_Angel_City_FC_1"
+		"NWSL_Season_2023_Angel_City_FC_1",
+		"NWSL_AngelCityFC_2024"
 	],
 	"angelofdarkness": [
 		"TheAlienist_Season2_2020"
@@ -104654,5 +104655,8 @@
 	],
 	"elibertadores": [
 		"BF-10767_eLibertadores"
+	],
+	"houstondash": [
+		"NWSL_HoustonDash_2024"
 	]
 }
