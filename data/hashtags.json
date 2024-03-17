@@ -688,7 +688,8 @@
 		"AsahiSoftDrink_cider_Japan_2021",
 		"ASAHI_Mitsuya_CPN_2023_before",
 		"ASAHI_Mitsuya_CPN_2023_during",
-		"ASAHI_Mitsuya_CPN_2023_after"
+		"ASAHI_Mitsuya_CPN_2023_after",
+		"Asahi_Mitsuya_anniversary_Japan_2024_Emoji"
 	],
 	"3月3日はてりたまつり": [
 		"McDonaldsTeritama_2020"
@@ -79151,7 +79152,8 @@
 		"ASAHI_Mitsuya_CPN_2023_before",
 		"ASAHI_Mitsuya_CPN_2023_during",
 		"ASAHI_Mitsuya_CPN_2023_after",
-		"Asahi_soft_drinks_mitsuya_xmas_Japan_2023_Hashmoji_new"
+		"Asahi_soft_drinks_mitsuya_xmas_Japan_2023_Hashmoji_new",
+		"Asahi_Mitsuya_anniversary_Japan_2024_Emoji"
 	],
 	"三ツ矢の矢羽根つくってみた": [
 		"Asahi_Mitsuya_Japan_Mar_2022",
@@ -79167,7 +79169,8 @@
 		"ASAHI_Mitsuya_CPN_2023_before",
 		"ASAHI_Mitsuya_CPN_2023_during",
 		"ASAHI_Mitsuya_CPN_2023_after",
-		"Asahi_soft_drinks_mitsuya_xmas_Japan_2023_Hashmoji_new"
+		"Asahi_soft_drinks_mitsuya_xmas_Japan_2023_Hashmoji_new",
+		"Asahi_Mitsuya_anniversary_Japan_2024_Emoji"
 	],
 	"三ツ矢夏まつり": [
 		"AsahiSoftDrinkmitsuyasummercider2_Japan_2021"
@@ -104660,5 +104663,11 @@
 	],
 	"houstondash": [
 		"NWSL_HoustonDash_2024"
+	],
+	"一緒ならもっと楽しい": [
+		"Asahi_Mitsuya_anniversary_Japan_2024_Emoji"
+	],
+	"三ツ矢の日": [
+		"Asahi_Mitsuya_anniversary_Japan_2024_Emoji"
 	]
 }
