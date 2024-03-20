@@ -51238,7 +51238,8 @@
 		"DodgeTalladega_2020"
 	],
 	"shakira": [
-		"ShakiraPiesDescalzosAlbum_2020"
+		"ShakiraPiesDescalzosAlbum_2020",
+		"ShakiraLMYNLAlbumRelease_Music_US"
 	],
 	"shakuntaladevi": [
 		"ShakuntalaDevi_2020"
@@ -104706,5 +104707,11 @@
 	],
 	"由伸デビュー": [
 		"BF-10646_Gamelaunch2024MarBrandedHashtag"
+	],
+	"lasmujeresyanolloran": [
+		"ShakiraLMYNLAlbumRelease_Music_US"
+	],
+	"lmynl": [
+		"ShakiraLMYNLAlbumRelease_Music_US"
 	]
 }
