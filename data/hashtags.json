@@ -59932,14 +59932,16 @@
 	],
 	"token2049": [
 		"token2049_Aug_2022",
-		"Token2049_Aug_to_Sept_2023_Campaign"
+		"Token2049_Aug_to_Sept_2023_Campaign",
+		"BF-10790_TOKEN2049_Dubai_2024_hashmoji"
 	],
 	"token2049ldn": [
 		"token2049_Aug_2022"
 	],
 	"token2049sg": [
 		"token2049_Aug_2022",
-		"Token2049_Aug_to_Sept_2023_Campaign"
+		"Token2049_Aug_to_Sept_2023_Campaign",
+		"BF-10790_TOKEN2049_Dubai_2024_hashmoji"
 	],
 	"tokio2020": [
 		"Tokyo2020_Olympics_add2"
@@ -98942,10 +98944,12 @@
 		"STARZ_Power_Force_Hashmoji_2023"
 	],
 	"token2049dubai": [
-		"Token2049_Aug_to_Sept_2023_Campaign"
+		"Token2049_Aug_to_Sept_2023_Campaign",
+		"BF-10790_TOKEN2049_Dubai_2024_hashmoji"
 	],
 	"token2049week": [
-		"Token2049_Aug_to_Sept_2023_Campaign"
+		"Token2049_Aug_to_Sept_2023_Campaign",
+		"BF-10790_TOKEN2049_Dubai_2024_hashmoji"
 	],
 	"brandedféaturés": [
 		"BrandedFeatures_AccentTest_818"
@@ -104758,5 +104762,8 @@
 	],
 	"ドラゴンズドグマ2本日発売": [
 		"DD_CAPCOM_Hashmoji_Launch_2024"
+	],
+	"token2049dxb": [
+		"BF-10790_TOKEN2049_Dubai_2024_hashmoji"
 	]
 }
