@@ -104858,9 +104858,14 @@
 		"Hashmoji_rohto_uv_3_25_v2"
 	],
 	"umasopele": [
-		"CBF-UmaSoPele"
+		"CBF-UmaSoPele",
+		"CBF-UmaSoPele-v2"
 	],
 	"umasópele": [
-		"CBF-UmaSoPele"
+		"CBF-UmaSoPele",
+		"CBF-UmaSoPele-v2"
+	],
+	"braxesp": [
+		"CBF-UmaSoPele-v2"
 	]
 }
