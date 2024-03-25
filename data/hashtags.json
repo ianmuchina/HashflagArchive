@@ -104842,9 +104842,14 @@
 		"Hashmoji_rohto_uv_3_25"
 	],
 	"ロートuvダンス": [
-		"Hashmoji_rohto_uv_3_25"
+		"Hashmoji_rohto_uv_3_25",
+		"Hashmoji_rohto_uv_3_25_v2"
 	],
 	"ロートuv広告みた": [
-		"Hashmoji_rohto_uv_3_25"
+		"Hashmoji_rohto_uv_3_25",
+		"Hashmoji_rohto_uv_3_25_v2"
+	],
+	"ロートuv": [
+		"Hashmoji_rohto_uv_3_25_v2"
 	]
 }
