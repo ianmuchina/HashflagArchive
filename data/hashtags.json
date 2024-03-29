@@ -104955,7 +104955,8 @@
 		"BF-10788_miHoYo_Archeron_March_2024"
 	],
 	"bforbetter": [
-		"BF-10826_HashmojiBforbank"
+		"BF-10826_HashmojiBforbank",
+		"BF-10826_Bforbank"
 	],
 	"bpourbeaucoupplushumaine": [
 		"BF-10826_HashmojiBforbank"
@@ -105051,5 +105052,8 @@
 	],
 	"板チョコアイス食べたよ": [
 		"BF-10715_MorinagaIce_Mar_2024"
+	],
+	"bforbeaucoupplushumaine": [
+		"BF-10826_Bforbank"
 	]
 }
