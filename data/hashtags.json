@@ -105058,15 +105058,22 @@
 		"BF-10826_Bforbank"
 	],
 	"crazygooddeals": [
-		"OverstockCrazyGoodDeals_Hashmojis_BF-10915"
+		"OverstockCrazyGoodDeals_Hashmojis_BF-10915",
+		"OverstockCrazyGoodDeals_AllHashmojis_BF-10915"
 	],
 	"overstock": [
-		"OverstockCrazyGoodDeals_Hashmojis_BF-10915"
+		"OverstockCrazyGoodDeals_Hashmojis_BF-10915",
+		"OverstockCrazyGoodDeals_AllHashmojis_BF-10915"
 	],
 	"overstockcrazysmartdeals": [
-		"OverstockCrazyGoodDeals_Hashmojis_BF-10915"
+		"OverstockCrazyGoodDeals_Hashmojis_BF-10915",
+		"OverstockCrazyGoodDeals_AllHashmojis_BF-10915"
 	],
 	"rediscoveroverstock": [
-		"OverstockCrazyGoodDeals_Hashmojis_BF-10915"
+		"OverstockCrazyGoodDeals_Hashmojis_BF-10915",
+		"OverstockCrazyGoodDeals_AllHashmojis_BF-10915"
+	],
+	"overstockcrazygooddeals": [
+		"OverstockCrazyGoodDeals_AllHashmojis_BF-10915"
 	]
 }
