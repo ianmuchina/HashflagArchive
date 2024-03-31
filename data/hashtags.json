@@ -42029,7 +42029,8 @@
 		"OnePlus9Series_Mar_2021"
 	],
 	"oneplusnord": [
-		"OnePlusNord_2021"
+		"OnePlusNord_2021",
+		"BF-10879_OnePlusNordCE4_Hashmoji_during"
 	],
 	"oneplusnord2": [
 		"OnePlusNord_2021"
@@ -105090,5 +105091,14 @@
 	],
 	"新オールフリーを差し上げます": [
 		"BF-10714_AllfreeHashumojiApr2024_v2"
+	],
+	"allpowerallyou": [
+		"BF-10879_OnePlusNordCE4_Hashmoji_during"
+	],
+	"fastestchargingnord": [
+		"BF-10879_OnePlusNordCE4_Hashmoji_during"
+	],
+	"nordce4": [
+		"BF-10879_OnePlusNordCE4_Hashmoji_during"
 	]
 }
