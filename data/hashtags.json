@@ -42032,7 +42032,8 @@
 	],
 	"oneplusnord": [
 		"OnePlusNord_2021",
-		"BF-10879_OnePlusNordCE4_Hashmoji_during"
+		"BF-10879_OnePlusNordCE4_Hashmoji_during",
+		"BF-10879_OnePlusNordCE4_Hashmoji"
 	],
 	"oneplusnord2": [
 		"OnePlusNord_2021"
@@ -105104,13 +105105,16 @@
 		"BF-10714_AllfreeHashumojiApr2024_v2"
 	],
 	"allpowerallyou": [
-		"BF-10879_OnePlusNordCE4_Hashmoji_during"
+		"BF-10879_OnePlusNordCE4_Hashmoji_during",
+		"BF-10879_OnePlusNordCE4_Hashmoji"
 	],
 	"fastestchargingnord": [
-		"BF-10879_OnePlusNordCE4_Hashmoji_during"
+		"BF-10879_OnePlusNordCE4_Hashmoji_during",
+		"BF-10879_OnePlusNordCE4_Hashmoji"
 	],
 	"nordce4": [
-		"BF-10879_OnePlusNordCE4_Hashmoji_during"
+		"BF-10879_OnePlusNordCE4_Hashmoji_during",
+		"BF-10879_OnePlusNordCE4_Hashmoji"
 	],
 	"bayley": [
 		"WWE_WrestleMania_Bayley_2024_v2"
@@ -105186,5 +105190,8 @@
 	],
 	"wwewomenstitle": [
 		"WrestleMania_WomensTitle_2024"
+	],
+	"oneplusnordce4": [
+		"BF-10879_OnePlusNordCE4_Hashmoji"
 	]
 }
