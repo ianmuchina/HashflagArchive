@@ -1302,7 +1302,8 @@
 	],
 	"acknowledgeme": [
 		"WWE_SummerSlam_4_2022",
-		"WWE_SummerSlam_4_2022_v2"
+		"WWE_SummerSlam_4_2022_v2",
+		"WWE_WrestleMania_RomanReigns_2024"
 	],
 	"acko": [
 		"AckoInsurance_AMJ_May_2022"
@@ -11369,7 +11370,8 @@
 	],
 	"codyrhodes": [
 		"Turner_RhodesToTheTop_S1_2021",
-		"WWE_AmericanNightmare"
+		"WWE_AmericanNightmare",
+		"WWE_WrestleMania_CodyRhodes_2024"
 	],
 	"coffeeconfidential": [
 		"HBOMaxGossipGirl_July_2021_Latte"
@@ -53758,7 +53760,8 @@
 	],
 	"standanddeliver": [
 		"WWE_MXT_Stand_and_Deliver_2022",
-		"WWE_StandAndDeliver_2023"
+		"WWE_StandAndDeliver_2023",
+		"WWE_WrestleMania_NXT_Emoji_2024"
 	],
 	"standatdawn": [
 		"ANZ_AnzacDay2021"
@@ -56477,7 +56480,8 @@
 	"teamroman": [
 		"WWE_Team_Roman_2022",
 		"SummerSlam_2021_TeamRoman",
-		"RomanReignsSummerSlamEmoji2023"
+		"RomanReignsSummerSlamEmoji2023",
+		"WWE_WrestleMania_RomanReigns_2024"
 	],
 	"teamruffles": [
 		"NBARuffles_MX_2020"
@@ -92149,7 +92153,8 @@
 		"CBS_Interactive_RabbitHoleS1_after"
 	],
 	"americannightmare": [
-		"WWE_AmericanNightmare"
+		"WWE_AmericanNightmare",
+		"WWE_WrestleMania_CodyRhodes_2024"
 	],
 	"asukavsbianca": [
 		"WWE_BiancaVsAsuka"
@@ -92158,14 +92163,17 @@
 		"WWE_BiancaVsAsuka"
 	],
 	"codyvsroman": [
-		"WWE_UndisputedTitle_2023"
+		"WWE_UndisputedTitle_2023",
+		"WrestleMania_UndisputedTitle_2024"
 	],
 	"romanvscody": [
-		"WWE_UndisputedTitle_2023"
+		"WWE_UndisputedTitle_2023",
+		"WrestleMania_UndisputedTitle_2024"
 	],
 	"undisputedtitle": [
 		"WWE_UndisputedTitle_2023",
-		"UndisputedTitleSummerSlam2023"
+		"UndisputedTitleSummerSlam2023",
+		"WrestleMania_UndisputedTitle_2024"
 	],
 	"قناة_sbc": [
 		"Saudi_TV_Emoji",
@@ -92184,10 +92192,12 @@
 	],
 	"romanreigns": [
 		"WWE_RomanReignsTribalChief_2023",
-		"RomanReignsSummerSlamEmoji2023"
+		"RomanReignsSummerSlamEmoji2023",
+		"WWE_WrestleMania_RomanReigns_2024"
 	],
 	"tribalchief": [
-		"WWE_RomanReignsTribalChief_2023"
+		"WWE_RomanReignsTribalChief_2023",
+		"WWE_WrestleMania_RomanReigns_2024"
 	],
 	"زكاتك_تصل_لأهلها": [
 		"ZAKATY"
@@ -98306,7 +98316,8 @@
 		"JeyUsoSummerSlamEmoji2023"
 	],
 	"worldtitle": [
-		"WorldTitleSummerSlamEmoji2023"
+		"WorldTitleSummerSlamEmoji2023",
+		"WrestleMania_WorldTitle_2024"
 	],
 	"fastforward": [
 		"somi_official_Hashmoji_on_08_2023"
@@ -105100,5 +105111,80 @@
 	],
 	"nordce4": [
 		"BF-10879_OnePlusNordCE4_Hashmoji_during"
+	],
+	"bayley": [
+		"WWE_WrestleMania_Bayley_2024_v2"
+	],
+	"bayleyvsiyo": [
+		"WrestleMania_WomensTitle_2024"
+	],
+	"beckylynch": [
+		"WWE_WrestleMania_BeckyLynch_2024"
+	],
+	"beckyvsrhea": [
+		"WrestleMania_WomensWorldTitle_2024"
+	],
+	"drewmcintyre": [
+		"WWE_WrestleMania_DrewMcInTyre"
+	],
+	"drewvsseth": [
+		"WrestleMania_WorldTitle_2024"
+	],
+	"finalboss": [
+		"WWE_WrestleMania_TheRock_2024"
+	],
+	"finishthestory": [
+		"WWE_WrestleMania_CodyRhodes_2024"
+	],
+	"iyosky": [
+		"WWE_WrestleMania_IyoSky_2024"
+	],
+	"iyovsbayley": [
+		"WrestleMania_WomensTitle_2024"
+	],
+	"peopleschampion": [
+		"WWE_WrestleMania_TheRock_2024"
+	],
+	"rhearipley": [
+		"WWE_WrestleMania_RheaRipley_2024"
+	],
+	"rheavsbecky": [
+		"WrestleMania_WomensWorldTitle_2024"
+	],
+	"sethrollins": [
+		"WWE_WrestleMania_SethRollins_2024"
+	],
+	"sethvsdrew": [
+		"WrestleMania_WorldTitle_2024"
+	],
+	"teambayley": [
+		"WWE_WrestleMania_Bayley_2024_v2"
+	],
+	"teambecky": [
+		"WWE_WrestleMania_BeckyLynch_2024"
+	],
+	"teamcody": [
+		"WWE_WrestleMania_CodyRhodes_2024"
+	],
+	"teamdrew": [
+		"WWE_WrestleMania_DrewMcInTyre"
+	],
+	"teamiyo": [
+		"WWE_WrestleMania_IyoSky_2024"
+	],
+	"teamrhea": [
+		"WWE_WrestleMania_RheaRipley_2024"
+	],
+	"teamseth": [
+		"WWE_WrestleMania_SethRollins_2024"
+	],
+	"therock": [
+		"WWE_WrestleMania_TheRock_2024"
+	],
+	"womensworldtitle": [
+		"WrestleMania_WomensWorldTitle_2024"
+	],
+	"wwewomenstitle": [
+		"WrestleMania_WomensTitle_2024"
 	]
 }
