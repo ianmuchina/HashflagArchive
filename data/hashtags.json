@@ -19880,7 +19880,8 @@
 		"FNB_Emoji_request_extension_Oct_Dec_2023",
 		"One_FNB_Awareness_Q4Nov_Dec_2023",
 		"BF-9601_One_FNB_Awareness_Jan2024",
-		"BF-9601_One_FNB_Hashmoji_Jan2024"
+		"BF-9601_One_FNB_Hashmoji_Jan2024",
+		"BF-10885_LoveFNB_Positive_sentiment_Q22024"
 	],
 	"fnbbusiness": [
 		"FNB_BrandLove_2021",
@@ -19911,7 +19912,8 @@
 		"One_FNB_Awareness_AlwaysOn_FY24_Q1JulSep2023_Twitter_",
 		"FNB_Emoji_request_extension_Oct_Dec_2023",
 		"One_FNB_Awareness_Q4Nov_Dec_2023",
-		"BF-10523_LoveFNBPositiveSentiment"
+		"BF-10523_LoveFNBPositiveSentiment",
+		"BF-10885_LoveFNB_Positive_sentiment_Q22024"
 	],
 	"fncwin": [
 		"LEC_Team_Fnatic_2022_v2",
@@ -34107,7 +34109,8 @@
 		"One_FNB_Awareness_Q4Nov_Dec_2023",
 		"BF-9601_One_FNB_Awareness_Jan2024",
 		"BF-9601_One_FNB_Hashmoji_Jan2024",
-		"BF-10523_LoveFNBPositiveSentiment"
+		"BF-10523_LoveFNBPositiveSentiment",
+		"BF-10885_LoveFNB_Positive_sentiment_Q22024"
 	],
 	"lovefortohoku": [
 		"311Tohokumemorial_2021_v2",
@@ -77882,7 +77885,8 @@
 		"Heavenburnsred_Dec2023_Hashmoji",
 		"Heavenburnsred_Dec2023_Hashmoji_before",
 		"Heavenburnsred_Jan_2024_during",
-		"Heavenburnsred_Dec2023_Hashmoji_after"
+		"Heavenburnsred_Dec2023_Hashmoji_after",
+		"Heavenburnsred_April_2024_emoji"
 	],
 	"ヘブバン100日記念": [
 		"HeavenBurnsRed_Additional_9_May_2022"
@@ -77909,7 +77913,8 @@
 		"HeavenBurnsRed_Additional_Emoji_8",
 		"HeavenBurnsRed_Additional_8_Sept_2022_extend2_update",
 		"HeavenBurnsRed_Additional_Emoji_8_extend",
-		"HeavenBurnsRed_Additional_Emoji_Aug_2023"
+		"HeavenBurnsRed_Additional_Emoji_Aug_2023",
+		"Heavenburnsred_April_2024_emoji"
 	],
 	"ヘブバン生放送": [
 		"HeavenBurnsRed_Launch_2022",
@@ -77926,7 +77931,8 @@
 		"Heavenburnsred_Dec2023_Hashmoji",
 		"Heavenburnsred_Dec2023_Hashmoji_before",
 		"Heavenburnsred_Jan_2024_during",
-		"Heavenburnsred_Dec2023_Hashmoji_after"
+		"Heavenburnsred_Dec2023_Hashmoji_after",
+		"Heavenburnsred_April_2024_emoji"
 	],
 	"ヘブンバーンズレッド": [
 		"HeavenBurnsRed_Launch_2022",
@@ -97961,7 +97967,8 @@
 		"MasterCard_SeizeTheGame"
 	],
 	"fnbae": [
-		"One_FNB_Awareness_AlwaysOn_FY24_Q1JulSep2023_Twitter_"
+		"One_FNB_Awareness_AlwaysOn_FY24_Q1JulSep2023_Twitter_",
+		"BF-10885_LoveFNB_Positive_sentiment_Q22024"
 	],
 	"fnbbusinessforchange": [
 		"One_FNB_Awareness_AlwaysOn_FY24_Q1JulSep2023_Twitter_"
@@ -100141,7 +100148,8 @@
 		"Heavenburnsred_Dec2023_Hashmoji",
 		"Heavenburnsred_Dec2023_Hashmoji_before",
 		"Heavenburnsred_Jan_2024_during",
-		"Heavenburnsred_Dec2023_Hashmoji_after"
+		"Heavenburnsred_Dec2023_Hashmoji_after",
+		"Heavenburnsred_April_2024_emoji"
 	],
 	"モンハンnow": [
 		"Monster_Hunter_Now_Launch_Emoji_2023",
@@ -105202,5 +105210,8 @@
 	],
 	"versacemedusa95": [
 		"BF-10883_VersaceMedua95"
+	],
+	"fnbsupportslocal": [
+		"BF-10885_LoveFNB_Positive_sentiment_Q22024"
 	]
 }
