@@ -1324,7 +1324,8 @@
 		"Amazon_Studios_ACMAs_2022",
 		"ACMAwards_2020",
 		"AcademyofCountryMusicAwards2021",
-		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American"
+		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American",
+		"DickClarkProd_ACMAwards2024_US"
 	],
 	"acmawards2021": [
 		"AcademyofCountryMusicAwards2021"
@@ -1337,11 +1338,13 @@
 	],
 	"acmredcarpet": [
 		"Amazon_Studios_ACMAs_2022",
-		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American"
+		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American",
+		"DickClarkProd_ACMAwards2024_US"
 	],
 	"acms": [
 		"Amazon_Studios_ACMAs_2022",
-		"ACMAwards_2020"
+		"ACMAwards_2020",
+		"DickClarkProd_ACMAwards2024_US"
 	],
 	"acnepositivity": [
 		"CeraVeAPD_2021"
