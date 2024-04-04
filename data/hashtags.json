@@ -73772,7 +73772,8 @@
 		"MahjongSoul_JP_2020"
 	],
 	"すずめの戸締まり": [
-		"Toho_Suzume_no_Tojimari_Movie_Launch_2022"
+		"Toho_Suzume_no_Tojimari_Movie_Launch_2022",
+		"BF-10658_NetflixJP_18ce54ua4fy_Hashmoji_20240405-20240704_Suzume_"
 	],
 	"すずめ行ってきます": [
 		"Toho_Suzume_no_Tojimari_Movie_Launch_2022"
@@ -76297,7 +76298,8 @@
 		"dqdai_souls_2021"
 	],
 	"ダイジン": [
-		"Toho_Suzume_no_Tojimari_Movie_Launch_2022"
+		"Toho_Suzume_no_Tojimari_Movie_Launch_2022",
+		"BF-10658_NetflixJP_18ce54ua4fy_Hashmoji_20240405-20240704_Suzume_"
 	],
 	"ダイジンといっしょ": [
 		"Toho_Suzume_no_Tojimari_Movie_Launch_2022"
@@ -105213,5 +105215,8 @@
 	],
 	"fnbsupportslocal": [
 		"BF-10885_LoveFNB_Positive_sentiment_Q22024"
+	],
+	"ネトフリですずめの戸締まり": [
+		"BF-10658_NetflixJP_18ce54ua4fy_Hashmoji_20240405-20240704_Suzume_"
 	]
 }
