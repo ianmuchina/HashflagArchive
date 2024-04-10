@@ -78992,7 +78992,8 @@
 		"SQUARE_ENIX_RomasagaAnniversary_2020_BL_H2",
 		"RomasagaAugust_2020",
 		"Romasaga_onehalfyear_2020",
-		"Romasaga_25y_May_2021"
+		"Romasaga_25y_May_2021",
+		"Romasaga_April_2024_emoji"
 	],
 	"ロマサガrs祝1・5周年": [
 		"Romasaga_onehalfyear_2020"
@@ -105276,5 +105277,17 @@
 	],
 	"spcontradengue": [
 		"BF-10989_CombateaDengue_noX_2024Hashmoji"
+	],
+	"サガエメ": [
+		"Romasaga_April_2024_emoji"
+	],
+	"サガエメコラボ": [
+		"Romasaga_April_2024_emoji"
+	],
+	"サガエメ体験版配信中": [
+		"Romasaga_April_2024_emoji"
+	],
+	"サガ最新作がxをジャック": [
+		"Romasaga_April_2024_emoji"
 	]
 }
