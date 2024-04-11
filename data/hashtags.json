@@ -8237,7 +8237,8 @@
 	"bridgerton": [
 		"Netflix_Bridgerton_Bee_S2_2022",
 		"Bridgerton_S2_2022_BL_US",
-		"BridgertononNetflix_Dec_2020"
+		"BridgertononNetflix_Dec_2020",
+		"Netflix_Bridgerton_Q2_2024"
 	],
 	"bridgerton2": [
 		"Netflix_Bridgerton_Corgi_S2_2022"
@@ -8248,7 +8249,8 @@
 	],
 	"bridgertonnetflix": [
 		"Netflix_Bridgerton_Bee_S2_2022",
-		"BridgertononNetflix_Dec_2020"
+		"BridgertononNetflix_Dec_2020",
+		"Netflix_Bridgerton_Q2_2024"
 	],
 	"bridgertononnetflix": [
 		"BridgertononNetflix_Dec_2020"
@@ -105297,5 +105299,23 @@
 	],
 	"rexonabbb": [
 		"UnileverRexona_BF-10960_Hashmoji3"
+	],
+	"bridgertons3": [
+		"Netflix_Bridgerton_Q2_2024"
+	],
+	"bridgertonseason3": [
+		"Netflix_Bridgerton_Q2_2024"
+	],
+	"ministryofungentlemanlywarfare": [
+		"BF-10984_MinistryWarfare_Arm_Before"
+	],
+	"polin": [
+		"Netflix_Bridgerton_Q2_2024"
+	],
+	"theministryofungentlemanlywarfare": [
+		"BF-10984_MinistryWarfare_Arm_Before"
+	],
+	"ungentlemanlywarfare": [
+		"BF-10984_MinistryWarfare_Arm_Before"
 	]
 }
