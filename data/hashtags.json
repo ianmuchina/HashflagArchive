@@ -54780,7 +54780,8 @@
 		"summergamefest_May_2021",
 		"SummerGamesFestival",
 		"Summer_Game_Fest_Mar_2022",
-		"Summer_Game_Fest_2023_Emoji"
+		"Summer_Game_Fest_2023_Emoji",
+		"SummerGameFest2024"
 	],
 	"summergamesfest": [
 		"SummerGamesFestival"
@@ -105325,5 +105326,8 @@
 	],
 	"ochtune": [
 		"Hashmoji_lion_ochtune_4_12"
+	],
+	"sgf2024": [
+		"SummerGameFest2024"
 	]
 }
