@@ -65619,7 +65619,8 @@
 	"wnba": [
 		"WNBA_2020_Season",
 		"WNBA_2021Season_25thAnniversary_2",
-		"2023_WNBA_Emojis_League"
+		"2023_WNBA_Emojis_League",
+		"WNBA_2024_Season"
 	],
 	"wnbaallstar": [
 		"WNBA_All_Star_Weekend_2022",
@@ -93617,7 +93618,8 @@
 		"Ajinomoto_2023_Brand_Emoji"
 	],
 	"wnbadraft": [
-		"WNBA_Draft_2023"
+		"WNBA_Draft_2023",
+		"WNBA_Draft_2024"
 	],
 	"ブレスラボ": [
 		"Brand_Hashtag_Emoji_2023_v4",
@@ -105368,5 +105370,11 @@
 	],
 	"msi2024": [
 		"MSI_Emoji_2024"
+	],
+	"welcometothew": [
+		"WNBA_2024_Season_WelcometotheW"
+	],
+	"wnbatipoff": [
+		"WNBA_2024_TipOff"
 	]
 }
