@@ -104164,19 +104164,24 @@
 		"BF-10271_miHoYo_HSR_DreamStarRail"
 	],
 	"จบรอยสิวใน2สัปดาห์": [
-		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024"
+		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024",
+		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024_v2"
 	],
 	"นีเวียลูมินัส630": [
-		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024"
+		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024",
+		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024_v2"
 	],
 	"นีเวียโพสต์แอคเน่": [
-		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024"
+		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024",
+		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024_v2"
 	],
 	"เซรั่มลดรอยสิวคุมมัน": [
-		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024"
+		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024",
+		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024_v2"
 	],
 	"เซรั่มลดรอยสิวถึงต้นตอ": [
-		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024"
+		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024",
+		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024_v2"
 	],
 	"sheinfindshunter": [
 		"BF-10323_2024_SHEIN_Ramadan_Campaign"
@@ -105428,5 +105433,8 @@
 	],
 	"nbaxlive": [
 		"BF-9382_NBAXLive_CommunityHashtag"
+	],
+	"2049challenge": [
+		"BF-11030_TOKEN2049_Apr2024"
 	]
 }
