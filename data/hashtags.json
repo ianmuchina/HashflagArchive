@@ -41636,7 +41636,8 @@
 		"OKX_follower_2023-feb_brandedhashtag",
 		"OKX_Branded_Emoji-5-23",
 		"OKX_Branded_Emoji_Aug_Oct_2023",
-		"BF-9882_OKX_BrandedEmoji_2023"
+		"BF-9882_OKX_BrandedEmoji_2023",
+		"BF-11031_OKX_Hashmoji"
 	],
 	"okxchain": [
 		"OKC_Campaign_May_2022",
@@ -41676,13 +41677,15 @@
 		"OKXNFT_Campaign_Dec_2022",
 		"OKX_Branded_Emoji-5-23",
 		"OKX_Branded_Emoji_Aug_Oct_2023",
-		"BF-9882_OKX_BrandedEmoji_2023"
+		"BF-9882_OKX_BrandedEmoji_2023",
+		"BF-11031_OKX_Hashmoji"
 	],
 	"okxweb3": [
 		"OKX_Follower_Campaign_Nov_2022",
 		"OKX_Branded_Emoji-5-23",
 		"OKX_Branded_Emoji_Aug_Oct_2023",
-		"BF-9882_OKX_BrandedEmoji_2023"
+		"BF-9882_OKX_BrandedEmoji_2023",
+		"BF-11031_OKX_Hashmoji"
 	],
 	"ol2021": [
 		"OSL2021"
@@ -103560,7 +103563,8 @@
 		"BF-9923_Anitta_2023"
 	],
 	"tradelikeapro": [
-		"BF-9882_OKX_BrandedEmoji_2023"
+		"BF-9882_OKX_BrandedEmoji_2023",
+		"BF-11031_OKX_Hashmoji"
 	],
 	"x1byokx": [
 		"BF-9882_OKX_BrandedEmoji_2023"
@@ -105446,5 +105450,8 @@
 	],
 	"パズドラコラボ行きます": [
 		"GungHo_puzzdra_PR_Collabo_event_2024April_before"
+	],
+	"xlayer": [
+		"BF-11031_OKX_Hashmoji"
 	]
 }
