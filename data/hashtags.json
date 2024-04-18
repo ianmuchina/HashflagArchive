@@ -105446,12 +105446,38 @@
 	],
 	"ガンダムコラボ行きます": [
 		"GungHo_puzzdra_PR_Collabo_event_2024April_before",
-		"GungHo_puzzdra_PR_Collabo_event_2024April_during"
+		"GungHo_puzzdra_PR_Collabo_event_2024April_during",
+		"GungHo_puzzdra_PR_Collabo_event_2024April_after"
 	],
 	"パズドラコラボ行きます": [
-		"GungHo_puzzdra_PR_Collabo_event_2024April_before"
+		"GungHo_puzzdra_PR_Collabo_event_2024April_before",
+		"GungHo_puzzdra_PR_Collabo_event_2024April_after"
 	],
 	"xlayer": [
 		"BF-11031_OKX_Hashmoji"
+	],
+	"100万ドルの五稜星": [
+		"BF-10920_NetflixJP_18ce54ua4fy_Hashmoj_v2"
+	],
+	"コナン": [
+		"BF-10920_NetflixJP_18ce54ua4fy_Hashmoj_v2"
+	],
+	"ネトフリコナン": [
+		"BF-10921_NetflixJP_18ce54ua4fy_Hashmoji_20240419-20240518_KID"
+	],
+	"ネフリの小五郎": [
+		"BF-10921_NetflixJP_18ce54ua4fy_Hashmoji_20240419-20240518_KID"
+	],
+	"劇場版名探偵コナン": [
+		"BF-10920_NetflixJP_18ce54ua4fy_Hashmoj_v2"
+	],
+	"名探偵コナン": [
+		"BF-10920_NetflixJP_18ce54ua4fy_Hashmoj_v2"
+	],
+	"怪盗キッドがネトフリをいただいた": [
+		"BF-10921_NetflixJP_18ce54ua4fy_Hashmoji_20240419-20240518_KID"
+	],
+	"真実はいつもひとつ": [
+		"BF-10920_NetflixJP_18ce54ua4fy_Hashmoj_v2"
 	]
 }
