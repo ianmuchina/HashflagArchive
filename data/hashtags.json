@@ -35032,7 +35032,8 @@
 		"NBA_2021_Teams_MagicTogether",
 		"NBATeam20192020Season_Emojis_ORL_ext_v2",
 		"NBA_League_and_Team_Orlando_2022",
-		"NBA_MagicHashmoji"
+		"NBA_MagicHashmoji",
+		"NBA_Orlando-Magic_2023_2024_Playoffs_Hashmoji"
 	],
 	"magingmabuti": [
 		"BullyingPreventionMonth_2020"
@@ -39488,7 +39489,8 @@
 		"NBAFinals_2020",
 		"NBAFinals_2023_before",
 		"NBAFinals_2023_hashfetti",
-		"NBAFinals_2023_After"
+		"NBAFinals_2023_After",
+		"NBA_Finals_2024"
 	],
 	"nbahof": [
 		"NBAHOF_2021",
@@ -39511,7 +39513,8 @@
 	],
 	"nbaplayoffs": [
 		"NBAPlayoffs_2020",
-		"NBA_Playoffs_Emoji_2023"
+		"NBA_Playoffs_Emoji_2023",
+		"NBA_Playoffs_2024"
 	],
 	"nbaplayoffsontnt": [
 		"NBAPlayoffsonTNT_2021"
@@ -65678,7 +65681,8 @@
 	],
 	"wolvesback": [
 		"NBA_Season_Teams_2022_WolvesBack",
-		"NBA_Playoff_Team_Hashtag_Emoji_MINN_WOLVES_2023"
+		"NBA_Playoff_Team_Hashtag_Emoji_MINN_WOLVES_2023",
+		"NBA_Minnesota_Timberwolves_2023_2024_Playoffs_Hashmoji"
 	],
 	"womanking": [
 		"Sony_Pictures_The_Woman_King_Aug_2022"
@@ -93770,13 +93774,16 @@
 		"Nuggets_Championship_2023"
 	],
 	"feeltheroar": [
-		"NBA_Playoff_Team_Hashtag_Emoji_SACKINGS_2023"
+		"NBA_Playoff_Team_Hashtag_Emoji_SACKINGS_2023",
+		"NBA_Sacramento_Kings_2023_2024_Playoffs_Hashmoji"
 	],
 	"fortheloveofphilly": [
-		"NBA_Playoff_Team_Hashtag_Emoji_76rs_2023"
+		"NBA_Playoff_Team_Hashtag_Emoji_76rs_2023",
+		"NBA_Philly_76ers_2023_2024_Playoffs_Hashmoji"
 	],
 	"onenola": [
-		"NBA_Playoff_Team_Hashtag_Emoji_NewOrleans_2023"
+		"NBA_Playoff_Team_Hashtag_Emoji_NewOrleans_2023",
+		"NBA_NOLA_Pelicans_2023_2024_Playoffs_Hashmoji_Update"
 	],
 	"thebrooklynway": [
 		"NBA_Playoff_Team_Hashtag_Emoji_NETS_2023"
@@ -94336,7 +94343,8 @@
 		"MadeInAmerica23"
 	],
 	"allhands": [
-		"NBA_Playoff_Team_Hashtag_Emoji_Clippers_2023"
+		"NBA_Playoff_Team_Hashtag_Emoji_Clippers_2023",
+		"NBA_LA_Clippers_2023_2024_Playoffs_Hashmoji"
 	],
 	"insidious": [
 		"Sony_Insidious_5_Branded_Hashtag"
@@ -105483,5 +105491,17 @@
 	],
 	"真実はいつもひとつ": [
 		"BF-10920_NetflixJP_18ce54ua4fy_Hashmoj_v2"
+	],
+	"ittakeseverything": [
+		"NBA_Phoenix_Suns_2023_2024_Playoffs_Hashmoji"
+	],
+	"onefordallas": [
+		"NBA_Dalls-Mavs_2023_2024_Playoffs_Hashmoji"
+	],
+	"road2gold": [
+		"NBA_Denver_Nuggets_2023_2024_Playoffs_Hashmoji"
+	],
+	"takeseverybody": [
+		"NBA_LA_Lakers_2023_2024_Playoffs_Hashmoji"
 	]
 }
