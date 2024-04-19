@@ -105328,7 +105328,8 @@
 		"BF-10984_MinistryWarfare_Arm_During",
 		"BF-10984_MinistryWarfare_Arm_After_",
 		"BF-10984_UngentlemanlyWarfare_Before_Hashmojis_V2",
-		"BF-10984_UngentlemanlyWarfare_DURING_APR18"
+		"BF-10984_UngentlemanlyWarfare_DURING_APR18",
+		"BF-10984_UngentlemanlyWarfare_AFTER_V3"
 	],
 	"polin": [
 		"Netflix_Bridgerton_Q2_2024"
@@ -105338,12 +105339,14 @@
 		"BF-10984_MinistryWarfare_Arm_During",
 		"BF-10984_MinistryWarfare_Arm_After_",
 		"BF-10984_UngentlemanlyWarfare_Before_Hashmojis_V2",
-		"BF-10984_UngentlemanlyWarfare_DURING_APR18"
+		"BF-10984_UngentlemanlyWarfare_DURING_APR18",
+		"BF-10984_UngentlemanlyWarfare_AFTER_V3"
 	],
 	"ungentlemanlywarfare": [
 		"BF-10984_MinistryWarfare_Arm_Before",
 		"BF-10984_MinistryWarfare_Arm_After_",
-		"BF-10984_UngentlemanlyWarfare_Before_Hashmojis_V2"
+		"BF-10984_UngentlemanlyWarfare_Before_Hashmojis_V2",
+		"BF-10984_UngentlemanlyWarfare_AFTER_V3"
 	],
 	"fastとslowあなたはどっち": [
 		"Hashmoji_lion_ochtune_4_12"
