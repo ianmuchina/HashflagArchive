@@ -13449,7 +13449,8 @@
 		"Brazil_Elections_Debates_Jul_2022_add"
 	],
 	"debatechilango": [
-		"IECM_Elecciones_CDMX_April_2021"
+		"IECM_Elecciones_CDMX_April_2021",
+		"BF-11009_IECM_Elecciones_2024"
 	],
 	"debatenabandsp": [
 		"Brazil_Elections_Debates_Jul_2022_add"
@@ -63647,7 +63648,8 @@
 		"Philippines_General_Elections_3_2022"
 	],
 	"votochilango": [
-		"IECM_Elecciones_CDMX_April_2021"
+		"IECM_Elecciones_CDMX_April_2021",
+		"BF-11009_IECM_Elecciones_2024"
 	],
 	"voxmachina": [
 		"Amazon_Studios_TheLegendofVoxMachina_2022"
@@ -105503,5 +105505,14 @@
 	],
 	"takeseverybody": [
 		"NBA_LA_Lakers_2023_2024_Playoffs_Hashmoji"
+	],
+	"iecm": [
+		"BF-11009_IECM_Elecciones_2024"
+	],
+	"vota2dejunio": [
+		"BF-11009_IECM_Elecciones_2024"
+	],
+	"votacdmx": [
+		"BF-11009_IECM_Elecciones_2024"
 	]
 }
