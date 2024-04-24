@@ -3027,7 +3027,8 @@
 		"HBO_Time_Travelers_Wife_LATAM_May_2022"
 	],
 	"amvca": [
-		"Africa_Magic_Awards_May_2022_v2"
+		"Africa_Magic_Awards_May_2022_v2",
+		"AMVCA_2024"
 	],
 	"amvca2022": [
 		"Africa_Magic_Awards_May_2022_v2"
@@ -105533,5 +105534,8 @@
 	],
 	"muevense": [
 		"Sony_MarcAnthony_MuevenseAlbum_Music"
+	],
+	"amvca10": [
+		"AMVCA_2024"
 	]
 }
