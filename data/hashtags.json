@@ -19607,7 +19607,8 @@
 	],
 	"fireitup": [
 		"NHL_Playoffs_CAL_2022",
-		"Def_Leppard_May_2022"
+		"Def_Leppard_May_2022",
+		"StageCoach"
 	],
 	"firesaga": [
 		"Eurovision_Netflix_2020"
@@ -105604,5 +105605,11 @@
 	],
 	"wearethekrewe": [
 		"TampaBay_Buccaneers_2024_2025_Hashmoji"
+	],
+	"stagecoach": [
+		"StageCoach"
+	],
+	"stagecoach2024": [
+		"StageCoach"
 	]
 }
