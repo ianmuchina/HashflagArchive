@@ -7058,7 +7058,8 @@
 		"BF-8523_Binance_202307",
 		"Binance_Q3_Campaign_Emoji_202310",
 		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2",
-		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
+		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401",
+		"BF-11033_Binance_2024_Q2_Emoji"
 	],
 	"binance10m": [
 		"Binance_10M_Follower_Nov_2022"
@@ -7694,7 +7695,8 @@
 		"BF-8523_Binance_202307",
 		"Binance_Q3_Campaign_Emoji_202310",
 		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2",
-		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
+		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401",
+		"BF-11033_Binance_2024_Q2_Emoji"
 	],
 	"bng": [
 		"ICCT20WorldCup_2021_BNG"
@@ -95523,7 +95525,8 @@
 		"Republic_records_Peach_PRC"
 	],
 	"binancepizza": [
-		"Binance_2023_Q2_Campaign_Emoji_202304"
+		"Binance_2023_Q2_Campaign_Emoji_202304",
+		"BF-11033_Binance_2024_Q2_Emoji"
 	],
 	"binanceturns6": [
 		"Binance_2023_Q2_Campaign_Emoji_202304"
@@ -105639,5 +105642,11 @@
 	],
 	"pnd4": [
 		"PND_P4AlbumRelease_US_Music"
+	],
+	"7yearswithbinance": [
+		"BF-11033_Binance_2024_Q2_Emoji"
+	],
+	"cr7worldwide": [
+		"BF-11033_Binance_2024_Q2_Emoji"
 	]
 }
