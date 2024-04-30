@@ -104523,16 +104523,20 @@
 		"BF-10441_Elecciones_RD_2024"
 	],
 	"eleccionesrd2024": [
-		"BF-10441_Elecciones_RD_2024"
+		"BF-10441_Elecciones_RD_2024",
+		"BF-11072_EleccionesRD2024"
 	],
 	"jcerd2024": [
-		"BF-10441_Elecciones_RD_2024"
+		"BF-10441_Elecciones_RD_2024",
+		"BF-11072_EleccionesRD2024"
 	],
 	"rdelecciones2024": [
-		"BF-10441_Elecciones_RD_2024"
+		"BF-10441_Elecciones_RD_2024",
+		"BF-11072_EleccionesRD2024"
 	],
 	"votard2024": [
-		"BF-10441_Elecciones_RD_2024"
+		"BF-10441_Elecciones_RD_2024",
+		"BF-11072_EleccionesRD2024"
 	],
 	"스포티파이": [
 		"BF-10427_SpotifyKorean_Hahsmoji"
@@ -105671,5 +105675,17 @@
 	],
 	"استهلك_البلاستيك_بوعي": [
 		"BF-11138_PlasticWisely"
+	],
+	"everythingandmore": [
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_during"
+	],
+	"exploretheimpossible": [
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_during"
+	],
+	"the3xfactor": [
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_during"
+	],
+	"xuv3xo": [
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_during"
 	]
 }
