@@ -78894,7 +78894,8 @@
 		"Shinsei_Financial_Co_Ltd_2023_before",
 		"Shinsei_Financial_Co_Ltd_2023_after_v2",
 		"Shinsei_Financial_Co_Ltd_hashmoji_v3",
-		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji"
+		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji",
+		"ShinseiFinancial_BF-11017_HashmojiBefore"
 	],
 	"レイアオーガナ": [
 		"DisneyPlus_ObiWan_June_2022_Leia_Japan"
@@ -78911,7 +78912,8 @@
 		"Shinsei_Financial_Co_Ltd_2023_during",
 		"Shinsei_Financial_Co_Ltd_2023_after_v2",
 		"Shinsei_Financial_Co_Ltd_hashmoji_v3",
-		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji"
+		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji",
+		"ShinseiFinancial_BF-11017_HashmojiBefore"
 	],
 	"レイザークレスト": [
 		"Disney_Mandalorian_S2_RazorCrest"
@@ -94484,7 +94486,8 @@
 		"Shinsei_Financial_Co_Ltd_2023_during",
 		"Shinsei_Financial_Co_Ltd_2023_after_v2",
 		"Shinsei_Financial_Co_Ltd_hashmoji_v3",
-		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji"
+		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji",
+		"ShinseiFinancial_BF-11017_HashmojiBefore"
 	],
 	"千鳥のレイクシアター": [
 		"Shinsei_Financial_Co_Ltd_2023_before",
@@ -105688,5 +105691,11 @@
 	],
 	"xuv3xo": [
 		"BF-11137_Mahindra_XUV3XO_Hashmoji_during"
+	],
+	"たのしい旅行もレイク": [
+		"ShinseiFinancial_BF-11017_HashmojiBefore"
+	],
+	"レイクの韓国語講座": [
+		"ShinseiFinancial_BF-11017_HashmojiBefore"
 	]
 }
