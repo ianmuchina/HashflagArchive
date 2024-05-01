@@ -105683,16 +105683,20 @@
 		"BF-11138_PlasticWisely"
 	],
 	"everythingandmore": [
-		"BF-11137_Mahindra_XUV3XO_Hashmoji_during"
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_during",
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_after"
 	],
 	"exploretheimpossible": [
-		"BF-11137_Mahindra_XUV3XO_Hashmoji_during"
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_during",
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_after"
 	],
 	"the3xfactor": [
-		"BF-11137_Mahindra_XUV3XO_Hashmoji_during"
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_during",
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_after"
 	],
 	"xuv3xo": [
-		"BF-11137_Mahindra_XUV3XO_Hashmoji_during"
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_during",
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_after"
 	],
 	"たのしい旅行もレイク": [
 		"ShinseiFinancial_BF-11017_HashmojiBefore",
@@ -105707,5 +105711,8 @@
 	],
 	"indycar": [
 		"INDYCAR_2024SEASON_HASHMOJI"
+	],
+	"mahindraxuv3xo": [
+		"BF-11137_Mahindra_XUV3XO_Hashmoji_after"
 	]
 }
