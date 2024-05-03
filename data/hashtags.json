@@ -15116,7 +15116,8 @@
 		"DraftKings_DraftKingsCasino",
 		"DraftKings_Casino_Branded_Hashtag_Extension",
 		"DraftKings_Casino_Hashmojis",
-		"Draftking_CasinoExtension_NFL23"
+		"Draftking_CasinoExtension_NFL23",
+		"DKcasino_update"
 	],
 	"dkchampseries": [
 		"DraftKings_Super_Bowl_2021",
@@ -100687,7 +100688,8 @@
 		"NBA_MemphisHashmoji"
 	],
 	"differenthere": [
-		"NBA_CelticsHashmoji"
+		"NBA_CelticsHashmoji",
+		"NBA_CelticsHashmoji_update"
 	],
 	"forthedistrict": [
 		"NBA_WizardsHashmoji"
@@ -105746,5 +105748,8 @@
 	],
 	"تفرّد": [
 		"BF-11123_BSF_RebrandingCampaign_hashmoji_v2"
+	],
+	"allinceltics": [
+		"NBA_CelticsHashmoji_update"
 	]
 }
