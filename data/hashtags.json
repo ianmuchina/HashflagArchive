@@ -105737,9 +105737,14 @@
 		"BF-11163_LazadaMY_Q22024_hashmoji"
 	],
 	"bsf": [
-		"BF-11123_BSF_RebrandingCampaign"
+		"BF-11123_BSF_RebrandingCampaign",
+		"BF-11123_BSF_RebrandingCampaign_hashmoji_v2"
 	],
 	"تفرد": [
-		"BF-11123_BSF_RebrandingCampaign"
+		"BF-11123_BSF_RebrandingCampaign",
+		"BF-11123_BSF_RebrandingCampaign_hashmoji_v2"
+	],
+	"تفرّد": [
+		"BF-11123_BSF_RebrandingCampaign_hashmoji_v2"
 	]
 }
