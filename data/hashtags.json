@@ -100259,7 +100259,8 @@
 		"Hashmoji_Q4_23_BAU",
 		"BF-10277_Hashmoji_Q124_BAU",
 		"BF-10277_Immutable_V2",
-		"BF-10277_Immutable_V3"
+		"BF-10277_Immutable_V3",
+		"BF-11157_Branded_Feature_Hashmoji_Q2-24_BAU_34000USD"
 	],
 	"onimmutable": [
 		"Immutable_Branded_Feature_Hashmoji_2023",
@@ -104780,7 +104781,8 @@
 		"BF-10542_BrandShiseido_24Q1Campaign_v2"
 	],
 	"doquestsgetrewards": [
-		"BF-10277_Immutable_V3"
+		"BF-10277_Immutable_V3",
+		"BF-11157_Branded_Feature_Hashmoji_Q2-24_BAU_34000USD"
 	],
 	"mbc1": [
 		"BF-10636_MBC_Ramadan_2024",
@@ -105751,5 +105753,8 @@
 	],
 	"allinceltics": [
 		"NBA_CelticsHashmoji_update"
+	],
+	"mainquest": [
+		"BF-11157_Branded_Feature_Hashmoji_Q2-24_BAU_34000USD"
 	]
 }
