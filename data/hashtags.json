@@ -105763,19 +105763,24 @@
 		"BF-11073_IndusAppStore_Hashmoji"
 	],
 	"brazilwantstwentyonepilots": [
-		"BF-11151_30ebr_Hashmojis"
+		"BF-11151_30ebr_Hashmojis",
+		"BF-11151_30ebr_Hashmojis_V2"
 	],
 	"clancyworldtourbr": [
-		"BF-11151_30ebr_Hashmojis"
+		"BF-11151_30ebr_Hashmojis",
+		"BF-11151_30ebr_Hashmojis_V2"
 	],
 	"twentyonepilotsbr": [
-		"BF-11151_30ebr_Hashmojis"
+		"BF-11151_30ebr_Hashmojis",
+		"BF-11151_30ebr_Hashmojis_V2"
 	],
 	"twentyonepilotscometobrazil": [
-		"BF-11151_30ebr_Hashmojis"
+		"BF-11151_30ebr_Hashmojis",
+		"BF-11151_30ebr_Hashmojis_V2"
 	],
 	"wewantclancytourinbrazil": [
-		"BF-11151_30ebr_Hashmojis"
+		"BF-11151_30ebr_Hashmojis",
+		"BF-11151_30ebr_Hashmojis_V2"
 	],
 	"sololevelingarise": [
 		"BF-11110_Netmarble_Sololv_ARISE_JP_Applaunch2024_Hashmoji"
@@ -105812,5 +105817,8 @@
 	],
 	"madmaxsaga": [
 		"WB_Furiosa_2024"
+	],
+	"vivoy100": [
+		"BF-11208_VIVO_Philippines_Y100_Launch_May_2024"
 	]
 }
