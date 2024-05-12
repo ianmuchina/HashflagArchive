@@ -52283,7 +52283,8 @@
 	"skytown": [
 		"WNBA_Teams_2021_CHI",
 		"WNBA_Season_ChicagoSky_2022",
-		"2023_WNBA_Emojis_Chicago_Sky"
+		"2023_WNBA_Emojis_Chicago_Sky",
+		"2024_WNBA_Chicago_Sky"
 	],
 	"skywardsword": [
 		"NintendoZeldaSkywardSword_2021"
@@ -95693,13 +95694,16 @@
 		"2023_Twitter_Hashtag_Emoji-HITC_New_York"
 	],
 	"allinlv": [
-		"2023_WNBA_Emojis_Las_Vegas_Aces"
+		"2023_WNBA_Emojis_Las_Vegas_Aces",
+		"WNBA_2024_Las_Vegas"
 	],
 	"atlantadream": [
-		"2023_WNBA_Emojis_Atlanta_Dream"
+		"2023_WNBA_Emojis_Atlanta_Dream",
+		"2024_WNBA_Atlanta_Dream"
 	],
 	"ballonourterms": [
-		"2023_WNBA_Emojis_Washington_Mystics"
+		"2023_WNBA_Emojis_Washington_Mystics",
+		"WNBA_2024_Washington_Mystics"
 	],
 	"evenmorew": [
 		"2023_WNBA_Commissioners_Cup_Emoji"
@@ -95720,7 +95724,8 @@
 		"Terra_e_Paixao_2023"
 	],
 	"valleytogether": [
-		"2023_WNBA_Emojis_Phoenix_Mercury"
+		"2023_WNBA_Emojis_Phoenix_Mercury",
+		"WNBA_2024_Phoenix_Mercury"
 	],
 	"speaknowtaylorsversion": [
 		"TSwiftSN"
@@ -105852,5 +105857,14 @@
 	],
 	"lazadagiveaway": [
 		"BF-11219_ID_Lazada_Hashmoji-2024"
+	],
+	"feverrising": [
+		"2024_WNBA_Indiana_Fever"
+	],
+	"ownyourlegacy": [
+		"WNBA_2024_Washington_Mystics_2"
+	],
+	"thenewclassic": [
+		"WNBA_2024_LA_Sparks"
 	]
 }
