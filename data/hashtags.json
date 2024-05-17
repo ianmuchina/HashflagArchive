@@ -51584,11 +51584,13 @@
 		"SHEIN_Sep2023_Hashmoji_Beforev1",
 		"SHEIN_Sep2023_Hashmoji_During",
 		"SHEIN_Sep2023_Hashmoji_After",
-		"BF-10323_2024_SHEIN_Ramadan_Campaign"
+		"BF-10323_2024_SHEIN_Ramadan_Campaign",
+		"BF-11259_2024_SHEIN_Eid_Campaign_Hashmoji"
 	],
 	"sheineid": [
 		"SHEINX_Eid_Jun_2022",
-		"SHEINHaji_Campaign2023"
+		"SHEINHaji_Campaign2023",
+		"BF-11259_2024_SHEIN_Eid_Campaign_Hashmoji"
 	],
 	"sheineidfun": [
 		"SHEINX_Eid_Jun_2022"
@@ -51599,7 +51601,8 @@
 		"SHEIN_Sep2023_Hashmoji_Beforev1",
 		"SHEIN_Sep2023_Hashmoji_During",
 		"SHEIN_Sep2023_Hashmoji_After",
-		"BF-10323_2024_SHEIN_Ramadan_Campaign"
+		"BF-10323_2024_SHEIN_Ramadan_Campaign",
+		"BF-11259_2024_SHEIN_Eid_Campaign_Hashmoji"
 	],
 	"sheinfw21": [
 		"SHEINX100KCHALLENGE_2021"
@@ -104282,7 +104285,8 @@
 		"BF-10236_Beiersdorf_NFC_Face_Care_February_2024_v2"
 	],
 	"sheinfindshunter": [
-		"BF-10323_2024_SHEIN_Ramadan_Campaign"
+		"BF-10323_2024_SHEIN_Ramadan_Campaign",
+		"BF-11259_2024_SHEIN_Eid_Campaign_Hashmoji"
 	],
 	"sheingoodfinds": [
 		"BF-10323_2024_SHEIN_Ramadan_Campaign"
@@ -105922,5 +105926,8 @@
 	],
 	"hitmehardandsoft": [
 		"BillieEHMHAS"
+	],
+	"2024eidtrend": [
+		"BF-11259_2024_SHEIN_Eid_Campaign_Hashmoji"
 	]
 }
