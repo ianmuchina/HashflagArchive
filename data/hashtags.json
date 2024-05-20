@@ -49080,7 +49080,8 @@
 		"RolandGarros_France_2020",
 		"RolandGarros_May_2021",
 		"Roland_Garros_May_2022",
-		"RolandGarros_2023_Hashmoji"
+		"RolandGarros_2023_Hashmoji",
+		"BF-10957_RolandGarros_2024"
 	],
 	"rollstuhlbasketball": [
 		"Paralympics_Sports_2021_WheelchairBasketball"
@@ -105956,5 +105957,8 @@
 	],
 	"spotifyにkingandprince登場": [
 		"SpotifyJP_King_Prince_TRP_2024MAY"
+	],
+	"rolandgarros2024": [
+		"BF-10957_RolandGarros_2024"
 	]
 }
