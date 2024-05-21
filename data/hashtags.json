@@ -61520,7 +61520,8 @@
 	"ucl": [
 		"UEFA_21_22_Season_UCL",
 		"UEFA_ChampionsLeague_20_21",
-		"UEFAC_hampionsLeague_2020_ball"
+		"UEFAC_hampionsLeague_2020_ball",
+		"UCL20242"
 	],
 	"ucldraw": [
 		"UCL_Draw_2022"
@@ -61531,7 +61532,8 @@
 		"UCL_FINAL_May_2022",
 		"UCLfinal_HashmojiBeforeHashfetti_2023",
 		"UCLfinal_Hashfetti_2023",
-		"UCLfinal_AfterHashfetti_2023"
+		"UCLfinal_AfterHashfetti_2023",
+		"UCL24Final2"
 	],
 	"uclisback": [
 		"PepsiMaxFootball_2020"
@@ -61548,7 +61550,8 @@
 		"Epic_Games_Unreal_Engine_Launch_Dec_2021"
 	],
 	"uecl": [
-		"UEFA_21_22_Season_UECL"
+		"UEFA_21_22_Season_UECL",
+		"UECL20242"
 	],
 	"uecldraw": [
 		"UECL_Draw_2022"
@@ -61557,12 +61560,14 @@
 		"UECL_FINAL_May_2022",
 		"UECL_FINAL_May_2022_v2",
 		"UECLfinal_HashmojiBeforeHashfetti_2023",
-		"UECLfinal_NoHashfetti_2023"
+		"UECLfinal_NoHashfetti_2023",
+		"UECL20242"
 	],
 	"uel": [
 		"UEFA_21_22_Season_UEL",
 		"UEFA_Europa_2020_mark",
-		"UEFA_EuropaLeague_20_21"
+		"UEFA_EuropaLeague_20_21",
+		"UEL2024Final"
 	],
 	"ueldraw": [
 		"UEL_Draw_2022"
@@ -61572,7 +61577,8 @@
 		"UEFA_Europa_2020_trophy",
 		"UEL_FINAL_May_2022",
 		"UELfinal_HashmojiBeforeHashfetti_2023",
-		"UELfinal_NoHashfetti_2023"
+		"UELfinal_NoHashfetti_2023",
+		"UEL2024Final"
 	],
 	"uenozoo": [
 		"Ueno_Zoo_Panda_Sept_2022_v3"
@@ -62378,7 +62384,8 @@
 	],
 	"uwcl": [
 		"WomensChampionsLeague_2020",
-		"UWCL_May_2022"
+		"UWCL_May_2022",
+		"UWCL24"
 	],
 	"uwclfinal": [
 		"UWCL_FINAL_May_2022",
@@ -62386,7 +62393,8 @@
 		"UWCL_FINAL_May_2022_v3",
 		"UWCLfinal_HashmojiBeforeHashfetti_2023",
 		"UWCLfinal_Hashfetti_2023",
-		"UWCLfinal_AfterHashfetti_2023"
+		"UWCLfinal_AfterHashfetti_2023",
+		"UWCL24Final"
 	],
 	"uxas": [
 		"HBOMax_Omega_2021"
@@ -105141,7 +105149,8 @@
 		"BF-10748_Changyou_haikyu_haifura_Mar2024"
 	],
 	"wwespeed": [
-		"WWESpeedEmoji2024"
+		"WWESpeedEmoji2024",
+		"WWESpeedEmojiV2_2024"
 	],
 	"bravescountry": [
 		"Atlanta_Braves_MLB_2024"
