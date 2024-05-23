@@ -63344,7 +63344,8 @@
 		"Titans_S3_2021_Scarecrow"
 	],
 	"vincestaples": [
-		"Vince_Staples_Album_Apr_2022"
+		"Vince_Staples_Album_Apr_2022",
+		"VinceStapleDT"
 	],
 	"vincrk": [
 		"Devsisters_CRKingdom_BCollab_V_2022"
@@ -106022,5 +106023,11 @@
 	],
 	"thenewstorm": [
 		"WNBA_SeattleStorm_2024"
+	],
+	"darktimes": [
+		"VinceStapleDT"
+	],
+	"shameonthedevil": [
+		"VinceStapleDT"
 	]
 }
