@@ -13242,7 +13242,8 @@
 		"db_legends_jp_YearEndCampaign_2022",
 		"BNE_DBlegends_2021",
 		"BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag",
-		"BF-9956_BNE_db_legends_jp_2023Dec_BrandedHashtag"
+		"BF-9956_BNE_db_legends_jp_2023Dec_BrandedHashtag",
+		"BF-11233_BNE_db_legends_jp_6thAnniversary_2024May_Branded_Hashtag"
 	],
 	"dbレジェンズキャラ診断": [
 		"MyDBLegends_May_2021"
@@ -78974,7 +78975,8 @@
 		"db_legends_jp_YearEndCampaign_2022",
 		"BNE_DBlegends_2021",
 		"BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag",
-		"BF-9956_BNE_db_legends_jp_2023Dec_BrandedHashtag"
+		"BF-9956_BNE_db_legends_jp_2023Dec_BrandedHashtag",
+		"BF-11233_BNE_db_legends_jp_6thAnniversary_2024May_Branded_Hashtag"
 	],
 	"レジェンズ2周年に一言": [
 		"DB_Legends_JP_2020"
@@ -106032,5 +106034,14 @@
 	],
 	"sirvelaclub": [
 		"CustomLikeClub_ColombiaRituales24May"
+	],
+	"dbl6thanniversary​": [
+		"BF-11233_BNE_db_legends_jp_6thAnniversary_2024May_Branded_Hashtag"
+	],
+	"dblanniversary": [
+		"BF-11233_BNE_db_legends_jp_6thAnniversary_2024May_Branded_Hashtag"
+	],
+	"レジェンズ史上最高の6周年": [
+		"BF-11233_BNE_db_legends_jp_6thAnniversary_2024May_Branded_Hashtag"
 	]
 }
