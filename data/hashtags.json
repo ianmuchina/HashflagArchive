@@ -60082,7 +60082,8 @@
 		"TokioEnTusManos_July_2021"
 	],
 	"tokopediawib": [
-		"Tokopedia_WIB_2020"
+		"Tokopedia_WIB_2020",
+		"BF-11306_Tokopedia_Hashmoji_May_2024"
 	],
 	"tokopediaxblackpink": [
 		"Tokopedia_WIB_2020"
@@ -106047,5 +106048,17 @@
 	],
 	"dbl6thanniversary": [
 		"BF-11233_BNE_db_legends_jp_6thAnniversary_V2"
+	],
+	"codgratis": [
+		"BF-11306_Tokopedia_Hashmoji_May_2024"
+	],
+	"guncangharganya": [
+		"BF-11306_Tokopedia_Hashmoji_May_2024"
+	],
+	"hargadiguncang": [
+		"BF-11306_Tokopedia_Hashmoji_May_2024"
+	],
+	"promoguncang": [
+		"BF-11306_Tokopedia_Hashmoji_May_2024"
 	]
 }
