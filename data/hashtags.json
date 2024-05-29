@@ -53703,7 +53703,8 @@
 		"Americanas_Rock_in_Rio_Aug_2022"
 	],
 	"squadup": [
-		"MLB_Teams_2021_NYY"
+		"MLB_Teams_2021_NYY",
+		"BF-11299_Squadbusters_LaunchEmoji_2024"
 	],
 	"squidgame": [
 		"Netflix_Squid_Game_Feb_2022",
@@ -106284,5 +106285,8 @@
 	],
 	"votoinformado": [
 		"BF-10852_INEVotaciones2024_3_v3"
+	],
+	"squadbusters": [
+		"BF-11299_Squadbusters_LaunchEmoji_2024"
 	]
 }
