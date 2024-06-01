@@ -95528,14 +95528,16 @@
 	],
 	"hdj": [
 		"Hollywood_Bets_Emoji_2023",
-		"Hollywood_Bets_Emoji_2023_fix"
+		"Hollywood_Bets_Emoji_2023_fix",
+		"HollywoodBets_BF-11282_HashmojiBefore"
 	],
 	"hollywoodbet": [
 		"Hollywood_Bets_Emoji_2023"
 	],
 	"hollywoodbetsdurbanjuly": [
 		"Hollywood_Bets_Emoji_2023",
-		"Hollywood_Bets_Emoji_2023_fix"
+		"Hollywood_Bets_Emoji_2023_fix",
+		"HollywoodBets_BF-11282_HashmojiBefore"
 	],
 	"acupofjoy": [
 		"Republic_records_Joy_Oladokun"
@@ -95633,7 +95635,8 @@
 	],
 	"hollywoodbets": [
 		"Hollywood_Bets_Emoji_2023",
-		"Hollywood_Bets_Emoji_2023_fix"
+		"Hollywood_Bets_Emoji_2023_fix",
+		"HollywoodBets_BF-11282_HashmojiBefore"
 	],
 	"stjude": [
 		"St_Jude_2023"
@@ -106430,5 +106433,11 @@
 	],
 	"cflkickoff": [
 		"CFL2024Season_CA"
+	],
+	"hdj2024": [
+		"HollywoodBets_BF-11282_HashmojiBefore"
+	],
+	"hdjridethewave": [
+		"HollywoodBets_BF-11282_HashmojiBefore"
 	]
 }
