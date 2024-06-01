@@ -102691,7 +102691,8 @@
 		"AppleTV_MonarchHashmoji_November2023"
 	],
 	"cfl": [
-		"CFL_GreyCup_2023_CA"
+		"CFL_GreyCup_2023_CA",
+		"CFL2024Season_CA"
 	],
 	"gcplayoffs": [
 		"CFL_GreyCup_2023_CA"
@@ -106423,5 +106424,11 @@
 	],
 	"supertricolor": [
 		"Superbet_br_ChampionsFinals_2024"
+	],
+	"cflgameday": [
+		"CFL2024Season_CA"
+	],
+	"cflkickoff": [
+		"CFL2024Season_CA"
 	]
 }
