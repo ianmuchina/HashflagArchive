@@ -13465,7 +13465,8 @@
 	"debatechilango": [
 		"IECM_Elecciones_CDMX_April_2021",
 		"BF-11009_IECM_Elecciones_2024",
-		"BF-11009_IECM_Before"
+		"BF-11009_IECM_Before",
+		"BF-11009_IECM_During"
 	],
 	"debatenabandsp": [
 		"Brazil_Elections_Debates_Jul_2022_add"
@@ -63718,7 +63719,8 @@
 	"votochilango": [
 		"IECM_Elecciones_CDMX_April_2021",
 		"BF-11009_IECM_Elecciones_2024",
-		"BF-11009_IECM_Before"
+		"BF-11009_IECM_Before",
+		"BF-11009_IECM_During"
 	],
 	"voxmachina": [
 		"Amazon_Studios_TheLegendofVoxMachina_2022"
@@ -105638,7 +105640,8 @@
 	],
 	"iecm": [
 		"BF-11009_IECM_Elecciones_2024",
-		"BF-11009_IECM_Before"
+		"BF-11009_IECM_Before",
+		"BF-11009_IECM_During"
 	],
 	"vota2dejunio": [
 		"BF-11009_IECM_Elecciones_2024",
@@ -105646,7 +105649,8 @@
 	],
 	"votacdmx": [
 		"BF-11009_IECM_Elecciones_2024",
-		"BF-11009_IECM_Before"
+		"BF-11009_IECM_Before",
+		"BF-11009_IECM_During"
 	],
 	"lavueltafemenina": [
 		"LaVueltaFemenina24"
