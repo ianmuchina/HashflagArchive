@@ -31735,7 +31735,8 @@
 		"LazadaPH_LazadaFinds_2021",
 		"LazadaPH_March_Branded_Features_before",
 		"LazadaPH_March_Branded_Features_during",
-		"LazadaPH_March_Branded_Features_after"
+		"LazadaPH_March_Branded_Features_after",
+		"LazadaPH_6_6_Hashfetti_before"
 	],
 	"lazadaph10birthday": [
 		"LazadaPH_10th_Birthday_Mar_2022"
@@ -104772,7 +104773,8 @@
 	"sulitipidsalazada": [
 		"LazadaPH_March_Branded_Features_before",
 		"LazadaPH_March_Branded_Features_during",
-		"LazadaPH_March_Branded_Features_after"
+		"LazadaPH_March_Branded_Features_after",
+		"LazadaPH_6_6_Hashfetti_before"
 	],
 	"diadoshopeelover": [
 		"Shopee_BR_Hashmoji_2"
@@ -106449,5 +106451,11 @@
 	],
 	"hdjridethewave": [
 		"HollywoodBets_BF-11282_HashmojiBefore"
+	],
+	"lazadaph66": [
+		"LazadaPH_6_6_Hashfetti_before"
+	],
+	"lazadawowsulitipidsale": [
+		"LazadaPH_6_6_Hashfetti_before"
 	]
 }
