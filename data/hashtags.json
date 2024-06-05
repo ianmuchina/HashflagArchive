@@ -9109,7 +9109,8 @@
 		"Call_of_Duty_Cortez_2022",
 		"Call_of_Duty_MWII_2022",
 		"Call_of_Duty_MWII_2022_v2",
-		"CallofDutyMainline2023"
+		"CallofDutyMainline2023",
+		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji"
 	],
 	"callofdutyleague": [
 		"CallofDutyLeague2021",
@@ -106396,7 +106397,8 @@
 	],
 	"supermicroatcomputex": [
 		"Supermicro_BF-11272_SupermicroHashmoji1",
-		"Supermicro_BF-11272_CustomLikeHashfetti"
+		"Supermicro_BF-11272_CustomLikeHashfetti",
+		"Supermicro_BF-11272_SupermicroHashmoji2"
 	],
 	"supermicrocomputex24": [
 		"Supermicro_BF-11272_Hashmoji"
@@ -106468,5 +106470,14 @@
 	],
 	"lazada66wowmantul": [
 		"BF-11353_LazadaMY"
+	],
+	"blackops": [
+		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji"
+	],
+	"blackops6": [
+		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji"
+	],
+	"bo6": [
+		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji"
 	]
 }
