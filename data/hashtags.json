@@ -100136,7 +100136,8 @@
 		"BF-9608_LazadaMY1111_Hashmoji2_end13Nov_v2",
 		"LazadaMY_9_9_Hashmoji_2023_v2",
 		"BF-9931_LazadaMY_Lazzie_Hashmoji_12-12_2023",
-		"BF-11163_LazadaMY_Q22024_hashmoji"
+		"BF-11163_LazadaMY_Q22024_hashmoji",
+		"BF-11353_LazadaMY"
 	],
 	"hepidilazada": [
 		"BF-8817_Lazada_HepidiLazada_Hashmoji"
@@ -106464,5 +106465,8 @@
 	"lazadawowsulitipidsale": [
 		"LazadaPH_6_6_Hashfetti_before",
 		"LazadaPH_6_6_Hashfetti_during"
+	],
+	"lazada66wowmantul": [
+		"BF-11353_LazadaMY"
 	]
 }
