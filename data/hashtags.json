@@ -31738,7 +31738,8 @@
 		"LazadaPH_March_Branded_Features_before",
 		"LazadaPH_March_Branded_Features_during",
 		"LazadaPH_March_Branded_Features_after",
-		"LazadaPH_6_6_Hashfetti_before"
+		"LazadaPH_6_6_Hashfetti_before",
+		"LazadaPH_6_6_Hashfetti_during"
 	],
 	"lazadaph10birthday": [
 		"LazadaPH_10th_Birthday_Mar_2022"
@@ -106457,9 +106458,11 @@
 		"HollywoodBets_BF-11282_HashmojiBefore"
 	],
 	"lazadaph66": [
-		"LazadaPH_6_6_Hashfetti_before"
+		"LazadaPH_6_6_Hashfetti_before",
+		"LazadaPH_6_6_Hashfetti_during"
 	],
 	"lazadawowsulitipidsale": [
-		"LazadaPH_6_6_Hashfetti_before"
+		"LazadaPH_6_6_Hashfetti_before",
+		"LazadaPH_6_6_Hashfetti_during"
 	]
 }
