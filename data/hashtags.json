@@ -25952,7 +25952,8 @@
 		"HPEDiscover2021"
 	],
 	"hpediscover": [
-		"HPEDiscover2021"
+		"HPEDiscover2021",
+		"BF-11174_HPEDiscoverHashmoji"
 	],
 	"hpediscover2021": [
 		"HPEDiscover2021"
@@ -106493,5 +106494,14 @@
 	],
 	"خدمتكم_شرف": [
 		"BF-11363_SaudiTransportHashmoji2024"
+	],
+	"arubaatmosphere": [
+		"BF-11174_HPEDiscoverHashmoji"
+	],
+	"hpediscover2024": [
+		"BF-11174_HPEDiscoverHashmoji"
+	],
+	"hpegreenlake": [
+		"BF-11174_HPEDiscoverHashmoji"
 	]
 }
