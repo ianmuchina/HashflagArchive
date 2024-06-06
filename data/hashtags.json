@@ -31740,7 +31740,8 @@
 		"LazadaPH_March_Branded_Features_during",
 		"LazadaPH_March_Branded_Features_after",
 		"LazadaPH_6_6_Hashfetti_before",
-		"LazadaPH_6_6_Hashfetti_during"
+		"LazadaPH_6_6_Hashfetti_during",
+		"LazadaPH_6_6_Hashfetti_during_v2"
 	],
 	"lazadaph10birthday": [
 		"LazadaPH_10th_Birthday_Mar_2022"
@@ -106462,11 +106463,13 @@
 	],
 	"lazadaph66": [
 		"LazadaPH_6_6_Hashfetti_before",
-		"LazadaPH_6_6_Hashfetti_during"
+		"LazadaPH_6_6_Hashfetti_during",
+		"LazadaPH_6_6_Hashfetti_during_v2"
 	],
 	"lazadawowsulitipidsale": [
 		"LazadaPH_6_6_Hashfetti_before",
-		"LazadaPH_6_6_Hashfetti_during"
+		"LazadaPH_6_6_Hashfetti_during",
+		"LazadaPH_6_6_Hashfetti_during_v2"
 	],
 	"lazada66wowmantul": [
 		"BF-11353_LazadaMY"
@@ -106479,5 +106482,8 @@
 	],
 	"bo6": [
 		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji"
+	],
+	"lazadayunoh": [
+		"LazadaPH_6_6_Hashfetti_during_v2"
 	]
 }
