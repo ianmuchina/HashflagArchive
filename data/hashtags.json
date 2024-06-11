@@ -14428,7 +14428,8 @@
 		"LCS_Jan_2021_DIGWIN",
 		"LCS_2020_Dig",
 		"League_of_Legends_LCS_Team_Emojis_dignitas",
-		"DignitasEmoji2024"
+		"DignitasEmoji2024",
+		"DignitasEmoji2024V2"
 	],
 	"dilemma": [
 		"APINK_IST_ent_Comeback_Album_2022_v2",
@@ -19858,7 +19859,8 @@
 		"LCS_2020_Fly",
 		"LCS_Franchise_League_Emoji_-_FlyQuest_2023_v2",
 		"LCS_Franchise_League_Emoji_-_FlyQuest_2023",
-		"FlyQuestEmoji2024"
+		"FlyQuestEmoji2024",
+		"FlyQuestEmoji2024V2"
 	],
 	"fm21": [
 		"SEGA_FM21_2020"
@@ -32557,7 +32559,8 @@
 		"LCS_Jan_2021_TLWIN",
 		"LCS_2020_TL",
 		"LCSFranchiseLeagueEmoji-TeamLiquid2023",
-		"TeamLiquidEmoji2024"
+		"TeamLiquidEmoji2024",
+		"TeamLiquid2024EmojiV2"
 	],
 	"letsgonewarriors": [
 		"NRL_2020_LetsGoneWarriors",
@@ -59850,7 +59853,8 @@
 		"LCS_Jan_2021_TLWIN",
 		"LCS_2020_TL",
 		"LCSFranchiseLeagueEmoji-TeamLiquid2023",
-		"TeamLiquidEmoji2024"
+		"TeamLiquidEmoji2024",
+		"TeamLiquid2024EmojiV2"
 	],
 	"tmb": [
 		"BabyKeem2o021"
@@ -96628,7 +96632,8 @@
 	"bringthenrg": [
 		"NRG_LCS_Emoji2023",
 		"NRG_LCS_Emoji_June2023",
-		"NRGEmoji2024"
+		"NRGEmoji2024",
+		"NRGEmojiSummerSplit2024"
 	],
 	"futuretakesflight": [
 		"Riyadh_Air_Launch_2023"
@@ -97042,7 +97047,8 @@
 	],
 	"nrgwin": [
 		"NRG_LCS_Emoji_June2023",
-		"NRGEmoji2024"
+		"NRGEmoji2024",
+		"NRGEmojiSummerSplit2024"
 	],
 	"dontsaylove": [
 		"Warner_Leigh_Anne_23"
@@ -106537,5 +106543,14 @@
 	],
 	"talkyoursplit": [
 		"LCSEmoji2024_V2"
+	],
+	"digszn": [
+		"DignitasEmoji2024V2"
+	],
+	"timetofly": [
+		"FlyQuestEmoji2024V2"
+	],
+	"vamosliquid": [
+		"TeamLiquid2024EmojiV2"
 	]
 }
