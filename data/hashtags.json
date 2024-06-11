@@ -31902,7 +31902,8 @@
 		"LCS_League_2023",
 		"LCS_SummerHashtag_2023",
 		"LCS_League_Emoji_2023_WorldsUpdate",
-		"LCSEmoji2024"
+		"LCSEmoji2024",
+		"LCSEmoji2024_V2"
 	],
 	"lcs10": [
 		"LCS10_League_2022"
@@ -104168,10 +104169,12 @@
 		"BF-10208_Oneplus_India_hashmoji_after_v3"
 	],
 	"armtherebels": [
-		"ShopifyRebelsEmoji2024"
+		"ShopifyRebelsEmoji2024",
+		"ShopifyRebelsSummerSplit2024"
 	],
 	"srwin": [
-		"ShopifyRebelsEmoji2024"
+		"ShopifyRebelsEmoji2024",
+		"ShopifyRebelsSummerSplit2024"
 	],
 	"bbmzansi": [
 		"Big_Brother_Mzansi_South_Africa_2024"
@@ -106531,5 +106534,8 @@
 	],
 	"euro2024": [
 		"EURO2024"
+	],
+	"talkyoursplit": [
+		"LCSEmoji2024_V2"
 	]
 }
