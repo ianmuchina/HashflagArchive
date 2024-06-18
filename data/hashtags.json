@@ -36354,7 +36354,8 @@
 		"Meg_Thee_Stallion_Graduation_Emoji_2021",
 		"Meg_Thee_Stallion_Aug_2022",
 		"MTSCobra",
-		"MeganTheeStallionBOA_Music"
+		"MeganTheeStallionBOA_Music",
+		"MeganTheeStallion_NewAlbum"
 	],
 	"megantheestallionamas": [
 		"AMAsArtist_2021_BTSMeganTheeStallion"
@@ -106674,5 +106675,11 @@
 	],
 	"nodejemosdepedir": [
 		"BF-11421_PedidosYa_AR_CopaAmerica24_Before"
+	],
+	"megan": [
+		"MeganTheeStallion_NewAlbum"
+	],
+	"megantheealbum": [
+		"MeganTheeStallion_NewAlbum"
 	]
 }
