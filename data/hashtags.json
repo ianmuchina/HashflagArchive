@@ -103539,13 +103539,15 @@
 		"Qiddiya_Launch_2023_Hashmoji",
 		"BF-9916_QiddiyaLaunch23_HashmojiBefore",
 		"BF-9916_QiddiyaLaunch23_HashmojiDuring",
-		"BF-9916_QiddiyaLaunch23_HashmojiAfter"
+		"BF-9916_QiddiyaLaunch23_HashmojiAfter",
+		"BF-11380_Qiddiya_Hashmoji2024_v2"
 	],
 	"qiddiyacity": [
 		"Qiddiya_Launch_2023_Hashmoji",
 		"BF-9916_QiddiyaLaunch23_HashmojiBefore",
 		"BF-9916_QiddiyaLaunch23_HashmojiDuring",
-		"BF-9916_QiddiyaLaunch23_HashmojiAfter"
+		"BF-9916_QiddiyaLaunch23_HashmojiAfter",
+		"BF-11380_Qiddiya_Hashmoji2024_v2"
 	],
 	"القدية": [
 		"Qiddiya_Launch_2023_Hashmoji",
@@ -103556,12 +103558,14 @@
 		"Qiddiya_Launch_2023_Hashmoji",
 		"BF-9916_QiddiyaLaunch23_HashmojiBefore",
 		"BF-9916_QiddiyaLaunch23_HashmojiDuring",
-		"BF-9916_QiddiyaLaunch23_HashmojiAfter"
+		"BF-9916_QiddiyaLaunch23_HashmojiAfter",
+		"BF-11380_Qiddiya_Hashmoji2024_v2"
 	],
 	"مدينة_القدية": [
 		"Qiddiya_Launch_2023_Hashmoji",
 		"BF-9916_QiddiyaLaunch23_HashmojiBefore",
-		"BF-9916_QiddiyaLaunch23_HashmojiAfter"
+		"BF-9916_QiddiyaLaunch23_HashmojiAfter",
+		"BF-11380_Qiddiya_Hashmoji2024_v2"
 	],
 	"cctfinals": [
 		"ChampionsChessTour2023"
@@ -106764,5 +106768,8 @@
 	],
 	"makeanymomentgolden": [
 		"BF-11457_Golden_Nugget_Make_Any_Moment_Golden"
+	],
+	"شركة_القدية_للاستثمار": [
+		"BF-11380_Qiddiya_Hashmoji2024_v2"
 	]
 }
