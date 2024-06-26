@@ -97600,7 +97600,8 @@
 		"disneystudiojp_June_2023_after"
 	],
 	"laveniràvélo": [
-		"Tour_de_France_ASO_FR_1st_July_30th_July_2023"
+		"Tour_de_France_ASO_FR_1st_July_30th_July_2023",
+		"Tour_de_France_Men_2024"
 	],
 	"tdf2023": [
 		"Tour_de_France_ASO_FR_1st_July_30th_July_2023"
@@ -106708,23 +106709,28 @@
 	],
 	"config2024": [
 		"BF-11375_FigmaConfig2024_Global_Hashmoji_Before_V2",
-		"BF-11375_FigmaConfig2024_Global_CustomLike_Hashfetti_v2"
+		"BF-11375_FigmaConfig2024_Global_CustomLike_Hashfetti_v2",
+		"BF-11375_FigmaConfig2024_Global_Hashmoji_After"
 	],
 	"config24": [
 		"BF-11375_FigmaConfig2024_Global_Hashmoji_Before_V2",
-		"BF-11375_FigmaConfig2024_Global_Hashmoji_During"
+		"BF-11375_FigmaConfig2024_Global_Hashmoji_During",
+		"BF-11375_FigmaConfig2024_Global_Hashmoji_After"
 	],
 	"configapac": [
 		"BF-11375_FigmaConfig2024_Global_Hashmoji_Before_V2",
-		"BF-11375_FigmaConfig2024_Global_Hashmoji_During"
+		"BF-11375_FigmaConfig2024_Global_Hashmoji_During",
+		"BF-11375_FigmaConfig2024_Global_Hashmoji_After"
 	],
 	"confit2024": [
 		"BF-11375_FigmaConfig2024_Global_Hashmoji_Before_V2",
-		"BF-11375_FigmaConfig2024_Global_Hashmoji_During"
+		"BF-11375_FigmaConfig2024_Global_Hashmoji_During",
+		"BF-11375_FigmaConfig2024_Global_Hashmoji_After"
 	],
 	"confits2024": [
 		"BF-11375_FigmaConfig2024_Global_Hashmoji_Before_V2",
-		"BF-11375_FigmaConfig2024_Global_Hashmoji_During"
+		"BF-11375_FigmaConfig2024_Global_Hashmoji_During",
+		"BF-11375_FigmaConfig2024_Global_Hashmoji_After"
 	],
 	"horizonamericansaga": [
 		"BF-11424_Horizo_An_American_Saga_2024",
@@ -106814,5 +106820,8 @@
 	],
 	"essencefest30": [
 		"Essence_Fest_2024"
+	],
+	"tdf2024": [
+		"Tour_de_France_Men_2024"
 	]
 }
