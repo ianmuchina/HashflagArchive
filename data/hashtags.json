@@ -106966,14 +106966,17 @@
 	],
 	"bni46": [
 		"BF-11536_BNI_Hashmoji_before",
-		"BF-11536_BNI_Hashmoji_during"
+		"BF-11536_BNI_Hashmoji_during",
+		"BF-11536_BNI_Hashmoji_after"
 	],
 	"jadiinmaumu": [
-		"BF-11536_BNI_Hashmoji_before"
+		"BF-11536_BNI_Hashmoji_before",
+		"BF-11536_BNI_Hashmoji_after"
 	],
 	"wondrbybni": [
 		"BF-11536_BNI_Hashmoji_before",
-		"BF-11536_BNI_Hashmoji_during"
+		"BF-11536_BNI_Hashmoji_during",
+		"BF-11536_BNI_Hashmoji_after"
 	],
 	"一歩踏み出す勇気を": [
 		"ParisOlympicTeamJapan"
