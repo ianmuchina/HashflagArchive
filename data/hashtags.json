@@ -100371,11 +100371,13 @@
 		"BF-10277_Hashmoji_Q124_BAU",
 		"BF-10277_Immutable_V2",
 		"BF-10277_Immutable_V3",
-		"BF-11157_Branded_Feature_Hashmoji_Q2-24_BAU_34000USD"
+		"BF-11157_Branded_Feature_Hashmoji_Q2-24_BAU_34000USD",
+		"BF-11532_Q324_BAU_Hashmoji"
 	],
 	"onimmutable": [
 		"Immutable_Branded_Feature_Hashmoji_2023",
-		"Hashmoji_Q4_23_BAU"
+		"Hashmoji_Q4_23_BAU",
+		"BF-11532_Q324_BAU_Hashmoji"
 	],
 	"web3gaming": [
 		"Immutable_Branded_Feature_Hashmoji_2023",
@@ -104921,7 +104923,8 @@
 	],
 	"doquestsgetrewards": [
 		"BF-10277_Immutable_V3",
-		"BF-11157_Branded_Feature_Hashmoji_Q2-24_BAU_34000USD"
+		"BF-11157_Branded_Feature_Hashmoji_Q2-24_BAU_34000USD",
+		"BF-11532_Q324_BAU_Hashmoji"
 	],
 	"mbc1": [
 		"BF-10636_MBC_Ramadan_2024",
@@ -105907,7 +105910,8 @@
 		"NBA_CelticsHashmoji_update"
 	],
 	"mainquest": [
-		"BF-11157_Branded_Feature_Hashmoji_Q2-24_BAU_34000USD"
+		"BF-11157_Branded_Feature_Hashmoji_Q2-24_BAU_34000USD",
+		"BF-11532_Q324_BAU_Hashmoji"
 	],
 	"indusappstore": [
 		"BF-11073_IndusAppStore_Hashmoji"
