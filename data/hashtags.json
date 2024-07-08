@@ -106635,7 +106635,8 @@
 		"BF-11326_MH_Now_Jun2024Hashmoji"
 	],
 	"esportsworldcup": [
-		"EWC2024Emoji"
+		"EWC2024Emoji",
+		"EWCWorldCupEmojiV2"
 	],
 	"ewc": [
 		"EWC2024Emoji"
@@ -107000,5 +107001,8 @@
 	],
 	"vuélateconlatampass": [
 		"BF-11489_Banco_de_Bogota_Colombia_2024"
+	],
+	"كأس_العالم_للرياضات_الإلكترونية": [
+		"EWCWorldCupEmojiV2"
 	]
 }
