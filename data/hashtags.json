@@ -17524,7 +17524,8 @@
 		"Netflix_EmilyinParis_2020"
 	],
 	"eminem": [
-		"Pepsi_Halftime_2022_Eminem"
+		"Pepsi_Halftime_2022_Eminem",
+		"EminemDOSS"
 	],
 	"emiratesfacup": [
 		"Emirates_FA_Cup_2022",
@@ -52378,7 +52379,8 @@
 		"SleepNumber_SmarterSleep_2020"
 	],
 	"slimshady": [
-		"Pepsi_Halftime_2022_Eminem"
+		"Pepsi_Halftime_2022_Eminem",
+		"EminemDOSS"
 	],
 	"slither": [
 		"HBO_Max_Raised_by_Wolves_S2_Snake_2022"
@@ -107015,5 +107017,8 @@
 	],
 	"comfortinchaos": [
 		"JohnSummit"
+	],
+	"thedeathofslimshady": [
+		"EminemDOSS"
 	]
 }
