@@ -42130,7 +42130,8 @@
 		"OnePlusNord_2021",
 		"BF-10879_OnePlusNordCE4_Hashmoji_during",
 		"BF-10879_OnePlusNordCE4_Hashmoji",
-		"BF-10879_OnePlusNordCE4_Hashmoji_extended"
+		"BF-10879_OnePlusNordCE4_Hashmoji_extended",
+		"BF-11632_OnePlusNord4_July24_HashmojiDuring"
 	],
 	"oneplusnord2": [
 		"OnePlusNord_2021"
@@ -97044,7 +97045,8 @@
 	],
 	"صيف_السعودية": [
 		"Rethink_Summer_Saudi_Tourism",
-		"BF-11415_Digital_Video_Support_Summer_2024"
+		"BF-11415_Digital_Video_Support_Summer_2024",
+		"BF-11415_Digital_Video_Support_Summer_2024_"
 	],
 	"لاتروح_بعيد": [
 		"Rethink_Summer_Saudi_Tourism"
@@ -106722,16 +106724,20 @@
 		"BF-11434_UKGeneralElection2024_Hashmoji"
 	],
 	"تراها": [
-		"BF-11415_Digital_Video_Support_Summer_2024"
+		"BF-11415_Digital_Video_Support_Summer_2024",
+		"BF-11415_Digital_Video_Support_Summer_2024_"
 	],
 	"تراها_أبرد": [
-		"BF-11415_Digital_Video_Support_Summer_2024"
+		"BF-11415_Digital_Video_Support_Summer_2024",
+		"BF-11415_Digital_Video_Support_Summer_2024_"
 	],
 	"تراها_أروق": [
-		"BF-11415_Digital_Video_Support_Summer_2024"
+		"BF-11415_Digital_Video_Support_Summer_2024",
+		"BF-11415_Digital_Video_Support_Summer_2024_"
 	],
 	"تراها_أقرب": [
-		"BF-11415_Digital_Video_Support_Summer_2024"
+		"BF-11415_Digital_Video_Support_Summer_2024",
+		"BF-11415_Digital_Video_Support_Summer_2024_"
 	],
 	"bienvoyager": [
 		"BF-11420_VINCI_Autoroutes_Hashmoji2024"
@@ -107067,5 +107073,14 @@
 	],
 	"スポンジボブはパラプラ": [
 		"ParamountPlusJA_TLR_June2024"
+	],
+	"builttolast": [
+		"BF-11632_OnePlusNord4_July24_HashmojiDuring"
+	],
+	"nord4": [
+		"BF-11632_OnePlusNord4_July24_HashmojiDuring"
+	],
+	"pedaltometal": [
+		"BF-11632_OnePlusNord4_July24_HashmojiDuring"
 	]
 }
