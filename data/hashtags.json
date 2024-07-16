@@ -42131,7 +42131,8 @@
 		"BF-10879_OnePlusNordCE4_Hashmoji_during",
 		"BF-10879_OnePlusNordCE4_Hashmoji",
 		"BF-10879_OnePlusNordCE4_Hashmoji_extended",
-		"BF-11632_OnePlusNord4_July24_HashmojiDuring"
+		"BF-11632_OnePlusNord4_July24_HashmojiDuring",
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter"
 	],
 	"oneplusnord2": [
 		"OnePlusNord_2021"
@@ -107075,12 +107076,18 @@
 		"ParamountPlusJA_TLR_June2024"
 	],
 	"builttolast": [
-		"BF-11632_OnePlusNord4_July24_HashmojiDuring"
+		"BF-11632_OnePlusNord4_July24_HashmojiDuring",
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter"
 	],
 	"nord4": [
-		"BF-11632_OnePlusNord4_July24_HashmojiDuring"
+		"BF-11632_OnePlusNord4_July24_HashmojiDuring",
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter"
 	],
 	"pedaltometal": [
-		"BF-11632_OnePlusNord4_July24_HashmojiDuring"
+		"BF-11632_OnePlusNord4_July24_HashmojiDuring",
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter"
+	],
+	"oneplusnord4": [
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter"
 	]
 }
