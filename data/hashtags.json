@@ -1197,7 +1197,8 @@
 	],
 	"abschlussfeier": [
 		"Beijing_Paralympic_ClosingCeremony_2022",
-		"Beijing_Winter_Olympics_ClosingCeremony_2022"
+		"Beijing_Winter_Olympics_ClosingCeremony_2022",
+		"Olympics_2024_ClosingCeremony2"
 	],
 	"absolute_zero": [
 		"HYBE_Pledis_Oct_2022"
@@ -3798,7 +3799,8 @@
 	],
 	"archery": [
 		"Paralympics_Sports_2021_ParaArchery",
-		"Olympics_2021_Sports_Archery"
+		"Olympics_2021_Sports_Archery",
+		"Olympics_2024_ARCHERY"
 	],
 	"arcodagarra": [
 		"Sony_PlayStation_God_of_War_2_Oct_2022_translations"
@@ -3829,11 +3831,13 @@
 		"Beijing_Paralympic_silver_2022",
 		"Paralympics_Sports_2021_Silver",
 		"Olympics_2021_silver_add",
-		"Beijing_Winter_Olympics_Silver_2022"
+		"Beijing_Winter_Olympics_Silver_2022",
+		"Olympics_2024_Silver"
 	],
 	"argento": [
 		"Beijing_Paralympic_silver_2022",
-		"Beijing_Winter_Olympics_Silver_2022"
+		"Beijing_Winter_Olympics_Silver_2022",
+		"Olympics_2024_Silver"
 	],
 	"aria": [
 		"YERIN_May_2022"
@@ -3971,10 +3975,12 @@
 		"Sony_PlayStation_God_of_War_2_Oct_2022_translations"
 	],
 	"artisticgymnastics": [
-		"Olympics_2021_Sports_ArtisticGymnastics"
+		"Olympics_2021_Sports_ArtisticGymnastics",
+		"Olympics_2024_ARTISTICGYMNASTICS"
 	],
 	"artisticswimming": [
-		"Olympics_2021_Sports_ArtisticSwimming"
+		"Olympics_2021_Sports_ArtisticSwimming",
+		"Olympics_2024_ARTISTICSWIMMING"
 	],
 	"artistwrapped": [
 		"SpotifyWrapped2021_bh"
@@ -4583,7 +4589,8 @@
 		"Paralympics_Sports_2021_ParaAthletics",
 		"Olympics_2021_Sports_Athletics",
 		"MLB_2023_Athletics",
-		"Oakland_Athetics_MLB_2024"
+		"Oakland_Athetics_MLB_2024",
+		"Olympics_2024_ATHLETICS"
 	],
 	"athletim": [
 		"Tim_Hortons_National_Coffee_Day_Sept_2022"
@@ -5298,7 +5305,8 @@
 	],
 	"badminton": [
 		"Olympics_2021_Sports_Badminton",
-		"Paralympics_Sports_2021_ParaBadminton"
+		"Paralympics_Sports_2021_ParaBadminton",
+		"Olympics_2024_BADMINTON"
 	],
 	"badmiracle": [
 		"Universal_Pictures_Nope_Cloud_2022_v3",
@@ -5594,7 +5602,8 @@
 	],
 	"basketball": [
 		"Olympics_2021_Sports_Basketball",
-		"Paralympics_Sports_2021_WheelchairBasketball"
+		"Paralympics_Sports_2021_WheelchairBasketball",
+		"Olympics_2024_BASKETBALL"
 	],
 	"basketballwives": [
 		"BasketballWives_Feb_2021",
@@ -5943,7 +5952,8 @@
 		"Cube_BTOB_NEW_ALBUM_2022"
 	],
 	"beachvolleyball": [
-		"Olympics_2021_Sports_BeachVolleyball"
+		"Olympics_2021_Sports_BeachVolleyball",
+		"Olympics_2024_BEACHVOLLEYBALL"
 	],
 	"beamitorstreamit": [
 		"DIRECTV_StreamRebrand_2021",
@@ -7670,10 +7680,12 @@
 		"Nicki_Minaj_Mixtape_2021_V2"
 	],
 	"bmxfreestyle": [
-		"Olympics_2021_Sports_BMXFreestyle"
+		"Olympics_2021_Sports_BMXFreestyle",
+		"Olympics_2024_CYCLINGBMXFREESTYLE"
 	],
 	"bmxracing": [
-		"Olympics_2021_Sports_BMXRacing"
+		"Olympics_2021_Sports_BMXRacing",
+		"Olympics_2024_CYCLINGBMXRACING"
 	],
 	"bmxフリースタイル": [
 		"Olympics_2021_Sports_BMXFreestyle"
@@ -8036,7 +8048,8 @@
 		"DisneyPlus_The_Princess_2022_v2"
 	],
 	"boxing": [
-		"Olympics_2021_Sports_Boxing"
+		"Olympics_2021_Sports_Boxing",
+		"Olympics_2024_BOXING"
 	],
 	"boymeetsbro": [
 		"Universal_Pictures_Bros_Sept_2022"
@@ -8372,7 +8385,8 @@
 		"Beijing_Paralympic_bronze_2022",
 		"Olympics_2021_bronze_add",
 		"Paralympics_Sports_2021_Bronze",
-		"Beijing_Winter_Olympics_Bronze_2022"
+		"Beijing_Winter_Olympics_Bronze_2022",
+		"Olympics_2024_Bronze"
 	],
 	"broncohenry": [
 		"Netflix_The_Power_of_The_Dog_2021_v2",
@@ -8396,11 +8410,13 @@
 		"Beijing_Paralympic_bronze_2022",
 		"Olympics_2021_bronze",
 		"Paralympics_Sports_2021_Bronze",
-		"Beijing_Winter_Olympics_Bronze_2022"
+		"Beijing_Winter_Olympics_Bronze_2022",
+		"Olympics_2024_Bronze"
 	],
 	"bronzo": [
 		"Beijing_Paralympic_bronze_2022",
-		"Beijing_Winter_Olympics_Bronze_2022"
+		"Beijing_Winter_Olympics_Bronze_2022",
+		"Olympics_2024_Bronze"
 	],
 	"brooklyn99": [
 		"BrooklynNineNine_Aug_2021"
@@ -9306,10 +9322,12 @@
 		"Paralympics_Sports_2021_ParaCanoe"
 	],
 	"canoeslalom": [
-		"Olympics_2021_Sports_CanoeSlalom"
+		"Olympics_2021_Sports_CanoeSlalom",
+		"Olympics_2024_CANOESLALOM"
 	],
 	"canoesprint": [
-		"Olympics_2021_Sports_CanoeSprint"
+		"Olympics_2021_Sports_CanoeSprint",
+		"Olympics_2024_CANOESPRINT"
 	],
 	"canotaje": [
 		"Paralympics_Sports_2021_ParaCanoe"
@@ -9954,13 +9972,15 @@
 		"CeraVe_Nurses_2020"
 	],
 	"ceremoniadeapertura": [
-		"Paralympics_Sports_2021_OpeningCeremony"
+		"Paralympics_Sports_2021_OpeningCeremony",
+		"Olympics_2024_OpeningCeremony2"
 	],
 	"ceremoniadeclausura": [
 		"Beijing_Paralympic_ClosingCeremony_2022",
 		"Paralympics_Sports_2021_ClosingCeremony",
 		"Olympics_2021_ClosingCeremony",
-		"Beijing_Winter_Olympics_ClosingCeremony_2022"
+		"Beijing_Winter_Olympics_ClosingCeremony_2022",
+		"Olympics_2024_ClosingCeremony2"
 	],
 	"ceremoniadeinauguracion": [
 		"Beijing_Paralympic_OpeningCeremony_2022",
@@ -9976,13 +9996,15 @@
 		"Beijing_Paralympic_ClosingCeremony_2022",
 		"Olympics_2021_ClosingCeremony",
 		"Paralympics_Sports_2021_OpeningCeremony",
-		"Beijing_Winter_Olympics_ClosingCeremony_2022"
+		"Beijing_Winter_Olympics_ClosingCeremony_2022",
+		"Olympics_2024_ClosingCeremony2"
 	],
 	"ceremoniedouverture": [
 		"Beijing_Paralympic_OpeningCeremony_2022",
 		"Paralympics_Sports_2021_ClosingCeremony",
 		"Olympics_2021_OpeningCeremony",
-		"Beijing_Winter_Olympics_OpeningCeremony_2022"
+		"Beijing_Winter_Olympics_OpeningCeremony_2022",
+		"Olympics_2024_OpeningCeremony2"
 	],
 	"cerimoniadapertura": [
 		"Beijing_Paralympic_OpeningCeremony_2022",
@@ -9992,21 +10014,25 @@
 		"Beijing_Paralympic_OpeningCeremony_2022",
 		"Olympics_2021_OpeningCeremony",
 		"Paralympics_Sports_2021_OpeningCeremony",
-		"Beijing_Winter_Olympics_OpeningCeremony_2022"
+		"Beijing_Winter_Olympics_OpeningCeremony_2022",
+		"Olympics_2024_OpeningCeremony2"
 	],
 	"cerimoniadeencerramento": [
 		"Beijing_Paralympic_ClosingCeremony_2022",
 		"Paralympics_Sports_2021_ClosingCeremony",
 		"Olympics_2021_ClosingCeremony",
-		"Beijing_Winter_Olympics_ClosingCeremony_2022"
+		"Beijing_Winter_Olympics_ClosingCeremony_2022",
+		"Olympics_2024_ClosingCeremony2"
 	],
 	"cerimoniadiapertura": [
 		"Beijing_Paralympic_OpeningCeremony_2022",
-		"Beijing_Winter_Olympics_OpeningCeremony_2022"
+		"Beijing_Winter_Olympics_OpeningCeremony_2022",
+		"Olympics_2024_OpeningCeremony2"
 	],
 	"cerimoniadichiusura": [
 		"Beijing_Paralympic_ClosingCeremony_2022",
-		"Beijing_Winter_Olympics_ClosingCeremony_2022"
+		"Beijing_Winter_Olympics_ClosingCeremony_2022",
+		"Olympics_2024_ClosingCeremony2"
 	],
 	"cerimôniadeabertura": [
 		"Olympics_2021_OpeningCeremony"
@@ -11202,7 +11228,8 @@
 		"Beijing_Paralympic_ClosingCeremony_2022",
 		"Paralympics_Sports_2021_ClosingCeremony",
 		"Olympics_2021_ClosingCeremony",
-		"Beijing_Winter_Olympics_ClosingCeremony_2022"
+		"Beijing_Winter_Olympics_ClosingCeremony_2022",
+		"Olympics_2024_ClosingCeremony2"
 	],
 	"clownprinceofcrime": [
 		"HBO_Max_Harley_Quinn_S3_Round_2_Joker_Jul_2022"
@@ -12635,11 +12662,13 @@
 	],
 	"cyclingroad": [
 		"Olympics_2021_Sports_CyclingRoad",
-		"Paralympics_Sports_2021_CyclingRoad"
+		"Paralympics_Sports_2021_CyclingRoad",
+		"Olympics_2024_CYCLINGROAD"
 	],
 	"cyclingtrack": [
 		"Paralympics_Sports_2021_CyclingTrack",
-		"Olympics_2021_Sports_CyclingTrack"
+		"Olympics_2021_Sports_CyclingTrack",
+		"Olympics_2024_CYCLINGTRACK"
 	],
 	"cyclismesurpiste": [
 		"Paralympics_Sports_2021_CyclingTrack"
@@ -15045,7 +15074,8 @@
 		"miHoYoGenshinImpact1stAnniversary_2021_SangonomiyaKokomi"
 	],
 	"diving": [
-		"Olympics_2021_Sports_Diving"
+		"Olympics_2021_Sports_Diving",
+		"Olympics_2024_DIVING"
 	],
 	"diwali": [
 		"Diwali_2021",
@@ -17796,7 +17826,8 @@
 	],
 	"equestrian": [
 		"Olympics_2021_Sports_Equestrian",
-		"Paralympics_Sports_2021_ParaDressage"
+		"Paralympics_Sports_2021_ParaDressage",
+		"Olympics_2024_EQUESTRIAN"
 	],
 	"equestriandressage": [
 		"Olympics_2021_Sports_EquestrianDressage"
@@ -17863,7 +17894,8 @@
 	],
 	"eroeffnungszeremonie": [
 		"Beijing_Paralympic_OpeningCeremony_2022",
-		"Beijing_Winter_Olympics_OpeningCeremony_2022"
+		"Beijing_Winter_Olympics_OpeningCeremony_2022",
+		"Olympics_2024_OpeningCeremony2"
 	],
 	"erstdenkendannklicken": [
 		"MediaInformationLiteracyWeeks_2020_ThinkBeforeClicking"
@@ -19140,7 +19172,8 @@
 	],
 	"fencing": [
 		"Olympics_2021_Sports_Fencing",
-		"Paralympics_Sports_2021_WheelchairFencing"
+		"Paralympics_Sports_2021_WheelchairFencing",
+		"Olympics_2024_FENCING"
 	],
 	"fennec": [
 		"Disney_Mandalorian_S2_Dec_2020_Fennec"
@@ -20064,7 +20097,8 @@
 	"football": [
 		"Paralympics_Sports_2021_BlindFootball_",
 		"Paralympics_Sports_2021_BlindFootball",
-		"Olympics_2021_Sports_Football"
+		"Olympics_2021_Sports_Football",
+		"Olympics_2024_FOOTBALL"
 	],
 	"football4refugees": [
 		"PepsiCo_UEFA_May_2022"
@@ -21835,7 +21869,8 @@
 	],
 	"giochiolimpici": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"giornatadeidirittiumani": [
 		"Human_Rights_Day_2021",
@@ -22650,7 +22685,8 @@
 		"Beijing_Paralympic_Gold_2022",
 		"Olympics_2021_gold",
 		"Paralympics_Sports_2021_Gold",
-		"Beijing_Winter_Olympics_Gold_2022"
+		"Beijing_Winter_Olympics_Gold_2022",
+		"Olympics_2024_Gold"
 	],
 	"goldblooded": [
 		"NBA_Season_Teams_2021_Pacers",
@@ -22736,7 +22772,8 @@
 		"NHLTORPlayoffs2021_2"
 	],
 	"golf": [
-		"Olympics_2021_Sports_Golf"
+		"Olympics_2021_Sports_Golf",
+		"Olympics_2024_GOLF"
 	],
 	"goliberty": [
 		"CBLOL_LIBERTY_Season_2022",
@@ -24126,7 +24163,8 @@
 		"JP_FireworksDay_2020_BH"
 	],
 	"handball": [
-		"Olympics_2021_Sports_Handball"
+		"Olympics_2021_Sports_Handball",
+		"Olympics_2024_HANDBALL"
 	],
 	"handballaustria": [
 		"Handball_WorldCup_Egypt_2021_Austria"
@@ -25431,7 +25469,8 @@
 		"Tinashe_Mar_2022"
 	],
 	"hockey": [
-		"Olympics_2021_Sports_Hockey"
+		"Olympics_2021_Sports_Hockey",
+		"Olympics_2024_HOCKEY"
 	],
 	"hockeyday": [
 		"Scotiabank_HockeyDay_2021"
@@ -26610,7 +26649,8 @@
 	],
 	"igrzyskaolimpijskie": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"igwin": [
 		"LPL_2021_IGWIN"
@@ -28556,7 +28596,8 @@
 	"jeuxolympiques": [
 		"Paris_2024_Olympics",
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"jeuxparalympiques": [
 		"Beijing_Paralympic_Agitos_2022",
@@ -28740,7 +28781,8 @@
 	],
 	"jocuriolimpice": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"jodifyyourlife": [
 		"HuluMODOK2021"
@@ -28802,7 +28844,8 @@
 	],
 	"jogosolímpicos": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"jogosparalimpicos": [
 		"Beijing_Paralympic_Agitos_2022",
@@ -29177,7 +29220,8 @@
 	],
 	"judo": [
 		"Olympics_2021_Sports_Judo",
-		"Paralympics_Sports_2021_ParaJudo"
+		"Paralympics_Sports_2021_ParaJudo",
+		"Olympics_2024_JUDO"
 	],
 	"judyjustice": [
 		"JudyJusticeIMDbTV_2022",
@@ -29199,7 +29243,8 @@
 	],
 	"juegosolímpicos": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"juegosparalimpicos": [
 		"Beijing_Paralympic_Agitos_2022",
@@ -35563,7 +35608,8 @@
 		"NetflixMaRaineysBlackBottom_2020"
 	],
 	"marathonswimming": [
-		"Olympics_2021_Sports_MarathonSwimming"
+		"Olympics_2021_Sports_MarathonSwimming",
+		"Olympics_2024_MARATHONSWIMMING"
 	],
 	"marchmadness": [
 		"NCAA_March_Madness_MM_2022",
@@ -37834,7 +37880,8 @@
 		"ModernLoveTokyo_Oct_2022"
 	],
 	"modernpentathlon": [
-		"Olympics_2021_Sports_ModernPentathlon"
+		"Olympics_2021_Sports_ModernPentathlon",
+		"Olympics_2024_MODERNPENTATHLON"
 	],
 	"modernwarfare2": [
 		"Call_of_Duty_Cortez_2022",
@@ -38295,7 +38342,8 @@
 		"Disney_22_2020"
 	],
 	"mountainbike": [
-		"Olympics_2021_Sports_MountainBike"
+		"Olympics_2021_Sports_MountainBike",
+		"Olympics_2024_CYCLINGMOUNTAINBIKE"
 	],
 	"mountaindew": [
 		"Mountain_Dew_NBA_Q1-Q2_2022",
@@ -41822,11 +41870,13 @@
 	],
 	"olimpiaijátékok": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"olimpiyatoyunları": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"olivertree": [
 		"OliverTree2020"
@@ -41861,7 +41911,8 @@
 	],
 	"olympiakisat": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"olympianexperiences": [
 		"OlympianParalympian_Experiences_2020",
@@ -41871,7 +41922,8 @@
 	],
 	"olympicgames": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"olympicherstory": [
 		"NBC_OlympicHERstory_2021"
@@ -41881,34 +41933,41 @@
 	],
 	"olympics": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"olympictorchrelay": [
 		"TokyoOlympic_2021_Part1"
 	],
 	"olympijskéhry": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"olympischespelen": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"olympischespiele": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"olympiskaspelen": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"olympiskelege": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"olympiskeleker": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"oma": [
 		"Olympics_Countries_2021_OMA",
@@ -42397,7 +42456,8 @@
 		"Beijing_Paralympic_OpeningCeremony_2022",
 		"Olympics_2021_OpeningCeremony",
 		"Paralympics_Sports_2021_OpeningCeremony",
-		"Beijing_Winter_Olympics_OpeningCeremony_2022"
+		"Beijing_Winter_Olympics_OpeningCeremony_2022",
+		"Olympics_2024_OpeningCeremony2"
 	],
 	"openingday": [
 		"MLB_Teams_2021_OpeningDay",
@@ -42512,7 +42572,8 @@
 		"Beijing_Paralympic_Gold_2022",
 		"Olympics_2021_gold_add",
 		"Paralympics_Sports_2021_Gold",
-		"Beijing_Winter_Olympics_Gold_2022"
+		"Beijing_Winter_Olympics_Gold_2022",
+		"Olympics_2024_Gold"
 	],
 	"ora2me": [
 		"Sunstar_Xmasbox_2021_v2"
@@ -42688,7 +42749,8 @@
 		"Beijing_Paralympic_Gold_2022",
 		"Olympics_2021_gold_add",
 		"Paralympics_Sports_2021_Gold",
-		"Beijing_Winter_Olympics_Gold_2022"
+		"Beijing_Winter_Olympics_Gold_2022",
+		"Olympics_2024_Gold"
 	],
 	"orrery": [
 		"LovecraftCountry_Ep7_2020"
@@ -42847,7 +42909,8 @@
 		"Beijing_Paralympic_Gold_2022",
 		"Olympics_2021_gold_add",
 		"Paralympics_Sports_2021_Gold",
-		"Beijing_Winter_Olympics_Gold_2022"
+		"Beijing_Winter_Olympics_Gold_2022",
+		"Olympics_2024_Gold"
 	],
 	"ourskybymoa": [
 		"TXT_ComebackShow_2020_OURSKYbyMOA"
@@ -43737,7 +43800,8 @@
 		"Disney_Turning_Red_Human_Mei_2022"
 	],
 	"paris2024": [
-		"Paris_2024_Olympics"
+		"Paris_2024_Olympics",
+		"Olympics_2024_Paris20242"
 	],
 	"parisandcarter": [
 		"Paris_In_Love_Jan_2022",
@@ -44534,7 +44598,8 @@
 	],
 	"pertandinganolimpiade": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"peruvotaseguro": [
 		"PeruGeneralElection_2021"
@@ -45169,7 +45234,8 @@
 		"Beijing_Paralympic_silver_2022",
 		"Paralympics_Sports_2021_Silver",
 		"Olympics_2021_silver_add",
-		"Beijing_Winter_Olympics_Silver_2022"
+		"Beijing_Winter_Olympics_Silver_2022",
+		"Olympics_2024_Silver"
 	],
 	"plataforma934": [
 		"HBO_Max_Harry_Potter_20th_REunion_HogwartsExpress_2021"
@@ -45896,7 +45962,8 @@
 		"Beijing_Paralympic_silver_2022",
 		"Paralympics_Sports_2021_Silver",
 		"Olympics_2021_silver_add",
-		"Beijing_Winter_Olympics_Silver_2022"
+		"Beijing_Winter_Olympics_Silver_2022",
+		"Olympics_2024_Silver"
 	],
 	"pratenhelpt": [
 		"MentalHealthMonth_2021_add2"
@@ -48646,7 +48713,8 @@
 		"Bravo_RHOSLC_S1_2020"
 	],
 	"rhythmicgymnastics": [
-		"Olympics_2021_Sports_RhythmicGymnastics"
+		"Olympics_2021_Sports_RhythmicGymnastics",
+		"Olympics_2024_RHYTHMICGYMNASTICS"
 	],
 	"ri75": [
 		"IDIndependenceDay_2020"
@@ -49469,7 +49537,8 @@
 	],
 	"rowing": [
 		"Paralympics_Sports_2021_ParaRowing",
-		"Olympics_2021_Sports_Rowing"
+		"Olympics_2021_Sports_Rowing",
+		"Olympics_2024_ROWING"
 	],
 	"rowinghome": [
 		"Jordan_North_Rowing_Home_Red_Nose_Day_2022"
@@ -49952,7 +50021,8 @@
 		"NEAR_SailGP_Partnership_May_2022_v2"
 	],
 	"sailing": [
-		"Olympics_2021_Sports_Sailing"
+		"Olympics_2021_Sports_Sailing",
+		"Olympics_2024_SAILING"
 	],
 	"sailingsouls": [
 		"JheneAiko_2021"
@@ -52065,7 +52135,8 @@
 	"silber": [
 		"Beijing_Paralympic_silver_2022",
 		"Paralympics_Sports_2021_Silver",
-		"Beijing_Winter_Olympics_Silver_2022"
+		"Beijing_Winter_Olympics_Silver_2022",
+		"Olympics_2024_Silver"
 	],
 	"silenciobruno": [
 		"Disney_PixarLuca_Alberto_2021"
@@ -52083,7 +52154,8 @@
 		"Beijing_Paralympic_silver_2022",
 		"Olympics_2021_silver",
 		"Paralympics_Sports_2021_Silver",
-		"Beijing_Winter_Olympics_Silver_2022"
+		"Beijing_Winter_Olympics_Silver_2022",
+		"Olympics_2024_Silver"
 	],
 	"silverado": [
 		"Chevy_Olympics_Silverado_2022",
@@ -52278,7 +52350,8 @@
 		"NHL_NewSJSharks_2023"
 	],
 	"skateboarding": [
-		"Olympics_2021_Sports_Skateboarding"
+		"Olympics_2021_Sports_Skateboarding",
+		"Olympics_2024_SKATEBOARDING"
 	],
 	"skatekitchen": [
 		"BettyHBO_S2_2021"
@@ -53502,7 +53575,8 @@
 		"Paramount_SpongeontheRun_KampKoral_2021"
 	],
 	"sportclimbing": [
-		"Olympics_2021_Sports_SportClimbing"
+		"Olympics_2021_Sports_SportClimbing",
+		"Olympics_2024_SPORTCLIMBING"
 	],
 	"sportingkc": [
 		"MLS_2022_Team_SKC_2022",
@@ -54871,7 +54945,8 @@
 	],
 	"sukanolimpik": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"sulamericana": [
 		"Sulamericana_2020"
@@ -55238,7 +55313,8 @@
 		"Surface_OriginalByDesign_April_2021_v2"
 	],
 	"surfing": [
-		"Olympics_2021_Sports_Surfing"
+		"Olympics_2021_Sports_Surfing",
+		"Olympics_2024_SURFING"
 	],
 	"suriya": [
 		"SooraraiPottru_2020"
@@ -55401,7 +55477,8 @@
 	],
 	"swimming": [
 		"Paralympics_Sports_2021_ParaSwimming",
-		"Olympics_2021_Sports_Swimming"
+		"Olympics_2021_Sports_Swimming",
+		"Olympics_2024_SWIMMING"
 	],
 	"swipe": [
 		"Swipe_Solar_Feb_2022_v2",
@@ -55547,7 +55624,8 @@
 	],
 	"tabletennis": [
 		"Paralympics_Sports_2021_ParaTableTennis",
-		"Olympics_2021_Sports_TableTennis"
+		"Olympics_2021_Sports_TableTennis",
+		"Olympics_2024_TABLETENNIS"
 	],
 	"tacobell": [
 		"Tacobell_2021"
@@ -55569,7 +55647,8 @@
 	],
 	"taekwondo": [
 		"Paralympics_Sports_2021_ParaTaekwondo",
-		"Olympics_2021_Sports_Taekwondo"
+		"Olympics_2021_Sports_Taekwondo",
+		"Olympics_2024_TAEKWONDO"
 	],
 	"taemin": [
 		"KpopVIT_TAEMIN_May_2021",
@@ -56925,7 +57004,8 @@
 	],
 	"tennis": [
 		"Paralympics_Sports_2021_WheelchairTennis",
-		"Olympics_2021_Sports_Tennis"
+		"Olympics_2021_Sports_Tennis",
+		"Olympics_2024_TENNIS"
 	],
 	"tennisdetable": [
 		"Paralympics_Sports_2021_ParaTableTennis"
@@ -59389,7 +59469,8 @@
 	],
 	"thếvậnhộiolympic": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"thịnhvuợng": [
 		"Lunar_New_Year_2022",
@@ -60592,7 +60673,8 @@
 	],
 	"triathlon": [
 		"Olympics_2021_Sports_Triathlon",
-		"Paralympics_Sports_2021_ParaTriathlon"
+		"Paralympics_Sports_2021_ParaTriathlon",
+		"Olympics_2024_TRIATHLON"
 	],
 	"triatlo": [
 		"Paralympics_Sports_2021_ParaTriathlon"
@@ -63661,7 +63743,8 @@
 	],
 	"volleyball": [
 		"Olympics_2021_Sports_Volleyball",
-		"Paralympics_Sports_2021_SittingVolleyball"
+		"Paralympics_Sports_2021_SittingVolleyball",
+		"Olympics_2024_VOLLEYBALL"
 	],
 	"volleyballassis": [
 		"Paralympics_Sports_2021_SittingVolleyball"
@@ -64224,7 +64307,8 @@
 		"NBC_Winter_Olympics_2022_v2_2"
 	],
 	"waterpolo": [
-		"Olympics_2021_Sports_WaterPolo"
+		"Olympics_2021_Sports_WaterPolo",
+		"Olympics_2024_WATERPOLO"
 	],
 	"wavefc": [
 		"NWSL_Season_SanDiegoWave_2022"
@@ -64667,7 +64751,8 @@
 		"WeGrowAthletics_21"
 	],
 	"weightlifting": [
-		"Olympics_2021_Sports_Weightlifting"
+		"Olympics_2021_Sports_Weightlifting",
+		"Olympics_2024_WEIGHTLIFTING"
 	],
 	"weihnachten": [
 		"Christmas_2020"
@@ -66264,7 +66349,8 @@
 		"WrestleMania2024Emoji_v3"
 	],
 	"wrestling": [
-		"Olympics_2021_Sports_Wrestling"
+		"Olympics_2021_Sports_Wrestling",
+		"Olympics_2024_WRESTLING"
 	],
 	"wrexhamfx": [
 		"FX_Welcome_to_Wrexham_Aug_2022",
@@ -67795,7 +67881,8 @@
 	],
 	"ολυμπιακοίαγώνες": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"προσευχέςγιατοτοχόκου": [
 		"311Tohokumemorial_2021_v3_add"
@@ -67872,7 +67959,8 @@
 	"бронза": [
 		"Olympics_2021_bronze_add",
 		"Paralympics_Sports_2021_Bronze",
-		"Beijing_Winter_Olympics_Bronze_2022"
+		"Beijing_Winter_Olympics_Bronze_2022",
+		"Olympics_2024_Bronze"
 	],
 	"бэтмен": [
 		"WB_The_Batman_2022",
@@ -68076,7 +68164,8 @@
 	"золото": [
 		"Olympics_2021_gold_add",
 		"Paralympics_Sports_2021_Gold",
-		"Beijing_Winter_Olympics_Gold_2022"
+		"Beijing_Winter_Olympics_Gold_2022",
+		"Olympics_2024_Gold"
 	],
 	"зріздвомхристовим": [
 		"Christmas_2020"
@@ -68296,11 +68385,13 @@
 	],
 	"олимпийскиеигры": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"олімпійськіігри": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"орлови": [
 		"2022_FIFA_WorldCup_Korea_Serbia",
@@ -68472,7 +68563,8 @@
 	"серебро": [
 		"Paralympics_Sports_2021_Silver",
 		"Olympics_2021_silver_add",
-		"Beijing_Winter_Olympics_Silver_2022"
+		"Beijing_Winter_Olympics_Silver_2022",
+		"Olympics_2024_Silver"
 	],
 	"серси": [
 		"Disney_Marvel_TheEternals_Sersi_2021"
@@ -68595,12 +68687,14 @@
 	"церемониязакрытия": [
 		"Paralympics_Sports_2021_ClosingCeremony",
 		"Olympics_2021_ClosingCeremony",
-		"Beijing_Winter_Olympics_ClosingCeremony_2022"
+		"Beijing_Winter_Olympics_ClosingCeremony_2022",
+		"Olympics_2024_ClosingCeremony2"
 	],
 	"церемонияоткрытия": [
 		"Olympics_2021_OpeningCeremony",
 		"Paralympics_Sports_2021_OpeningCeremony",
-		"Beijing_Winter_Olympics_OpeningCeremony_2022"
+		"Beijing_Winter_Olympics_OpeningCeremony_2022",
+		"Olympics_2024_OpeningCeremony2"
 	],
 	"цитатадруга": [
 		"Disney_FreeGuy_Dude_July_2021"
@@ -68661,7 +68755,8 @@
 	],
 	"המשחקים_האולימפיים": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"זהקרה": [
 		"ThisHappened2020"
@@ -69030,7 +69125,8 @@
 	],
 	"الألعاب_الأولمبية": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"الألعاب_البارالمبية": [
 		"Beijing_Paralympic_Agitos_2022"
@@ -69380,7 +69476,8 @@
 	],
 	"اولمپک_کھیل": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"ايمي_غالا": [
 		"Emi_Gala_2022",
@@ -71065,7 +71162,8 @@
 	],
 	"ओलम्पिकखेल": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"औरतकासम्मान": [
 		"StopViolenceAgainstWomen_2020"
@@ -71595,7 +71693,8 @@
 	],
 	"অলিম্পিকগেমস": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"অসম_নিৰ্বাচন": [
 		"IndiaStateElections_2021"
@@ -73270,7 +73369,8 @@
 	],
 	"โอลิมปิกเกมส์": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"โอโคเย": [
 		"Disney_BlackPanther2_Okoye_INTL"
@@ -75097,7 +75197,8 @@
 	],
 	"オリンピック": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"オルサガ": [
 		"Hortensia_R_PR_Feb_2021"
@@ -80441,14 +80542,16 @@
 	],
 	"奥运会": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"奧科耶": [
 		"Disney_BlackPanther2_Okoye_INTL"
 	],
 	"奧運會": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"女力覺醒": [
 		"TwitterWomenTentpole_2021"
@@ -82780,7 +82883,8 @@
 		"Beijing_Paralympic_Gold_2022",
 		"Olympics_2021_gold_add",
 		"Paralympics_Sports_2021_Gold",
-		"Beijing_Winter_Olympics_Gold_2022"
+		"Beijing_Winter_Olympics_Gold_2022",
+		"Olympics_2024_Gold"
 	],
 	"金子总会发光": [
 		"Twitter_Asians_Asian_Heritage_Month_WeAreGolden_Campaign_2022"
@@ -82793,7 +82897,8 @@
 		"Beijing_Paralympic_silver_2022",
 		"Paralympics_Sports_2021_Silver",
 		"Olympics_2021_silver_add",
-		"Beijing_Winter_Olympics_Silver_2022"
+		"Beijing_Winter_Olympics_Silver_2022",
+		"Olympics_2024_Silver"
 	],
 	"銀牌": [
 		"Beijing_Paralympic_silver_2022"
@@ -82802,7 +82907,8 @@
 		"Beijing_Paralympic_bronze_2022",
 		"Olympics_2021_bronze_add",
 		"Paralympics_Sports_2021_Bronze",
-		"Beijing_Winter_Olympics_Bronze_2022"
+		"Beijing_Winter_Olympics_Bronze_2022",
+		"Olympics_2024_Bronze"
 	],
 	"銅牌": [
 		"Beijing_Paralympic_bronze_2022"
@@ -82861,7 +82967,8 @@
 		"Beijing_Paralympic_ClosingCeremony_2022",
 		"Paralympics_Sports_2021_ClosingCeremony",
 		"Olympics_2021_ClosingCeremony",
-		"Beijing_Winter_Olympics_ClosingCeremony_2022"
+		"Beijing_Winter_Olympics_ClosingCeremony_2022",
+		"Olympics_2024_ClosingCeremony2"
 	],
 	"閉幕式": [
 		"Beijing_Paralympic_ClosingCeremony_2022",
@@ -82871,7 +82978,8 @@
 		"Beijing_Paralympic_OpeningCeremony_2022",
 		"Olympics_2021_OpeningCeremony",
 		"Paralympics_Sports_2021_OpeningCeremony",
-		"Beijing_Winter_Olympics_OpeningCeremony_2022"
+		"Beijing_Winter_Olympics_OpeningCeremony_2022",
+		"Olympics_2024_OpeningCeremony2"
 	],
 	"開幕式": [
 		"Beijing_Paralympic_OpeningCeremony_2022",
@@ -83214,7 +83322,8 @@
 	],
 	"개막식": [
 		"Beijing_Paralympic_OpeningCeremony_2022",
-		"Beijing_Winter_Olympics_OpeningCeremony_2022"
+		"Beijing_Winter_Olympics_OpeningCeremony_2022",
+		"Olympics_2024_OpeningCeremony2"
 	],
 	"거니": [
 		"DuneCharacter_2021_Gurney"
@@ -83352,7 +83461,8 @@
 	],
 	"금메달": [
 		"Beijing_Paralympic_Gold_2022",
-		"Beijing_Winter_Olympics_Gold_2022"
+		"Beijing_Winter_Olympics_Gold_2022",
+		"Olympics_2024_Gold"
 	],
 	"김동현": [
 		"KPOP_AB6IX_2021_cherry",
@@ -83675,7 +83785,8 @@
 	],
 	"동메달": [
 		"Beijing_Paralympic_bronze_2022",
-		"Beijing_Winter_Olympics_Bronze_2022"
+		"Beijing_Winter_Olympics_Bronze_2022",
+		"Olympics_2024_Bronze"
 	],
 	"동물농장고양이": [
 		"11street_Hope_campaign_Jun_2022",
@@ -85352,7 +85463,8 @@
 	],
 	"올림픽": [
 		"Olympics_2021_Laurier_",
-		"Beijing_Winter_Olympics_2022"
+		"Beijing_Winter_Olympics_2022",
+		"Olympics_2024_GENERAL"
 	],
 	"옷소매붉은끝동": [
 		"Kdrama_TheRedSleeve_2021"
@@ -85497,7 +85609,8 @@
 	],
 	"은메달": [
 		"Beijing_Paralympic_silver_2022",
-		"Beijing_Winter_Olympics_Silver_2022"
+		"Beijing_Winter_Olympics_Silver_2022",
+		"Olympics_2024_Silver"
 	],
 	"은지_log": [
 		"Kpop_Apink_JeongEunJi_2022"
@@ -86264,7 +86377,8 @@
 	],
 	"폐막식": [
 		"Beijing_Paralympic_ClosingCeremony_2022",
-		"Beijing_Winter_Olympics_ClosingCeremony_2022"
+		"Beijing_Winter_Olympics_ClosingCeremony_2022",
+		"Olympics_2024_ClosingCeremony2"
 	],
 	"포르토로소": [
 		"Disney_PixarLuca_Portorosso_2021"
@@ -107104,5 +107218,146 @@
 	],
 	"maga": [
 		"BF-11652_Trump_RNC_Spotlight_Hashmoji_DJT_FIST"
+	],
+	"basketball3x3": [
+		"Olympics_2024_BASKETBALL3X3"
+	],
+	"breaking": [
+		"Olympics_2024_BREAKING"
+	],
+	"espritolympique": [
+		"Olympics_2024_OlympicSpirit"
+	],
+	"espíritoolímpico": [
+		"Olympics_2024_OlympicSpirit"
+	],
+	"espírituolímpico": [
+		"Olympics_2024_OlympicSpirit"
+	],
+	"olympicrecord": [
+		"Olympics_2024_OlympicRecord"
+	],
+	"olympicspirit": [
+		"Olympics_2024_OlympicSpirit"
+	],
+	"olympischergeist": [
+		"Olympics_2024_OlympicSpirit"
+	],
+	"olympischerrekord": [
+		"Olympics_2024_OlympicRecord"
+	],
+	"parigi2024": [
+		"Olympics_2024_Paris20242"
+	],
+	"phryge": [
+		"Olympics_2024_Mascot"
+	],
+	"phryges": [
+		"Olympics_2024_Mascot"
+	],
+	"recorddumonde": [
+		"Olympics_2024_WorldRecord"
+	],
+	"recordemundial": [
+		"Olympics_2024_WorldRecord"
+	],
+	"recordeolímpico": [
+		"Olympics_2024_OlympicRecord"
+	],
+	"recordmondiale": [
+		"Olympics_2024_WorldRecord"
+	],
+	"recordolimpico": [
+		"Olympics_2024_OlympicRecord"
+	],
+	"recordolympique": [
+		"Olympics_2024_OlympicRecord"
+	],
+	"rugbysevens": [
+		"Olympics_2024_RUGBYSEVENS"
+	],
+	"récordmundial": [
+		"Olympics_2024_WorldRecord"
+	],
+	"récordolímpico": [
+		"Olympics_2024_OlympicRecord"
+	],
+	"shootingsport": [
+		"Olympics_2024_SHOOTINGSPORT"
+	],
+	"spiritoolimpico": [
+		"Olympics_2024_OlympicSpirit"
+	],
+	"trampoline": [
+		"Olympics_2024_TRAMPOLINE"
+	],
+	"weltrekord": [
+		"Olympics_2024_WorldRecord"
+	],
+	"worldrecord": [
+		"Olympics_2024_WorldRecord"
+	],
+	"мировойрекорд": [
+		"Olympics_2024_WorldRecord"
+	],
+	"олимпийскийдух": [
+		"Olympics_2024_OlympicSpirit"
+	],
+	"олимпийскийрекорд": [
+		"Olympics_2024_OlympicRecord"
+	],
+	"париж2024": [
+		"Olympics_2024_Paris20242"
+	],
+	"фриж": [
+		"Olympics_2024_Mascot"
+	],
+	"фрижи": [
+		"Olympics_2024_Mascot"
+	],
+	"بازی": [
+		"Olympics_2024_GENERAL"
+	],
+	"オリンピックレコード": [
+		"Olympics_2024_OlympicRecord"
+	],
+	"オリンピック精神": [
+		"Olympics_2024_OlympicSpirit"
+	],
+	"パリ2024": [
+		"Olympics_2024_Paris20242"
+	],
+	"フリージュ": [
+		"Olympics_2024_Mascot"
+	],
+	"世界記録": [
+		"Olympics_2024_WorldRecord"
+	],
+	"세계기록": [
+		"Olympics_2024_WorldRecord"
+	],
+	"스톰프로퍼": [
+		"Crocs_Korea_Publicis_Hashfetti_Korea_July19_during"
+	],
+	"올림픽기록": [
+		"Olympics_2024_OlympicRecord"
+	],
+	"올림픽정신": [
+		"Olympics_2024_OlympicSpirit"
+	],
+	"크록스": [
+		"Crocs_Korea_Publicis_Hashfetti_Korea_July19_during"
+	],
+	"크록스다크로맨스": [
+		"Crocs_Korea_Publicis_Hashfetti_Korea_July19_during"
+	],
+	"크록스로퍼": [
+		"Crocs_Korea_Publicis_Hashfetti_Korea_July19_during"
+	],
+	"파리2024": [
+		"Olympics_2024_Paris20242"
+	],
+	"프리주": [
+		"Olympics_2024_Mascot"
 	]
 }
