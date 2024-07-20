@@ -32111,7 +32111,8 @@
 		"Ledger_May_2022",
 		"Ledger_May_2022_v2",
 		"Ledger_Always_on_Sept_2022",
-		"Ledger_Always_on_Dec_2022"
+		"Ledger_Always_on_Dec_2022",
+		"BF-11619_LedgerNashville_Hashmoji2024_V2"
 	],
 	"ledgerlive": [
 		"Ledger_May_2022",
@@ -107372,5 +107373,11 @@
 	],
 	"夏だぜヘブバン": [
 		"heavenburnsred_July2024_BF-11558_before_v2"
+	],
+	"ledgernashville": [
+		"BF-11619_LedgerNashville_Hashmoji2024_V2"
+	],
+	"ledgerstax": [
+		"BF-11619_LedgerNashville_Hashmoji2024_V2"
 	]
 }
