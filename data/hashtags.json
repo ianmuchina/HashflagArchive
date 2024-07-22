@@ -24661,7 +24661,8 @@
 		"TheSuicideSquad_2021_Characters_HarleyQuinn",
 		"HBO_Max_Harley_Quinn_S3_Round_2_Harley_Jul_2022",
 		"HBOMax_Launch_AdditionalShows",
-		"HBOMax_Launch_AdditionalShows_fix"
+		"HBOMax_Launch_AdditionalShows_fix",
+		"Joker_Folie_a_Deux_2024_Hashmoji"
 	],
 	"harleyquinns3": [
 		"HBO_Max_Harley_Quinn_S3_Round_1_Jun_2022"
@@ -28931,7 +28932,8 @@
 		"Netflix_GK_JOJO_Nov_2022"
 	],
 	"joker": [
-		"HBO_Max_Harley_Quinn_S3_Round_2_Joker_Jul_2022"
+		"HBO_Max_Harley_Quinn_S3_Round_2_Joker_Jul_2022",
+		"Joker_Folie_a_Deux_2024_Hashmoji"
 	],
 	"jokerandthequeen": [
 		"TSESEmoji"
@@ -107410,5 +107412,14 @@
 	],
 	"takecontrolofmoney": [
 		"BF-11668_INDmoney_Budget_hashmoji"
+	],
+	"joker2": [
+		"Joker_Folie_a_Deux_2024_Hashmoji"
+	],
+	"jokerfolieadeux": [
+		"Joker_Folie_a_Deux_2024_Hashmoji"
+	],
+	"jokermovie": [
+		"Joker_Folie_a_Deux_2024_Hashmoji"
 	]
 }
