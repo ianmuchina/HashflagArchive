@@ -678,7 +678,8 @@
 		"PaulMcCartney_April_2021"
 	],
 	"3x3": [
-		"Olympics_2021_Sports_3x3"
+		"Olympics_2021_Sports_3x3",
+		"BF-10969_Olympics_2024_BASKETBALL3X3"
 	],
 	"3xrewards": [
 		"RBC_Project_Wednesday_2022"
@@ -3800,7 +3801,8 @@
 	"archery": [
 		"Paralympics_Sports_2021_ParaArchery",
 		"Olympics_2021_Sports_Archery",
-		"Olympics_2024_ARCHERY"
+		"Olympics_2024_ARCHERY",
+		"BF-10969_Olympics_2024_ARCHERY"
 	],
 	"arcodagarra": [
 		"Sony_PlayStation_God_of_War_2_Oct_2022_translations"
@@ -3976,11 +3978,13 @@
 	],
 	"artisticgymnastics": [
 		"Olympics_2021_Sports_ArtisticGymnastics",
-		"Olympics_2024_ARTISTICGYMNASTICS"
+		"Olympics_2024_ARTISTICGYMNASTICS",
+		"BF-10969_Olympics_2024_ARTISTICGYMNASTICS"
 	],
 	"artisticswimming": [
 		"Olympics_2021_Sports_ArtisticSwimming",
-		"Olympics_2024_ARTISTICSWIMMING"
+		"Olympics_2024_ARTISTICSWIMMING",
+		"BF-10969_Olympics_2024_ARTISTICSWIMMING"
 	],
 	"artistwrapped": [
 		"SpotifyWrapped2021_bh"
@@ -4590,7 +4594,8 @@
 		"Olympics_2021_Sports_Athletics",
 		"MLB_2023_Athletics",
 		"Oakland_Athetics_MLB_2024",
-		"Olympics_2024_ATHLETICS"
+		"Olympics_2024_ATHLETICS",
+		"BF-10969_Olympics_2024_ATHLETICS"
 	],
 	"athletim": [
 		"Tim_Hortons_National_Coffee_Day_Sept_2022"
@@ -5306,7 +5311,8 @@
 	"badminton": [
 		"Olympics_2021_Sports_Badminton",
 		"Paralympics_Sports_2021_ParaBadminton",
-		"Olympics_2024_BADMINTON"
+		"Olympics_2024_BADMINTON",
+		"BF-10969_Olympics_2024_BADMINTON"
 	],
 	"badmiracle": [
 		"Universal_Pictures_Nope_Cloud_2022_v3",
@@ -5603,7 +5609,8 @@
 	"basketball": [
 		"Olympics_2021_Sports_Basketball",
 		"Paralympics_Sports_2021_WheelchairBasketball",
-		"Olympics_2024_BASKETBALL"
+		"Olympics_2024_BASKETBALL",
+		"BF-10969_Olympics_2024_BASKETBALL"
 	],
 	"basketballwives": [
 		"BasketballWives_Feb_2021",
@@ -5953,7 +5960,8 @@
 	],
 	"beachvolleyball": [
 		"Olympics_2021_Sports_BeachVolleyball",
-		"Olympics_2024_BEACHVOLLEYBALL"
+		"Olympics_2024_BEACHVOLLEYBALL",
+		"BF-10969_Olympics_2024_BEACHVOLLEYBALL"
 	],
 	"beamitorstreamit": [
 		"DIRECTV_StreamRebrand_2021",
@@ -7681,11 +7689,13 @@
 	],
 	"bmxfreestyle": [
 		"Olympics_2021_Sports_BMXFreestyle",
-		"Olympics_2024_CYCLINGBMXFREESTYLE"
+		"Olympics_2024_CYCLINGBMXFREESTYLE",
+		"BF-10969_Olympics_2024_CYCLINGBMXFREESTYLE"
 	],
 	"bmxracing": [
 		"Olympics_2021_Sports_BMXRacing",
-		"Olympics_2024_CYCLINGBMXRACING"
+		"Olympics_2024_CYCLINGBMXRACING",
+		"BF-10969_Olympics_2024_CYCLINGBMXRACING"
 	],
 	"bmxフリースタイル": [
 		"Olympics_2021_Sports_BMXFreestyle"
@@ -8049,7 +8059,8 @@
 	],
 	"boxing": [
 		"Olympics_2021_Sports_Boxing",
-		"Olympics_2024_BOXING"
+		"Olympics_2024_BOXING",
+		"BF-10969_Olympics_2024_BOXING"
 	],
 	"boymeetsbro": [
 		"Universal_Pictures_Bros_Sept_2022"
@@ -9323,11 +9334,13 @@
 	],
 	"canoeslalom": [
 		"Olympics_2021_Sports_CanoeSlalom",
-		"Olympics_2024_CANOESLALOM"
+		"Olympics_2024_CANOESLALOM",
+		"BF-10969_Olympics_2024_CANOESLALOM"
 	],
 	"canoesprint": [
 		"Olympics_2021_Sports_CanoeSprint",
-		"Olympics_2024_CANOESPRINT"
+		"Olympics_2024_CANOESPRINT",
+		"BF-10969_Olympics_2024_CANOESPRINT"
 	],
 	"canotaje": [
 		"Paralympics_Sports_2021_ParaCanoe"
@@ -12665,12 +12678,14 @@
 	"cyclingroad": [
 		"Olympics_2021_Sports_CyclingRoad",
 		"Paralympics_Sports_2021_CyclingRoad",
-		"Olympics_2024_CYCLINGROAD"
+		"Olympics_2024_CYCLINGROAD",
+		"BF-10969_Olympics_2024_CYCLINGROAD"
 	],
 	"cyclingtrack": [
 		"Paralympics_Sports_2021_CyclingTrack",
 		"Olympics_2021_Sports_CyclingTrack",
-		"Olympics_2024_CYCLINGTRACK"
+		"Olympics_2024_CYCLINGTRACK",
+		"BF-10969_Olympics_2024_CYCLINGTRACK"
 	],
 	"cyclismesurpiste": [
 		"Paralympics_Sports_2021_CyclingTrack"
@@ -15077,7 +15092,8 @@
 	],
 	"diving": [
 		"Olympics_2021_Sports_Diving",
-		"Olympics_2024_DIVING"
+		"Olympics_2024_DIVING",
+		"BF-10969_Olympics_2024_DIVING"
 	],
 	"diwali": [
 		"Diwali_2021",
@@ -17829,7 +17845,8 @@
 	"equestrian": [
 		"Olympics_2021_Sports_Equestrian",
 		"Paralympics_Sports_2021_ParaDressage",
-		"Olympics_2024_EQUESTRIAN"
+		"Olympics_2024_EQUESTRIAN",
+		"BF-10969_Olympics_2024_EQUESTRIAN"
 	],
 	"equestriandressage": [
 		"Olympics_2021_Sports_EquestrianDressage"
@@ -19175,7 +19192,8 @@
 	"fencing": [
 		"Olympics_2021_Sports_Fencing",
 		"Paralympics_Sports_2021_WheelchairFencing",
-		"Olympics_2024_FENCING"
+		"Olympics_2024_FENCING",
+		"BF-10969_Olympics_2024_FENCING"
 	],
 	"fennec": [
 		"Disney_Mandalorian_S2_Dec_2020_Fennec"
@@ -20101,7 +20119,8 @@
 		"Paralympics_Sports_2021_BlindFootball_",
 		"Paralympics_Sports_2021_BlindFootball",
 		"Olympics_2021_Sports_Football",
-		"Olympics_2024_FOOTBALL"
+		"Olympics_2024_FOOTBALL",
+		"BF-10969_Olympics_2024_FOOTBALL"
 	],
 	"football4refugees": [
 		"PepsiCo_UEFA_May_2022"
@@ -22776,7 +22795,8 @@
 	],
 	"golf": [
 		"Olympics_2021_Sports_Golf",
-		"Olympics_2024_GOLF"
+		"Olympics_2024_GOLF",
+		"BF-10969_Olympics_2024_GOLF"
 	],
 	"goliberty": [
 		"CBLOL_LIBERTY_Season_2022",
@@ -24167,7 +24187,8 @@
 	],
 	"handball": [
 		"Olympics_2021_Sports_Handball",
-		"Olympics_2024_HANDBALL"
+		"Olympics_2024_HANDBALL",
+		"BF-10969_Olympics_2024_HANDBALL"
 	],
 	"handballaustria": [
 		"Handball_WorldCup_Egypt_2021_Austria"
@@ -25474,7 +25495,8 @@
 	],
 	"hockey": [
 		"Olympics_2021_Sports_Hockey",
-		"Olympics_2024_HOCKEY"
+		"Olympics_2024_HOCKEY",
+		"BF-10969_Olympics_2024_HOCKEY"
 	],
 	"hockeyday": [
 		"Scotiabank_HockeyDay_2021"
@@ -29226,7 +29248,8 @@
 	"judo": [
 		"Olympics_2021_Sports_Judo",
 		"Paralympics_Sports_2021_ParaJudo",
-		"Olympics_2024_JUDO"
+		"Olympics_2024_JUDO",
+		"BF-10969_Olympics_2024_JUDO"
 	],
 	"judyjustice": [
 		"JudyJusticeIMDbTV_2022",
@@ -35615,7 +35638,8 @@
 	],
 	"marathonswimming": [
 		"Olympics_2021_Sports_MarathonSwimming",
-		"Olympics_2024_MARATHONSWIMMING"
+		"Olympics_2024_MARATHONSWIMMING",
+		"BF-10969_Olympics_2024_MARATHONSWIMMING"
 	],
 	"marchmadness": [
 		"NCAA_March_Madness_MM_2022",
@@ -37887,7 +37911,8 @@
 	],
 	"modernpentathlon": [
 		"Olympics_2021_Sports_ModernPentathlon",
-		"Olympics_2024_MODERNPENTATHLON"
+		"Olympics_2024_MODERNPENTATHLON",
+		"BF-10969_Olympics_2024_MODERNPENTATHLON"
 	],
 	"modernwarfare2": [
 		"Call_of_Duty_Cortez_2022",
@@ -38349,7 +38374,8 @@
 	],
 	"mountainbike": [
 		"Olympics_2021_Sports_MountainBike",
-		"Olympics_2024_CYCLINGMOUNTAINBIKE"
+		"Olympics_2024_CYCLINGMOUNTAINBIKE",
+		"BF-10969_Olympics_2024_CYCLINGMOUNTAINBIKE"
 	],
 	"mountaindew": [
 		"Mountain_Dew_NBA_Q1-Q2_2022",
@@ -48720,7 +48746,8 @@
 	],
 	"rhythmicgymnastics": [
 		"Olympics_2021_Sports_RhythmicGymnastics",
-		"Olympics_2024_RHYTHMICGYMNASTICS"
+		"Olympics_2024_RHYTHMICGYMNASTICS",
+		"BF-10969_Olympics_2024_RHYTHMICGYMNASTICS"
 	],
 	"ri75": [
 		"IDIndependenceDay_2020"
@@ -49544,7 +49571,8 @@
 	"rowing": [
 		"Paralympics_Sports_2021_ParaRowing",
 		"Olympics_2021_Sports_Rowing",
-		"Olympics_2024_ROWING"
+		"Olympics_2024_ROWING",
+		"BF-10969_Olympics_2024_ROWING"
 	],
 	"rowinghome": [
 		"Jordan_North_Rowing_Home_Red_Nose_Day_2022"
@@ -50028,7 +50056,8 @@
 	],
 	"sailing": [
 		"Olympics_2021_Sports_Sailing",
-		"Olympics_2024_SAILING"
+		"Olympics_2024_SAILING",
+		"BF-10969_Olympics_2024_SAILING"
 	],
 	"sailingsouls": [
 		"JheneAiko_2021"
@@ -52357,7 +52386,8 @@
 	],
 	"skateboarding": [
 		"Olympics_2021_Sports_Skateboarding",
-		"Olympics_2024_SKATEBOARDING"
+		"Olympics_2024_SKATEBOARDING",
+		"BF-10969_Olympics_2024_SKATEBOARDING"
 	],
 	"skatekitchen": [
 		"BettyHBO_S2_2021"
@@ -53582,7 +53612,8 @@
 	],
 	"sportclimbing": [
 		"Olympics_2021_Sports_SportClimbing",
-		"Olympics_2024_SPORTCLIMBING"
+		"Olympics_2024_SPORTCLIMBING",
+		"BF-10969_Olympics_2024_SPORTCLIMBING"
 	],
 	"sportingkc": [
 		"MLS_2022_Team_SKC_2022",
@@ -55320,7 +55351,8 @@
 	],
 	"surfing": [
 		"Olympics_2021_Sports_Surfing",
-		"Olympics_2024_SURFING"
+		"Olympics_2024_SURFING",
+		"BF-10969_Olympics_2024_SURFING"
 	],
 	"suriya": [
 		"SooraraiPottru_2020"
@@ -55484,7 +55516,8 @@
 	"swimming": [
 		"Paralympics_Sports_2021_ParaSwimming",
 		"Olympics_2021_Sports_Swimming",
-		"Olympics_2024_SWIMMING"
+		"Olympics_2024_SWIMMING",
+		"BF-10969_Olympics_2024_SWIMMING"
 	],
 	"swipe": [
 		"Swipe_Solar_Feb_2022_v2",
@@ -55631,7 +55664,8 @@
 	"tabletennis": [
 		"Paralympics_Sports_2021_ParaTableTennis",
 		"Olympics_2021_Sports_TableTennis",
-		"Olympics_2024_TABLETENNIS"
+		"Olympics_2024_TABLETENNIS",
+		"BF-10969_Olympics_2024_TABLETENNIS"
 	],
 	"tacobell": [
 		"Tacobell_2021"
@@ -55654,7 +55688,8 @@
 	"taekwondo": [
 		"Paralympics_Sports_2021_ParaTaekwondo",
 		"Olympics_2021_Sports_Taekwondo",
-		"Olympics_2024_TAEKWONDO"
+		"Olympics_2024_TAEKWONDO",
+		"BF-10969_Olympics_2024_TAEKWONDO"
 	],
 	"taemin": [
 		"KpopVIT_TAEMIN_May_2021",
@@ -57011,7 +57046,8 @@
 	"tennis": [
 		"Paralympics_Sports_2021_WheelchairTennis",
 		"Olympics_2021_Sports_Tennis",
-		"Olympics_2024_TENNIS"
+		"Olympics_2024_TENNIS",
+		"BF-10969_Olympics_2024_TENNIS"
 	],
 	"tennisdetable": [
 		"Paralympics_Sports_2021_ParaTableTennis"
@@ -60682,7 +60718,8 @@
 	"triathlon": [
 		"Olympics_2021_Sports_Triathlon",
 		"Paralympics_Sports_2021_ParaTriathlon",
-		"Olympics_2024_TRIATHLON"
+		"Olympics_2024_TRIATHLON",
+		"BF-10969_Olympics_2024_TRIATHLON"
 	],
 	"triatlo": [
 		"Paralympics_Sports_2021_ParaTriathlon"
@@ -63752,7 +63789,8 @@
 	"volleyball": [
 		"Olympics_2021_Sports_Volleyball",
 		"Paralympics_Sports_2021_SittingVolleyball",
-		"Olympics_2024_VOLLEYBALL"
+		"Olympics_2024_VOLLEYBALL",
+		"BF-10969_Olympics_2024_VOLLEYBALL"
 	],
 	"volleyballassis": [
 		"Paralympics_Sports_2021_SittingVolleyball"
@@ -64316,7 +64354,8 @@
 	],
 	"waterpolo": [
 		"Olympics_2021_Sports_WaterPolo",
-		"Olympics_2024_WATERPOLO"
+		"Olympics_2024_WATERPOLO",
+		"BF-10969_Olympics_2024_WATERPOLO"
 	],
 	"wavefc": [
 		"NWSL_Season_SanDiegoWave_2022"
@@ -64760,7 +64799,9 @@
 	],
 	"weightlifting": [
 		"Olympics_2021_Sports_Weightlifting",
-		"Olympics_2024_WEIGHTLIFTING"
+		"Olympics_2024_WEIGHTLIFTING",
+		"BF-10969_Olympics_2024_WEIGHTLIFTING",
+		"BF-10969_Olympics_2024_WRESTLING"
 	],
 	"weihnachten": [
 		"Christmas_2020"
@@ -107251,7 +107292,8 @@
 		"BF-11652_Trump_RNC_Spotlight_Hashmoji_DJT_FIST"
 	],
 	"basketball3x3": [
-		"Olympics_2024_BASKETBALL3X3"
+		"Olympics_2024_BASKETBALL3X3",
+		"BF-10969_Olympics_2024_BASKETBALL3X3"
 	],
 	"breaking": [
 		"Olympics_2024_BREAKING"
@@ -107305,7 +107347,8 @@
 		"Olympics_2024_OlympicRecord"
 	],
 	"rugbysevens": [
-		"Olympics_2024_RUGBYSEVENS"
+		"Olympics_2024_RUGBYSEVENS",
+		"BF-10969_Olympics_2024_RUGBYSEVENS"
 	],
 	"récordmundial": [
 		"Olympics_2024_WorldRecord"
@@ -107314,13 +107357,15 @@
 		"Olympics_2024_OlympicRecord"
 	],
 	"shootingsport": [
-		"Olympics_2024_SHOOTINGSPORT"
+		"Olympics_2024_SHOOTINGSPORT",
+		"BF-10969_Olympics_2024_SHOOTINGSPORT"
 	],
 	"spiritoolimpico": [
 		"Olympics_2024_OlympicSpirit"
 	],
 	"trampoline": [
-		"Olympics_2024_TRAMPOLINE"
+		"Olympics_2024_TRAMPOLINE",
+		"BF-10969_Olympics_2024_TRAMPOLINE"
 	],
 	"weltrekord": [
 		"Olympics_2024_WorldRecord"
@@ -107452,5 +107497,11 @@
 	],
 	"reesesmedals": [
 		"Reeses_Olympics_Hashmoji_v2"
+	],
+	"3x3basketball": [
+		"BF-10969_Olympics_2024_BASKETBALL3X3"
+	],
+	"breakingforgold": [
+		"BF-10969_Olympics_2024_BREAKINGFORGOLD"
 	]
 }
