@@ -19334,7 +19334,8 @@
 		"DelightworksFateGrandOrder2020",
 		"Delightworks_FGO_0702_2021",
 		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022",
-		"FGO_2023_8th_Anniversary_Hashtag"
+		"FGO_2023_8th_Anniversary_Hashtag",
+		"BF-11628_fgoproject_9thAnniversary_Hashmoji2024"
 	],
 	"fgo5周年": [
 		"DelightworksFateGrandOrder2020"
@@ -19365,7 +19366,8 @@
 	],
 	"fgoフェス": [
 		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022",
-		"FGO_2023_8th_Anniversary_Hashtag"
+		"FGO_2023_8th_Anniversary_Hashtag",
+		"BF-11628_fgoproject_9thAnniversary_Hashmoji2024"
 	],
 	"fgs": [
 		"FutureGamesShow_21",
@@ -107517,5 +107519,14 @@
 	],
 	"breakingforgold": [
 		"BF-10969_Olympics_2024_BREAKINGFORGOLD"
+	],
+	"fgo9周年": [
+		"BF-11628_fgoproject_9thAnniversary_Hashmoji2024"
+	],
+	"fgo9周年メッセージ": [
+		"BF-11628_fgoproject_9thAnniversary_Hashmoji2024"
+	],
+	"fgoexpo": [
+		"BF-11628_fgoproject_9thAnniversary_Hashmoji2024"
 	]
 }
