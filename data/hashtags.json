@@ -42230,7 +42230,8 @@
 		"BF-10879_OnePlusNordCE4_Hashmoji",
 		"BF-10879_OnePlusNordCE4_Hashmoji_extended",
 		"BF-11632_OnePlusNord4_July24_HashmojiDuring",
-		"BF-11632_OnePlusNord4_July24_HashmojiAfter"
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter",
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter_v2"
 	],
 	"oneplusnord2": [
 		"OnePlusNord_2021"
@@ -107286,14 +107287,17 @@
 	],
 	"nord4": [
 		"BF-11632_OnePlusNord4_July24_HashmojiDuring",
-		"BF-11632_OnePlusNord4_July24_HashmojiAfter"
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter",
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter_v2"
 	],
 	"pedaltometal": [
 		"BF-11632_OnePlusNord4_July24_HashmojiDuring",
-		"BF-11632_OnePlusNord4_July24_HashmojiAfter"
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter",
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter_v2"
 	],
 	"oneplusnord4": [
-		"BF-11632_OnePlusNord4_July24_HashmojiAfter"
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter",
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter_v2"
 	],
 	"joyofthegames": [
 		"BF-11634_ComcastCorporateOlympics_3Q24_Hashmoji"
@@ -107574,5 +107578,8 @@
 	],
 	"saintjhn": [
 		"SAINt_JHN_Music_Release_2024"
+	],
+	"neversettle": [
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter_v2"
 	]
 }
