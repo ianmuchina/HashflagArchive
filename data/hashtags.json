@@ -107582,5 +107582,11 @@
 	],
 	"neversettle": [
 		"BF-11632_OnePlusNord4_July24_HashmojiAfter_v2"
+	],
+	"alertemedaille": [
+		"BF-11717_AlerteMedaille_Antoine_Griezmann"
+	],
+	"alertemédaille": [
+		"BF-11717_AlerteMedaille_Antoine_Griezmann"
 	]
 }
