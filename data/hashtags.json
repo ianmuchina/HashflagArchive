@@ -75855,7 +75855,8 @@
 	],
 	"サマナ": [
 		"Com2us_summonerswar_April_2021",
-		"Com2us_summonerswar202008"
+		"Com2us_summonerswar202008",
+		"BF-11662_Com2us_summoners_STAFF_Branding_Q324_during"
 	],
 	"サマナーズウォー": [
 		"Com2us_summonerswar_April_2021",
@@ -107588,5 +107589,14 @@
 	],
 	"alertemédaille": [
 		"BF-11717_AlerteMedaille_Antoine_Griezmann"
+	],
+	"summonerswar": [
+		"BF-11662_Com2us_summoners_STAFF_Branding_Q324_during"
+	],
+	"サマナ10周年": [
+		"BF-11662_Com2us_summoners_STAFF_Branding_Q324_during"
+	],
+	"サマナコラボ": [
+		"BF-11662_Com2us_summoners_STAFF_Branding_Q324_during"
 	]
 }
