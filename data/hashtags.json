@@ -97825,7 +97825,8 @@
 	],
 	"laveniràvélo": [
 		"Tour_de_France_ASO_FR_1st_July_30th_July_2023",
-		"Tour_de_France_Men_2024"
+		"Tour_de_France_Men_2024",
+		"Tour_de_France_Women_2024"
 	],
 	"tdf2023": [
 		"Tour_de_France_ASO_FR_1st_July_30th_July_2023"
@@ -107610,5 +107611,11 @@
 	],
 	"grassrootstogreatness": [
 		"FNB_Awareness_Jul_Sep_2024"
+	],
+	"laveniravelo": [
+		"Tour_de_France_Women_2024"
+	],
+	"tdff2024": [
+		"Tour_de_France_Women_2024"
 	]
 }
