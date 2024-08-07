@@ -106712,7 +106712,8 @@
 		"Supermicro_BF-11272_Hashmoji"
 	],
 	"supermicro": [
-		"Supermicro_BF-11272_Hashmoji"
+		"Supermicro_BF-11272_Hashmoji",
+		"BF-11737_Supermicro_Storage_Summit_2024Hashmoji_V2"
 	],
 	"supermicro2024": [
 		"Supermicro_BF-11272_Hashmoji"
@@ -107660,5 +107661,17 @@
 	],
 	"vitalitytravel": [
 		"Discovery_Bank_Hashmoji"
+	],
+	"openstorage": [
+		"BF-11737_Supermicro_Storage_Summit_2024Hashmoji_V2"
+	],
+	"openstoragesummit": [
+		"BF-11737_Supermicro_Storage_Summit_2024Hashmoji_V2"
+	],
+	"storagesummit2024": [
+		"BF-11737_Supermicro_Storage_Summit_2024Hashmoji_V2"
+	],
+	"supermicrostorage2024": [
+		"BF-11737_Supermicro_Storage_Summit_2024Hashmoji_V2"
 	]
 }
