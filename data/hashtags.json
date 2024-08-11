@@ -9624,7 +9624,8 @@
 		"LaVuelta21",
 		"LaVuelta_2020",
 		"La_Vuelta_Jul_2022",
-		"La_Vuelta_2023"
+		"La_Vuelta_2023",
+		"La_Vuelta_2024"
 	],
 	"carrieandbig": [
 		"HBOMax_AJLT_2021_MrBig"
@@ -107736,5 +107737,8 @@
 	],
 	"streevssarkata": [
 		"Maddock_Films_IN_Jio_Studios_STREE_2_Aug_2024"
+	],
+	"lavuelta24": [
+		"La_Vuelta_2024"
 	]
 }
