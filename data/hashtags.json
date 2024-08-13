@@ -6919,7 +6919,8 @@
 	],
 	"bigsean": [
 		"BigSean_2020_ext",
-		"BigSean_2020"
+		"BigSean_2020",
+		"BigSeanBMTY"
 	],
 	"bigthree": [
 		"ThisisUs_NBC_Oct2020"
@@ -107741,5 +107742,11 @@
 	],
 	"lavuelta24": [
 		"La_Vuelta_2024"
+	],
+	"bettermethanyou": [
+		"BigSeanBMTY"
+	],
+	"bmty": [
+		"BigSeanBMTY"
 	]
 }
