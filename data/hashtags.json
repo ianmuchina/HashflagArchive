@@ -80360,7 +80360,8 @@
 		"miHoYo_genshin_2020",
 		"GenshinPaimon_JP_CustomLike_v1",
 		"Genshin_Paimon_JP_CustomLike_v1",
-		"GenshinPaimon_Hashmoji_After"
+		"GenshinPaimon_Hashmoji_After",
+		"BF-11709_GenshinPaimon_Hashmoji2024"
 	],
 	"原神屋台": [
 		"SummerFestival_2020_add4",
@@ -99250,11 +99251,13 @@
 	],
 	"genshin": [
 		"GenshinPaimon_Gobal_CustomLike_v4",
-		"GenshinPaimon_Hashmoji_After"
+		"GenshinPaimon_Hashmoji_After",
+		"BF-11709_GenshinPaimon_Hashmoji2024"
 	],
 	"genshinimpact": [
 		"GenshinPaimon_Global_CustomLike_v2",
-		"GenshinPaimon_Hashmoji_After"
+		"GenshinPaimon_Hashmoji_After",
+		"BF-11709_GenshinPaimon_Hashmoji2024"
 	],
 	"genshinimpactfontaine": [
 		"BF-8617_Genshin_Impact_2023Q3_Hashfetti-Global",
@@ -99268,7 +99271,8 @@
 	],
 	"paimon": [
 		"GenshinPaimon_Global_CustomLike_v5",
-		"GenshinPaimon_Hashmoji_After"
+		"GenshinPaimon_Hashmoji_After",
+		"BF-11709_GenshinPaimon_Hashmoji2024"
 	],
 	"ようこそフォンテーヌへ": [
 		"Genshin_Impact_Lyney_2023"
@@ -99306,7 +99310,8 @@
 	],
 	"원신": [
 		"GenshinPaimon_Global_CustomLike_v3",
-		"GenshinPaimon_Hashmoji_After"
+		"GenshinPaimon_Hashmoji_After",
+		"BF-11709_GenshinPaimon_Hashmoji2024"
 	],
 	"폰타인_입주동참": [
 		"BF-8617_Genshin_Impact_2023Q3_Hashmoji-during",
@@ -107773,19 +107778,24 @@
 		"Tinashe_Music_Tour_2024"
 	],
 	"abrazacaras": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"alienromulus": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"alienromulusmy": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"alienromulusph": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"alienromulussg": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"aniversario110": [
 		"BF-11749_CanaldePanama_Hashmoji2024"
@@ -107797,30 +107807,105 @@
 		"BF-11749_CanaldePanama_Hashmoji2024"
 	],
 	"facehugger": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"quaivatkhonggianromulus": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"romulus": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"xenomorfo": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"xenomorph": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"ซีโนมอร์ฟ": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"เฟซฮักเกอร์": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"เอเลี่ยนโรมูลัส": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
 	],
 	"โรมูลัส": [
-		"20thCentury_AlienRomulus_2024"
+		"20thCentury_AlienRomulus_2024",
+		"R1_20thCentury_AlienRomulus_2024"
+	],
+	"blazetonatlan": [
+		"BF-11751_miHoYo_Global_NatlanFire_Hashmoji_16Aug"
+	],
+	"genshinnatlan": [
+		"BF-11751_miHoYo_Global_NatlanFire_Hashmoji_16Aug"
+	],
+	"kachina": [
+		"BF-11710_GenshinKachina_Hashmoji2024"
+	],
+	"kinich": [
+		"BF-11711_GenshinKinich_Hashmoji2024"
+	],
+	"mualani": [
+		"BF-11712_GenshinMualani_Hashmoji2024"
+	],
+	"natlan": [
+		"BF-11713_Genshin_NatlanSunSign_Hashmoji2024"
+	],
+	"natlanimpact": [
+		"BF-11713_Genshin_NatlanSunSign_Hashmoji2024"
+	],
+	"カチーナ": [
+		"BF-11710_GenshinKachina_Hashmoji2024"
+	],
+	"キィニチ": [
+		"BF-11711_GenshinKinich_Hashmoji2024"
+	],
+	"ナタインパクト": [
+		"BF-11713_Genshin_NatlanSunSign_Hashmoji2024"
+	],
+	"ムアラニ": [
+		"BF-11712_GenshinMualani_Hashmoji2024"
+	],
+	"卡齊娜": [
+		"BF-11710_GenshinKachina_Hashmoji2024"
+	],
+	"基尼奇": [
+		"BF-11711_GenshinKinich_Hashmoji2024"
+	],
+	"燃動納塔": [
+		"BF-11751_miHoYo_Global_NatlanFire_Hashmoji_16Aug"
+	],
+	"瑪拉妮": [
+		"BF-11712_GenshinMualani_Hashmoji2024"
+	],
+	"納塔衝擊": [
+		"BF-11713_Genshin_NatlanSunSign_Hashmoji2024"
+	],
+	"駆け抜けろ灼熱のナタへ": [
+		"BF-11751_miHoYo_Global_NatlanFire_Hashmoji_16Aug"
+	],
+	"나타임팩트": [
+		"BF-11713_Genshin_NatlanSunSign_Hashmoji2024"
+	],
+	"말라니": [
+		"BF-11712_GenshinMualani_Hashmoji2024"
+	],
+	"정열의나타": [
+		"BF-11751_miHoYo_Global_NatlanFire_Hashmoji_16Aug"
+	],
+	"카치나": [
+		"BF-11710_GenshinKachina_Hashmoji2024"
+	],
+	"키니치": [
+		"BF-11711_GenshinKinich_Hashmoji2024"
 	]
 }
