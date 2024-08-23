@@ -63752,7 +63752,8 @@
 		"Paramount_VMAs_Jul_2022",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_During",
-		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2"
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2",
+		"VMAsEmoji2024"
 	],
 	"vmas": [
 		"MTV_VMAs_2021",
@@ -63760,7 +63761,8 @@
 		"Paramount_VMAs_Jul_2022",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Hashfetti",
-		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2"
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2",
+		"VMAsEmoji2024"
 	],
 	"vmastancam": [
 		"2020_VMAs_StanCam"
@@ -108030,5 +108032,11 @@
 	],
 	"flaujae": [
 		"FlauJae_MusicVideo_Hashmoji"
+	],
+	"katyvmavanguard": [
+		"VMAsEmoji2024"
+	],
+	"megantheevmashost": [
+		"VMAsEmoji2024"
 	]
 }
