@@ -27465,7 +27465,8 @@
 		"WSPD_Aug_2022_v2"
 	],
 	"intlteam": [
-		"PresidentsCupINTLTEAM2022"
+		"PresidentsCupINTLTEAM2022",
+		"Intl_Team_PGA2024"
 	],
 	"into__universe": [
 		"NCSOFTUniverse2020"
@@ -46131,7 +46132,8 @@
 		"Disney_LokiLaunch_PresidentLoki_2021"
 	],
 	"presidentscup": [
-		"PresidentsCupGeneral2022"
+		"PresidentsCupGeneral2022",
+		"Presidents_Cup_2024"
 	],
 	"pressefreiheit": [
 		"WorldPressFreedomDay_2021",
@@ -108061,5 +108063,8 @@
 	],
 	"endzonecrown": [
 		"BF_11876_Draftkings_Reactivation"
+	],
+	"usteampc": [
+		"US_Team_PGA2024"
 	]
 }
