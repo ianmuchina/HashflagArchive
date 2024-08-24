@@ -15233,7 +15233,8 @@
 		"DK_Sportsboook",
 		"Draftking_Extension_NFL23",
 		"DraftKings_Additional_hashtags",
-		"DK_Sportsbook_Hashmojis_all_12_month"
+		"DK_Sportsbook_Hashmojis_all_12_month",
+		"BF_11876_Draftkings_Reactivation"
 	],
 	"dkwin": [
 		"LCK_Team_DWG_2022_v2",
@@ -16029,7 +16030,8 @@
 		"DraftKingsSB2024_CustomLike",
 		"Draftkings_2024",
 		"DK_Extension",
-		"DK_Sportsbook_Hashmojis_all_12_month"
+		"DK_Sportsbook_Hashmojis_all_12_month",
+		"BF_11876_Draftkings_Reactivation"
 	],
 	"draftkingsbigwin": [
 		"DKCasino_DraftKingsBigWin_Aug_2022",
@@ -16058,7 +16060,8 @@
 		"Draftkings_Hashmoji_2024",
 		"DK_Pre_SB_202",
 		"DK_Extension",
-		"DK_Sportsbook_Hashmojis_all_12_month"
+		"DK_Sportsbook_Hashmojis_all_12_month",
+		"BF_11876_Draftkings_Reactivation"
 	],
 	"draftkingswildcards": [
 		"DraftKings_August_2021"
@@ -16758,7 +16761,8 @@
 		"Draftkings_Hashmoji_2024",
 		"DK_Pre_SB_202",
 		"DK_Extension",
-		"DK_Sportsbook_Hashmojis_all_12_month"
+		"DK_Sportsbook_Hashmojis_all_12_month",
+		"BF_11876_Draftkings_Reactivation"
 	],
 	"earpers": [
 		"WynonnaEarp_S4_2020",
@@ -44411,7 +44415,8 @@
 		"Draftkings_Hashmoji_2024",
 		"DK_Pre_SB_202",
 		"DK_Extension",
-		"DK_Sportsbook_Hashmojis_all_12_month"
+		"DK_Sportsbook_Hashmojis_all_12_month",
+		"BF_11876_Draftkings_Reactivation"
 	],
 	"pepe": [
 		"DisneyPlus_Pinocchio_Jiminy_2022"
@@ -104533,7 +104538,8 @@
 		"Draftkings_Hashmoji_2024",
 		"DK_Pre_SB_202",
 		"DK_Extension",
-		"DK_Sportsbook_Hashmojis_all_12_month"
+		"DK_Sportsbook_Hashmojis_all_12_month",
+		"BF_11876_Draftkings_Reactivation"
 	],
 	"agentstatefarm": [
 		"BF10256SuperBowlHashmoji2024",
@@ -105045,7 +105051,8 @@
 	],
 	"dkpartner": [
 		"DKPartner_Additional_v2",
-		"DK_Sportsbook_Hashmojis_all_12_month"
+		"DK_Sportsbook_Hashmojis_all_12_month",
+		"BF_11876_Draftkings_Reactivation"
 	],
 	"bftest123": [
 		"BanishersTest_US_CustomLike",
@@ -108051,5 +108058,8 @@
 	],
 	"bbns9": [
 		"Multichoice_BB_Naija_Hashmoji_Request"
+	],
+	"endzonecrown": [
+		"BF_11876_Draftkings_Reactivation"
 	]
 }
