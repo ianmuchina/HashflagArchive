@@ -56577,7 +56577,8 @@
 		"SnowpiercerSeason2_2020"
 	],
 	"teamlebron": [
-		"NBA_AllStar_Lebron_2022"
+		"NBA_AllStar_Lebron_2022",
+		"BF-11888_DKSportsbook_TeamLeBron_Hashmoji"
 	],
 	"teamlegend": [
 		"NBC_TheVoice_Feb_2021"
@@ -108066,5 +108067,8 @@
 	],
 	"usteampc": [
 		"US_Team_PGA2024"
+	],
+	"teamkevin": [
+		"BF-11889_DKSportsbook_TeamKevin_Hashmoji"
 	]
 }
