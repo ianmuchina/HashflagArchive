@@ -13179,7 +13179,8 @@
 	],
 	"davebautista": [
 		"DuneCharacter_2021_Beast",
-		"DuneCharacter_2021_Beast_v2"
+		"DuneCharacter_2021_Beast_v2",
+		"Lionsgate_TheKillersGame_2024"
 	],
 	"daveburd": [
 		"DaveFX_May_2021_v2"
@@ -108096,5 +108097,11 @@
 	"أبطال_كأس_العالم_للرياضات_الإلكترونية": [
 		"FalconsHashfettiEWC",
 		"FalconsHashfetti2024V2"
+	],
+	"killersgame": [
+		"Lionsgate_TheKillersGame_2024"
+	],
+	"thekillersgame": [
+		"Lionsgate_TheKillersGame_2024"
 	]
 }
