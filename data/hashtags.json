@@ -32675,7 +32675,8 @@
 		"LCS_2020_TL",
 		"LCSFranchiseLeagueEmoji-TeamLiquid2023",
 		"TeamLiquidEmoji2024",
-		"TeamLiquid2024EmojiV2"
+		"TeamLiquid2024EmojiV2",
+		"TeamLiquidEmojisV32024"
 	],
 	"letsgonewarriors": [
 		"NRL_2020_LetsGoneWarriors",
@@ -60046,7 +60047,8 @@
 		"LCS_2020_TL",
 		"LCSFranchiseLeagueEmoji-TeamLiquid2023",
 		"TeamLiquidEmoji2024",
-		"TeamLiquid2024EmojiV2"
+		"TeamLiquid2024EmojiV2",
+		"TeamLiquidEmojisV32024"
 	],
 	"tmb": [
 		"BabyKeem2o021"
@@ -106916,7 +106918,8 @@
 		"FlyQuestEmoji2024V2"
 	],
 	"vamosliquid": [
-		"TeamLiquid2024EmojiV2"
+		"TeamLiquid2024EmojiV2",
+		"TeamLiquidEmojisV32024"
 	],
 	"bf456": [
 		"BFTEST456_BF-10928"
@@ -108111,5 +108114,8 @@
 	],
 	"thekillersgame": [
 		"Lionsgate_TheKillersGame_2024"
+	],
+	"eusouliquid": [
+		"TeamLiquidEmojisV32024"
 	]
 }
