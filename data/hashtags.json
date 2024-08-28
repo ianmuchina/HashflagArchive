@@ -9141,7 +9141,8 @@
 		"Call_of_Duty_MWII_2022",
 		"Call_of_Duty_MWII_2022_v2",
 		"CallofDutyMainline2023",
-		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji"
+		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji",
+		"BF-11904_Call_of_Duty_Black_Ops_6_August_2024_hashmoji"
 	],
 	"callofdutyleague": [
 		"CallofDutyLeague2021",
@@ -106860,13 +106861,16 @@
 		"BF-11353_LazadaMY"
 	],
 	"blackops": [
-		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji"
+		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji",
+		"BF-11904_Call_of_Duty_Black_Ops_6_August_2024_hashmoji"
 	],
 	"blackops6": [
-		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji"
+		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji",
+		"BF-11904_Call_of_Duty_Black_Ops_6_August_2024_hashmoji"
 	],
 	"bo6": [
-		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji"
+		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji",
+		"BF-11904_Call_of_Duty_Black_Ops_6_August_2024_hashmoji"
 	],
 	"lazadayunoh": [
 		"LazadaPH_6_6_Hashfetti_during_v2",
@@ -108117,5 +108121,8 @@
 	],
 	"eusouliquid": [
 		"TeamLiquidEmojisV32024"
+	],
+	"codbeta": [
+		"BF-11904_Call_of_Duty_Black_Ops_6_August_2024_hashmoji"
 	]
 }
