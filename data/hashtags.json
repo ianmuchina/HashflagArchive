@@ -6902,12 +6902,14 @@
 		"BigNoonKickoff_FoxCFB2020",
 		"CFBonFOX_2021",
 		"Fox_Sport_College_Football_2023_Hashmoji",
-		"Fox_Sport_College_Football_2023_Hashmoji_v2"
+		"Fox_Sport_College_Football_2023_Hashmoji_v2",
+		"BF_11867_FOX_CFB_Hashmoji"
 	],
 	"bignoonsaturday": [
 		"CFBonFOX_2021",
 		"Fox_Sport_College_Football_2023_Hashmoji",
-		"Fox_Sport_College_Football_2023_Hashmoji_v2"
+		"Fox_Sport_College_Football_2023_Hashmoji_v2",
+		"BF_11867_FOX_CFB_Hashmoji"
 	],
 	"bigonalidlchristmas": [
 		"Lidl_Christmas_2020"
@@ -10102,7 +10104,8 @@
 	"cfbonfox": [
 		"CFBonFOX_2021",
 		"Fox_Sport_College_Football_2023_Hashmoji",
-		"Fox_Sport_College_Football_2023_Hashmoji_v2"
+		"Fox_Sport_College_Football_2023_Hashmoji_v2",
+		"BF_11867_FOX_CFB_Hashmoji"
 	],
 	"cfbplayoff": [
 		"CFBPlayoff202021",
@@ -54222,7 +54225,8 @@
 	"startsaturdaystrong": [
 		"CFBonFOX_2021",
 		"Fox_Sport_College_Football_2023_Hashmoji",
-		"Fox_Sport_College_Football_2023_Hashmoji_v2"
+		"Fox_Sport_College_Football_2023_Hashmoji_v2",
+		"BF_11867_FOX_CFB_Hashmoji"
 	],
 	"startshort": [
 		"YouTube_YT_Shorts_2022"
@@ -108146,5 +108150,8 @@
 	],
 	"เบอร์ดี้คาเฟ่อร่อยเข้มเต็มฟีลเฟรช": [
 		"BF-11827_BirdyCafe_Hashmoji2024_v2"
+	],
+	"foxcollegefootball": [
+		"BF_11867_FOX_CFB_Hashmoji"
 	]
 }
