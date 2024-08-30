@@ -60320,7 +60320,8 @@
 	],
 	"tokyogirlscollection": [
 		"Tokyo_Girls_Collection_Autumn_Jul_2022",
-		"TokyoGirlsCollection2024SS"
+		"TokyoGirlsCollection2024SS",
+		"TokyoGirlsCollection2024Fall"
 	],
 	"tokyorainbowpride": [
 		"Tokyo_RainbowPride_2021",
@@ -81617,7 +81618,8 @@
 	"東京ガールズコレクション": [
 		"Tokyo_Girls_Collection_Autumn_Jul_2022",
 		"TGC_2023",
-		"TokyoGirlsCollection2024SS"
+		"TokyoGirlsCollection2024SS",
+		"TokyoGirlsCollection2024Fall"
 	],
 	"東京リベンジャーズ": [
 		"Kodansha_Mikey_2022_Emoji"
@@ -99900,7 +99902,8 @@
 	],
 	"マイナビtgc": [
 		"TGC_2023",
-		"TokyoGirlsCollection2024SS"
+		"TokyoGirlsCollection2024SS",
+		"TokyoGirlsCollection2024Fall"
 	],
 	"brunomarsnomultishow": [
 		"Globo_The_Town_Festival_1st_weekend_V2"
@@ -108156,5 +108159,20 @@
 	],
 	"terrycrews": [
 		"Lionsgate_TheKillersGame_TerryCrews"
+	],
+	"フェスlink": [
+		"BF-11790_COLOPL_Hashmoji"
+	],
+	"フェスティバトル": [
+		"BF-11790_COLOPL_Hashmoji"
+	],
+	"フェスバ": [
+		"BF-11790_COLOPL_Hashmoji"
+	],
+	"フェスバアート": [
+		"BF-11790_COLOPL_Hashmoji"
+	],
+	"マリオンch": [
+		"BF-11790_COLOPL_Hashmoji"
 	]
 }
