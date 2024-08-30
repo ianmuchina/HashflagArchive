@@ -107981,16 +107981,19 @@
 	"honorifa2024": [
 		"BF-11738_Honor_IFA_Hashmoji2024",
 		"BF-11738_Honor_IFA_Hashmoji2024_beforeCL",
-		"BF-11738_Honor_IFA_Hashmoji2024_duringCL"
+		"BF-11738_Honor_IFA_Hashmoji2024_duringCL",
+		"BF-11738_Honor_IFA_Hashmoji2024_afterCL"
 	],
 	"honormagicv3": [
 		"BF-11738_Honor_IFA_Hashmoji2024",
-		"BF-11738_Honor_IFA_Hashmoji2024_beforeCL"
+		"BF-11738_Honor_IFA_Hashmoji2024_beforeCL",
+		"BF-11738_Honor_IFA_Hashmoji2024_afterCL"
 	],
 	"unfoldyourmagic": [
 		"BF-11738_Honor_IFA_Hashmoji2024",
 		"BF-11738_Honor_IFA_Hashmoji2024_beforeCL",
-		"BF-11738_Honor_IFA_Hashmoji2024_duringCL"
+		"BF-11738_Honor_IFA_Hashmoji2024_duringCL",
+		"BF-11738_Honor_IFA_Hashmoji2024_afterCL"
 	],
 	"sabrina": [
 		"SabrinaCSnS"
