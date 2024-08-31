@@ -98560,7 +98560,8 @@
 		"Q4_2023_Bitgetglobal",
 		"BF-10278_Q12024_Bitgetglobal_Campaign",
 		"BF-11112_Q2_2024_Bitgetglobal_hashmoji",
-		"BF-11666_Q324_Bitgetglobal"
+		"BF-11666_Q324_Bitgetglobal",
+		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024"
 	],
 	"bitget": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -98569,7 +98570,8 @@
 		"Q4_2023_Bitgetglobal",
 		"BF-10278_Q12024_Bitgetglobal_Campaign",
 		"BF-11112_Q2_2024_Bitgetglobal_hashmoji",
-		"BF-11666_Q324_Bitgetglobal"
+		"BF-11666_Q324_Bitgetglobal",
+		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024"
 	],
 	"bitget5thanniversary": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -102843,7 +102845,8 @@
 		"Q4_2023_Bitgetglobal",
 		"BF-10278_Q12024_Bitgetglobal_Campaign",
 		"BF-11112_Q2_2024_Bitgetglobal_hashmoji",
-		"BF-11666_Q324_Bitgetglobal"
+		"BF-11666_Q324_Bitgetglobal",
+		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024"
 	],
 	"nikke1stanniversary": [
 		"Tecent_NIKKE_JP_REDHOOD_2023_Hashmoji"
@@ -108190,5 +108193,11 @@
 	],
 	"secondchancetd": [
 		"BETMGM_NFL_SEASON_2024"
+	],
+	"bitget6challenge": [
+		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024"
+	],
+	"bitgetturns6": [
+		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024"
 	]
 }
