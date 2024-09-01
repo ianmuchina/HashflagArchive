@@ -40353,7 +40353,8 @@
 		"NFL_2020_2021_ItStartsWithUs_NFL",
 		"NFL_2021_2022",
 		"NFL_KickOff_Hashtags_2023_NFL",
-		"NFL_Logo_2024"
+		"NFL_Logo_2024",
+		"NFL_Season_2024"
 	],
 	"nflafricatouchdown": [
 		"NFLAfricaTouchdown"
@@ -100146,7 +100147,8 @@
 	],
 	"nflplus": [
 		"2023_NFLPlus_full_season",
-		"NFLPlus_2024"
+		"NFLPlus_2024",
+		"NFL_NFLPlus_2024"
 	],
 	"furyngannou": [
 		"Riyadhseason_Boxing_2023_Hashmoji_duringv1",
@@ -108199,5 +108201,8 @@
 	],
 	"bitgetturns6": [
 		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024"
+	],
+	"kickoff2024": [
+		"NFL_Kickoff_Hashtag_2024"
 	]
 }
