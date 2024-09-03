@@ -79203,7 +79203,8 @@
 		"Shinsei_Financial_Co_Ltd_hashmoji_v3",
 		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji",
 		"ShinseiFinancial_BF-11017_HashmojiBefore",
-		"ShinseiFinancial_BF-11017_HashmojiAfter"
+		"ShinseiFinancial_BF-11017_HashmojiAfter",
+		"BF-11821_lake_official__Custom_Like_before"
 	],
 	"レイアオーガナ": [
 		"DisneyPlus_ObiWan_June_2022_Leia_Japan"
@@ -79223,7 +79224,8 @@
 		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji",
 		"ShinseiFinancial_BF-11017_HashmojiBefore",
 		"ShinseiFinancial_BF-11017_HashmojiDuring",
-		"ShinseiFinancial_BF-11017_HashmojiAfter"
+		"ShinseiFinancial_BF-11017_HashmojiAfter",
+		"BF-11821_lake_official__Custom_Like_before"
 	],
 	"レイザークレスト": [
 		"Disney_Mandalorian_S2_RazorCrest"
@@ -94817,7 +94819,8 @@
 		"BF_10197_Shinsei_Financial_Co_Ltd_Hashmoji",
 		"ShinseiFinancial_BF-11017_HashmojiBefore",
 		"ShinseiFinancial_BF-11017_HashmojiDuring",
-		"ShinseiFinancial_BF-11017_HashmojiAfter"
+		"ShinseiFinancial_BF-11017_HashmojiAfter",
+		"BF-11821_lake_official__Custom_Like_before"
 	],
 	"千鳥のレイクシアター": [
 		"Shinsei_Financial_Co_Ltd_2023_before",
@@ -108225,5 +108228,11 @@
 	],
 	"เปลี่ยนมาช้อปลาซาด้า99xbus": [
 		"BF-11872_LazadaTHD9_BrandingCampaign_Hashmoji2024"
+	],
+	"エクササイズにレイク": [
+		"BF-11821_lake_official__Custom_Like_before"
+	],
+	"筋トレにもレイク": [
+		"BF-11821_lake_official__Custom_Like_before"
 	]
 }
