@@ -79225,7 +79225,8 @@
 		"ShinseiFinancial_BF-11017_HashmojiBefore",
 		"ShinseiFinancial_BF-11017_HashmojiDuring",
 		"ShinseiFinancial_BF-11017_HashmojiAfter",
-		"BF-11821_lake_official__Custom_Like_before"
+		"BF-11821_lake_official__Custom_Like_before",
+		"BF-11821_lake_official__Custom_Like_during"
 	],
 	"レイザークレスト": [
 		"Disney_Mandalorian_S2_RazorCrest"
@@ -94820,7 +94821,8 @@
 		"ShinseiFinancial_BF-11017_HashmojiBefore",
 		"ShinseiFinancial_BF-11017_HashmojiDuring",
 		"ShinseiFinancial_BF-11017_HashmojiAfter",
-		"BF-11821_lake_official__Custom_Like_before"
+		"BF-11821_lake_official__Custom_Like_before",
+		"BF-11821_lake_official__Custom_Like_during"
 	],
 	"千鳥のレイクシアター": [
 		"Shinsei_Financial_Co_Ltd_2023_before",
@@ -108230,9 +108232,11 @@
 		"BF-11872_LazadaTHD9_BrandingCampaign_Hashmoji2024"
 	],
 	"エクササイズにレイク": [
-		"BF-11821_lake_official__Custom_Like_before"
+		"BF-11821_lake_official__Custom_Like_before",
+		"BF-11821_lake_official__Custom_Like_during"
 	],
 	"筋トレにもレイク": [
-		"BF-11821_lake_official__Custom_Like_before"
+		"BF-11821_lake_official__Custom_Like_before",
+		"BF-11821_lake_official__Custom_Like_during"
 	]
 }
