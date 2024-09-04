@@ -2755,7 +2755,8 @@
 	"amas": [
 		"AMAs2021",
 		"AMAs2020",
-		"American_Music_Awards_2022"
+		"American_Music_Awards_2022",
+		"American_Music_Awards_2024"
 	],
 	"amas2020": [
 		"AMAs2020"
@@ -108000,7 +108001,8 @@
 		"BF-11738_Honor_IFA_Hashmoji2024",
 		"BF-11738_Honor_IFA_Hashmoji2024_beforeCL",
 		"BF-11738_Honor_IFA_Hashmoji2024_duringCL",
-		"BF-11738_Honor_IFA_Hashmoji2024_afterCL"
+		"BF-11738_Honor_IFA_Hashmoji2024_afterCL",
+		"BF-11738_Honor_IFA_Hashmoji2024_during_Hashfetti"
 	],
 	"honormagicv3": [
 		"BF-11738_Honor_IFA_Hashmoji2024",
@@ -108011,7 +108013,8 @@
 		"BF-11738_Honor_IFA_Hashmoji2024",
 		"BF-11738_Honor_IFA_Hashmoji2024_beforeCL",
 		"BF-11738_Honor_IFA_Hashmoji2024_duringCL",
-		"BF-11738_Honor_IFA_Hashmoji2024_afterCL"
+		"BF-11738_Honor_IFA_Hashmoji2024_afterCL",
+		"BF-11738_Honor_IFA_Hashmoji2024_during_Hashfetti"
 	],
 	"sabrina": [
 		"SabrinaCSnS"
@@ -108253,5 +108256,8 @@
 	],
 	"switchtolazada": [
 		"2024_LazadaPH_D9_Branding_Campaign_BF-11831"
+	],
+	"amas50": [
+		"American_Music_Awards_2024"
 	]
 }
