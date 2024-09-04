@@ -6993,7 +6993,8 @@
 		"OrionBillTed_2020"
 	],
 	"billboard": [
-		"Billboard_Women_In_Music_2022"
+		"Billboard_Women_In_Music_2022",
+		"Billboard_Latin_Music_Week_2024"
 	],
 	"billboardespanol": [
 		"Billboard_Latin_Music_Week_Jul_2022"
@@ -7005,12 +7006,14 @@
 		"BillboardHotTrending_2021"
 	],
 	"billboardlatin": [
-		"Billboard_Latin_Music_Week_Jul_2022"
+		"Billboard_Latin_Music_Week_Jul_2022",
+		"Billboard_Latin_Music_Week_2024"
 	],
 	"billboardlatinweek": [
 		"BillboardLatinWeek_2021",
 		"Billboard_Latin_Music_Week_Jul_2022",
-		"Billboard_Latin_Music_Week_US"
+		"Billboard_Latin_Music_Week_US",
+		"Billboard_Latin_Music_Week_2024"
 	],
 	"billboardmusicawards": [
 		"BBMA_2020_Flight2",
