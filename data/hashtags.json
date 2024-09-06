@@ -39465,7 +39465,8 @@
 	"nascarplayoffs": [
 		"NASCARPlayoffs_2021",
 		"NASCARPlayoffss2022",
-		"Nascar_Playoffs_2023"
+		"Nascar_Playoffs_2023",
+		"NASCARPlayoffs_2024"
 	],
 	"nasementalnozdravljejevazno": [
 		"MentalHealthMonth_2021",
@@ -108259,5 +108260,14 @@
 	],
 	"amas50": [
 		"American_Music_Awards_2024"
+	],
+	"megjoon": [
+		"MTSNevaPlay"
+	],
+	"megxrm": [
+		"MTSNevaPlay"
+	],
+	"nevaplay": [
+		"MTSNevaPlay"
 	]
 }
