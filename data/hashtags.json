@@ -108004,19 +108004,22 @@
 		"BF-11738_Honor_IFA_Hashmoji2024_beforeCL",
 		"BF-11738_Honor_IFA_Hashmoji2024_duringCL",
 		"BF-11738_Honor_IFA_Hashmoji2024_afterCL",
-		"BF-11738_Honor_IFA_Hashmoji2024_during_Hashfetti"
+		"BF-11738_Honor_IFA_Hashmoji2024_during_Hashfetti",
+		"BF-11738_Honor_IFA_Hashmoji2024_after_Hashfetti"
 	],
 	"honormagicv3": [
 		"BF-11738_Honor_IFA_Hashmoji2024",
 		"BF-11738_Honor_IFA_Hashmoji2024_beforeCL",
-		"BF-11738_Honor_IFA_Hashmoji2024_afterCL"
+		"BF-11738_Honor_IFA_Hashmoji2024_afterCL",
+		"BF-11738_Honor_IFA_Hashmoji2024_after_Hashfetti"
 	],
 	"unfoldyourmagic": [
 		"BF-11738_Honor_IFA_Hashmoji2024",
 		"BF-11738_Honor_IFA_Hashmoji2024_beforeCL",
 		"BF-11738_Honor_IFA_Hashmoji2024_duringCL",
 		"BF-11738_Honor_IFA_Hashmoji2024_afterCL",
-		"BF-11738_Honor_IFA_Hashmoji2024_during_Hashfetti"
+		"BF-11738_Honor_IFA_Hashmoji2024_during_Hashfetti",
+		"BF-11738_Honor_IFA_Hashmoji2024_after_Hashfetti"
 	],
 	"sabrina": [
 		"SabrinaCSnS"
