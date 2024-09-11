@@ -100848,7 +100848,8 @@
 	],
 	"aeroméxico": [
 		"Aeromexico_Rebranding_Hashmoji_2023",
-		"BF_11905_Hashmoji_Only_Aeromexico_90anos"
+		"BF_11905_Hashmoji_Only_Aeromexico_90anos",
+		"BF_11905_Hashmoji_Only_After_Aeromexico_90anos"
 	],
 	"estarcercallegarlejos": [
 		"Aeromexico_Rebranding_Hashmoji_2023"
@@ -108319,13 +108320,16 @@
 		"BF-11893_RedSea_Hashmoji2024"
 	],
 	"aeromexico90años": [
-		"BF_11905_Hashmoji_Only_Aeromexico_90anos"
+		"BF_11905_Hashmoji_Only_Aeromexico_90anos",
+		"BF_11905_Hashmoji_Only_After_Aeromexico_90anos"
 	],
 	"aeromexicoconnect": [
-		"BF_11905_Hashmoji_Only_Aeromexico_90anos"
+		"BF_11905_Hashmoji_Only_Aeromexico_90anos",
+		"BF_11905_Hashmoji_Only_After_Aeromexico_90anos"
 	],
 	"llevandoméxicoalmundo": [
-		"BF_11905_Hashmoji_Only_Aeromexico_90anos"
+		"BF_11905_Hashmoji_Only_Aeromexico_90anos",
+		"BF_11905_Hashmoji_Only_After_Aeromexico_90anos"
 	],
 	"schickfirsttokyo": [
 		"BF-11868_Schick_Hashmoji2024_V2"
@@ -108356,5 +108360,8 @@
 	],
 	"لصناعة_غد_أفضل": [
 		"BF-11901_AlatTechIce_Hashmoji2024"
+	],
+	"aeroméxico90años": [
+		"BF_11905_Hashmoji_Only_After_Aeromexico_90anos"
 	]
 }
