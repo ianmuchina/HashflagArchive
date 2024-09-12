@@ -16162,7 +16162,8 @@
 		"Salesforce_Dreamforce_Q3_Aug_2022",
 		"Dreamforce_2023_Before",
 		"Dreamforce_2023_During",
-		"Dreamforce_2023_After"
+		"Dreamforce_2023_After",
+		"BF-12049_Dreamforce_HashmojiBefore"
 	],
 	"dreamforce20": [
 		"Dreamforce2020"
@@ -108387,5 +108388,17 @@
 	],
 	"youalldeserveeachother": [
 		"Spiritbox_Music_Hashmoji_2024"
+	],
+	"df2024": [
+		"BF-12049_Dreamforce_HashmojiBefore"
+	],
+	"df24": [
+		"BF-12049_Dreamforce_HashmojiBefore"
+	],
+	"dreamforce2024": [
+		"BF-12049_Dreamforce_HashmojiBefore"
+	],
+	"dreamforce24": [
+		"BF-12049_Dreamforce_HashmojiBefore"
 	]
 }
