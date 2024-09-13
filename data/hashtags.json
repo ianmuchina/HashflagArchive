@@ -3770,7 +3770,8 @@
 		"Sony_PlayStation_God_of_War_2_Oct_2022_translations"
 	],
 	"arcane": [
-		"Netflix_Arcane_2021_Launch_NEW_1"
+		"Netflix_Arcane_2021_Launch_NEW_1",
+		"ArcaneS2"
 	],
 	"arcaneiçintoplandık": [
 		"Netflix_Arcane_2021_Launch_NEW_1"
@@ -108425,5 +108426,11 @@
 	],
 	"surgamakananpilihanmaliq": [
 		"BF-11929_GoFood_Hashmoji2024"
+	],
+	"arcaneseason2": [
+		"ArcaneS2"
+	],
+	"paintthetownblue": [
+		"ArcaneS2"
 	]
 }
