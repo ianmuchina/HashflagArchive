@@ -66881,7 +66881,8 @@
 		"XiaomiHyperCharge_SG_2021"
 	],
 	"xiaomilaunch": [
-		"Xiaomi_L12_Launch_Sept_2022_v3"
+		"Xiaomi_L12_Launch_Sept_2022_v3",
+		"BF-12035_Xiaomi14T_Hashmoji"
 	],
 	"xingqiu": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Xingqiu"
@@ -108452,5 +108453,14 @@
 	],
 	"xtina": [
 		"Xtina_25th_Anniversary_Music"
+	],
+	"xiaomi14tpro": [
+		"BF-12035_Xiaomi14T_Hashmoji"
+	],
+	"xiaomi14tseries": [
+		"BF-12035_Xiaomi14T_Hashmoji"
+	],
+	"xiaomimixflip": [
+		"BF-12035_Xiaomi14T_Hashmoji"
 	]
 }
