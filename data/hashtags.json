@@ -16165,7 +16165,8 @@
 		"Dreamforce_2023_Before",
 		"Dreamforce_2023_During",
 		"Dreamforce_2023_After",
-		"BF-12049_Dreamforce_HashmojiBefore"
+		"BF-12049_Dreamforce_HashmojiBefore",
+		"BF-12049_Dreamforce_HashmojiDuring"
 	],
 	"dreamforce20": [
 		"Dreamforce2020"
@@ -108406,16 +108407,19 @@
 		"Spiritbox_Music_Hashmoji_2024"
 	],
 	"df2024": [
-		"BF-12049_Dreamforce_HashmojiBefore"
+		"BF-12049_Dreamforce_HashmojiBefore",
+		"BF-12049_Dreamforce_HashmojiDuring"
 	],
 	"df24": [
 		"BF-12049_Dreamforce_HashmojiBefore"
 	],
 	"dreamforce2024": [
-		"BF-12049_Dreamforce_HashmojiBefore"
+		"BF-12049_Dreamforce_HashmojiBefore",
+		"BF-12049_Dreamforce_HashmojiDuring"
 	],
 	"dreamforce24": [
-		"BF-12049_Dreamforce_HashmojiBefore"
+		"BF-12049_Dreamforce_HashmojiBefore",
+		"BF-12049_Dreamforce_HashmojiDuring"
 	],
 	"arishimastar": [
 		"BF-11804_NetEase_RacingMaster_2024Hashmoji2"
