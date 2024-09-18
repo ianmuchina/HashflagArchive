@@ -1836,13 +1836,15 @@
 		"DisneyWandavision_Agnes_2021_2000s_add",
 		"DisneyWandavision_Agnes_2021_March",
 		"DisneyWandavision_Agnes_2021_2000s_add_v2",
-		"DisneyWandavision_Agnes_2021_2000s_ext"
+		"DisneyWandavision_Agnes_2021_2000s_ext",
+		"DisneyPlus_AgathaAllAlong_2024"
 	],
 	"agathaharkness": [
 		"DisneyWandavision_Agnes_2021_2000s_add",
 		"DisneyWandavision_Agnes_2021_March",
 		"DisneyWandavision_Agnes_2021_2000s_add_v2",
-		"DisneyWandavision_Agnes_2021_2000s_ext"
+		"DisneyWandavision_Agnes_2021_2000s_ext",
+		"DisneyPlus_AgathaAllAlong_2024"
 	],
 	"agbaby": [
 		"AdekunleGold_2020",
@@ -108501,5 +108503,11 @@
 	],
 	"megalopolismovie": [
 		"Lionsgate_Megalopolis_2024"
+	],
+	"agatha": [
+		"DisneyPlus_AgathaAllAlong_2024"
+	],
+	"agnesofwestview": [
+		"DisneyPlus_AgathaAllAlong_2024"
 	]
 }
