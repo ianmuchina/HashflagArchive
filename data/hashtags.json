@@ -108469,10 +108469,12 @@
 		"Xtina_25th_Anniversary_Music"
 	],
 	"xiaomi14tpro": [
-		"BF-12035_Xiaomi14T_Hashmoji"
+		"BF-12035_Xiaomi14T_Hashmoji",
+		"BF-12035_Xiaomi14T_Hashmoji_v2_before"
 	],
 	"xiaomi14tseries": [
-		"BF-12035_Xiaomi14T_Hashmoji"
+		"BF-12035_Xiaomi14T_Hashmoji",
+		"BF-12035_Xiaomi14T_Hashmoji_v2_before"
 	],
 	"xiaomimixflip": [
 		"BF-12035_Xiaomi14T_Hashmoji"
@@ -108512,5 +108514,8 @@
 	],
 	"neverletgomovie": [
 		"Lionsgate_NeverLetGo_GLOBAL"
+	],
+	"xiaomi14t": [
+		"BF-12035_Xiaomi14T_Hashmoji_v2_before"
 	]
 }
