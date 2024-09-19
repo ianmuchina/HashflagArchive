@@ -69527,7 +69527,8 @@
 	"اليوم_الوطني_السعودي": [
 		"SaudiNationalDay2021",
 		"Saudi_NationalDay_2020",
-		"SND_Sept_2012"
+		"SND_Sept_2012",
+		"BF-12102_SND2024_OrganicHashmojiMENA"
 	],
 	"اليوم_الوطني_السعودي90": [
 		"Saudi_NationalDay_2020"
@@ -108522,5 +108523,26 @@
 	],
 	"xiaomi14t": [
 		"BF-12035_Xiaomi14T_Hashmoji_v2_before"
+	],
+	"saudinationalday2024": [
+		"BF-12102_SND2024_OrganicHashmojiMENA"
+	],
+	"saudinationalday94": [
+		"BF-12102_SND2024_OrganicHashmojiMENA"
+	],
+	"اليوم_الوطني_94": [
+		"BF-12102_SND2024_OrganicHashmojiMENA"
+	],
+	"اليوم_الوطني_السعودي94": [
+		"BF-12102_SND2024_OrganicHashmojiMENA"
+	],
+	"اليوم_الوطني_السعودي_2024": [
+		"BF-12102_SND2024_OrganicHashmojiMENA"
+	],
+	"اليوم_الوطني_السعودي_94": [
+		"BF-12102_SND2024_OrganicHashmojiMENA"
+	],
+	"نحلم_ونحقق": [
+		"BF-12102_SND2024_OrganicHashmojiMENA"
 	]
 }
