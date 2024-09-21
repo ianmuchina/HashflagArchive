@@ -108465,7 +108465,8 @@
 		"ArcaneS2"
 	],
 	"من_ثراها": [
-		"BF-12004_Aramco_SND2024_HashmojiBefore"
+		"BF-12004_Aramco_SND2024_HashmojiBefore",
+		"BF-12004_Aramco_SND2024_HashmojiAfter"
 	],
 	"وطن_عامر_ودايم": [
 		"BF_11915_Sabic_Homeland_Hashmoji_24_"
@@ -108606,5 +108607,8 @@
 	],
 	"極悪女王": [
 		"BF-11687_NetflixJP_Gokuaku_Hashmoji2024"
+	],
+	"عهد_ومجد": [
+		"BF_12060_MOC_2024_SND_Hashmoji"
 	]
 }
