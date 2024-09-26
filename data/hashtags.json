@@ -108502,11 +108502,13 @@
 	"xiaomi14tpro": [
 		"BF-12035_Xiaomi14T_Hashmoji",
 		"BF-12035_Xiaomi14T_Hashmoji_v2_before",
-		"BF-12035_Xiaomi14T_Hashmoji_During"
+		"BF-12035_Xiaomi14T_Hashmoji_During",
+		"BF-12035_Xiaomi14T_Hashmoji_After"
 	],
 	"xiaomi14tseries": [
 		"BF-12035_Xiaomi14T_Hashmoji",
-		"BF-12035_Xiaomi14T_Hashmoji_v2_before"
+		"BF-12035_Xiaomi14T_Hashmoji_v2_before",
+		"BF-12035_Xiaomi14T_Hashmoji_After"
 	],
 	"xiaomimixflip": [
 		"BF-12035_Xiaomi14T_Hashmoji"
@@ -108551,7 +108553,8 @@
 	],
 	"xiaomi14t": [
 		"BF-12035_Xiaomi14T_Hashmoji_v2_before",
-		"BF-12035_Xiaomi14T_Hashmoji_During"
+		"BF-12035_Xiaomi14T_Hashmoji_During",
+		"BF-12035_Xiaomi14T_Hashmoji_After"
 	],
 	"saudinationalday2024": [
 		"BF-12102_SND2024_OrganicHashmojiMENA"
