@@ -48186,7 +48186,8 @@
 	],
 	"redoctober": [
 		"MLB_Postseason_PHI_2022",
-		"MLB_2023_Phillies_Playoffs"
+		"MLB_2023_Phillies_Playoffs",
+		"MLB_Phillies_2024_Postseason_Philadelphia"
 	],
 	"redpandameiturningred": [
 		"Disney_Turning_Red_Red_Panda_Mei_Shocked_2022"
@@ -108715,5 +108716,14 @@
 	],
 	"elultimobaile": [
 		"Trueno_Album_2024"
+	],
+	"fightforthefaithful": [
+		"Padres_MLB_Postseason_2024"
+	],
+	"guardsball": [
+		"Clev_Guardians_MLB_2024_Postseason"
+	],
+	"metswin": [
+		"Mets_Playoffs_2024_Postseason_MLB"
 	]
 }
