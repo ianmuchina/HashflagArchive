@@ -19972,7 +19972,8 @@
 		"NHL_Playoff_Extension_Anaheim",
 		"NHL_AnaheimDucks_2023",
 		"NHL_NewAnaheimDucks_2023",
-		"NHL2425_AnaheimDucks"
+		"NHL2425_AnaheimDucks",
+		"NHL2425_AnaheimDucks2"
 	],
 	"flywin": [
 		"LCS_FLY_2022",
@@ -45929,7 +45930,8 @@
 		"MLB_Teams_2020_PS",
 		"MLBPostseason2021",
 		"MLB_Postseason_Postseason_2022",
-		"MLB_2023_Postseason_Playoffs"
+		"MLB_2023_Postseason_Playoffs",
+		"MLB_Postseason_2024"
 	],
 	"posty": [
 		"PostMalone2022"
@@ -51395,7 +51397,8 @@
 		"MLB_Teams_2020_PS_WS_trophy",
 		"MLB_Teams_2020_PS_WS",
 		"MLB_Postseason_WorldSeries_2022_add",
-		"MLB_2023_WorldSeries_Playoffs"
+		"MLB_2023_WorldSeries_Playoffs",
+		"MLB_World_Series_2024_"
 	],
 	"seriess": [
 		"Xbox_FAWS_2_2021",
@@ -66372,7 +66375,8 @@
 		"WorldSeriesMLBPostseason2021",
 		"MLB_Teams_2020_PS_WS",
 		"MLB_Postseason_WorldSeries_2022",
-		"MLB_2023_WorldSeries_Playoffs"
+		"MLB_2023_WorldSeries_Playoffs",
+		"MLB_World_Series_2024_"
 	],
 	"worldseriesofpoker": [
 		"WSOPMainEvent_2021_extend",
@@ -108765,5 +108769,8 @@
 	],
 	"utahhc": [
 		"NHL2425_UtahHC"
+	],
+	"digdeepatl": [
+		"Atlanta_Braves_2024_MLB_Postseason"
 	]
 }
