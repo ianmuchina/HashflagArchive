@@ -42306,7 +42306,8 @@
 		"BF-10208_Oneplus_India_hashmoji_before_v2",
 		"BF-10208_Oneplus_India_hashmoji_before_v3",
 		"BF-10208_Oneplus_India_hashmoji_after_v3",
-		"BF-12184_One_Plus_India_Pre_Diwali_2024_during"
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_during",
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_after"
 	],
 	"oneplus10pro": [
 		"OnePlus_Negroni_Launch_Mar_2022"
@@ -107800,7 +107801,8 @@
 	],
 	"neversettle": [
 		"BF-11632_OnePlusNord4_July24_HashmojiAfter_v2",
-		"BF-12184_One_Plus_India_Pre_Diwali_2024_during"
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_during",
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_after"
 	],
 	"alertemedaille": [
 		"BF-11717_AlerteMedaille_Antoine_Griezmann",
@@ -108542,7 +108544,8 @@
 		"ArcaneS2"
 	],
 	"paintthetownblue": [
-		"ArcaneS2"
+		"ArcaneS2",
+		"ArcaneS2Records"
 	],
 	"من_ثراها": [
 		"BF-12004_Aramco_SND2024_HashmojiBefore",
@@ -108862,9 +108865,14 @@
 		"BF-12195_MOJKSA_Hashmoji_2024"
 	],
 	"11yearsofoneplus": [
-		"BF-12184_One_Plus_India_Pre_Diwali_2024_during"
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_during",
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_after"
 	],
 	"onecommunitysale": [
-		"BF-12184_One_Plus_India_Pre_Diwali_2024_during"
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_during",
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_after"
+	],
+	"makeitspecial": [
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_after"
 	]
 }
