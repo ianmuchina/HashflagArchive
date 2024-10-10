@@ -107110,7 +107110,8 @@
 	],
 	"tenxmaybelline": [
 		"BF-11387_LOreal_Maybelline_TH_hashmoji_before",
-		"BF-11387_LOreal_Maybelline_TH_hashmoji_after"
+		"BF-11387_LOreal_Maybelline_TH_hashmoji_after",
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during"
 	],
 	"รองพื้นฟิตมี": [
 		"BF-11387_LOreal_Maybelline_TH_hashmoji_before",
@@ -108902,5 +108903,14 @@
 	],
 	"mantra": [
 		"JENNIE_Mantra_2024"
+	],
+	"tenxfireworkevent": [
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during"
+	],
+	"tenxfireworkmascara": [
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during"
+	],
+	"มาสคาร่าขนตาพลุ": [
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during"
 	]
 }
