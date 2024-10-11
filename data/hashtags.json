@@ -107111,7 +107111,8 @@
 	"tenxmaybelline": [
 		"BF-11387_LOreal_Maybelline_TH_hashmoji_before",
 		"BF-11387_LOreal_Maybelline_TH_hashmoji_after",
-		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during"
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during",
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji"
 	],
 	"รองพื้นฟิตมี": [
 		"BF-11387_LOreal_Maybelline_TH_hashmoji_before",
@@ -108909,13 +108910,16 @@
 		"JENNIE_Mantra_2024"
 	],
 	"tenxfireworkevent": [
-		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during"
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during",
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji"
 	],
 	"tenxfireworkmascara": [
-		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during"
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during",
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji"
 	],
 	"มาสคาร่าขนตาพลุ": [
-		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during"
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji_during",
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji"
 	],
 	"biban24": [
 		"BF-12245_Biban_Q4_HashmojiBefore2"
@@ -108943,5 +108947,23 @@
 	],
 	"地動説": [
 		"BF-12161_ABEMA_18ce549twrx_Hashmoji_20241012-20250110_Chi_2024"
+	],
+	"goldenhourstogetherwithpeck": [
+		"BF-12124_MOONDANCE_PeckPaLit_Hashmoji2024"
+	],
+	"moondance": [
+		"BF-12124_MOONDANCE_PeckPaLit_Hashmoji2024"
+	],
+	"moondancexpeckpalit": [
+		"BF-12124_MOONDANCE_PeckPaLit_Hashmoji2024"
+	],
+	"tenxfirework": [
+		"BF-12176_Maybelline_TH_Firework_Mascara_Hashmoji"
+	],
+	"กันแดดพี่เป๊ก": [
+		"BF-12124_MOONDANCE_PeckPaLit_Hashmoji2024"
+	],
+	"ทั้งวันของเป๊กต้องsunsure": [
+		"BF-12124_MOONDANCE_PeckPaLit_Hashmoji2024"
 	]
 }
