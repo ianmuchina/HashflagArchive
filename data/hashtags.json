@@ -3780,7 +3780,8 @@
 	],
 	"arcane": [
 		"Netflix_Arcane_2021_Launch_NEW_1",
-		"ArcaneS2"
+		"ArcaneS2",
+		"ArcaneS2V3"
 	],
 	"arcaneiçintoplandık": [
 		"Netflix_Arcane_2021_Launch_NEW_1"
@@ -108552,11 +108553,13 @@
 		"BF-11929_GoFood_Hashmoji2024"
 	],
 	"arcaneseason2": [
-		"ArcaneS2"
+		"ArcaneS2",
+		"ArcaneS2V3"
 	],
 	"paintthetownblue": [
 		"ArcaneS2",
-		"ArcaneS2Records"
+		"ArcaneS2Records",
+		"ArcaneS2V3"
 	],
 	"من_ثراها": [
 		"BF-12004_Aramco_SND2024_HashmojiBefore",
@@ -108970,5 +108973,8 @@
 	],
 	"ทั้งวันของเป๊กต้องsunsure": [
 		"BF-12124_MOONDANCE_PeckPaLit_Hashmoji2024"
+	],
+	"bizzysbets": [
+		"BF-12247_Adding_BizzysBets_toExisting_DraftKings_Hashmoji2024"
 	]
 }
