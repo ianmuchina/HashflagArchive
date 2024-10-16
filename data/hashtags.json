@@ -105621,7 +105621,8 @@
 		"BF-10785_Aplus_sfd_jpbrandedemoji"
 	],
 	"robinhood": [
-		"BF-10766_Robinhood_GoldEventLaunch_Q12024"
+		"BF-10766_Robinhood_GoldEventLaunch_Q12024",
+		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024"
 	],
 	"archeron": [
 		"BF-10788_miHoYo_Archeron_March_2024"
@@ -108999,5 +109000,11 @@
 	],
 	"nycc": [
 		"NYCC2024Emoji"
+	],
+	"hoodsummit": [
+		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024"
+	],
+	"robinhoodpresents": [
+		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024"
 	]
 }
