@@ -104078,7 +104078,8 @@
 	"bankbca": [
 		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_during",
 		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_after",
-		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_during"
+		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_during",
+		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_after"
 	],
 	"indrowarkop": [
 		"BF-9928_BCA_Awas_Modus_Dec2023_hashmoji_during",
@@ -109029,15 +109030,21 @@
 		"DisneyPlus_AgathaAllAlong_2024_WEEK5_R1"
 	],
 	"bca": [
-		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_during"
+		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_during",
+		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_after"
 	],
 	"menangdengancinta": [
-		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_during"
+		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_during",
+		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_after"
 	],
 	"terusmenang": [
-		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_during"
+		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_during",
+		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_after"
 	],
 	"thegreatimpersonator": [
 		"Halsey_Albumrelease_2024"
+	],
+	"gebyarhadiahbca": [
+		"BF-12211_Gebyar_Hadiah_BCA_2024_Hashmoji_after"
 	]
 }
