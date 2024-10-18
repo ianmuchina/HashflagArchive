@@ -108735,16 +108735,20 @@
 		"BF-12037_Fashion_SS25"
 	],
 	"bogbodies": [
-		"RumoursHashmojiBefore_BF-11996"
+		"RumoursHashmojiBefore_BF-11996",
+		"RumoursHashmojiDuring_BF-11996"
 	],
 	"g7summit": [
-		"RumoursHashmojiBefore_BF-11996"
+		"RumoursHashmojiBefore_BF-11996",
+		"RumoursHashmojiDuring_BF-11996"
 	],
 	"giantbrain": [
-		"RumoursHashmojiBefore_BF-11996"
+		"RumoursHashmojiBefore_BF-11996",
+		"RumoursHashmojiDuring_BF-11996"
 	],
 	"rumoursfilm": [
-		"RumoursHashmojiBefore_BF-11996"
+		"RumoursHashmojiBefore_BF-11996",
+		"RumoursHashmojiDuring_BF-11996"
 	],
 	"rumoursmovie": [
 		"RumoursHashmojiBefore_BF-11996"
