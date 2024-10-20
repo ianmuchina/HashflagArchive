@@ -18662,7 +18662,8 @@
 	],
 	"f1esta": [
 		"MexicoGP_2021_F1ESTA",
-		"Mexicos_Grand_Prix_F1ESTA_Sept_2022"
+		"Mexicos_Grand_Prix_F1ESTA_Sept_2022",
+		"F1MexicoF1estaEmoji2024"
 	],
 	"f1estaofficer": [
 		"MexicoGP_2021_F1estaOfficer"
@@ -35841,7 +35842,8 @@
 		"NintendoMario_GB_2021"
 	],
 	"marioachi": [
-		"Mexicos_Grand_Prix_MarioAchi_Sept_2022"
+		"Mexicos_Grand_Prix_MarioAchi_Sept_2022",
+		"F1MexicoMarioachiEmoji2024"
 	],
 	"mariobrosmovie": [
 		"Mario_Movie_2022",
@@ -37074,7 +37076,8 @@
 	"mexicogp": [
 		"MexicoGP_2021",
 		"Mexicos_Grand_Prix_MexicoGP_Sept_2022",
-		"BF-9254_Formula1_MexicoGP"
+		"BF-9254_Formula1_MexicoGP",
+		"F1MexicoGPEmoji2024"
 	],
 	"mexicogp60": [
 		"Mexicos_Grand_Prix_MexicoGP60_Sept_2022"
@@ -42799,7 +42802,8 @@
 	],
 	"orgu11omexicano": [
 		"MexicoGP_2021_Orgu11oMexicano",
-		"Mexicos_Grand_Prix_Orgu11oMexicano_Sept_2022"
+		"Mexicos_Grand_Prix_Orgu11oMexicano_Sept_2022",
+		"F1MexicoOrgu11oEmoji2024"
 	],
 	"orgulho365": [
 		"Parada_SP_Jun_2022_add2"
@@ -109117,5 +109121,8 @@
 	],
 	"أسبوع_الأزياء_في_الرياض": [
 		"BF-12206_RiyadhFashionWeek_Hashmoji2024"
+	],
+	"vamoscheco": [
+		"F1MexicoVamosChecoEmoji2024"
 	]
 }
