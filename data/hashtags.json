@@ -109129,10 +109129,12 @@
 		"BF-12170_Maquillage_HolidayCampaign_2024"
 	],
 	"i_ll_like_you": [
-		"BF-12205_20241021_illit_official_Hashmoji_during"
+		"BF-12205_20241021_illit_official_Hashmoji_during",
+		"BF-12205_20241021_illit_official_Hashmoji"
 	],
 	"illit": [
-		"BF-12205_20241021_illit_official_Hashmoji_during"
+		"BF-12205_20241021_illit_official_Hashmoji_during",
+		"BF-12205_20241021_illit_official_Hashmoji"
 	],
 	"とろける美膜リップ": [
 		"BF-12170_Maquillage_HolidayCampaign_2024"
@@ -109144,12 +109146,17 @@
 		"BF-12170_Maquillage_HolidayCampaign_2024"
 	],
 	"아일릿": [
-		"BF-12205_20241021_illit_official_Hashmoji_during"
+		"BF-12205_20241021_illit_official_Hashmoji_during",
+		"BF-12205_20241021_illit_official_Hashmoji"
 	],
 	"아일릿_cherish": [
-		"BF-12205_20241021_illit_official_Hashmoji_during"
+		"BF-12205_20241021_illit_official_Hashmoji_during",
+		"BF-12205_20241021_illit_official_Hashmoji"
 	],
 	"bpdaymasskara2024": [
 		"BF-12263_BingoPlus_Masskara_Oct_Hashmoji"
+	],
+	"아일릿_첫컴백_cherish": [
+		"BF-12205_20241021_illit_official_Hashmoji"
 	]
 }
