@@ -41916,7 +41916,8 @@
 		"OKX_Branded_Emoji_Aug_Oct_2023",
 		"BF-9882_OKX_BrandedEmoji_2023",
 		"BF-11031_OKX_Hashmoji",
-		"BF-11660_OKX_Twitter_Branded_Emoji_Hashmoji"
+		"BF-11660_OKX_Twitter_Branded_Emoji_Hashmoji",
+		"BF-12280_OKX_Hashmoji2024"
 	],
 	"okxchain": [
 		"OKC_Campaign_May_2022",
@@ -41958,7 +41959,8 @@
 		"OKX_Branded_Emoji_Aug_Oct_2023",
 		"BF-9882_OKX_BrandedEmoji_2023",
 		"BF-11031_OKX_Hashmoji",
-		"BF-11660_OKX_Twitter_Branded_Emoji_Hashmoji"
+		"BF-11660_OKX_Twitter_Branded_Emoji_Hashmoji",
+		"BF-12280_OKX_Hashmoji2024"
 	],
 	"okxweb3": [
 		"OKX_Follower_Campaign_Nov_2022",
@@ -109158,5 +109160,14 @@
 	],
 	"아일릿_첫컴백_cherish": [
 		"BF-12205_20241021_illit_official_Hashmoji"
+	],
+	"anewalternative": [
+		"BF-12280_OKX_Hashmoji2024"
+	],
+	"okxexplorer": [
+		"BF-12280_OKX_Hashmoji2024"
+	],
+	"onchainanychain": [
+		"BF-12280_OKX_Hashmoji2024"
 	]
 }
