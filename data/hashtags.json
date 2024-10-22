@@ -103060,7 +103060,8 @@
 	],
 	"teamg1": [
 		"BF-9549_ParisGamesWeek_Before_V3",
-		"BF-9549_ParisGamesWeek_After_V3"
+		"BF-9549_ParisGamesWeek_After_V3",
+		"BF-12267_Paris_Games_Week_Game_One4"
 	],
 	"nflfrankfurtgames": [
 		"NFL_Frankfurt_Games23"
@@ -109170,5 +109171,11 @@
 	],
 	"onchainanychain": [
 		"BF-12280_OKX_Hashmoji2024"
+	],
+	"gameone": [
+		"BF-12267_Paris_Games_Week_Game_One4"
+	],
+	"levelone": [
+		"BF-12267_Paris_Games_Week_Game_One4"
 	]
 }
