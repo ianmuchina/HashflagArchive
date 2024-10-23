@@ -1841,7 +1841,8 @@
 		"DisneyPlus_AgathaAllAlong_2024_WEEK2_R1",
 		"DisneyPlus_AgathaAllAlong_2024_WEEK3",
 		"DisneyPlus_AgathaAllAlong_2024_WEEK4_R1",
-		"DisneyPlus_AgathaAllAlong_2024_WEEK5_AgathaAllAlong"
+		"DisneyPlus_AgathaAllAlong_2024_WEEK5_AgathaAllAlong",
+		"DisneyPlus_AgathaAllAlong_2024_WEEK6"
 	],
 	"agathaharkness": [
 		"DisneyWandavision_Agnes_2021_2000s_add",
@@ -1851,7 +1852,8 @@
 		"DisneyPlus_AgathaAllAlong_2024",
 		"DisneyPlus_AgathaAllAlong_2024_WEEK2_R1",
 		"DisneyPlus_AgathaAllAlong_2024_WEEK3",
-		"DisneyPlus_AgathaAllAlong_2024_WEEK4_R1"
+		"DisneyPlus_AgathaAllAlong_2024_WEEK4_R1",
+		"DisneyPlus_AgathaAllAlong_2024_WEEK6"
 	],
 	"agbaby": [
 		"AdekunleGold_2020",
@@ -108671,13 +108673,15 @@
 		"DisneyPlus_AgathaAllAlong_2024",
 		"DisneyPlus_AgathaAllAlong_2024_WEEK2_R1",
 		"DisneyPlus_AgathaAllAlong_2024_WEEK3",
-		"DisneyPlus_AgathaAllAlong_2024_WEEK4_R1"
+		"DisneyPlus_AgathaAllAlong_2024_WEEK4_R1",
+		"DisneyPlus_AgathaAllAlong_2024_WEEK6"
 	],
 	"agnesofwestview": [
 		"DisneyPlus_AgathaAllAlong_2024",
 		"DisneyPlus_AgathaAllAlong_2024_WEEK2_R1",
 		"DisneyPlus_AgathaAllAlong_2024_WEEK3",
-		"DisneyPlus_AgathaAllAlong_2024_WEEK4_R1"
+		"DisneyPlus_AgathaAllAlong_2024_WEEK4_R1",
+		"DisneyPlus_AgathaAllAlong_2024_WEEK6"
 	],
 	"neverletgomovie": [
 		"Lionsgate_NeverLetGo_GLOBAL"
@@ -109195,5 +109199,8 @@
 	],
 	"hivementality": [
 		"CHLHornets_NBA_2425"
+	],
+	"agathaallalongbash": [
+		"DisneyPlus_AgathaAllAlong_2024_WEEK6"
 	]
 }
