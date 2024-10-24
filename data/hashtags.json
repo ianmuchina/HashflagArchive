@@ -36555,7 +36555,8 @@
 		"Meg_Thee_Stallion_Aug_2022",
 		"MTSCobra",
 		"MeganTheeStallionBOA_Music",
-		"MeganTheeStallion_NewAlbum"
+		"MeganTheeStallion_NewAlbum",
+		"MeganTheeStallion_MEGANACTII"
 	],
 	"megantheestallionamas": [
 		"AMAsArtist_2021_BTSMeganTheeStallion"
@@ -107230,7 +107231,8 @@
 		"BF-11421_PedidosYa_AR_CopaAmerica24_After2"
 	],
 	"megan": [
-		"MeganTheeStallion_NewAlbum"
+		"MeganTheeStallion_NewAlbum",
+		"MeganTheeStallion_MEGANACTII"
 	],
 	"megantheealbum": [
 		"MeganTheeStallion_NewAlbum"
@@ -109205,5 +109207,8 @@
 	],
 	"agathaallalongbash": [
 		"DisneyPlus_AgathaAllAlong_2024_WEEK6"
+	],
+	"meganactii": [
+		"MeganTheeStallion_MEGANACTII"
 	]
 }
