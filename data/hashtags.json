@@ -24134,7 +24134,8 @@
 		"Halloween_US_2021_2",
 		"Halloween_2020",
 		"f6d52c6b7d534ddbb8d30082138de02e20adb18c",
-		"Halloween_Custom_Like_2023"
+		"Halloween_Custom_Like_2023",
+		"HalloweenIcons_Announcement_2024_extension"
 	],
 	"halloween20": [
 		"Halloween_2020"
@@ -24482,7 +24483,8 @@
 	],
 	"happyhalloween": [
 		"Halloween_2020",
-		"Halloween_Custom_Like_2023"
+		"Halloween_Custom_Like_2023",
+		"HalloweenIcons_Announcement_2024_extension"
 	],
 	"happyhalloween20": [
 		"Halloween_2020"
@@ -97988,7 +97990,8 @@
 		"xDay2023_MultiversX_Hashmoji"
 	],
 	"liluzivert": [
-		"Atlantic_LilUziVert_PinkAlbum_23"
+		"Atlantic_LilUziVert_PinkAlbum_23",
+		"LilUzi_EA2_Music"
 	],
 	"pinktape": [
 		"Atlantic_LilUziVert_PinkAlbum_23"
@@ -109221,9 +109224,16 @@
 		"MeganTheeStallion_MEGANACTII"
 	],
 	"halloweenicons": [
-		"HalloweenIcons_Announcement_2024"
+		"HalloweenIcons_Announcement_2024",
+		"HalloweenIcons_Announcement_2024_extension"
 	],
 	"uclwithcryptocom": [
 		"BF-12392_Foris_Limited_2024_Q4_Branded_Hashtag_202410"
+	],
+	"eternalatake2": [
+		"LilUzi_EA2_Music"
+	],
+	"welcomehomeuzi": [
+		"LilUzi_EA2_Music"
 	]
 }
