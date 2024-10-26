@@ -40694,7 +40694,8 @@
 	],
 	"nikke": [
 		"NIKKE_japan_Summer_Package_Aug_2022",
-		"Tecent_NIKKE_JP_RAPI_2023_Hahsmoji"
+		"Tecent_NIKKE_JP_RAPI_2023_Hahsmoji",
+		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024"
 	],
 	"nikkeanis": [
 		"NIKKE_japan_Anis_Sept_2022"
@@ -77435,7 +77436,8 @@
 	],
 	"ニケ": [
 		"NIKKE_japan_Marian_Sept_2022",
-		"Tecent_NIKKE_JP_RAPI_2023_Hahsmoji"
+		"Tecent_NIKKE_JP_RAPI_2023_Hahsmoji",
+		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024"
 	],
 	"ニックフューリー": [
 		"MarvelStudios_WhatIF_2021_NickFury_Updated",
@@ -109236,5 +109238,14 @@
 	],
 	"welcomehomeuzi": [
 		"LilUzi_EA2_Music"
+	],
+	"nikke2ndanniversary": [
+		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024"
+	],
+	"ニケシンデレラ": [
+		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024"
+	],
+	"祝nikke2周年生放送": [
+		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024"
 	]
 }
