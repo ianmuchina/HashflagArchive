@@ -7115,7 +7115,8 @@
 		"Binance_Jul_2022",
 		"BF-8523_Binance_202307",
 		"Binance_Q3_Campaign_Emoji_202310",
-		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2"
+		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2",
+		"BF-12395_Binance_Hashfetti_during"
 	],
 	"binancechristmas": [
 		"Binance_Festival_Campaign_Oct_2022_add",
@@ -104795,7 +104796,8 @@
 		"NFL_SB_2024_afterv1"
 	],
 	"binancecampus": [
-		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
+		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401",
+		"BF-12395_Binance_Hashfetti_during"
 	],
 	"binancedragonyear": [
 		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
@@ -109276,5 +109278,8 @@
 	],
 	"تمكين_بلس_سيغنتشر": [
 		"BF-12290_AlBiladBank_Hashmoji2024"
+	],
+	"binanceangels": [
+		"BF-12395_Binance_Hashfetti_during"
 	]
 }
