@@ -24142,7 +24142,8 @@
 		"Halloween_2020",
 		"f6d52c6b7d534ddbb8d30082138de02e20adb18c",
 		"Halloween_Custom_Like_2023",
-		"HalloweenIcons_Announcement_2024_extension"
+		"HalloweenIcons_Announcement_2024_extension",
+		"Halloween_2024_MarketingExtension"
 	],
 	"halloween20": [
 		"Halloween_2020"
@@ -24491,7 +24492,8 @@
 	"happyhalloween": [
 		"Halloween_2020",
 		"Halloween_Custom_Like_2023",
-		"HalloweenIcons_Announcement_2024_extension"
+		"HalloweenIcons_Announcement_2024_extension",
+		"Halloween_2024_MarketingExtension"
 	],
 	"happyhalloween20": [
 		"Halloween_2020"
@@ -109332,5 +109334,8 @@
 	],
 	"what_is_real": [
 		"BF-12386_mnetMAMA_2024"
+	],
+	"paultyson": [
+		"BF-12416_PaulvTyson_HashmojiBefore"
 	]
 }
