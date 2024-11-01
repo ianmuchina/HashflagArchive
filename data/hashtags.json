@@ -58230,7 +58230,8 @@
 		"TheGameAwards2020_H3",
 		"The_Game_Awards_2022",
 		"TheGameAwards2023",
-		"Truth_TheGameAwards_CustomLike"
+		"Truth_TheGameAwards_CustomLike",
+		"TheGameAwards2024Emoji"
 	],
 	"thegameawards2020": [
 		"TheGameAwards2020",
@@ -109337,5 +109338,8 @@
 	],
 	"paultyson": [
 		"BF-12416_PaulvTyson_HashmojiBefore"
+	],
+	"tga2024": [
+		"TheGameAwards2024Emoji"
 	]
 }
