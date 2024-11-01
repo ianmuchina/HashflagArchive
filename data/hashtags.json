@@ -109307,16 +109307,20 @@
 		"BF-12408_Taisho_pharmaceutical_VICKS_Oct24"
 	],
 	"indomiefierychickin": [
-		"BF-12374_IndomieKoreanSeries2024_Hashmoji_during"
+		"BF-12374_IndomieKoreanSeries2024_Hashmoji_during",
+		"BF-12374_IndomieKoreanSeries2024_Hashmoji_after"
 	],
 	"indomiekoreanseries": [
-		"BF-12374_IndomieKoreanSeries2024_Hashmoji_during"
+		"BF-12374_IndomieKoreanSeries2024_Hashmoji_during",
+		"BF-12374_IndomieKoreanSeries2024_Hashmoji_after"
 	],
 	"indomiekrose": [
-		"BF-12374_IndomieKoreanSeries2024_Hashmoji_during"
+		"BF-12374_IndomieKoreanSeries2024_Hashmoji_during",
+		"BF-12374_IndomieKoreanSeries2024_Hashmoji_after"
 	],
 	"indomiespicyramyeon": [
-		"BF-12374_IndomieKoreanSeries2024_Hashmoji_during"
+		"BF-12374_IndomieKoreanSeries2024_Hashmoji_during",
+		"BF-12374_IndomieKoreanSeries2024_Hashmoji_after"
 	],
 	"impaq": [
 		"BF-12433_ImpaQ_Hashmoji2024"
@@ -109353,5 +109357,8 @@
 	],
 	"エイトリ新人主任歓迎": [
 		"BF-12268_18trip_officialAnniversary_Hashmoji2024"
+	],
+	"ohmygooditsindomie": [
+		"BF-12374_IndomieKoreanSeries2024_Hashmoji_after"
 	]
 }
