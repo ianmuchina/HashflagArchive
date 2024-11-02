@@ -103233,10 +103233,12 @@
 		"CFL2024Season_CA"
 	],
 	"gcplayoffs": [
-		"CFL_GreyCup_2023_CA"
+		"CFL_GreyCup_2023_CA",
+		"CFL_Playoffs"
 	],
 	"greycup": [
-		"CFL_GreyCup_2023_CA"
+		"CFL_GreyCup_2023_CA",
+		"Grey_Cup_CFL"
 	],
 	"premiomultishow2023": [
 		"Globo_Premio_Multishow_2023"
@@ -109367,5 +109369,11 @@
 	],
 	"25añosdeexcelencia": [
 		"LatinGrammysHashmoji2024"
+	],
+	"coupegrey": [
+		"Grey_Cup_CFL"
+	],
+	"éliminatoirescg": [
+		"CFL_Playoffs"
 	]
 }
