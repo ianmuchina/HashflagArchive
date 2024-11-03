@@ -105440,7 +105440,8 @@
 	],
 	"hubbl": [
 		"BF-10676_Hubbl_2024_TriggerHashmoji_After",
-		"BF-11832_Hubbl_H1FY25_Hashmoji2024"
+		"BF-11832_Hubbl_H1FY25_Hashmoji2024",
+		"BF-12417_Hubbl_hashmoji"
 	],
 	"im3": [
 		"BF-10655_Indosat_IM3_Ramadan_2024_hashmoji"
@@ -109375,5 +109376,8 @@
 	],
 	"éliminatoirescg": [
 		"CFL_Playoffs"
+	],
+	"hubblaus": [
+		"BF-12417_Hubbl_hashmoji"
 	]
 }
