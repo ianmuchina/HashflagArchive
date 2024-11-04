@@ -108960,7 +108960,8 @@
 		"BF-12061_iriam_official_Hashmoji2024_V2"
 	],
 	"الجزيرة_أمريكا24": [
-		"BF-12168_Aljazeera_Hashmoji2024_v1"
+		"BF-12168_Aljazeera_Hashmoji2024_v1",
+		"BF-12168_Aljazeera_Hashmoji"
 	],
 	"silenthill": [
 		"BF-12090_silenthill_jp_Hashmoji2024"
@@ -109382,5 +109383,11 @@
 	],
 	"magnumthxjackson": [
 		"BF-12335_MagnumThailand_CustomLike_Hashmoji"
+	],
+	"الانتخابات_مع_الشرق": [
+		"BF-12436_Asharq_Hashmoji_2024"
+	],
+	"نضع_النقاط": [
+		"BF-12436_Asharq_Hashmoji_2024"
 	]
 }
