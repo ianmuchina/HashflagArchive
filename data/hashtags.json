@@ -5837,7 +5837,8 @@
 		"Billboard_BBMAs2023_Before",
 		"Billboard_BBMAs2023_Before_V2",
 		"Billboard_BBMAs2023_Hashfetti",
-		"Billboard_BBMAs2023_After"
+		"Billboard_BBMAs2023_After",
+		"Billboard_Music_Awards_2024"
 	],
 	"bbmas20": [
 		"BBMA_2020_Flight2"
@@ -7042,7 +7043,8 @@
 		"Billboard_BBMAs2023_Before",
 		"Billboard_BBMAs2023_Before_V2",
 		"Billboard_BBMAs2023_During",
-		"Billboard_BBMAs2023_After"
+		"Billboard_BBMAs2023_After",
+		"Billboard_Music_Awards_2024"
 	],
 	"billboards2020": [
 		"LatinBillboardAwards2020"
@@ -109412,5 +109414,8 @@
 	],
 	"goformore": [
 		"BF-12434_etisalatAnd_Nov2024_HashmojiBeforeActivationNo2"
+	],
+	"bbmas2024": [
+		"Billboard_Music_Awards_2024"
 	]
 }
