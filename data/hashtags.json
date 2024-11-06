@@ -31976,7 +31976,8 @@
 		"LazadaTH_General_Aug_2022",
 		"LazadaTH_emoji_3",
 		"LazadaTH_2023",
-		"LazadaTH_Emoji_1_2023"
+		"LazadaTH_Emoji_1_2023",
+		"BF-12413_Lazada_D11_Hashmoji"
 	],
 	"lazadath1111": [
 		"LazadaTH1111_2021"
@@ -109428,5 +109429,14 @@
 	],
 	"グレイブ": [
 		"BF-12396_Tencent_NIKKE_japan_2Hashmoji2024"
+	],
+	"lazadaxmoodeng": [
+		"BF-12413_Lazada_D11_Hashmoji"
+	],
+	"lazziexmoodeng": [
+		"BF-12413_Lazada_D11_Hashmoji"
+	],
+	"ลาซาด้าxหมูเด้ง": [
+		"BF-12413_Lazada_D11_Hashmoji"
 	]
 }
