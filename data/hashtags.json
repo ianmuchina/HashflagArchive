@@ -36035,7 +36035,8 @@
 	"masar_destination": [
 		"Masar_Oct_2022",
 		"Masar_Ramadan_Emoji",
-		"BF-10661_Hashmoji-Masar-Ramadan_2024"
+		"BF-10661_Hashmoji-Masar-Ramadan_2024",
+		"BF-12412_Masar-Cityscape_Hashmoji_2024"
 	],
 	"mascaedestrava": [
 		"Trident_BR_2020",
@@ -71127,7 +71128,8 @@
 		"masarMakkah_Apr_2022",
 		"Masar_Oct_2022",
 		"Masar_Ramadan_Emoji",
-		"BF-10661_Hashmoji-Masar-Ramadan_2024"
+		"BF-10661_Hashmoji-Masar-Ramadan_2024",
+		"BF-12412_Masar-Cityscape_Hashmoji_2024"
 	],
 	"ورلڈ_ہیلتھ_ڈے": [
 		"StayHome_2020_ItalianAdd",
@@ -109037,12 +109039,14 @@
 	"biban24": [
 		"BF-12245_Biban_Q4_HashmojiBefore2",
 		"BF-12245_Biban_Q4_HashmojiBefore3",
-		"BF-12245_Biban_Q4_HashmojiDuring"
+		"BF-12245_Biban_Q4_HashmojiDuring",
+		"BF-12245_Biban_Q4_HashmojiDuring2"
 	],
 	"global_destination_for_opportunities": [
 		"BF-12245_Biban_Q4_HashmojiBefore2",
 		"BF-12245_Biban_Q4_HashmojiBefore3",
-		"BF-12245_Biban_Q4_HashmojiDuring"
+		"BF-12245_Biban_Q4_HashmojiDuring",
+		"BF-12245_Biban_Q4_HashmojiDuring2"
 	],
 	"بيبان24": [
 		"BF-12245_Biban_Q4_HashmojiBefore2",
@@ -109051,7 +109055,8 @@
 	"وجهة_عالمية_للفرص": [
 		"BF-12245_Biban_Q4_HashmojiBefore2",
 		"BF-12245_Biban_Q4_HashmojiBefore3",
-		"BF-12245_Biban_Q4_HashmojiDuring"
+		"BF-12245_Biban_Q4_HashmojiDuring",
+		"BF-12245_Biban_Q4_HashmojiDuring2"
 	],
 	"アベマでチ": [
 		"BF-12161_ABEMA_18ce549twrx_Hashmoji_20241012-20250110_Chi_2024"
@@ -109484,5 +109489,8 @@
 	],
 	"見てるで": [
 		"BF-12393_ABEMA_Hashmoji_20241109-20250207_Drama"
+	],
+	"معًا_نرسم_المسار_لمستقبل_مكة": [
+		"BF-12412_Masar-Cityscape_Hashmoji_2024"
 	]
 }
