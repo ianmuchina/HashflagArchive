@@ -107161,7 +107161,8 @@
 	],
 	"esportsworldcup": [
 		"EWC2024Emoji",
-		"EWCWorldCupEmojiV2"
+		"EWCWorldCupEmojiV2",
+		"EsportsWorldCupV3"
 	],
 	"ewc": [
 		"EWC2024Emoji"
@@ -107545,7 +107546,8 @@
 		"BF-11489_Banco_de_Bogota_Colombia_2024"
 	],
 	"كأس_العالم_للرياضات_الإلكترونية": [
-		"EWCWorldCupEmojiV2"
+		"EWCWorldCupEmojiV2",
+		"EsportsWorldCupV3"
 	],
 	"askjohnsummit": [
 		"JohnSummit"
@@ -109364,7 +109366,8 @@
 		"BF-12386_mnetMAMA_2024"
 	],
 	"paultyson": [
-		"BF-12416_PaulvTyson_HashmojiBefore"
+		"BF-12416_PaulvTyson_HashmojiBefore",
+		"BF-12416_PaulvTyson_HashmojiAfter1"
 	],
 	"tga2024": [
 		"TheGameAwards2024Emoji"
@@ -109514,5 +109517,8 @@
 	],
 	"وجهات_nhc": [
 		"BF-12478_NHC_Nov24_HashmojiDuring"
+	],
+	"ewc2025": [
+		"EsportsWorldCupV3"
 	]
 }
