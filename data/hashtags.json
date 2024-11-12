@@ -109508,16 +109508,19 @@
 		"BF-12359_OtsukaPharmaceuticalFactory_Hashmoji2024"
 	],
 	"الوطنية_للاسكان": [
-		"BF-12478_NHC_Nov24_HashmojiDuring"
+		"BF-12478_NHC_Nov24_HashmojiDuring",
+		"BF-12478_NHC_Nov24_HashmojiAfter"
 	],
 	"حياةـنبنيها": [
 		"BF-12478_NHC_Nov24_HashmojiAdd"
 	],
 	"خزام": [
-		"BF-12478_NHC_Nov24_HashmojiDuring"
+		"BF-12478_NHC_Nov24_HashmojiDuring",
+		"BF-12478_NHC_Nov24_HashmojiAfter"
 	],
 	"وجهات_nhc": [
-		"BF-12478_NHC_Nov24_HashmojiDuring"
+		"BF-12478_NHC_Nov24_HashmojiDuring",
+		"BF-12478_NHC_Nov24_HashmojiAfter"
 	],
 	"ewc2025": [
 		"EsportsWorldCupV3"
@@ -109536,5 +109539,8 @@
 	],
 	"さよならのつづき診断": [
 		"BF-12307_NetflixJP_18ce54ua4fy_Hashmoji_20241114-20250211_Sayotsuzu"
+	],
+	"nhc": [
+		"BF-12478_NHC_Nov24_HashmojiAfter"
 	]
 }
