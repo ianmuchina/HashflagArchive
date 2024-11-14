@@ -26138,11 +26138,13 @@
 		"HBO_Max_Harry_Potter_20th_REunion_Invitation_2021"
 	],
 	"hpe": [
-		"HPEDiscover2021"
+		"HPEDiscover2021",
+		"_BF-12449_HPEDiscoverBarcelona_Hashmoji2024_"
 	],
 	"hpediscover": [
 		"HPEDiscover2021",
-		"BF-11174_HPEDiscoverHashmoji"
+		"BF-11174_HPEDiscoverHashmoji",
+		"_BF-12449_HPEDiscoverBarcelona_Hashmoji2024_"
 	],
 	"hpediscover2021": [
 		"HPEDiscover2021"
@@ -107103,7 +107105,8 @@
 		"BF-11174_HPEDiscoverHashmoji"
 	],
 	"hpediscover2024": [
-		"BF-11174_HPEDiscoverHashmoji"
+		"BF-11174_HPEDiscoverHashmoji",
+		"_BF-12449_HPEDiscoverBarcelona_Hashmoji2024_"
 	],
 	"hpegreenlake": [
 		"BF-11174_HPEDiscoverHashmoji"
@@ -109542,5 +109545,11 @@
 	],
 	"nhc": [
 		"BF-12478_NHC_Nov24_HashmojiAfter"
+	],
+	"hpeai": [
+		"_BF-12449_HPEDiscoverBarcelona_Hashmoji2024_"
+	],
+	"hpediscoverbarcelona": [
+		"_BF-12449_HPEDiscoverBarcelona_Hashmoji2024_"
 	]
 }
