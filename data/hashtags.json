@@ -70097,7 +70097,8 @@
 		"Be_Careful_Campaign_Character_Aug_2022",
 		"Care_Emoji_SaudiBanks_2023",
 		"BF-9714_Care_Emoji_SaudiBanks_2023",
-		"BF-11485_SaudiBanks_Hashmoji_24"
+		"BF-11485_SaudiBanks_Hashmoji_24",
+		"BF-11485_SaudiBanks_Hashmoji_ExtensionException24"
 	],
 	"خلك_في_البيت": [
 		"StayHome_2020_ItalianAdd",
@@ -109585,5 +109586,35 @@
 	],
 	"حياة_نبنيها": [
 		"BF-12478_NHC_Nov24_HashmojiAdd1"
+	],
+	"gpid": [
+		"BF-12453_GPID_Hashmoji_2024"
+	],
+	"gpid2024": [
+		"BF-12453_GPID_Hashmoji_2024"
+	],
+	"innovatefortheworld": [
+		"BF-12453_GPID_Hashmoji_2024"
+	],
+	"saudiwaterauthority": [
+		"BF-12452_SWA_Hashmoji_2024"
+	],
+	"swa": [
+		"BF-12452_SWA_Hashmoji_2024"
+	],
+	"استدامة_وابتكار": [
+		"BF-12452_SWA_Hashmoji_2024"
+	],
+	"الهيئة_السعودية_للمياه": [
+		"BF-12452_SWA_Hashmoji_2024"
+	],
+	"جائزة_الابتكار_في_تحلية_المياه": [
+		"BF-12453_GPID_Hashmoji_2024"
+	],
+	"منظومة_المياه": [
+		"BF-12452_SWA_Hashmoji_2024"
+	],
+	"نبتكر_للعالم": [
+		"BF-12453_GPID_Hashmoji_2024"
 	]
 }
