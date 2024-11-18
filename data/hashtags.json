@@ -23355,13 +23355,15 @@
 	],
 	"granconquista": [
 		"Sudamericana_2021_ext",
-		"Sudamericana_2021"
+		"Sudamericana_2021",
+		"Sudamericana_Trophy_2024"
 	],
 	"grandeconquista": [
 		"Sudamericana_2021_ext",
 		"Sudamericana_2021",
 		"Sudamericana_Jun_2022",
-		"BF-9511_Conmebol_Sudamericana"
+		"BF-9511_Conmebol_Sudamericana",
+		"Sudamericana_Trophy_2024"
 	],
 	"grandeinquisidorsabredeluz": [
 		"Disneyplus_Obi_Wan_Kenobi_Lightsaber_2022"
@@ -55071,7 +55073,8 @@
 		"Sudamericana_2021",
 		"Sulamericana_2020",
 		"Sudamericana_Jun_2022",
-		"BF-9511_Conmebol_Sudamericana"
+		"BF-9511_Conmebol_Sudamericana",
+		"Sudamericana_Trophy_2024"
 	],
 	"suebird": [
 		"SueEmoji2022"
@@ -109619,5 +109622,17 @@
 	],
 	"نبتكر_للعالم": [
 		"BF-12453_GPID_Hashmoji_2024"
+	],
+	"cruzeiro": [
+		"Sudamericana_Cruzeiro_2024"
+	],
+	"labestianegra": [
+		"Sudamericana_Cruzeiro_2024"
+	],
+	"racingclub": [
+		"Sudamericana_Racing_2024"
+	],
+	"racingcopa": [
+		"Sudamericana_Racing_2024"
 	]
 }
