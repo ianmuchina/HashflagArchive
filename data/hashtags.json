@@ -13341,7 +13341,8 @@
 		"BNE_DBlegends_2021",
 		"BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag",
 		"BF-9956_BNE_db_legends_jp_2023Dec_BrandedHashtag",
-		"BF-11233_BNE_db_legends_jp_6thAnniversary_2024May_Branded_Hashtag"
+		"BF-11233_BNE_db_legends_jp_6thAnniversary_2024May_Branded_Hashtag",
+		"BF-12486_BNE_db_legends_jp_LegendsFestival_2024Nov23_Branded_Hashtag"
 	],
 	"dbレジェンズキャラ診断": [
 		"MyDBLegends_May_2021"
@@ -32423,7 +32424,8 @@
 	"legendsfestival": [
 		"db_legends_jp_YearEndCampaign_2022",
 		"BNE_DBlegends_2021",
-		"BF-9956_BNE_db_legends_jp_2023Dec_BrandedHashtag"
+		"BF-9956_BNE_db_legends_jp_2023Dec_BrandedHashtag",
+		"BF-12486_BNE_db_legends_jp_LegendsFestival_2024Nov23_Branded_Hashtag"
 	],
 	"legendsrun": [
 		"LegendsDay_April_2021"
@@ -79429,7 +79431,8 @@
 		"BNE_DBlegends_2021",
 		"BNE_db_legends_jp_5thAnniversary_2023_Branded_Hashtag",
 		"BF-9956_BNE_db_legends_jp_2023Dec_BrandedHashtag",
-		"BF-11233_BNE_db_legends_jp_6thAnniversary_2024May_Branded_Hashtag"
+		"BF-11233_BNE_db_legends_jp_6thAnniversary_2024May_Branded_Hashtag",
+		"BF-12486_BNE_db_legends_jp_LegendsFestival_2024Nov23_Branded_Hashtag"
 	],
 	"レジェンズ2周年に一言": [
 		"DB_Legends_JP_2020"
@@ -109692,5 +109695,11 @@
 	],
 	"quieresdoritos": [
 		"Doritos_MX_QuieresDoritosNovDic-Hashemoji"
+	],
+	"ベジット": [
+		"BF-12486_BNE_db_legends_jp_LegendsFestival_2024Nov23_Branded_Hashtag"
+	],
+	"本気のレジェフェス見せてやる": [
+		"BF-12486_BNE_db_legends_jp_LegendsFestival_2024Nov23_Branded_Hashtag"
 	]
 }
