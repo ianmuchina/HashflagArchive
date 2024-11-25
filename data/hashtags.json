@@ -22304,7 +22304,8 @@
 		"LibertadoresFinal_2021",
 		"Libertadores_July_2021_ext",
 		"Libertadores_Jun_2022",
-		"BF-9512_Conmebol_Libertadores_Finals"
+		"BF-9512_Conmebol_Libertadores_Finals",
+		"Libertadores_Trophy_2024"
 	],
 	"gloriagroove": [
 		"Gloria_Groove_Feb_2022"
@@ -33171,7 +33172,8 @@
 		"LibertadoresFinal_2021",
 		"Libertadores_July_2021_ext",
 		"Libertadores_Jun_2022",
-		"BF-9512_Conmebol_Libertadores_Finals"
+		"BF-9512_Conmebol_Libertadores_Finals",
+		"Libertadores_Trophy_2024"
 	],
 	"libertadoresfem": [
 		"FemaleLibertadores_BR_2021",
@@ -109703,5 +109705,17 @@
 	],
 	"本気のレジェフェス見せてやる": [
 		"BF-12486_BNE_db_legends_jp_LegendsFestival_2024Nov23_Branded_Hashtag"
+	],
+	"botafogo": [
+		"Libertadores_Botafogo_2024"
+	],
+	"galo": [
+		"Libertadores_Atletico_2024"
+	],
+	"ogalonuncalutasozinho": [
+		"Libertadores_Atletico_2024"
+	],
+	"tempodebotafogo": [
+		"Libertadores_Botafogo_2024"
 	]
 }
