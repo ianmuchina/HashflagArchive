@@ -54057,7 +54057,8 @@
 	"squidgame": [
 		"Netflix_Squid_Game_Feb_2022",
 		"Netflix_Squid_Game_Feb_2022_v2",
-		"Netflix_Squid_Game_Sept_2022_extend"
+		"Netflix_Squid_Game_Sept_2022_extend",
+		"BF-12553_NetflixSquidGameS2_Q42024"
 	],
 	"squidgamenetflix": [
 		"Netflix_Squid_Game_Feb_2022",
@@ -109751,5 +109752,11 @@
 	],
 	"جكارو": [
 		"BF-12451_TopTopSA_Hashmoji"
+	],
+	"eljuegodelcalamar": [
+		"BF-12553_NetflixSquidGameS2_Q42024"
+	],
+	"squidgame2": [
+		"BF-12553_NetflixSquidGameS2_Q42024"
 	]
 }
