@@ -88835,7 +88835,8 @@
 		"Zatca-ZTCConference-Jan2022Emoji"
 	],
 	"ztc_conference": [
-		"Zatca-ZTCConference-Jan2022Emoji"
+		"Zatca-ZTCConference-Jan2022Emoji",
+		"BF-12662_Zatca_Nov24_HashmojiBefore"
 	],
 	"úrsula": [
 		"DisneyTH_TheLittleMermaid_Ursula_2023_V2"
@@ -89065,7 +89066,8 @@
 		"LEAP_cyber_security_Jan_2023"
 	],
 	"مؤتمر_الزكاة_والضريبة_والجمارك": [
-		"Zatca-ZTCConference-Jan2022Emoji"
+		"Zatca-ZTCConference-Jan2022Emoji",
+		"BF-12662_Zatca_Nov24_HashmojiBefore"
 	],
 	"مؤتمر_زاتكا": [
 		"Zatca-ZTCConference-Jan2022Emoji"
@@ -109776,5 +109778,8 @@
 	],
 	"xev9e": [
 		"BF-12643_MahindraAutoBEVlaunch_Dec24"
+	],
+	"مؤتمر_ztc": [
+		"BF-12662_Zatca_Nov24_HashmojiBefore"
 	]
 }
