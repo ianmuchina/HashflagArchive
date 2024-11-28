@@ -84472,7 +84472,8 @@
 	],
 	"맥도날드": [
 		"McD_KR_July_2021",
-		"BF-12548_Mcdonald_KR_Hashmoji_during"
+		"BF-12548_Mcdonald_KR_Hashmoji_during",
+		"BF-12548_Mcdonald_KR_Hashmoji_after"
 	],
 	"맥도날드바나나": [
 		"McDonalds_Korea_2020_banana"
@@ -109791,5 +109792,8 @@
 	],
 	"كل_درب_أقرب": [
 		"BF-12651_RiyadhMetro_Nov24_HashmojiDuring"
+	],
+	"맥도날드_크리스마스의맛": [
+		"BF-12548_Mcdonald_KR_Hashmoji_after"
 	]
 }
