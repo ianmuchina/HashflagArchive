@@ -98762,7 +98762,8 @@
 		"BF-10278_Q12024_Bitgetglobal_Campaign",
 		"BF-11112_Q2_2024_Bitgetglobal_hashmoji",
 		"BF-11666_Q324_Bitgetglobal",
-		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024"
+		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024",
+		"BF-12552_Bitgetglobal_Q4Hashmoji2024"
 	],
 	"bitget": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -98772,7 +98773,8 @@
 		"BF-10278_Q12024_Bitgetglobal_Campaign",
 		"BF-11112_Q2_2024_Bitgetglobal_hashmoji",
 		"BF-11666_Q324_Bitgetglobal",
-		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024"
+		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024",
+		"BF-12552_Bitgetglobal_Q4Hashmoji2024"
 	],
 	"bitget5thanniversary": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -109846,5 +109848,14 @@
 	],
 	"三ツ矢新商品": [
 		"BF-12556_Asahi_soft_drinks_mitsuya_Holiday_Japan_2024_Hashmoji_v2"
+	],
+	"bitgetlaunchpool": [
+		"BF-12552_Bitgetglobal_Q4Hashmoji2024"
+	],
+	"bitgetxlaliga": [
+		"BF-12552_Bitgetglobal_Q4Hashmoji2024"
+	],
+	"eventwithbitget": [
+		"BF-12552_Bitgetglobal_Q4Hashmoji2024"
 	]
 }
