@@ -38016,7 +38016,8 @@
 	],
 	"mobo": [
 		"MOBOAwards2021",
-		"MOBO_Awards_2024"
+		"MOBO_Awards_2024",
+		"BF-12674_MOBO_Awards_2025_Hashmoji"
 	],
 	"mobo25": [
 		"MOBO_25_Oct_2022"
@@ -38025,7 +38026,8 @@
 		"MOBOAwards_2020",
 		"MOBOAwards2021",
 		"MOBO_25_Oct_2022",
-		"MOBO_Awards_2024"
+		"MOBO_Awards_2024",
+		"BF-12674_MOBO_Awards_2025_Hashmoji"
 	],
 	"moboawards2020": [
 		"MOBOAwards_2020"
@@ -109895,5 +109897,8 @@
 	],
 	"coinexturns7": [
 		"BF-12536_CoinEx_Hashmoji2024"
+	],
+	"mobofringe": [
+		"BF-12674_MOBO_Awards_2025_Hashmoji"
 	]
 }
