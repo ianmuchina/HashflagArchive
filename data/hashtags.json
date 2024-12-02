@@ -109912,5 +109912,20 @@
 	],
 	"حوّل_للجديد": [
 		"BF-12625_RiyadBank_Hashmoji2024_before_v2"
+	],
+	"deltaforce": [
+		"BF-12641_DeltaForce_Hashmoji2024"
+	],
+	"deltaforcecombatrecord": [
+		"BF-12641_DeltaForce_Hashmoji2024"
+	],
+	"deltaforcegame": [
+		"BF-12641_DeltaForce_Hashmoji2024"
+	],
+	"deltaforceopenbeta": [
+		"BF-12641_DeltaForce_Hashmoji2024"
+	],
+	"deltaforcepcopenbeta": [
+		"BF-12641_DeltaForce_Hashmoji2024"
 	]
 }
