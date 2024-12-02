@@ -34989,7 +34989,8 @@
 	],
 	"m1グランプリ": [
 		"ABC_M1_Grandprix_Dec_2022",
-		"M1GrandPrix"
+		"M1GrandPrix",
+		"M1GRANDPRIX2024"
 	],
 	"m1グランプリ敗者復活戦": [
 		"M1_Grandprix_ABC_2021_v2",
@@ -35000,7 +35001,8 @@
 		"ABC_M1_Grandprix_Dec_2022"
 	],
 	"m1敗者復活戦": [
-		"M1_Grandprix_ABC_2021_v2"
+		"M1_Grandprix_ABC_2021_v2",
+		"M1GRANDPRIX2024"
 	],
 	"m1決勝戦": [
 		"M1_Grandprix_ABC_2021_v2",
@@ -109900,5 +109902,8 @@
 	],
 	"mobofringe": [
 		"BF-12674_MOBO_Awards_2025_Hashmoji"
+	],
+	"m1三連単": [
+		"M1GRANDPRIX2024"
 	]
 }
