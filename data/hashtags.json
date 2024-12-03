@@ -109869,7 +109869,8 @@
 		"BF-12552_Bitgetglobal_Q4Hashmoji2024"
 	],
 	"lineギフト": [
-		"BF-12588_LYCorporation_LINEGIFT_vol1_Hashmoji2024V2"
+		"BF-12588_LYCorporation_LINEGIFT_vol1_Hashmoji2024V2",
+		"BF-12588_LYCorporation_LINEGIFT_vol1_Hashmoji2024V3"
 	],
 	"サンタさんこれが欲しいです": [
 		"BF-12588_LYCorporation_LINEGIFT_vol1_Hashmoji2024V2"
@@ -109927,5 +109928,8 @@
 	],
 	"deltaforcepcopenbeta": [
 		"BF-12641_DeltaForce_Hashmoji2024"
+	],
+	"lineギフトでクリスマス": [
+		"BF-12588_LYCorporation_LINEGIFT_vol1_Hashmoji2024V3"
 	]
 }
