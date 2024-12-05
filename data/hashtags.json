@@ -15331,7 +15331,8 @@
 		"WMHD_2021"
 	],
 	"dmx": [
-		"DMX_Exodus_Album_Emoji_2021"
+		"DMX_Exodus_Album_Emoji_2021",
+		"DMXProjectX"
 	],
 	"dmzonmax": [
 		"HBO_Max_DMZ_TitleDMZ_2022"
@@ -110009,5 +110010,20 @@
 	],
 	"오징어게임2": [
 		"BF-12553_NetflixSquidGameS2_Hashmoji_AddOn"
+	],
+	"letuspray": [
+		"DMXProjectX"
+	],
+	"letuspraychapterx": [
+		"DMXProjectX"
+	],
+	"rosesarerosie": [
+		"ROSIEBYROSIE"
+	],
+	"rosiebyrosé": [
+		"ROSIEBYROSIE"
+	],
+	"rosé_rosie": [
+		"ROSIEBYROSIE"
 	]
 }
