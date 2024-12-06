@@ -22291,7 +22291,8 @@
 	"globes": [
 		"GoldenGlobes_2021",
 		"GoldenGlobes2024_US",
-		"GoldenGlobes2024_US_2"
+		"GoldenGlobes2024_US_2",
+		"GoldenGlobes_Hashmoji_2025"
 	],
 	"globes78": [
 		"GoldenGlobes_2021"
@@ -22846,7 +22847,8 @@
 		"GoldenGlobes_2021",
 		"Dick_Clark_Productions_Golden_Globes_2022",
 		"GoldenGlobes2024_US",
-		"GoldenGlobes2024_US_2"
+		"GoldenGlobes2024_US_2",
+		"GoldenGlobes_Hashmoji_2025"
 	],
 	"goldenglobes2023": [
 		"Dick_Clark_Productions_Golden_Globes_2022"
@@ -69863,7 +69865,8 @@
 		"Riyad_Bank_Sept_2022",
 		"1895ba651ff84d293dd6db41de930393b235bb24",
 		"BF-12625_RiyadBank_Hashmoji2024_before_v2",
-		"BF-12625_RiyadBank_Hashmoji2024_before_dec6"
+		"BF-12625_RiyadBank_Hashmoji2024_before_dec6",
+		"BF-12625_RiyadBank_Hashmoji2024_during_dec6"
 	],
 	"بنكي": [
 		"Riyad_Bank_Sept_2022",
@@ -109940,7 +109943,8 @@
 	],
 	"تطبيق_بنك_الرياض": [
 		"BF-12625_RiyadBank_Hashmoji2024_before_v2",
-		"BF-12625_RiyadBank_Hashmoji2024_before_dec6"
+		"BF-12625_RiyadBank_Hashmoji2024_before_dec6",
+		"BF-12625_RiyadBank_Hashmoji2024_during_dec6"
 	],
 	"حوّل_للجديد": [
 		"BF-12625_RiyadBank_Hashmoji2024_before_v2",
@@ -110088,9 +110092,23 @@
 		"MXplaydoitcasino_hashemoji_15dec"
 	],
 	"somoslaperrada": [
-		"MXplaydoitcasino_hashemoji_15dec"
+		"MXplaydoitcasino_hashemoji_15dec",
+		"MXplaydoitcasino_4hashemoji_15dec"
 	],
 	"viernesdebonosplaydoit": [
-		"MXplaydoitcasino_hashemoji_15dec"
+		"MXplaydoitcasino_hashemoji_15dec",
+		"MXplaydoitcasino_4hashemoji_15dec"
+	],
+	"finalplaydoit": [
+		"MXplaydoitcasino_1hashemoji_15dec"
+	],
+	"goldenglobes2025": [
+		"GoldenGlobes_Hashmoji_2025"
+	],
+	"playdoitmx": [
+		"MXplaydoitcasino_4hashemoji_15dec"
+	],
+	"semifinalplaydoit": [
+		"MXplaydoitcasino_4hashemoji_15dec"
 	]
 }
