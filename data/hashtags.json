@@ -21255,7 +21255,8 @@
 	"gamepass": [
 		"Microsoft_Xbox_E3_June_2022_v2",
 		"Xbox_Stoutland_and_Jonesy_Sept_2022",
-		"Xbox_Game_Pass"
+		"Xbox_Game_Pass",
+		"BF-12756_XboxPCGamePass_Hashmoji2024"
 	],
 	"gamepasshaspcgames": [
 		"Xbox_The_Game_Awards_2021"
@@ -44328,7 +44329,8 @@
 	"pcgamepass": [
 		"Xbox_The_Game_Awards_2021",
 		"Microsoft_Xbox_E3_June_2022_v2",
-		"Xbox_Stoutland_and_Jonesy_Sept_2022_add"
+		"Xbox_Stoutland_and_Jonesy_Sept_2022_add",
+		"BF-12756_XboxPCGamePass_Hashmoji2024"
 	],
 	"pcgamingshow": [
 		"PC_Gaming_Show_Nov_2022"
@@ -66901,7 +66903,8 @@
 		"XboxGamePass_2021",
 		"Microsoft_Xbox_E3_June_2022_v2",
 		"Xbox_Stoutland_and_Jonesy_Sept_2022",
-		"Xbox_Game_Pass"
+		"Xbox_Game_Pass",
+		"BF-12756_XboxPCGamePass_Hashmoji2024"
 	],
 	"xboxgamepasspc": [
 		"Xbox_GamePass_Dec_2020",
@@ -110110,5 +110113,8 @@
 	],
 	"semifinalplaydoit": [
 		"MXplaydoitcasino_4hashemoji_15dec"
+	],
+	"wegotyou": [
+		"BF-12756_XboxPCGamePass_Hashmoji2024"
 	]
 }
