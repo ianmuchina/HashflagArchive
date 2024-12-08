@@ -7504,7 +7504,8 @@
 	],
 	"bleedblue": [
 		"UconnWomensFinalFour2021",
-		"UconnWomens2022"
+		"UconnWomens2022",
+		"BleedBlue_CFB25"
 	],
 	"bleedgreen": [
 		"NBA_Season_Teams_2021_BleedGreen",
@@ -22543,7 +22544,8 @@
 		"OhioStateCFP2021v2"
 	],
 	"gobucks": [
-		"College_Football_Playoff_OSU_2022_v2"
+		"College_Football_Playoff_OSU_2022_v2",
+		"GoBucks_CFB25"
 	],
 	"gobucs": [
 		"NFL_2020_2021_GoBucs",
@@ -22577,7 +22579,8 @@
 	"godawgs": [
 		"GeorgiaFootballCFPFULLYEAR",
 		"GeorgiaFootballCFP2021",
-		"UGA_Champion_2023"
+		"UGA_Champion_2023",
+		"GoDawgs_CFB25"
 	],
 	"godd": [
 		"HBO_Gemstones_2021_v4",
@@ -22747,7 +22750,8 @@
 		"INTZEmoji2024"
 	],
 	"goirish": [
-		"NotreDameCFP2021"
+		"NotreDameCFP2021",
+		"GoIrish_CFB25"
 	],
 	"goitz": [
 		"INTZ_June_2021",
@@ -49437,7 +49441,8 @@
 	"rolltide": [
 		"AlabamaCFP2021YEARLONG",
 		"AlabamaCFP2021",
-		"CFBPlayoffs_RollTide_2023"
+		"CFBPlayoffs_RollTide_2023",
+		"RollTide_CFB25"
 	],
 	"rolluptherim": [
 		"Tim_Hortons_RUTW_2022",
@@ -104345,7 +104350,8 @@
 		"Heavenburnsred_Dec2023_Hashmoji_after"
 	],
 	"hookem": [
-		"CFBPlayoffs_HookEm_2023"
+		"CFBPlayoffs_HookEm_2023",
+		"HookEm_CFB25"
 	],
 	"purplereign": [
 		"CFBPlayoffs_PurpleReign_2023"
@@ -110137,5 +110143,26 @@
 	],
 	"viajaconbancolombia": [
 		"BF-12732_BancolombiaAlistoMiMaleta_Hashmoji2024"
+	],
+	"clemson": [
+		"Clemson_CFB25"
+	],
+	"forksup": [
+		"ForksUp_CFB25"
+	],
+	"gbo": [
+		"GBO_CFB25"
+	],
+	"goducks": [
+		"GoDucks_CFB25"
+	],
+	"hottytoddy": [
+		"HottyToddy_CFB25"
+	],
+	"neverdaunted": [
+		"NeverDaunted_CFB25"
+	],
+	"ponyup": [
+		"PonyUp_CFB25"
 	]
 }
