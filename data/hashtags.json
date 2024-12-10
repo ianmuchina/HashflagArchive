@@ -109638,27 +109638,32 @@
 	],
 	"chanelholiday": [
 		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before",
-		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before_v2"
+		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before_v2",
+		"BF-12366_Chanel_holiday_Q4_24_Hashfetti_after_v2"
 	],
 	"chanelwintertale": [
 		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before",
 		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before_v2",
-		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_during_v2"
+		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_during_v2",
+		"BF-12366_Chanel_holiday_Q4_24_Hashfetti_after_v2"
 	],
 	"givemagicgivechanel": [
 		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before",
 		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before_v2",
-		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_during_v2"
+		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_during_v2",
+		"BF-12366_Chanel_holiday_Q4_24_Hashfetti_after_v2"
 	],
 	"シャネルウィンターテイル": [
 		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before",
 		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before_v2",
-		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_during_v2"
+		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_during_v2",
+		"BF-12366_Chanel_holiday_Q4_24_Hashfetti_after_v2"
 	],
 	"シャネルホリデー": [
 		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before",
 		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_before_v2",
-		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_during_v2"
+		"BF-12366_Chanel_holiday_Q4_24_Hashmoji_during_v2",
+		"BF-12366_Chanel_holiday_Q4_24_Hashfetti_after_v2"
 	],
 	"idws": [
 		"BF-12454_IDWS_Hashmoji_2024"
@@ -110224,5 +110229,23 @@
 	],
 	"三菱自動車で行こう": [
 		"BF-12671_MMC_2024_X_holiday_package_Emoji_v2"
+	],
+	"donkeykongcountry": [
+		"BF-12642_USJ_official_18ce552m2c5_Hashmoji_20241211_20250110_DK"
+	],
+	"playwild!": [
+		"BF-12642_USJ_official_18ce552m2c5_Hashmoji_20241211_20250110_DK"
+	],
+	"ドンキーコングがやってきた": [
+		"BF-12642_USJ_official_18ce552m2c5_Hashmoji_20241211_20250110_DK"
+	],
+	"ドンキーコングのクレイジー・トロッコ": [
+		"BF-12642_USJ_official_18ce552m2c5_Hashmoji_20241211_20250110_DK"
+	],
+	"ドンキーコング・カントリー": [
+		"BF-12642_USJ_official_18ce552m2c5_Hashmoji_20241211_20250110_DK"
+	],
+	"美白ハミガキlighteeおくち美活動": [
+		"BF-12634_LION_XHoliday_Hashmoji2024"
 	]
 }
