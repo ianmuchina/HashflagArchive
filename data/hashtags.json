@@ -59460,7 +59460,8 @@
 		"HBO_Max_The_Wire_Anniversary_2022"
 	],
 	"thewitcher": [
-		"Netflix_Witcher_S2_Wolf_Head_2021"
+		"Netflix_Witcher_S2_Wolf_Head_2021",
+		"Witcher4Announcement2024"
 	],
 	"thewomanking": [
 		"Sony_Pictures_The_Woman_King_Aug_2022"
@@ -110313,5 +110314,14 @@
 	],
 	"astrobotgoty": [
 		"TGAGOTYHashfetti2024"
+	],
+	"thewitcher4": [
+		"Witcher4Announcement2024"
+	],
+	"thewitcheriv": [
+		"Witcher4Announcement2024"
+	],
+	"witcher4": [
+		"Witcher4Announcement2024"
 	]
 }
