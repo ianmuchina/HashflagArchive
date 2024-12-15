@@ -74309,11 +74309,13 @@
 		"KOEI_Shin-sangokumusou_2021"
 	],
 	"しまうさ": [
-		"Shimamura_JP_XmasBox_2022"
+		"Shimamura_JP_XmasBox_2022",
+		"BF-12703_Shimamura_Holiday_Hashmoji_V2"
 	],
 	"しまむら": [
 		"Xmasbox_C_2020_shimamura_v2",
-		"Shimamura_JP_XmasBox_2022"
+		"Shimamura_JP_XmasBox_2022",
+		"BF-12703_Shimamura_Holiday_Hashmoji_V2"
 	],
 	"しまむらに願いを": [
 		"Xmasbox_C_2020_shimamura_v2"
@@ -74327,7 +74329,8 @@
 	],
 	"しまパト": [
 		"Xmasbox_C_2020_shimamura_v2",
-		"Shimamura_JP_XmasBox_2022"
+		"Shimamura_JP_XmasBox_2022",
+		"BF-12703_Shimamura_Holiday_Hashmoji_V2"
 	],
 	"じゃんたま": [
 		"MahjongSoul_JP_2020"
@@ -110326,5 +110329,11 @@
 	],
 	"witcher4": [
 		"Witcher4Announcement2024"
+	],
+	"しまむらからのプレゼント": [
+		"BF-12703_Shimamura_Holiday_Hashmoji_V2"
+	],
+	"しまむら購入品": [
+		"BF-12703_Shimamura_Holiday_Hashmoji_V2"
 	]
 }
