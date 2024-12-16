@@ -11105,7 +11105,8 @@
 		"CBS_Clarice_2021"
 	],
 	"clarkkent": [
-		"HBOMax_Mar_2021_Superman"
+		"HBOMax_Mar_2021_Superman",
+		"BF-12804_Superman_Hashmoji2024"
 	],
 	"clashofclans": [
 		"Supercell_Korea_ClashRoyal_2020_ClashofClans"
@@ -30943,7 +30944,8 @@
 		"Disney_2021_BobaFett_Krrsantan"
 	],
 	"krypto": [
-		"Titans_S3_2021_ConnerKent"
+		"Titans_S3_2021_ConnerKent",
+		"BF-12804_Superman_Hashmoji2024"
 	],
 	"kryptothesuperdog": [
 		"WB_DCSP_May_2022"
@@ -55416,7 +55418,8 @@
 	"superman": [
 		"HBOMax_Mar_2021_Superman",
 		"DCFandom_2020_Superman",
-		"DCFanDome2021_Oct__Superman"
+		"DCFanDome2021_Oct__Superman",
+		"BF-12804_Superman_Hashmoji2024"
 	],
 	"supermanandlois": [
 		"DCFanDome2021_Oct_SupermanAndLois",
@@ -110368,5 +110371,11 @@
 	],
 	"dot2": [
 		"Lionsgate_DenofThieves_2025"
+	],
+	"supermanfilm": [
+		"BF-12804_Superman_Hashmoji2024"
+	],
+	"supermanmovie": [
+		"BF-12804_Superman_Hashmoji2024"
 	]
 }
