@@ -110132,21 +110132,25 @@
 		"Emperador_Mx_hashemoji_dec31"
 	],
 	"footballplaydoit": [
-		"MXplaydoitcasino_hashemoji_15dec"
+		"MXplaydoitcasino_hashemoji_15dec",
+		"BF-12778_playdoitmexico_NFL_Football_Hashmoji"
 	],
 	"playdoitméxico": [
 		"MXplaydoitcasino_hashemoji_15dec"
 	],
 	"sbplaydoit": [
-		"MXplaydoitcasino_hashemoji_15dec"
+		"MXplaydoitcasino_hashemoji_15dec",
+		"BF-12778_playdoitmexico_NFL_Football_Hashmoji"
 	],
 	"somoslaperrada": [
 		"MXplaydoitcasino_hashemoji_15dec",
-		"MXplaydoitcasino_4hashemoji_15dec"
+		"MXplaydoitcasino_4hashemoji_15dec",
+		"BF-12778_playdoitmexico_NFL_Football_Hashmoji"
 	],
 	"viernesdebonosplaydoit": [
 		"MXplaydoitcasino_hashemoji_15dec",
-		"MXplaydoitcasino_4hashemoji_15dec"
+		"MXplaydoitcasino_4hashemoji_15dec",
+		"BF-12778_playdoitmexico_NFL_Football_Hashmoji"
 	],
 	"finalplaydoit": [
 		"MXplaydoitcasino_1hashemoji_15dec"
@@ -110155,7 +110159,8 @@
 		"GoldenGlobes_Hashmoji_2025"
 	],
 	"playdoitmx": [
-		"MXplaydoitcasino_4hashemoji_15dec"
+		"MXplaydoitcasino_4hashemoji_15dec",
+		"BF-12778_playdoitmexico_NFL_Football_Hashmoji"
 	],
 	"semifinalplaydoit": [
 		"MXplaydoitcasino_4hashemoji_15dec"
@@ -110342,5 +110347,11 @@
 	],
 	"whohardasme": [
 		"LilBabyWHAM_3"
+	],
+	"briliandancemerlang": [
+		"BF_12824_HUT_129_BRI_2024"
+	],
+	"hut129bri": [
+		"BF_12824_HUT_129_BRI_2024"
 	]
 }
