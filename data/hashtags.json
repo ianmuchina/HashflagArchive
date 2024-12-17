@@ -107508,7 +107508,8 @@
 	"ゼンゼロ": [
 		"BF-11461_ZenlessZoneZero_Hashmoji_before",
 		"BF-11461_ZenlessZoneZero_Hashfetti",
-		"BF-11461_ZenlessZoneZero_Hashmoji_after"
+		"BF-11461_ZenlessZoneZero_Hashmoji_after",
+		"BF-12708_miHoYo_ZZZ_miyabi_Emoji_December_2024"
 	],
 	"ゼンゼローぜ": [
 		"BF-11462_Zenless_Zone_Zero_Launch_2024_Bangboo_01"
@@ -110381,5 +110382,17 @@
 	],
 	"supermanmovie": [
 		"BF-12804_Superman_Hashmoji2024"
+	],
+	"miyabi": [
+		"BF-12708_miHoYo_ZZZ_miyabi_Emoji_December_2024"
+	],
+	"ゼン狐集合": [
+		"BF-12708_miHoYo_ZZZ_miyabi_Emoji_December_2024"
+	],
+	"星見雅": [
+		"BF-12708_miHoYo_ZZZ_miyabi_Emoji_December_2024"
+	],
+	"虚狩り星見雅実装": [
+		"BF-12708_miHoYo_ZZZ_miyabi_Emoji_December_2024"
 	]
 }
