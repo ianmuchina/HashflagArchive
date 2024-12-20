@@ -11109,7 +11109,8 @@
 		"HBOMax_Mar_2021_Superman",
 		"BF-12804_Superman_Hashmoji2024",
 		"BF-12804_Superman_Hashmoji2024_Hashfetti_Before",
-		"BF-12804_Superman_Hashmoji2024_Hashfetti_During_emojionly"
+		"BF-12804_Superman_Hashmoji2024_Hashfetti_During_emojionly",
+		"BF-12804_Superman_Hashmoji2024_Hashfetti_After"
 	],
 	"clashofclans": [
 		"Supercell_Korea_ClashRoyal_2020_ClashofClans"
@@ -30954,7 +30955,8 @@
 		"Titans_S3_2021_ConnerKent",
 		"BF-12804_Superman_Hashmoji2024",
 		"BF-12804_Superman_Hashmoji2024_Hashfetti_Before",
-		"BF-12804_Superman_Hashmoji2024_Hashfetti_During_emojionly"
+		"BF-12804_Superman_Hashmoji2024_Hashfetti_During_emojionly",
+		"BF-12804_Superman_Hashmoji2024_Hashfetti_After"
 	],
 	"kryptothesuperdog": [
 		"WB_DCSP_May_2022"
@@ -55433,7 +55435,8 @@
 		"DCFandom_2020_Superman",
 		"DCFanDome2021_Oct__Superman",
 		"BF-12804_Superman_Hashmoji2024",
-		"BF-12804_Superman_Hashmoji2024_Hashfetti_Before"
+		"BF-12804_Superman_Hashmoji2024_Hashfetti_Before",
+		"BF-12804_Superman_Hashmoji2024_Hashfetti_After"
 	],
 	"supermanandlois": [
 		"DCFanDome2021_Oct_SupermanAndLois",
@@ -110401,12 +110404,14 @@
 	"supermanfilm": [
 		"BF-12804_Superman_Hashmoji2024",
 		"BF-12804_Superman_Hashmoji2024_Hashfetti_Before",
-		"BF-12804_Superman_Hashmoji2024_Hashfetti_During_emojionly"
+		"BF-12804_Superman_Hashmoji2024_Hashfetti_During_emojionly",
+		"BF-12804_Superman_Hashmoji2024_Hashfetti_After"
 	],
 	"supermanmovie": [
 		"BF-12804_Superman_Hashmoji2024",
 		"BF-12804_Superman_Hashmoji2024_Hashfetti_Before",
-		"BF-12804_Superman_Hashmoji2024_Hashfetti_During_emojionly"
+		"BF-12804_Superman_Hashmoji2024_Hashfetti_During_emojionly",
+		"BF-12804_Superman_Hashmoji2024_Hashfetti_After"
 	],
 	"miyabi": [
 		"BF-12708_miHoYo_ZZZ_miyabi_Emoji_December_2024"
@@ -110476,5 +110481,8 @@
 	],
 	"nflennetflix": [
 		"BF-12917_NFLenNetflix_Hashmoji1"
+	],
+	"slipsmas": [
+		"BF-12849_DK_Slipsmas_Hashmoji_Before"
 	]
 }
