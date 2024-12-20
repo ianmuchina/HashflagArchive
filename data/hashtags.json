@@ -15233,7 +15233,8 @@
 		"DraftKings_Casino_Hashmojis",
 		"Draftking_CasinoExtension_NFL23",
 		"DKcasino_update",
-		"DKCasino_Hashmoji_Extension"
+		"DKCasino_Hashmoji_Extension",
+		"BF-12848_DKCasino_Hashmoji_Extension_Dec2024"
 	],
 	"dkchampseries": [
 		"DraftKings_Super_Bowl_2021",
@@ -110472,5 +110473,8 @@
 	],
 	"楽しスギ薬局": [
 		"BF-12626_Hashmoji_Sugi_Holdings_Co_Ltd_X_Holiday2024"
+	],
+	"nflennetflix": [
+		"BF-12917_NFLenNetflix_Hashmoji1"
 	]
 }
