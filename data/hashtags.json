@@ -101277,7 +101277,8 @@
 		"DiriyahNationalDay_2023_Emoji"
 	],
 	"الدرعية": [
-		"DiriyahNationalDay_2023_Emoji"
+		"DiriyahNationalDay_2023_Emoji",
+		"BF-12865_DiriyahSeason_Hashmoji2024"
 	],
 	"سمفونية_أرض": [
 		"DiriyahNationalDay_2023_Emoji"
@@ -110484,5 +110485,17 @@
 	],
 	"slipsmas": [
 		"BF-12849_DK_Slipsmas_Hashmoji_Before"
+	],
+	"diriyahseason": [
+		"BF-12865_DiriyahSeason_Hashmoji2024"
+	],
+	"ليالي_الدرعية": [
+		"BF-12865_DiriyahSeason_Hashmoji2024"
+	],
+	"مطل_البجيري": [
+		"BF-12865_DiriyahSeason_Hashmoji2024"
+	],
+	"موسم_الدرعية": [
+		"BF-12865_DiriyahSeason_Hashmoji2024"
 	]
 }
