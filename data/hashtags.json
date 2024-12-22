@@ -104392,7 +104392,8 @@
 	],
 	"rizin": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
-		"BF-9893_ABEMA_Hashmoji_1217-0316"
+		"BF-9893_ABEMA_Hashmoji_1217-0316",
+		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN"
 	],
 	"rizin45": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
@@ -104400,11 +104401,13 @@
 	],
 	"アベマでrizin": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
-		"BF-9893_ABEMA_Hashmoji_1217-0316"
+		"BF-9893_ABEMA_Hashmoji_1217-0316",
+		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN"
 	],
 	"アベマでrizin大晦日": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
-		"BF-9893_ABEMA_Hashmoji_1217-0316"
+		"BF-9893_ABEMA_Hashmoji_1217-0316",
+		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN"
 	],
 	"de_fi": [
 		"DeFi_2023_Q4"
@@ -110497,5 +110500,11 @@
 	],
 	"موسم_الدرعية": [
 		"BF-12865_DiriyahSeason_Hashmoji2024"
+	],
+	"rizin49": [
+		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN"
+	],
+	"rizin_decade": [
+		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN"
 	]
 }
