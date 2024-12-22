@@ -90370,7 +90370,8 @@
 		"HeavenBurnsRed_Additional_Emoji_11_after_fix",
 		"BF-10099_Heavenburnsred_Jan2024_Hashmoji",
 		"BF-10099_Heavenburnsred_Jan2024_before",
-		"BF-10099_Heavenburnsred_Jan2024_after"
+		"BF-10099_Heavenburnsred_Jan2024_after",
+		"BF-12797_heavenburnsred_Dec_2024_emoji"
 	],
 	"محبوب_الجماهير": [
 		"6b5e654f8f015cf9d4d49e82fbaa91d855008405"
@@ -110506,5 +110507,8 @@
 	],
 	"rizin_decade": [
 		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN"
+	],
+	"ヘブバンangelbeatsコラボ復習試験": [
+		"BF-12797_heavenburnsred_Dec_2024_emoji"
 	]
 }
