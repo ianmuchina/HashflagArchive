@@ -104059,7 +104059,8 @@
 		"Banco_Guayaquil_Hashmoji2023"
 	],
 	"bancoguayaquil": [
-		"Banco_Guayaquil_Hashmoji2023"
+		"Banco_Guayaquil_Hashmoji2023",
+		"BF-12941_banco_guayaquil_navidad_hashmoji_2024"
 	],
 	"idv": [
 		"Banco_Guayaquil_Hashmoji2023"
@@ -107650,7 +107651,8 @@
 		"ParisOlympicTeamJapan"
 	],
 	"bancodebogotá": [
-		"BF-11489_Banco_de_Bogota_Colombia_2024"
+		"BF-11489_Banco_de_Bogota_Colombia_2024",
+		"BF_12942_BANCO_DE_BOGOTA_CDT_Hashmoji"
 	],
 	"llevaalatamcontigo": [
 		"BF-11489_Banco_de_Bogota_Colombia_2024"
@@ -110557,5 +110559,29 @@
 	],
 	"薬用美白美容液": [
 		"BF-12840_Kracie_Hadabisei_Hashmoji_Q4_24_v2"
+	],
+	"bancodebogotáyshakira": [
+		"BF_12942_BANCO_DE_BOGOTA_CDT_Hashmoji"
+	],
+	"cdtbancodebogotá": [
+		"BF_12942_BANCO_DE_BOGOTA_CDT_Hashmoji"
+	],
+	"cdtdesde30días": [
+		"BF_12942_BANCO_DE_BOGOTA_CDT_Hashmoji"
+	],
+	"cdtentradasaconcierto": [
+		"BF_12942_BANCO_DE_BOGOTA_CDT_Hashmoji"
+	],
+	"elbancoparati": [
+		"BF-12941_banco_guayaquil_navidad_hashmoji_2024"
+	],
+	"primerogracias": [
+		"BF-12941_banco_guayaquil_navidad_hashmoji_2024"
+	],
+	"primeroquito": [
+		"BF-12941_banco_guayaquil_navidad_hashmoji_2024"
+	],
+	"promoparati": [
+		"BF-12941_banco_guayaquil_navidad_hashmoji_2024"
 	]
 }
