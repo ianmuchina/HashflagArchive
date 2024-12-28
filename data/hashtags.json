@@ -110619,12 +110619,18 @@
 		"BF-12795_drama_wowow_Golden_Kamuy_Drama_Hashmoji_2024"
 	],
 	"nxtonnetflix": [
-		"BF-12927_WWENetflix_Hashmoji_duringCustomLike"
+		"BF-12927_WWENetflix_Hashmoji_duringCustomLike",
+		"BF-12927_WWENetflix_Hashmoji_betweenCLandHashfetti"
 	],
 	"rawonnetflix": [
-		"BF-12927_WWENetflix_Hashmoji_duringCustomLike"
+		"BF-12927_WWENetflix_Hashmoji_duringCustomLike",
+		"BF-12927_WWENetflix_Hashmoji_betweenCLandHashfetti"
 	],
 	"smackdownonnetflix": [
-		"BF-12927_WWENetflix_Hashmoji_duringCustomLike"
+		"BF-12927_WWENetflix_Hashmoji_duringCustomLike",
+		"BF-12927_WWENetflix_Hashmoji_betweenCLandHashfetti"
+	],
+	"wweonnetflix": [
+		"BF-12927_WWENetflix_Hashmoji_betweenCLandHashfetti"
 	]
 }
