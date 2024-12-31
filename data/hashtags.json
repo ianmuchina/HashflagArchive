@@ -4817,7 +4817,8 @@
 	"ausopen": [
 		"Australian_Open_2021",
 		"AusOpen_2021",
-		"BF-10107_2024_AustralianOpen_Tennis_Hashmoji"
+		"BF-10107_2024_AustralianOpen_Tennis_Hashmoji",
+		"AustralianOpen2025"
 	],
 	"ausparalympics": [
 		"Paralympics_2021_AUS"
@@ -110662,5 +110663,11 @@
 	],
 	"هنا_نكرم_الإنجاز": [
 		"BF-12901_Saudi_Esports_federation_Campaign_2024"
+	],
+	"ao2025": [
+		"AustralianOpen2025"
+	],
+	"ao25": [
+		"AustralianOpen2025"
 	]
 }
