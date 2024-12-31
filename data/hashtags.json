@@ -12929,7 +12929,8 @@
 		"Dakar_2021",
 		"FR_DAKAR_2022",
 		"ASO-Dakar_Rally_2023",
-		"Dakar_Rally_2024"
+		"Dakar_Rally_2024",
+		"Dakar2025Emojis"
 	],
 	"daleformaatufuturo": [
 		"US_Census_2020_Flight2"
@@ -110684,5 +110685,11 @@
 	],
 	"薬屋２期": [
 		"BF-12805_ABEMA_18ce549twrx_Hashmoji_20250101_20250401_Kushuriya"
+	],
+	"dakar2025": [
+		"Dakar2025Emojis"
+	],
+	"داكار2025": [
+		"Dakar2025Emojis"
 	]
 }
