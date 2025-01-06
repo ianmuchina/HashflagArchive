@@ -23353,7 +23353,8 @@
 		"HipHop_2021_Graffiti_Emoji"
 	],
 	"grammyawards": [
-		"CBS_Grammys_2022"
+		"CBS_Grammys_2022",
+		"Grammys2025"
 	],
 	"grammylatino": [
 		"LatinGrammys2020"
@@ -23368,7 +23369,8 @@
 		"GRAMMYs_2021_ext",
 		"Grammys_2022_Emoji_V2",
 		"GRAMMYS_2023_Campaign",
-		"GRAMMYs2024_US_Ent"
+		"GRAMMYs2024_US_Ent",
+		"Grammys2025"
 	],
 	"grammyscbs": [
 		"CBS_Grammys_2022"
@@ -110743,5 +110745,11 @@
 	],
 	"ローソンでいちご狩り": [
 		"BF-12839_akiko_lawson_Hashmoji2024"
+	],
+	"grammy": [
+		"Grammys2025"
+	],
+	"grammys2025": [
+		"Grammys2025"
 	]
 }
