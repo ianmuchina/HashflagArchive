@@ -21191,7 +21191,8 @@
 		"BF-9969_Eureka_GalaxyUnpacked_Hashmoji_AfterHashfetti",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_GalaxyUnpacked",
-		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_GalaxyUnpacked_after"
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_GalaxyUnpacked_after",
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension"
 	],
 	"galaxyzflip4": [
 		"GalaxyMobileJP_JPXmasBox_2022",
@@ -50446,7 +50447,8 @@
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v2",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_before",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_during",
-		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_after"
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_after",
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension"
 	],
 	"samuraiblue": [
 		"Japan_Football_Association_World_Cup_Qatar_Emblem_Nov_2022"
@@ -62480,7 +62482,8 @@
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v2",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_before",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_during",
-		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_after"
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_after",
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension"
 	],
 	"unpackingyj": [
 		"DCFanDome2021_Oct_YoungJustice"
@@ -107514,7 +107517,8 @@
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v2",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_before",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_after",
-		"BF-11431_SamsungUnpackedQ32024_Hashmoji_Exception"
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji_Exception",
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension"
 	],
 	"ungoldeldibu": [
 		"BF-11421_PedidosYa_AR_CopaAmerica24_Before2",
@@ -110736,5 +110740,8 @@
 	],
 	"playoffpayoff": [
 		"BF_12982_FanDuel_Kick_of_Destiny_3_2025"
+	],
+	"ローソンでいちご狩り": [
+		"BF-12839_akiko_lawson_Hashmoji2024"
 	]
 }
