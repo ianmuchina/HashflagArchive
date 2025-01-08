@@ -87995,7 +87995,8 @@
 		"FanDuel_KickOfDestiny_2023_v2",
 		"BF_10182_FanDuel_Kick_of_Destiny_2_2024",
 		"KickOfDestiny_PRE_",
-		"BF_10436_SB_FD_KICK"
+		"BF_10436_SB_FD_KICK",
+		"BF_12983_FanDuel_Kick_of_Destiny_3_2025"
 	],
 	"kimetsuworldtour": [
 		"V2_KimetsunoYaibaDemonSlayer_2023_MovieLaunchEmoji"
@@ -110770,5 +110771,14 @@
 	],
 	"staysingle": [
 		"BF-12923_SonyPictures_HeartEyes_Hashmoji2024"
+	],
+	"kod3": [
+		"BF_12983_FanDuel_Kick_of_Destiny_3_2025"
+	],
+	"teameli": [
+		"BF-12987_FanDuel_Kick_of_Destiny_3_2025"
+	],
+	"teampeyton": [
+		"BF-12986_FanDuel_KickofDestiny3_Hashmoji2025"
 	]
 }
