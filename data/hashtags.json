@@ -8298,7 +8298,8 @@
 		"CDL_Team_2021_CHI",
 		"CDL_Team_OpTicTexas_2023_V2",
 		"CDL_Team_OpTicTExas_2023",
-		"OpTicGaming2024Emoji"
+		"OpTicGaming2024Emoji",
+		"OpticGaming2025"
 	],
 	"brickedup": [
 		"Overwatch_League_Florida_2022"
@@ -9061,7 +9062,8 @@
 		"LCS_2020_C9",
 		"LeagueofLegendsLCSTeamEmojisCloud9",
 		"LCS_Team_Cloud9_NewLogo_2023",
-		"Cloud9Emoji2024"
+		"Cloud9Emoji2024",
+		"Cloud92025"
 	],
 	"cabarancucitangan": [
 		"WHO_SafeHands_2020",
@@ -21192,7 +21194,8 @@
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_GalaxyUnpacked",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_GalaxyUnpacked_after",
-		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension"
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension",
+		"SamsungUnpackedQ32024_Hashmoji_REPROGRAM"
 	],
 	"galaxyzflip4": [
 		"GalaxyMobileJP_JPXmasBox_2022",
@@ -23529,7 +23532,8 @@
 		"Optic_Gaming_Season_2022",
 		"Optic_Gaming_Season_2022_v2",
 		"OpTic_Gaming_Emoji_2023",
-		"OpTicGaming2024Emoji"
+		"OpTicGaming2024Emoji",
+		"OpticGaming2025"
 	],
 	"gregheffley": [
 		"DisneyPlus_WimpyKid_CheeseTouch_2021_V2",
@@ -32777,7 +32781,8 @@
 		"LCS_2020_C9",
 		"LeagueofLegendsLCSTeamEmojisCloud9",
 		"LCS_Team_Cloud9_NewLogo_2023",
-		"Cloud9Emoji2024"
+		"Cloud9Emoji2024",
+		"Cloud92025"
 	],
 	"letsgocanes": [
 		"NHLTeam_2021_LetsGoCanes",
@@ -32815,7 +32820,8 @@
 		"LCSFranchiseLeagueEmoji-TeamLiquid2023",
 		"TeamLiquidEmoji2024",
 		"TeamLiquid2024EmojiV2",
-		"TeamLiquidEmojisV32024"
+		"TeamLiquidEmojisV32024",
+		"TeamLiquid2025"
 	],
 	"letsgonewarriors": [
 		"NRL_2020_LetsGoneWarriors",
@@ -50453,7 +50459,8 @@
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_before",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_during",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_after",
-		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension"
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension",
+		"SamsungUnpackedQ32024_Hashmoji_REPROGRAM"
 	],
 	"samuraiblue": [
 		"Japan_Football_Association_World_Cup_Qatar_Emblem_Nov_2022"
@@ -62488,7 +62495,8 @@
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_before",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_during",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_after",
-		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension"
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension",
+		"SamsungUnpackedQ32024_Hashmoji_REPROGRAM"
 	],
 	"unpackingyj": [
 		"DCFanDome2021_Oct_YoungJustice"
@@ -107297,7 +107305,8 @@
 	],
 	"vamosliquid": [
 		"TeamLiquid2024EmojiV2",
-		"TeamLiquidEmojisV32024"
+		"TeamLiquidEmojisV32024",
+		"TeamLiquid2025"
 	],
 	"bf456": [
 		"BFTEST456_BF-10928"
@@ -107531,7 +107540,8 @@
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_before",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji1_v3_after",
 		"BF-11431_SamsungUnpackedQ32024_Hashmoji_Exception",
-		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension"
+		"BF-11431_SamsungUnpackedQ32024_Hashmoji_ExceptionExtension",
+		"SamsungUnpackedQ32024_Hashmoji_REPROGRAM"
 	],
 	"ungoldeldibu": [
 		"BF-11421_PedidosYa_AR_CopaAmerica24_Before2",
@@ -110877,5 +110887,8 @@
 	],
 	"rexonanobbb25": [
 		"BF-13036_Rexona_BBB_2025"
+	],
+	"teamliquid25": [
+		"TeamLiquid2025"
 	]
 }
