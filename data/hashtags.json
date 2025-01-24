@@ -20036,7 +20036,8 @@
 		"LCS_Franchise_League_Emoji_-_FlyQuest_2023_v2",
 		"LCS_Franchise_League_Emoji_-_FlyQuest_2023",
 		"FlyQuestEmoji2024",
-		"FlyQuestEmoji2024V2"
+		"FlyQuestEmoji2024V2",
+		"FlyQuestHashmoji2025"
 	],
 	"fm21": [
 		"SEGA_FM21_2020"
@@ -104890,11 +104891,13 @@
 	],
 	"armtherebels": [
 		"ShopifyRebelsEmoji2024",
-		"ShopifyRebelsSummerSplit2024"
+		"ShopifyRebelsSummerSplit2024",
+		"ShopifyRebels2025"
 	],
 	"srwin": [
 		"ShopifyRebelsEmoji2024",
-		"ShopifyRebelsSummerSplit2024"
+		"ShopifyRebelsSummerSplit2024",
+		"ShopifyRebels2025"
 	],
 	"bbmzansi": [
 		"Big_Brother_Mzansi_South_Africa_2024"
@@ -107320,7 +107323,8 @@
 		"DignitasEmoji2024V2"
 	],
 	"timetofly": [
-		"FlyQuestEmoji2024V2"
+		"FlyQuestEmoji2024V2",
+		"FlyQuestHashmoji2025"
 	],
 	"vamosliquid": [
 		"TeamLiquid2024EmojiV2",
@@ -111044,5 +111048,11 @@
 	],
 	"somoslan": [
 		"LYONGaming2025"
+	],
+	"disguised": [
+		"DisguisedGaming2025"
+	],
+	"dsgwin": [
+		"DisguisedGaming2025"
 	]
 }
