@@ -36093,7 +36093,8 @@
 		"Masar_Oct_2022",
 		"Masar_Ramadan_Emoji",
 		"BF-10661_Hashmoji-Masar-Ramadan_2024",
-		"BF-12412_Masar-Cityscape_Hashmoji_2024"
+		"BF-12412_Masar-Cityscape_Hashmoji_2024",
+		"BF-13026_Umm_Alqura_Masar_Hashmoji_2025"
 	],
 	"mascaedestrava": [
 		"Trident_BR_2020",
@@ -71233,7 +71234,8 @@
 		"Masar_Oct_2022",
 		"Masar_Ramadan_Emoji",
 		"BF-10661_Hashmoji-Masar-Ramadan_2024",
-		"BF-12412_Masar-Cityscape_Hashmoji_2024"
+		"BF-12412_Masar-Cityscape_Hashmoji_2024",
+		"BF-13026_Umm_Alqura_Masar_Hashmoji_2025"
 	],
 	"ورلڈ_ہیلتھ_ڈے": [
 		"StayHome_2020_ItalianAdd",
@@ -109702,7 +109704,8 @@
 		"BF-12393_ABEMA_Hashmoji_20241109-20250207_Drama"
 	],
 	"معًا_نرسم_المسار_لمستقبل_مكة": [
-		"BF-12412_Masar-Cityscape_Hashmoji_2024"
+		"BF-12412_Masar-Cityscape_Hashmoji_2024",
+		"BF-13026_Umm_Alqura_Masar_Hashmoji_2025"
 	],
 	"愛のハンドサイン": [
 		"BF-12359_OtsukaPharmaceuticalFactory_Hashmoji2024"
@@ -111006,5 +111009,14 @@
 	],
 	"ltasul": [
 		"LTASul_Esports_2025"
+	],
+	"ltaespanol": [
+		"LTAEspanol2025"
+	],
+	"ummalqura_for_development_and_construction": [
+		"BF-13026_Umm_Alqura_Masar_Hashmoji_2025"
+	],
+	"شركة_أم_القرى_للتنمية_والإعمار": [
+		"BF-13026_Umm_Alqura_Masar_Hashmoji_2025"
 	]
 }
