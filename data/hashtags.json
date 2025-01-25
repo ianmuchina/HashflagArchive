@@ -25777,7 +25777,8 @@
 	"holocaustmemorialday": [
 		"InternationalHolocaustDayofRemembrance_2021",
 		"Holocaust_Memorial_Day_2022",
-		"Holocaust_Memorial_Day_2023"
+		"Holocaust_Memorial_Day_2023",
+		"BF-13097_Holocaust_Memorial_Day_2025"
 	],
 	"holocaustremembranceday": [
 		"InternationalHolocaustDayofRemembrance_2021"
@@ -65330,7 +65331,8 @@
 	],
 	"weremember": [
 		"InternationalHolocaustDayofRemembrance_2021",
-		"Holocaust_Memorial_Day_2023"
+		"Holocaust_Memorial_Day_2023",
+		"BF-13097_Holocaust_Memorial_Day_2025"
 	],
 	"weremember911": [
 		"September11_2021"
@@ -111054,5 +111056,8 @@
 	],
 	"dsgwin": [
 		"DisguisedGaming2025"
+	],
+	"holocaustmemorialday2025": [
+		"BF-13097_Holocaust_Memorial_Day_2025"
 	]
 }
