@@ -42020,7 +42020,8 @@
 		"BF-9882_OKX_BrandedEmoji_2023",
 		"BF-11031_OKX_Hashmoji",
 		"BF-11660_OKX_Twitter_Branded_Emoji_Hashmoji",
-		"BF-12280_OKX_Hashmoji2024"
+		"BF-12280_OKX_Hashmoji2024",
+		"BF_13025_OKX_Branded_Emoji_Jan_Mar_2025"
 	],
 	"okxchain": [
 		"OKC_Campaign_May_2022",
@@ -109445,10 +109446,12 @@
 		"BF-12205_20241021_illit_official_Hashmoji"
 	],
 	"anewalternative": [
-		"BF-12280_OKX_Hashmoji2024"
+		"BF-12280_OKX_Hashmoji2024",
+		"BF_13025_OKX_Branded_Emoji_Jan_Mar_2025"
 	],
 	"okxexplorer": [
-		"BF-12280_OKX_Hashmoji2024"
+		"BF-12280_OKX_Hashmoji2024",
+		"BF_13025_OKX_Branded_Emoji_Jan_Mar_2025"
 	],
 	"onchainanychain": [
 		"BF-12280_OKX_Hashmoji2024"
@@ -111060,5 +111063,11 @@
 	],
 	"holocaustmemorialday2025": [
 		"BF-13097_Holocaust_Memorial_Day_2025"
+	],
+	"mildmildwest": [
+		"BF_13025_OKX_Branded_Emoji_Jan_Mar_2025"
+	],
+	"wallet": [
+		"BF_13025_OKX_Branded_Emoji_Jan_Mar_2025"
 	]
 }
