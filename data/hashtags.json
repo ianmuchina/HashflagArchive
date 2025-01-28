@@ -7114,7 +7114,8 @@
 		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2",
 		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401",
 		"BF-11033_Binance_2024_Q2_Emoji",
-		"BF-12395_Binance_Hashmoji_after_v2"
+		"BF-12395_Binance_Hashmoji_after_v2",
+		"BF-13015_Binance_Hashmoji_Q1_2025"
 	],
 	"binance10m": [
 		"Binance_10M_Follower_Nov_2022"
@@ -104996,13 +104997,15 @@
 	"binancecampus": [
 		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401",
 		"BF-12395_Binance_Hashfetti_during",
-		"BF-12395_Binance_Hashmoji_after_v2"
+		"BF-12395_Binance_Hashmoji_after_v2",
+		"BF-13015_Binance_Hashmoji_Q1_2025"
 	],
 	"binancedragonyear": [
 		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
 	],
 	"ramadanwithbinance": [
-		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401"
+		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401",
+		"BF-13015_Binance_Hashmoji_Q1_2025"
 	],
 	"grammyhouse": [
 		"GRAMMYs2024_US_Ent"
@@ -109534,7 +109537,8 @@
 	],
 	"binanceangels": [
 		"BF-12395_Binance_Hashfetti_during",
-		"BF-12395_Binance_Hashmoji_after_v2"
+		"BF-12395_Binance_Hashmoji_after_v2",
+		"BF-13015_Binance_Hashmoji_Q1_2025"
 	],
 	"tamkeen_plus_card": [
 		"BF-12290_AlBiladBank_Hashmoji2024"
@@ -111070,5 +111074,8 @@
 	],
 	"wallet": [
 		"BF_13025_OKX_Branded_Emoji_Jan_Mar_2025"
+	],
+	"binancesnakeyear": [
+		"BF-13015_Binance_Hashmoji_Q1_2025"
 	]
 }
