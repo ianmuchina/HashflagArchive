@@ -55372,7 +55372,8 @@
 		"NFL_SB_2024",
 		"NFL_SB_2024_before",
 		"NFL_SB_2024_during",
-		"NFL_SB_2024_afterv1"
+		"NFL_SB_2024_afterv1",
+		"NFLSuperBowl2025"
 	],
 	"superbowlsquares": [
 		"Rocket_Mortgage_Jan_2022",
@@ -111127,5 +111128,11 @@
 	],
 	"نحو_آفاق_جديدة": [
 		"BF-13153_LEAP25_Q12025_HashmojiBeforeHashfetti"
+	],
+	"sblix": [
+		"NFLSuperBowl2025"
+	],
+	"superbowllix": [
+		"NFLSuperBowl2025"
 	]
 }
