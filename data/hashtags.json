@@ -29976,13 +29976,15 @@
 		"Hulu_Kardashians_S1_Apr_2022",
 		"Hulu_Kardashians_S2_Aug_2022",
 		"TheKardashians_Hulu_23",
-		"Kardashians_S4_Hulu"
+		"Kardashians_S4_Hulu",
+		"BF-13154_The_Kardashians_on_Hulu_Hashmoji"
 	],
 	"kardashianshulu": [
 		"Hulu_Kardashians_S1_Apr_2022",
 		"Hulu_Kardashians_S2_Aug_2022",
 		"TheKardashians_Hulu_23",
-		"Kardashians_S4_Hulu"
+		"Kardashians_S4_Hulu",
+		"BF-13154_The_Kardashians_on_Hulu_Hashmoji"
 	],
 	"kardashiansonhulu": [
 		"Hulu_Kardashians_S1_Apr_2022",
@@ -58528,13 +58530,15 @@
 		"Hulu_Kardashians_S2_Aug_2022",
 		"Hulu_Kardashians_2022_BL",
 		"TheKardashians_Hulu_23",
-		"Kardashians_S4_Hulu"
+		"Kardashians_S4_Hulu",
+		"BF-13154_The_Kardashians_on_Hulu_Hashmoji"
 	],
 	"thekardashiansonhulu": [
 		"Hulu_Kardashians_S1_Apr_2022",
 		"Hulu_Kardashians_S2_Aug_2022",
 		"TheKardashians_Hulu_23",
-		"Kardashians_S4_Hulu"
+		"Kardashians_S4_Hulu",
+		"BF-13154_The_Kardashians_on_Hulu_Hashmoji"
 	],
 	"thekidlaroi": [
 		"KidLaroi2021"
@@ -111200,5 +111204,8 @@
 	],
 	"letdkcook": [
 		"BF-13118_LetDKCook_Hashmoji_Before"
+	],
+	"thekardashianshulu": [
+		"BF-13154_The_Kardashians_on_Hulu_Hashmoji"
 	]
 }
