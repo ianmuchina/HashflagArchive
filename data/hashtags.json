@@ -13328,7 +13328,8 @@
 		"NASCARDAYTONA_500_2021",
 		"NASCAR_DAYTONA500_2023",
 		"Daytona500-2022",
-		"Nascar_DAYTONA500_"
+		"Nascar_DAYTONA500_",
+		"2025DAYTONA500"
 	],
 	"daytona500tailgate": [
 		"NASCARDAYTONA_500_2021"
@@ -110833,11 +110834,13 @@
 	],
 	"hearteyes": [
 		"BF-12923_SonyPictures_HeartEyes_Hashmoji2024",
-		"BF-12923_SonyPictures_HeartEyes_HashmojiBefore"
+		"BF-12923_SonyPictures_HeartEyes_HashmojiBefore",
+		"BF-12923_SonyPictures_HeartEyes_HashmojiDuring"
 	],
 	"hearteyeskiller": [
 		"BF-12923_SonyPictures_HeartEyes_Hashmoji2024",
-		"BF-12923_SonyPictures_HeartEyes_HashmojiBefore"
+		"BF-12923_SonyPictures_HeartEyes_HashmojiBefore",
+		"BF-12923_SonyPictures_HeartEyes_HashmojiDuring"
 	],
 	"hearteyesmovie": [
 		"BF-12923_SonyPictures_HeartEyes_Hashmoji2024",
@@ -110845,11 +110848,13 @@
 	],
 	"singlesawarenessday": [
 		"BF-12923_SonyPictures_HeartEyes_Hashmoji2024",
-		"BF-12923_SonyPictures_HeartEyes_HashmojiBefore"
+		"BF-12923_SonyPictures_HeartEyes_HashmojiBefore",
+		"BF-12923_SonyPictures_HeartEyes_HashmojiDuring"
 	],
 	"staysingle": [
 		"BF-12923_SonyPictures_HeartEyes_Hashmoji2024",
-		"BF-12923_SonyPictures_HeartEyes_HashmojiBefore"
+		"BF-12923_SonyPictures_HeartEyes_HashmojiBefore",
+		"BF-12923_SonyPictures_HeartEyes_HashmojiDuring"
 	],
 	"kod3": [
 		"BF_12983_FanDuel_Kick_of_Destiny_3_2025"
