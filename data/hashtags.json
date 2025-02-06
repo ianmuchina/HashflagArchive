@@ -5973,7 +5973,8 @@
 	"bdswin": [
 		"LEC_Team_BDS_2022",
 		"LeagueofLegends_Esports_TeamEmojis_TeamBDS",
-		"TeamBDSLEC2024"
+		"TeamBDSLEC2024",
+		"TeamBDSLEC2025"
 	],
 	"bdsy": [
 		"Bravo_BDSY_Feb_2022"
@@ -23214,7 +23215,8 @@
 		"LEC_Team_Rogue_2022",
 		"LEC_2020_Rogue",
 		"LEC_EM_2021_RGEWIN",
-		"RogueLECemoji2024"
+		"RogueLECemoji2024",
+		"RogueLEC2025"
 	],
 	"gorr": [
 		"Disney_Thor2_Gor_2022"
@@ -48920,7 +48922,8 @@
 		"LEC_Team_Rogue_2022",
 		"LEC_2020_Rogue",
 		"LEC_EM_2021_RGEWIN",
-		"RogueLECemoji2024"
+		"RogueLECemoji2024",
+		"RogueLEC2025"
 	],
 	"rgneverstops": [
 		"RolandGarros_May_2021"
@@ -104737,10 +104740,12 @@
 		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_after"
 	],
 	"kcorp": [
-		"KCorp2024Emoji"
+		"KCorp2024Emoji",
+		"KCorpLEC2025"
 	],
 	"kcwin": [
-		"KCorp2024Emoji"
+		"KCorp2024Emoji",
+		"KCorpLEC2025"
 	],
 	"motorolapeachfuzz": [
 		"BF-10181_Motorola_hashmoji_Jan-Apr-2024_during",
@@ -104785,7 +104790,8 @@
 		"LATAMAirlines_BBB2024_Brazil_CustomLike"
 	],
 	"gxwin": [
-		"GiantXLECEmoji2024"
+		"GiantXLECEmoji2024",
+		"GiantXLECEmoji2025"
 	],
 	"wearegiantx": [
 		"GiantXLECEmoji2024"
@@ -111276,5 +111282,14 @@
 	"컨버스": [
 		"BF-13040_converse_kr_FEB6_Hashfetti_Hashmoji_before",
 		"BF-13040_converse_kr_FEB6_Hashfetti_Hashmoji_during"
+	],
+	"challengethegame": [
+		"TeamBDSLEC2025"
+	],
+	"gomkoi": [
+		"MKOILECEsports2025"
+	],
+	"mkoiwin": [
+		"MKOILECEsports2025"
 	]
 }
