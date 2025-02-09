@@ -78510,7 +78510,8 @@
 		"Premium_Malts_Renewal_CPN_Feb23__after",
 		"Premium_Malts_Renewal_CPN_Feb23__during",
 		"Premium_Malts_Renewal_CPN_Feb23__before",
-		"Hashmoji_PremiumMalts_jp_July-2023"
+		"Hashmoji_PremiumMalts_jp_July-2023",
+		"BF_13172_SUNTORY_PremiumMalts_Japan_2025_Hashmoji"
 	],
 	"プロスピa": [
 		"prospiA_PR_2020",
@@ -111395,5 +111396,20 @@
 	],
 	"thekoolaidman": [
 		"BF-13140_KoolAidMan_Hashmoji_Updated"
+	],
+	"プレモル子ちゃん": [
+		"BF_13172_SUNTORY_PremiumMalts_Japan_2025_Hashmoji"
+	],
+	"プレモル子ちゃん始まる": [
+		"BF_13172_SUNTORY_PremiumMalts_Japan_2025_Hashmoji"
+	],
+	"ラロッシュポゼ": [
+		"BF_13112_NihonLoreal_LA_ROCHE_POSAY_2025_Hashtagemoji"
+	],
+	"日中くすみケア": [
+		"BF_13112_NihonLoreal_LA_ROCHE_POSAY_2025_Hashtagemoji"
+	],
+	"生ツヤ肌トーンアップuv": [
+		"BF_13112_NihonLoreal_LA_ROCHE_POSAY_2025_Hashtagemoji"
 	]
 }
