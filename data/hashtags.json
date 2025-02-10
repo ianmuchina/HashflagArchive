@@ -111277,7 +111277,8 @@
 		"BF-13063_Mizuho_Bank_2025_Feb_v2"
 	],
 	"letdkcook": [
-		"BF-13118_LetDKCook_Hashmoji_Before"
+		"BF-13118_LetDKCook_Hashmoji_Before",
+		"BF-13118_LetDKCook_Hashmoji_After"
 	],
 	"thekardashianshulu": [
 		"BF-13154_The_Kardashians_on_Hulu_Hashmoji"
@@ -111622,5 +111623,17 @@
 	],
 	"loveandhyperbole": [
 		"AlessiaCaraLoveHyperbole2025"
+	],
+	"genreology": [
+		"TUBI_FEB2025_OTHERHASH"
+	],
+	"seeyouinthere": [
+		"TUBI_FEB2025_OTHERHASH"
+	],
+	"tubisuperbowl": [
+		"TUBI_FEB2025_OTHERHASH"
+	],
+	"tubitv": [
+		"TUBI_FEB2025_OTHERHASH"
 	]
 }
