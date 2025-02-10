@@ -71087,7 +71087,8 @@
 		"Saudi_National_Bank_Saudi_National_Day_and_Mobile_App_Campaign_Sept_2022"
 	],
 	"معرض_مستقبل_الإعلام": [
-		"TV_and_Radio_Festival_Nov_2022"
+		"TV_and_Radio_Festival_Nov_2022",
+		"BF-13220_SaudiMediaForum"
 	],
 	"ملخصspotify": [
 		"Spotify2020Wrapped_H1",
@@ -71258,7 +71259,8 @@
 	"هيئة_الإذاعة_والتلفزيون": [
 		"SBA_Apr_2022",
 		"Saudi_TV_Emoji",
-		"BF-10662_Hashmoji_SBA_Ramadan_2024"
+		"BF-10662_Hashmoji_SBA_Ramadan_2024",
+		"BF-13220_SaudiMediaForum"
 	],
 	"هيئة_الترفيه": [
 		"GEA_June_2021",
@@ -111635,5 +111637,14 @@
 	],
 	"tubitv": [
 		"TUBI_FEB2025_OTHERHASH"
+	],
+	"saudimediaforum": [
+		"BF-13220_SaudiMediaForum"
+	],
+	"الإعلام_في_عالم_يتشكل": [
+		"BF-13220_SaudiMediaForum"
+	],
+	"المنتدى_السعودي_للإعلام": [
+		"BF-13220_SaudiMediaForum"
 	]
 }
