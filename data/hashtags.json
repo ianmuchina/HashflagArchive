@@ -111410,7 +111410,8 @@
 	],
 	"onlylays": [
 		"BF-13198_OnlyLays_SB_HashmojiEarly",
-		"BF-13198_OnlyLays_SB_HashmojiBefore"
+		"BF-13198_OnlyLays_SB_HashmojiBefore",
+		"BF-13198_OnlyLays_SB_HashfmojiAfter"
 	],
 	"sazonnobbb": [
 		"BF-13201_SAZON_AON_BBB_2025"
