@@ -2250,7 +2250,8 @@
 		"AlessiaCara2021"
 	],
 	"alessiacara": [
-		"AlessiaCara2021"
+		"AlessiaCara2021",
+		"AlessiaCaraLoveHyperbole2025"
 	],
 	"alexagram2021": [
 		"Alexagram2021"
@@ -111303,7 +111304,8 @@
 		"BF-13100_ELM_Leap_Hashmoji_2025_"
 	],
 	"doritoscrash": [
-		"BF-13116_DoritoCrash_HashmojiBefore"
+		"BF-13116_DoritoCrash_HashmojiBefore",
+		"BF-13116_DoritoCrash_HashmojiAfter"
 	],
 	"btw2025": [
 		"German_Federal_Election_2025_BF-13146"
@@ -111616,5 +111618,8 @@
 	],
 	"sid2025": [
 		"BF-13218_SaferInternetDay_Organic_2025Q1"
+	],
+	"loveandhyperbole": [
+		"AlessiaCaraLoveHyperbole2025"
 	]
 }
