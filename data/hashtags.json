@@ -105381,7 +105381,8 @@
 		"Valentines_Day_24"
 	],
 	"valentinesday": [
-		"Valentines_Day_24"
+		"Valentines_Day_24",
+		"ValentinesDay_Custom_Like_Global_BF_13256"
 	],
 	"newshowmax": [
 		"BF-10433_Showmax_Hashmoji_2024"
@@ -111680,5 +111681,20 @@
 	],
 	"jeddaheprix": [
 		"BF-13174_JeddahEprix_Hashmoji_During"
+	],
+	"diadosnamorados": [
+		"ValentinesDay_Custom_Like_Global_BF_13256"
+	],
+	"díadesanvalentín": [
+		"ValentinesDay_Custom_Like_Global_BF_13256"
+	],
+	"joyeusesaintvalentin": [
+		"ValentinesDay_Custom_Like_Global_BF_13256"
+	],
+	"バレンタインデー": [
+		"ValentinesDay_Custom_Like_Global_BF_13256"
+	],
+	"情人节": [
+		"ValentinesDay_Custom_Like_Global_BF_13256"
 	]
 }
