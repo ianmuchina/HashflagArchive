@@ -110348,12 +110348,14 @@
 	"somoslaperrada": [
 		"MXplaydoitcasino_hashemoji_15dec",
 		"MXplaydoitcasino_4hashemoji_15dec",
-		"BF-12778_playdoitmexico_NFL_Football_Hashmoji"
+		"BF-12778_playdoitmexico_NFL_Football_Hashmoji",
+		"BF-13242_playdoitmexico_Q1_Soccer"
 	],
 	"viernesdebonosplaydoit": [
 		"MXplaydoitcasino_hashemoji_15dec",
 		"MXplaydoitcasino_4hashemoji_15dec",
-		"BF-12778_playdoitmexico_NFL_Football_Hashmoji"
+		"BF-12778_playdoitmexico_NFL_Football_Hashmoji",
+		"BF-13242_playdoitmexico_Q1_Soccer"
 	],
 	"finalplaydoit": [
 		"MXplaydoitcasino_1hashemoji_15dec"
@@ -110363,7 +110365,8 @@
 	],
 	"playdoitmx": [
 		"MXplaydoitcasino_4hashemoji_15dec",
-		"BF-12778_playdoitmexico_NFL_Football_Hashmoji"
+		"BF-12778_playdoitmexico_NFL_Football_Hashmoji",
+		"BF-13242_playdoitmexico_Q1_Soccer"
 	],
 	"semifinalplaydoit": [
 		"MXplaydoitcasino_4hashemoji_15dec"
@@ -111704,5 +111707,11 @@
 	],
 	"جدة_إي_بري": [
 		"BF-13174_JeddahEprix_Hashmoji_After_CustomLikes"
+	],
+	"championsplaydoit": [
+		"BF-13242_playdoitmexico_Q1_Soccer"
+	],
+	"kwainobbb": [
+		"BF-13168_Kwai_BBB_2025_Hashmoji"
 	]
 }
