@@ -102270,7 +102270,8 @@
 		"New_logo_for_Alinma_App"
 	],
 	"تطبيق_الإنماء": [
-		"New_logo_for_Alinma_App"
+		"New_logo_for_Alinma_App",
+		"BF-13182_Alinma_Bank_Hashmoji_KSA"
 	],
 	"حساب_الأسرة": [
 		"New_logo_for_Alinma_App"
@@ -102279,7 +102280,8 @@
 		"New_logo_for_Alinma_App"
 	],
 	"مصرف_الإنماء": [
-		"New_logo_for_Alinma_App"
+		"New_logo_for_Alinma_App",
+		"BF-13182_Alinma_Bank_Hashmoji_KSA"
 	],
 	"newkfcfries": [
 		"KFC_Fries_23_Hashmoji"
@@ -111767,5 +111769,14 @@
 	],
 	"bomprakwai": [
 		"BF_13175_Kwai_BBB_2025_Hashmoji_BomPraKwai"
+	],
+	"alinma": [
+		"BF-13182_Alinma_Bank_Hashmoji_KSA"
+	],
+	"الإنماء": [
+		"BF-13182_Alinma_Bank_Hashmoji_KSA"
+	],
+	"نبتكر_لنتقدم": [
+		"BF-13182_Alinma_Bank_Hashmoji_KSA"
 	]
 }
