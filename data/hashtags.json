@@ -52054,7 +52054,8 @@
 		"SHEIN_Sep2023_Hashmoji_During",
 		"SHEIN_Sep2023_Hashmoji_After",
 		"BF-10323_2024_SHEIN_Ramadan_Campaign",
-		"BF-11259_2024_SHEIN_Eid_Campaign_Hashmoji"
+		"BF-11259_2024_SHEIN_Eid_Campaign_Hashmoji",
+		"BF-13236_SHEIN_Ramadan_Hashmoji2025_V2"
 	],
 	"sheinfw21": [
 		"SHEINX100KCHALLENGE_2021"
@@ -88686,7 +88687,8 @@
 	"sheinramadan": [
 		"SHEIN_Ramadan_Campaign_2023_before",
 		"SHEIN_Ramadan_Campaign_2023_after",
-		"BF-10323_2024_SHEIN_Ramadan_Campaign"
+		"BF-10323_2024_SHEIN_Ramadan_Campaign",
+		"BF-13236_SHEIN_Ramadan_Hashmoji2025_V2"
 	],
 	"sirenetta": [
 		"DisneyTH_TheLittleMermaid_Ariel_2023_V2",
@@ -111783,5 +111785,29 @@
 	],
 	"جائزة_التميز_الإعلامي": [
 		"BF-13045_MediaAwardsKSA_Feb2025"
+	],
+	"matchinghearts": [
+		"BF-13236_SHEIN_Ramadan_Hashmoji2025_V2"
+	],
+	"ramadanwithshein": [
+		"BF-13236_SHEIN_Ramadan_Hashmoji2025_V2"
+	],
+	"sama": [
+		"BF-13337_SaudiRiyalSymbol_Feb2025_Hashmoji"
+	],
+	"saudiriyalsymbol": [
+		"BF-13337_SaudiRiyalSymbol_Feb2025_Hashmoji"
+	],
+	"sheinbetterliving": [
+		"BF-13236_SHEIN_Ramadan_Hashmoji2025_V2"
+	],
+	"البنك_المركزي_السعودي": [
+		"BF-13337_SaudiRiyalSymbol_Feb2025_Hashmoji"
+	],
+	"رمز_الريال_السعودي": [
+		"BF-13337_SaudiRiyalSymbol_Feb2025_Hashmoji"
+	],
+	"ساما": [
+		"BF-13337_SaudiRiyalSymbol_Feb2025_Hashmoji"
 	]
 }
