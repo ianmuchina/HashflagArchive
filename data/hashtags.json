@@ -50698,7 +50698,8 @@
 		"SDAIA_Dec_2020"
 	],
 	"saudifoundingday": [
-		"Saudi_Founding_Day_2022_v2"
+		"Saudi_Founding_Day_2022_v2",
+		"BF-13237_SaudiFoundingDay_MOC_2025_HashmojiDuring"
 	],
 	"saudigerman": [
 		"FirstSaudiGermanHospital2020"
@@ -63156,7 +63157,8 @@
 		"VALORANT_Champions_Tour_2021_add",
 		"VCTMastersJune2023",
 		"VALORANTMastersMadrid2024",
-		"VCTMastersShanghai2024"
+		"VCTMastersShanghai2024",
+		"VCTMastersBangkok2025"
 	],
 	"valquíria": [
 		"Disney_Thor2_Valkyrie_2022"
@@ -111821,5 +111823,8 @@
 	],
 	"マチュ": [
 		"BF-13216_G_GQuuuuuuX_22thJan2025_Brandemoji_BandaiNamcoFilmWorks_v2"
+	],
+	"أساس_حاضر": [
+		"BF-13250_SaudiFoundingDay_MOC_LPTC_2025_HashmojiiAfter"
 	]
 }
