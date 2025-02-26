@@ -79276,7 +79276,8 @@
 		"monst_mixi_2020_JP_10_4"
 	],
 	"モンハン": [
-		"Monster_Hunter_Rise_Sunbreak_Jun_2022_v2"
+		"Monster_Hunter_Rise_Sunbreak_Jun_2022_v2",
+		"BF-13217_MH_Wilds_Hashmoji_Launch"
 	],
 	"モンハンに集まろう": [
 		"MH_Rise_JP_03_25_2021"
@@ -79910,7 +79911,8 @@
 	],
 	"一狩りいこうぜ": [
 		"MH_Rise_JP_03_25_2021",
-		"Monster_Hunter_Rise_Sunbreak_Jun_2022_v2"
+		"Monster_Hunter_Rise_Sunbreak_Jun_2022_v2",
+		"BF-13217_MH_Wilds_Hashmoji_Launch"
 	],
 	"一番搾り": [
 		"KIRINichibanJapan_2021",
@@ -111867,5 +111869,14 @@
 	],
 	"สเปรย์ม่วงมิลค์เชค": [
 		"BF-13330_LOreal_Maybelline_Hashmoji_during"
+	],
+	"mhwilds": [
+		"BF-13217_MH_Wilds_Hashmoji_Launch"
+	],
+	"アイルー": [
+		"BF-13217_MH_Wilds_Hashmoji_Launch"
+	],
+	"モンハンワイルズ": [
+		"BF-13217_MH_Wilds_Hashmoji_Launch"
 	]
 }
