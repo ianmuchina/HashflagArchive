@@ -36406,7 +36406,8 @@
 		"BF-11387_LOreal_Maybelline_TH_hashmoji_before",
 		"BF-11387_LOreal_Maybelline_TH_hashmoji_during",
 		"BF-11387_LOreal_Maybelline_TH_hashmoji_after",
-		"BF-13330_LOreal_Maybelline_Hashmoji_during"
+		"BF-13330_LOreal_Maybelline_Hashmoji_during",
+		"BF-13330_LOreal_Maybelline_Hashmoji_after"
 	],
 	"maybeyoujustneeda": [
 		"SnickersxNFL_2021_snickersbar"
@@ -111862,13 +111863,16 @@
 		"FridayyAlbumReleaseFeb25"
 	],
 	"lumimattefamily": [
-		"BF-13330_LOreal_Maybelline_Hashmoji_during"
+		"BF-13330_LOreal_Maybelline_Hashmoji_during",
+		"BF-13330_LOreal_Maybelline_Hashmoji_after"
 	],
 	"mnyfacetival": [
-		"BF-13330_LOreal_Maybelline_Hashmoji_during"
+		"BF-13330_LOreal_Maybelline_Hashmoji_during",
+		"BF-13330_LOreal_Maybelline_Hashmoji_after"
 	],
 	"สเปรย์ม่วงมิลค์เชค": [
-		"BF-13330_LOreal_Maybelline_Hashmoji_during"
+		"BF-13330_LOreal_Maybelline_Hashmoji_during",
+		"BF-13330_LOreal_Maybelline_Hashmoji_after"
 	],
 	"mhwilds": [
 		"BF-13217_MH_Wilds_Hashmoji_Launch"
@@ -111878,5 +111882,8 @@
 	],
 	"モンハンワイルズ": [
 		"BF-13217_MH_Wilds_Hashmoji_Launch"
+	],
+	"maybellinexorm": [
+		"BF-13330_LOreal_Maybelline_Hashmoji_after"
 	]
 }
