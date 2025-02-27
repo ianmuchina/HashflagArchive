@@ -101971,7 +101971,8 @@
 		"LVSS24_Fashion_Show"
 	],
 	"アルティミューン": [
-		"Hashmoji_SHISEIDO_brand_10_1_JST"
+		"Hashmoji_SHISEIDO_brand_10_1_JST",
+		"BF_13262_Shiseido_BS_Feb_2025"
 	],
 	"サントリー生ビール": [
 		"Suntory_Draft_Beer_Hashmoji_2023"
@@ -111889,5 +111890,8 @@
 	],
 	"إحساسك_في_محله": [
 		"BF-13370_AlMajedOud_Hashmoji_Q12025"
+	],
+	"除去する美容液": [
+		"BF_13262_Shiseido_BS_Feb_2025"
 	]
 }
