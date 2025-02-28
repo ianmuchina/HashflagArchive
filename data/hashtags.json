@@ -70390,7 +70390,8 @@
 		"ShahidVOD_Ramadan_2022",
 		"MBC_Ramadan_2023",
 		"BF-10571_ShahidVOD_Ramadan_Hashmoji",
-		"BF-10571_ShahidVOD_Ramadan_Hashmoji_"
+		"BF-10571_ShahidVOD_Ramadan_Hashmoji_",
+		"BF_13239_MBC_Hashomoji_Ramadan"
 	],
 	"روح_السعودية": [
 		"SaudiTourism_2020",
@@ -110102,15 +110103,18 @@
 	],
 	"gettingthereiscloser": [
 		"BF-12651_RiyadhMetro_Nov24_HashmojiDuring",
-		"BF-12651_RiyadhMetro_Nov24_HashmojiAfterv1"
+		"BF-12651_RiyadhMetro_Nov24_HashmojiAfterv1",
+		"BF-12651_RiyadhMetro_Q125_HashmojiExtension"
 	],
 	"riyadhmetro": [
 		"BF-12651_RiyadhMetro_Nov24_HashmojiDuring",
-		"BF-12651_RiyadhMetro_Nov24_HashmojiAfterv1"
+		"BF-12651_RiyadhMetro_Nov24_HashmojiAfterv1",
+		"BF-12651_RiyadhMetro_Q125_HashmojiExtension"
 	],
 	"كل_درب_أقرب": [
 		"BF-12651_RiyadhMetro_Nov24_HashmojiDuring",
-		"BF-12651_RiyadhMetro_Nov24_HashmojiAfterv1"
+		"BF-12651_RiyadhMetro_Nov24_HashmojiAfterv1",
+		"BF-12651_RiyadhMetro_Q125_HashmojiExtension"
 	],
 	"맥도날드_크리스마스의맛": [
 		"BF-12548_Mcdonald_KR_Hashmoji_after"
@@ -110132,7 +110136,8 @@
 		"BF-12633_BCA_PoketValas_Hashmoji_after"
 	],
 	"قطار_الرياض": [
-		"BF-12651_RiyadhMetro_Nov24_HashmojiAfterv1"
+		"BF-12651_RiyadhMetro_Nov24_HashmojiAfterv1",
+		"BF-12651_RiyadhMetro_Q125_HashmojiExtension"
 	],
 	"roxギルド募集": [
 		"BF-12533_GungHo_ragnarokx_jp_Hashmoji2024"
@@ -111915,5 +111920,8 @@
 	],
 	"الجود_يبي_له_وقفه": [
 		"BF-13399_Saudi_Generosity_province_hashmoji_2025v1"
+	],
+	"ramadanwithus": [
+		"BF_13239_MBC_Hashomoji_Ramadan"
 	]
 }
