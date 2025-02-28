@@ -46959,7 +46959,8 @@
 	],
 	"pubgmobile": [
 		"PUBGMOBILE_JP2022May",
-		"PUBG_YearEnd_2022"
+		"PUBG_YearEnd_2022",
+		"BF-13352_PUBG_Hashmoji_before"
 	],
 	"pubgmから逃げちゃダメだ": [
 		"PUBGMOBILE_JP2022May_2"
@@ -111923,5 +111924,17 @@
 	],
 	"ramadanwithus": [
 		"BF_13239_MBC_Hashomoji_Ramadan"
+	],
+	"pubgm370": [
+		"BF-13352_PUBG_Hashmoji_before"
+	],
+	"اضغط_لبدء_مغامرة_الجمل": [
+		"BF-13352_PUBG_Hashmoji_before"
+	],
+	"ببجي": [
+		"BF-13352_PUBG_Hashmoji_before"
+	],
+	"ببجي_موبايل": [
+		"BF-13352_PUBG_Hashmoji_before"
 	]
 }
