@@ -105706,7 +105706,8 @@
 	"mbc1": [
 		"BF-10636_MBC_Ramadan_2024",
 		"BF-10636_MBC_Ramadan_2024_Hashmojis",
-		"BF-13362_MBCRamadan_HashmojiDuring"
+		"BF-13362_MBCRamadan_HashmojiDuring",
+		"BF-13362_MBCRamadan_HashmojiAfter"
 	],
 	"رمضان_يجمعنا": [
 		"BF-10636_MBC_Ramadan_2024",
@@ -105716,7 +105717,8 @@
 	"فنانيس": [
 		"BF-10636_MBC_Ramadan_2024",
 		"BF-10636_MBC_Ramadan_2024_Hashmojis",
-		"BF-13362_MBCRamadan_HashmojiDuring"
+		"BF-13362_MBCRamadan_HashmojiDuring",
+		"BF-13362_MBCRamadan_HashmojiAfter"
 	],
 	"everyoneshubblin": [
 		"BF-10676_Hubbl_2024_Hashmojis"
@@ -111955,5 +111957,8 @@
 	],
 	"علاقة_طويلة_عمر": [
 		"BF-13338_Al_Rajhi_bank_KSA_March25_Hashmoji"
+	],
+	"مضان_يجمعنا": [
+		"BF-13362_MBCRamadan_HashmojiAfter"
 	]
 }
