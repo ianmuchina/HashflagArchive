@@ -4491,7 +4491,8 @@
 		"Ubisoft_AssassinsCreed_2020_Flight3",
 		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Beforev1",
 		"Ubisoft_AssassinsCreedMirage_Launch_US_CustomLikev1",
-		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Afterv1"
+		"Ubisoft_AssassinsCreedMirage_Launch23_Hashmoji_Afterv1",
+		"BF-13034_AssassinsCreedShadows_Q125_HashmojiOutsideCL"
 	],
 	"assassinscreedvalhalla": [
 		"Ubisoft_AssassinsCreed_2020",
@@ -111988,5 +111989,32 @@
 	],
 	"bitgetfutures": [
 		"BF_13280_Bitgetglobal_2025_Q1_Hashmoji_3_Mar_25_3_Jun_25"
+	],
+	"acshadows": [
+		"BF-13034_AssassinsCreedShadows_Q125_HashmojiOutsideCL"
+	],
+	"assassinscreedshadows": [
+		"BF-13034_AssassinsCreedShadows_Q125_Hashmoji_CLHashtagBefore"
+	],
+	"kasihtenang": [
+		"BF-13322_ID_Tokopedia_Hashmoji_Ramadan_2025"
+	],
+	"naoe": [
+		"BF-13034_AssassinsCreedShadows_Q125_HashmojiOutsideCL"
+	],
+	"promoakbar": [
+		"BF-13322_ID_Tokopedia_Hashmoji_Ramadan_2025"
+	],
+	"ramadanekstraseru": [
+		"BF-13322_ID_Tokopedia_Hashmoji_Ramadan_2025"
+	],
+	"tokopedia": [
+		"BF-13322_ID_Tokopedia_Hashmoji_Ramadan_2025-2"
+	],
+	"tokopediaramadan": [
+		"BF-13322_ID_Tokopedia_Hashmoji_Ramadan_2025"
+	],
+	"yasuke": [
+		"BF-13034_AssassinsCreedShadows_Q125_HashmojiOutsideCL"
 	]
 }
