@@ -98976,7 +98976,8 @@
 		"BF-11112_Q2_2024_Bitgetglobal_hashmoji",
 		"BF-11666_Q324_Bitgetglobal",
 		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024",
-		"BF-12552_Bitgetglobal_Q4Hashmoji2024"
+		"BF-12552_Bitgetglobal_Q4Hashmoji2024",
+		"BF_13280_Bitgetglobal_2025_Q1_Hashmoji_3_Mar_25_3_Jun_25"
 	],
 	"bitget": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -98987,7 +98988,8 @@
 		"BF-11112_Q2_2024_Bitgetglobal_hashmoji",
 		"BF-11666_Q324_Bitgetglobal",
 		"BF-11805_Q3_BitgetglobalAnniversary_Hasmoji2024",
-		"BF-12552_Bitgetglobal_Q4Hashmoji2024"
+		"BF-12552_Bitgetglobal_Q4Hashmoji2024",
+		"BF_13280_Bitgetglobal_2025_Q1_Hashmoji_3_Mar_25_3_Jun_25"
 	],
 	"bitget5thanniversary": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -106606,7 +106608,8 @@
 	],
 	"bitgetspot": [
 		"BF-11112_Q2_2024_Bitgetglobal_hashmoji",
-		"BF-11666_Q324_Bitgetglobal"
+		"BF-11666_Q324_Bitgetglobal",
+		"BF_13280_Bitgetglobal_2025_Q1_Hashmoji_3_Mar_25_3_Jun_25"
 	],
 	"rebaacm": [
 		"ACM24Host"
@@ -110181,7 +110184,8 @@
 		"BF-12552_Bitgetglobal_Q4Hashmoji2024"
 	],
 	"eventwithbitget": [
-		"BF-12552_Bitgetglobal_Q4Hashmoji2024"
+		"BF-12552_Bitgetglobal_Q4Hashmoji2024",
+		"BF_13280_Bitgetglobal_2025_Q1_Hashmoji_3_Mar_25_3_Jun_25"
 	],
 	"lineギフト": [
 		"BF-12588_LYCorporation_LINEGIFT_vol1_Hashmoji2024V2",
@@ -111870,14 +111874,17 @@
 	],
 	"thenextpinnacle": [
 		"BF-13243_Xiaomi_MWC_Hashmoji_before_v2",
-		"BF-13243_Xiaomi_MWC_Hashmoji_during_v3"
+		"BF-13243_Xiaomi_MWC_Hashmoji_during_v3",
+		"BF-13243_Xiaomi_MWC_Hashmoji_after"
 	],
 	"xiaomi15series": [
-		"BF-13243_Xiaomi_MWC_Hashmoji_before_v2"
+		"BF-13243_Xiaomi_MWC_Hashmoji_before_v2",
+		"BF-13243_Xiaomi_MWC_Hashmoji_after"
 	],
 	"xiaomi15ultra": [
 		"BF-13243_Xiaomi_MWC_Hashmoji_before_v2",
-		"BF-13243_Xiaomi_MWC_Hashmoji_during_v3"
+		"BF-13243_Xiaomi_MWC_Hashmoji_during_v3",
+		"BF-13243_Xiaomi_MWC_Hashmoji_after"
 	],
 	"sdigsdin": [
 		"FridayyAlbumReleaseFeb25"
@@ -111978,5 +111985,8 @@
 	],
 	"心に京都を": [
 		"BF-13361_Suntory_Iyemon_Japan_2025_Hashfetti_during"
+	],
+	"bitgetfutures": [
+		"BF_13280_Bitgetglobal_2025_Q1_Hashmoji_3_Mar_25_3_Jun_25"
 	]
 }
