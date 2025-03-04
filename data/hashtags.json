@@ -13128,7 +13128,8 @@
 		"Disney_Wandavision_2021_DarcyLewis"
 	],
 	"daredevil": [
-		"DisneyPlus_SheHulk_S1_DareDevil"
+		"DisneyPlus_SheHulk_S1_DareDevil",
+		"DisneyPlus_Daredevil_BornAgain_2025"
 	],
 	"daretosayhisname": [
 		"Candyman_2020_ext_v2",
@@ -36327,7 +36328,8 @@
 		"TheBachelor_2021"
 	],
 	"mattmurdock": [
-		"DisneyPlus_SheHulk_S1_MattMurdock"
+		"DisneyPlus_SheHulk_S1_MattMurdock",
+		"DisneyPlus_Daredevil_BornAgain_2025"
 	],
 	"mattmurdockattorneyatlaw": [
 		"DisneyPlus_SheHulk_S1_MattMurdock"
@@ -112016,5 +112018,14 @@
 	],
 	"yasuke": [
 		"BF-13034_AssassinsCreedShadows_Q125_HashmojiOutsideCL"
+	],
+	"daredevilbornagain": [
+		"DisneyPlus_Daredevil_BornAgain_2025"
+	],
+	"fandomwithoutfear": [
+		"DisneyPlus_Daredevil_BornAgain_2025"
+	],
+	"themanwithoutfear": [
+		"DisneyPlus_Daredevil_BornAgain_2025"
 	]
 }
