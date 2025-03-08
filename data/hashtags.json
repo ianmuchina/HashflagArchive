@@ -112158,18 +112158,25 @@
 		"BF-1334_NetflixJP_18ce55g4649_Hashmoji_20250308_20250606_Otsukaresama"
 	],
 	"bus_lighttheworldxdutchmill": [
-		"BF-13365_DutchMillYogurt_Hashmoji_during"
+		"BF-13365_DutchMillYogurt_Hashmoji_during",
+		"BF-13365_DutchMillYogurt_Hashmoji_after"
 	],
 	"ชาร์จพลังไวชาร์จได้ทุกวัน": [
-		"BF-13365_DutchMillYogurt_Hashmoji_during"
+		"BF-13365_DutchMillYogurt_Hashmoji_during",
+		"BF-13365_DutchMillYogurt_Hashmoji_after"
 	],
 	"ชาร์จพลังไวพร้อมshineไปกับbus": [
-		"BF-13365_DutchMillYogurt_Hashmoji_during"
+		"BF-13365_DutchMillYogurt_Hashmoji_during",
+		"BF-13365_DutchMillYogurt_Hashmoji_after"
 	],
 	"นมเปรี้ยวดัชมิลล์": [
-		"BF-13365_DutchMillYogurt_Hashmoji_during"
+		"BF-13365_DutchMillYogurt_Hashmoji_during",
+		"BF-13365_DutchMillYogurt_Hashmoji_after"
 	],
 	"おつかれさま": [
 		"BF-1334_NetflixJP_18ce55g4649_Hashmoji_20250308_20250606_Otsukaresamav1"
+	],
+	"dutchmillxbus": [
+		"BF-13365_DutchMillYogurt_Hashmoji_after"
 	]
 }
