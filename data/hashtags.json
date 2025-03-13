@@ -70444,7 +70444,8 @@
 	"زكاتي": [
 		"Zakaty_May_2021",
 		"SaudiZakaty_Apr_2022",
-		"ZAKATY"
+		"ZAKATY",
+		"BF-13455_Zakaty_March2025_Hashmoji"
 	],
 	"زكاتي_تصلهم": [
 		"SaudiZakaty_Apr_2022"
@@ -112244,5 +112245,8 @@
 	],
 	"世界睡眠デーはニャオハとの約束を": [
 		"BF-13378_PokemonSleepApp_Mar_2025_emoji_v2"
+	],
+	"زكاتك_واصلة": [
+		"BF-13455_Zakaty_March2025_Hashmoji"
 	]
 }
