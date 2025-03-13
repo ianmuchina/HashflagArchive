@@ -102332,7 +102332,8 @@
 		"KayoSports_CWC_23_after"
 	],
 	"kayosports": [
-		"KayoSports_CWC_23_after"
+		"KayoSports_CWC_23_after",
+		"BF-13324_KayoSports_Hashmoji_During"
 	],
 	"patandterry": [
 		"Starz_ShiningVale_S2_Hashmoji_2023"
@@ -112248,5 +112249,8 @@
 	],
 	"زكاتك_واصلة": [
 		"BF-13455_Zakaty_March2025_Hashmoji"
+	],
+	"kayo": [
+		"BF-13324_KayoSports_Hashmoji_During"
 	]
 }
