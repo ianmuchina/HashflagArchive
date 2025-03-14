@@ -102333,7 +102333,8 @@
 	],
 	"kayosports": [
 		"KayoSports_CWC_23_after",
-		"BF-13324_KayoSports_Hashmoji_During"
+		"BF-13324_KayoSports_Hashmoji_During",
+		"BF-13324_KayoSports_Hashmoji_After"
 	],
 	"patandterry": [
 		"Starz_ShiningVale_S2_Hashmoji_2023"
@@ -112251,9 +112252,13 @@
 		"BF-13455_Zakaty_March2025_Hashmoji"
 	],
 	"kayo": [
-		"BF-13324_KayoSports_Hashmoji_During"
+		"BF-13324_KayoSports_Hashmoji_During",
+		"BF-13324_KayoSports_Hashmoji_After"
 	],
 	"xbracketchallenge": [
 		"XBracket_Challenge_HashmojiOnly_Pre_BF_13538"
+	],
+	"kayosupersaturday": [
+		"BF-13324_KayoSports_Hashmoji_After"
 	]
 }
