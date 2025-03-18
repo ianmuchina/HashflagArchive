@@ -112311,10 +112311,12 @@
 		"BF-13434_KAThailandUVShield_Hashmoji2025_V2"
 	],
 	"العمارة_السعودية": [
-		"BF-13560_SaudiArchitecture_Hashmoji"
+		"BF-13560_SaudiArchitecture_Hashmoji",
+		"BF-13560_SaudiArchitecture_Hashmojiv1"
 	],
 	"مركز_دعم_هيئات_التطوير": [
-		"BF-13560_SaudiArchitecture_Hashmoji"
+		"BF-13560_SaudiArchitecture_Hashmoji",
+		"BF-13560_SaudiArchitecture_Hashmojiv1"
 	],
 	"نستلهم_ونلهم‬⁩": [
 		"BF-13560_SaudiArchitecture_Hashmoji"
@@ -112327,5 +112329,8 @@
 	],
 	"faleentao": [
 		"MarshmelloFaleEntao"
+	],
+	"نستلهم_ونلهم": [
+		"BF-13560_SaudiArchitecture_Hashmojiv1"
 	]
 }
