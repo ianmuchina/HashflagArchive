@@ -41413,7 +41413,8 @@
 	],
 	"nowruz": [
 		"nowruz2018_v4",
-		"Nowruz_2022"
+		"Nowruz_2022",
+		"BF-13580_Nowruz_PersianNewYear_Organic2025"
 	],
 	"nowscreaming": [
 		"AmazonStudiosNowScreaming2021"
@@ -44907,7 +44908,8 @@
 	],
 	"persiannewyear": [
 		"nowruz2018_v4",
-		"Nowruz_2022"
+		"Nowruz_2022",
+		"BF-13580_Nowruz_PersianNewYear_Organic2025"
 	],
 	"personajeskelloggs": [
 		"KelloggsMasterBrandCercaDeTi_2021_V3"
@@ -71291,7 +71293,8 @@
 	],
 	"نوروز": [
 		"nowruz2018_v4",
-		"Nowruz_2022"
+		"Nowruz_2022",
+		"BF-13580_Nowruz_PersianNewYear_Organic2025"
 	],
 	"نيوم": [
 		"NeomSND_2021"
@@ -112426,5 +112429,8 @@
 	],
 	"フードロスラドリル": [
 		"BF-13480_Ajinomoto_2025_hashmoji"
+	],
+	"‎نوروزتان_پیروز": [
+		"BF-13580_Nowruz_PersianNewYear_Organic2025"
 	]
 }
