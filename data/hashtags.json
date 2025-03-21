@@ -74286,7 +74286,8 @@
 		"Qingci_MARVELOUS_SNAIL_1_Jun_2022"
 	],
 	"おいしい無糖": [
-		"KIRIN_Gogo_Tea_Muto_OM_v3_Japan_May_2022"
+		"KIRIN_Gogo_Tea_Muto_OM_v3_Japan_May_2022",
+		"BF-13454_KIRINGogoteaJapan_Hashmoji2025"
 	],
 	"おいしい無糖香るレモン": [
 		"KIRIN_gogotealaunch_Japan2021"
@@ -80757,7 +80758,8 @@
 		"KIRIN_Gogo_Tea_Japan_Feb_2022",
 		"KIRIN_gogotealaunch_Japan2021",
 		"KIRINGTOMJP2020",
-		"KIRIN_Gogo_Tea_Muto_v2_Japan_2022"
+		"KIRIN_Gogo_Tea_Muto_v2_Japan_2022",
+		"BF-13454_KIRINGogoteaJapan_Hashmoji2025"
 	],
 	"午後の紅茶35周年": [
 		"KIRIN_gogotealaunch_Japan2021"
@@ -80765,7 +80767,8 @@
 	"午後ティー": [
 		"KIRIN_Gogo_Tea_Japan_Feb_2022",
 		"KIRIN_gogotealaunch_Japan2021",
-		"KIRIN_Gogo_Tea_Muto_v2_Japan_2022"
+		"KIRIN_Gogo_Tea_Muto_v2_Japan_2022",
+		"BF-13454_KIRINGogoteaJapan_Hashmoji2025"
 	],
 	"半沢直樹コラボ企画": [
 		"Suntory_Pre-mal_JP_Jul_2022"
@@ -109690,13 +109693,15 @@
 		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024"
 	],
 	"megabig": [
-		"BF-12262_sportskujibig_Hashmoji2024"
+		"BF-12262_sportskujibig_Hashmoji2024",
+		"BF-13440_Branded_Hashmoji_for_sportskujibig"
 	],
 	"megabigチャレンジ": [
 		"BF-12262_sportskujibig_Hashmoji2024"
 	],
 	"メガビッグ": [
-		"BF-12262_sportskujibig_Hashmoji2024"
+		"BF-12262_sportskujibig_Hashmoji2024",
+		"BF-13440_Branded_Hashmoji_for_sportskujibig"
 	],
 	"jinx": [
 		"BF-12288_ArcaneS2_Jinx_Hashmoji"
@@ -112433,5 +112438,8 @@
 	],
 	"‎نوروزتان_پیروز": [
 		"BF-13580_Nowruz_PersianNewYear_Organic2025"
+	],
+	"春がはじまるアイスティー": [
+		"BF-13454_KIRINGogoteaJapan_Hashmoji2025"
 	]
 }
