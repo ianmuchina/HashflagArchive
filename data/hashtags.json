@@ -106075,7 +106075,8 @@
 	],
 	"robinhood": [
 		"BF-10766_Robinhood_GoldEventLaunch_Q12024",
-		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024"
+		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024",
+		"BF-13581_Robinhood_Q1_2025_Gold_Takeover"
 	],
 	"archeron": [
 		"BF-10788_miHoYo_Archeron_March_2024"
@@ -109525,7 +109526,8 @@
 		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024"
 	],
 	"robinhoodpresents": [
-		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024"
+		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024",
+		"BF-13581_Robinhood_Q1_2025_Gold_Takeover"
 	],
 	"netflixgundam": [
 		"BF-11965_NetflixJP_Hashmoji_20241018-20250116_Gundam"
@@ -112528,5 +112530,11 @@
 	],
 	"เซรั่มกันแดดแตกตัวเป็นน้ำ": [
 		"BF-13592_Vaseline_TH_Hashmoji_March_2025"
+	],
+	"robinhoodstrategies": [
+		"BF-13581_Robinhood_Q1_2025_Gold_Takeover"
+	],
+	"thelostcityofgold": [
+		"BF-13581_Robinhood_Q1_2025_Gold_Takeover"
 	]
 }
