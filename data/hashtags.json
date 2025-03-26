@@ -1331,7 +1331,8 @@
 		"ACMAwards_2020",
 		"AcademyofCountryMusicAwards2021",
 		"Dick_Clark_Productions-Academy_of_Country_Music_Awards_not_American",
-		"DickClarkProd_ACMAwards2024_US"
+		"DickClarkProd_ACMAwards2024_US",
+		"ACM_Awards_60th_Anniversary_2025"
 	],
 	"acmawards2021": [
 		"AcademyofCountryMusicAwards2021"
@@ -39833,7 +39834,8 @@
 		"NatureValley_Feb2021"
 	],
 	"nav": [
-		"NAV_2020"
+		"NAV_2020",
+		"NAV_OMW2Rexdale_Album_2025"
 	],
 	"navarasa": [
 		"NetflixIndiaNavrassa_2021"
@@ -112407,19 +112409,23 @@
 		"BF-13510_20250320_20250409_KOR_McDonalds_after"
 	],
 	"saudigreeninitiative": [
-		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_Before"
+		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_Before",
+		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_During"
 	],
 	"saudigreeninitiativeday": [
-		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_Before"
+		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_Before",
+		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_During"
 	],
 	"لمستقبل_أكثر_استدامة": [
 		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_Before"
 	],
 	"مبادرة_السعودية_الخضراء": [
-		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_Before"
+		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_Before",
+		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_During"
 	],
 	"يوم_مبادرة_السعودية_الخضراء": [
-		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_Before"
+		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_Before",
+		"BF-13463_SaudiGreenInitiative_Hashmoji_March2025_During"
 	],
 	"porlosqueseatreven": [
 		"BF-13539_HeinekenMX_CervezaTecate_Eagle_Hashmoji2025"
@@ -112564,5 +112570,14 @@
 	],
 	"techfest": [
 		"BF-13532_SamsungAU_Tech_Fest_Hashmoji"
+	],
+	"acm60": [
+		"ACM_Awards_60th_Anniversary_2025"
+	],
+	"omw2": [
+		"NAV_OMW2Rexdale_Album_2025"
+	],
+	"omw2rexdale": [
+		"NAV_OMW2Rexdale_Album_2025"
 	]
 }
