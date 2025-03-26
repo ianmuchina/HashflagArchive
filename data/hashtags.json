@@ -112547,5 +112547,20 @@
 	],
 	"vertexai": [
 		"BF-13526_GoogleCloudNext_HashmojiBefore"
+	],
+	"samsung": [
+		"BF-13532_SamsungAU_Tech_Fest_Hashmoji"
+	],
+	"samsungfest": [
+		"BF-13532_SamsungAU_Tech_Fest_Hashmoji"
+	],
+	"samsungtech": [
+		"BF-13532_SamsungAU_Tech_Fest_Hashmoji"
+	],
+	"samsungtechfest": [
+		"BF-13532_SamsungAU_Tech_Fest_Hashmoji"
+	],
+	"techfest": [
+		"BF-13532_SamsungAU_Tech_Fest_Hashmoji"
 	]
 }
