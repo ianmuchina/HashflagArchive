@@ -23121,7 +23121,8 @@
 		"Dan_And_Shay_2021_Album_Emoji"
 	],
 	"googlecloud": [
-		"Google_Cloud_Next_Sept_2022"
+		"Google_Cloud_Next_Sept_2022",
+		"BF-13526_GoogleCloudNext_HashmojiBefore"
 	],
 	"googlecloudinnovators": [
 		"Google_Cloud_Next_Sept_2022"
@@ -23130,7 +23131,8 @@
 		"Google_Cloud_Next_Sept_2022",
 		"BF-10440_GoogleCloudNextLiveStreamHashmoji",
 		"BF-10383_GoogleCloudNext_Hashmoji_Before",
-		"BF-10383_GoogleCloudNext_Hashmoji_After"
+		"BF-10383_GoogleCloudNext_Hashmoji_After",
+		"BF-13526_GoogleCloudNext_HashmojiBefore"
 	],
 	"googleclout": [
 		"Google_Cloud_Next_Sept_2022"
@@ -112536,5 +112538,14 @@
 	],
 	"thelostcityofgold": [
 		"BF-13581_Robinhood_Q1_2025_Gold_Takeover"
+	],
+	"agentspace": [
+		"BF-13526_GoogleCloudNext_HashmojiBefore"
+	],
+	"googlecloudpartners": [
+		"BF-13526_GoogleCloudNext_HashmojiBefore"
+	],
+	"vertexai": [
+		"BF-13526_GoogleCloudNext_HashmojiBefore"
 	]
 }
