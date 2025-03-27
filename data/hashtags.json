@@ -4623,7 +4623,8 @@
 		"MLB_2023_Athletics",
 		"Oakland_Athetics_MLB_2024",
 		"Olympics_2024_ATHLETICS",
-		"BF-10969_Olympics_2024_ATHLETICS"
+		"BF-10969_Olympics_2024_ATHLETICS",
+		"OaklandAsMLB2025"
 	],
 	"athletim": [
 		"Tim_Hortons_National_Coffee_Day_Sept_2022"
@@ -4696,7 +4697,8 @@
 		"MLB_Teams_2021_CIN",
 		"MLB_CIN_2022",
 		"MLB_2023_Rojos",
-		"Cincinnati_Reds_MLB_2024"
+		"Cincinnati_Reds_MLB_2024",
+		"CinRedsMLB2025"
 	],
 	"atorikellychristmas": [
 		"torikellychristmas_2020"
@@ -7198,7 +7200,8 @@
 		"MLB_Teams_2020_BAL",
 		"MLB_BAL_2022",
 		"MLB_2023_Birdland",
-		"Baltimore_Orioles_MLB_2024"
+		"Baltimore_Orioles_MLB_2024",
+		"BaltimoreOsMLB2025"
 	],
 	"bis": [
 		"MondelezBIS_2021"
@@ -13368,7 +13371,8 @@
 	"dbacks": [
 		"MLB_ARI_2022",
 		"MLB_2023_Dbacks",
-		"Arizona_Dbacks_MLB_2024"
+		"Arizona_Dbacks_MLB_2024",
+		"AZDBacksMLB2025"
 	],
 	"dbdm": [
 		"DBDM_Apr_2022"
@@ -14751,7 +14755,8 @@
 		"MLB_Teams_2020_BOS",
 		"MLB_BOS_2022",
 		"MLB_2023_DirtyWater",
-		"Boston_RedSox_MLB_2024"
+		"Boston_RedSox_MLB_2024",
+		"BostonRedSoxMLB2025"
 	],
 	"dirumahaja": [
 		"StayHome_2020_ItalianAdd",
@@ -18228,7 +18233,8 @@
 		"MLB_Teams_2021_MIL",
 		"MLB_MIL_2022",
 		"MLB_2023_Regular_Season_EsteEsMiCrew",
-		"Milwaukee_Brewers_MLB_2024"
+		"Milwaukee_Brewers_MLB_2024",
+		"BrewersMLB2025"
 	],
 	"esteesmijuego": [
 		"LNBP_2020"
@@ -32838,7 +32844,8 @@
 		"MLB_PIT_2022",
 		"MLB_2023_VamosBucs",
 		"MLB_2023_Regular_Season_Custom_Emoji_PIT",
-		"Pittsburgh_Pirates_MLB_2024"
+		"Pittsburgh_Pirates_MLB_2024",
+		"PiratesMLB2025"
 	],
 	"letsgobuffalo": [
 		"NHLTeam_2021_LetsGoBuffalo",
@@ -33212,7 +33219,8 @@
 		"MLB_Teams_2020_NYM",
 		"MLB_NYM_2022",
 		"MLB_2023_Mets",
-		"NY_Mets_MLB_2024"
+		"NY_Mets_MLB_2024",
+		"NYMetsMLB2025"
 	],
 	"lgrw": [
 		"NHLTeam_2021_LGRW",
@@ -34211,7 +34219,8 @@
 	"losdelbronx": [
 		"MLB_NYY_2022",
 		"MLB_2023_Regular_Season_RepBX",
-		"NY_Yankees_MLB_2024"
+		"NY_Yankees_MLB_2024",
+		"NewYorkYankeesMLB2025"
 	],
 	"losdiezanillos": [
 		"Disney_ShangChi_2021_10Rings"
@@ -34261,7 +34270,8 @@
 	"losnacionales": [
 		"MLB_WAS_2022",
 		"MLB_2023_NATITUDE",
-		"Washington_Nationals_MLB_2024"
+		"Washington_Nationals_MLB_2024",
+		"WashingtonNationalsMLB2025"
 	],
 	"losnuevosmutantes": [
 		"Disney_NewMutants_2020_NM"
@@ -34278,7 +34288,8 @@
 		"MLB_Teams_2020_COL_v2",
 		"MLB_COL_2022",
 		"MLB_2023_Regular_Season_Rockies",
-		"Colorado_Rockies_MLB_2024"
+		"Colorado_Rockies_MLB_2024",
+		"COLRockiesMLB2025"
 	],
 	"lossecretosdedumbledore": [
 		"WB_Fantastic_Beasts_Dumbledore_2021"
@@ -34319,14 +34330,16 @@
 		"MLB_Teams_2020_MIN",
 		"MLB_MIN_2022",
 		"MLB_2023_Regular_Season_MNTwins",
-		"Minnesota_Twins_MLB_2024"
+		"Minnesota_Twins_MLB_2024",
+		"MinnesotaTwinsMLB2025"
 	],
 	"loswhitesox": [
 		"MLB_Teams_2020_CWS",
 		"MLB_Teams_2021_CHW",
 		"MLB_CHW_2022",
 		"MLB_2023_Regular_Season_WhiteSox",
-		"Chicago_WhiteSox_MLB_2024"
+		"Chicago_WhiteSox_MLB_2024",
+		"ChicagoWhiteSoxMLB2025"
 	],
 	"lotr20": [
 		"LOTR_20th_2021"
@@ -36621,7 +36634,8 @@
 		"MLB_Teams_2020_BOS",
 		"MLB_BOS_2022",
 		"MLB_2023_DirtyWater",
-		"Boston_RedSox_MLB_2024"
+		"Boston_RedSox_MLB_2024",
+		"BostonRedSoxMLB2025"
 	],
 	"mediataitoviikko": [
 		"MediaInformationLiteracyWeeks_2020_GlobalMILWeek",
@@ -38086,7 +38100,8 @@
 		"MLB_MIN_2022",
 		"MLB_Postseason_MIN_2022",
 		"MLB_2023_Regular_Season_MNTwins",
-		"Minnesota_Twins_MLB_2024"
+		"Minnesota_Twins_MLB_2024",
+		"MinnesotaTwinsMLB2025"
 	],
 	"mnufc": [
 		"MLS_2022_Team_MIN_2022",
@@ -39812,7 +39827,8 @@
 		"MLB_Teams_2021_WAS",
 		"MLB_WAS_2022",
 		"MLB_2023_NATITUDE",
-		"Washington_Nationals_MLB_2024"
+		"Washington_Nationals_MLB_2024",
+		"WashingtonNationalsMLB2025"
 	],
 	"nativeamerican": [
 		"NativeAmericanHeritageMonth_2020",
@@ -42793,7 +42809,8 @@
 		"MLB_Teams_2020_OpeningDay",
 		"MLB_Flag_2022",
 		"MLB_2023_OpeningDay",
-		"MLB_OpeningDay_2024"
+		"MLB_OpeningDay_2024",
+		"MLBOpeningDay2025"
 	],
 	"openingnightlive": [
 		"gamescom2021"
@@ -47950,7 +47967,8 @@
 		"MLB_2023_RaysUp",
 		"MLB_2023_Regular_Season_Custom_Emoji",
 		"MLB_2023_Rays_Playoffs",
-		"TampaBay_Rays_MLB_2024"
+		"TampaBay_Rays_MLB_2024",
+		"TampaBayRaysMLB2025"
 	],
 	"razemdamyrade": [
 		"MentalHealthMonth_2021_add2"
@@ -48686,7 +48704,8 @@
 		"MLB_NYY_2022",
 		"MLB_Postseason_NYY_2022",
 		"MLB_2023_Regular_Season_RepBX",
-		"NY_Yankees_MLB_2024"
+		"NY_Yankees_MLB_2024",
+		"NewYorkYankeesMLB2025"
 	],
 	"repcosc": [
 		"SupercarsAU_2022",
@@ -49192,7 +49211,8 @@
 		"MLB_PHI_2022",
 		"MLB_2023_RingTheBell",
 		"MLB_2023_Regular_Season_Custom_Emoji_PHI",
-		"Philadelphia_Phillies_MLB_2024"
+		"Philadelphia_Phillies_MLB_2024",
+		"PhilliesMLB2025"
 	],
 	"rio2020": [
 		"Libertadores_2020"
@@ -49462,7 +49482,8 @@
 		"MLB_Teams_2020_COL_v2",
 		"MLB_COL_2022",
 		"MLB_2023_Regular_Season_Rockies",
-		"Colorado_Rockies_MLB_2024"
+		"Colorado_Rockies_MLB_2024",
+		"COLRockiesMLB2025"
 	],
 	"rockineve": [
 		"New_Years_Rockin_Eve_2021",
@@ -51769,7 +51790,8 @@
 		"MLB_Teams_2020_SF",
 		"MLB_2023_VamosGigantes",
 		"SF_Giants_MLB_2024",
-		"SF_Giants_MLB_2024_Updated"
+		"SF_Giants_MLB_2024_Updated",
+		"SFGiantsMLB2025"
 	],
 	"sforlove": [
 		"Cadbury_Silk_Sept_2022"
@@ -54887,13 +54909,15 @@
 		"STLMLBPostseason2021",
 		"MLB_STL_2022",
 		"MLB_2023_STLCards",
-		"StLouis_Cardinals_MLB_2024"
+		"StLouis_Cardinals_MLB_2024",
+		"STLCardsMLB2025"
 	],
 	"stlcards": [
 		"MLB_Teams_2020_STL",
 		"STLMLBPostseason2021",
 		"MLB_STL_2022",
-		"MLB_2023_STLCards"
+		"MLB_2023_STLCards",
+		"STLCardsMLB2025"
 	],
 	"stlfly": [
 		"MLB_Teams_2021_STL"
@@ -55261,7 +55285,8 @@
 		"MLB_PHI_2022",
 		"MLB_2023_RingTheBell",
 		"MLB_2023_Regular_Season_Custom_Emoji_PHI",
-		"Philadelphia_Phillies_MLB_2024"
+		"Philadelphia_Phillies_MLB_2024",
+		"PhilliesMLB2025"
 	],
 	"suffragemonth": [
 		"WomensSuffrageCentennial_2020"
@@ -59717,7 +59742,8 @@
 		"MLB_Teams_2021_MIL",
 		"MLB_MIL_2022",
 		"MLB_2023_Regular_Season_EsteEsMiCrew",
-		"Milwaukee_Brewers_MLB_2024"
+		"Milwaukee_Brewers_MLB_2024",
+		"BrewersMLB2025"
 	],
 	"thisismyk": [
 		"Herald_K-content_Award_Jul_2022"
@@ -63223,7 +63249,8 @@
 		"MLB_PIT_2022",
 		"MLB_2023_VamosBucs",
 		"MLB_2023_Regular_Season_Custom_Emoji_PIT",
-		"Pittsburgh_Pirates_MLB_2024"
+		"Pittsburgh_Pirates_MLB_2024",
+		"PiratesMLB2025"
 	],
 	"vamoscarbonero": [
 		"PenarolBirthday_2021",
@@ -63279,7 +63306,8 @@
 		"MLB_Teams_2021_SF",
 		"MLB_2023_VamosGigantes",
 		"SF_Giants_MLB_2024",
-		"SF_Giants_MLB_2024_Updated"
+		"SF_Giants_MLB_2024_Updated",
+		"SFGiantsMLB2025"
 	],
 	"vamoshalos": [
 		"MLB_LAA_2022",
@@ -65842,7 +65870,8 @@
 		"CWSMLBPostseason2021",
 		"MLB_Teams_2020_PS_WS",
 		"MLB_2023_Regular_Season_WhiteSox",
-		"Chicago_WhiteSox_MLB_2024"
+		"Chicago_WhiteSox_MLB_2024",
+		"ChicagoWhiteSoxMLB2025"
 	],
 	"whitespike": [
 		"PrimeVideoIndiaTomorrowWar_2021"
@@ -93571,7 +93600,8 @@
 		"MLB_2023_Regular_Season_BringTheGold"
 	],
 	"copadeladiversíon": [
-		"MLB_2023_CopadelaDiversion"
+		"MLB_2023_CopadelaDiversion",
+		"MiLBCopadelaDiversion2025"
 	],
 	"dalemiami": [
 		"MLB_2023_Regular_Season_Custom_Emoji-MIA_MakeItMiami_DaleMiami"
@@ -93605,7 +93635,8 @@
 	],
 	"repdetroit": [
 		"MLB_2023_RepDetroit",
-		"Detroit_Tigers_MLB_2024"
+		"Detroit_Tigers_MLB_2024",
+		"DetroitTigersMLB2025"
 	],
 	"royals": [
 		"MLB_2023_Royals",
@@ -93614,11 +93645,13 @@
 	"somosrays": [
 		"MLB_2023_RaysUp",
 		"MLB_2023_Regular_Season_Custom_Emoji",
-		"TampaBay_Rays_MLB_2024"
+		"TampaBay_Rays_MLB_2024",
+		"TampaBayRaysMLB2025"
 	],
 	"vamosmets": [
 		"MLB_2023_Mets",
-		"NY_Mets_MLB_2024"
+		"NY_Mets_MLB_2024",
+		"NYMetsMLB2025"
 	],
 	"welcometothecity": [
 		"MLB_2023_Royals",
@@ -102160,7 +102193,8 @@
 	],
 	"letsgododgers": [
 		"MLB_2023_Dodgers_Playoffs",
-		"LA_Dodgers_MLB_2024"
+		"LA_Dodgers_MLB_2024",
+		"LADodgersMLB2025"
 	],
 	"rallyreds": [
 		"MLB_2023_Reds_Playoffs"
@@ -102170,11 +102204,13 @@
 	],
 	"tridentesarriba": [
 		"MLB_2023_Mariners_Playoffs",
-		"Seattle_Mariners_MLB_2024"
+		"Seattle_Mariners_MLB_2024",
+		"SeattleMarinersMLB2025"
 	],
 	"tridentsup": [
 		"MLB_2023_Mariners_Playoffs",
-		"Seattle_Mariners_MLB_2024"
+		"Seattle_Mariners_MLB_2024",
+		"SeattleMarinersMLB2025"
 	],
 	"veyagarralo": [
 		"MLB_2023_Rangers_Playoffs"
@@ -106128,13 +106164,16 @@
 		"WWESpeed2025"
 	],
 	"bravescountry": [
-		"Atlanta_Braves_MLB_2024"
+		"Atlanta_Braves_MLB_2024",
+		"ATLBravesMLB2025"
 	],
 	"forthelou": [
-		"StLouis_Cardinals_MLB_2024"
+		"StLouis_Cardinals_MLB_2024",
+		"STLCardsMLB2025"
 	],
 	"homeofbeisbol": [
-		"Miami_Marlins_MLB_2024"
+		"Miami_Marlins_MLB_2024",
+		"MiamiMarlinsMLB2025"
 	],
 	"implacable": [
 		"Houston_Astros_MLB_2024"
@@ -106143,39 +106182,47 @@
 		"SanDiego_Padres_MLB_2024"
 	],
 	"losatleticos": [
-		"Oakland_Athetics_MLB_2024"
+		"Oakland_Athetics_MLB_2024",
+		"OaklandAsMLB2025"
 	],
 	"losazulejos": [
-		"Toronto_BlueJays_MLB_2024"
+		"Toronto_BlueJays_MLB_2024",
+		"BlueJaysMLB2025"
 	],
 	"marlinsbeisbol": [
-		"Miami_Marlins_MLB_2024"
+		"Miami_Marlins_MLB_2024",
+		"MiamiMarlinsMLB2025"
 	],
 	"nothinglikeit": [
 		"SF_Giants_MLB_2024",
-		"SF_Giants_MLB_2024_Updated"
+		"SF_Giants_MLB_2024_Updated",
+		"SFGiantsMLB2025"
 	],
 	"relentless": [
 		"Houston_Astros_MLB_2024"
 	],
 	"representaelhalo": [
-		"LA_Angels_MLB_2024"
+		"LA_Angels_MLB_2024",
+		"LAAngelsMLB2025"
 	],
 	"representandoadetroit": [
 		"Detroit_Tigers_MLB_2024"
 	],
 	"repthehalo": [
-		"LA_Angels_MLB_2024"
+		"LA_Angels_MLB_2024",
+		"LAAngelsMLB2025"
 	],
 	"sfgigantes": [
 		"SF_Giants_MLB_2024",
-		"SF_Giants_MLB_2024_Updated"
+		"SF_Giants_MLB_2024_Updated",
+		"SFGiantsMLB2025"
 	],
 	"tothecore": [
 		"Toronto_BlueJays_MLB_2024"
 	],
 	"vamoslosdodgers": [
-		"LA_Dodgers_MLB_2024"
+		"LA_Dodgers_MLB_2024",
+		"LADodgersMLB2025"
 	],
 	"vamospadres": [
 		"SanDiego_Padres_MLB_2024"
@@ -109316,7 +109363,8 @@
 		"Padres_MLB_Postseason_2024"
 	],
 	"guardsball": [
-		"Clev_Guardians_MLB_2024_Postseason"
+		"Clev_Guardians_MLB_2024_Postseason",
+		"CLEGuardiansMLB2025"
 	],
 	"metswin": [
 		"Mets_Playoffs_2024_Postseason_MLB"
@@ -112582,5 +112630,41 @@
 	],
 	"365日間無利息": [
 		"BF-13433_Shinsei_Financial_Co_Ltd_lake_official__Hashmoji_v2-2"
+	],
+	"allfortx": [
+		"TexasRangersMLB2025"
+	],
+	"behereforit": [
+		"ChicagoCubsMLB2025"
+	],
+	"builtforthis": [
+		"HoustonAstrosMLB2025"
+	],
+	"cachorros": [
+		"ChicagoCubsMLB2025"
+	],
+	"forthefaithful": [
+		"SanDiegoPadresMLB2025"
+	],
+	"fountainsup": [
+		"KCRoyalsMLB2025"
+	],
+	"fountainsupkc": [
+		"KCRoyalsMLB2025"
+	],
+	"lightsupletsgo": [
+		"BlueJaysMLB2025"
+	],
+	"onlyinmilb": [
+		"MiLBOnlyInMiLB2025"
+	],
+	"paralosfieles": [
+		"SanDiegoPadresMLB2025"
+	],
+	"todoportejas": [
+		"TexasRangersMLB2025"
+	],
+	"vamosrojos": [
+		"CinRedsMLB2025"
 	]
 }
