@@ -19072,7 +19072,8 @@
 	"faze": [
 		"Esports_AllAccess_2020_Faze",
 		"FaZe_Clan_2023",
-		"FaZeClanEmoji2024_v2"
+		"FaZeClanEmoji2024_v2",
+		"FaZeClan2025Hashmojis"
 	],
 	"faze1": [
 		"FaZe_Clan_2022"
@@ -19087,7 +19088,8 @@
 		"EsportsAllAccess_Jan_2021_Faze_add",
 		"EsportsAllAccess_Jan_2021_Faze",
 		"FaZe_Clan_2023",
-		"FaZeClanEmoji2024_v2"
+		"FaZeClanEmoji2024_v2",
+		"FaZeClan2025Hashmojis"
 	],
 	"fazehunt": [
 		"EsportsAllAccess_Jan_2021_Faze_add"
@@ -19101,7 +19103,8 @@
 		"EsportsAllAccess_Jan_2021_Faze_add",
 		"EsportsAllAccess_Jan_2021_Faze",
 		"FaZe_Clan_2023",
-		"FaZeClanEmoji2024_v2"
+		"FaZeClanEmoji2024_v2",
+		"FaZeClan2025Hashmojis"
 	],
 	"façaparte": [
 		"MasterButterfly_BR_2021"
@@ -112666,5 +112669,8 @@
 	],
 	"vamosrojos": [
 		"CinRedsMLB2025"
+	],
+	"capson": [
+		"MLBCapsOn2025"
 	]
 }
