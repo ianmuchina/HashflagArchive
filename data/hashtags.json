@@ -9198,7 +9198,8 @@
 		"Call_of_Duty_MWII_2022_v2",
 		"CallofDutyMainline2023",
 		"BF_11366_Call_of_Duty_Black_Ops_6_Takeover_2024_Hashmoji",
-		"BF-11904_Call_of_Duty_Black_Ops_6_August_2024_hashmoji"
+		"BF-11904_Call_of_Duty_Black_Ops_6_August_2024_hashmoji",
+		"BF-13623_Activision_Verdansk_Launch_2025"
 	],
 	"callofdutyleague": [
 		"CallofDutyLeague2021",
@@ -112699,5 +112700,17 @@
 	],
 	"foronelegacy": [
 		"LCKEsports2025"
+	],
+	"callofdutywarzone": [
+		"BF-13623_Activision_Verdansk_Launch_2025"
+	],
+	"verdansk": [
+		"BF-13623_Activision_Verdansk_Launch_2025"
+	],
+	"verdanskreturns": [
+		"BF-13623_Activision_Verdansk_Launch_2025"
+	],
+	"warzone": [
+		"BF-13623_Activision_Verdansk_Launch_2025"
 	]
 }
