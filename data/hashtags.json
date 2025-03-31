@@ -32206,7 +32206,8 @@
 		"LCK_League_2022",
 		"LCK_League_2021",
 		"LCK_League_2023",
-		"LCKEmoji2024"
+		"LCKEmoji2024",
+		"LCKEsports2025"
 	],
 	"lckchallengers": [
 		"E-SportsKR_2021_LCKChallengersLeague"
@@ -112695,5 +112696,8 @@
 	],
 	"板チョコアイス誕生秘話": [
 		"BF_13458_Morinaga_seika_itachoko_2025_Hashmoji_Japan"
+	],
+	"foronelegacy": [
+		"LCKEsports2025"
 	]
 }
