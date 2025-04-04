@@ -3796,7 +3796,8 @@
 	"arcane": [
 		"Netflix_Arcane_2021_Launch_NEW_1",
 		"ArcaneS2",
-		"ArcaneS2V3"
+		"ArcaneS2V3",
+		"ArcaneSeason2"
 	],
 	"arcaneiçintoplandık": [
 		"Netflix_Arcane_2021_Launch_NEW_1"
@@ -109109,7 +109110,8 @@
 	],
 	"arcaneseason2": [
 		"ArcaneS2",
-		"ArcaneS2V3"
+		"ArcaneS2V3",
+		"ArcaneSeason2"
 	],
 	"paintthetownblue": [
 		"ArcaneS2",
@@ -112767,5 +112769,8 @@
 	],
 	"炎炎ノ消防隊": [
 		"BF_13583_NetflixJP_Hashmoji_20250405_20250704_Fireforce"
+	],
+	"arcaneextendedalbum": [
+		"ArcaneSeason2"
 	]
 }
