@@ -23134,7 +23134,8 @@
 	],
 	"googlecloud": [
 		"Google_Cloud_Next_Sept_2022",
-		"BF-13526_GoogleCloudNext_HashmojiBefore"
+		"BF-13526_GoogleCloudNext_HashmojiBefore",
+		"BF-13526_GoogleCloudNext_HashmojiDuring"
 	],
 	"googlecloudinnovators": [
 		"Google_Cloud_Next_Sept_2022"
@@ -112618,13 +112619,16 @@
 		"BF-13581_Robinhood_Q1_2025_Gold_Takeover"
 	],
 	"agentspace": [
-		"BF-13526_GoogleCloudNext_HashmojiBefore"
+		"BF-13526_GoogleCloudNext_HashmojiBefore",
+		"BF-13526_GoogleCloudNext_HashmojiDuring"
 	],
 	"googlecloudpartners": [
-		"BF-13526_GoogleCloudNext_HashmojiBefore"
+		"BF-13526_GoogleCloudNext_HashmojiBefore",
+		"BF-13526_GoogleCloudNext_HashmojiDuring"
 	],
 	"vertexai": [
-		"BF-13526_GoogleCloudNext_HashmojiBefore"
+		"BF-13526_GoogleCloudNext_HashmojiBefore",
+		"BF-13526_GoogleCloudNext_HashmojiDuring"
 	],
 	"samsung": [
 		"BF-13532_SamsungAU_Tech_Fest_Hashmoji"
