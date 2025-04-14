@@ -105510,16 +105510,19 @@
 	"jeddahcornichecircuit": [
 		"BF-10394_SaudiArabianGP_2024_Hashmoji_Before",
 		"BF-10394_SaudiArabianGP_2024_Hashmoji_During",
-		"BF-10394_SaudiArabianGP_2024_Hashmoji_After"
+		"BF-10394_SaudiArabianGP_2024_Hashmoji_After",
+		"BF-13609_F1_Branded_Features_before_v2"
 	],
 	"saudiarabiangp": [
 		"BF-10394_SaudiArabianGP_2024_Hashmoji_Before",
-		"BF-10394_SaudiArabianGP_2024_Hashmoji_After"
+		"BF-10394_SaudiArabianGP_2024_Hashmoji_After",
+		"BF-13609_F1_Branded_Features_before_v2"
 	],
 	"حلبة_كورنيش_جدة": [
 		"BF-10394_SaudiArabianGP_2024_Hashmoji_Before",
 		"BF-10394_SaudiArabianGP_2024_Hashmoji_During",
-		"BF-10394_SaudiArabianGP_2024_Hashmoji_After"
+		"BF-10394_SaudiArabianGP_2024_Hashmoji_After",
+		"BF-13609_F1_Branded_Features_before_v2"
 	],
 	"فورمولا1_في_السعودية": [
 		"BF-10394_SaudiArabianGP_2024_Hashmoji_Before",
@@ -105529,7 +105532,8 @@
 	"نسابق_المستقبل": [
 		"BF-10394_SaudiArabianGP_2024_Hashmoji_Before",
 		"BF-10394_SaudiArabianGP_2024_Hashmoji_During",
-		"BF-10394_SaudiArabianGP_2024_Hashmoji_After"
+		"BF-10394_SaudiArabianGP_2024_Hashmoji_After",
+		"BF-13609_F1_Branded_Features_before_v2"
 	],
 	"happyvalentinesday": [
 		"Valentines_Day_24"
@@ -112854,5 +112858,8 @@
 	],
 	"大阪万博サウジ館": [
 		"BF-13691_MOCSaudi_JapanWorldExpo_2025_HashmojiAfterCL"
+	],
+	"فورمولا١_في_السعودية": [
+		"BF-13609_F1_Branded_Features_before_v2"
 	]
 }
