@@ -7133,7 +7133,8 @@
 		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401",
 		"BF-11033_Binance_2024_Q2_Emoji",
 		"BF-12395_Binance_Hashmoji_after_v2",
-		"BF-13015_Binance_Hashmoji_Q1_2025"
+		"BF-13015_Binance_Hashmoji_Q1_2025",
+		"BF-13711_Binance_HashmojiQ22025"
 	],
 	"binance10m": [
 		"Binance_10M_Follower_Nov_2022"
@@ -96447,7 +96448,8 @@
 	],
 	"binancepizza": [
 		"Binance_2023_Q2_Campaign_Emoji_202304",
-		"BF-11033_Binance_2024_Q2_Emoji"
+		"BF-11033_Binance_2024_Q2_Emoji",
+		"BF-13711_Binance_HashmojiQ22025"
 	],
 	"binanceturns6": [
 		"Binance_2023_Q2_Campaign_Emoji_202304"
@@ -113098,5 +113100,14 @@
 	],
 	"katseye_gnarly": [
 		"KATSEYEGnarly2025"
+	],
+	"8yearswithbinance": [
+		"BF-13711_Binance_HashmojiQ22025"
+	],
+	"binanceclubhouse": [
+		"BF-13711_Binance_HashmojiQ22025"
+	],
+	"tradersleague": [
+		"BF-13711_Binance_HashmojiQ22025"
 	]
 }
