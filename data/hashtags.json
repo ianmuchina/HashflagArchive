@@ -104749,7 +104749,8 @@
 	"rizin": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
 		"BF-9893_ABEMA_Hashmoji_1217-0316",
-		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN"
+		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN",
+		"BF-13720_ABEMA_RIZIN_Hashmoji2025"
 	],
 	"rizin45": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
@@ -104758,7 +104759,8 @@
 	"アベマでrizin": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
 		"BF-9893_ABEMA_Hashmoji_1217-0316",
-		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN"
+		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN",
+		"BF-13720_ABEMA_RIZIN_Hashmoji2025"
 	],
 	"アベマでrizin大晦日": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
@@ -113113,5 +113115,29 @@
 	],
 	"somosdeotroplaneta": [
 		"BF-13788_Doritos_DeOtroPlaneta_Hashmoji2025"
+	],
+	"config2025": [
+		"BF-13732_Figma_Config2025_Hashmoji_Before"
+	],
+	"config25": [
+		"BF-13732_Figma_Config2025_Hashmoji_Before"
+	],
+	"configcrave": [
+		"BF-13732_Figma_Config2025_Hashmoji_Before"
+	],
+	"confit2025": [
+		"BF-13732_Figma_Config2025_Hashmoji_Before"
+	],
+	"confits2025": [
+		"BF-13732_Figma_Config2025_Hashmoji_Before"
+	],
+	"rizininkorea": [
+		"BF-13720_ABEMA_RIZIN_Hashmoji2025"
+	],
+	"rizin男祭り": [
+		"BF-13720_ABEMA_RIZIN_Hashmoji2025"
+	],
+	"アベマでrizin男祭り": [
+		"BF-13720_ABEMA_RIZIN_Hashmoji2025"
 	]
 }
