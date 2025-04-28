@@ -105999,7 +105999,8 @@
 		"NWSL_Chicago_Hashtag2024"
 	],
 	"elibertadores": [
-		"BF-10767_eLibertadores"
+		"BF-10767_eLibertadores",
+		"CONMEBOLElibertadores2025"
 	],
 	"houstondash": [
 		"NWSL_HoustonDash_2024"
@@ -113109,5 +113110,8 @@
 	],
 	"tradersleague": [
 		"BF-13711_Binance_HashmojiQ22025"
+	],
+	"somosdeotroplaneta": [
+		"BF-13788_Doritos_DeOtroPlaneta_Hashmoji2025"
 	]
 }
