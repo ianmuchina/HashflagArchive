@@ -52169,7 +52169,8 @@
 	"sheineid": [
 		"SHEINX_Eid_Jun_2022",
 		"SHEINHaji_Campaign2023",
-		"BF-11259_2024_SHEIN_Eid_Campaign_Hashmoji"
+		"BF-11259_2024_SHEIN_Eid_Campaign_Hashmoji",
+		"BF-13766_SHEIN_Eid_2025"
 	],
 	"sheineidfun": [
 		"SHEINX_Eid_Jun_2022"
@@ -52182,7 +52183,8 @@
 		"SHEIN_Sep2023_Hashmoji_After",
 		"BF-10323_2024_SHEIN_Ramadan_Campaign",
 		"BF-11259_2024_SHEIN_Eid_Campaign_Hashmoji",
-		"BF-13236_SHEIN_Ramadan_Hashmoji2025_V2"
+		"BF-13236_SHEIN_Ramadan_Hashmoji2025_V2",
+		"BF-13766_SHEIN_Eid_2025"
 	],
 	"sheinfw21": [
 		"SHEINX100KCHALLENGE_2021"
@@ -113158,5 +113160,14 @@
 	],
 	"컬러그램짱구": [
 		"BF-13742_CJ_Oliveyoung_COlorgramtok_hashmoji_v2"
+	],
+	"sheinidsale": [
+		"BF-13766_SHEIN_Eid_2025"
+	],
+	"sheinidstyle": [
+		"BF-13766_SHEIN_Eid_2025"
+	],
+	"sheintrends": [
+		"BF-13766_SHEIN_Eid_2025"
 	]
 }
