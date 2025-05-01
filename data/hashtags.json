@@ -113173,16 +113173,20 @@
 		"BF-13766_SHEIN_Eid_2025"
 	],
 	"comfortth": [
-		"BF-13801_Comfort_TH_Hashmoji_during"
+		"BF-13801_Comfort_TH_Hashmoji_during",
+		"BF-13801_Comfort_TH_Hashmoji_after"
 	],
 	"คอมฟอร์ท": [
-		"BF-13801_Comfort_TH_Hashmoji_during"
+		"BF-13801_Comfort_TH_Hashmoji_during",
+		"BF-13801_Comfort_TH_Hashmoji_after"
 	],
 	"คอมฟอร์ทปรับผ้านุ่มกันแดด": [
-		"BF-13801_Comfort_TH_Hashmoji_during"
+		"BF-13801_Comfort_TH_Hashmoji_during",
+		"BF-13801_Comfort_TH_Hashmoji_after"
 	],
 	"หอมเจิดไม่กลัวแดดจ้า": [
-		"BF-13801_Comfort_TH_Hashmoji_during"
+		"BF-13801_Comfort_TH_Hashmoji_during",
+		"BF-13801_Comfort_TH_Hashmoji_after"
 	],
 	"idle": [
 		"BF-13765_CUBE_G_I_DLE_Hashmoji_2May2025"
@@ -113207,5 +113211,8 @@
 	],
 	"안녕하세요_아이들입니다": [
 		"BF-13765_CUBE_G_I_DLE_Hashmoji_2May2025"
+	],
+	"ปรับผ้านุ่มกันแดด": [
+		"BF-13801_Comfort_TH_Hashmoji_after"
 	]
 }
