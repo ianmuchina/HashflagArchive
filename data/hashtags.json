@@ -112860,7 +112860,8 @@
 		"BF-13628_Hashmoji_INE_2025"
 	],
 	"elecciónjudicial": [
-		"BF-13628_Hashmoji_INE_2025"
+		"BF-13628_Hashmoji_INE_2025",
+		"BF-13833_IECM_Hashmoji2025"
 	],
 	"votapoderjudicial2025mx": [
 		"BF-13628_Hashmoji_INE_2025"
@@ -113253,5 +113254,20 @@
 	],
 	"محمد_الحبيب_العقارية": [
 		"BF-13844_Alhabibinv-Hashmoji_2025"
+	],
+	"chuckgpt": [
+		"BF-13825_FanDuel_ChuckGPT"
+	],
+	"eleccióncdmx": [
+		"BF-13833_IECM_Hashmoji2025"
+	],
+	"institutoelectoral": [
+		"BF-13833_IECM_Hashmoji2025"
+	],
+	"juecesymagistrados": [
+		"BF-13833_IECM_Hashmoji2025"
+	],
+	"poderjudicial": [
+		"BF-13833_IECM_Hashmoji2025"
 	]
 }
