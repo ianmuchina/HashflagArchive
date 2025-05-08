@@ -58252,7 +58252,8 @@
 		"Showtime_TheComeyRule_2020"
 	],
 	"theconjuring": [
-		"TheConjuring3_2021"
+		"TheConjuring3_2021",
+		"BF-13829_Conjuring_Hashmoji2025_V2"
 	],
 	"theconjuring3": [
 		"TheConjuring3_2021"
@@ -113312,5 +113313,32 @@
 	],
 	"greatwhitesharks": [
 		"BabyNovaGreatWhiteSharks"
+	],
+	"conjuring": [
+		"BF-13829_Conjuring_Hashmoji2025_V2"
+	],
+	"conjuro": [
+		"BF-13829_Conjuring_SpanishTranslation_Hashmoji2025"
+	],
+	"elconjuro": [
+		"BF-13829_Conjuring_SpanishTranslation_Hashmoji2025"
+	],
+	"elconjuropelicula": [
+		"BF-13829_Conjuring_SpanishTranslation_Hashmoji2025"
+	],
+	"elconjuroultimosritos": [
+		"BF-13829_Conjuring_SpanishTranslation_Hashmoji2025"
+	],
+	"lastrites": [
+		"BF-13829_Conjuring_Hashmoji2025_V2"
+	],
+	"theconjuringlastrites": [
+		"BF-13829_Conjuring_Hashmoji2025_V2"
+	],
+	"theconjuringmovie": [
+		"BF-13829_Conjuring_Hashmoji2025_V2"
+	],
+	"ultimosritos": [
+		"BF-13829_Conjuring_SpanishTranslation_Hashmoji2025"
 	]
 }
