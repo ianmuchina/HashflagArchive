@@ -113205,19 +113205,23 @@
 	],
 	"comfortth": [
 		"BF-13801_Comfort_TH_Hashmoji_during",
-		"BF-13801_Comfort_TH_Hashmoji_after"
+		"BF-13801_Comfort_TH_Hashmoji_after",
+		"BF-13801_Comfort_TH_Hashmoji_after_extended"
 	],
 	"คอมฟอร์ท": [
 		"BF-13801_Comfort_TH_Hashmoji_during",
-		"BF-13801_Comfort_TH_Hashmoji_after"
+		"BF-13801_Comfort_TH_Hashmoji_after",
+		"BF-13801_Comfort_TH_Hashmoji_after_extended"
 	],
 	"คอมฟอร์ทปรับผ้านุ่มกันแดด": [
 		"BF-13801_Comfort_TH_Hashmoji_during",
-		"BF-13801_Comfort_TH_Hashmoji_after"
+		"BF-13801_Comfort_TH_Hashmoji_after",
+		"BF-13801_Comfort_TH_Hashmoji_after_extended"
 	],
 	"หอมเจิดไม่กลัวแดดจ้า": [
 		"BF-13801_Comfort_TH_Hashmoji_during",
-		"BF-13801_Comfort_TH_Hashmoji_after"
+		"BF-13801_Comfort_TH_Hashmoji_after",
+		"BF-13801_Comfort_TH_Hashmoji_after_extended"
 	],
 	"idle": [
 		"BF-13765_CUBE_G_I_DLE_Hashmoji_2May2025"
@@ -113244,7 +113248,8 @@
 		"BF-13765_CUBE_G_I_DLE_Hashmoji_2May2025"
 	],
 	"ปรับผ้านุ่มกันแดด": [
-		"BF-13801_Comfort_TH_Hashmoji_after"
+		"BF-13801_Comfort_TH_Hashmoji_after",
+		"BF-13801_Comfort_TH_Hashmoji_after_extended"
 	],
 	"glockaveli": [
 		"KeyGlockGLOCKAVELI2025"
@@ -113344,5 +113349,17 @@
 	],
 	"tusksup": [
 		"UtahHockeyClub2025v2"
+	],
+	"indomie": [
+		"BF-13832_Indomielovers_hashmoji_during"
+	],
+	"sotokoyanagih": [
+		"BF-13832_Indomielovers_hashmoji_during"
+	],
+	"sotokoyapedasdower": [
+		"BF-13832_Indomielovers_hashmoji_during"
+	],
+	"terkoyakoya": [
+		"BF-13832_Indomielovers_hashmoji_during"
 	]
 }
