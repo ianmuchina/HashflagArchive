@@ -113351,16 +113351,20 @@
 		"UtahHockeyClub2025v2"
 	],
 	"indomie": [
-		"BF-13832_Indomielovers_hashmoji_during"
+		"BF-13832_Indomielovers_hashmoji_during",
+		"BF-13832_Indomielovers_hashmoji_after"
 	],
 	"sotokoyanagih": [
-		"BF-13832_Indomielovers_hashmoji_during"
+		"BF-13832_Indomielovers_hashmoji_during",
+		"BF-13832_Indomielovers_hashmoji_after"
 	],
 	"sotokoyapedasdower": [
-		"BF-13832_Indomielovers_hashmoji_during"
+		"BF-13832_Indomielovers_hashmoji_during",
+		"BF-13832_Indomielovers_hashmoji_after"
 	],
 	"terkoyakoya": [
-		"BF-13832_Indomielovers_hashmoji_during"
+		"BF-13832_Indomielovers_hashmoji_during",
+		"BF-13832_Indomielovers_hashmoji_after"
 	],
 	"mexc": [
 		"BF-13827_MEXC_Hashmoji2025"
@@ -113391,5 +113395,8 @@
 	],
 	"kidcudineverland": [
 		"KidCudiNeverland2025"
+	],
+	"indomiesotokoya": [
+		"BF-13832_Indomielovers_hashmoji_after"
 	]
 }
