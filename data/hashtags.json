@@ -113283,16 +113283,20 @@
 		"BF-13825_FanDuel_ChuckGPT"
 	],
 	"eleccióncdmx": [
-		"BF-13833_IECM_Hashmoji2025"
+		"BF-13833_IECM_Hashmoji2025",
+		"BF-13833_IECM_Hashmoji_2025_"
 	],
 	"institutoelectoral": [
-		"BF-13833_IECM_Hashmoji2025"
+		"BF-13833_IECM_Hashmoji2025",
+		"BF-13833_IECM_Hashmoji_2025_"
 	],
 	"juecesymagistrados": [
-		"BF-13833_IECM_Hashmoji2025"
+		"BF-13833_IECM_Hashmoji2025",
+		"BF-13833_IECM_Hashmoji_2025_"
 	],
 	"poderjudicial": [
-		"BF-13833_IECM_Hashmoji2025"
+		"BF-13833_IECM_Hashmoji2025",
+		"BF-13833_IECM_Hashmoji_2025_"
 	],
 	"pondsbiomebuddies": [
 		"BF-13789_Ponds_Puddle_Hashmoji"
@@ -113399,5 +113403,8 @@
 	],
 	"indomiesotokoya": [
 		"BF-13832_Indomielovers_hashmoji_after"
+	],
+	"eleccionjudicial": [
+		"BF-13833_IECM_Hashmoji_2025_"
 	]
 }
