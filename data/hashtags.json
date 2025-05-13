@@ -113408,15 +113408,22 @@
 		"BF-13833_IECM_Hashmoji_2025_"
 	],
 	"びんの晴れ風": [
-		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during"
+		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
+		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after"
 	],
 	"キリンビール晴れ風": [
-		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during"
+		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
+		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after"
 	],
 	"晴れ風": [
-		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during"
+		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
+		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after"
 	],
 	"晴れ風ください": [
-		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during"
+		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
+		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after"
+	],
+	"キリン晴れ風": [
+		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after"
 	]
 }
