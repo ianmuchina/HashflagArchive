@@ -108980,13 +108980,16 @@
 		"BF-11827_BirdyCafe_Hashmoji2024_v2"
 	],
 	"birdycafeblack": [
-		"BF-11827_BirdyCafe_Hashmoji2024_v2"
+		"BF-11827_BirdyCafe_Hashmoji2024_v2",
+		"BF-13826_Birdy_Cafe_TH_Hashmoji_during_v2"
 	],
 	"birdycafelatte": [
-		"BF-11827_BirdyCafe_Hashmoji2024_v2"
+		"BF-11827_BirdyCafe_Hashmoji2024_v2",
+		"BF-13826_Birdy_Cafe_TH_Hashmoji_during_v2"
 	],
 	"birdycafexatlas": [
-		"BF-11827_BirdyCafe_Hashmoji2024_v2"
+		"BF-11827_BirdyCafe_Hashmoji2024_v2",
+		"BF-13826_Birdy_Cafe_TH_Hashmoji_during_v2"
 	],
 	"เบอร์ดี้คาเฟ่อร่อยเข้มเต็มฟีลเฟรช": [
 		"BF-11827_BirdyCafe_Hashmoji2024_v2"
@@ -113438,5 +113441,8 @@
 	],
 	"キリン晴れ風": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after"
+	],
+	"เบอร์ดี้คาเฟ่กาแฟคุณภาพพร้อมเสิร์ฟ": [
+		"BF-13826_Birdy_Cafe_TH_Hashmoji_during_v2"
 	]
 }
