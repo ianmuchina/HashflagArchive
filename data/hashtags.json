@@ -96833,7 +96833,8 @@
 	],
 	"missionimpossible": [
 		"Paramount_Pictures_MIssionImpossible_Before",
-		"Paramount_Pictures_MIssionImpossible_Continue"
+		"Paramount_Pictures_MIssionImpossible_Continue",
+		"ParamountPictures_MissionImpossible8_2025"
 	],
 	"missionimpossible7": [
 		"Paramount_Pictures_MIssionImpossible_Before",
@@ -96845,7 +96846,8 @@
 	],
 	"ミッションインポッシブル": [
 		"Paramount_Pictures_MIssionImpossible_Before",
-		"Paramount_Pictures_MIssionImpossible_Continue"
+		"Paramount_Pictures_MIssionImpossible_Continue",
+		"ParamountPictures_MissionImpossible8_Transalations_2025"
 	],
 	"不可能的任務": [
 		"Paramount_Pictures_MIssionImpossible_Before",
@@ -113449,5 +113451,26 @@
 	],
 	"เบอร์ดี้คาเฟ่กาแฟคุณภาพพร้อมเสิร์ฟ": [
 		"BF-13826_Birdy_Cafe_TH_Hashmoji_during_v2"
+	],
+	"ethanhunt": [
+		"ParamountPictures_MissionImpossible8_2025"
+	],
+	"finalreckoning": [
+		"ParamountPictures_MissionImpossible8_2025"
+	],
+	"misionimposible": [
+		"ParamountPictures_MissionImpossible8_Transalations_2025"
+	],
+	"missionweek": [
+		"ParamountPictures_MissionImpossible8_2025"
+	],
+	"missãoimpossível": [
+		"ParamountPictures_MissionImpossible8_Transalations_2025"
+	],
+	"thefinalreckoning": [
+		"ParamountPictures_MissionImpossible8_2025"
+	],
+	"미션임파서블_파이널레코닝": [
+		"ParamountPictures_MissionImpossible8_Transalations_2025"
 	]
 }
