@@ -113253,7 +113253,8 @@
 		"BF-13801_Comfort_TH_Hashmoji_after_extended"
 	],
 	"idle": [
-		"BF-13765_CUBE_G_I_DLE_Hashmoji_2May2025"
+		"BF-13765_CUBE_G_I_DLE_Hashmoji_2May2025",
+		"BF-13869_Cube_G_I_DLE_Hashmoji_during"
 	],
 	"idle_7th_anniversary": [
 		"BF-13765_CUBE_G_I_DLE_Hashmoji_2May2025"
@@ -113541,5 +113542,14 @@
 	],
 	"nascaronprime": [
 		"BF-13854_Nascar_on_Prime_Hashmoji"
+	],
+	"good_thing": [
+		"BF-13869_Cube_G_I_DLE_Hashmoji_during"
+	],
+	"어머_아이들컴백_good_thing": [
+		"BF-13869_Cube_G_I_DLE_Hashmoji_during"
+	],
+	"홀리_몰리_어머_굿띵": [
+		"BF-13869_Cube_G_I_DLE_Hashmoji_during"
 	]
 }
