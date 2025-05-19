@@ -6495,7 +6495,8 @@
 		"BET_Awards_Jun_2022",
 		"BET_Awards_Jun_2022_v2",
 		"BETAwards2023",
-		"BET_Awards_2024"
+		"BET_Awards_2024",
+		"BETAwards2025"
 	],
 	"betawards20": [
 		"BETAwardsMain2020"
@@ -49643,7 +49644,8 @@
 		"RolandGarros_May_2021",
 		"Roland_Garros_May_2022",
 		"RolandGarros_2023_Hashmoji",
-		"BF-10957_RolandGarros_2024"
+		"BF-10957_RolandGarros_2024",
+		"RolandGarrosHashmoji2025"
 	],
 	"rollstuhlbasketball": [
 		"Paralympics_Sports_2021_WheelchairBasketball"
@@ -113527,5 +113529,11 @@
 	],
 	"وش_سوينا": [
 		"BF-13911_BeyondAmbition_May2025_Hashmoji"
+	],
+	"betawards2025": [
+		"BETAwards2025"
+	],
+	"betawards25": [
+		"BETAwards2025"
 	]
 }
