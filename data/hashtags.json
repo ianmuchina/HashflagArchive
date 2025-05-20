@@ -29758,7 +29758,8 @@
 	],
 	"jurassicworld": [
 		"JurassicWorldDominion_2021_extend",
-		"JurassicWorldDominion_2021"
+		"JurassicWorldDominion_2021",
+		"BF-13925_Universal_Jurassic_World_Rebirth_Emoji"
 	],
 	"jurassicworlddominio": [
 		"JurassicWorldDominion_2021_extend",
@@ -113560,5 +113561,17 @@
 	],
 	"streamingday2025\".\"nationalstreamingday": [
 		"INTERNAL_Marketing_Streamingday_BF-13963"
+	],
+	"jurassicworlddiewiedergerburt": [
+		"BF-13925_Universal_Jurassic_World_Rebirth_Emoji"
+	],
+	"jurassicworldrebirth": [
+		"BF-13925_Universal_Jurassic_World_Rebirth_Emoji"
+	],
+	"jurassicworldrenace": [
+		"BF-13925_Universal_Jurassic_World_Rebirth_Emoji"
+	],
+	"쥬라기월드_새로운시작": [
+		"BF-13925_Universal_Jurassic_World_Rebirth_Emoji"
 	]
 }
