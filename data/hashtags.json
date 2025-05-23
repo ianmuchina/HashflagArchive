@@ -33157,7 +33157,8 @@
 		"Nintendo_Legenden_Arceus_2021_2022"
 	],
 	"lfcchampions": [
-		"LiverpoolChampions_July2020"
+		"LiverpoolChampions_July2020",
+		"LiverpoolPLChamps2025"
 	],
 	"lfcjuara": [
 		"LiverpoolChampions_July2020"
@@ -113608,5 +113609,8 @@
 	],
 	"memorialcup": [
 		"CHLMemorialCup2025"
+	],
+	"ynwa": [
+		"LiverpoolPLChamps2025"
 	]
 }
