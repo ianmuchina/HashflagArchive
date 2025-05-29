@@ -113661,7 +113661,8 @@
 		"ASAPRocky10YearAnniversary"
 	],
 	"16구팔레트": [
-		"BF-13950_Wakemake_Hashfetti_before"
+		"BF-13950_Wakemake_Hashfetti_before",
+		"BF-13950_Wakemake_Hashfetti_during"
 	],
 	"raven2": [
 		"BF-14017_2025_Raven2_Launch"
@@ -113679,31 +113680,39 @@
 		"BF-14017_2025_Raven2_Launch"
 	],
 	"브링그린올영세일": [
-		"BF-13949_bringgreen_Hashmoji_before"
+		"BF-13949_bringgreen_Hashmoji_before",
+		"BF-13949_bringgreen_Hashmoji_during"
 	],
 	"브링그린콜라보": [
-		"BF-13949_bringgreen_Hashmoji_before"
+		"BF-13949_bringgreen_Hashmoji_before",
+		"BF-13949_bringgreen_Hashmoji_during"
 	],
 	"브링그린키움": [
-		"BF-13949_bringgreen_Hashmoji_before"
+		"BF-13949_bringgreen_Hashmoji_before",
+		"BF-13949_bringgreen_Hashmoji_during"
 	],
 	"브링그린티트리썬": [
 		"BF-13949_bringgreen_Hashmoji_before"
 	],
 	"소프트블러링아이팔레트": [
-		"BF-13950_Wakemake_Hashfetti_before"
+		"BF-13950_Wakemake_Hashfetti_before",
+		"BF-13950_Wakemake_Hashfetti_during"
 	],
 	"웨이크메이크소블아": [
-		"BF-13950_Wakemake_Hashfetti_before"
+		"BF-13950_Wakemake_Hashfetti_before",
+		"BF-13950_Wakemake_Hashfetti_during"
 	],
 	"웨이크메이크신제품": [
-		"BF-13950_Wakemake_Hashfetti_before"
+		"BF-13950_Wakemake_Hashfetti_before",
+		"BF-13950_Wakemake_Hashfetti_during"
 	],
 	"웨이크메이크올영세일": [
-		"BF-13950_Wakemake_Hashfetti_before"
+		"BF-13950_Wakemake_Hashfetti_before",
+		"BF-13950_Wakemake_Hashfetti_during"
 	],
 	"티트리썬키움": [
-		"BF-13949_bringgreen_Hashmoji_before"
+		"BF-13949_bringgreen_Hashmoji_before",
+		"BF-13949_bringgreen_Hashmoji_during"
 	],
 	"perses": [
 		"BF-13923_perses_official_Just_Kidding_MV_May_2025"
@@ -113721,15 +113730,34 @@
 		"BF-13923_perses_official_Just_Kidding_MV_May_2025"
 	],
 	"ごはんがとまらん味": [
-		"BF-13932_NAGATANIEN_2025_nagatanien_jp_during"
+		"BF-13932_NAGATANIEN_2025_nagatanien_jp_during",
+		"BF-13932_NAGATANIEN_2025_nagatanien_jp_after"
 	],
 	"とりあえず食べたい": [
-		"BF-13932_NAGATANIEN_2025_nagatanien_jp_during"
+		"BF-13932_NAGATANIEN_2025_nagatanien_jp_during",
+		"BF-13932_NAGATANIEN_2025_nagatanien_jp_after"
 	],
 	"実家を思い出す味": [
-		"BF-13932_NAGATANIEN_2025_nagatanien_jp_during"
+		"BF-13932_NAGATANIEN_2025_nagatanien_jp_during",
+		"BF-13932_NAGATANIEN_2025_nagatanien_jp_after"
 	],
 	"野菜マシマシで楽しむ味": [
-		"BF-13932_NAGATANIEN_2025_nagatanien_jp_during"
+		"BF-13932_NAGATANIEN_2025_nagatanien_jp_during",
+		"BF-13932_NAGATANIEN_2025_nagatanien_jp_after"
+	],
+	"biohealboh": [
+		"BF-13952_Oliveyoung_Hashmoji_during"
+	],
+	"コラーゲンクリーム": [
+		"BF-13952_Oliveyoung_Hashmoji_during"
+	],
+	"タンタンクリーム": [
+		"BF-13952_Oliveyoung_Hashmoji_during"
+	],
+	"バイオヒールボ": [
+		"BF-13952_Oliveyoung_Hashmoji_during"
+	],
+	"麻婆春雨ってどんな味": [
+		"BF-13932_NAGATANIEN_2025_nagatanien_jp_after"
 	]
 }
