@@ -84365,7 +84365,8 @@
 		"Disney_JungleCruise_Boat_2021"
 	],
 	"대선": [
-		"Korea_Presidential_Election_2022"
+		"Korea_Presidential_Election_2022",
+		"BF-14033_SouthKorea_PresidentialElection_2025"
 	],
 	"대종상": [
 		"KMOVIE_DAEJONG_Award_Oct_2022"
@@ -84374,7 +84375,8 @@
 		"KMOVIE_DAEJONG_Award_Oct_2022"
 	],
 	"대통령선거": [
-		"Korea_Presidential_Election_2022"
+		"Korea_Presidential_Election_2022",
+		"BF-14033_SouthKorea_PresidentialElection_2025"
 	],
 	"대한독립만세": [
 		"Korea_Independence_Movement_Day_2022_v2",
@@ -86927,7 +86929,8 @@
 		"Korea_Presidential_Election_2022",
 		"Korean_Local_Byelection_2021",
 		"Korea_Local_Elections_2022",
-		"Korea_Local_Elections_2022_v2"
+		"Korea_Local_Elections_2022_v2",
+		"BF-14033_SouthKorea_PresidentialElection_2025"
 	],
 	"투표완료": [
 		"Korean_Local_Byelection_2021"
@@ -86935,7 +86938,8 @@
 	"투표인증": [
 		"Korean_Local_Byelection_2021",
 		"Korea_Local_Elections_2022",
-		"Korea_Local_Elections_2022_v2"
+		"Korea_Local_Elections_2022_v2",
+		"BF-14033_SouthKorea_PresidentialElection_2025"
 	],
 	"투표참여": [
 		"Korea_Presidential_Election_2022"
@@ -113768,5 +113772,8 @@
 	],
 	"withoutloveremix": [
 		"ParisHiltonInfiniteIcon"
+	],
+	"제21대대통령선거": [
+		"BF-14033_SouthKorea_PresidentialElection_2025"
 	]
 }
