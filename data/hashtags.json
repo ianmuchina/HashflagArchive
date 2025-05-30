@@ -113666,7 +113666,8 @@
 	],
 	"16구팔레트": [
 		"BF-13950_Wakemake_Hashfetti_before",
-		"BF-13950_Wakemake_Hashfetti_during"
+		"BF-13950_Wakemake_Hashfetti_during",
+		"BF-13950_Wakemake_Hashfetti_after_v2"
 	],
 	"raven2": [
 		"BF-14017_2025_Raven2_Launch"
@@ -113685,38 +113686,47 @@
 	],
 	"브링그린올영세일": [
 		"BF-13949_bringgreen_Hashmoji_before",
-		"BF-13949_bringgreen_Hashmoji_during"
+		"BF-13949_bringgreen_Hashmoji_during",
+		"BF-13949_bringgreen_Hashmoji_after"
 	],
 	"브링그린콜라보": [
 		"BF-13949_bringgreen_Hashmoji_before",
-		"BF-13949_bringgreen_Hashmoji_during"
+		"BF-13949_bringgreen_Hashmoji_during",
+		"BF-13949_bringgreen_Hashmoji_after"
 	],
 	"브링그린키움": [
 		"BF-13949_bringgreen_Hashmoji_before",
-		"BF-13949_bringgreen_Hashmoji_during"
+		"BF-13949_bringgreen_Hashmoji_during",
+		"BF-13949_bringgreen_Hashmoji_after"
 	],
 	"브링그린티트리썬": [
-		"BF-13949_bringgreen_Hashmoji_before"
+		"BF-13949_bringgreen_Hashmoji_before",
+		"BF-13949_bringgreen_Hashmoji_after"
 	],
 	"소프트블러링아이팔레트": [
 		"BF-13950_Wakemake_Hashfetti_before",
-		"BF-13950_Wakemake_Hashfetti_during"
+		"BF-13950_Wakemake_Hashfetti_during",
+		"BF-13950_Wakemake_Hashfetti_after_v2"
 	],
 	"웨이크메이크소블아": [
 		"BF-13950_Wakemake_Hashfetti_before",
-		"BF-13950_Wakemake_Hashfetti_during"
+		"BF-13950_Wakemake_Hashfetti_during",
+		"BF-13950_Wakemake_Hashfetti_after_v2"
 	],
 	"웨이크메이크신제품": [
 		"BF-13950_Wakemake_Hashfetti_before",
-		"BF-13950_Wakemake_Hashfetti_during"
+		"BF-13950_Wakemake_Hashfetti_during",
+		"BF-13950_Wakemake_Hashfetti_after_v2"
 	],
 	"웨이크메이크올영세일": [
 		"BF-13950_Wakemake_Hashfetti_before",
-		"BF-13950_Wakemake_Hashfetti_during"
+		"BF-13950_Wakemake_Hashfetti_during",
+		"BF-13950_Wakemake_Hashfetti_after_v2"
 	],
 	"티트리썬키움": [
 		"BF-13949_bringgreen_Hashmoji_before",
-		"BF-13949_bringgreen_Hashmoji_during"
+		"BF-13949_bringgreen_Hashmoji_during",
+		"BF-13949_bringgreen_Hashmoji_after"
 	],
 	"perses": [
 		"BF-13923_perses_official_Just_Kidding_MV_May_2025"
@@ -113750,16 +113760,20 @@
 		"BF-13932_NAGATANIEN_2025_nagatanien_jp_after"
 	],
 	"biohealboh": [
-		"BF-13952_Oliveyoung_Hashmoji_during"
+		"BF-13952_Oliveyoung_Hashmoji_during",
+		"BF-13952_Oliveyoung_Hashmoji_after"
 	],
 	"コラーゲンクリーム": [
-		"BF-13952_Oliveyoung_Hashmoji_during"
+		"BF-13952_Oliveyoung_Hashmoji_during",
+		"BF-13952_Oliveyoung_Hashmoji_after"
 	],
 	"タンタンクリーム": [
-		"BF-13952_Oliveyoung_Hashmoji_during"
+		"BF-13952_Oliveyoung_Hashmoji_during",
+		"BF-13952_Oliveyoung_Hashmoji_after"
 	],
 	"バイオヒールボ": [
-		"BF-13952_Oliveyoung_Hashmoji_during"
+		"BF-13952_Oliveyoung_Hashmoji_during",
+		"BF-13952_Oliveyoung_Hashmoji_after"
 	],
 	"麻婆春雨ってどんな味": [
 		"BF-13932_NAGATANIEN_2025_nagatanien_jp_after"
@@ -113775,5 +113789,8 @@
 	],
 	"제21대대통령선거": [
 		"BF-14033_SouthKorea_PresidentialElection_2025"
+	],
+	"さあ肌を聞こう": [
+		"BF-13952_Oliveyoung_Hashmoji_after"
 	]
 }
