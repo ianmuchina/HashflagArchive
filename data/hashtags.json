@@ -109880,14 +109880,16 @@
 	],
 	"gosi": [
 		"BF-12231_SaudiGOSI_BrandCampaign_Hashmoji2024",
-		"BF-13787_GOSIAPRIL_Hashmoji2025"
+		"BF-13787_GOSIAPRIL_Hashmoji2025",
+		"BF-14053_GOSI_June_Hashmoji2025"
 	],
 	"gosiapp": [
 		"BF-12231_SaudiGOSI_BrandCampaign_Hashmoji2024"
 	],
 	"التأمينات_الاجتماعية": [
 		"BF-12231_SaudiGOSI_BrandCampaign_Hashmoji2024",
-		"BF-13787_GOSIAPRIL_Hashmoji2025"
+		"BF-13787_GOSIAPRIL_Hashmoji2025",
+		"BF-14053_GOSI_June_Hashmoji2025"
 	],
 	"hivementality": [
 		"CHLHornets_NBA_2425"
@@ -113838,5 +113840,11 @@
 	],
 	"wwdc25": [
 		"BF-14032_WWDC25_HashmojiBefore"
+	],
+	"الطاقة_في_الحج": [
+		"BF-14054_SaudiEnergy_Hashmoji2025"
+	],
+	"للطاقة_وطن": [
+		"BF-14054_SaudiEnergy_Hashmoji2025"
 	]
 }
