@@ -113827,16 +113827,20 @@
 		"BF-14045_Aman_Arabic_Hashmoji2025"
 	],
 	"드길": [
-		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_during"
+		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_during",
+		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_after"
 	],
 	"드래곤길들이기_실사영화": [
-		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_during"
+		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_during",
+		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_after"
 	],
 	"세상을_바꿀_모험": [
-		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_during"
+		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_during",
+		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_after"
 	],
 	"투슬리스": [
-		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_during"
+		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_during",
+		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_after"
 	],
 	"wwdc25": [
 		"BF-14032_WWDC25_HashmojiBefore"
@@ -113855,5 +113859,8 @@
 	],
 	"كاس_العالم_للرياضات_الالكترونية": [
 		"EWC2025v2"
+	],
+	"드래곤길들이기": [
+		"BF-13962_Universal_Pictures_KR_HowtoTrainDragon_2025_after"
 	]
 }
