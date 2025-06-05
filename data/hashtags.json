@@ -108006,13 +108006,15 @@
 	"zzzero": [
 		"BF-11461_ZenlessZoneZero_Hashmoji_before",
 		"BF-11461_ZenlessZoneZero_Hashfetti",
-		"BF-11461_ZenlessZoneZero_Hashmoji_after"
+		"BF-11461_ZenlessZoneZero_Hashmoji_after",
+		"BF-14018_ZZZ_YiXuan_2025"
 	],
 	"ゼンゼロ": [
 		"BF-11461_ZenlessZoneZero_Hashmoji_before",
 		"BF-11461_ZenlessZoneZero_Hashfetti",
 		"BF-11461_ZenlessZoneZero_Hashmoji_after",
-		"BF-12708_miHoYo_ZZZ_miyabi_Emoji_December_2024"
+		"BF-12708_miHoYo_ZZZ_miyabi_Emoji_December_2024",
+		"BF-14018_ZZZ_YiXuan_2025"
 	],
 	"ゼンゼローぜ": [
 		"BF-11462_Zenless_Zone_Zero_Launch_2024_Bangboo_01"
@@ -113915,5 +113917,14 @@
 	],
 	"هونر400_اختيارك_الاول": [
 		"BF-13966_Honor400_Hashmoji"
+	],
+	"イーシェン": [
+		"BF-14018_ZZZ_YiXuan_2025"
+	],
+	"ゼンゼロ1周年": [
+		"BF-14018_ZZZ_YiXuan_2025"
+	],
+	"젠레스1주년": [
+		"BF-14018_ZZZ_YiXuan_2025"
 	]
 }
