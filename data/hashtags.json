@@ -64123,7 +64123,8 @@
 	],
 	"visitsaudi": [
 		"SaudiTourism_2020",
-		"Rethink_Summer_Saudi_Tourism"
+		"Rethink_Summer_Saudi_Tourism",
+		"BF-14088_STA_Summer_Campaign_Hashmoji"
 	],
 	"vitwin": [
 		"LEC_Team_Vitality_2022",
@@ -70570,7 +70571,8 @@
 	"روح_السعودية": [
 		"SaudiTourism_2020",
 		"VisitSaudiWinterCampaign_2020",
-		"Rethink_Summer_Saudi_Tourism"
+		"Rethink_Summer_Saudi_Tourism",
+		"BF-14088_STA_Summer_Campaign_Hashmoji"
 	],
 	"زاتكا": [
 		"Zatca_sa_Nov_2021"
@@ -97895,7 +97897,8 @@
 		"Rethink_Summer_Saudi_Tourism",
 		"BF-11415_Digital_Video_Support_Summer_2024",
 		"BF-11415_Digital_Video_Support_Summer_2024_",
-		"BF-11415Digital_Video_Support_Summer_2024_Extension"
+		"BF-11415Digital_Video_Support_Summer_2024_Extension",
+		"BF-14088_STA_Summer_Campaign_Hashmoji"
 	],
 	"لاتروح_بعيد": [
 		"Rethink_Summer_Saudi_Tourism"
@@ -113970,5 +113973,11 @@
 	],
 	"nascarmexico": [
 		"NASCARMexico2025"
+	],
+	"colouryoursummer": [
+		"BF-14088_STA_Summer_Campaign_Hashmoji"
+	],
+	"لوّن_صيفك": [
+		"BF-14088_STA_Summer_Campaign_Hashmoji"
 	]
 }
