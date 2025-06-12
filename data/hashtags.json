@@ -26290,7 +26290,8 @@
 	"hpediscover": [
 		"HPEDiscover2021",
 		"BF-11174_HPEDiscoverHashmoji",
-		"_BF-12449_HPEDiscoverBarcelona_Hashmoji2024_"
+		"_BF-12449_HPEDiscoverBarcelona_Hashmoji2024_",
+		"BF-14064_HPEDiscover_HashmojiBefore"
 	],
 	"hpediscover2021": [
 		"HPEDiscover2021"
@@ -113998,5 +113999,20 @@
 	],
 	"카르티시아": [
 		"BF-13998_Kuro_WW_hashmoji_2025"
+	],
+	"hiccstrid": [
+		"BF-14094_Universal_HTTYD"
+	],
+	"howtotrainyourdragon": [
+		"BF-14094_Universal_HTTYD"
+	],
+	"httyd": [
+		"BF-14094_Universal_HTTYD"
+	],
+	"httydragon": [
+		"BF-14094_Universal_HTTYD"
+	],
+	"toothless": [
+		"BF-14094_Universal_HTTYD"
 	]
 }
