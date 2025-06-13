@@ -33648,7 +33648,8 @@
 	],
 	"liltecca": [
 		"LilTecca_2020",
-		"LilTecca23V2"
+		"LilTecca23V2",
+		"LilTeccaDopamine2025"
 	],
 	"lilwayne": [
 		"LilWayne2021",
@@ -114020,5 +114021,11 @@
 	],
 	"hpediscover2025": [
 		"BF-14064_HPEDiscover_Jun2025_HashmojiOutsideOfHashfetti"
+	],
+	"darkthoughts": [
+		"LilTeccaDopamine2025"
+	],
+	"halftheplot": [
+		"LilTeccaDopamine2025"
 	]
 }
