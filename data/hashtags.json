@@ -114066,12 +114066,18 @@
 		"BF-14098_VaselineTH_Hashmoji_during"
 	],
 	"วาสลีน": [
-		"BF-14098_VaselineTH_Hashmoji_during"
+		"BF-14098_VaselineTH_Hashmoji_during",
+		"BF-14098_VaselineTH_Hashmoji_during_v3"
 	],
 	"วาสลีนสูตร4": [
-		"BF-14098_VaselineTH_Hashmoji_during"
+		"BF-14098_VaselineTH_Hashmoji_during",
+		"BF-14098_VaselineTH_Hashmoji_during_v3"
 	],
 	"วาสลีนโปรเดอร์มา": [
-		"BF-14098_VaselineTH_Hashmoji_during"
+		"BF-14098_VaselineTH_Hashmoji_during",
+		"BF-14098_VaselineTH_Hashmoji_during_v3"
+	],
+	"วาสลีนกระปุก": [
+		"BF-14098_VaselineTH_Hashmoji_during_v3"
 	]
 }
