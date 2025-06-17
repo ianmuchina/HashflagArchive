@@ -110410,7 +110410,8 @@
 		"BF-12451_TopTopSA_Hashmoji"
 	],
 	"eljuegodelcalamar": [
-		"BF-12553_NetflixSquidGameS2_Q42024"
+		"BF-12553_NetflixSquidGameS2_Q42024",
+		"BF-14072_NetflixES_SquidGamesS3_Hashmoji2025"
 	],
 	"squidgame2": [
 		"BF-12553_NetflixSquidGameS2_Q42024"
@@ -114079,5 +114080,17 @@
 	],
 	"วาสลีนกระปุก": [
 		"BF-14098_VaselineTH_Hashmoji_during_v3"
+	],
+	"eljuegodelcalamars3": [
+		"BF-14072_NetflixES_SquidGamesS3_Hashmoji2025"
+	],
+	"squidgames3": [
+		"BF-14072_NetflixES_SquidGamesS3_Hashmoji2025"
+	],
+	"squidgameseason3": [
+		"BF-14072_NetflixES_SquidGamesS3_Hashmoji2025"
+	],
+	"오징어게임": [
+		"BF-14072_NetflixES_SquidGamesS3_Hashmoji2025"
 	]
 }
