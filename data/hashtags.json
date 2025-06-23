@@ -54331,7 +54331,8 @@
 		"Netflix_Squid_Game_Feb_2022_v2",
 		"Netflix_Squid_Game_Sept_2022_extend",
 		"BF-12553_NetflixSquidGameS2_Q42024",
-		"BF-14055_NetflixJP_18ce55g4649_Hashmoji_20250617-20250914_squidgame3"
+		"BF-14055_NetflixJP_18ce55g4649_Hashmoji_20250617-20250914_squidgame3",
+		"BF-14124_SquidGame_BR_Hashmoji_Before"
 	],
 	"squidgamenetflix": [
 		"Netflix_Squid_Game_Feb_2022",
@@ -114121,5 +114122,17 @@
 	],
 	"熱あたりかも": [
 		"BF-14067_DAIKIN_daikin_netsu_emoji_2025"
+	],
+	"batatinhafrita": [
+		"BF-14124_SquidGame_BR_Hashmoji_Before"
+	],
+	"round6": [
+		"BF-14124_SquidGame_BR_Hashmoji_Before"
+	],
+	"round6s3": [
+		"BF-14124_SquidGame_BR_Hashmoji_Before"
+	],
+	"temporadafinal": [
+		"BF-14124_SquidGame_BR_Hashmoji_Before"
 	]
 }
