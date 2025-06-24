@@ -107974,7 +107974,8 @@
 		"BF-11458_Golden_Nugget_Online_Casino",
 		"BF-12112_GoldenNuggetOnlineCasino_Hashmoji2Extension2024",
 		"BF-12842_Golden_Nugget_Online_Casino_Hashmoji_Extension_GoldenNuggetOnlineCasino",
-		"BF-13541_GoldenNuggetOnlineCasino_HashmojiExt2025"
+		"BF-13541_GoldenNuggetOnlineCasino_HashmojiExt2025",
+		"BF-14116_GoldenNuggetOnlineCasino_Hashmoji_Extension"
 	],
 	"makeanymomentgolden": [
 		"BF-11457_Golden_Nugget_Make_Any_Moment_Golden",
@@ -114163,5 +114164,8 @@
 	],
 	"立捜だより": [
 		"BF-14136_aoex_game_CustomLike_Launch_during"
+	],
+	"gnonlinecasino": [
+		"BF-14117-MakeAnyMomentGolden_Hashmoji_Extension"
 	]
 }
