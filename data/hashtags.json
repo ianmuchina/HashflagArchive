@@ -114155,16 +114155,20 @@
 		"BF-14177_J4Winfield25_Hashmoji_USEmbassyEvent"
 	],
 	"alternavvelt": [
-		"BF-14136_aoex_game_CustomLike_Launch_during"
+		"BF-14136_aoex_game_CustomLike_Launch_during",
+		"BF-14136_aoex_game_CustomLike_Launch_after"
 	],
 	"オルエクやってみた": [
-		"BF-14136_aoex_game_CustomLike_Launch_during"
+		"BF-14136_aoex_game_CustomLike_Launch_during",
+		"BF-14136_aoex_game_CustomLike_Launch_after"
 	],
 	"オルエク写真館": [
-		"BF-14136_aoex_game_CustomLike_Launch_during"
+		"BF-14136_aoex_game_CustomLike_Launch_during",
+		"BF-14136_aoex_game_CustomLike_Launch_after"
 	],
 	"立捜だより": [
-		"BF-14136_aoex_game_CustomLike_Launch_during"
+		"BF-14136_aoex_game_CustomLike_Launch_during",
+		"BF-14136_aoex_game_CustomLike_Launch_after"
 	],
 	"gnonlinecasino": [
 		"BF-14117-MakeAnyMomentGolden_Hashmoji_Extension"
@@ -114198,5 +114202,8 @@
 	],
 	"판타스틱4": [
 		"BF-14180_Marvel_Fantastic_4_International_Hashmojis"
+	],
+	"オルエク": [
+		"BF-14136_aoex_game_CustomLike_Launch_after"
 	]
 }
