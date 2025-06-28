@@ -54338,7 +54338,8 @@
 		"BF-12553_NetflixSquidGameS2_Q42024",
 		"BF-14055_NetflixJP_18ce55g4649_Hashmoji_20250617-20250914_squidgame3",
 		"BF-14124_SquidGame_BR_Hashmoji_Before",
-		"BF-14124_SquidGame_BR_Hashmoji_During"
+		"BF-14124_SquidGame_BR_Hashmoji_During",
+		"BF-14124_SquidGame_BR_Hasmoji_After"
 	],
 	"squidgamenetflix": [
 		"Netflix_Squid_Game_Feb_2022",
@@ -114141,18 +114142,22 @@
 	],
 	"batatinhafrita": [
 		"BF-14124_SquidGame_BR_Hashmoji_Before",
-		"BF-14124_SquidGame_BR_Hashmoji_During"
+		"BF-14124_SquidGame_BR_Hashmoji_During",
+		"BF-14124_SquidGame_BR_Hasmoji_After"
 	],
 	"round6": [
-		"BF-14124_SquidGame_BR_Hashmoji_Before"
+		"BF-14124_SquidGame_BR_Hashmoji_Before",
+		"BF-14124_SquidGame_BR_Hasmoji_After"
 	],
 	"round6s3": [
 		"BF-14124_SquidGame_BR_Hashmoji_Before",
-		"BF-14124_SquidGame_BR_Hashmoji_During"
+		"BF-14124_SquidGame_BR_Hashmoji_During",
+		"BF-14124_SquidGame_BR_Hasmoji_After"
 	],
 	"temporadafinal": [
 		"BF-14124_SquidGame_BR_Hashmoji_Before",
-		"BF-14124_SquidGame_BR_Hashmoji_During"
+		"BF-14124_SquidGame_BR_Hashmoji_During",
+		"BF-14124_SquidGame_BR_Hasmoji_After"
 	],
 	"cheddarbaybiscuit": [
 		"BF_14145_Red_Lobster_Crabfest_2025"
