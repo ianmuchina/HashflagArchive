@@ -102239,7 +102239,8 @@
 	"アルティミューン": [
 		"Hashmoji_SHISEIDO_brand_10_1_JST",
 		"BF_13262_Shiseido_BS_Feb_2025",
-		"BF-13262_Shiseido_BS_Feb2025"
+		"BF-13262_Shiseido_BS_Feb2025",
+		"BF-14187_ShiseidoRingoUltimune_JP_Hashmoji2025"
 	],
 	"サントリー生ビール": [
 		"Suntory_Draft_Beer_Hashmoji_2023"
@@ -113519,22 +113520,26 @@
 	"びんの晴れ風": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after",
-		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before"
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before",
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_during_v3"
 	],
 	"キリンビール晴れ風": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after",
-		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before"
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before",
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_during_v3"
 	],
 	"晴れ風": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after",
-		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before"
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before",
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_during_v3"
 	],
 	"晴れ風ください": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after",
-		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before"
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before",
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_during_v3"
 	],
 	"キリン晴れ風": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after",
@@ -114317,5 +114322,8 @@
 	],
 	"vladtenev": [
 		"BF-14185_Robinhood_Q2_2025_Takeover"
+	],
+	"ストレス解放区": [
+		"BF-14187_ShiseidoRingoUltimune_JP_Hashmoji2025"
 	]
 }
