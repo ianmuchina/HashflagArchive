@@ -106283,7 +106283,8 @@
 	"robinhood": [
 		"BF-10766_Robinhood_GoldEventLaunch_Q12024",
 		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024",
-		"BF-13581_Robinhood_Q1_2025_Gold_Takeover"
+		"BF-13581_Robinhood_Q1_2025_Gold_Takeover",
+		"BF-14185_Robinhood_Q2_2025_Takeover"
 	],
 	"archeron": [
 		"BF-10788_miHoYo_Archeron_March_2024"
@@ -109782,7 +109783,8 @@
 	],
 	"robinhoodpresents": [
 		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024",
-		"BF-13581_Robinhood_Q1_2025_Gold_Takeover"
+		"BF-13581_Robinhood_Q1_2025_Gold_Takeover",
+		"BF-14185_Robinhood_Q2_2025_Takeover"
 	],
 	"netflixgundam": [
 		"BF-11965_NetflixJP_Hashmoji_20241018-20250116_Gundam"
@@ -114293,5 +114295,26 @@
 	],
 	"letsparty": [
 		"KeshaPeriod2025v2"
+	],
+	"catinthehat": [
+		"WB_CatInTheHat_2025"
+	],
+	"catinthehatmovie": [
+		"WB_CatInTheHat_2025"
+	],
+	"robinhoodcrypto": [
+		"BF-14185_Robinhood_Q2_2025_Takeover"
+	],
+	"thecatinthehat": [
+		"WB_CatInTheHat_2025"
+	],
+	"thethings": [
+		"WB_CatInTheHat_2025"
+	],
+	"tocatchatoken": [
+		"BF-14185_Robinhood_Q2_2025_Takeover"
+	],
+	"vladtenev": [
+		"BF-14185_Robinhood_Q2_2025_Takeover"
 	]
 }
