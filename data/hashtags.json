@@ -9156,7 +9156,8 @@
 		"ConanGray2022"
 	],
 	"cafem": [
-		"Copa_America_Feminina_Jul_2022"
+		"Copa_America_Feminina_Jul_2022",
+		"CONMEBOLWCopaAmerica2025"
 	],
 	"cajunsauce": [
 		"BTSxMcD_May_2021"
@@ -98518,7 +98519,8 @@
 	"laveniràvélo": [
 		"Tour_de_France_ASO_FR_1st_July_30th_July_2023",
 		"Tour_de_France_Men_2024",
-		"Tour_de_France_Women_2024"
+		"Tour_de_France_Women_2024",
+		"TourDeFrance2025"
 	],
 	"tdf2023": [
 		"Tour_de_France_ASO_FR_1st_July_30th_July_2023"
@@ -114325,5 +114327,17 @@
 	],
 	"ストレス解放区": [
 		"BF-14187_ShiseidoRingoUltimune_JP_Hashmoji2025"
+	],
+	"copaamericafem": [
+		"CONMEBOLWCopaAmerica2025"
+	],
+	"copaaméricafem": [
+		"CONMEBOLWCopaAmerica2025"
+	],
+	"tdf2025": [
+		"TourDeFrance2025"
+	],
+	"tdff2025": [
+		"TourDeFrance2025"
 	]
 }
