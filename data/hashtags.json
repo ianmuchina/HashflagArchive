@@ -114310,19 +114310,23 @@
 		"KeshaPeriod2025v2"
 	],
 	"catinthehat": [
-		"WB_CatInTheHat_2025"
+		"WB_CatInTheHat_2025",
+		"BF-14196_WB_CatInTheHat_Hashmoji2025_V2"
 	],
 	"catinthehatmovie": [
-		"WB_CatInTheHat_2025"
+		"WB_CatInTheHat_2025",
+		"BF-14196_WB_CatInTheHat_Hashmoji2025_V2"
 	],
 	"robinhoodcrypto": [
 		"BF-14185_Robinhood_Q2_2025_Takeover"
 	],
 	"thecatinthehat": [
-		"WB_CatInTheHat_2025"
+		"WB_CatInTheHat_2025",
+		"BF-14196_WB_CatInTheHat_Hashmoji2025_V2"
 	],
 	"thethings": [
-		"WB_CatInTheHat_2025"
+		"WB_CatInTheHat_2025",
+		"BF-14196_WB_CatInTheHat_Hashmoji2025_V2"
 	],
 	"tocatchatoken": [
 		"BF-14185_Robinhood_Q2_2025_Takeover"
@@ -114344,5 +114348,8 @@
 	],
 	"tdff2025": [
 		"TourDeFrance2025"
+	],
+	"tootfart": [
+		"BF-14196_WB_CatInTheHat_Hashmoji2025_V2"
 	]
 }
