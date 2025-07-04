@@ -106695,16 +106695,19 @@
 		"KaijuNo8"
 	],
 	"kaijuno8": [
-		"KaijuNo8"
+		"KaijuNo8",
+		"KaijuNo8v2"
 	],
 	"kaijuonx": [
 		"KaijuNo8"
 	],
 	"怪獣8号": [
-		"KaijuNo8"
+		"KaijuNo8",
+		"KaijuNo8v2"
 	],
 	"怪獣8号ミツケタ": [
-		"KaijuNo8"
+		"KaijuNo8",
+		"KaijuNo8v2"
 	],
 	"fwdmusiclivefest": [
 		"BF-10971_FWD_Thailand_Music_Live_Fest_April_2024"
@@ -114369,5 +114372,11 @@
 	],
 	"stansportau": [
 		"BF-14181_StanLionsRugby_Hashmoji2025"
+	],
+	"怪獣8g": [
+		"KaijuNo8v2"
+	],
+	"鳴海隊長かっこいい": [
+		"KaijuNo8v2"
 	]
 }
