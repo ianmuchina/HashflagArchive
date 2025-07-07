@@ -42600,7 +42600,8 @@
 		"BF-10208_Oneplus_India_hashmoji_before_v3",
 		"BF-10208_Oneplus_India_hashmoji_after_v3",
 		"BF-12184_One_Plus_India_Pre_Diwali_2024_during",
-		"BF-12184_One_Plus_India_Pre_Diwali_2024_after"
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_after",
+		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring"
 	],
 	"oneplus10pro": [
 		"OnePlus_Negroni_Launch_Mar_2022"
@@ -62859,7 +62860,8 @@
 		"LPL_2021_UPWIN"
 	],
 	"upyourgame": [
-		"Huami_Amazfit_GT3_2021"
+		"Huami_Amazfit_GT3_2021",
+		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring"
 	],
 	"uq2023": [
 		"UQinfo_JP_XmasBox_2022"
@@ -114433,5 +114435,11 @@
 	],
 	"馴れ馴れしく甘露寺と喋るな": [
 		"BF-14230_kimetsu_off_Hashmoji_Portal_3"
+	],
+	"oneplusnordce5": [
+		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring"
+	],
+	"oneplussummerlaunchevent": [
+		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring"
 	]
 }
