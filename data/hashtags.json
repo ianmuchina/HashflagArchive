@@ -42601,7 +42601,8 @@
 		"BF-10208_Oneplus_India_hashmoji_after_v3",
 		"BF-12184_One_Plus_India_Pre_Diwali_2024_during",
 		"BF-12184_One_Plus_India_Pre_Diwali_2024_after",
-		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring"
+		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring",
+		"BF-14206_OnePlusIndiaNord5_HashmojiAfter"
 	],
 	"oneplus10pro": [
 		"OnePlus_Negroni_Launch_Mar_2022"
@@ -62861,7 +62862,8 @@
 	],
 	"upyourgame": [
 		"Huami_Amazfit_GT3_2021",
-		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring"
+		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring",
+		"BF-14206_OnePlusIndiaNord5_HashmojiAfter"
 	],
 	"uq2023": [
 		"UQinfo_JP_XmasBox_2022"
@@ -114437,10 +114439,12 @@
 		"BF-14230_kimetsu_off_Hashmoji_Portal_3"
 	],
 	"oneplusnordce5": [
-		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring"
+		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring",
+		"BF-14206_OnePlusIndiaNord5_HashmojiAfter"
 	],
 	"oneplussummerlaunchevent": [
-		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring"
+		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring",
+		"BF-14206_OnePlusIndiaNord5_HashmojiAfter"
 	],
 	"bladeisawake": [
 		"BF-14258_NetEase_MarvelRivals_8_Jul_Blade_Hashmoji_2025"
@@ -114468,5 +114472,8 @@
 	],
 	"蟲の呼吸": [
 		"BF-14230_kimetsu_off_Hashmoji_Portal_4"
+	],
+	"oneplusnord5": [
+		"BF-14206_OnePlusIndiaNord5_HashmojiAfter"
 	]
 }
