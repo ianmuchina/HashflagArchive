@@ -95495,7 +95495,8 @@
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_During",
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After",
-		"BF-10271_miHoYo_HSR_DreamStarRail"
+		"BF-10271_miHoYo_HSR_DreamStarRail",
+		"BF-14231_miHoYo_HSR_11_Jul_Hashmoji"
 	],
 	"starrailallaboard": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
@@ -95505,7 +95506,8 @@
 	"スターレイル": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_After",
-		"BF-10271_miHoYo_HSR_DreamStarRail"
+		"BF-10271_miHoYo_HSR_DreamStarRail",
+		"BF-14231_miHoYo_HSR_11_Jul_Hashmoji"
 	],
 	"スターレイルリリース": [
 		"MiHoYo_StarRail_Emoji_March7th_2023_v6_Before",
@@ -114523,5 +114525,26 @@
 	],
 	"니케여름2025": [
 		"BF-14255_NIKKE_SUMMER_2025"
+	],
+	"hsrxfate_ubw": [
+		"BF-14231_miHoYo_HSR_11_Jul_Hashmoji"
+	],
+	"スターレイルxfate_ubw": [
+		"BF-14231_miHoYo_HSR_11_Jul_Hashmoji"
+	],
+	"時透無一郎": [
+		"BF-14230_kimetsu_off_Hashmoji_Portal_6_v2"
+	],
+	"無一郎と全集中": [
+		"BF-14230_kimetsu_off_Hashmoji_Portal_6_v2"
+	],
+	"邪魔になるからさっさと逃げてくれない": [
+		"BF-14230_kimetsu_off_Hashmoji_Portal_6_v2"
+	],
+	"霞の呼吸": [
+		"BF-14230_kimetsu_off_Hashmoji_Portal_6_v2"
+	],
+	"스타레일xfate_ubw": [
+		"BF-14231_miHoYo_HSR_11_Jul_Hashmoji"
 	]
 }
