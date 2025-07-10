@@ -40942,7 +40942,8 @@
 		"NIKKE_japan_Summer_Package_Aug_2022",
 		"Tecent_NIKKE_JP_RAPI_2023_Hahsmoji",
 		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024",
-		"BF-13677_NIKKE_2-5_anniversary_hashmoji"
+		"BF-13677_NIKKE_2-5_anniversary_hashmoji",
+		"BF-14255_NIKKE_SUMMER_2025"
 	],
 	"nikkeanis": [
 		"NIKKE_japan_Anis_Sept_2022"
@@ -114510,5 +114511,17 @@
 	],
 	"蜜璃と全集中": [
 		"BF-14230_kimetsu_off_Hashmoji_Portal_5"
+	],
+	"nikkedoro": [
+		"BF-14255_NIKKE_SUMMER_2025"
+	],
+	"nikkesummer2025": [
+		"BF-14255_NIKKE_SUMMER_2025"
+	],
+	"nikke夏2025": [
+		"BF-14255_NIKKE_SUMMER_2025"
+	],
+	"니케여름2025": [
+		"BF-14255_NIKKE_SUMMER_2025"
 	]
 }
