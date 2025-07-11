@@ -2522,7 +2522,8 @@
 	"allstargame": [
 		"MLBAllStar2022-STAR",
 		"MLB_All_Star_2023",
-		"MLB_All_Star_Game_2024"
+		"MLB_All_Star_Game_2024",
+		"MLB_ASW_2025"
 	],
 	"allstars6": [
 		"ParamountRuPaulsDragRaceAllStars_July_2021"
@@ -26327,7 +26328,8 @@
 		"MLBHRDerby2021-HRDerby",
 		"MLBAllStar2022-BAT",
 		"MLB_HR_Derby_2023",
-		"MLB_2024_All_Star_HRDerby"
+		"MLB_2024_All_Star_HRDerby",
+		"MLB_HRD_2025"
 	],
 	"hrv": [
 		"2022_FIFA_WorldCup_Croatia_HRV"
@@ -114546,5 +114548,20 @@
 	],
 	"스타레일xfate_ubw": [
 		"BF-14231_miHoYo_HSR_11_Jul_Hashmoji"
+	],
+	"apuestoconrushbet": [
+		"BF-14279_URGENT_Rushbet_Hashmoji_Jul_2025"
+	],
+	"ellujodeganarconrushbet": [
+		"BF-14279_URGENT_Rushbet_Hashmoji_Jul_2025"
+	],
+	"juegaconrushbet": [
+		"BF-14279_URGENT_Rushbet_Hashmoji_Jul_2025"
+	],
+	"rushbet": [
+		"BF-14279_URGENT_Rushbet_Hashmoji_Jul_2025"
+	],
+	"tucábalaconrushbet": [
+		"BF-14279_URGENT_Rushbet_Hashmoji_Jul_2025"
 	]
 }
