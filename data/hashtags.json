@@ -39959,7 +39959,9 @@
 		"NaViEsports_2020",
 		"NaVi_Esports_2021",
 		"NaVi_Esports_2021_v2",
-		"NaVi_EsportsEmoji_2023"
+		"NaVi_EsportsEmoji_2023",
+		"NaviEsports2025",
+		"NaviEsports2025v2"
 	],
 	"nayeon": [
 		"JYPE_TWICE_NAYEON_1st_mini_album_2_Jun_2022"
@@ -114678,5 +114680,20 @@
 	],
 	"超rizin4": [
 		"BF-14296_ABEMA_18ce549twrx_Hashmoji_RIZIN"
+	],
+	"bblwin": [
+		"BBLEsports2025"
+	],
+	"forzabbl": [
+		"BBLEsports2025"
+	],
+	"futureisfut": [
+		"FUTEsports2025"
+	],
+	"futwin": [
+		"FUTEsports2025"
+	],
+	"m8win": [
+		"M8Esports2025"
 	]
 }
