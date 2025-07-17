@@ -38619,7 +38619,8 @@
 		"Disney_ShangChi_Morris_2021"
 	],
 	"mortalkombat": [
-		"WB_MortalKombatMovie_2021"
+		"WB_MortalKombatMovie_2021",
+		"WB_MortalCombat_2025"
 	],
 	"mortalkombatfilm": [
 		"WB_MortalKombatMovie_2021"
@@ -38628,7 +38629,8 @@
 		"WB_MortalKombatMovie_2021"
 	],
 	"mortalkombatmovie": [
-		"WB_MortalKombatMovie_2021"
+		"WB_MortalKombatMovie_2021",
+		"WB_MortalCombat_2025"
 	],
 	"mortalkombatofilme": [
 		"WB_MortalKombatMovie_2021"
@@ -114741,5 +114743,14 @@
 	],
 	"血鬼術爆血": [
 		"BF-14230_kimetsu_off_Hashmoji_Portal_12"
+	],
+	"johnnycage": [
+		"WB_MortalCombat_2025"
+	],
+	"mortalkombat2": [
+		"WB_MortalCombat_2025"
+	],
+	"mortalkombatii": [
+		"WB_MortalCombat_2025"
 	]
 }
