@@ -19522,7 +19522,8 @@
 		"Delightworks_FGO_0702_2021",
 		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022",
 		"FGO_2023_8th_Anniversary_Hashtag",
-		"BF-11628_fgoproject_9thAnniversary_Hashmoji2024"
+		"BF-11628_fgoproject_9thAnniversary_Hashmoji2024",
+		"BF-14275_fgoproject_Hashmoji_Anniversary"
 	],
 	"fgo5周年": [
 		"DelightworksFateGrandOrder2020"
@@ -19554,7 +19555,8 @@
 	"fgoフェス": [
 		"Fate_GrandOrder_2022_7th_Anniversary_Jul_2022",
 		"FGO_2023_8th_Anniversary_Hashtag",
-		"BF-11628_fgoproject_9thAnniversary_Hashmoji2024"
+		"BF-11628_fgoproject_9thAnniversary_Hashmoji2024",
+		"BF-14275_fgoproject_Hashmoji_Anniversary"
 	],
 	"fgs": [
 		"FutureGamesShow_21",
@@ -114794,5 +114796,14 @@
 	],
 	"mezii": [
 		"IEMCologneMezii2025"
+	],
+	"fgo10周年": [
+		"BF-14275_fgoproject_Hashmoji_Anniversary"
+	],
+	"fgo10周年メッセージ": [
+		"BF-14275_fgoproject_Hashmoji_Anniversary"
+	],
+	"fgoマイベストサーヴァント": [
+		"BF-14275_fgoproject_Hashmoji_Anniversary"
 	]
 }
