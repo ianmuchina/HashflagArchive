@@ -7137,7 +7137,8 @@
 		"BF-11033_Binance_2024_Q2_Emoji",
 		"BF-12395_Binance_Hashmoji_after_v2",
 		"BF-13015_Binance_Hashmoji_Q1_2025",
-		"BF-13711_Binance_HashmojiQ22025"
+		"BF-13711_Binance_HashmojiQ22025",
+		"Binance_Hashmoji_Q3_25"
 	],
 	"binance10m": [
 		"Binance_10M_Follower_Nov_2022"
@@ -7784,7 +7785,8 @@
 		"Binance_Q3_Campaign_Emoji_202310",
 		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2",
 		"BF-10240_Binance_2024_Q1_Campaign_Emoji_202401",
-		"BF-11033_Binance_2024_Q2_Emoji"
+		"BF-11033_Binance_2024_Q2_Emoji",
+		"Binance_Hashmoji_Q3_25"
 	],
 	"bng": [
 		"ICCT20WorldCup_2021_BNG"
@@ -114840,5 +114842,14 @@
 	],
 	"freddiegibbs": [
 		"Alfredo2Hashmoji"
+	],
+	"binanceturns8": [
+		"Binance_Hashmoji_Q3_25"
+	],
+	"humansofbinance": [
+		"Binance_Hashmoji_Q3_25"
+	],
+	"makeyourchange": [
+		"Binance_Hashmoji_Q3_25"
 	]
 }
