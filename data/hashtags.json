@@ -79044,7 +79044,8 @@
 		"UAR_Bones_and_All_Nov_2022"
 	],
 	"ポケカ": [
-		"Pokemon_Card_SV_Dec_2022"
+		"Pokemon_Card_SV_Dec_2022",
+		"Pokemon_cojp_Hashmoji_Connect"
 	],
 	"ポケチキ": [
 		"FamliyMart_JP_2020_Q2_3"
@@ -114866,5 +114867,17 @@
 	],
 	"ネトフリでグラスハート": [
 		"NetflixJP_18ce54ua4fy_Hashmoji_20250731_20251101_glassheart"
+	],
+	"ポケモンカードゲーム": [
+		"Pokemon_cojp_Hashmoji_Connect"
+	],
+	"ポケモンカードゲームmega": [
+		"Pokemon_cojp_Hashmoji_Connect"
+	],
+	"メガシンカ": [
+		"Pokemon_cojp_Hashmoji_Connect"
+	],
+	"メガシンカex": [
+		"Pokemon_cojp_Hashmoji_Connect"
 	]
 }
