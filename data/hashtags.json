@@ -22432,7 +22432,8 @@
 		"Libertadores_July_2021_ext",
 		"Libertadores_Jun_2022",
 		"BF-9512_Conmebol_Libertadores_Finals",
-		"Libertadores_Trophy_2024"
+		"Libertadores_Trophy_2024",
+		"CopaLibertadores2025"
 	],
 	"gloriagroove": [
 		"Gloria_Groove_Feb_2022"
@@ -23515,7 +23516,8 @@
 		"Sudamericana_Jun_2022",
 		"BF-9511_Conmebol_Sudamericana",
 		"Sudamericana_Trophy_2024",
-		"Sudamericana_Trophy_2024v2"
+		"Sudamericana_Trophy_2024v2",
+		"CopaSudamericana2025"
 	],
 	"grandeinquisidorsabredeluz": [
 		"Disneyplus_Obi_Wan_Kenobi_Lightsaber_2022"
@@ -31526,7 +31528,8 @@
 	"lagranconquista": [
 		"Sudamericana_Jun_2022",
 		"BF-9511_Conmebol_Sudamericana",
-		"Sudamericana_Trophy_2024v2"
+		"Sudamericana_Trophy_2024v2",
+		"CopaSudamericana2025"
 	],
 	"lagrandeboucleelectrique": [
 		"Enedis_TDF_2021"
@@ -33370,7 +33373,8 @@
 		"Libertadores_July_2021_ext",
 		"Libertadores_Jun_2022",
 		"BF-9512_Conmebol_Libertadores_Finals",
-		"Libertadores_Trophy_2024"
+		"Libertadores_Trophy_2024",
+		"CopaLibertadores2025"
 	],
 	"libertadoresfem": [
 		"FemaleLibertadores_BR_2021",
@@ -55391,7 +55395,8 @@
 		"Sudamericana_Jun_2022",
 		"BF-9511_Conmebol_Sudamericana",
 		"Sudamericana_Trophy_2024",
-		"Sudamericana_Trophy_2024v2"
+		"Sudamericana_Trophy_2024v2",
+		"CopaSudamericana2025"
 	],
 	"suebird": [
 		"SueEmoji2022"
@@ -114880,5 +114885,8 @@
 	],
 	"メガシンカex": [
 		"Pokemon_cojp_Hashmoji_Connect"
+	],
+	"astorcup": [
+		"IndyCarAstorCup"
 	]
 }
