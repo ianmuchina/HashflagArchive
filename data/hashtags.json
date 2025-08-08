@@ -113534,13 +113534,16 @@
 		"BF-13832_Indomielovers_hashmoji_after"
 	],
 	"mexc": [
-		"BF-13827_MEXC_Hashmoji2025"
+		"BF-13827_MEXC_Hashmoji2025",
+		"MEXC_Hashmoji_Q3_25"
 	],
 	"mexc0fee": [
-		"BF-13827_MEXC_Hashmoji2025"
+		"BF-13827_MEXC_Hashmoji2025",
+		"MEXC_Hashmoji_Q3_25"
 	],
 	"mexceventrocks": [
-		"BF-13827_MEXC_Hashmoji2025"
+		"BF-13827_MEXC_Hashmoji2025",
+		"MEXC_Hashmoji_Q3_25"
 	],
 	"mexclisting": [
 		"BF-13827_MEXC_Hashmoji2025"
@@ -114929,5 +114932,11 @@
 	],
 	"เอเวอร์เซ้นส์พรีเมียมโยเกิร์ต": [
 		"Eversense_TH_Aug_2025_BF-14322"
+	],
+	"mexcfoundation": [
+		"MEXC_Hashmoji_Q3_25"
+	],
+	"securewithmexc": [
+		"MEXC_Hashmoji_Q3_25"
 	]
 }
