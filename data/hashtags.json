@@ -38633,7 +38633,8 @@
 	],
 	"mortalkombat": [
 		"WB_MortalKombatMovie_2021",
-		"WB_MortalCombat_2025"
+		"WB_MortalCombat_2025",
+		"MortalKombat2MovieExtension2025"
 	],
 	"mortalkombatfilm": [
 		"WB_MortalKombatMovie_2021"
@@ -38643,7 +38644,8 @@
 	],
 	"mortalkombatmovie": [
 		"WB_MortalKombatMovie_2021",
-		"WB_MortalCombat_2025"
+		"WB_MortalCombat_2025",
+		"MortalKombat2MovieExtension2025"
 	],
 	"mortalkombatofilme": [
 		"WB_MortalKombatMovie_2021"
@@ -114781,13 +114783,16 @@
 		"BF-14230_kimetsu_off_Hashmoji_Portal_12"
 	],
 	"johnnycage": [
-		"WB_MortalCombat_2025"
+		"WB_MortalCombat_2025",
+		"MortalKombat2MovieExtension2025"
 	],
 	"mortalkombat2": [
-		"WB_MortalCombat_2025"
+		"WB_MortalCombat_2025",
+		"MortalKombat2MovieExtension2025"
 	],
 	"mortalkombatii": [
-		"WB_MortalCombat_2025"
+		"WB_MortalCombat_2025",
+		"MortalKombat2MovieExtension2025"
 	],
 	"俺と禰󠄀豆子の絆は誰にも引き裂けない": [
 		"BF-14230_kimetsu_off_Hashmoji_Portal_13"
