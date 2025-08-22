@@ -18201,7 +18201,8 @@
 		"ESPN_espnWsummit"
 	],
 	"esportsawards": [
-		"Esports_Awards_Oct_2022"
+		"Esports_Awards_Oct_2022",
+		"EsportsAwards2025"
 	],
 	"espressocookie": [
 		"CRkingdomJP_Q3_2021_5"
@@ -115024,5 +115025,8 @@
 	],
 	"高機能エイジングケア化粧水": [
 		"Shiseido_elixir_TW_Japan_2025_Hashmoji"
+	],
+	"decadeawards": [
+		"EsportsAwards2025"
 	]
 }
