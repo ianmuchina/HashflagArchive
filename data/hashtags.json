@@ -109083,7 +109083,8 @@
 	],
 	"ewchampion": [
 		"FalconsHashfettiEWC",
-		"FalconsHashfetti2024V2"
+		"FalconsHashfetti2024V2",
+		"EWCHampions2025Hashfetti"
 	],
 	"أبطال_كأس_العالم_للرياضات_الإلكترونية": [
 		"FalconsHashfettiEWC",
@@ -115031,5 +115032,8 @@
 	],
 	"wweheatwave": [
 		"WWEHeatwave2025"
+	],
+	"ابطال_ewc": [
+		"EWCHampions2025Hashfetti"
 	]
 }
