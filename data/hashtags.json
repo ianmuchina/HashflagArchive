@@ -3628,7 +3628,8 @@
 		"AppleEvent_OctoberEvent",
 		"ScaryFast_Pre_custom",
 		"Elba_OctoberEvent_global_CustomLike_v10",
-		"ScaryFast_Post_custom"
+		"ScaryFast_Post_custom",
+		"BF-14423_SeptAppleEvent_Hashmoji"
 	],
 	"applepayでも": [
 		"Mastercard_JP_Wave_2021"
