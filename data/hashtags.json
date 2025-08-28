@@ -15287,7 +15287,8 @@
 	"djkhaled": [
 		"DJ_Khaled_2021_Album_V2",
 		"DJ_Khaled_Aug_2022",
-		"DJKhaledSTBL"
+		"DJKhaledSTBL",
+		"DJKhaledYouRemindMe"
 	],
 	"djkhaledgoddid": [
 		"DJ_Khaled_Aug_2022"
@@ -65691,7 +65692,8 @@
 		"WeThe15_Paralympics_2021"
 	],
 	"wethebest": [
-		"DJ_Khaled_2021_Album_V2"
+		"DJ_Khaled_2021_Album_V2",
+		"DJKhaledYouRemindMe"
 	],
 	"wethelegion": [
 		"NRL_Team_AU_WeTheLegion_2022"
@@ -115088,5 +115090,8 @@
 	],
 	"推しと歩む共鳴rpg": [
 		"BF-14495_NHN_Ad_abyssdia_jp_Hashmoji"
+	],
+	"youremindme": [
+		"DJKhaledYouRemindMe"
 	]
 }
