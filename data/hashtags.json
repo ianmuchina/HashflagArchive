@@ -115157,16 +115157,20 @@
 		"BF-14479_Maddock_Film_Hashmoji_after"
 	],
 	"iconik": [
-		"BF-14472_zb1_official_Hashmoji_Hashfetti_during"
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_during",
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_after_v2"
 	],
 	"never_say_never": [
-		"BF-14472_zb1_official_Hashmoji_Hashfetti_during"
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_during",
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_after_v2"
 	],
 	"zb1": [
-		"BF-14472_zb1_official_Hashmoji_Hashfetti_during"
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_during",
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_after_v2"
 	],
 	"제로베이스원": [
-		"BF-14472_zb1_official_Hashmoji_Hashfetti_during"
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_during",
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_after_v2"
 	],
 	"finelineshinethehappiness": [
 		"BF-14455_Hashmoji_Launch_for_FinelineTH_on_1_September_2025"
@@ -115176,5 +115180,8 @@
 	],
 	"ซักสะอาดสดใสนุ่มหอมพร้อมshine": [
 		"BF-14455_Hashmoji_Launch_for_FinelineTH_on_1_September_2025"
+	],
+	"zerobaseone": [
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_after_v2"
 	]
 }
