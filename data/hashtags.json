@@ -109876,12 +109876,14 @@
 		"NYCC2024Emoji"
 	],
 	"hoodsummit": [
-		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024"
+		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024",
+		"BF-14558_HOOD_Summit_2025_Robinhood_Presents_Enter_the_Mainframe"
 	],
 	"robinhoodpresents": [
 		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024",
 		"BF-13581_Robinhood_Q1_2025_Gold_Takeover",
-		"BF-14185_Robinhood_Q2_2025_Takeover"
+		"BF-14185_Robinhood_Q2_2025_Takeover",
+		"BF-14558_HOOD_Summit_2025_Robinhood_Presents_Enter_the_Mainframe"
 	],
 	"netflixgundam": [
 		"BF-11965_NetflixJP_Hashmoji_20241018-20250116_Gundam"
@@ -115229,5 +115231,8 @@
 	],
 	"zb1_recroom": [
 		"ZEROBASEONESeptember2025"
+	],
+	"hoodsummit25": [
+		"BF-14558_HOOD_Summit_2025_Robinhood_Presents_Enter_the_Mainframe"
 	]
 }
