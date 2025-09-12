@@ -63374,7 +63374,8 @@
 		"VALORANT_Championship_Event_2021",
 		"Riot_Valorant_VCT_Yellow_2022",
 		"VALORANTChampionsFinalsEmoji2023",
-		"VALORANTChampions2024"
+		"VALORANTChampions2024",
+		"VALChampsEmoji2025"
 	],
 	"valorantchampionstour": [
 		"VALORANT_FirstStrike_2020",
@@ -115294,5 +115295,8 @@
 	],
 	"인어의노래": [
 		"BF-14576_stylight_KR_Hashmoji_during"
+	],
+	"trilhasdefuturo": [
+		"BF-14596_URGENT_SECOM_MG_Calix_Trilhas_de_Futuro_Set_25_Hashmoji"
 	]
 }
