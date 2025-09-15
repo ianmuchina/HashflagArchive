@@ -115242,18 +115242,22 @@
 	],
 	"さあ最高のスクアドラへ": [
 		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_before_v2",
-		"BF-14539_CustomLike_DB_Squadra_jp_September_2025_during"
+		"BF-14539_CustomLike_DB_Squadra_jp_September_2025_during",
+		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after"
 	],
 	"ゲキシンスクアドラ": [
-		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_before_v2"
+		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_before_v2",
+		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after"
 	],
 	"ゲキスク": [
 		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_before_v2",
-		"BF-14539_CustomLike_DB_Squadra_jp_September_2025_during"
+		"BF-14539_CustomLike_DB_Squadra_jp_September_2025_during",
+		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after"
 	],
 	"ドラゴンボールゲキシンスクアドラ": [
 		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_before_v2",
-		"BF-14539_CustomLike_DB_Squadra_jp_September_2025_during"
+		"BF-14539_CustomLike_DB_Squadra_jp_September_2025_during",
+		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after"
 	],
 	"aliceinborderland": [
 		"BF-14507_NetflixJP_18ce55g4649_Hashmoji_20250911-20251210_AIB3"
@@ -115310,5 +115314,17 @@
 	],
 	"인어키우기는_처음이지": [
 		"BF-14576_stylight_KR_Hashmoji_after"
+	],
+	"kazitte": [
+		"BF-14518_Lotte_KAZITTE_2025_KAZITTE_Launch_Hashmoji"
+	],
+	"カジるマーモット": [
+		"BF-14518_Lotte_KAZITTE_2025_KAZITTE_Launch_Hashmoji"
+	],
+	"カジる果実感": [
+		"BF-14518_Lotte_KAZITTE_2025_KAZITTE_Launch_Hashmoji"
+	],
+	"カジッテ": [
+		"BF-14518_Lotte_KAZITTE_2025_KAZITTE_Launch_Hashmoji"
 	]
 }
