@@ -47794,7 +47794,8 @@
 		"RaisedByWolves_2020"
 	],
 	"raisethestakes": [
-		"WNBA_Season_LasVegasAces_2022_v2"
+		"WNBA_Season_LasVegasAces_2022_v2",
+		"WNBA_Vegas_Playoffs2025"
 	],
 	"raiseyouraxe": [
 		"MagictheGathering_Dec_2020"
@@ -115330,5 +115331,17 @@
 	],
 	"wrestlepalooza": [
 		"WWEWrestlepalooza2025"
+	],
+	"govalks": [
+		"WNBA_Valkyries_Playoffs2025"
+	],
+	"lightthecity": [
+		"WNBA_Seattle_Playoffs2025"
+	],
+	"nowyouknow": [
+		"WNBA_Fever_Playoffs2025"
+	],
+	"soatl": [
+		"WNBA_ATLDream_PlayoffEmoji"
 	]
 }
