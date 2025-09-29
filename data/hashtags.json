@@ -15566,7 +15566,8 @@
 	],
 	"dodgers": [
 		"MLB_Teams_2020_LAD",
-		"MLB_Teams_2021_LAD"
+		"MLB_Teams_2021_LAD",
+		"DodgersPostseason2025"
 	],
 	"dodoco": [
 		"miHoYoGenshinImpact1stAnniversary_2021_Klee"
@@ -20112,7 +20113,8 @@
 	],
 	"flythew": [
 		"MLB_Teams_2020_PS_CC",
-		"MLB_2023_Cubs_Playoffs"
+		"MLB_2023_Cubs_Playoffs",
+		"CubsPostseason2025"
 	],
 	"flytogether": [
 		"NHLTeam_2021_FlyTogether",
@@ -46277,7 +46279,8 @@
 		"MLBPostseason2021",
 		"MLB_Postseason_Postseason_2022",
 		"MLB_2023_Postseason_Playoffs",
-		"MLB_Postseason_2024"
+		"MLB_Postseason_2024",
+		"Postseason2025MLB"
 	],
 	"posty": [
 		"PostMalone2022"
@@ -48576,7 +48579,8 @@
 	"redoctober": [
 		"MLB_Postseason_PHI_2022",
 		"MLB_2023_Phillies_Playoffs",
-		"MLB_Phillies_2024_Postseason_Philadelphia"
+		"MLB_Phillies_2024_Postseason_Philadelphia",
+		"PhilliesPostseason2025"
 	],
 	"redpandameiturningred": [
 		"Disney_Turning_Red_Red_Panda_Mei_Shocked_2022"
@@ -48614,7 +48618,8 @@
 		"RSIFF_NOV_2022"
 	],
 	"redsoctober": [
-		"MLB_Teams_2020_PS_CR"
+		"MLB_Teams_2020_PS_CR",
+		"RedsPostseason2025"
 	],
 	"redtaylorsversion": [
 		"TS20222",
@@ -48827,7 +48832,8 @@
 		"MLB_Postseason_NYY_2022",
 		"MLB_2023_Regular_Season_RepBX",
 		"NY_Yankees_MLB_2024",
-		"NewYorkYankeesMLB2025"
+		"NewYorkYankeesMLB2025",
+		"YankeesPostseason2025"
 	],
 	"repcosc": [
 		"SupercarsAU_2022",
@@ -109672,11 +109678,13 @@
 		"Trueno_Album_2024"
 	],
 	"fightforthefaithful": [
-		"Padres_MLB_Postseason_2024"
+		"Padres_MLB_Postseason_2024",
+		"PadresPostseason2025"
 	],
 	"guardsball": [
 		"Clev_Guardians_MLB_2024_Postseason",
-		"CLEGuardiansMLB2025"
+		"CLEGuardiansMLB2025",
+		"GuardiansPostseason2025"
 	],
 	"metswin": [
 		"Mets_Playoffs_2024_Postseason_MLB"
@@ -115420,5 +115428,29 @@
 	],
 	"트론아레스": [
 		"Disney_TronAres_2025_TranslationV1"
+	],
+	"aprovechaelmomento": [
+		"MarinersSpPostseason2025"
+	],
+	"builtforoctober": [
+		"TigersPostseason2025"
+	],
+	"magicbrew": [
+		"BrewersPostseason2025"
+	],
+	"octubrerojos": [
+		"RedsSpanishPostseason2025"
+	],
+	"seizethemoment": [
+		"MarinersPostseason2025"
+	],
+	"tremendamenteenfocados ": [
+		"RedSoxPostseason2025"
+	],
+	"tremendouslylockedin": [
+		"RedSoxPostseason2025"
+	],
+	"wantitall": [
+		"BlueJaysPostseason2025"
 	]
 }
