@@ -18283,7 +18283,8 @@
 		"MLB_MIL_2022",
 		"MLB_2023_Regular_Season_EsteEsMiCrew",
 		"Milwaukee_Brewers_MLB_2024",
-		"BrewersMLB2025"
+		"BrewersMLB2025",
+		"BrewersRegSzn2025"
 	],
 	"esteesmijuego": [
 		"LNBP_2020"
@@ -34321,7 +34322,8 @@
 		"MLB_NYY_2022",
 		"MLB_2023_Regular_Season_RepBX",
 		"NY_Yankees_MLB_2024",
-		"NewYorkYankeesMLB2025"
+		"NewYorkYankeesMLB2025",
+		"YanksRegSzn2025"
 	],
 	"losdiezanillos": [
 		"Disney_ShangChi_2021_10Rings"
@@ -49344,7 +49346,8 @@
 		"MLB_2023_RingTheBell",
 		"MLB_2023_Regular_Season_Custom_Emoji_PHI",
 		"Philadelphia_Phillies_MLB_2024",
-		"PhilliesMLB2025"
+		"PhilliesMLB2025",
+		"PhilsRegSzn2025"
 	],
 	"rio2020": [
 		"Libertadores_2020"
@@ -55435,7 +55438,8 @@
 		"MLB_2023_RingTheBell",
 		"MLB_2023_Regular_Season_Custom_Emoji_PHI",
 		"Philadelphia_Phillies_MLB_2024",
-		"PhilliesMLB2025"
+		"PhilliesMLB2025",
+		"PhilsRegSzn2025"
 	],
 	"suffragemonth": [
 		"WomensSuffrageCentennial_2020"
@@ -59903,7 +59907,8 @@
 		"MLB_MIL_2022",
 		"MLB_2023_Regular_Season_EsteEsMiCrew",
 		"Milwaukee_Brewers_MLB_2024",
-		"BrewersMLB2025"
+		"BrewersMLB2025",
+		"BrewersRegSzn2025"
 	],
 	"thisismyk": [
 		"Herald_K-content_Award_Jul_2022"
@@ -93849,7 +93854,8 @@
 	"repdetroit": [
 		"MLB_2023_RepDetroit",
 		"Detroit_Tigers_MLB_2024",
-		"DetroitTigersMLB2025"
+		"DetroitTigersMLB2025",
+		"TigersRegSzn2025"
 	],
 	"royals": [
 		"MLB_2023_Royals",
@@ -102450,7 +102456,8 @@
 	"letsgododgers": [
 		"MLB_2023_Dodgers_Playoffs",
 		"LA_Dodgers_MLB_2024",
-		"LADodgersMLB2025"
+		"LADodgersMLB2025",
+		"DodgersRegSzn2025"
 	],
 	"rallyreds": [
 		"MLB_2023_Reds_Playoffs"
@@ -102461,12 +102468,14 @@
 	"tridentesarriba": [
 		"MLB_2023_Mariners_Playoffs",
 		"Seattle_Mariners_MLB_2024",
-		"SeattleMarinersMLB2025"
+		"SeattleMarinersMLB2025",
+		"MarinersRegSzn2025"
 	],
 	"tridentsup": [
 		"MLB_2023_Mariners_Playoffs",
 		"Seattle_Mariners_MLB_2024",
-		"SeattleMarinersMLB2025"
+		"SeattleMarinersMLB2025",
+		"MarinersRegSzn2025"
 	],
 	"veyagarralo": [
 		"MLB_2023_Rangers_Playoffs"
@@ -106461,7 +106470,8 @@
 	],
 	"losazulejos": [
 		"Toronto_BlueJays_MLB_2024",
-		"BlueJaysMLB2025"
+		"BlueJaysMLB2025",
+		"BleuJaysRegSzn2025"
 	],
 	"marlinsbeisbol": [
 		"Miami_Marlins_MLB_2024",
@@ -106496,7 +106506,8 @@
 	],
 	"vamoslosdodgers": [
 		"LA_Dodgers_MLB_2024",
-		"LADodgersMLB2025"
+		"LADodgersMLB2025",
+		"DodgersRegSzn2025"
 	],
 	"vamospadres": [
 		"SanDiego_Padres_MLB_2024"
@@ -113039,7 +113050,8 @@
 		"CubsRegSzn2025"
 	],
 	"forthefaithful": [
-		"SanDiegoPadresMLB2025"
+		"SanDiegoPadresMLB2025",
+		"PadresRegSzn2025"
 	],
 	"fountainsup": [
 		"KCRoyalsMLB2025"
@@ -113048,13 +113060,15 @@
 		"KCRoyalsMLB2025"
 	],
 	"lightsupletsgo": [
-		"BlueJaysMLB2025"
+		"BlueJaysMLB2025",
+		"BleuJaysRegSzn2025"
 	],
 	"onlyinmilb": [
 		"MiLBOnlyInMiLB2025"
 	],
 	"paralosfieles": [
-		"SanDiegoPadresMLB2025"
+		"SanDiegoPadresMLB2025",
+		"PadresRegSzn2025"
 	],
 	"todoportejas": [
 		"TexasRangersMLB2025"
