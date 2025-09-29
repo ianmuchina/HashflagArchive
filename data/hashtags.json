@@ -4705,7 +4705,8 @@
 		"MLB_CIN_2022",
 		"MLB_2023_Rojos",
 		"Cincinnati_Reds_MLB_2024",
-		"CinRedsMLB2025"
+		"CinRedsMLB2025",
+		"RedsRegSzn2025"
 	],
 	"atorikellychristmas": [
 		"torikellychristmas_2020"
@@ -14793,7 +14794,8 @@
 		"MLB_BOS_2022",
 		"MLB_2023_DirtyWater",
 		"Boston_RedSox_MLB_2024",
-		"BostonRedSoxMLB2025"
+		"BostonRedSoxMLB2025",
+		"RedSoxRegSzn2025"
 	],
 	"dirumahaja": [
 		"StayHome_2020_ItalianAdd",
@@ -36734,7 +36736,8 @@
 		"MLB_BOS_2022",
 		"MLB_2023_DirtyWater",
 		"Boston_RedSox_MLB_2024",
-		"BostonRedSoxMLB2025"
+		"BostonRedSoxMLB2025",
+		"RedSoxRegSzn2025"
 	],
 	"mediataitoviikko": [
 		"MediaInformationLiteracyWeeks_2020_GlobalMILWeek",
@@ -51791,7 +51794,8 @@
 		"MLB_Teams_2020_PS_WS",
 		"MLB_Postseason_WorldSeries_2022_add",
 		"MLB_2023_WorldSeries_Playoffs",
-		"MLB_World_Series_2024_"
+		"MLB_World_Series_2024_",
+		"Worldseries2025_2"
 	],
 	"seriess": [
 		"Xbox_FAWS_2_2021",
@@ -66868,7 +66872,8 @@
 		"MLB_Teams_2020_PS_WS",
 		"MLB_Postseason_WorldSeries_2022",
 		"MLB_2023_WorldSeries_Playoffs",
-		"MLB_World_Series_2024_"
+		"MLB_World_Series_2024_",
+		"Worldseries2025_2"
 	],
 	"worldseriesofpoker": [
 		"WSOPMainEvent_2021_extend",
@@ -113023,13 +113028,15 @@
 		"TexasRangersMLB2025"
 	],
 	"behereforit": [
-		"ChicagoCubsMLB2025"
+		"ChicagoCubsMLB2025",
+		"CubsRegSzn2025"
 	],
 	"builtforthis": [
 		"HoustonAstrosMLB2025"
 	],
 	"cachorros": [
-		"ChicagoCubsMLB2025"
+		"ChicagoCubsMLB2025",
+		"CubsRegSzn2025"
 	],
 	"forthefaithful": [
 		"SanDiegoPadresMLB2025"
@@ -113053,7 +113060,8 @@
 		"TexasRangersMLB2025"
 	],
 	"vamosrojos": [
-		"CinRedsMLB2025"
+		"CinRedsMLB2025",
+		"RedsRegSzn2025"
 	],
 	"capson": [
 		"MLBCapsOn2025"
