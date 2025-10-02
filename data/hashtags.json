@@ -115539,12 +115539,18 @@
 		"BF-14654_Kantara_Hashmoji"
 	],
 	"blockbusterkantara": [
-		"BF-14654_Kantara_Hashmoji"
+		"BF-14654_Kantara_Hashmoji",
+		"BF-14654_Kantara_Hashmoji_v2"
 	],
 	"kantara": [
-		"BF-14654_Kantara_Hashmoji"
+		"BF-14654_Kantara_Hashmoji",
+		"BF-14654_Kantara_Hashmoji_v2"
 	],
 	"kantaraeverywhere": [
-		"BF-14654_Kantara_Hashmoji"
+		"BF-14654_Kantara_Hashmoji",
+		"BF-14654_Kantara_Hashmoji_v2"
+	],
+	"kantaraincinemasnow": [
+		"BF-14654_Kantara_Hashmoji_v2"
 	]
 }
