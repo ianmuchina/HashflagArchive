@@ -23201,7 +23201,8 @@
 		"Google_Cloud_Next_Sept_2022",
 		"BF-13526_GoogleCloudNext_HashmojiBefore",
 		"BF-13526_GoogleCloudNext_HashmojiDuring",
-		"BF-13526_GoogleCloudNext_HashmojiAfter"
+		"BF-13526_GoogleCloudNext_HashmojiAfter",
+		"BF-14645_Google_Cloud_October_Event"
 	],
 	"googlecloudinnovators": [
 		"Google_Cloud_Next_Sept_2022"
@@ -115604,5 +115605,11 @@
 	],
 	"緑のベンザ": [
 		"BF-14593_Alinamin_Benza_Block_Branded_feature_Q4_25"
+	],
+	"geminiatwork": [
+		"BF-14645_Google_Cloud_October_Event"
+	],
+	"googleworkspace": [
+		"BF-14645_Google_Cloud_October_Event"
 	]
 }
