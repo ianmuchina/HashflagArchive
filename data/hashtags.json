@@ -109913,7 +109913,8 @@
 		"BF-12653_Mangos_AR00282549_NaranjaX_Mangos_DIC_2024"
 	],
 	"nycc": [
-		"NYCC2024Emoji"
+		"NYCC2024Emoji",
+		"NYCC2025"
 	],
 	"hoodsummit": [
 		"BF-12221_Robinhoodapp_HOODsummitEvent_Hashmoji2024",
@@ -115611,5 +115612,8 @@
 	],
 	"googleworkspace": [
 		"BF-14645_Google_Cloud_October_Event"
+	],
+	"nycclive": [
+		"NYCC2025"
 	]
 }
