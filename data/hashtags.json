@@ -2407,7 +2407,8 @@
 		"NHL_Playoff_Extension_ALLCAPS",
 		"NHL_Capitals_2023",
 		"NHL2425_DCCapitals",
-		"WashingtonCapitalsPostseason2025"
+		"WashingtonCapitalsPostseason2025",
+		"WashingtonCapitalsNHL2526"
 	],
 	"alleenjij": [
 		"Spotify_Q2_21"
@@ -9443,7 +9444,8 @@
 		"NHL_Team_2022_Vancouver_reprogram",
 		"NHL_Playoff_Extension_Canucks",
 		"NHL_Vancouver_2023",
-		"NHL2425_Canucks"
+		"NHL2425_Canucks",
+		"VancouverCanucksNHL2526"
 	],
 	"canyousurrender": [
 		"MaggieRogers2022"
@@ -22920,7 +22922,8 @@
 		"NHL_Playoff_Extension_GoJetsGo",
 		"NHL_WinnipegJets_2023",
 		"NHL2425_WinnipegJets",
-		"WinnipegJetsPostseason2025"
+		"WinnipegJetsPostseason2025",
+		"WinnipegJetsNHL2526"
 	],
 	"gokabum": [
 		"CBLOL_KABUM_Season_2022",
@@ -115647,5 +115650,8 @@
 	],
 	"ignitethered": [
 		"OttawaSenatorsNHL2526"
+	],
+	"screamwithus": [
+		"WashingtonCapsV2NHL2526"
 	]
 }
