@@ -19965,7 +19965,8 @@
 		"NHL_Team_2022_Flames",
 		"NHL_Playoff_Extension_Flames",
 		"NHL_Flames_2023",
-		"NHL2425_CalgaryFlames"
+		"NHL2425_CalgaryFlames",
+		"CalgaryFlamesNHL2526"
 	],
 	"flaminhot": [
 		"Cheetos_Doritos_2022_BH",
@@ -20131,7 +20132,8 @@
 		"NHL2425_AnaheimDucks2",
 		"NHL2425_Ducks3",
 		"DucksUpdated_NHL2425",
-		"AnaheimDucks_NHL2425Updated5"
+		"AnaheimDucks_NHL2425Updated5",
+		"AnaheimDucksNHL2526"
 	],
 	"flywin": [
 		"LCS_FLY_2022",
@@ -22626,7 +22628,8 @@
 		"NHL_Playoff_Extension_GoAvsGo",
 		"NHL_Avalanche_2023",
 		"NHL2425_ColoradoAvalanche",
-		"ColoradoAvalanchePostseason2025"
+		"ColoradoAvalanchePostseason2025",
+		"ColoradoAvalancheNHL2526"
 	],
 	"gobahrain": [
 		"Handball_WorldCup_Egypt_2021_Bahrain"
@@ -109714,7 +109717,8 @@
 		"CarolinaHurricanesPostseason2025"
 	],
 	"sabrehood": [
-		"NHL2425_BuffaloSabres"
+		"NHL2425_BuffaloSabres",
+		"BuffaloSabresNHL2526"
 	],
 	"thefutureisteal": [
 		"NHL2425_SanJoseSharks"
@@ -115615,5 +115619,8 @@
 	],
 	"nycclive": [
 		"NYCC2025"
+	],
+	"carolinaculture": [
+		"CarolinaHurricanesNHL2526"
 	]
 }
