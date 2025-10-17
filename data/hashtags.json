@@ -42669,7 +42669,8 @@
 		"BF-12184_One_Plus_India_Pre_Diwali_2024_during",
 		"BF-12184_One_Plus_India_Pre_Diwali_2024_after",
 		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring",
-		"BF-14206_OnePlusIndiaNord5_HashmojiAfter"
+		"BF-14206_OnePlusIndiaNord5_HashmojiAfter",
+		"BF-14738_OnePlus_Hashmoji_During_v2"
 	],
 	"oneplus10pro": [
 		"OnePlus_Negroni_Launch_Mar_2022"
@@ -109849,7 +109850,8 @@
 		"BF-12184_One_Plus_India_Pre_Diwali_2024_after"
 	],
 	"makeitspecial": [
-		"BF-12184_One_Plus_India_Pre_Diwali_2024_after"
+		"BF-12184_One_Plus_India_Pre_Diwali_2024_after",
+		"BF-14738_OnePlus_Hashmoji_During_v2"
 	],
 	"viu": [
 		"BF-12175_ViuThailand_Hashmoji2024"
@@ -115762,5 +115764,11 @@
 	],
 	"partyof2": [
 		"PARTYOF2AlbumRelease2025"
+	],
+	"oxygenos16": [
+		"BF-14738_OnePlus_Hashmoji_During_v2"
+	],
+	"plantaplant": [
+		"BF-14738_OnePlus_Hashmoji_During_v2"
 	]
 }
