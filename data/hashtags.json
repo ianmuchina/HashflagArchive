@@ -42682,7 +42682,8 @@
 		"BF-14206_OnePlusIndiaNord5_HashfmojiDuring",
 		"BF-14206_OnePlusIndiaNord5_HashmojiAfter",
 		"BF-14738_OnePlus_Hashmoji_During_v2",
-		"BF-14738_OnePlus_Hashmoji_After"
+		"BF-14738_OnePlus_Hashmoji_After",
+		"BF-14738_OnePlus_Hashmoji_After_v2"
 	],
 	"oneplus10pro": [
 		"OnePlus_Negroni_Launch_Mar_2022"
@@ -109875,7 +109876,8 @@
 	"makeitspecial": [
 		"BF-12184_One_Plus_India_Pre_Diwali_2024_after",
 		"BF-14738_OnePlus_Hashmoji_During_v2",
-		"BF-14738_OnePlus_Hashmoji_After"
+		"BF-14738_OnePlus_Hashmoji_After",
+		"BF-14738_OnePlus_Hashmoji_After_v2"
 	],
 	"viu": [
 		"BF-12175_ViuThailand_Hashmoji2024"
@@ -115799,11 +115801,13 @@
 	],
 	"oxygenos16": [
 		"BF-14738_OnePlus_Hashmoji_During_v2",
-		"BF-14738_OnePlus_Hashmoji_After"
+		"BF-14738_OnePlus_Hashmoji_After",
+		"BF-14738_OnePlus_Hashmoji_CLHashtag-before"
 	],
 	"plantaplant": [
 		"BF-14738_OnePlus_Hashmoji_During_v2",
-		"BF-14738_OnePlus_Hashmoji_After"
+		"BF-14738_OnePlus_Hashmoji_After",
+		"BF-14738_OnePlus_Hashmoji_After_v2"
 	],
 	"allfire": [
 		"HOURockets_202526"
@@ -115812,6 +115816,7 @@
 		"MINTimberwolves_202526"
 	],
 	"oos16": [
-		"BF-14738_OnePlus_Hashmoji_After"
+		"BF-14738_OnePlus_Hashmoji_After",
+		"BF-14738_OnePlus_Hashmoji_After_v2"
 	]
 }
