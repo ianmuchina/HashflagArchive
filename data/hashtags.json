@@ -7063,7 +7063,8 @@
 		"BillboardLatinWeek_2021",
 		"Billboard_Latin_Music_Week_Jul_2022",
 		"Billboard_Latin_Music_Week_US",
-		"Billboard_Latin_Music_Week_2024"
+		"Billboard_Latin_Music_Week_2024",
+		"BillboardLatinMusicWeek2025"
 	],
 	"billboardmusicawards": [
 		"BBMA_2020_Flight2",
@@ -96800,7 +96801,8 @@
 		"JioCinema_IPL_Twitter_Branded_Emoji_Activation_2023"
 	],
 	"armaniwhite": [
-		"Armani_White_2023"
+		"Armani_White_2023",
+		"ArmaniWhite2025"
 	],
 	"blanco": [
 		"Armani_White_2023"
@@ -115821,5 +115823,26 @@
 	],
 	"halloweenhavoc": [
 		"NXTHalloweenHavoc2025"
+	],
+	"billboardlatinmusicweek": [
+		"BillboardLatinMusicWeek2025"
+	],
+	"eia": [
+		"WaleEIA2025"
+	],
+	"everythingisalot": [
+		"WaleEIA2025"
+	],
+	"latinmusicweek": [
+		"BillboardLatinMusicWeek2025"
+	],
+	"tagimh": [
+		"ArmaniWhite2025"
+	],
+	"theresaghostinmyhouse": [
+		"ArmaniWhite2025"
+	],
+	"wale": [
+		"WaleEIA2025"
 	]
 }
