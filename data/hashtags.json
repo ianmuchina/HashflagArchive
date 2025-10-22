@@ -32501,7 +32501,8 @@
 		"Ledger_Always_on_Sept_2022",
 		"Ledger_Always_on_Dec_2022",
 		"BF-11619_LedgerNashville_Hashmoji2024_V2",
-		"BF-12036_Ledger_Hashmoji2024_Ext"
+		"BF-12036_Ledger_Hashmoji2024_Ext",
+		"BF-14770_Ledger_Op3n_23_oct_2025_revised"
 	],
 	"ledgerlive": [
 		"Ledger_May_2022",
@@ -115860,5 +115861,17 @@
 	],
 	"카오스제로나이트메어": [
 		"BF-14802_CZN_Official_JP_hashmoji_2025"
+	],
+	"ledgernanogen5": [
+		"BF-14770_Ledger_Op3n_23_oct_2025_revised"
+	],
+	"ledgerop3n": [
+		"BF-14770_Ledger_Op3n_23_oct_2025_revised"
+	],
+	"ledgerop3n2025": [
+		"BF-14770_Ledger_Op3n_23_oct_2025_revised"
+	],
+	"ledgerwallet": [
+		"BF-14770_Ledger_Op3n_23_oct_2025_revised"
 	]
 }
