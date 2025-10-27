@@ -10331,7 +10331,8 @@
 		"Championship4NASCAR2021",
 		"NASCARChamp42022",
 		"Nascar_Championship4",
-		"NASCAR_Championship4_Hashmoji"
+		"NASCAR_Championship4_Hashmoji",
+		"NASCARChampionshipFour2025"
 	],
 	"championsxfox": [
 		"FoxSportsMx_UCLFinal_2021"
@@ -103964,11 +103965,13 @@
 	],
 	"gcplayoffs": [
 		"CFL_GreyCup_2023_CA",
-		"CFL_Playoffs"
+		"CFL_Playoffs",
+		"CFLGreyCup2025"
 	],
 	"greycup": [
 		"CFL_GreyCup_2023_CA",
-		"Grey_Cup_CFL"
+		"Grey_Cup_CFL",
+		"CFLGreyCup2025"
 	],
 	"premiomultishow2023": [
 		"Globo_Premio_Multishow_2023"
@@ -110305,10 +110308,12 @@
 		"LatinGrammysHashmoji2024"
 	],
 	"coupegrey": [
-		"Grey_Cup_CFL"
+		"Grey_Cup_CFL",
+		"CFLGreyCup2025"
 	],
 	"éliminatoirescg": [
-		"CFL_Playoffs"
+		"CFL_Playoffs",
+		"CFLGreyCup2025"
 	],
 	"hubblaus": [
 		"BF-12417_Hubbl_hashmoji"
@@ -115923,5 +115928,17 @@
 	],
 	"nysm3": [
 		"Lionsgate_NYSM3_2025"
+	],
+	"a11in": [
+		"NASCARChampionshipFourDennyHamlin"
+	],
+	"hookedon19": [
+		"NASCARChampionshipFourChaseBriscoe"
+	],
+	"kl5": [
+		"NASCARChampionshipFourKyleLarson"
+	],
+	"willyb": [
+		"NASCARChampionshipFourWilliamByron"
 	]
 }
