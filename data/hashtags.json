@@ -82433,7 +82433,8 @@
 		"MomotetsuReiwa_Feb_2021",
 		"MomotetsuReiwa_2020_ext",
 		"MomotetsuReiwa_2020",
-		"Momotetsu_Reiwa_Launch_2023_Hashmoji"
+		"Momotetsu_Reiwa_Launch_2023_Hashmoji",
+		"BF-14786_momotetsu_info_Oct2025_emoji"
 	],
 	"桃鉄gp": [
 		"MomotetsuReiwa_Feb_2021"
@@ -104230,7 +104231,8 @@
 		"OTKVGAs2023"
 	],
 	"年末年始はみんなで桃鉄": [
-		"Momotetsu_Reiwa_Launch_2023_Hashmoji"
+		"Momotetsu_Reiwa_Launch_2023_Hashmoji",
+		"BF-14786_momotetsu_info_Oct2025_emoji"
 	],
 	"桃太郎電鉄ワールド": [
 		"Momotetsu_Reiwa_Launch_2023_Hashmoji"
@@ -115947,5 +115949,14 @@
 	],
 	"binanceabcs": [
 		"BF-14706_Binance_Hashmoji_Q4_25"
+	],
+	"桃太郎あなたの町めぐり": [
+		"BF-14786_momotetsu_info_Oct2025_emoji"
+	],
+	"桃鉄2": [
+		"BF-14786_momotetsu_info_Oct2025_emoji"
+	],
+	"桃鉄であの駅あの町みっけ": [
+		"BF-14786_momotetsu_info_Oct2025_emoji"
 	]
 }
