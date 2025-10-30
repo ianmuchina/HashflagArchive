@@ -111329,13 +111329,15 @@
 		"BF-12865_DiriyahSeason_Hashmoji2024"
 	],
 	"ليالي_الدرعية": [
-		"BF-12865_DiriyahSeason_Hashmoji2024"
+		"BF-12865_DiriyahSeason_Hashmoji2024",
+		"Diriyah_Season_BF-14844"
 	],
 	"مطل_البجيري": [
 		"BF-12865_DiriyahSeason_Hashmoji2024"
 	],
 	"موسم_الدرعية": [
-		"BF-12865_DiriyahSeason_Hashmoji2024"
+		"BF-12865_DiriyahSeason_Hashmoji2024",
+		"Diriyah_Season_BF-14844"
 	],
 	"rizin49": [
 		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN"
@@ -115959,5 +115961,14 @@
 	],
 	"桃鉄であの駅あの町みっけ": [
 		"BF-14786_momotetsu_info_Oct2025_emoji"
+	],
+	"yourprideyourplace": [
+		"Diriyah_Season_BF-14844"
+	],
+	"سوق_الموسم": [
+		"Diriyah_Season_BF-14844"
+	],
+	"مهرجان_الدرعية_للرواية": [
+		"Diriyah_Season_BF-14844"
 	]
 }
