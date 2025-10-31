@@ -24344,7 +24344,8 @@
 		"Halloween_Custom_Like_2023",
 		"HalloweenIcons_Announcement_2024_extension",
 		"Halloween_2024_MarketingExtension",
-		"Halloween_2025_Custom_Like"
+		"Halloween_2025_Custom_Like",
+		"Halloween_Custom_Like_Test_Global"
 	],
 	"halloween20": [
 		"Halloween_2020"
@@ -78192,7 +78193,8 @@
 		"DisneyPlus_SheHulk_S1_BruceBanner"
 	],
 	"ハロウィン": [
-		"Halloween_2020"
+		"Halloween_2020",
+		"Halloween_Custom_Like_Test_Global"
 	],
 	"ハロコリ": [
 		"eBayK_JP_2020"
