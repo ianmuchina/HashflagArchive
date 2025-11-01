@@ -21377,7 +21377,8 @@
 	"gameawards": [
 		"TGA2021",
 		"The_Game_Awards_2022",
-		"TheGameAwards2023"
+		"TheGameAwards2023",
+		"TheGameAwards2025V2"
 	],
 	"gamebudxnba": [
 		"GameBudxNBA_2020"
@@ -58679,7 +58680,8 @@
 		"The_Game_Awards_2022",
 		"TheGameAwards2023",
 		"Truth_TheGameAwards_CustomLike",
-		"TheGameAwards2024Emoji"
+		"TheGameAwards2024Emoji",
+		"TheGameAwards2025V2"
 	],
 	"thegameawards2020": [
 		"TheGameAwards2020",
@@ -115985,5 +115987,8 @@
 	],
 	"pgw25": [
 		"Paris_Games_Week"
+	],
+	"tga2025": [
+		"TheGameAwards2025V2"
 	]
 }
