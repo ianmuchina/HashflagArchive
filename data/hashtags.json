@@ -110158,7 +110158,8 @@
 	"gosi": [
 		"BF-12231_SaudiGOSI_BrandCampaign_Hashmoji2024",
 		"BF-13787_GOSIAPRIL_Hashmoji2025",
-		"BF-14053_GOSI_June_Hashmoji2025"
+		"BF-14053_GOSI_June_Hashmoji2025",
+		"BF-14811_Hashmoji_SaudiGosi_Oct2025"
 	],
 	"gosiapp": [
 		"BF-12231_SaudiGOSI_BrandCampaign_Hashmoji2024"
@@ -110166,7 +110167,8 @@
 	"التأمينات_الاجتماعية": [
 		"BF-12231_SaudiGOSI_BrandCampaign_Hashmoji2024",
 		"BF-13787_GOSIAPRIL_Hashmoji2025",
-		"BF-14053_GOSI_June_Hashmoji2025"
+		"BF-14053_GOSI_June_Hashmoji2025",
+		"BF-14811_Hashmoji_SaudiGosi_Oct2025"
 	],
 	"hivementality": [
 		"CHLHornets_NBA_2425",
@@ -116005,5 +116007,14 @@
 	],
 	"친애하는x": [
 		"BF-14837_tvingdotcom_Hashfetti_hashmoji_before"
+	],
+	"آمن_ومأمن": [
+		"BF-14811_Hashmoji_SaudiGosi_Oct2025"
+	],
+	"حرصك_يحفظ_حقك": [
+		"BF-14811_Hashmoji_SaudiGosi_Oct2025"
+	],
+	"لكل_جيل_في_كل_خطوة": [
+		"BF-14811_Hashmoji_SaudiGosi_Oct2025"
 	]
 }
