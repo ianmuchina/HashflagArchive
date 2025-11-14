@@ -98460,7 +98460,8 @@
 		"Five_Nights_2023_Freddy_2023",
 		"FRIDAYNIGHT_Freddy_PreHashfetti",
 		"FRIDAYNIGHT_Freddy_During",
-		"FRIDAYNIGHT_Freddy_After"
+		"FRIDAYNIGHT_Freddy_After",
+		"UNI_FNAF2_R1_ToyBonnie"
 	],
 	"fivenightsatfreddysfilm": [
 		"Five_Nights_Freddy_Freddy_v2"
@@ -98503,7 +98504,8 @@
 		"Five_Nights_2023_Freddy_2023",
 		"FRIDAYNIGHT_Freddy_PreHashfetti",
 		"FRIDAYNIGHT_Freddy_Global_Hashfetti",
-		"FRIDAYNIGHT_Freddy_After"
+		"FRIDAYNIGHT_Freddy_After",
+		"UNI_FNAF2_R1_ToyBonnie"
 	],
 	"fnafpelicula": [
 		"Five_Nights_Freddy_Freddy_v2",
@@ -116108,5 +116110,23 @@
 	],
 	"theringiv": [
 		"TheRingIVRiyadhSeason"
+	],
+	"fivenightsatfreddys2": [
+		"UNI_FNAF2_R1_ToyFreddy"
+	],
+	"fnaf2": [
+		"UNI_FNAF2_R1_ToyChica"
+	],
+	"fnaf2movie": [
+		"UNI_FNAF2_R1_ToyFreddy"
+	],
+	"toybonnie": [
+		"UNI_FNAF2_R1_ToyBonnie"
+	],
+	"toychica": [
+		"UNI_FNAF2_R1_ToyChica"
+	],
+	"toyfreddy": [
+		"UNI_FNAF2_R1_ToyFreddy"
 	]
 }
