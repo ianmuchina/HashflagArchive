@@ -19971,7 +19971,8 @@
 		"LE_Flambeau_Canalplus_Q2_2022_add"
 	],
 	"flamengo": [
-		"Libertadores_finais_Flamengo_2022"
+		"Libertadores_finais_Flamengo_2022",
+		"CopaFlamengo_2025"
 	],
 	"flames": [
 		"NHLTeam_2021_Flames",
@@ -43716,7 +43717,8 @@
 	],
 	"palmeiras": [
 		"LibertadoresFinal_2021_Palmeiras",
-		"Libertadores_2021_Finalists_Palmeiras"
+		"Libertadores_2021_Finalists_Palmeiras",
+		"CopaPalmeiras_2025"
 	],
 	"palmsprings": [
 		"Hulu_PalmSprings_2020_add",
@@ -110642,7 +110644,8 @@
 	],
 	"galo": [
 		"Libertadores_Atletico_2024",
-		"Libertadores_Atletico_2024V2"
+		"Libertadores_Atletico_2024V2",
+		"CopaGALO_2025"
 	],
 	"ogalonuncalutasozinho": [
 		"Libertadores_Atletico_2024",
@@ -116170,5 +116173,8 @@
 	],
 	"landmanpplus": [
 		"ParamountPlus_Landman_S2"
+	],
+	"lanus": [
+		"CopaLANUS_2025"
 	]
 }
