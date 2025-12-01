@@ -110930,7 +110930,8 @@
 		"BF-12606_InternetGovernanceForum_Hashmoji2024"
 	],
 	"thestreamerawards": [
-		"StreamerAwardsDec2024"
+		"StreamerAwardsDec2024",
+		"TheStreamerAwards2025"
 	],
 	"ベスコス受賞uv乳液気になる": [
 		"BF-12579_Shiseido_EI_XHoliday_Hashmoji2024"
@@ -111024,7 +111025,8 @@
 		"BF-13242_playdoitmexico_Q1_Soccer",
 		"BF_13679_playdoitmexico_Q2_Soccer",
 		"BF-14581_Playdoit_Beisbol_SEP-OCT-NOV",
-		"BF-14879_Playdoit_Soccer_Emoji_SomosLaPerrada_Playdoit"
+		"BF-14879_Playdoit_Soccer_Emoji_SomosLaPerrada_Playdoit",
+		"Playdoit_Q4_Q1_Football_BF-14882"
 	],
 	"viernesdebonosplaydoit": [
 		"MXplaydoitcasino_hashemoji_15dec",
@@ -115479,7 +115481,8 @@
 	"playdoit": [
 		"BF-14580_Playdoit_Canelo_Match",
 		"BF-14581_Playdoit_Beisbol_SEP-OCT-NOV",
-		"BF-14879_Playdoit_Soccer_Emoji_SomosLaPerrada_Playdoit"
+		"BF-14879_Playdoit_Soccer_Emoji_SomosLaPerrada_Playdoit",
+		"Playdoit_Q4_Q1_Football_BF-14882"
 	],
 	"survivorplaydoit": [
 		"BF_14582_Playdoit_Q3_Q4"
@@ -116287,5 +116290,11 @@
 	],
 	"第五人格冬物語": [
 		"BF-14991_IdentityVJP_18ce55luape_hashmoji_setup_2911"
+	],
+	"streamerawards": [
+		"TheStreamerAwards2025"
+	],
+	"thestreamerawards2025": [
+		"TheStreamerAwards2025"
 	]
 }
