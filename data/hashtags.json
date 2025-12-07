@@ -22710,7 +22710,8 @@
 	"gobucks": [
 		"College_Football_Playoff_OSU_2022_v2",
 		"GoBucks_CFB25",
-		"OhioStateCFBPlayoff2026"
+		"OhioStateCFBPlayoff2026",
+		"OhioStateCFBPlayoff2026v2"
 	],
 	"gobucs": [
 		"NFL_2020_2021_GoBucs",
@@ -22745,7 +22746,8 @@
 		"GeorgiaFootballCFPFULLYEAR",
 		"GeorgiaFootballCFP2021",
 		"UGA_Champion_2023",
-		"GoDawgs_CFB25"
+		"GoDawgs_CFB25",
+		"GeorgiaCFBPlayoff2026v2"
 	],
 	"godd": [
 		"HBO_Gemstones_2021_v4",
@@ -49810,7 +49812,8 @@
 		"AlabamaCFP2021",
 		"CFBPlayoffs_RollTide_2023",
 		"RollTide_CFB25",
-		"AlabamaCFBPlayoff2026"
+		"AlabamaCFBPlayoff2026",
+		"AlabamaCFBPlayoff2026v2"
 	],
 	"rolluptherim": [
 		"Tim_Hortons_RUTW_2022",
@@ -111096,15 +111099,18 @@
 	],
 	"goducks": [
 		"GoDucks_CFB25",
-		"OregonCFBPlayoff2026"
+		"OregonCFBPlayoff2026",
+		"OregonCFBPlayoff2026v2"
 	],
 	"hottytoddy": [
 		"HottyToddy_CFB25",
-		"OleMissCFBPlayoff2026"
+		"OleMissCFBPlayoff2026",
+		"OleMissCFBPlayoff2026v2"
 	],
 	"neverdaunted": [
 		"NeverDaunted_CFB25",
-		"IndianaCFBPlayoff2026"
+		"IndianaCFBPlayoff2026",
+		"IndianaCFBPlayoff2026v2"
 	],
 	"ponyup": [
 		"PonyUp_CFB25"
@@ -116387,7 +116393,8 @@
 		"WWESNMEAskCena"
 	],
 	"boomersooner": [
-		"OklahomaCFBPlayoff2026"
+		"OklahomaCFBPlayoff2026",
+		"OklahomaCFBPlayoff2026v2"
 	],
 	"cfapeachbowl": [
 		"PeachBowl2026"
@@ -116396,10 +116403,12 @@
 		"FiestaBowl2026"
 	],
 	"gigem": [
-		"TexasAMCFBPlayoff2026"
+		"TexasAMCFBPlayoff2026",
+		"TexasAMCFBPlayoff2026v2"
 	],
 	"gocanes": [
-		"MiamiCFBPlayoff2026"
+		"MiamiCFBPlayoff2026",
+		"MiamiCFBPlayoff2026v2"
 	],
 	"gocougs": [
 		"BYUCFBPlayoff2026"
@@ -116423,6 +116432,7 @@
 		"WWESNMEThankYouCena"
 	],
 	"wreckem": [
-		"TexasTechCFBPlayoff2026"
+		"TexasTechCFBPlayoff2026",
+		"TexasTechCFBPlayoff2026v2"
 	]
 }
