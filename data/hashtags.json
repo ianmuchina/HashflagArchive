@@ -9484,7 +9484,8 @@
 	],
 	"capitaloneorangebowl": [
 		"Capital_One_Orange_Bowl_2021_v2",
-		"CapitalOneOrangeBowl_Dec_2020"
+		"CapitalOneOrangeBowl_Dec_2020",
+		"OrangeBowl2026"
 	],
 	"capitalonesthematch": [
 		"CapitalOne_TheMatch_Q4_2020",
@@ -10210,7 +10211,8 @@
 		"CFP2021-22",
 		"College_Football_Playoffs_CFBLOGO_2023",
 		"CFBPlayoffs_2023",
-		"CFBPlayoffs_2025"
+		"CFBPlayoffs_2025",
+		"CFBPlayoff2026Hashmoji"
 	],
 	"cffc": [
 		"MLS2020_CHI",
@@ -22450,7 +22452,8 @@
 		"GoldenGlobes_2021",
 		"GoldenGlobes2024_US",
 		"GoldenGlobes2024_US_2",
-		"GoldenGlobes_Hashmoji_2025"
+		"GoldenGlobes_Hashmoji_2025",
+		"GoldenGlobes2026"
 	],
 	"globes78": [
 		"GoldenGlobes_2021"
@@ -22706,7 +22709,8 @@
 	],
 	"gobucks": [
 		"College_Football_Playoff_OSU_2022_v2",
-		"GoBucks_CFB25"
+		"GoBucks_CFB25",
+		"OhioStateCFBPlayoff2026"
 	],
 	"gobucs": [
 		"NFL_2020_2021_GoBucs",
@@ -22913,7 +22917,8 @@
 	],
 	"goirish": [
 		"NotreDameCFP2021",
-		"GoIrish_CFB25"
+		"GoIrish_CFB25",
+		"NotreDameCFBPlayoff2026"
 	],
 	"goitz": [
 		"INTZ_June_2021",
@@ -23019,7 +23024,8 @@
 		"Dick_Clark_Productions_Golden_Globes_2022",
 		"GoldenGlobes2024_US",
 		"GoldenGlobes2024_US_2",
-		"GoldenGlobes_Hashmoji_2025"
+		"GoldenGlobes_Hashmoji_2025",
+		"GoldenGlobes2026"
 	],
 	"goldenglobes2023": [
 		"Dick_Clark_Productions_Golden_Globes_2022"
@@ -39954,7 +39960,8 @@
 		"College_Football_Playoff_Trophy_2022",
 		"Final_Four_23",
 		"CFBPlayoffs_NationalChampionship_2023",
-		"CFBNatty_2025"
+		"CFBNatty_2025",
+		"CFBNationalChampionship2026"
 	],
 	"nationalcomingoutday": [
 		"NationalComingOutDay_2020"
@@ -49802,7 +49809,8 @@
 		"AlabamaCFP2021YEARLONG",
 		"AlabamaCFP2021",
 		"CFBPlayoffs_RollTide_2023",
-		"RollTide_CFB25"
+		"RollTide_CFB25",
+		"AlabamaCFBPlayoff2026"
 	],
 	"rolluptherim": [
 		"Tim_Hortons_RUTW_2022",
@@ -111087,13 +111095,16 @@
 		"GBO_CFB25"
 	],
 	"goducks": [
-		"GoDucks_CFB25"
+		"GoDucks_CFB25",
+		"OregonCFBPlayoff2026"
 	],
 	"hottytoddy": [
-		"HottyToddy_CFB25"
+		"HottyToddy_CFB25",
+		"OleMissCFBPlayoff2026"
 	],
 	"neverdaunted": [
-		"NeverDaunted_CFB25"
+		"NeverDaunted_CFB25",
+		"IndianaCFBPlayoff2026"
 	],
 	"ponyup": [
 		"PonyUp_CFB25"
@@ -111223,7 +111234,8 @@
 		"WWESNMEJan2025",
 		"WWESNME2025",
 		"WWESNMEJuly2025",
-		"WWESaturdayNightsMainEventNov25"
+		"WWESaturdayNightsMainEventNov25",
+		"WWESNMEThankYouCena"
 	],
 	"astrobotgoty": [
 		"TGAGOTYHashfetti2024",
@@ -116370,5 +116382,47 @@
 	],
 	"ホリデーに贈るルイ・ヴィトン": [
 		"BF-15015_Louis_Vuitton_Japan_2025Dec_Hashmoji"
+	],
+	"askcena": [
+		"WWESNMEAskCena"
+	],
+	"boomersooner": [
+		"OklahomaCFBPlayoff2026"
+	],
+	"cfapeachbowl": [
+		"PeachBowl2026"
+	],
+	"fiestabowl": [
+		"FiestaBowl2026"
+	],
+	"gigem": [
+		"TexasAMCFBPlayoff2026"
+	],
+	"gocanes": [
+		"MiamiCFBPlayoff2026"
+	],
+	"gocougs": [
+		"BYUCFBPlayoff2026"
+	],
+	"goldenglobes2026": [
+		"GoldenGlobes2026"
+	],
+	"goodyearcottonbowl": [
+		"CottonBowl2026"
+	],
+	"lasttimeisnow": [
+		"WWESNMEThankYouCena"
+	],
+	"rosebowl": [
+		"RoseBowl2026"
+	],
+	"sugarbowl": [
+		"SugarBowl2026"
+	],
+	"thankyoucena": [
+		"WWESNMEThankYouCena"
+	],
+	"wreckem": [
+		"TexasTechCFBPlayoff2026"
 	]
 }
