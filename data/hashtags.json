@@ -111053,7 +111053,8 @@
 		"BF-12778_playdoitmexico_NFL_Football_Hashmoji",
 		"BF-13242_playdoitmexico_Q1_Soccer",
 		"BF_13679_playdoitmexico_Q2_Soccer",
-		"BF_14582_Playdoit_Q3_Q4"
+		"BF_14582_Playdoit_Q3_Q4",
+		"BF-14880_Playdoit_Q4_Q1"
 	],
 	"finalplaydoit": [
 		"MXplaydoitcasino_1hashemoji_15dec"
@@ -115503,7 +115504,8 @@
 		"JADEAlbumReleaseSep2025"
 	],
 	"pagoanticipadoplaydoit": [
-		"BF_14582_Playdoit_Q3_Q4"
+		"BF_14582_Playdoit_Q3_Q4",
+		"BF-14880_Playdoit_Q4_Q1"
 	],
 	"playdoit": [
 		"BF-14580_Playdoit_Canelo_Match",
@@ -115512,7 +115514,8 @@
 		"Playdoit_Q4_Q1_Football_BF-14882"
 	],
 	"survivorplaydoit": [
-		"BF_14582_Playdoit_Q3_Q4"
+		"BF_14582_Playdoit_Q3_Q4",
+		"BF-14880_Playdoit_Q4_Q1"
 	],
 	"breach": [
 		"TwentyOnePilotsBreach"
@@ -116446,5 +116449,20 @@
 	],
 	"fml2026": [
 		"Fl0MLAN2026"
+	],
+	"badassforever": [
+		"BF-15031_Kia_India_TheAllNewKiaSeltos_Launch_10th_Dec_2025"
+	],
+	"kiaindia": [
+		"BF-15031_Kia_India_TheAllNewKiaSeltos_Launch_10th_Dec_2025"
+	],
+	"movementthatinspires": [
+		"BF-15031_Kia_India_TheAllNewKiaSeltos_Launch_10th_Dec_2025"
+	],
+	"theallnewkiaseltos": [
+		"BF-15031_Kia_India_TheAllNewKiaSeltos_Launch_10th_Dec_2025"
+	],
+	"thenextfromkia": [
+		"BF-15031_Kia_India_TheAllNewKiaSeltos_Launch_10th_Dec_2025"
 	]
 }
