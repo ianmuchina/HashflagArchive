@@ -44924,7 +44924,8 @@
 		"PepsiBlack_BR_2021",
 		"PepsiCan_Super_Bowl_Hashflag_may",
 		"PepsiCan_Super_Bowl_Hashflag_v2",
-		"PepsiCan_Super_Bowl_Hashflag"
+		"PepsiCan_Super_Bowl_Hashflag",
+		"BF-15027_pepsi_jpn_Japan_2025_Hashmoji_v2"
 	],
 	"pepsiblack": [
 		"PepsiBlack_BR_2021"
@@ -55756,7 +55757,8 @@
 		"JumboJuichcapeSummerOfSports2021"
 	],
 	"supergirl": [
-		"DCFandom_2020_Supergirl"
+		"DCFandom_2020_Supergirl",
+		"Supergirl2025"
 	],
 	"superintelligence": [
 		"HBOMax_Superintelligence_2020_v2",
@@ -116464,5 +116466,20 @@
 	],
 	"thenextfromkia": [
 		"BF-15031_Kia_India_TheAllNewKiaSeltos_Launch_10th_Dec_2025"
+	],
+	"dcstudios": [
+		"Supergirl2025"
+	],
+	"karazorel": [
+		"Supergirl2025"
+	],
+	"supergirlfilm": [
+		"Supergirl2025"
+	],
+	"supergirlmovie": [
+		"Supergirl2025"
+	],
+	"ペプシ": [
+		"BF-15027_pepsi_jpn_Japan_2025_Hashmoji_v2"
 	]
 }
