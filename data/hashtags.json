@@ -108297,14 +108297,16 @@
 		"BF-11461_ZenlessZoneZero_Hashmoji_before",
 		"BF-11461_ZenlessZoneZero_Hashfetti",
 		"BF-11461_ZenlessZoneZero_Hashmoji_after",
-		"BF-14018_ZZZ_YiXuan_2025"
+		"BF-14018_ZZZ_YiXuan_2025",
+		"BF-15137_ZenlessZoneZero_hashmoji"
 	],
 	"ゼンゼロ": [
 		"BF-11461_ZenlessZoneZero_Hashmoji_before",
 		"BF-11461_ZenlessZoneZero_Hashfetti",
 		"BF-11461_ZenlessZoneZero_Hashmoji_after",
 		"BF-12708_miHoYo_ZZZ_miyabi_Emoji_December_2024",
-		"BF-14018_ZZZ_YiXuan_2025"
+		"BF-14018_ZZZ_YiXuan_2025",
+		"BF-15137_ZenlessZoneZero_hashmoji"
 	],
 	"ゼンゼローぜ": [
 		"BF-11462_Zenless_Zone_Zero_Launch_2024_Bangboo_01"
@@ -108328,7 +108330,8 @@
 	"젠레스": [
 		"BF-11461_ZenlessZoneZero_Hashmoji_before",
 		"BF-11461_ZenlessZoneZero_Hashfetti",
-		"BF-11461_ZenlessZoneZero_Hashmoji_after"
+		"BF-11461_ZenlessZoneZero_Hashmoji_after",
+		"BF-15137_ZenlessZoneZero_hashmoji"
 	],
 	"젠레스0704": [
 		"BF-11462_Zenless_Zone_Zero_Launch_2024_Bangboo_01"
@@ -116596,5 +116599,11 @@
 	],
 	"made in figma": [
 		"MadeInFigmaLike2025Final"
+	],
+	"二形態虚狩り初登場": [
+		"BF-15137_ZenlessZoneZero_hashmoji"
+	],
+	"瞬光": [
+		"BF-15137_ZenlessZoneZero_hashmoji"
 	]
 }
