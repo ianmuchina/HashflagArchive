@@ -115479,21 +115479,25 @@
 	"さあ最高のスクアドラへ": [
 		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_before_v2",
 		"BF-14539_CustomLike_DB_Squadra_jp_September_2025_during",
-		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after"
+		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after",
+		"BF-15070_Hashmoji_DB_Squadra_jp_2025DEC"
 	],
 	"ゲキシンスクアドラ": [
 		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_before_v2",
-		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after"
+		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after",
+		"BF-15070_Hashmoji_DB_Squadra_jp_2025DEC"
 	],
 	"ゲキスク": [
 		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_before_v2",
 		"BF-14539_CustomLike_DB_Squadra_jp_September_2025_during",
-		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after"
+		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after",
+		"BF-15070_Hashmoji_DB_Squadra_jp_2025DEC"
 	],
 	"ドラゴンボールゲキシンスクアドラ": [
 		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_before_v2",
 		"BF-14539_CustomLike_DB_Squadra_jp_September_2025_during",
-		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after"
+		"BF-14539_Hashmoji_DB_Squadra_jp_September_2025_after",
+		"BF-15070_Hashmoji_DB_Squadra_jp_2025DEC"
 	],
 	"aliceinborderland": [
 		"BF-14507_NetflixJP_18ce55g4649_Hashmoji_20250911-20251210_AIB3"
@@ -116618,5 +116622,8 @@
 	],
 	"موطن_التفوق": [
 		"BF-15165_SEF_Hashmoji_Q4_2025"
+	],
+	"最凶ブロリー登場": [
+		"BF-15070_Hashmoji_DB_Squadra_jp_2025DEC"
 	]
 }
