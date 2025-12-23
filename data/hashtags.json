@@ -111548,15 +111548,18 @@
 	],
 	"sefarena": [
 		"BF-12901_Saudi_Esports_federation_Campaign_2024",
-		"BF-12901_Saudi_Esports_federation_Campaign_2024_24hExtension"
+		"BF-12901_Saudi_Esports_federation_Campaign_2024_24hExtension",
+		"BF-15165_SEF_Hashmoji_Q4_2025"
 	],
 	"sefawards": [
 		"BF-12901_Saudi_Esports_federation_Campaign_2024",
-		"BF-12901_Saudi_Esports_federation_Campaign_2024_24hExtension"
+		"BF-12901_Saudi_Esports_federation_Campaign_2024_24hExtension",
+		"BF-15165_SEF_Hashmoji_Q4_2025"
 	],
 	"هنا_نكرم_الإنجاز": [
 		"BF-12901_Saudi_Esports_federation_Campaign_2024",
-		"BF-12901_Saudi_Esports_federation_Campaign_2024_24hExtension"
+		"BF-12901_Saudi_Esports_federation_Campaign_2024_24hExtension",
+		"BF-15165_SEF_Hashmoji_Q4_2025"
 	],
 	"ao2025": [
 		"AustralianOpen2025"
@@ -116609,5 +116612,11 @@
 	],
 	"wss": [
 		"BF-15192_WSS_Campaign"
+	],
+	"أنا_أدعم": [
+		"BF-15165_SEF_Hashmoji_Q4_2025"
+	],
+	"موطن_التفوق": [
+		"BF-15165_SEF_Hashmoji_Q4_2025"
 	]
 }
