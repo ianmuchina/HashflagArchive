@@ -105071,7 +105071,8 @@
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
 		"BF-9893_ABEMA_Hashmoji_1217-0316",
 		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN",
-		"BF-13720_ABEMA_RIZIN_Hashmoji2025"
+		"BF-13720_ABEMA_RIZIN_Hashmoji2025",
+		"BF-15131_ABEMA_18ce549twrx_Hashmoji_RIZIN"
 	],
 	"rizin45": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
@@ -105082,12 +105083,14 @@
 		"BF-9893_ABEMA_Hashmoji_1217-0316",
 		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN",
 		"BF-13720_ABEMA_RIZIN_Hashmoji2025",
-		"BF-14296_ABEMA_18ce549twrx_Hashmoji_RIZIN"
+		"BF-14296_ABEMA_18ce549twrx_Hashmoji_RIZIN",
+		"BF-15131_ABEMA_18ce549twrx_Hashmoji_RIZIN"
 	],
 	"アベマでrizin大晦日": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
 		"BF-9893_ABEMA_Hashmoji_1217-0316",
-		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN"
+		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN",
+		"BF-15131_ABEMA_18ce549twrx_Hashmoji_RIZIN"
 	],
 	"de_fi": [
 		"DeFi_2023_Q4"
@@ -116634,5 +116637,14 @@
 	],
 	"ポケスリ": [
 		"BF-15078_PokemonSleepApp_Hashmoji_Moment_Connect"
+	],
+	"rizin10周年": [
+		"BF-15131_ABEMA_18ce549twrx_Hashmoji_RIZIN"
+	],
+	"rizin師走の超強者祭り": [
+		"BF-15131_ABEMA_18ce549twrx_Hashmoji_RIZIN"
+	],
+	"행운버거": [
+		"BF-15090_MacDonalds_Hashmoji"
 	]
 }
