@@ -41046,7 +41046,8 @@
 		"Tecent_NIKKE_JP_RAPI_2023_Hahsmoji",
 		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024",
 		"BF-13677_NIKKE_2-5_anniversary_hashmoji",
-		"BF-14255_NIKKE_SUMMER_2025"
+		"BF-14255_NIKKE_SUMMER_2025",
+		"BF-15115_NIKKE_New_Year_2025_26"
 	],
 	"nikkeanis": [
 		"NIKKE_japan_Anis_Sept_2022"
@@ -116673,5 +116674,17 @@
 	],
 	"新春超獣神祭2026": [
 		"BF-15009_monst_mixi_Dec2025_Hashmoji_before"
+	],
+	"nikke2026newyear": [
+		"BF-15115_NIKKE_New_Year_2025_26"
+	],
+	"nikke2026新年": [
+		"BF-15115_NIKKE_New_Year_2025_26"
+	],
+	"nikkesnowwhite": [
+		"BF-15115_NIKKE_New_Year_2025_26"
+	],
+	"니케2026새해": [
+		"BF-15115_NIKKE_New_Year_2025_26"
 	]
 }
