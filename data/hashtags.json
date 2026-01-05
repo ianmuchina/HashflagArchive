@@ -108217,7 +108217,9 @@
 	],
 	"infiniteicon": [
 		"InfiniteIcon",
-		"InfiniteIcon_New_Creative"
+		"InfiniteIcon_New_Creative",
+		"ParisHiltonInfiniteIcon",
+		"ParisHiltonInfiniteIconMovie2026"
 	],
 	"legislatives2024": [
 		"BF-11432_FR_LegislativesElections_Hashmoji"
@@ -116701,5 +116703,13 @@
 	],
 	"ビビビ祭": [
 		"BF-15171_20260105_Hashmoji_before"
+	],
+	"infiniteiconmovie": [
+		"ParisHiltonInfiniteIcon",
+		"ParisHiltonInfiniteIconMovie2026"
+	],
+	"parishilton": [
+		"ParisHiltonInfiniteIcon",
+		"ParisHiltonInfiniteIconMovie2026"
 	]
 }
