@@ -81178,7 +81178,8 @@
 		"GenshinPaimon_JP_CustomLike_v1",
 		"Genshin_Paimon_JP_CustomLike_v1",
 		"GenshinPaimon_Hashmoji_After",
-		"BF-11709_GenshinPaimon_Hashmoji2024"
+		"BF-11709_GenshinPaimon_Hashmoji2024",
+		"BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki"
 	],
 	"原神屋台": [
 		"SummerFestival_2020_add4",
@@ -100204,7 +100205,8 @@
 	"genshinimpact": [
 		"GenshinPaimon_Global_CustomLike_v2",
 		"GenshinPaimon_Hashmoji_After",
-		"BF-11709_GenshinPaimon_Hashmoji2024"
+		"BF-11709_GenshinPaimon_Hashmoji2024",
+		"BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki"
 	],
 	"genshinimpactfontaine": [
 		"BF-8617_Genshin_Impact_2023Q3_Hashfetti-Global",
@@ -116774,5 +116776,29 @@
 	],
 	"alphadriveone": [
 		"BF-15194_JAN11_ALPHADRIVEONE_After"
+	],
+	"columbina": [
+		"BF-15224_Genshin_Impact_Hashmoji_setup_2026_Columbina"
+	],
+	"damselette": [
+		"BF-15224_Genshin_Impact_Hashmoji_setup_2026_Columbina"
+	],
+	"genshinmooninvitation": [
+		"BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki"
+	],
+	"moonmaiden": [
+		"BF-15224_Genshin_Impact_Hashmoji_setup_2026_Columbina"
+	],
+	"コロンビーナ": [
+		"BF-15224_Genshin_Impact_Hashmoji_setup_2026_Columbina"
+	],
+	"月の在処へ": [
+		"BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki"
+	],
+	"月の少女": [
+		"BF-15224_Genshin_Impact_Hashmoji_setup_2026_Columbina"
+	],
+	"달의안식처": [
+		"BF-15225_Genshin_Impact_Hashmoji_setup_2026_Kuuhenki"
 	]
 }
