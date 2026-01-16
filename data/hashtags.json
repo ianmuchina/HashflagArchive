@@ -108224,13 +108224,16 @@
 	],
 	"asaprocky": [
 		"ASAPROCKY_AWGE_Music",
-		"ASAPRocky10YearAnniversary"
+		"ASAPRocky10YearAnniversary",
+		"ASAPRockyDontBeDumbASAP"
 	],
 	"awge": [
-		"ASAPROCKY_AWGE_Music"
+		"ASAPROCKY_AWGE_Music",
+		"ASAPRockyDontBeDumbAWGE"
 	],
 	"dontbedumb": [
-		"ASAPROCKY_AWGE_Music"
+		"ASAPROCKY_AWGE_Music",
+		"ASAPRockyDontBeDumb2026"
 	],
 	"infiniteicon": [
 		"InfiniteIcon",
