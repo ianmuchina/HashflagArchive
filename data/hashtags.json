@@ -43330,7 +43330,8 @@
 		"The_Academy_Oscars_2023_Jimmy_v2",
 		"The_Academy_Oscars_2023_Afterv2",
 		"The_Academy_Oscars2024_US_Ent",
-		"97thOscars2025"
+		"97thOscars2025",
+		"AcademyAwards2026"
 	],
 	"oscarisaac": [
 		"DuneCharacter_2021_DukeLeto",
@@ -43353,7 +43354,8 @@
 		"The_Academy_Oscars_2023_Jimmy_v2",
 		"The_Academy_Oscars_2023_Afterv2",
 		"The_Academy_Oscars2024_US_Ent",
-		"97thOscars2025"
+		"97thOscars2025",
+		"AcademyAwards2026"
 	],
 	"oscarscheermoment": [
 		"Oscars_2022_add"
@@ -116901,5 +116903,8 @@
 	],
 	"longliveyams": [
 		"ASAPYAMS2026YAMSDAY"
+	],
+	"oscars2026": [
+		"AcademyAwards2026"
 	]
 }
