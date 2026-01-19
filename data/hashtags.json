@@ -116633,10 +116633,12 @@
 		"HLTVAwards2026"
 	],
 	"arknightsendfield": [
-		"BF-15014_Arknights_Endfield_Hashmoji"
+		"BF-15014_Arknights_Endfield_Hashmoji",
+		"BF-15281_GRYPH_hashmoji_request"
 	],
 	"endfield": [
-		"BF-15014_Arknights_Endfield_Hashmoji"
+		"BF-15014_Arknights_Endfield_Hashmoji",
+		"BF-15281_GRYPH_hashmoji_request"
 	],
 	"endfieldcreators": [
 		"BF-15014_Arknights_Endfield_Hashmoji"
@@ -116906,5 +116908,14 @@
 	],
 	"oscars2026": [
 		"AcademyAwards2026"
+	],
+	"アークナイツエンドフィールド": [
+		"BF-15281_GRYPH_hashmoji_request"
+	],
+	"明日方舟終末地": [
+		"BF-15281_GRYPH_hashmoji_request"
+	],
+	"명일방주엔드필드": [
+		"BF-15281_GRYPH_hashmoji_request"
 	]
 }
