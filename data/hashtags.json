@@ -32391,7 +32391,8 @@
 		"LCS_SummerHashtag_2023",
 		"LCS_League_Emoji_2023_WorldsUpdate",
 		"LCSEmoji2024",
-		"LCSEmoji2024_V2"
+		"LCSEmoji2024_V2",
+		"LCSLeagueEsports2026"
 	],
 	"lcs10": [
 		"LCS10_League_2022"
@@ -111960,10 +111961,12 @@
 		"LEVIATANEsports2026"
 	],
 	"lyonwin": [
-		"LYONGaming2025"
+		"LYONGaming2025",
+		"LYONGamingEsports2026"
 	],
 	"somoslan": [
-		"LYONGaming2025"
+		"LYONGaming2025",
+		"LYONGamingEsports2026"
 	],
 	"disguised": [
 		"DisguisedGaming2025"
@@ -116959,5 +116962,14 @@
 	],
 	"standoutwithsignature": [
 		"BF-15280_Motorola_Hashmoji"
+	],
+	"lcsisback": [
+		"LCSLeagueEsports2026"
+	],
+	"sencity": [
+		"SentinelsLOLEsports2026"
+	],
+	"senwin": [
+		"SentinelsLOLEsports2026"
 	]
 }
