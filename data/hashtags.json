@@ -9111,7 +9111,8 @@
 		"LeagueofLegendsLCSTeamEmojisCloud9",
 		"LCS_Team_Cloud9_NewLogo_2023",
 		"Cloud9Emoji2024",
-		"Cloud92025"
+		"Cloud92025",
+		"Cloud9Esports2026"
 	],
 	"cabarancucitangan": [
 		"WHO_SafeHands_2020",
@@ -14642,7 +14643,8 @@
 		"League_of_Legends_LCS_Team_Emojis_dignitas",
 		"DignitasEmoji2024",
 		"DignitasEmoji2024V2",
-		"DIGWIN2025"
+		"DIGWIN2025",
+		"dignitasLoLEsports2026"
 	],
 	"dilemma": [
 		"APINK_IST_ent_Comeback_Album_2022_v2",
@@ -20169,7 +20171,8 @@
 		"LCS_Franchise_League_Emoji_-_FlyQuest_2023",
 		"FlyQuestEmoji2024",
 		"FlyQuestEmoji2024V2",
-		"FlyQuestHashmoji2025"
+		"FlyQuestHashmoji2025",
+		"FlyQuestEsports2026"
 	],
 	"fm21": [
 		"SEGA_FM21_2020"
@@ -33022,7 +33025,8 @@
 		"LeagueofLegendsLCSTeamEmojisCloud9",
 		"LCS_Team_Cloud9_NewLogo_2023",
 		"Cloud9Emoji2024",
-		"Cloud92025"
+		"Cloud92025",
+		"Cloud9Esports2026"
 	],
 	"letsgocanes": [
 		"NHLTeam_2021_LetsGoCanes",
@@ -105563,12 +105567,14 @@
 	"armtherebels": [
 		"ShopifyRebelsEmoji2024",
 		"ShopifyRebelsSummerSplit2024",
-		"ShopifyRebels2025"
+		"ShopifyRebels2025",
+		"ShopifyRebelsEsports2026"
 	],
 	"srwin": [
 		"ShopifyRebelsEmoji2024",
 		"ShopifyRebelsSummerSplit2024",
-		"ShopifyRebels2025"
+		"ShopifyRebels2025",
+		"ShopifyRebelsEsports2026"
 	],
 	"bbmzansi": [
 		"Big_Brother_Mzansi_South_Africa_2024"
@@ -108060,7 +108066,8 @@
 	],
 	"timetofly": [
 		"FlyQuestEmoji2024V2",
-		"FlyQuestHashmoji2025"
+		"FlyQuestHashmoji2025",
+		"FlyQuestEsports2026"
 	],
 	"vamosliquid": [
 		"TeamLiquid2024EmojiV2",
@@ -111939,7 +111946,8 @@
 		"BF-13026_Umm_Alqura_Masar_Hashmoji_2025"
 	],
 	"bigdig": [
-		"DignitasHashmoji2025"
+		"DignitasHashmoji2025",
+		"dignitasLoLEsports2026"
 	],
 	"gofxw7m": [
 		"FluxoHashmoji2025"
@@ -115075,19 +115083,24 @@
 		"BF-14296_ABEMA_18ce549twrx_Hashmoji_RIZIN"
 	],
 	"bblwin": [
-		"BBLEsports2025"
+		"BBLEsports2025",
+		"BBLEsports2026"
 	],
 	"forzabbl": [
-		"BBLEsports2025"
+		"BBLEsports2025",
+		"BBLEsports2026"
 	],
 	"futureisfut": [
-		"FUTEsports2025"
+		"FUTEsports2025",
+		"FUTEsports2026"
 	],
 	"futwin": [
-		"FUTEsports2025"
+		"FUTEsports2025",
+		"FUTEsports2026"
 	],
 	"m8win": [
-		"M8Esports2025"
+		"M8Esports2025",
+		"GentleMatesEsports2026"
 	],
 	"happygilmore2": [
 		"Netflix_HappyGilmore2_2025"
@@ -116641,7 +116654,8 @@
 	"arknightsendfield": [
 		"BF-15014_Arknights_Endfield_Hashmoji",
 		"BF-15281_GRYPH_hashmoji_request",
-		"BF-15300_GRYPH_Hashmoji_Before"
+		"BF-15300_GRYPH_Hashmoji_Before",
+		"BF-15300_GRYPH_Hashmoji_After"
 	],
 	"endfield": [
 		"BF-15014_Arknights_Endfield_Hashmoji",
@@ -116930,5 +116944,20 @@
 		"BF-15281_GRYPH_hashmoji_request",
 		"BF-15300_GRYPH_Hashmoji-Before-kr",
 		"BF-15300_GRYPH_Hashmoji-After-kr"
+	],
+	"gentlemates": [
+		"GentleMatesEsports2026"
+	],
+	"motorolasignatureclub": [
+		"BF-15280_Motorola_Hashmoji"
+	],
+	"signatureclassphotography": [
+		"BF-15280_Motorola_Hashmoji"
+	],
+	"signatureclubexperience": [
+		"BF-15280_Motorola_Hashmoji"
+	],
+	"standoutwithsignature": [
+		"BF-15280_Motorola_Hashmoji"
 	]
 }
