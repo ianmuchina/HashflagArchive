@@ -116902,16 +116902,20 @@
 		"ShiftersEsports2026"
 	],
 	"kcb": [
-		"KarmineCorpBlueEsports2026"
+		"KarmineCorpBlueEsports2026",
+		"KarmineCorpBlueEsports2026V2"
 	],
 	"kcbwin": [
-		"KarmineCorpBlueEsports2026"
+		"KarmineCorpBlueEsports2026",
+		"KarmineCorpBlueEsports2026V2"
 	],
 	"lrfighting": [
-		"LosRatonesEsports2026"
+		"LosRatonesEsports2026",
+		"LosRatonesEsports2026V2"
 	],
 	"lrwin": [
-		"LosRatonesEsports2026"
+		"LosRatonesEsports2026",
+		"LosRatonesEsports2026V2"
 	],
 	"pcfwin": [
 		"PCIFICEsports2026"
