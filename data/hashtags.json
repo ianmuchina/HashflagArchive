@@ -8124,7 +8124,8 @@
 		"BNE_OPBR_global_Film_Uta_Nov_2022",
 		"BNE_OPBR_official_NewYearCampaign_2023",
 		"BNE_OPBR_official_in_app_event_Branded_Hashtag_2023Aug",
-		"BNE_OPBR_official_appevent_2024Jan_BrandedHashtag"
+		"BNE_OPBR_official_appevent_2024Jan_BrandedHashtag",
+		"BF-15216_Branded_Hashmoji_Bandai_Namco_Entertainment_OPBR_official_January2026"
 	],
 	"bountyrush_filmred": [
 		"BNE_OPBR_global_Film_Uta_Nov_2022"
@@ -42716,7 +42717,8 @@
 		"BNE_OPBR_global_Film_Luffy_Nov_2022",
 		"Netflix_OnePiece_Q3_2023",
 		"NetflixJP_20230825-20230924_ONEPIECE",
-		"BNE_OPBR_official_appevent_2024Jan_BrandedHashtag"
+		"BNE_OPBR_official_appevent_2024Jan_BrandedHashtag",
+		"BF-15216_Branded_Hashmoji_Bandai_Namco_Entertainment_OPBR_official_January2026"
 	],
 	"onepiece1000logs": [
 		"ShueishaOnePiece1000_2020"
@@ -78312,7 +78314,8 @@
 		"BNE_bountyrush_Feb_2022_extend",
 		"BNE_OPBR_official_Event_for_the_film_Luffy_Aug_2022",
 		"BNE_OPBR_official_NewYearCampaign_2023",
-		"BNE_OPBR_official_in_app_event_Branded_Hashtag_2023Aug"
+		"BNE_OPBR_official_in_app_event_Branded_Hashtag_2023Aug",
+		"BF-15216_Branded_Hashmoji_Bandai_Namco_Entertainment_OPBR_official_January2026"
 	],
 	"バウンティラッシュ2周年": [
 		"OPBR_official_JP_Jan_2021",
@@ -93302,7 +93305,8 @@
 	"probowlgames": [
 		"NFL_Pro_Bowl_Hashmojis",
 		"NFL_ProBowlGames_2024",
-		"NFLProBowl2024"
+		"NFLProBowl2024",
+		"NFLProBowlGames2025"
 	],
 	"appletv": [
 		"AppleTV_2023_FEB19"
@@ -117000,5 +117004,11 @@
 	],
 	"superbowllx": [
 		"NFLSuperBowlLXv2"
+	],
+	"blackbeard": [
+		"BF-15216_Branded_Hashmoji_Bandai_Namco_Entertainment_OPBR_official_January2026"
+	],
+	"おれこそが最強だ": [
+		"BF-15216_Branded_Hashmoji_Bandai_Namco_Entertainment_OPBR_official_January2026"
 	]
 }
