@@ -117026,5 +117026,11 @@
 	],
 	"reno15series": [
 		"BF-15303_OPPO_ID_Reno_15_Hashmoji_2026"
+	],
+	"nhlstadiumseries": [
+		"NHLStadiumSeries2026"
+	],
+	"stadiumseries": [
+		"NHLStadiumSeries2026"
 	]
 }
