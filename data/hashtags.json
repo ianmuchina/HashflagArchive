@@ -102536,10 +102536,12 @@
 		"BF-14187_ShiseidoRingoUltimune_JP_Hashmoji2025"
 	],
 	"サントリー生ビール": [
-		"Suntory_Draft_Beer_Hashmoji_2023"
+		"Suntory_Draft_Beer_Hashmoji_2023",
+		"BF-15352_Suntory_draftbeer_2026_Japan_Hashmoji_before"
 	],
 	"サン生": [
-		"Suntory_Draft_Beer_Hashmoji_2023"
+		"Suntory_Draft_Beer_Hashmoji_2023",
+		"BF-15352_Suntory_draftbeer_2026_Japan_Hashmoji_before"
 	],
 	"ファンパレ": [
 		"Sumzap_Inc_jujutsuphanpara_Launch_2023Sep_Branded_Hashtag",
@@ -117106,5 +117108,14 @@
 	],
 	"妄想エンジェル": [
 		"BF-15363_ZZZ_26_update_18ce55p01sc_hashmoji_Feb_2026"
+	],
+	"サン生が青色の先輩たちにあいさつ": [
+		"BF-15352_Suntory_draftbeer_2026_Japan_Hashmoji_before"
+	],
+	"サン生当たる": [
+		"BF-15352_Suntory_draftbeer_2026_Japan_Hashmoji_before"
+	],
+	"沁みわたるのどごし": [
+		"BF-15352_Suntory_draftbeer_2026_Japan_Hashmoji_before"
 	]
 }
