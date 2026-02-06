@@ -113475,7 +113475,8 @@
 	],
 	"ディオール": [
 		"BF-13653_DIORJP2025_Hashmoji_CustomLike_before",
-		"BF-13653_DIORJP2025_Hashmoji_CustomLike_after"
+		"BF-13653_DIORJP2025_Hashmoji_CustomLike_after",
+		"BF-15358_DIORJP_2026_Hashmoji_before_v2"
 	],
 	"ディオールショー京都": [
 		"BF-13653_DIORJP2025_Hashmoji_CustomLike_before",
@@ -117132,5 +117133,14 @@
 	],
 	"ミント": [
 		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26"
+	],
+	"bamboopavilion": [
+		"BF-15358_DIORJP_2026_Hashmoji_before_v2"
+	],
+	"diorbamboopavilion": [
+		"BF-15358_DIORJP_2026_Hashmoji_before_v2"
+	],
+	"ディオールバンブーパビリオン": [
+		"BF-15358_DIORJP_2026_Hashmoji_before_v2"
 	]
 }
