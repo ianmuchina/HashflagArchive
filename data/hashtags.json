@@ -55763,7 +55763,8 @@
 		"NFL_SB_2024_during",
 		"NFL_SB_2024_afterv1",
 		"NFLSuperBowl2025",
-		"NFLSuperBowlLXv2"
+		"NFLSuperBowlLXv2",
+		"NFLSuperBowlLXv3"
 	],
 	"superbowlsquares": [
 		"Rocket_Mortgage_Jan_2022",
@@ -117011,10 +117012,12 @@
 		"BF-15223_Binance_Hashmoji_Q1_26"
 	],
 	"sblx": [
-		"NFLSuperBowlLXv2"
+		"NFLSuperBowlLXv2",
+		"NFLSuperBowlLXv3"
 	],
 	"superbowllx": [
-		"NFLSuperBowlLXv2"
+		"NFLSuperBowlLXv2",
+		"NFLSuperBowlLXv3"
 	],
 	"blackbeard": [
 		"BF-15216_Branded_Hashmoji_Bandai_Namco_Entertainment_OPBR_official_January2026"
