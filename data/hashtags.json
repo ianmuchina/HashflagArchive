@@ -111143,7 +111143,8 @@
 		"BF-13242_playdoitmexico_Q1_Soccer",
 		"BF_13679_playdoitmexico_Q2_Soccer",
 		"BF_14582_Playdoit_Q3_Q4",
-		"BF-14880_Playdoit_Q4_Q1"
+		"BF-14880_Playdoit_Q4_Q1",
+		"BF-14880_Playdoit_Q4_Q1_End_Date_Update"
 	],
 	"finalplaydoit": [
 		"MXplaydoitcasino_1hashemoji_15dec"
@@ -115625,7 +115626,8 @@
 	],
 	"pagoanticipadoplaydoit": [
 		"BF_14582_Playdoit_Q3_Q4",
-		"BF-14880_Playdoit_Q4_Q1"
+		"BF-14880_Playdoit_Q4_Q1",
+		"BF-14880_Playdoit_Q4_Q1_End_Date_Update"
 	],
 	"playdoit": [
 		"BF-14580_Playdoit_Canelo_Match",
@@ -115635,7 +115637,8 @@
 	],
 	"survivorplaydoit": [
 		"BF_14582_Playdoit_Q3_Q4",
-		"BF-14880_Playdoit_Q4_Q1"
+		"BF-14880_Playdoit_Q4_Q1",
+		"BF-14880_Playdoit_Q4_Q1_End_Date_Update"
 	],
 	"breach": [
 		"TwentyOnePilotsBreach"
