@@ -111135,7 +111135,8 @@
 		"BF_13679_playdoitmexico_Q2_Soccer",
 		"BF-14581_Playdoit_Beisbol_SEP-OCT-NOV",
 		"BF-14879_Playdoit_Soccer_Emoji_SomosLaPerrada_Playdoit",
-		"Playdoit_Q4_Q1_Football_BF-14882"
+		"Playdoit_Q4_Q1_Football_BF-14882",
+		"BF-15329_Playdoit_Soccer_Feb_April"
 	],
 	"viernesdebonosplaydoit": [
 		"MXplaydoitcasino_hashemoji_15dec",
@@ -111145,7 +111146,8 @@
 		"BF_13679_playdoitmexico_Q2_Soccer",
 		"BF_14582_Playdoit_Q3_Q4",
 		"BF-14880_Playdoit_Q4_Q1",
-		"BF-14880_Playdoit_Q4_Q1_End_Date_Update"
+		"BF-14880_Playdoit_Q4_Q1_End_Date_Update",
+		"BF-15332_Playdoit_RedP_Feb_April"
 	],
 	"finalplaydoit": [
 		"MXplaydoitcasino_1hashemoji_15dec"
@@ -115628,18 +115630,21 @@
 	"pagoanticipadoplaydoit": [
 		"BF_14582_Playdoit_Q3_Q4",
 		"BF-14880_Playdoit_Q4_Q1",
-		"BF-14880_Playdoit_Q4_Q1_End_Date_Update"
+		"BF-14880_Playdoit_Q4_Q1_End_Date_Update",
+		"BF-15332_Playdoit_RedP_Feb_April"
 	],
 	"playdoit": [
 		"BF-14580_Playdoit_Canelo_Match",
 		"BF-14581_Playdoit_Beisbol_SEP-OCT-NOV",
 		"BF-14879_Playdoit_Soccer_Emoji_SomosLaPerrada_Playdoit",
-		"Playdoit_Q4_Q1_Football_BF-14882"
+		"Playdoit_Q4_Q1_Football_BF-14882",
+		"BF-15329_Playdoit_Soccer_Feb_April"
 	],
 	"survivorplaydoit": [
 		"BF_14582_Playdoit_Q3_Q4",
 		"BF-14880_Playdoit_Q4_Q1",
-		"BF-14880_Playdoit_Q4_Q1_End_Date_Update"
+		"BF-14880_Playdoit_Q4_Q1_End_Date_Update",
+		"BF-15332_Playdoit_RedP_Feb_April"
 	],
 	"breach": [
 		"TwentyOnePilotsBreach"
