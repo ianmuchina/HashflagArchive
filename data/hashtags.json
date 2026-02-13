@@ -90966,7 +90966,8 @@
 		"Pepsi_Halftime5_2022"
 	],
 	"valentines": [
-		"2bcc4f9735ae70f5511fc923eeb19afc25348dc5"
+		"2bcc4f9735ae70f5511fc923eeb19afc25348dc5",
+		"CustomLikeValentinesDay_2026"
 	],
 	"blocoblowout": [
 		"Carnaval2023"
@@ -112563,7 +112564,8 @@
 		"ValentinesDay_Custom_Like_Global_BF_13256"
 	],
 	"バレンタインデー": [
-		"ValentinesDay_Custom_Like_Global_BF_13256"
+		"ValentinesDay_Custom_Like_Global_BF_13256",
+		"CustomLikeValentinesDay_2026"
 	],
 	"情人节": [
 		"ValentinesDay_Custom_Like_Global_BF_13256"
@@ -117206,5 +117208,23 @@
 	],
 	"grok": [
 		"Grok_Custom_Like2026"
+	],
+	"día de san valentín": [
+		"CustomLikeValentinesDay_2026"
+	],
+	"saint valentin": [
+		"CustomLikeValentinesDay_2026"
+	],
+	"valentine": [
+		"CustomLikeValentinesDay_2026"
+	],
+	"情人節快樂": [
+		"CustomLikeValentinesDay_2026_ChineseTranslation"
+	],
+	"情人节快乐": [
+		"CustomLikeValentinesDay_2026_ChineseTranslation"
+	],
+	"발렌타인데이": [
+		"CustomLikeValentinesDay_2026"
 	]
 }
