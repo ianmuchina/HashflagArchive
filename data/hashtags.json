@@ -15670,7 +15670,8 @@
 		"DokkanOfficial_5thAnniversary_2020",
 		"BNE_dokkan_official_Event_Aug_2022",
 		"BNE_dokkan_global_Saiyan_day_2023_after_v2",
-		"BNE_dokkan_global_Saiyan_day_2023_hashfetti"
+		"BNE_dokkan_global_Saiyan_day_2023_hashfetti",
+		"BF-15339_Hashmoji_BandaiNamcoEntertainment_February2026_v2"
 	],
 	"dokkannow": [
 		"2020_8_29_Dokkan_Booh_US"
@@ -77851,7 +77852,8 @@
 		"BNE_dokkan_official_NewYear2ndCampaign_2023",
 		"BNE-NewYearCampaign2023EmojiV3",
 		"BNE_dokkan_global_Saiyan_day_2023_during",
-		"BF_13169_dokkan_official_Hashmoji_10th_Anniversary_01"
+		"BF_13169_dokkan_official_Hashmoji_10th_Anniversary_01",
+		"BF-15339_Hashmoji_BandaiNamcoEntertainment_February2026_v2"
 	],
 	"ドッカンバトル6周年": [
 		"DokkanBattle_JP_Jan_2021"
@@ -117226,5 +117228,14 @@
 	],
 	"발렌타인데이": [
 		"CustomLikeValentinesDay_2026"
+	],
+	"くるぞドッカン11周年": [
+		"BF-15339_Hashmoji_BandaiNamcoEntertainment_February2026_v2"
+	],
+	"ドッカンバトル11周年": [
+		"BF-15339_Hashmoji_BandaiNamcoEntertainment_February2026_v2"
+	],
+	"ライバル同士がドッカンと共闘": [
+		"BF-15339_Hashmoji_BandaiNamcoEntertainment_February2026_v2"
 	]
 }
