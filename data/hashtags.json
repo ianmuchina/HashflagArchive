@@ -90188,7 +90188,8 @@
 	"ポケモンプレゼンツ": [
 		"PokemonDay_2023_after",
 		"PokemonDay_2023_before",
-		"PokemonDay_2023_during"
+		"PokemonDay_2023_during",
+		"BF-15478_Pokemon_cojp_Hashmoji_Anniversary"
 	],
 	"ポテコ": [
 		"Poteco_Nagewa_50th_2023_v1"
@@ -117311,5 +117312,11 @@
 	],
 	"yash": [
 		"BF-15465_ToxicMovie_2026_HashmojiBeforeHashfettiv1"
+	],
+	"ポケモン30周年": [
+		"BF-15478_Pokemon_cojp_Hashmoji_Anniversary"
+	],
+	"ポケモンデー": [
+		"BF-15478_Pokemon_cojp_Hashmoji_Anniversary"
 	]
 }
