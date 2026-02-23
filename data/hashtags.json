@@ -101736,7 +101736,8 @@
 		"Samsung_SDC_2023_Hashmoji"
 	],
 	"クラフトボス": [
-		"Craft_Boss_Hashmoji_in_Sep_2023"
+		"Craft_Boss_Hashmoji_in_Sep_2023",
+		"BF-1538_craftboss_2026_BrandEmoji"
 	],
 	"ボスと外へ": [
 		"Craft_Boss_Hashmoji_in_Sep_2023"
@@ -117334,5 +117335,14 @@
 	],
 	"흔적크림": [
 		"BF-15362_BringgreenCustomLike_before"
+	],
+	"新甘くないイタリアーノ": [
+		"BF-1538_craftboss_2026_BrandEmoji"
+	],
+	"甘くないイタリアーノ": [
+		"BF-1538_craftboss_2026_BrandEmoji"
+	],
+	"真実かフェイクか": [
+		"BF-1538_craftboss_2026_BrandEmoji"
 	]
 }
