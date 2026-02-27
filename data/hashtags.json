@@ -117329,19 +117329,23 @@
 		"BF-15478_Pokemon_cojp_Hashmoji_Anniversary"
 	],
 	"브링그린": [
-		"BF-15362_BringgreenCustomLike_before"
+		"BF-15362_BringgreenCustomLike_before",
+		"BF-15362_BringgreenCustomLike_during"
 	],
 	"브링그린안경만두": [
 		"BF-15362_BringgreenCustomLike_before"
 	],
 	"안경만두브링그린": [
-		"BF-15362_BringgreenCustomLike_before"
+		"BF-15362_BringgreenCustomLike_before",
+		"BF-15362_BringgreenCustomLike_during"
 	],
 	"징테세럼": [
-		"BF-15362_BringgreenCustomLike_before"
+		"BF-15362_BringgreenCustomLike_before",
+		"BF-15362_BringgreenCustomLike_during"
 	],
 	"흔적크림": [
-		"BF-15362_BringgreenCustomLike_before"
+		"BF-15362_BringgreenCustomLike_before",
+		"BF-15362_BringgreenCustomLike_during"
 	],
 	"新甘くないイタリアーノ": [
 		"BF-1538_craftboss_2026_BrandEmoji"
@@ -117405,5 +117409,17 @@
 	],
 	"theromanticworldtour": [
 		"BrunoMarsRomanticEmoji2026"
+	],
+	"뮤즈마스터팔레트": [
+		"BF-15422_Clio_Hashmoji"
+	],
+	"크리스탈글램틴트": [
+		"BF-15422_Clio_Hashmoji"
+	],
+	"클리오": [
+		"BF-15422_Clio_Hashmoji"
+	],
+	"킬커버쿠션": [
+		"BF-15422_Clio_Hashmoji"
 	]
 }
