@@ -102554,7 +102554,8 @@
 		"Hashmoji_SHISEIDO_brand_10_1_JST",
 		"BF_13262_Shiseido_BS_Feb_2025",
 		"BF-13262_Shiseido_BS_Feb2025",
-		"BF-14187_ShiseidoRingoUltimune_JP_Hashmoji2025"
+		"BF-14187_ShiseidoRingoUltimune_JP_Hashmoji2025",
+		"BF-15463_SHISEIDO_brand_HashEmoji_2026_Mar"
 	],
 	"サントリー生ビール": [
 		"Suntory_Draft_Beer_Hashmoji_2023",
@@ -117461,5 +117462,29 @@
 	],
 	"클리오x국가유산청": [
 		"BF-15422_Clio_Hashfetti_Hashmoji"
+	],
+	"lisawithultimune": [
+		"BF-15463_SHISEIDO_brand_HashEmoji_2026_Mar"
+	],
+	"lisa素肌美の舞台裏": [
+		"BF-15463_SHISEIDO_brand_HashEmoji_2026_Mar"
+	],
+	"ultimune": [
+		"BF-15463_SHISEIDO_brand_HashEmoji_2026_Mar"
+	],
+	"ぽこあポケモン": [
+		"BF-15500_Pokemon_Pokopia_Hashmoji_Feb_2026"
+	],
+	"ぽこポケ": [
+		"BF-15500_Pokemon_Pokopia_Hashmoji_Feb_2026"
+	],
+	"メタモン": [
+		"BF-15500_Pokemon_Pokopia_Hashmoji_Feb_2026"
+	],
+	"メタモンいたもん": [
+		"BF-15500_Pokemon_Pokopia_Hashmoji_Feb_2026"
+	],
+	"素肌よ新しいステージへ": [
+		"BF-15463_SHISEIDO_brand_HashEmoji_2026_Mar"
 	]
 }
