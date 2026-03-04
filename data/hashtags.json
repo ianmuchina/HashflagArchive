@@ -99520,7 +99520,8 @@
 		"BF-13280_Bitgetglobal_2025_Q1_Hashmoji_3_Mar_25_3_Jun_25_Extend",
 		"BF-13960_Bitgetglobal_Q2Hashmoji2025",
 		"Bitget_Hashmoji_Q3_Q4_2025",
-		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026"
+		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026",
+		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026_Ext"
 	],
 	"bitget": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -99536,7 +99537,8 @@
 		"BF-13280_Bitgetglobal_2025_Q1_Hashmoji_3_Mar_25_3_Jun_25_Extend",
 		"BF-13960_Bitgetglobal_Q2Hashmoji2025",
 		"Bitget_Hashmoji_Q3_Q4_2025",
-		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026"
+		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026",
+		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026_Ext"
 	],
 	"bitget5thanniversary": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -110948,7 +110950,8 @@
 		"BF-13280_Bitgetglobal_2025_Q1_Hashmoji_3_Mar_25_3_Jun_25_Extend",
 		"BF-13960_Bitgetglobal_Q2Hashmoji2025",
 		"Bitget_Hashmoji_Q3_Q4_2025",
-		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026"
+		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026",
+		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026_Ext"
 	],
 	"lineギフト": [
 		"BF-12588_LYCorporation_LINEGIFT_vol1_Hashmoji2024V2",
@@ -114486,7 +114489,8 @@
 	"bitgetonchain": [
 		"BF-13960_Bitgetglobal_Q2Hashmoji2025",
 		"Bitget_Hashmoji_Q3_Q4_2025",
-		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026"
+		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026",
+		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026_Ext"
 	],
 	"lazadagakbecanda": [
 		"BF-13969_Lazada_ID_hashmoji"
@@ -116539,7 +116543,8 @@
 		"BF-14923_Branded_Like_Zoff_INFO_during"
 	],
 	"bitgetstockfutures": [
-		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026"
+		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026",
+		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026_Ext"
 	],
 	"ディズニープラスでジミンとジョングクの旅": [
 		"BF-14975_TheWaltDisneyCompany_DisneyPlusJP_December2025_v3"
@@ -117515,5 +117520,20 @@
 	],
 	"アニメジャパン": [
 		"AnimeJapan2026"
+	],
+	"btslive": [
+		"BF-15581_NetflixBTS_Global_Hashmoji_v4"
+	],
+	"btsliveonnetflix": [
+		"BF-15581_NetflixBTS_Global_Hashmoji_v4"
+	],
+	"btsthecomebacklive_arirang": [
+		"BF-15581_NetflixBTS_Global_Hashmoji_v4"
+	],
+	"bts컴백라이브_arirang": [
+		"BF-15581_NetflixBTS_KR_Hashfetti-Hashtag"
+	],
+	"netflixbts": [
+		"BF-15581_NetflixBTS_Global_Hashmoji_v4"
 	]
 }
