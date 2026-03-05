@@ -117535,5 +117535,8 @@
 	],
 	"netflixbts": [
 		"BF-15581_NetflixBTS_Global_Hashmoji_v4"
+	],
+	"btsnanetflix": [
+		"BF-15581_NetflixBTS_BR_Hashmoji"
 	]
 }
