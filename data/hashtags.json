@@ -117527,22 +117527,28 @@
 		"AnimeJapan2026"
 	],
 	"btslive": [
-		"BF-15581_NetflixBTS_Global_Hashmoji_v4"
+		"BF-15581_NetflixBTS_Global_Hashmoji_v4",
+		"BF-15581_NetflixBTS_Global_Hashmoji_v6"
 	],
 	"btsliveonnetflix": [
-		"BF-15581_NetflixBTS_Global_Hashmoji_v4"
+		"BF-15581_NetflixBTS_Global_Hashmoji_v4",
+		"BF-15581_NetflixBTS_Global_Hashmoji_v6"
 	],
 	"btsthecomebacklive_arirang": [
-		"BF-15581_NetflixBTS_Global_Hashmoji_v4"
+		"BF-15581_NetflixBTS_Global_Hashmoji_v4",
+		"BF-15581_NetflixBTS_Global_Hashmoji_v6"
 	],
 	"bts컴백라이브_arirang": [
-		"BF-15581_NetflixBTS_KR_Hashfetti-Hashtag"
+		"BF-15581_NetflixBTS_KR_Hashfetti-Hashtag",
+		"BF-15581_NetflixBTS_KR_Hashfetti-Hashtag_v2"
 	],
 	"netflixbts": [
-		"BF-15581_NetflixBTS_Global_Hashmoji_v4"
+		"BF-15581_NetflixBTS_Global_Hashmoji_v4",
+		"BF-15581_NetflixBTS_Global_Hashmoji_v6"
 	],
 	"btsnanetflix": [
-		"BF-15581_NetflixBTS_BR_Hashmoji"
+		"BF-15581_NetflixBTS_BR_Hashmoji",
+		"BF-15581_NetflixBTS_Global_Hashmoji_v6"
 	],
 	"amazeamazeamaze": [
 		"BF15583_ProjectHailMaryGlobal"
@@ -117576,5 +117582,8 @@
 	],
 	"ロッキー": [
 		"BF-15537_SPE_2026_ProjectHailMary_Hashmoji"
+	],
+	"btsnetflixmx": [
+		"BF-15581_NetflixBTS_Global_Hashmoji_v6"
 	]
 }
