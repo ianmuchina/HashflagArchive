@@ -116738,12 +116738,14 @@
 		"BF-15014_Arknights_Endfield_Hashmoji",
 		"BF-15281_GRYPH_hashmoji_request",
 		"BF-15300_GRYPH_Hashmoji_Before",
-		"BF-15300_GRYPH_Hashmoji_After"
+		"BF-15300_GRYPH_Hashmoji_After",
+		"GRYPH_AKEndfield_hashmoji_V1_1_Tangtang_BF-15604"
 	],
 	"endfield": [
 		"BF-15014_Arknights_Endfield_Hashmoji",
 		"BF-15281_GRYPH_hashmoji_request",
-		"BF-15300_GRYPH_Hashmoji"
+		"BF-15300_GRYPH_Hashmoji",
+		"BF-15621_GRYPH_AKEndfield_hashmoji_V1_1_Rossi"
 	],
 	"endfieldcreators": [
 		"BF-15014_Arknights_Endfield_Hashmoji"
@@ -116751,7 +116753,8 @@
 	"エンドフィールド": [
 		"BF-15014_Arknights_Endfield_Hashmoji",
 		"BF-15281_GRYPH_hashmoji_request",
-		"BF-15300_GRYPH_Hashmoji"
+		"BF-15300_GRYPH_Hashmoji",
+		"BF-15621_GRYPH_AKEndfield_hashmoji_V1_1_Rossi"
 	],
 	"ペリカ": [
 		"BF-15014_Arknights_Endfield_Hashmoji"
@@ -117021,16 +117024,19 @@
 		"AcademyAwards2026"
 	],
 	"アークナイツエンドフィールド": [
-		"BF-15281_GRYPH_hashmoji_request"
+		"BF-15281_GRYPH_hashmoji_request",
+		"GRYPH_AKEndfield_hashmoji_V1_1_Tangtang_BF-15604"
 	],
 	"明日方舟終末地": [
 		"BF-15281_GRYPH_hashmoji_request",
-		"BF-15300_GRYPH_Hashmoji"
+		"BF-15300_GRYPH_Hashmoji",
+		"GRYPH_AKEndfield_hashmoji_V1_1_Tangtang_BF-15604"
 	],
 	"명일방주엔드필드": [
 		"BF-15281_GRYPH_hashmoji_request",
 		"BF-15300_GRYPH_Hashmoji-Before-kr",
-		"BF-15300_GRYPH_Hashmoji-After-kr"
+		"BF-15300_GRYPH_Hashmoji-After-kr",
+		"GRYPH_AKEndfield_hashmoji_V1_1_Tangtang_BF-15604"
 	],
 	"gentlemates": [
 		"GentleMatesEsports2026"
@@ -117605,5 +117611,17 @@
 	],
 	"onlyattheoscars": [
 		"AcademyAwards2026v2"
+	],
+	"rossi": [
+		"BF-15621_GRYPH_AKEndfield_hashmoji_V1_1_Rossi"
+	],
+	"tangtang": [
+		"GRYPH_AKEndfield_hashmoji_V1_1_Tangtang_BF-15604"
+	],
+	"終末地": [
+		"BF-15621_GRYPH_AKEndfield_hashmoji_V1_1_Rossi"
+	],
+	"엔드필드": [
+		"BF-15621_GRYPH_AKEndfield_hashmoji_V1_1_Rossi"
 	]
 }
