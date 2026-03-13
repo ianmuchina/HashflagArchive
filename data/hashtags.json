@@ -13200,7 +13200,8 @@
 	],
 	"daredevil": [
 		"DisneyPlus_SheHulk_S1_DareDevil",
-		"DisneyPlus_Daredevil_BornAgain_2025"
+		"DisneyPlus_Daredevil_BornAgain_2025",
+		"Disney_DaredevilS2_2026"
 	],
 	"daretosayhisname": [
 		"Candyman_2020_ext_v2",
@@ -36554,7 +36555,8 @@
 	"mattmurdock": [
 		"DisneyPlus_SheHulk_S1_MattMurdock",
 		"DisneyPlus_Daredevil_BornAgain_2025",
-		"BF-14602_NetEase_MarvelRivals_30_Sep_Daredevil_Hashmoji"
+		"BF-14602_NetEase_MarvelRivals_30_Sep_Daredevil_Hashmoji",
+		"Disney_DaredevilS2_2026"
 	],
 	"mattmurdockattorneyatlaw": [
 		"DisneyPlus_SheHulk_S1_MattMurdock"
@@ -112887,7 +112889,8 @@
 		"BF-13034_AssassinsCreedShadows_Q125_HashmojiOutsideCL"
 	],
 	"daredevilbornagain": [
-		"DisneyPlus_Daredevil_BornAgain_2025"
+		"DisneyPlus_Daredevil_BornAgain_2025",
+		"Disney_DaredevilS2_2026"
 	],
 	"fandomwithoutfear": [
 		"DisneyPlus_Daredevil_BornAgain_2025"
@@ -117645,5 +117648,11 @@
 	],
 	"theofficemexico": [
 		"BF-15574_Amazon_MX_La_Oficina_New"
+	],
+	"daredevilseason2": [
+		"Disney_DaredevilS2_2026"
+	],
+	"whereismattmurdock": [
+		"Disney_DaredevilS2_2026"
 	]
 }
