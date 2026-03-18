@@ -99549,7 +99549,8 @@
 		"Bitget_Hashmoji_Q3_Q4_2025",
 		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026",
 		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026_Ext",
-		"BF-15586_Bitget_Hashmoji_2026_Q1"
+		"BF-15586_Bitget_Hashmoji_2026_Q1",
+		"BF-15586_Bitget_Hashmoji_2026_Q1_v2"
 	],
 	"bitget5thanniversary": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -117662,16 +117663,19 @@
 		"Disney_DaredevilS2_2026"
 	],
 	"bitgetcfd": [
-		"BF-15586_Bitget_Hashmoji_2026_Q1"
+		"BF-15586_Bitget_Hashmoji_2026_Q1",
+		"BF-15586_Bitget_Hashmoji_2026_Q1_v2"
 	],
 	"bitgetgold'": [
 		"BF-15586_Bitget_Hashmoji_2026_Q1"
 	],
 	"bitgetstock": [
-		"BF-15586_Bitget_Hashmoji_2026_Q1"
+		"BF-15586_Bitget_Hashmoji_2026_Q1",
+		"BF-15586_Bitget_Hashmoji_2026_Q1_v2"
 	],
 	"bitgettradfi": [
-		"BF-15586_Bitget_Hashmoji_2026_Q1"
+		"BF-15586_Bitget_Hashmoji_2026_Q1",
+		"BF-15586_Bitget_Hashmoji_2026_Q1_v2"
 	],
 	"mellow_dear_us": [
 		"BF-15603_ensemble_stars_March2026_Emoji_BrandedLike_during",
@@ -117709,5 +117713,11 @@
 	],
 	"メロアス日本デビュー": [
 		"BF-15603_ensemble_stars_March2026_Emoji_BrandedLike_after"
+	],
+	"bitgetgold": [
+		"BF-15586_Bitget_Hashmoji_2026_Q1_v2"
+	],
+	"btsennetflix": [
+		"BF-15581_NetflixBTS_LATAM_Hashmoji_v2"
 	]
 }
