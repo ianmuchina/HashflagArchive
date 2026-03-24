@@ -115927,7 +115927,8 @@
 		"BF-14654_Kantara_Hashmoji_v2"
 	],
 	"trickcal": [
-		"BF-14630_Bilibili_Trickcal_Hashmoji_Butter_251003"
+		"BF-14630_Bilibili_Trickcal_Hashmoji_Butter_251003",
+		"Bilibili_hashmoji_for_Trickcal_BF-15625"
 	],
 	"もちほっペ": [
 		"BF-14631_Bilibili_Hashmoji"
@@ -115943,7 +115944,8 @@
 	],
 	"トリッカル": [
 		"BF-14631_Bilibili_HashfettiHashtag_before",
-		"BF-14631_Bilibili_HashfettiHashtag_after"
+		"BF-14631_Bilibili_HashfettiHashtag_after",
+		"Bilibili_hashmoji_for_Trickcal_BF-15625"
 	],
 	"トリッカルコミー": [
 		"BF-14631_Bilibili_Hashmoji"
@@ -117773,5 +117775,14 @@
 	],
 	"アジ恋": [
 		"BF-15633_LOTTE_Asia_ni_koishite_2026Q1_Hashmoji"
+	],
+	"スピッキー": [
+		"Bilibili_hashmoji_for_Trickcal_BF-15625"
+	],
+	"トリッカルハーフアニバ": [
+		"Bilibili_hashmoji_for_Trickcal_BF-15625"
+	],
+	"ｽﾋﾟｷ": [
+		"Bilibili_hashmoji_for_Trickcal_BF-15625"
 	]
 }
