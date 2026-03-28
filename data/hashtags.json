@@ -79767,7 +79767,8 @@
 		"monst_mixi_2020_JP_10_4",
 		"BF-15009_monst_mixi_Dec2025_Hashmoji_before",
 		"BF-15009_monst_mixi_Dec2025_Hashfetti_during",
-		"BF-15009_monst_mixi_Dec2025_Hashmoji_after"
+		"BF-15009_monst_mixi_Dec2025_Hashmoji_after",
+		"monst_mixi_Mar_2026_emoji_BF-15695"
 	],
 	"モンスト7周年": [
 		"monst_mixi_2020_JP_10_4"
@@ -117887,5 +117888,17 @@
 	],
 	"ye": [
 		"YeBully2026"
+	],
+	"お誘いバトン": [
+		"monst_mixi_Mar_2026_emoji_BF-15695"
+	],
+	"モンストツイスト": [
+		"monst_mixi_Mar_2026_emoji_BF-15695"
+	],
+	"モンストハーフアニバ": [
+		"monst_mixi_Mar_2026_emoji_BF-15695"
+	],
+	"モンスト特番": [
+		"monst_mixi_Mar_2026_emoji_BF-15695"
 	]
 }
