@@ -114072,14 +114072,16 @@
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after",
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before",
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_during_v3",
-		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_after_v2"
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_after_v2",
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during"
 	],
 	"晴れ風": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after",
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before",
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_during_v3",
-		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_after_v2"
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_after_v2",
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during"
 	],
 	"晴れ風ください": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
@@ -117915,5 +117917,26 @@
 	],
 	"ハッピーパウダー": [
 		"KAMEDASEIKA_Happy_turn_2026Q1_Hashimoji_BF-15655"
+	],
+	"usj": [
+		"BF-15599_USJ_Official_18ce552m2c5_Hashmoji_20260320_20260419_USJ25th"
+	],
+	"usj25周年": [
+		"BF-15599_USJ_Official_18ce552m2c5_Hashmoji_20260320_20260419_USJ25th"
+	],
+	"usjdiscoveru": [
+		"BF-15599_USJ_Official_18ce552m2c5_Hashmoji_20260320_20260419_USJ25th"
+	],
+	"usjに飛べるボタン": [
+		"BF-15599_USJ_Official_18ce552m2c5_Hashmoji_20260320_20260419_USJ25th"
+	],
+	"usjファン": [
+		"BF-15599_USJ_Official_18ce552m2c5_Hashmoji_20260320_20260419_USJ25th"
+	],
+	"新しくなる": [
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during"
+	],
+	"新・晴れ風": [
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during"
 	]
 }
