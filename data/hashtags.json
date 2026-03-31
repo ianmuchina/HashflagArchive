@@ -114073,7 +114073,8 @@
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before",
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_during_v3",
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_after_v2",
-		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during"
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during",
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_Emoji_after"
 	],
 	"晴れ風": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
@@ -114081,7 +114082,8 @@
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before",
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_during_v3",
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_after_v2",
-		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during"
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during",
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_Emoji_after"
 	],
 	"晴れ風ください": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_during",
@@ -114093,7 +114095,8 @@
 	"キリン晴れ風": [
 		"BF-13831_KIRIN_Harekaze_Japan_2025Mar_after",
 		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_before",
-		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_after_v2"
+		"BF-14194_KIRIN_Harekaze_Japan_2025Mar_after_v2",
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_Emoji_after"
 	],
 	"เบอร์ดี้คาเฟ่กาแฟคุณภาพพร้อมเสิร์ฟ": [
 		"BF-13826_Birdy_Cafe_TH_Hashmoji_during_v2",
@@ -117934,9 +117937,11 @@
 		"BF-15599_USJ_Official_18ce552m2c5_Hashmoji_20260320_20260419_USJ25th"
 	],
 	"新しくなる": [
-		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during"
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during",
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_Emoji_after"
 	],
 	"新・晴れ風": [
-		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during"
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_during",
+		"BF-15621_KIRIN_Harekaze_Japan_2026_Hashfetti_Emoji_after"
 	]
 }
