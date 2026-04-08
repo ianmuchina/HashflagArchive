@@ -114025,15 +114025,18 @@
 	],
 	"mexc": [
 		"BF-13827_MEXC_Hashmoji2025",
-		"MEXC_Hashmoji_Q3_25"
+		"MEXC_Hashmoji_Q3_25",
+		"BF-15700_MEXC_Hashmoji_Q2_26"
 	],
 	"mexc0fee": [
 		"BF-13827_MEXC_Hashmoji2025",
-		"MEXC_Hashmoji_Q3_25"
+		"MEXC_Hashmoji_Q3_25",
+		"BF-15700_MEXC_Hashmoji_Q2_26"
 	],
 	"mexceventrocks": [
 		"BF-13827_MEXC_Hashmoji2025",
-		"MEXC_Hashmoji_Q3_25"
+		"MEXC_Hashmoji_Q3_25",
+		"BF-15700_MEXC_Hashmoji_Q2_26"
 	],
 	"mexclisting": [
 		"BF-13827_MEXC_Hashmoji2025"
@@ -117951,5 +117954,11 @@
 	],
 	"からあげクン愛を叫ぼう": [
 		"BF-15724_LAWSON_Karaagekun_birthday_2026_March_emoji"
+	],
+	"mexc8eyond": [
+		"BF-15700_MEXC_Hashmoji_Q2_26"
+	],
+	"mexcmize": [
+		"BF-15700_MEXC_Hashmoji_Q2_26"
 	]
 }
