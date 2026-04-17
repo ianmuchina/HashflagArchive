@@ -20181,7 +20181,8 @@
 		"NHL2425_Ducks3",
 		"DucksUpdated_NHL2425",
 		"AnaheimDucks_NHL2425Updated5",
-		"AnaheimDucksNHL2526"
+		"AnaheimDucksNHL2526",
+		"AnaheimDucksNHLPlayoffs2026"
 	],
 	"flywin": [
 		"LCS_FLY_2022",
@@ -22726,7 +22727,8 @@
 		"NHL_TBLightning_2023",
 		"NHL2425_TBLightning",
 		"TBLightningPostseason2025",
-		"TampaBayLightningNHL2526"
+		"TampaBayLightningNHL2526",
+		"TampaBayLightningNHLPlayoffs2026"
 	],
 	"gobrazil": [
 		"Handball_WorldCup_Egypt_2021_Brazil"
@@ -22917,7 +22919,8 @@
 		"NHL_Playoff_Extension_GoHabsGo",
 		"NHL_Canadiens_2023",
 		"NHL2425_MontrealCanadiens",
-		"MontrealCanadiensNHL2526"
+		"MontrealCanadiensNHL2526",
+		"MontrealCanadiensNHLPlayoffs2026"
 	],
 	"gohalos": [
 		"MLB_LAA_2022",
@@ -23422,7 +23425,8 @@
 		"NHL_Senators_2023",
 		"NHL2425_OttowaSenators",
 		"OttawaSenatorsPostseason2025",
-		"OttawaSenatorsNHL2526"
+		"OttawaSenatorsNHL2526",
+		"OttawaSenatorsNHLPlayoffs2026"
 	],
 	"goslovenia": [
 		"Handball_WorldCup_Egypt_2021_Slovenia"
@@ -33046,7 +33050,8 @@
 		"NHL_2021_Teams_LetsGoBuffalo",
 		"NHL_Team_2022_Sabers",
 		"NHL_Playoff_Extension_Buffalo",
-		"NHL_Buffalo_2023"
+		"NHL_Buffalo_2023",
+		"BuffaloSabresNHLPlayoffs2026"
 	],
 	"letsgoc9": [
 		"LCS_C9_2022",
@@ -33113,7 +33118,8 @@
 		"NHL_Oilers_2023",
 		"NHL2425_EdmontonOilers",
 		"EdmontonOilersPostseason2025",
-		"EdmontonOilersNHL2526"
+		"EdmontonOilersNHL2526",
+		"EdmontonOilersNHLPlayoffs2026"
 	],
 	"letsgopens": [
 		"NHLTeam_2021_LetsGoPens",
@@ -33125,7 +33131,8 @@
 		"NHL_Playoff_Extension_LetsGoPens",
 		"NHL_Penguins_2023",
 		"NHL2425_PittPenguins",
-		"PittsburghPenguinsNHL2526"
+		"PittsburghPenguinsNHL2526",
+		"PittsburghPenguinsNHLPlayoffs2026"
 	],
 	"letsgotowork": [
 		"YellowstoneS4_2021_2",
@@ -38345,7 +38352,8 @@
 		"NHL2425_MinnesotaWild",
 		"MinnesotaWildPostseason2025",
 		"MinnesotaWildNHL2526",
-		"MinnesotaWildNHL2526v2"
+		"MinnesotaWildNHL2526v2",
+		"MinnesotaWildNHLPlayoffs2026"
 	],
 	"mnyitlook": [
 		"BraveTogether_Maybelline_2021"
@@ -40952,7 +40960,8 @@
 		"NHL_Bruins_2023",
 		"BostonBruins_2024_2025Hashmoji",
 		"NHL2425_BostonBruins",
-		"BostonBruinsNHL2526"
+		"BostonBruinsNHL2526",
+		"BostonBruinsNHLPlayoffs2026"
 	],
 	"nhlhockeychallenge": [
 		"TimHortons_Hockey_2020"
@@ -57920,7 +57929,8 @@
 		"NHL_Dallas_2023",
 		"NHL2425_DallasStars",
 		"DallasStarsPostseason2025",
-		"DallasStarsNHL2526"
+		"DallasStarsNHL2526",
+		"DallasStarsNHLPlayoffs2026"
 	],
 	"tez": [
 		"Tezos_2022_extend",
@@ -114008,7 +114018,8 @@
 	],
 	"tusksup": [
 		"UtahHockeyClub2025v2",
-		"UtahMammothNHL2526"
+		"UtahMammothNHL2526",
+		"UtahMammothNHLPlayoffs2026"
 	],
 	"indomie": [
 		"BF-13832_Indomielovers_hashmoji_during",
@@ -118006,5 +118017,14 @@
 	],
 	"ダルバ日焼け止め": [
 		"26Q2_Dalba_Hashmoji_BF-15758"
+	],
+	"forgedingold": [
+		"LasVegasKnightsNHLPlayoffs2026"
+	],
+	"ignitetheorange": [
+		"PhiladelphiaFlyersNHLPlayoffs2026"
+	],
+	"soundthesiren": [
+		"CarolinaHurricanesNHLPlayoffs2026"
 	]
 }
