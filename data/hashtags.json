@@ -14087,7 +14087,8 @@
 		"NBA_PistonsHashmoji",
 		"DETPistons_NBA_2425",
 		"DetroitPistonsPostseason2025",
-		"DETPistons_202526"
+		"DETPistons_202526",
+		"NBA_DET_Playoffs2026"
 	],
 	"detroitroots": [
 		"MLB_Teams_2021_DET",
@@ -16566,7 +16567,8 @@
 		"NBA_WarriorsHashmoji",
 		"GSWarriors_NBA_2425",
 		"GSWarriorsPostseason2025",
-		"GSWarriors_202526"
+		"GSWarriors_202526",
+		"NBA_GSW_Playoffs2026"
 	],
 	"ducbasket": [
 		"BasketBall_Africa_League_DUCBasket_2022"
@@ -18566,7 +18568,8 @@
 	"everybodyin": [
 		"GM_EV_Jan_2021",
 		"GM_EV_April_2021",
-		"OrlandoMagicPostseason2025"
+		"OrlandoMagicPostseason2025",
+		"NBA_ORL_Playoffs2026"
 	],
 	"everybodysgay": [
 		"Lizzo_Album_2022_Emoji",
@@ -31684,7 +31687,8 @@
 		"NBA_LakersHashmoji",
 		"LALakers_NBA_2425",
 		"LALakersPostseason2025",
-		"LALakers_202526"
+		"LALakers_202526",
+		"NBA_LAL_Playoffs2026"
 	],
 	"lalabanako": [
 		"StopViolenceAgainstWomen_2020"
@@ -32958,7 +32962,8 @@
 		"NBA_ClevelandHashmoji",
 		"CLECavs_NBA_2425",
 		"ClevelandCavaliersPostseason2025",
-		"CLECavs_202526"
+		"CLECavs_202526",
+		"NBA_CLE_Playoffs2026"
 	],
 	"lethality": [
 		"KPOP_KWONEUNBI_Woollim_2022"
@@ -46390,7 +46395,8 @@
 		"NBA_League_and_Team_SanAntonio_2022",
 		"NBA_SpursHashmoji",
 		"SASpurs_NBA_2425",
-		"SASpurs_202526"
+		"SASpurs_202526",
+		"NBA_SPURS_Playoffs2026"
 	],
 	"poseball": [
 		"FX_Pose_April_2021"
@@ -49523,7 +49529,8 @@
 		"NBA_League_and_Team_Portland_2022",
 		"NBA_PortlandHashmoji",
 		"PORTrailblazers_NBA_2425",
-		"PORTrailblazers_202526"
+		"PORTrailblazers_202526",
+		"NBA_PORT_Playoffs2026"
 	],
 	"riprobin": [
 		"Titans_S3_2021_Robin"
@@ -60244,7 +60251,8 @@
 		"NBA_ThunderHashmoji",
 		"OKCThunder_NBA_2425",
 		"OKCThunderPostseason2025",
-		"OKCThunder_202526"
+		"OKCThunder_202526",
+		"NBA_OKC_Playoffs2026"
 	],
 	"thursdaynightfootball": [
 		"Prime_Video_Thursday_Night_Football_Aug_2022",
@@ -61664,7 +61672,8 @@
 		"NBA_ATLHawksHashmoji",
 		"ATLHawks_NBA-2425",
 		"AtlantaHawksPostSeason2025",
-		"ATLHawks_202526"
+		"ATLHawks_202526",
+		"NBA_ATL_Playoffs2026"
 	],
 	"truetotheblue": [
 		"MLB_Teams_2020_SEA"
@@ -65941,7 +65950,8 @@
 		"NBA_League_and_Team_Toronto_2022",
 		"NBA_RaptorsHashmoji",
 		"TORRaptors_NBA_2425",
-		"TORRaptors_202526"
+		"TORRaptors_202526",
+		"NBA_TOR_Playoffs2026"
 	],
 	"weuro2022": [
 		"UEFA_WEURO22_2"
@@ -66770,7 +66780,8 @@
 		"NBA_Season_Teams_2022_WolvesBack",
 		"NBA_Playoff_Team_Hashtag_Emoji_MINN_WOLVES_2023",
 		"NBA_Minnesota_Timberwolves_2023_2024_Playoffs_Hashmoji",
-		"MinnesotaTimberwolvesPostseason2025"
+		"MinnesotaTimberwolvesPostseason2025",
+		"NBA_MIN_Playoffs2026"
 	],
 	"womanking": [
 		"Sony_Pictures_The_Woman_King_Aug_2022"
@@ -102152,7 +102163,8 @@
 		"NBA_CelticsHashmoji_update",
 		"BOSCeltics_NBA_2425",
 		"BostonCelticsPostseason2025",
-		"BOSCeltics_202526"
+		"BOSCeltics_202526",
+		"NBA_BOS_Playoffs2026"
 	],
 	"forthedistrict": [
 		"NBA_WizardsHashmoji",
@@ -110308,7 +110320,8 @@
 	],
 	"sunsup": [
 		"PHXSuns_NBA_2425",
-		"PHXSuns_202526"
+		"PHXSuns_202526",
+		"NBA_PHX_Playoffs2026"
 	],
 	"yescers": [
 		"INDPacers_NBA_2425",
@@ -113690,7 +113703,8 @@
 		"GUNTHERWrestlemania41"
 	],
 	"milehighplayoffs": [
-		"DenverNuggersPostseason2025"
+		"DenverNuggersPostseason2025",
+		"NBA_DEN_Playoffs2026"
 	],
 	"nikkeanniversary": [
 		"BF-13677_NIKKE_2-5_anniversary_hashmoji"
@@ -116182,7 +116196,8 @@
 		"BF-14738_OnePlus_Hashmoji_After_v2"
 	],
 	"allfire": [
-		"HOURockets_202526"
+		"HOURockets_202526",
+		"NBA_HOU_Playoffs2026"
 	],
 	"takeroot": [
 		"MINTimberwolves_202526"
@@ -118026,5 +118041,11 @@
 	],
 	"soundthesiren": [
 		"CarolinaHurricanesNHLPlayoffs2026"
+	],
+	"alwaysknicks": [
+		"NBA_NYK_Playoffs2026"
+	],
+	"protectthehive": [
+		"NBA_CHA_Playoffs2026"
 	]
 }
