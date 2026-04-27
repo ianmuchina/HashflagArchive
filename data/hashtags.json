@@ -113887,15 +113887,18 @@
 	],
 	"누디블러틴트": [
 		"BF-13742_CJ_Oliveyoung_COlorgramtok_during",
-		"BF-13742_CJ_Oliveyoung_COlorgramtok_hashmoji_v2"
+		"BF-13742_CJ_Oliveyoung_COlorgramtok_hashmoji_v2",
+		"BF-15638_Colorgramtok_26Q2_Hashmoji_v2"
 	],
 	"누블틴": [
 		"BF-13742_CJ_Oliveyoung_COlorgramtok_during",
-		"BF-13742_CJ_Oliveyoung_COlorgramtok_hashmoji_v2"
+		"BF-13742_CJ_Oliveyoung_COlorgramtok_hashmoji_v2",
+		"BF-15638_Colorgramtok_26Q2_Hashmoji_v2"
 	],
 	"컬러그램": [
 		"BF-13742_CJ_Oliveyoung_COlorgramtok_during",
-		"BF-13742_CJ_Oliveyoung_COlorgramtok_hashmoji_v2"
+		"BF-13742_CJ_Oliveyoung_COlorgramtok_hashmoji_v2",
+		"BF-15638_Colorgramtok_26Q2_Hashmoji-hashfetti_hashtag_before"
 	],
 	"탕후루밀크": [
 		"BF-13742_CJ_Oliveyoung_COlorgramtok_during",
@@ -118161,5 +118164,11 @@
 	],
 	"片翼のレモンサワー": [
 		"ASAHI_BREWERIES_2026Q2_Hashmoji_BF-15781"
+	],
+	"colorgram": [
+		"BF-15638_Colorgramtok_26Q2_Hashmoji_v2"
+	],
+	"컬러그램누블틴": [
+		"BF-15638_Colorgramtok_26Q2_Hashmoji_v2"
 	]
 }
