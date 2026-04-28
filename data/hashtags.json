@@ -117337,19 +117337,23 @@
 		"BF-15352_Suntory_draftbeer_2026_Japan_Hashmoji_after"
 	],
 	"nevernesstoeverness": [
-		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26"
+		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26",
+		"NTE_GL_18ce55pnkf3_Hashmoji_XiaoJi_BF-15864"
 	],
 	"nte": [
-		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26"
+		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26",
+		"NTE_GL_18ce55pnkf3_Hashmoji_Mint_BF-15863"
 	],
 	"nteネバエバ": [
-		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26"
+		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26",
+		"NTE_GL_18ce55pnkf3_Hashmoji_Nanali_BF-15865"
 	],
 	"nte共存テスト": [
 		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26"
 	],
 	"ミント": [
-		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26"
+		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26",
+		"NTE_GL_18ce55pnkf3_Hashmoji_Mint_BF-15863"
 	],
 	"bamboopavilion": [
 		"BF-15358_DIORJP_2026_Hashmoji_before_v2",
@@ -118180,5 +118184,38 @@
 	],
 	"최강록": [
 		"BF-15793_McDonalds_Korea_Hashmoji_Hashfetti_during"
+	],
+	"nte0429": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_Mint_BF-15863"
+	],
+	"nte_4月29日正式リリース": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_Nanali_BF-15865"
+	],
+	"ntechiz": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_XiaoJi_BF-15864"
+	],
+	"ntegame": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_XiaoJi_BF-15864"
+	],
+	"ntelaunch": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_Mint_BF-15863"
+	],
+	"ntemint": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_Mint_BF-15863"
+	],
+	"ntenanally": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_Nanali_BF-15865"
+	],
+	"ntenowtoenjoy": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_XiaoJi_BF-15864"
+	],
+	"nte超新生活": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_Nanali_BF-15865"
+	],
+	"ちぃちゃん": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_XiaoJi_BF-15864"
+	],
+	"이환": [
+		"NTE_GL_18ce55pnkf3_Hashmoji_Nanali_BF-15865"
 	]
 }
