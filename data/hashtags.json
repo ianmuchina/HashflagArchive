@@ -114687,14 +114687,16 @@
 	],
 	"wutheringwaves": [
 		"BF-13998_Kuro_WW_hashmoji_2025",
-		"BF-15187_WW_JP_Official_18ce55in4gg_Hashmoji"
+		"BF-15187_WW_JP_Official_18ce55in4gg_Hashmoji",
+		"WW_JP_Official_18ce55in4gg_version_update_2026_BF-15792"
 	],
 	"カルテジア": [
 		"BF-13998_Kuro_WW_hashmoji_2025"
 	],
 	"鳴潮": [
 		"BF-13998_Kuro_WW_hashmoji_2025",
-		"BF-15187_WW_JP_Official_18ce55in4gg_Hashmoji"
+		"BF-15187_WW_JP_Official_18ce55in4gg_Hashmoji",
+		"WW_JP_Official_18ce55in4gg_version_update_2026_BF-15792"
 	],
 	"카르티시아": [
 		"BF-13998_Kuro_WW_hashmoji_2025"
@@ -118148,22 +118150,27 @@
 	],
 	"straighttohell": [
 		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_before",
-		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashfetti_during"
+		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashfetti_during",
+		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_after"
 	],
 	"アタシの人生は面白いわよ": [
 		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_before",
-		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashfetti_during"
+		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashfetti_during",
+		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_after"
 	],
 	"ネトフリ地獄": [
 		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_before",
-		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashfetti_during"
+		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashfetti_during",
+		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_after"
 	],
 	"地獄に堕ちるわよ": [
-		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_before"
+		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_before",
+		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_after"
 	],
 	"細木数子": [
 		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_before",
-		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashfetti_during"
+		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashfetti_during",
+		"BF-15773_NetflixJP18ce54ua4fy_Jigoku_Hashmoji_after"
 	],
 	"まさかアイツが": [
 		"ASAHI_BREWERIES_2026Q2_Hashmoji_BF-15781"
@@ -118184,10 +118191,12 @@
 		"BF-15638_Colorgramtok_26Q2_Hashmoji_v2"
 	],
 	"와사비슈비버거": [
-		"BF-15793_McDonalds_Korea_Hashmoji_Hashfetti_during"
+		"BF-15793_McDonalds_Korea_Hashmoji_Hashfetti_during",
+		"BF-15793_McDonalds_Korea_Hashmoji_Hashfetti_after"
 	],
 	"최강록": [
-		"BF-15793_McDonalds_Korea_Hashmoji_Hashfetti_during"
+		"BF-15793_McDonalds_Korea_Hashmoji_Hashfetti_during",
+		"BF-15793_McDonalds_Korea_Hashmoji_Hashfetti_after"
 	],
 	"nte0429": [
 		"NTE_GL_18ce55pnkf3_Hashmoji_Mint_BF-15863"
@@ -118224,5 +118233,17 @@
 	],
 	"binanceturns9": [
 		"Binance_Hashmoji_Q2_26_BF-15787"
+	],
+	"denia": [
+		"WW_JP_Official_18ce55in4gg_version_update_2026_BF-15792"
+	],
+	"ダーニャ": [
+		"WW_JP_Official_18ce55in4gg_version_update_2026_BF-15792"
+	],
+	"데니아": [
+		"WW_JP_Official_18ce55in4gg_version_update_2026_BF-15792"
+	],
+	"맥도날드_와사비게살크림크로켓버거": [
+		"BF-15793_McDonalds_Korea_Hashmoji_Hashfetti_after"
 	]
 }
