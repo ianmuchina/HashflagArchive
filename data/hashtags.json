@@ -7152,7 +7152,8 @@
 		"BF-13711_Binance_HashmojiQ22025",
 		"Binance_Hashmoji_Q3_25",
 		"BF-14706_Binance_Hashmoji_Q4_25",
-		"BF-15223_Binance_Hashmoji_Q1_26"
+		"BF-15223_Binance_Hashmoji_Q1_26",
+		"Binance_Hashmoji_Q2_26_BF-15787"
 	],
 	"binance10m": [
 		"Binance_10M_Follower_Nov_2022"
@@ -7806,7 +7807,8 @@
 		"BF-11033_Binance_2024_Q2_Emoji",
 		"Binance_Hashmoji_Q3_25",
 		"BF-14706_Binance_Hashmoji_Q4_25",
-		"BF-15223_Binance_Hashmoji_Q1_26"
+		"BF-15223_Binance_Hashmoji_Q1_26",
+		"Binance_Hashmoji_Q2_26_BF-15787"
 	],
 	"bng": [
 		"ICCT20WorldCup_2021_BNG"
@@ -96891,7 +96893,8 @@
 	"binancepizza": [
 		"Binance_2023_Q2_Campaign_Emoji_202304",
 		"BF-11033_Binance_2024_Q2_Emoji",
-		"BF-13711_Binance_HashmojiQ22025"
+		"BF-13711_Binance_HashmojiQ22025",
+		"Binance_Hashmoji_Q2_26_BF-15787"
 	],
 	"binanceturns6": [
 		"Binance_2023_Q2_Campaign_Emoji_202304"
@@ -110528,7 +110531,8 @@
 		"BF-12395_Binance_Hashfetti_during",
 		"BF-12395_Binance_Hashmoji_after_v2",
 		"BF-13015_Binance_Hashmoji_Q1_2025",
-		"BF-15223_Binance_Hashmoji_Q1_26"
+		"BF-15223_Binance_Hashmoji_Q1_26",
+		"Binance_Hashmoji_Q2_26_BF-15787"
 	],
 	"tamkeen_plus_card": [
 		"BF-12290_AlBiladBank_Hashmoji2024"
@@ -118217,5 +118221,8 @@
 	],
 	"이환": [
 		"NTE_GL_18ce55pnkf3_Hashmoji_Nanali_BF-15865"
+	],
+	"binanceturns9": [
+		"Binance_Hashmoji_Q2_26_BF-15787"
 	]
 }
