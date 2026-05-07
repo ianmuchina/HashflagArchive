@@ -42833,7 +42833,8 @@
 		"BF-10879_OnePlusNordCE4_Hashmoji_extended",
 		"BF-11632_OnePlusNord4_July24_HashmojiDuring",
 		"BF-11632_OnePlusNord4_July24_HashmojiAfter",
-		"BF-11632_OnePlusNord4_July24_HashmojiAfter_v2"
+		"BF-11632_OnePlusNord4_July24_HashmojiAfter_v2",
+		"BF-15875_NordCE6_Hashmoji"
 	],
 	"oneplusnord2": [
 		"OnePlusNord_2021"
@@ -118264,5 +118265,14 @@
 	],
 	"こくみん共済あっと": [
 		"ZENROSAI_Secondline_2026_BF-15696"
+	],
+	"nordce6": [
+		"BF-15875_NordCE6_Hashmoji"
+	],
+	"nordce6lite": [
+		"BF-15875_NordCE6_Hashmoji"
+	],
+	"oneplusnordce6lite": [
+		"BF-15877_NordCE6Lite_HashfettiCL-Hashmoji-before"
 	]
 }
