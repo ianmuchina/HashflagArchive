@@ -118275,7 +118275,8 @@
 		"BF-15875_NordCE6_Hashmoji"
 	],
 	"oneplusnordce6lite": [
-		"BF-15877_NordCE6Lite_HashfettiCL-Hashmoji-before"
+		"BF-15877_NordCE6Lite_HashfettiCL-Hashmoji-before",
+		"BF-15877_NordCE6Lite_HashfettiCL-Hashmoji-after"
 	],
 	"oneplusnordce6": [
 		"BF-15875_NordCE6_HashfettiCL-Hashmoji-after"
@@ -118309,5 +118310,20 @@
 	],
 	"トレクル12周年": [
 		"BF-15770_Branded_Hashmoji_Bandai_Namco_Entertainment_ONEPIECE_trecru_May_2026"
+	],
+	"cojsandaliwithdito": [
+		"BF-15873_DITOPH_Sandali_Hashmoji"
+	],
+	"ditowithcupofjoe": [
+		"BF-15873_DITOPH_Sandali_Hashmoji"
+	],
+	"ditoxcojsandalifest": [
+		"BF-15873_DITOPH_Sandali_Hashmoji_Hashfetti_Hashtag_before"
+	],
+	"kasamaditoangcoj": [
+		"BF-15873_DITOPH_Sandali_Hashmoji"
+	],
+	"sandalithecojfest": [
+		"BF-15873_DITOPH_Sandali_Hashmoji"
 	]
 }
