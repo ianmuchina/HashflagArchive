@@ -113668,7 +113668,8 @@
 		"BF-13653_DIORJP2025_Hashmoji_CustomLike_before",
 		"BF-13653_DIORJP2025_Hashmoji_CustomLike_after",
 		"BF-15358_DIORJP_2026_Hashmoji_before_v2",
-		"BF-15358_DIORJP_2026_Hashmoji_after"
+		"BF-15358_DIORJP_2026_Hashmoji_after",
+		"DIORJP_2026_Shinsaibashi_Hashmoji_CustomLike_before"
 	],
 	"ディオールショー京都": [
 		"BF-13653_DIORJP2025_Hashmoji_CustomLike_before",
@@ -118341,5 +118342,23 @@
 	],
 	"bouncybighair": [
 		"BF-15884_Sunsilk_Hashmoji_during"
+	],
+	"diorshinsaibashi": [
+		"DIORJP_2026_Shinsaibashi_Hashmoji_CustomLike_before"
+	],
+	"houseofdiorshinsaibashi": [
+		"DIORJP_2026_Shinsaibashi_Hashmoji_CustomLike_before"
+	],
+	"ディオール心斎橋": [
+		"DIORJP_2026_Shinsaibashi_Hashmoji_CustomLike_before"
+	],
+	"ハウスオブディオール心斎橋": [
+		"DIORJP_2026_Shinsaibashi_Hashmoji_CustomLike_before"
+	],
+	"ミルクアイスが好きだ": [
+		"Glico_Bokujo-shibori_Japan_2026_Hashmoji_BF-15916"
+	],
+	"牧場しぼり": [
+		"Glico_Bokujo-shibori_Japan_2026_Hashmoji_BF-15916"
 	]
 }
