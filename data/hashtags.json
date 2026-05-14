@@ -118341,7 +118341,8 @@
 		"BF-15873_DITOPH_Sandali_Hashmoji"
 	],
 	"bouncybighair": [
-		"BF-15884_Sunsilk_Hashmoji_during"
+		"BF-15884_Sunsilk_Hashmoji_during",
+		"BF-15884_Sunsilk_Hashmoji_after"
 	],
 	"diorshinsaibashi": [
 		"DIORJP_2026_Shinsaibashi_Hashmoji_CustomLike_before"
@@ -118360,5 +118361,8 @@
 	],
 	"牧場しぼり": [
 		"Glico_Bokujo-shibori_Japan_2026_Hashmoji_BF-15916"
+	],
+	"sunsilkxbecky": [
+		"BF-15884_Sunsilk_Hashmoji_after"
 	]
 }
