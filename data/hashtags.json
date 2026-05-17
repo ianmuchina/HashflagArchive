@@ -115755,11 +115755,13 @@
 	],
 	"zb1": [
 		"BF-14472_zb1_official_Hashmoji_Hashfetti_during",
-		"BF-14472_zb1_official_Hashmoji_Hashfetti_after_v2"
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_after_v2",
+		"BF-15874_ZB1-hashmoji"
 	],
 	"제로베이스원": [
 		"BF-14472_zb1_official_Hashmoji_Hashfetti_during",
-		"BF-14472_zb1_official_Hashmoji_Hashfetti_after_v2"
+		"BF-14472_zb1_official_Hashmoji_Hashfetti_after_v2",
+		"BF-15874_ZB1-hashmoji"
 	],
 	"finelineshinethehappiness": [
 		"BF-14455_Hashmoji_Launch_for_FinelineTH_on_1_September_2025"
@@ -118371,5 +118373,11 @@
 	],
 	"stepintothenextpluswithbp": [
 		"BF-15881_Bingoplus_PH_Hashmoji"
+	],
+	"ascend": [
+		"BF-15874_ZB1-hashmoji"
+	],
+	"zerobaseone_top5": [
+		"BF-15874_ZB1-hashmoji"
 	]
 }
