@@ -23319,7 +23319,8 @@
 		"GoogleIO2021",
 		"Google_IO_Q2_2022",
 		"Google_IO_2023_Media_Monks_Branded_Hashtag_2023",
-		"BF-11146_Google_IO_2024_Hashmoji"
+		"BF-11146_Google_IO_2024_Hashmoji",
+		"BF-15883_Google_I_O_2026"
 	],
 	"googleio2021": [
 		"GoogleIO2021"
@@ -118379,5 +118380,14 @@
 	],
 	"zerobaseone_top5": [
 		"BF-15874_ZB1-hashmoji"
+	],
+	"google": [
+		"BF-15883_Google_I_O_2026"
+	],
+	"googleio2026": [
+		"BF-15883_Google_I_O_2026"
+	],
+	"googleio26": [
+		"BF-15883_Google_I_O_2026"
 	]
 }
