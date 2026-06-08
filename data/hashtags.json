@@ -116488,7 +116488,8 @@
 	"イナイレ": [
 		"BF-14824_BrandedLike_inazuma_project_2025_before",
 		"BF-14824_BrandedLike_inazuma_project_2025_during",
-		"BF-14824_BrandedLike_inazuma_project_2025_after_v2"
+		"BF-14824_BrandedLike_inazuma_project_2025_after_v2",
+		"Brand_Emoji_LEVEL-5_inazuma_cross_BF-15959"
 	],
 	"イナイレ発売": [
 		"BF-14824_BrandedLike_inazuma_project_2025_before",
@@ -116497,7 +116498,8 @@
 	],
 	"イナズマイレブン": [
 		"BF-14824_BrandedLike_inazuma_project_2025_before",
-		"BF-14824_BrandedLike_inazuma_project_2025_after_v2"
+		"BF-14824_BrandedLike_inazuma_project_2025_after_v2",
+		"Brand_Emoji_LEVEL-5_inazuma_cross_BF-15959"
 	],
 	"gogops5": [
 		"BF-14735_PlayStation_jp_2025Q4_PlayStation_Hashmoji_v2"
@@ -118575,5 +118577,14 @@
 	],
 	"sparklingjubilee": [
 		"TDR_PR_June_2026_Emoji_BF-15942_v2"
+	],
+	"イナイレクロス": [
+		"Brand_Emoji_LEVEL-5_inazuma_cross_BF-15959"
+	],
+	"イナズマイレブンクロス": [
+		"Brand_Emoji_LEVEL-5_inazuma_cross_BF-15959"
+	],
+	"汐沢陽": [
+		"Brand_Emoji_LEVEL-5_inazuma_cross_BF-15959"
 	]
 }
