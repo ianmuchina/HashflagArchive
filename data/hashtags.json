@@ -114274,10 +114274,12 @@
 		"BF-13911_BeyondAmbition_May2025_Hashmoji"
 	],
 	"ntp": [
-		"BF-13911_BeyondAmbition_May2025_Hashmoji"
+		"BF-13911_BeyondAmbition_May2025_Hashmoji",
+		"BF_16086_Hashmoji_NTP_Eid_2026_v2"
 	],
 	"برنامج_التحول_الوطني": [
-		"BF-13911_BeyondAmbition_May2025_Hashmoji"
+		"BF-13911_BeyondAmbition_May2025_Hashmoji",
+		"BF_16086_Hashmoji_NTP_Eid_2026_v2"
 	],
 	"طموحنا_أبعد": [
 		"BF-13911_BeyondAmbition_May2025_Hashmoji"
@@ -118591,7 +118593,8 @@
 		"BF_16086_Hashmoji_NTP_Eid_2026"
 	],
 	"wedeliveredwecontinue": [
-		"BF_16086_Hashmoji_NTP_Eid_2026"
+		"BF_16086_Hashmoji_NTP_Eid_2026",
+		"BF_16086_Hashmoji_NTP_Eid_2026_v2"
 	],
 	"أنجزنا_ومكملين ": [
 		"BF_16086_Hashmoji_NTP_Eid_2026"
@@ -118601,5 +118604,11 @@
 	],
 	"برنامج_التحول_الوطني ": [
 		"BF_16086_Hashmoji_NTP_Eid_2026"
+	],
+	"أنجزنا_ومكملين": [
+		"BF_16086_Hashmoji_NTP_Eid_2026_v2"
+	],
+	"التحول_الوطني": [
+		"BF_16086_Hashmoji_NTP_Eid_2026_v2"
 	]
 }
