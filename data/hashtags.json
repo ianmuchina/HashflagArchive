@@ -63311,7 +63311,8 @@
 		"USMC_March_2021"
 	],
 	"usmnt": [
-		"2022_FIFA_WorldCup_USA"
+		"2022_FIFA_WorldCup_USA",
+		"WorldCup2026UnitedStates"
 	],
 	"usmonastir": [
 		"BasketBall_Africa_League_USMONASTIR_2022",
@@ -118626,5 +118627,8 @@
 	],
 	"視聴者よ俺に金と力をくれ": [
 		"BF-15989_NetflixJP_Hashmoji"
+	],
+	"unitedstates": [
+		"WorldCup2026UnitedStates"
 	]
 }
