@@ -118817,7 +118817,8 @@
 		"WorldCup2026Jordan"
 	],
 	"keisukehonda": [
-		"KeisukeHondaFIFA26"
+		"KeisukeHondaFIFA26",
+		"Honda_Estilo_Emoji_WorldCup2026"
 	],
 	"korea republic": [
 		"WorldCup2026KoreaRepublic"
@@ -118904,7 +118905,8 @@
 		"WorldCup2026Switzerland"
 	],
 	"taegeukgi": [
-		"WorldCup2026KoreaRepublic"
+		"WorldCup2026KoreaRepublic",
+		"WorldCupKoreaRepublicv2"
 	],
 	"thebluewave": [
 		"WorldCup2026Curacao"
@@ -118967,9 +118969,20 @@
 		"WorldCup2026SouthAfrica"
 	],
 	"パルプンテ本田": [
-		"KeisukeHondaFIFA26"
+		"KeisukeHondaFIFA26",
+		"Honda_Estilo_Emoji_WorldCup2026"
 	],
 	"本田節": [
-		"KeisukeHondaFIFA26"
+		"KeisukeHondaFIFA26",
+		"Honda_Estilo_Emoji_WorldCup2026"
+	],
+	"korearepublic": [
+		"WorldCup2026Koreav2"
+	],
+	"republicofkorea": [
+		"WorldCup2026KoreaRepublicv4"
+	],
+	"southkorea": [
+		"WorldCup2026KoreaRepublicv4"
 	]
 }
