@@ -117372,17 +117372,20 @@
 	],
 	"spacex": [
 		"RocketCustomLike_2026_Final",
-		"RocketCustomLike_2026_Final_v2"
+		"RocketCustomLike_2026_Final_v2",
+		"SpaceXCustomLikeFinal"
 	],
 	"x": [
 		"RocketCustomLike_2026_Final"
 	],
 	"xai": [
 		"RocketCustomLike_2026_Final",
-		"RocketCustomLike_2026_Final_v2"
+		"RocketCustomLike_2026_Final_v2",
+		"SpaceXCustomLikeFinal"
 	],
 	"starship": [
-		"RocketCustomLike_2026_Final_part2"
+		"RocketCustomLike_2026_Final_part2",
+		"SpaceXCustomLikeFinal"
 	],
 	"aod": [
 		"BF-15363_ZZZ_26_update_18ce55p01sc_hashmoji_Feb_2026"
@@ -118522,7 +118525,8 @@
 	"oneverycorner": [
 		"Enterprise_World_Cup_Hashmoji_BF-15968",
 		"Enterprise_World_Cup_Hashmoji_v2",
-		"Enterprise_Custom_Like_611"
+		"Enterprise_Custom_Like_611",
+		"Enterprise_World_Cup_Hashmoji_v3_post"
 	],
 	"wwdc": [
 		"Project_Big_Bear_2026_Hashmoji_only",
@@ -118984,5 +118988,23 @@
 	],
 	"southkorea": [
 		"WorldCup2026KoreaRepublicv4"
+	],
+	"falcon": [
+		"SpaceXCustomLikeFinal"
+	],
+	"falcon 9": [
+		"SpaceXCustomLikeFinal"
+	],
+	"falcon heavy": [
+		"SpaceXCustomLikeFinal"
+	],
+	"spacexai": [
+		"SpaceXCustomLikeFinal"
+	],
+	"spcx": [
+		"SpaceXCustomLikeFinal"
+	],
+	"starlink": [
+		"SpaceXCustomLikeFinal"
 	]
 }
