@@ -118650,7 +118650,8 @@
 		"BF-15989_NetflixJP_Hashmoji"
 	],
 	"喧嘩独学": [
-		"BF-15989_NetflixJP_hashfetti-hastag_Hashmoji-before"
+		"BF-15989_NetflixJP_hashfetti-hastag_Hashmoji-before",
+		"BF-15989_NetflixJP_hashfetti-hastag_Hashmoji-after"
 	],
 	"喧嘩配信はじめまぁぁす": [
 		"BF-15989_NetflixJP_Hashmoji"
@@ -119006,5 +119007,14 @@
 	],
 	"starlink": [
 		"SpaceXCustomLikeFinal"
+	],
+	"밥먹었어": [
+		"BF-16089_Subway-KR_Hashmoji"
+	],
+	"서브웨이": [
+		"BF-16089_Subway-KR_Hashmoji"
+	],
+	"써브웨이": [
+		"BF-16089_Subway-KR_Hashmoji"
 	]
 }
