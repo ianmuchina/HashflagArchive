@@ -13892,7 +13892,8 @@
 		"SummerFestival_2020_add3"
 	],
 	"demdragons": [
-		"HBO_Caraxes_and_Vhagar_Oct_2022"
+		"HBO_Caraxes_and_Vhagar_Oct_2022",
+		"HBOMax_HOTD_26"
 	],
 	"demilovatonomultishow": [
 		"Multishow_Stage_1_Rock_in_Rio_Aug_2022",
@@ -26246,7 +26247,8 @@
 		"HBO_House_of_the_Dragon_3_Jun_2022_add_v2",
 		"HBO_House_of_the_Dragon_Throne_Jul_2022",
 		"HBO_House_of_the_Dragon_Throne_Oct_2022_extend",
-		"dcc9b866868db7c1b7281b9c31dda03ca21901e0"
+		"dcc9b866868db7c1b7281b9c31dda03ca21901e0",
+		"HBOMax_HOTD_26"
 	],
 	"hotdapp": [
 		"HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022"
@@ -26340,7 +26342,8 @@
 		"HBO_House_of_the_Dragon_3_Jun_2022_add_v2",
 		"HBO_House_of_the_Dragon_Throne_Jul_2022",
 		"HBO_House_of_the_Dragon_Throne_Oct_2022_extend",
-		"ddfc8379266e0ef8a6e9e394f72a71e7bb7afd03"
+		"ddfc8379266e0ef8a6e9e394f72a71e7bb7afd03",
+		"HBOMax_HOTD_26"
 	],
 	"houseofthedragonapp": [
 		"HBO_House_of_the_Dragon_Baby_Syrax_Dragon_Jul_2022"
@@ -49375,7 +49378,8 @@
 	"rhaenyra": [
 		"HBO_House_of_the_Dragon_Rhaeynra_May_2022",
 		"HBO_House_of_the_Dragon_Rhaeynra_Oct_2022",
-		"HBO_Queen_Rhaenyra_Oct_2022"
+		"HBO_Queen_Rhaenyra_Oct_2022",
+		"HBOMax_HOTD_26"
 	],
 	"rhaenyratargaryen": [
 		"HBO_House_of_the_Dragon_Rhaeynra_May_2022",
@@ -119081,5 +119085,8 @@
 	],
 	"spideytracker": [
 		"SonyPictures_SpiderMan_26"
+	],
+	"battleofthegullet": [
+		"HBOMax_HOTD_26"
 	]
 }
