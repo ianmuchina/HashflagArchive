@@ -119094,10 +119094,12 @@
 		"HBOMax_HOTD_26"
 	],
 	"lajuntadamasepica": [
-		"Lays_World_Cup_AR_BF16057"
+		"Lays_World_Cup_AR_BF16057",
+		"Lays_World_Cup_AR_BF16057_v2"
 	],
 	"sinlaysnohaypartido": [
-		"Lays_World_Cup_AR_BF16057"
+		"Lays_World_Cup_AR_BF16057",
+		"Lays_World_Cup_AR_BF16057_v2"
 	],
 	"efootball": [
 		"BF-16028_we_konami_June2026_Emoji_during",
@@ -119156,5 +119158,8 @@
 	],
 	"연준_icecream": [
 		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_before"
+	],
+	"config": [
+		"FigmaConfig2026_BF_16169"
 	]
 }
