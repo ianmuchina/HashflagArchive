@@ -178407,5 +178407,23 @@
 			"readyclearaction",
 			"เฟรชเจลชุ่มชื้นแต่ไม่มันนาน48ชม"
 		]
+	},
+	"BF-16199_LaRochePosayTH_Hashfetti-hashtag_Hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16199_LaRochePosayTH_Hashfetti-hashtag_Hashmoji_after/BF-16199_LaRochePosayTH_Hashfetti-hashtag_Hashmoji_after.png",
+		"startingTimestampMs": 1783270800000,
+		"endingTimestampMs": 1785862740000,
+		"hashTags": [
+			"larocheposayeffaclar​"
+		]
+	},
+	"NetflixJP_18ce54ua4fy_Hashmoji_202600706-20261004_sparks_of_tomorrow_BF-15985": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetflixJP_18ce54ua4fy_Hashmoji_202600706-20261004_sparks_of_tomorrow_BF-15985/NetflixJP_18ce54ua4fy_Hashmoji_202600706-20261004_sparks_of_tomorrow_BF-15985.png",
+		"startingTimestampMs": 1783263600000,
+		"endingTimestampMs": 1791298740000,
+		"hashTags": [
+			"sparks_of_tomorrow",
+			"ユーレカエヴリカ",
+			"二十世紀電氣目録"
+		]
 	}
 }
