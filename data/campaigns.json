@@ -178436,5 +178436,13 @@
 			"بطاقة_لك",
 			"تطبيق_snb"
 		]
+	},
+	"BF-16199_LaRochePosayTH_Hashfetti-hashtag_Hashmoji_after_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16199_LaRochePosayTH_Hashfetti-hashtag_Hashmoji_after_v2/BF-16199_LaRochePosayTH_Hashfetti-hashtag_Hashmoji_after_v2.png",
+		"startingTimestampMs": 1783411260000,
+		"endingTimestampMs": 1785862740000,
+		"hashTags": [
+			"larocheposayeffaclar"
+		]
 	}
 }
