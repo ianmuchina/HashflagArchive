@@ -178444,5 +178444,23 @@
 		"hashTags": [
 			"larocheposayeffaclar"
 		]
+	},
+	"BF-16190_AHOF_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16190_AHOF_Hashmoji/BF-16190_AHOF_Hashmoji.png",
+		"startingTimestampMs": 1783436400000,
+		"endingTimestampMs": 1786114800000,
+		"hashTags": [
+			"ahof",
+			"run_to_you",
+			"아홉"
+		]
+	},
+	"BF-16190_AHOF_Hashfetti_hashtag_Hashmoji-before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16190_AHOF_Hashfetti_hashtag_Hashmoji-before/BF-16190_AHOF_Hashfetti_hashtag_Hashmoji-before.png",
+		"startingTimestampMs": 1783436400000,
+		"endingTimestampMs": 1783695540000,
+		"hashTags": [
+			"목적지는_오직_너_runtoyou"
+		]
 	}
 }
