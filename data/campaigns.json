@@ -178472,5 +178472,24 @@
 			"충주찰옥수수치즈크로켓버거",
 			"한국의맛"
 		]
+	},
+	"BF-16183_TXT_BIGHIT_Hashfetti_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16183_TXT_BIGHIT_Hashfetti_during/BF-16183_TXT_BIGHIT_Hashfetti_during.png",
+		"startingTimestampMs": 1783609200000,
+		"endingTimestampMs": 1783695540000,
+		"hashTags": [
+			"nolabels_part02",
+			"yeonjun",
+			"연준",
+			"연준_icecream"
+		]
+	},
+	"BF-16222_McDonaldsKR_hashfettihastag-Hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16222_McDonaldsKR_hashfettihastag-Hashmoji_after/BF-16222_McDonaldsKR_hashfettihastag-Hashmoji_after.png",
+		"startingTimestampMs": 1783609200000,
+		"endingTimestampMs": 1786287540000,
+		"hashTags": [
+			"맥도날드가_찾은_한국의맛"
+		]
 	}
 }
