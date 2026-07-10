@@ -67996,7 +67996,8 @@
 		"Kpop_VIT_TXT_2021_July_YEONJUN",
 		"TXT_Hybe_Member_3_Apr_2022",
 		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_before",
-		"BF-16183_TXT_BIGHIT_Hashfetti_during"
+		"BF-16183_TXT_BIGHIT_Hashfetti_during",
+		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_after"
 	],
 	"yerawizard": [
 		"HBO_Max_Harry_Potter_20th_REunion_Hagrid_2021"
@@ -86483,7 +86484,8 @@
 		"Kpop_VIT_TXT_2021_July_YEONJUN",
 		"TXT_Hybe_Member_3_Apr_2022",
 		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_before",
-		"BF-16183_TXT_BIGHIT_Hashfetti_during"
+		"BF-16183_TXT_BIGHIT_Hashfetti_during",
+		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_after"
 	],
 	"영재": [
 		"Kpop_Youngjae_Oct2021",
@@ -119164,14 +119166,17 @@
 	],
 	"nolabels_part02": [
 		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_before",
-		"BF-16183_TXT_BIGHIT_Hashfetti_during"
+		"BF-16183_TXT_BIGHIT_Hashfetti_during",
+		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_after"
 	],
 	"yeonjun_icecream": [
-		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_before"
+		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_before",
+		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_after"
 	],
 	"연준_icecream": [
 		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_before",
-		"BF-16183_TXT_BIGHIT_Hashfetti_during"
+		"BF-16183_TXT_BIGHIT_Hashfetti_during",
+		"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_after"
 	],
 	"config": [
 		"FigmaConfig2026_BF_16169",
@@ -119359,5 +119364,17 @@
 	],
 	"맥도날드가_찾은_한국의맛": [
 		"BF-16222_McDonaldsKR_hashfettihastag-Hashmoji_after"
+	],
+	"norganic": [
+		"SIROK_Inc_Norganic_JP_July_11_2026_Hashmoji_BF-16243"
+	],
+	"nオーガニック": [
+		"SIROK_Inc_Norganic_JP_July_11_2026_Hashmoji_BF-16243"
+	],
+	"赤cica美容乳液": [
+		"SIROK_Inc_Norganic_JP_July_11_2026_Hashmoji_BF-16243"
+	],
+	"闘う美容乳液": [
+		"SIROK_Inc_Norganic_JP_July_11_2026_Hashmoji_BF-16243"
 	]
 }

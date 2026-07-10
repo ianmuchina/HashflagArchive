@@ -178507,5 +178507,28 @@
 		"hashTags": [
 			"hrderby"
 		]
+	},
+	"BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_after/BF-16183_TXT_BIGHIT_Hashfetti_Hashmoji_after.png",
+		"startingTimestampMs": 1783695600000,
+		"endingTimestampMs": 1784905140000,
+		"hashTags": [
+			"nolabels_part02",
+			"yeonjun",
+			"yeonjun_icecream",
+			"연준",
+			"연준_icecream"
+		]
+	},
+	"SIROK_Inc_Norganic_JP_July_11_2026_Hashmoji_BF-16243": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SIROK_Inc_Norganic_JP_July_11_2026_Hashmoji_BF-16243/SIROK_Inc_Norganic_JP_July_11_2026_Hashmoji_BF-16243.png",
+		"startingTimestampMs": 1783695600000,
+		"endingTimestampMs": 1791730740000,
+		"hashTags": [
+			"norganic",
+			"nオーガニック",
+			"赤cica美容乳液",
+			"闘う美容乳液"
+		]
 	}
 }
