@@ -178491,5 +178491,21 @@
 		"hashTags": [
 			"맥도날드가_찾은_한국의맛"
 		]
+	},
+	"MLB_2026_": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2026_/MLB_2026_.png",
+		"startingTimestampMs": 1783656000000,
+		"endingTimestampMs": 1784087940000,
+		"hashTags": [
+			"allstargame"
+		]
+	},
+	"MLB_2026_HRD": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_2026_HRD/MLB_2026_HRD.png",
+		"startingTimestampMs": 1783656000000,
+		"endingTimestampMs": 1784087940000,
+		"hashTags": [
+			"hrderby"
+		]
 	}
 }

@@ -2527,7 +2527,8 @@
 		"MLBAllStar2022-STAR",
 		"MLB_All_Star_2023",
 		"MLB_All_Star_Game_2024",
-		"MLB_ASW_2025"
+		"MLB_ASW_2025",
+		"MLB_2026_"
 	],
 	"allstars6": [
 		"ParamountRuPaulsDragRaceAllStars_July_2021"
@@ -26480,7 +26481,8 @@
 		"MLBAllStar2022-BAT",
 		"MLB_HR_Derby_2023",
 		"MLB_2024_All_Star_HRDerby",
-		"MLB_HRD_2025"
+		"MLB_HRD_2025",
+		"MLB_2026_HRD"
 	],
 	"hrv": [
 		"2022_FIFA_WorldCup_Croatia_HRV"
