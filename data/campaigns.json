@@ -178557,5 +178557,15 @@
 			"ファイトバクハツ",
 			"夜は楽しまナイト"
 		]
+	},
+	"BF-16276_Hashmoji_monst_mmix_13rdAnniv": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16276_Hashmoji_monst_mmix_13rdAnniv/BF-16276_Hashmoji_monst_mmix_13rdAnniv.png",
+		"startingTimestampMs": 1783857600000,
+		"endingTimestampMs": 1791817140000,
+		"hashTags": [
+			"13周年大カーン謝祭",
+			"モンスト",
+			"モンスト13周年"
+		]
 	}
 }

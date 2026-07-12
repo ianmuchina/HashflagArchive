@@ -79880,7 +79880,8 @@
 		"BF-15009_monst_mixi_Dec2025_Hashmoji_before",
 		"BF-15009_monst_mixi_Dec2025_Hashfetti_during",
 		"BF-15009_monst_mixi_Dec2025_Hashmoji_after",
-		"monst_mixi_Mar_2026_emoji_BF-15695"
+		"monst_mixi_Mar_2026_emoji_BF-15695",
+		"BF-16276_Hashmoji_monst_mmix_13rdAnniv"
 	],
 	"モンスト7周年": [
 		"monst_mixi_2020_JP_10_4"
@@ -119390,5 +119391,11 @@
 	],
 	"夜は楽しまナイト": [
 		"Asahi_dodekamin_Japan_2026_Emoji_BF-16272"
+	],
+	"13周年大カーン謝祭": [
+		"BF-16276_Hashmoji_monst_mmix_13rdAnniv"
+	],
+	"モンスト13周年": [
+		"BF-16276_Hashmoji_monst_mmix_13rdAnniv"
 	]
 }
