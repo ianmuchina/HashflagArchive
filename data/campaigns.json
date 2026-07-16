@@ -178579,5 +178579,13 @@
 			"트러블은_돌고돌아_브링그린",
 			"후니쓰_취준생_피부케어"
 		]
+	},
+	"ArizonaCardinalsNFL202627v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ArizonaCardinalsNFL202627v3/ArizonaCardinalsNFL202627v3.png",
+		"startingTimestampMs": 1784174400000,
+		"endingTimestampMs": 1799899140000,
+		"hashTags": [
+			"riseupredsea"
+		]
 	}
 }
