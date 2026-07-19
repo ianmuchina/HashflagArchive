@@ -178595,5 +178595,13 @@
 		"hashTags": [
 			"snme"
 		]
+	},
+	"pepsi_jpn_Jul_20th_2026_BrandEmoji_BF-16287": {
+		"assetUrl": "https://abs.twimg.com/hashflags/pepsi_jpn_Jul_20th_2026_BrandEmoji_BF-16287/pepsi_jpn_Jul_20th_2026_BrandEmoji_BF-16287.png",
+		"startingTimestampMs": 1784505600000,
+		"endingTimestampMs": 1792508340000,
+		"hashTags": [
+			"ペプシ"
+		]
 	}
 }
