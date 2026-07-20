@@ -178603,5 +178603,13 @@
 		"hashTags": [
 			"ペプシ"
 		]
+	},
+	"BF-16310_X_Toxic_Movie_Hashmoji_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16310_X_Toxic_Movie_Hashmoji_before/BF-16310_X_Toxic_Movie_Hashmoji_before.png",
+		"startingTimestampMs": 1784536200000,
+		"endingTimestampMs": 1913912940000,
+		"hashTags": [
+			"toxicthemovie"
+		]
 	}
 }
