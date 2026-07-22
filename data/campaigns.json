@@ -178620,5 +178620,23 @@
 			"galaxyai",
 			"折りたたみスマホならsamsunggalaxy"
 		]
+	},
+	"WWEAAAVeranoDeEscandalo": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWEAAAVeranoDeEscandalo/WWEAAAVeranoDeEscandalo.png",
+		"startingTimestampMs": 1784692800000,
+		"endingTimestampMs": 1786334340000,
+		"hashTags": [
+			"aaaveranodeescandalo"
+		]
+	},
+	"BF-16310_X_Toxic_Movie_Hashmoji_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16310_X_Toxic_Movie_Hashmoji_v2/BF-16310_X_Toxic_Movie_Hashmoji_v2.png",
+		"startingTimestampMs": 1784688900000,
+		"endingTimestampMs": 1792485000000,
+		"hashTags": [
+			"daddyishome",
+			"tabaahi",
+			"yash"
+		]
 	}
 }
