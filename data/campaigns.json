@@ -178650,5 +178650,27 @@
 			"fgoカルデア学園学生証",
 			"fgoカルデア学園祭"
 		]
+	},
+	"BF_16298_Wendy_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF_16298_Wendy_Hashmoji/BF_16298_Wendy_Hashmoji.png",
+		"startingTimestampMs": 1784782800000,
+		"endingTimestampMs": 1787547540000,
+		"hashTags": [
+			"1dollarfrosty",
+			"1frosty",
+			"dollarfrosty",
+			"dollarfrostysummer",
+			"frostysummer"
+		]
+	},
+	"Sony_ResidentEvil_2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sony_ResidentEvil_2026/Sony_ResidentEvil_2026.png",
+		"startingTimestampMs": 1784793600000,
+		"endingTimestampMs": 1792656000000,
+		"hashTags": [
+			"removie",
+			"residentevil",
+			"residentevilmovie"
+		]
 	}
 }
