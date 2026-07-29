@@ -178686,5 +178686,13 @@
 			"ゼンゼロ2周年",
 			"レミエール"
 		]
+	},
+	"BF-16322_Samsungkorea_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16322_Samsungkorea_Hashmoji/BF-16322_Samsungkorea_Hashmoji.png",
+		"startingTimestampMs": 1785337200000,
+		"endingTimestampMs": 1787842740000,
+		"hashTags": [
+			"펼칠수록갤럭시"
+		]
 	}
 }
