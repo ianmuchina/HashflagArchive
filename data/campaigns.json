@@ -178694,5 +178694,13 @@
 		"hashTags": [
 			"펼칠수록갤럭시"
 		]
+	},
+	"WWESummerslam2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWESummerslam2026/WWESummerslam2026.png",
+		"startingTimestampMs": 1785297600000,
+		"endingTimestampMs": 1785729540000,
+		"hashTags": [
+			"summerslam"
+		]
 	}
 }
