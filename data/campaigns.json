@@ -178702,5 +178702,13 @@
 		"hashTags": [
 			"summerslam"
 		]
+	},
+	"BF-16276_Hashmoji_monst_mmix_13rdAnniv_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16276_Hashmoji_monst_mmix_13rdAnniv_v2/BF-16276_Hashmoji_monst_mmix_13rdAnniv_v2.png",
+		"startingTimestampMs": 1785553200000,
+		"endingTimestampMs": 1791817140000,
+		"hashTags": [
+			"オーブあみだくじ"
+		]
 	}
 }
