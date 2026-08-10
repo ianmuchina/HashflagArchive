@@ -178751,5 +178751,13 @@
 		"hashTags": [
 			"アゲインガチャ"
 		]
+	},
+	"MLB_PlayersWknd2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLB_PlayersWknd2026/MLB_PlayersWknd2026.png",
+		"startingTimestampMs": 1786334400000,
+		"endingTimestampMs": 1788148740000,
+		"hashTags": [
+			"playersweekend"
+		]
 	}
 }
