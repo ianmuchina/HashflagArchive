@@ -178759,5 +178759,17 @@
 		"hashTags": [
 			"playersweekend"
 		]
+	},
+	"BF-16433_Hashmoji_GensoSuikodenSP_2026Q3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16433_Hashmoji_GensoSuikodenSP_2026Q3/BF-16433_Hashmoji_GensoSuikodenSP_2026Q3.png",
+		"startingTimestampMs": 1786374000000,
+		"endingTimestampMs": 1794409140000,
+		"hashTags": [
+			"suikodensp",
+			"幻想水滸伝",
+			"幻想水滸伝スターリープ",
+			"幻水",
+			"幻水sp"
+		]
 	}
 }
