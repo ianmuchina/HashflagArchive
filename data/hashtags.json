@@ -105347,7 +105347,8 @@
 		"BF-9893_ABEMA_Hashmoji_1217-0316",
 		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN",
 		"BF-13720_ABEMA_RIZIN_Hashmoji2025",
-		"BF-15131_ABEMA_18ce549twrx_Hashmoji_RIZIN"
+		"BF-15131_ABEMA_18ce549twrx_Hashmoji_RIZIN",
+		"BF-16374_ABEMA_18ce549twrx__Hashmoji_202600811_20261108_RIZIN"
 	],
 	"rizin45": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
@@ -105359,7 +105360,8 @@
 		"BF-12792_ABEMA_18ce549twrx_Hashmoji_20241221-20250321_RIZIN",
 		"BF-13720_ABEMA_RIZIN_Hashmoji2025",
 		"BF-14296_ABEMA_18ce549twrx_Hashmoji_RIZIN",
-		"BF-15131_ABEMA_18ce549twrx_Hashmoji_RIZIN"
+		"BF-15131_ABEMA_18ce549twrx_Hashmoji_RIZIN",
+		"BF-16374_ABEMA_18ce549twrx__Hashmoji_202600811_20261108_RIZIN"
 	],
 	"アベマでrizin大晦日": [
 		"BF-9893_ABEMA_Hashmoji_20231217-20240316",
@@ -115377,7 +115379,8 @@
 		"BF-14296_ABEMA_18ce549twrx_Hashmoji_RIZIN"
 	],
 	"アベマで超rizin": [
-		"BF-14296_ABEMA_18ce549twrx_Hashmoji_RIZIN"
+		"BF-14296_ABEMA_18ce549twrx_Hashmoji_RIZIN",
+		"BF-16374_ABEMA_18ce549twrx__Hashmoji_202600811_20261108_RIZIN"
 	],
 	"伊之助と全集中": [
 		"BF-14230_kimetsu_off_Hashmoji_Portal_10"
@@ -119536,5 +119539,11 @@
 	],
 	"幻水sp": [
 		"BF-16433_Hashmoji_GensoSuikodenSP_2026Q3"
+	],
+	"超rizin": [
+		"BF-16374_ABEMA_18ce549twrx__Hashmoji_202600811_20261108_RIZIN"
+	],
+	"超rizin5": [
+		"BF-16374_ABEMA_18ce549twrx__Hashmoji_202600811_20261108_RIZIN"
 	]
 }

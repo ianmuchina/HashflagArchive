@@ -178771,5 +178771,17 @@
 			"幻水",
 			"幻水sp"
 		]
+	},
+	"BF-16374_ABEMA_18ce549twrx__Hashmoji_202600811_20261108_RIZIN": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16374_ABEMA_18ce549twrx__Hashmoji_202600811_20261108_RIZIN/BF-16374_ABEMA_18ce549twrx__Hashmoji_202600811_20261108_RIZIN.png",
+		"startingTimestampMs": 1786424400000,
+		"endingTimestampMs": 1791471540000,
+		"hashTags": [
+			"rizin",
+			"アベマでrizin",
+			"アベマで超rizin",
+			"超rizin",
+			"超rizin5"
+		]
 	}
 }
