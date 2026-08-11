@@ -178783,5 +178783,13 @@
 			"超rizin",
 			"超rizin5"
 		]
+	},
+	"MLBatFieldofDreams": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBatFieldofDreams/MLBatFieldofDreams.png",
+		"startingTimestampMs": 1786453200000,
+		"endingTimestampMs": 1786798800000,
+		"hashTags": [
+			"mlbatfieldofdreams"
+		]
 	}
 }
