@@ -102966,7 +102966,8 @@
 		"BF-9715_GooglePixel_Before",
 		"BF-9715_GooglePixel_During",
 		"BF-9715_GooglePixel_After",
-		"BF-14438_Google_Pixel_H2_25"
+		"BF-14438_Google_Pixel_H2_25",
+		"Google_Pixel_Q3_26_BF-16439"
 	],
 	"pixel8": [
 		"BF-9201_Google_Pixel8",
@@ -119548,5 +119549,17 @@
 	],
 	"mlbatfieldofdreams": [
 		"MLBatFieldofDreams"
+	],
+	"pixel11": [
+		"Google_Pixel_Q3_26_BF-16439"
+	],
+	"pixelbuds": [
+		"Google_Pixel_Q3_26_BF-16439"
+	],
+	"pixeltag": [
+		"Google_Pixel_Q3_26_BF-16439"
+	],
+	"pixelwatch": [
+		"Google_Pixel_Q3_26_BF-16439"
 	]
 }
