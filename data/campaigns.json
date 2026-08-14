@@ -178803,5 +178803,24 @@
 			"pixeltag",
 			"pixelwatch"
 		]
+	},
+	"Playdoit_Hashmoji_August_BF-16447": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Playdoit_Hashmoji_August_BF-16447/Playdoit_Hashmoji_August_BF-16447.png",
+		"startingTimestampMs": 1786719600000,
+		"endingTimestampMs": 1788191940000,
+		"hashTags": [
+			"pagoanticipadoplaydoit",
+			"survivorplaydoit",
+			"viernesdebonosplaydoit"
+		]
+	},
+	"Playdoit_Hashmoji_August_BF-16446": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Playdoit_Hashmoji_August_BF-16446/Playdoit_Hashmoji_August_BF-16446.png",
+		"startingTimestampMs": 1786719600000,
+		"endingTimestampMs": 1788191940000,
+		"hashTags": [
+			"playdoit",
+			"somoslaperrada"
+		]
 	}
 }
