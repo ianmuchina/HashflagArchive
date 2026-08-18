@@ -178839,5 +178839,16 @@
 			"アジアに恋して",
 			"アジ恋"
 		]
+	},
+	"BF-16402_OBD_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16402_OBD_Hashmoji/BF-16402_OBD_Hashmoji.png",
+		"startingTimestampMs": 1787065200000,
+		"endingTimestampMs": 1789743600000,
+		"hashTags": [
+			"obd",
+			"obd_squeezy",
+			"ourbirthday",
+			"아워벌스데이"
+		]
 	}
 }
