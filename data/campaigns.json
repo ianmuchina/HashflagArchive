@@ -178850,5 +178850,13 @@
 			"ourbirthday",
 			"아워벌스데이"
 		]
+	},
+	"BF-16402_OBD_Hashfetti-Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16402_OBD_Hashfetti-Hashmoji/BF-16402_OBD_Hashfetti-Hashmoji.png",
+		"startingTimestampMs": 1787151660000,
+		"endingTimestampMs": 1789743600000,
+		"hashTags": [
+			"아워벌스데이_데뷔_축하해"
+		]
 	}
 }
