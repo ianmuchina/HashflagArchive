@@ -178869,5 +178869,31 @@
 			"ワンピカード17弾",
 			"ワンピースカードゲーム"
 		]
+	},
+	"PLHashmojisEverton2026v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisEverton2026v2/PLHashmojisEverton2026v2.png",
+		"startingTimestampMs": 1787198400000,
+		"endingTimestampMs": 1812254340000,
+		"hashTags": [
+			"everton",
+			"utft"
+		]
+	},
+	"PLHashmojisFulham2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisFulham2026/PLHashmojisFulham2026.png",
+		"startingTimestampMs": 1787198400000,
+		"endingTimestampMs": 1812254340000,
+		"hashTags": [
+			"fulhamfc"
+		]
+	},
+	"PLHashmojisLiverpool2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisLiverpool2026/PLHashmojisLiverpool2026.png",
+		"startingTimestampMs": 1787198400000,
+		"endingTimestampMs": 1812254400000,
+		"hashTags": [
+			"lfc",
+			"ynwa"
+		]
 	}
 }

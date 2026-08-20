@@ -114434,7 +114434,8 @@
 		"CHLMemorialCup2026"
 	],
 	"ynwa": [
-		"LiverpoolPLChamps2025"
+		"LiverpoolPLChamps2025",
+		"PLHashmojisLiverpool2026"
 	],
 	"ais5gxbillkin": [
 		"BF-13904_AIS_Hashmoji_during",
@@ -119596,5 +119597,17 @@
 	],
 	"ワンピースカードゲーム": [
 		"BF-16488_Hashmoji_ONEPIECE_tcg_Aug2026_During"
+	],
+	"everton": [
+		"PLHashmojisEverton2026v2"
+	],
+	"fulhamfc": [
+		"PLHashmojisFulham2026"
+	],
+	"lfc": [
+		"PLHashmojisLiverpool2026"
+	],
+	"utft": [
+		"PLHashmojisEverton2026v2"
 	]
 }
