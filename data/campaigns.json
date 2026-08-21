@@ -178895,5 +178895,17 @@
 			"lfc",
 			"ynwa"
 		]
+	},
+	"BF-16488_Hashmoji_ONEPIECE_tcg_Aug2026_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16488_Hashmoji_ONEPIECE_tcg_Aug2026_After/BF-16488_Hashmoji_ONEPIECE_tcg_Aug2026_After.png",
+		"startingTimestampMs": 1787324400000,
+		"endingTimestampMs": 1791125940000,
+		"hashTags": [
+			"op17",
+			"ワンピカード",
+			"ワンピカード17弾",
+			"ワンピカードに最強船長登場",
+			"ワンピースカードゲーム"
+		]
 	}
 }
