@@ -178931,5 +178931,23 @@
 		"hashTags": [
 			"usteam"
 		]
+	},
+	"BF-16444_26Q3_NCT127_Hashmoji_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16444_26Q3_NCT127_Hashmoji_during/BF-16444_26Q3_NCT127_Hashmoji_during.png",
+		"startingTimestampMs": 1787497200000,
+		"endingTimestampMs": 1787583540000,
+		"hashTags": [
+			"blingy",
+			"nct127",
+			"nct_10th_anniversary"
+		]
+	},
+	"EWChampions2026Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EWChampions2026Hashmoji/EWChampions2026Hashmoji.png",
+		"startingTimestampMs": 1787499000000,
+		"endingTimestampMs": 1790726400000,
+		"hashTags": [
+			"ewchampion"
+		]
 	}
 }

@@ -40382,7 +40382,8 @@
 		"KpopVIT_NCT2021Sep_NCT127_",
 		"KPOP_NCT_2020_P2",
 		"SMent_NCT127_Japan_Tour_May_2022",
-		"SMTOWN_LIVE_2022_NCT127"
+		"SMTOWN_LIVE_2022_NCT127",
+		"BF-16444_26Q3_NCT127_Hashmoji_during"
 	],
 	"nct127_beyondlive": [
 		"Kpop_2020_NCT"
@@ -109606,7 +109607,8 @@
 		"FalconsHashfettiEWC",
 		"FalconsHashfetti2024V2",
 		"EWCHampions2025Hashfetti",
-		"EWCHampions2025Hashmoji"
+		"EWCHampions2025Hashmoji",
+		"EWChampions2026Hashmoji"
 	],
 	"أبطال_كأس_العالم_للرياضات_الإلكترونية": [
 		"FalconsHashfettiEWC",
@@ -119619,5 +119621,11 @@
 	],
 	"ワンピカードに最強船長登場": [
 		"BF-16488_Hashmoji_ONEPIECE_tcg_Aug2026_After"
+	],
+	"blingy": [
+		"BF-16444_26Q3_NCT127_Hashmoji_during"
+	],
+	"nct_10th_anniversary": [
+		"BF-16444_26Q3_NCT127_Hashmoji_during"
 	]
 }
