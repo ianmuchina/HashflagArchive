@@ -178907,5 +178907,29 @@
 			"ワンピカードに最強船長登場",
 			"ワンピースカードゲーム"
 		]
+	},
+	"PGATourIntlTeam2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PGATourIntlTeam2026/PGATourIntlTeam2026.png",
+		"startingTimestampMs": 1787457600000,
+		"endingTimestampMs": 1790913540000,
+		"hashTags": [
+			"intlteam"
+		]
+	},
+	"PGATourPresidentsCup2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PGATourPresidentsCup2026/PGATourPresidentsCup2026.png",
+		"startingTimestampMs": 1787457600000,
+		"endingTimestampMs": 1790913540000,
+		"hashTags": [
+			"presidentscup"
+		]
+	},
+	"PGATourUSTeam2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PGATourUSTeam2026/PGATourUSTeam2026.png",
+		"startingTimestampMs": 1787457600000,
+		"endingTimestampMs": 1790913540000,
+		"hashTags": [
+			"usteam"
+		]
 	}
 }

@@ -27885,7 +27885,8 @@
 	],
 	"intlteam": [
 		"PresidentsCupINTLTEAM2022",
-		"Intl_Team_PGA2024"
+		"Intl_Team_PGA2024",
+		"PGATourIntlTeam2026"
 	],
 	"into__universe": [
 		"NCSOFTUniverse2020"
@@ -46774,7 +46775,8 @@
 	],
 	"presidentscup": [
 		"PresidentsCupGeneral2022",
-		"Presidents_Cup_2024"
+		"Presidents_Cup_2024",
+		"PGATourPresidentsCup2026"
 	],
 	"pressefreiheit": [
 		"WorldPressFreedomDay_2021",
@@ -63374,7 +63376,8 @@
 	],
 	"usteam": [
 		"RyderCup_2021_GoUSA",
-		"PresidentsCupUSTEAM2022"
+		"PresidentsCupUSTEAM2022",
+		"PGATourUSTeam2026"
 	],
 	"usunited": [
 		"SnyderCut_HBOMax_2021",
