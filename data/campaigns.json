@@ -178949,5 +178949,16 @@
 		"hashTags": [
 			"ewchampion"
 		]
+	},
+	"BF-16444_26Q3_NCT127_Hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16444_26Q3_NCT127_Hashmoji_after/BF-16444_26Q3_NCT127_Hashmoji_after.png",
+		"startingTimestampMs": 1787583600000,
+		"endingTimestampMs": 1790175540000,
+		"hashTags": [
+			"blingy",
+			"nct127",
+			"nct127_blingy",
+			"nct_10th_anniversary"
+		]
 	}
 }

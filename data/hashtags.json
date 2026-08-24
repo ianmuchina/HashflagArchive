@@ -40383,7 +40383,8 @@
 		"KPOP_NCT_2020_P2",
 		"SMent_NCT127_Japan_Tour_May_2022",
 		"SMTOWN_LIVE_2022_NCT127",
-		"BF-16444_26Q3_NCT127_Hashmoji_during"
+		"BF-16444_26Q3_NCT127_Hashmoji_during",
+		"BF-16444_26Q3_NCT127_Hashmoji_after"
 	],
 	"nct127_beyondlive": [
 		"Kpop_2020_NCT"
@@ -119623,9 +119624,14 @@
 		"BF-16488_Hashmoji_ONEPIECE_tcg_Aug2026_After"
 	],
 	"blingy": [
-		"BF-16444_26Q3_NCT127_Hashmoji_during"
+		"BF-16444_26Q3_NCT127_Hashmoji_during",
+		"BF-16444_26Q3_NCT127_Hashmoji_after"
 	],
 	"nct_10th_anniversary": [
-		"BF-16444_26Q3_NCT127_Hashmoji_during"
+		"BF-16444_26Q3_NCT127_Hashmoji_during",
+		"BF-16444_26Q3_NCT127_Hashmoji_after"
+	],
+	"nct127_blingy": [
+		"BF-16444_26Q3_NCT127_Hashmoji_after"
 	]
 }
