@@ -178960,5 +178960,22 @@
 			"nct127_blingy",
 			"nct_10th_anniversary"
 		]
+	},
+	"PLHashmojisChelsea2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisChelsea2026/PLHashmojisChelsea2026.png",
+		"startingTimestampMs": 1787630400000,
+		"endingTimestampMs": 1812254400000,
+		"hashTags": [
+			"cfc",
+			"chelseafc"
+		]
+	},
+	"PLHashmojisManchesterCity2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisManchesterCity2026/PLHashmojisManchesterCity2026.png",
+		"startingTimestampMs": 1787630400000,
+		"endingTimestampMs": 1812254400000,
+		"hashTags": [
+			"mancity"
+		]
 	}
 }
