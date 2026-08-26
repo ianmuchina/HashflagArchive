@@ -178977,5 +178977,31 @@
 		"hashTags": [
 			"mancity"
 		]
+	},
+	"Apple_Event_2026_Aug_Sep": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Apple_Event_2026_Aug_Sep/Apple_Event_2026_Aug_Sep.png",
+		"startingTimestampMs": 1787762700000,
+		"endingTimestampMs": 1789023540000,
+		"hashTags": [
+			"appleevent"
+		]
+	},
+	"NFLGametimeonX2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFLGametimeonX2026/NFLGametimeonX2026.png",
+		"startingTimestampMs": 1787716800000,
+		"endingTimestampMs": 1803873600000,
+		"hashTags": [
+			"nflgametime",
+			"nflgametimeonx",
+			"nflonx"
+		]
+	},
+	"BF-16310_X_Toxic_Movie_Hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16310_X_Toxic_Movie_Hashmoji_after/BF-16310_X_Toxic_Movie_Hashmoji_after.png",
+		"startingTimestampMs": 1787769000000,
+		"endingTimestampMs": 1792485000000,
+		"hashTags": [
+			"toxicthemovie"
+		]
 	}
 }

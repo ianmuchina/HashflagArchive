@@ -3636,7 +3636,8 @@
 		"Elba_OctoberEvent_global_CustomLike_v10",
 		"ScaryFast_Post_custom",
 		"BF-14423_SeptAppleEvent_Hashmoji",
-		"BF-14423_SeptAppleEvent_Hashmoji_v2"
+		"BF-14423_SeptAppleEvent_Hashmoji_v2",
+		"Apple_Event_2026_Aug_Sep"
 	],
 	"applepayでも": [
 		"Mastercard_JP_Wave_2021"
@@ -117653,7 +117654,8 @@
 	],
 	"toxicthemovie": [
 		"BF-15465_ToxicMovie_2026_HashmojiBeforeHashfettiv1",
-		"BF-16310_X_Toxic_Movie_Hashmoji_before"
+		"BF-16310_X_Toxic_Movie_Hashmoji_before",
+		"BF-16310_X_Toxic_Movie_Hashmoji_after"
 	],
 	"yash": [
 		"BF-15465_ToxicMovie_2026_HashmojiBeforeHashfettiv1",
@@ -119642,5 +119644,14 @@
 	],
 	"mancity": [
 		"PLHashmojisManchesterCity2026"
+	],
+	"nflgametime": [
+		"NFLGametimeonX2026"
+	],
+	"nflgametimeonx": [
+		"NFLGametimeonX2026"
+	],
+	"nflonx": [
+		"NFLGametimeonX2026"
 	]
 }
