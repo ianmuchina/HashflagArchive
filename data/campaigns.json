@@ -179003,5 +179003,50 @@
 		"hashTags": [
 			"toxicthemovie"
 		]
+	},
+	"PLHashmojisAstonVilla2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisAstonVilla2026/PLHashmojisAstonVilla2026.png",
+		"startingTimestampMs": 1787803200000,
+		"endingTimestampMs": 1812254400000,
+		"hashTags": [
+			"avfc",
+			"upthevilla"
+		]
+	},
+	"PLHashmojisBrighton2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisBrighton2026/PLHashmojisBrighton2026.png",
+		"startingTimestampMs": 1787803200000,
+		"endingTimestampMs": 1812254400000,
+		"hashTags": [
+			"bhafc"
+		]
+	},
+	"PLHashmojisLeedsUnited2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisLeedsUnited2026/PLHashmojisLeedsUnited2026.png",
+		"startingTimestampMs": 1787803200000,
+		"endingTimestampMs": 1812254400000,
+		"hashTags": [
+			"lufc",
+			"mot"
+		]
+	},
+	"BF-16487_Laftel_hashmoji_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16487_Laftel_hashmoji_v3/BF-16487_Laftel_hashmoji_v3.png",
+		"startingTimestampMs": 1787842800000,
+		"endingTimestampMs": 1790521140000,
+		"hashTags": [
+			"oneroomta",
+			"라프텔",
+			"원룸조교님",
+			"원룸조교님_애니메이션"
+		]
+	},
+	"EWChampions2026Hashmoji_AR": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EWChampions2026Hashmoji_AR/EWChampions2026Hashmoji_AR.png",
+		"startingTimestampMs": 1787788800000,
+		"endingTimestampMs": 1790726400000,
+		"hashTags": [
+			"ابطال_ewc"
+		]
 	}
 }
