@@ -179048,5 +179048,30 @@
 		"hashTags": [
 			"ابطال_ewc"
 		]
+	},
+	"PLHashmojisHullCity2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisHullCity2026/PLHashmojisHullCity2026.png",
+		"startingTimestampMs": 1787889600000,
+		"endingTimestampMs": 1812254400000,
+		"hashTags": [
+			"hcafc",
+			"utt"
+		]
+	},
+	"PLHashmojisSunderland2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisSunderland2026/PLHashmojisSunderland2026.png",
+		"startingTimestampMs": 1787889600000,
+		"endingTimestampMs": 1812254400000,
+		"hashTags": [
+			"safc"
+		]
+	},
+	"BF-16487_Laftel_hashfetti-hashmoji_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16487_Laftel_hashfetti-hashmoji_v2/BF-16487_Laftel_hashfetti-hashmoji_v2.png",
+		"startingTimestampMs": 1787929200000,
+		"endingTimestampMs": 1790521140000,
+		"hashTags": [
+			"필수교양_애니_원룸조교님"
+		]
 	}
 }
