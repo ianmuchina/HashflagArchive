@@ -179104,5 +179104,13 @@
 		"hashTags": [
 			"도경수와_따라따따따라따라"
 		]
+	},
+	"PLHashmojisIpswichTown2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisIpswichTown2026/PLHashmojisIpswichTown2026.png",
+		"startingTimestampMs": 1788148800000,
+		"endingTimestampMs": 1812254400000,
+		"hashTags": [
+			"itfc"
+		]
 	}
 }
