@@ -179073,5 +179073,36 @@
 		"hashTags": [
 			"필수교양_애니_원룸조교님"
 		]
+	},
+	"BF-16482_BlitzwayMusic_hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16482_BlitzwayMusic_hashmoji/BF-16482_BlitzwayMusic_hashmoji.png",
+		"startingTimestampMs": 1788188400000,
+		"endingTimestampMs": 1790780400000,
+		"hashTags": [
+			"dohkyungsoo",
+			"guitarist_dopamine",
+			"도경수",
+			"됴파민"
+		]
+	},
+	"BF-16436_Kyujinbox_KingOfConte2026Campaign_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16436_Kyujinbox_KingOfConte2026Campaign_Hashmoji/BF-16436_Kyujinbox_KingOfConte2026Campaign_Hashmoji.png",
+		"startingTimestampMs": 1788188400000,
+		"endingTimestampMs": 1796223540000,
+		"hashTags": [
+			"バイト探しも求人ボックス",
+			"仕事探しは求人ボックス",
+			"求人ボックス",
+			"求人ボックスと笑おう",
+			"求人ボックスも見ときませんか"
+		]
+	},
+	"BF-16482_BlitzwayMusic_hashfetti-hashmoji_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16482_BlitzwayMusic_hashfetti-hashmoji_before/BF-16482_BlitzwayMusic_hashfetti-hashmoji_before.png",
+		"startingTimestampMs": 1788188400000,
+		"endingTimestampMs": 1788793140000,
+		"hashTags": [
+			"도경수와_따라따따따라따라"
+		]
 	}
 }
