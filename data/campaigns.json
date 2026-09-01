@@ -179112,5 +179112,24 @@
 		"hashTags": [
 			"itfc"
 		]
+	},
+	"BF-16539_Playdoit_Hashmoji_Sep-Nov": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16539_Playdoit_Hashmoji_Sep-Nov/BF-16539_Playdoit_Hashmoji_Sep-Nov.png",
+		"startingTimestampMs": 1788242400000,
+		"endingTimestampMs": 1795499940000,
+		"hashTags": [
+			"footballplaydoit",
+			"playdoit"
+		]
+	},
+	"BF-16538_Playdoit_Hashmoji_Sep-Nov": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16538_Playdoit_Hashmoji_Sep-Nov/BF-16538_Playdoit_Hashmoji_Sep-Nov.png",
+		"startingTimestampMs": 1788242400000,
+		"endingTimestampMs": 1795499940000,
+		"hashTags": [
+			"pagoanticipadoplaydoit",
+			"survivorplaydoit",
+			"viernesdebonosplaydoit"
+		]
 	}
 }
