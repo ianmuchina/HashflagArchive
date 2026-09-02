@@ -179131,5 +179131,13 @@
 			"survivorplaydoit",
 			"viernesdebonosplaydoit"
 		]
+	},
+	"PLHashmojisCrystalPalace2026v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PLHashmojisCrystalPalace2026v3/PLHashmojisCrystalPalace2026v3.png",
+		"startingTimestampMs": 1788321600000,
+		"endingTimestampMs": 1812254400000,
+		"hashTags": [
+			"cpfc"
+		]
 	}
 }
