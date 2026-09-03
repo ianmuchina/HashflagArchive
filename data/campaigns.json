@@ -179139,5 +179139,13 @@
 		"hashTags": [
 			"cpfc"
 		]
+	},
+	"WWESNMESeptember2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWESNMESeptember2026/WWESNMESeptember2026.png",
+		"startingTimestampMs": 1788408000000,
+		"endingTimestampMs": 1788753540000,
+		"hashTags": [
+			"snme"
+		]
 	}
 }
