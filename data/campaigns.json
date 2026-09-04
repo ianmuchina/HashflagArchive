@@ -179147,5 +179147,17 @@
 		"hashTags": [
 			"snme"
 		]
+	},
+	"BF-16481_Bitget_Hashmoji_2026_Q3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16481_Bitget_Hashmoji_2026_Q3/BF-16481_Bitget_Hashmoji_2026_Q3.png",
+		"startingTimestampMs": 1788537600000,
+		"endingTimestampMs": 1796399940000,
+		"hashTags": [
+			"bitget",
+			"bitgetarchimedes'",
+			"bitgettradfi",
+			"bitgetturns8",
+			"bitgetuex"
+		]
 	}
 }

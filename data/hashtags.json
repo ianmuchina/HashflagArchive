@@ -99722,7 +99722,8 @@
 		"BF-14992_Bitget_Hashmoji_Q4_2025_Q1_2026_Ext",
 		"BF-15586_Bitget_Hashmoji_2026_Q1",
 		"BF-15586_Bitget_Hashmoji_2026_Q1_v2",
-		"Bitget_Hashmoji_2026_Q2_BF-15945"
+		"Bitget_Hashmoji_2026_Q2_BF-15945",
+		"BF-16481_Bitget_Hashmoji_2026_Q3"
 	],
 	"bitget5thanniversary": [
 		"Bitget_Anniversary_Campaign_2023_Hashmoji",
@@ -117974,7 +117975,8 @@
 	"bitgettradfi": [
 		"BF-15586_Bitget_Hashmoji_2026_Q1",
 		"BF-15586_Bitget_Hashmoji_2026_Q1_v2",
-		"Bitget_Hashmoji_2026_Q2_BF-15945"
+		"Bitget_Hashmoji_2026_Q2_BF-15945",
+		"BF-16481_Bitget_Hashmoji_2026_Q3"
 	],
 	"mellow_dear_us": [
 		"BF-15603_ensemble_stars_March2026_Emoji_BrandedLike_during",
@@ -118635,7 +118637,8 @@
 		"Bitget_Hashmoji_2026_Q2_BF-15945"
 	],
 	"bitgetuex": [
-		"Bitget_Hashmoji_2026_Q2_BF-15945"
+		"Bitget_Hashmoji_2026_Q2_BF-15945",
+		"BF-16481_Bitget_Hashmoji_2026_Q3"
 	],
 	"moofest": [
 		"BF-16023_Hashmoji_Production_Moomoo_v2"
@@ -119735,5 +119738,11 @@
 	],
 	"cpfc": [
 		"PLHashmojisCrystalPalace2026v3"
+	],
+	"bitgetarchimedes'": [
+		"BF-16481_Bitget_Hashmoji_2026_Q3"
+	],
+	"bitgetturns8": [
+		"BF-16481_Bitget_Hashmoji_2026_Q3"
 	]
 }
