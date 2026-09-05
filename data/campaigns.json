@@ -179159,5 +179159,24 @@
 			"bitgetturns8",
 			"bitgetuex"
 		]
+	},
+	"BF-16521_CJOliveyoung_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16521_CJOliveyoung_Hashmoji/BF-16521_CJOliveyoung_Hashmoji.png",
+		"startingTimestampMs": 1788620400000,
+		"endingTimestampMs": 1790780340000,
+		"hashTags": [
+			"올리브영",
+			"올리브영x산리오",
+			"올리브영산리오에디션",
+			"올영산리오"
+		]
+	},
+	"BF-16521_CJOliveyoung_Hashfetti-Hashmoji_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16521_CJOliveyoung_Hashfetti-Hashmoji_before/BF-16521_CJOliveyoung_Hashfetti-Hashmoji_before.png",
+		"startingTimestampMs": 1788620400000,
+		"endingTimestampMs": 1789052340000,
+		"hashTags": [
+			"올리브영산리오콜라보"
+		]
 	}
 }
