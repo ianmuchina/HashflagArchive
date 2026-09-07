@@ -179178,5 +179178,56 @@
 		"hashTags": [
 			"올리브영산리오콜라보"
 		]
+	},
+	"WWEAAATriplemania2026v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWEAAATriplemania2026v2/WWEAAATriplemania2026v2.png",
+		"startingTimestampMs": 1788753600000,
+		"endingTimestampMs": 1789358340000,
+		"hashTags": [
+			"aaatriplemania"
+		]
+	},
+	"Paramount_HOTB_2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramount_HOTB_2026/Paramount_HOTB_2026.png",
+		"startingTimestampMs": 1788764400000,
+		"endingTimestampMs": 1796543940000,
+		"hashTags": [
+			"coraçāoselvagem ",
+			"eisernewildnis",
+			"elcorazóndelabestia",
+			"enelcorazóndelabestia",
+			"heartofthebeast",
+			"heartofthebeastmovie",
+			"hotb",
+			"nelprofondoselvaggio",
+			"wsercudziczy",
+			"ハートオブビースト",
+			"野兽之心 ",
+			"하트오브비스트"
+		]
+	},
+	"BF-16571_Huawei_Mate-XT2_Hashmoji_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16571_Huawei_Mate-XT2_Hashmoji_v2/BF-16571_Huawei_Mate-XT2_Hashmoji_v2.png",
+		"startingTimestampMs": 1788750000000,
+		"endingTimestampMs": 1791341940000,
+		"hashTags": [
+			"harmonyos",
+			"huawei",
+			"logicfolding",
+			"matext2",
+			"unfoldextraordinary"
+		]
+	},
+	"BF-16397_MEXC_Hashmoji_Q2_26_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16397_MEXC_Hashmoji_Q2_26_v2/BF-16397_MEXC_Hashmoji_Q2_26_v2.png",
+		"startingTimestampMs": 1788750420000,
+		"endingTimestampMs": 1793836740000,
+		"hashTags": [
+			"mexc",
+			"mexc0fee",
+			"mexceventrocks",
+			"mexcmize",
+			"opportunitycompass"
+		]
 	}
 }

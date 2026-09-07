@@ -114206,19 +114206,22 @@
 		"BF-13827_MEXC_Hashmoji2025",
 		"MEXC_Hashmoji_Q3_25",
 		"BF-15700_MEXC_Hashmoji_Q2_26",
-		"BF-16397_MEXC_Hashmoji_Q2_26"
+		"BF-16397_MEXC_Hashmoji_Q2_26",
+		"BF-16397_MEXC_Hashmoji_Q2_26_v2"
 	],
 	"mexc0fee": [
 		"BF-13827_MEXC_Hashmoji2025",
 		"MEXC_Hashmoji_Q3_25",
 		"BF-15700_MEXC_Hashmoji_Q2_26",
-		"BF-16397_MEXC_Hashmoji_Q2_26"
+		"BF-16397_MEXC_Hashmoji_Q2_26",
+		"BF-16397_MEXC_Hashmoji_Q2_26_v2"
 	],
 	"mexceventrocks": [
 		"BF-13827_MEXC_Hashmoji2025",
 		"MEXC_Hashmoji_Q3_25",
 		"BF-15700_MEXC_Hashmoji_Q2_26",
-		"BF-16397_MEXC_Hashmoji_Q2_26"
+		"BF-16397_MEXC_Hashmoji_Q2_26",
+		"BF-16397_MEXC_Hashmoji_Q2_26_v2"
 	],
 	"mexclisting": [
 		"BF-13827_MEXC_Hashmoji2025"
@@ -118189,7 +118192,8 @@
 	],
 	"mexcmize": [
 		"BF-15700_MEXC_Hashmoji_Q2_26",
-		"BF-16397_MEXC_Hashmoji_Q2_26"
+		"BF-16397_MEXC_Hashmoji_Q2_26",
+		"BF-16397_MEXC_Hashmoji_Q2_26_v2"
 	],
 	"abema10周年": [
 		"BF-15730_ABEMA_18ce549twrx_Hashmoji_20260411-20260710_ABEMA10th"
@@ -119759,5 +119763,62 @@
 	],
 	"올영산리오": [
 		"BF-16521_CJOliveyoung_Hashmoji"
+	],
+	"aaatriplemania": [
+		"WWEAAATriplemania2026v2"
+	],
+	"coraçāoselvagem ": [
+		"Paramount_HOTB_2026"
+	],
+	"eisernewildnis": [
+		"Paramount_HOTB_2026"
+	],
+	"elcorazóndelabestia": [
+		"Paramount_HOTB_2026"
+	],
+	"enelcorazóndelabestia": [
+		"Paramount_HOTB_2026"
+	],
+	"harmonyos": [
+		"BF-16571_Huawei_Mate-XT2_Hashmoji_v2"
+	],
+	"heartofthebeast": [
+		"Paramount_HOTB_2026"
+	],
+	"heartofthebeastmovie": [
+		"Paramount_HOTB_2026"
+	],
+	"hotb": [
+		"Paramount_HOTB_2026"
+	],
+	"huawei": [
+		"BF-16571_Huawei_Mate-XT2_Hashmoji_v2"
+	],
+	"logicfolding": [
+		"BF-16571_Huawei_Mate-XT2_Hashmoji_v2"
+	],
+	"matext2": [
+		"BF-16571_Huawei_Mate-XT2_Hashmoji_v2"
+	],
+	"nelprofondoselvaggio": [
+		"Paramount_HOTB_2026"
+	],
+	"opportunitycompass": [
+		"BF-16397_MEXC_Hashmoji_Q2_26_v2"
+	],
+	"unfoldextraordinary": [
+		"BF-16571_Huawei_Mate-XT2_Hashmoji_v2"
+	],
+	"wsercudziczy": [
+		"Paramount_HOTB_2026"
+	],
+	"ハートオブビースト": [
+		"Paramount_HOTB_2026"
+	],
+	"野兽之心 ": [
+		"Paramount_HOTB_2026"
+	],
+	"하트오브비스트": [
+		"Paramount_HOTB_2026"
 	]
 }
