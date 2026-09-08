@@ -179229,5 +179229,13 @@
 			"mexcmize",
 			"opportunitycompass"
 		]
+	},
+	"BF-16482_BlitzwayMusic_hashfetti-hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16482_BlitzwayMusic_hashfetti-hashmoji_after/BF-16482_BlitzwayMusic_hashfetti-hashmoji_after.png",
+		"startingTimestampMs": 1788879600000,
+		"endingTimestampMs": 1790780400000,
+		"hashTags": [
+			"도경수와_따라따따따라따라"
+		]
 	}
 }
