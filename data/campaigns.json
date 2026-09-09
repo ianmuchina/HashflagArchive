@@ -179246,5 +179246,13 @@
 			"coys",
 			"thfc"
 		]
+	},
+	"Apple_Event_2026_Aug_Sep_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Apple_Event_2026_Aug_Sep_V2/Apple_Event_2026_Aug_Sep_V2.png",
+		"startingTimestampMs": 1788825600000,
+		"endingTimestampMs": 1788935400000,
+		"hashTags": [
+			"appleevent"
+		]
 	}
 }
