@@ -3638,7 +3638,8 @@
 		"BF-14423_SeptAppleEvent_Hashmoji",
 		"BF-14423_SeptAppleEvent_Hashmoji_v2",
 		"Apple_Event_2026_Aug_Sep",
-		"Apple_Event_2026_Aug_Sep_V2"
+		"Apple_Event_2026_Aug_Sep_V2",
+		"AppleEvent_CustomGlobal2026"
 	],
 	"applepayでも": [
 		"Mastercard_JP_Wave_2021"
@@ -119828,5 +119829,8 @@
 	],
 	"thfc": [
 		"PLHashmojisTottenham2026"
+	],
+	"apple event": [
+		"AppleEvent_CustomGlobal2026"
 	]
 }

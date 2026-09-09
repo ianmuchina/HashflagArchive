@@ -179254,5 +179254,14 @@
 		"hashTags": [
 			"appleevent"
 		]
+	},
+	"AppleEvent_CustomGlobal2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AppleEvent_CustomGlobal2026/AppleEvent_CustomGlobal2026.png",
+		"startingTimestampMs": 1788940800000,
+		"endingTimestampMs": 1789023600000,
+		"hashTags": [
+			"apple event",
+			"appleevent"
+		]
 	}
 }
