@@ -179263,5 +179263,13 @@
 			"apple event",
 			"appleevent"
 		]
+	},
+	"UniversityofTexasAthletics2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UniversityofTexasAthletics2026/UniversityofTexasAthletics2026.png",
+		"startingTimestampMs": 1788926400000,
+		"endingTimestampMs": 1801454400000,
+		"hashTags": [
+			"hookem"
+		]
 	}
 }
