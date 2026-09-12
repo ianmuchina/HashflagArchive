@@ -179299,5 +179299,16 @@
 		"hashTags": [
 			"df26"
 		]
+	},
+	"BF-16523_Meiji_Milk_chocolate_2026_Milk_chocolate_anniversary_Hashtag": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16523_Meiji_Milk_chocolate_2026_Milk_chocolate_anniversary_Hashtag/BF-16523_Meiji_Milk_chocolate_2026_Milk_chocolate_anniversary_Hashtag.png",
+		"startingTimestampMs": 1789225200000,
+		"endingTimestampMs": 1797346740000,
+		"hashTags": [
+			"チョコレートは明治",
+			"明治ミルクチョコレート",
+			"明治ミルクチョコレート100周年",
+			"明治ミルクチョコレート発売100周年"
+		]
 	}
 }

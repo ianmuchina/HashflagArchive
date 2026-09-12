@@ -77673,7 +77673,8 @@
 	],
 	"チョコレートは明治": [
 		"Meiji_Valentines_Day_2022",
-		"Meiji_Valentines_Day_2022_extend"
+		"Meiji_Valentines_Day_2022_extend",
+		"BF-16523_Meiji_Milk_chocolate_2026_Milk_chocolate_anniversary_Hashtag"
 	],
 	"チーズえんがちょ": [
 		"DisneyPlus_WimpyKid_CheeseTouch_2021_V2",
@@ -82400,7 +82401,8 @@
 	],
 	"明治ミルクチョコレート": [
 		"Meiji_Valentines_Day_2022",
-		"Meiji_Valentines_Day_2022_extend"
+		"Meiji_Valentines_Day_2022_extend",
+		"BF-16523_Meiji_Milk_chocolate_2026_Milk_chocolate_anniversary_Hashtag"
 	],
 	"明石にゃ": [
 		"Azurlren3years_2020"
@@ -119844,5 +119846,11 @@
 	],
 	"df26": [
 		"BF-16589_Salesforce_Dreamforce_2026"
+	],
+	"明治ミルクチョコレート100周年": [
+		"BF-16523_Meiji_Milk_chocolate_2026_Milk_chocolate_anniversary_Hashtag"
+	],
+	"明治ミルクチョコレート発売100周年": [
+		"BF-16523_Meiji_Milk_chocolate_2026_Milk_chocolate_anniversary_Hashtag"
 	]
 }
