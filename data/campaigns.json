@@ -179340,5 +179340,80 @@
 			"nct127",
 			"nct127_blingy"
 		]
+	},
+	"Disney_Whalefall_2026_V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Whalefall_2026_V2/Disney_Whalefall_2026_V2.png",
+		"startingTimestampMs": 1789369200000,
+		"endingTimestampMs": 1797145140000,
+		"hashTags": [
+			"aquedadabaleia",
+			"banginiokritimas",
+			"bálnahullás",
+			"englouti",
+			"pádveľryby",
+			"udubinama",
+			"upadekwieloryba",
+			"vglobinah",
+			"водлабочините",
+			"китвотьмеглубин",
+			"киттұңғиықтүнегінде",
+			"נפילת הלוויתן",
+			"クジラに落ちた男",
+			"鲸口脱险",
+			"웨일폴고래에먹힌남자"
+		]
+	},
+	"Disney_Whalefall_2026_V1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Whalefall_2026_V1/Disney_Whalefall_2026_V1.png",
+		"startingTimestampMs": 1789369200000,
+		"endingTimestampMs": 1797145140000,
+		"hashTags": [
+			"aufonddelabaleine",
+			"dentrodabaleia",
+			"englouti",
+			"hπτώσητηςφάλαινας",
+			"inthewhale",
+			"stuckinawhale",
+			"swallowedbyawhale",
+			"udubinama",
+			"whalefall",
+			"whalefallmovie",
+			"вдълбините",
+			"ვეშაპისიღრმისწყვდიადში",
+			"鯨獄逃生whalefall",
+			"鲸口脱险"
+		]
+	},
+	"Disney_Whalefall_2026_V3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Whalefall_2026_V3/Disney_Whalefall_2026_V3.png",
+		"startingTimestampMs": 1789369200000,
+		"endingTimestampMs": 1791874740000,
+		"hashTags": [
+			"balinadüşüşü",
+			"падіннякита",
+			"سقوط الحوت",
+			"逃出鯨吞"
+		]
+	},
+	"Paramount_StreetFighter_2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Paramount_StreetFighter_2026/Paramount_StreetFighter_2026.png",
+		"startingTimestampMs": 1789369200000,
+		"endingTimestampMs": 1797231540000,
+		"hashTags": [
+			"hadoken",
+			"hadouken",
+			"streetfighter",
+			"streetfighterfilm",
+			"streetfighterid",
+			"streetfighterlapelicula",
+			"streetfighterlapelícula",
+			"streetfighterlefilm",
+			"streetfightermovie",
+			"streetfightermoviemy",
+			"ストリートファイターザムービー",
+			"快打旋風",
+			"街霸",
+			"스트리트파이터"
+		]
 	}
 }
