@@ -7161,7 +7161,8 @@
 		"Binance_Hashmoji_Q3_25",
 		"BF-14706_Binance_Hashmoji_Q4_25",
 		"BF-15223_Binance_Hashmoji_Q1_26",
-		"Binance_Hashmoji_Q2_26_BF-15787"
+		"Binance_Hashmoji_Q2_26_BF-15787",
+		"BF-16544_Binance_Hashmoji_Q326"
 	],
 	"binance10m": [
 		"Binance_10M_Follower_Nov_2022"
@@ -7174,7 +7175,8 @@
 		"BF-9426_Binance_Q3_Campaign_Emoji_202310_v2",
 		"BF-12395_Binance_Hashfetti_during",
 		"BF-12395_Binance_Hashmoji_after_v2",
-		"BF-14706_Binance_Hashmoji_Q4_25"
+		"BF-14706_Binance_Hashmoji_Q4_25",
+		"BF-16544_Binance_Hashmoji_Q326"
 	],
 	"binancechristmas": [
 		"Binance_Festival_Campaign_Oct_2022_add",
@@ -7817,7 +7819,8 @@
 		"Binance_Hashmoji_Q3_25",
 		"BF-14706_Binance_Hashmoji_Q4_25",
 		"BF-15223_Binance_Hashmoji_Q1_26",
-		"Binance_Hashmoji_Q2_26_BF-15787"
+		"Binance_Hashmoji_Q2_26_BF-15787",
+		"BF-16544_Binance_Hashmoji_Q326"
 	],
 	"bng": [
 		"ICCT20WorldCup_2021_BNG"
@@ -110629,7 +110632,8 @@
 		"BF-12395_Binance_Hashmoji_after_v2",
 		"BF-13015_Binance_Hashmoji_Q1_2025",
 		"BF-15223_Binance_Hashmoji_Q1_26",
-		"Binance_Hashmoji_Q2_26_BF-15787"
+		"Binance_Hashmoji_Q2_26_BF-15787",
+		"BF-16544_Binance_Hashmoji_Q326"
 	],
 	"tamkeen_plus_card": [
 		"BF-12290_AlBiladBank_Hashmoji2024"
@@ -119852,5 +119856,11 @@
 	],
 	"明治ミルクチョコレート発売100周年": [
 		"BF-16523_Meiji_Milk_chocolate_2026_Milk_chocolate_anniversary_Hashtag"
+	],
+	"beabadoobee\"\"beabadoobeepylon": [
+		"BeabadoobeePylon"
+	],
+	"insidebinance": [
+		"BF-16544_Binance_Hashmoji_Q326"
 	]
 }

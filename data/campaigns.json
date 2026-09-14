@@ -179310,5 +179310,25 @@
 			"明治ミルクチョコレート100周年",
 			"明治ミルクチョコレート発売100周年"
 		]
+	},
+	"BeabadoobeePylon": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BeabadoobeePylon/BeabadoobeePylon.png",
+		"startingTimestampMs": 1789344000000,
+		"endingTimestampMs": 1792022400000,
+		"hashTags": [
+			"beabadoobee\"\"beabadoobeepylon"
+		]
+	},
+	"BF-16544_Binance_Hashmoji_Q326": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16544_Binance_Hashmoji_Q326/BF-16544_Binance_Hashmoji_Q326.png",
+		"startingTimestampMs": 1789344000000,
+		"endingTimestampMs": 1797292740000,
+		"hashTags": [
+			"binance",
+			"binanceangels",
+			"binanceblockchainweek",
+			"bnb",
+			"insidebinance"
+		]
 	}
 }
