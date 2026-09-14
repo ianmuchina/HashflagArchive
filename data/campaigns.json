@@ -179415,5 +179415,14 @@
 			"街霸",
 			"스트리트파이터"
 		]
+	},
+	"BeabadoobeeAlbum": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BeabadoobeeAlbum/BeabadoobeeAlbum.png",
+		"startingTimestampMs": 1789344000000,
+		"endingTimestampMs": 1792022400000,
+		"hashTags": [
+			"beabadoobee",
+			"beabadoobeepylon"
+		]
 	}
 }
