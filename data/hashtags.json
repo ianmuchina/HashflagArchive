@@ -38720,7 +38720,8 @@
 	],
 	"moomooapp": [
 		"Moomoo_Campaign_Sept_2022",
-		"BF-16023_Hashmoji_Production_Moomoo_v2"
+		"BF-16023_Hashmoji_Production_Moomoo_v2",
+		"BF-16579_0915_moomoo_Hashmoji"
 	],
 	"moomoocashplus": [
 		"Moomoo_Campaign_Sept_2022"
@@ -118662,13 +118663,16 @@
 		"BF-16023_Hashmoji_Production_Moomoo_v2"
 	],
 	"moomoo": [
-		"BF-16023_Hashmoji_Production_Moomoo_v2"
+		"BF-16023_Hashmoji_Production_Moomoo_v2",
+		"BF-16579_0915_moomoo_Hashmoji"
 	],
 	"moomooengine": [
-		"BF-16023_Hashmoji_Production_Moomoo_v2"
+		"BF-16023_Hashmoji_Production_Moomoo_v2",
+		"BF-16579_0915_moomoo_Hashmoji"
 	],
 	"moomootrade": [
-		"BF-16023_Hashmoji_Production_Moomoo_v2"
+		"BF-16023_Hashmoji_Production_Moomoo_v2",
+		"BF-16579_0915_moomoo_Hashmoji"
 	],
 	"sparklingjubiliee": [
 		"TDR_PR_June_2026_Emoji_BF-15942"
@@ -120004,5 +120008,8 @@
 	],
 	"beabadoobeepylon": [
 		"BeabadoobeeAlbum"
+	],
+	"moomoocashtag": [
+		"BF-16579_0915_moomoo_Hashmoji"
 	]
 }

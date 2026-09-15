@@ -179424,5 +179424,17 @@
 			"beabadoobee",
 			"beabadoobeepylon"
 		]
+	},
+	"BF-16579_0915_moomoo_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16579_0915_moomoo_Hashmoji/BF-16579_0915_moomoo_Hashmoji.png",
+		"startingTimestampMs": 1789480800000,
+		"endingTimestampMs": 1797346740000,
+		"hashTags": [
+			"moomoo",
+			"moomooapp",
+			"moomoocashtag",
+			"moomooengine",
+			"moomootrade"
+		]
 	}
 }
