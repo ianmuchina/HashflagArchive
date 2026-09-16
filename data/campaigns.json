@@ -179436,5 +179436,17 @@
 			"moomooengine",
 			"moomootrade"
 		]
+	},
+	"BF-16397_MEXC_Hashmoji_Q2_26_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16397_MEXC_Hashmoji_Q2_26_v3/BF-16397_MEXC_Hashmoji_Q2_26_v3.png",
+		"startingTimestampMs": 1789545360000,
+		"endingTimestampMs": 1793836740000,
+		"hashTags": [
+			"mexc",
+			"mexc0fee",
+			"mexceventrocks",
+			"opportunitycompass",
+			"tradingtakestwo"
+		]
 	}
 }

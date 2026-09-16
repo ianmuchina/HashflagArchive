@@ -114220,21 +114220,24 @@
 		"MEXC_Hashmoji_Q3_25",
 		"BF-15700_MEXC_Hashmoji_Q2_26",
 		"BF-16397_MEXC_Hashmoji_Q2_26",
-		"BF-16397_MEXC_Hashmoji_Q2_26_v2"
+		"BF-16397_MEXC_Hashmoji_Q2_26_v2",
+		"BF-16397_MEXC_Hashmoji_Q2_26_v3"
 	],
 	"mexc0fee": [
 		"BF-13827_MEXC_Hashmoji2025",
 		"MEXC_Hashmoji_Q3_25",
 		"BF-15700_MEXC_Hashmoji_Q2_26",
 		"BF-16397_MEXC_Hashmoji_Q2_26",
-		"BF-16397_MEXC_Hashmoji_Q2_26_v2"
+		"BF-16397_MEXC_Hashmoji_Q2_26_v2",
+		"BF-16397_MEXC_Hashmoji_Q2_26_v3"
 	],
 	"mexceventrocks": [
 		"BF-13827_MEXC_Hashmoji2025",
 		"MEXC_Hashmoji_Q3_25",
 		"BF-15700_MEXC_Hashmoji_Q2_26",
 		"BF-16397_MEXC_Hashmoji_Q2_26",
-		"BF-16397_MEXC_Hashmoji_Q2_26_v2"
+		"BF-16397_MEXC_Hashmoji_Q2_26_v2",
+		"BF-16397_MEXC_Hashmoji_Q2_26_v3"
 	],
 	"mexclisting": [
 		"BF-13827_MEXC_Hashmoji2025"
@@ -119827,7 +119830,8 @@
 		"Paramount_HOTB_2026"
 	],
 	"opportunitycompass": [
-		"BF-16397_MEXC_Hashmoji_Q2_26_v2"
+		"BF-16397_MEXC_Hashmoji_Q2_26_v2",
+		"BF-16397_MEXC_Hashmoji_Q2_26_v3"
 	],
 	"unfoldextraordinary": [
 		"BF-16571_Huawei_Mate-XT2_Hashmoji_v2"
@@ -120011,5 +120015,8 @@
 	],
 	"moomoocashtag": [
 		"BF-16579_0915_moomoo_Hashmoji"
+	],
+	"tradingtakestwo": [
+		"BF-16397_MEXC_Hashmoji_Q2_26_v3"
 	]
 }
