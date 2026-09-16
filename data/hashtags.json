@@ -39336,7 +39336,8 @@
 		"Paramount_VMAs_Jul_2022",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Before",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_During",
-		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2"
+		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2",
+		"2026MTVVMAs"
 	],
 	"mtvwednesdays": [
 		"MTV_April_2021"
@@ -64640,7 +64641,8 @@
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_During",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2",
 		"VMAsEmoji2024",
-		"MTVVMAs2025"
+		"MTVVMAs2025",
+		"2026MTVVMAs"
 	],
 	"vmas": [
 		"MTV_VMAs_2021",
@@ -64650,7 +64652,8 @@
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_Hashfetti",
 		"Paramount_MTV_VMAs_Hashmoji_Ent_US_After_V2",
 		"VMAsEmoji2024",
-		"MTVVMAs2025"
+		"MTVVMAs2025",
+		"2026MTVVMAs"
 	],
 	"vmastancam": [
 		"2020_VMAs_StanCam"
@@ -120018,5 +120021,23 @@
 	],
 	"tradingtakestwo": [
 		"BF-16397_MEXC_Hashmoji_Q2_26_v3"
+	],
+	"downtime": [
+		"NetflixJP_18ce54ua4fy_Hashmoji_202600917-20261215_DT_BF-16462"
+	],
+	"plasticbeauty": [
+		"NetflixJP_18ce54ua4fy_Hashmoji_202600917-20261215_DT_BF-16462"
+	],
+	"vmas2026": [
+		"2026MTVVMAs"
+	],
+	"ダウンタイムはネトフリ": [
+		"NetflixJP_18ce54ua4fy_Hashmoji_202600917-20261215_DT_BF-16462"
+	],
+	"ダウンタイム中": [
+		"NetflixJP_18ce54ua4fy_Hashmoji_202600917-20261215_DT_BF-16462"
+	],
+	"ビフォーには戻れない": [
+		"NetflixJP_18ce54ua4fy_Hashmoji_202600917-20261215_DT_BF-16462"
 	]
 }

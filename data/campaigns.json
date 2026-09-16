@@ -179448,5 +179448,28 @@
 			"opportunitycompass",
 			"tradingtakestwo"
 		]
+	},
+	"NetflixJP_18ce54ua4fy_Hashmoji_202600917-20261215_DT_BF-16462": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NetflixJP_18ce54ua4fy_Hashmoji_202600917-20261215_DT_BF-16462/NetflixJP_18ce54ua4fy_Hashmoji_202600917-20261215_DT_BF-16462.png",
+		"startingTimestampMs": 1789570800000,
+		"endingTimestampMs": 1797346740000,
+		"hashTags": [
+			"downtime",
+			"plasticbeauty",
+			"ダウンタイムはネトフリ",
+			"ダウンタイム中",
+			"ビフォーには戻れない"
+		]
+	},
+	"2026MTVVMAs": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2026MTVVMAs/2026MTVVMAs.png",
+		"startingTimestampMs": 1789531200000,
+		"endingTimestampMs": 1791691140000,
+		"hashTags": [
+			"mtvvmas",
+			"vma",
+			"vmas",
+			"vmas2026"
+		]
 	}
 }
