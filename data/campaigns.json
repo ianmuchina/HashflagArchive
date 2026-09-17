@@ -179471,5 +179471,17 @@
 			"vmas",
 			"vmas2026"
 		]
+	},
+	"BF-16543_PixAI_Hashmoji_2026_Q3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16543_PixAI_Hashmoji_2026_Q3/BF-16543_PixAI_Hashmoji_2026_Q3.png",
+		"startingTimestampMs": 1789599600000,
+		"endingTimestampMs": 1797461940000,
+		"hashTags": [
+			"pixai",
+			"pixai4th",
+			"pixai4周年",
+			"pixaimusicjam",
+			"pixaitsubakiv3"
+		]
 	}
 }
