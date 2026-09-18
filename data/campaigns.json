@@ -179491,5 +179491,16 @@
 		"hashTags": [
 			"gametime"
 		]
+	},
+	"TokyoGirlsCollection2026AW": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TokyoGirlsCollection2026AW/TokyoGirlsCollection2026AW.png",
+		"startingTimestampMs": 1789700400000,
+		"endingTimestampMs": 1793415540000,
+		"hashTags": [
+			"tgc",
+			"tokyogirlscollection",
+			"マイナビtgc",
+			"東京ガールズコレクション"
+		]
 	}
 }
