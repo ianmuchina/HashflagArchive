@@ -179502,5 +179502,29 @@
 			"マイナビtgc",
 			"東京ガールズコレクション"
 		]
+	},
+	"ABEMA_Hashmoji_202600919-20261217_kusuriya_2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ABEMA_Hashmoji_202600919-20261217_kusuriya_2026/ABEMA_Hashmoji_202600919-20261217_kusuriya_2026.png",
+		"startingTimestampMs": 1789743600000,
+		"endingTimestampMs": 1797519540000,
+		"hashTags": [
+			"アベマで薬屋のひとりごと",
+			"アベマで薬屋全話無料",
+			"猫猫",
+			"薬屋",
+			"薬屋のひとりごと"
+		]
+	},
+	"BF-16561_Amazon_PrimeVideo_2026_ChainsawMan_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16561_Amazon_PrimeVideo_2026_ChainsawMan_Hashmoji/BF-16561_Amazon_PrimeVideo_2026_ChainsawMan_Hashmoji.png",
+		"startingTimestampMs": 1789743600000,
+		"endingTimestampMs": 1797778740000,
+		"hashTags": [
+			"アマプラでレゼ篇独占",
+			"チェンソーマン",
+			"プライムビデオでレゼ篇独占",
+			"レゼ篇最強最高",
+			"レゼ篇独占"
+		]
 	}
 }
