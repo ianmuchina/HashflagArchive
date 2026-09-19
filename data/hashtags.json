@@ -40933,7 +40933,8 @@
 		"NFL_2021_2022",
 		"NFL_KickOff_Hashtags_2023_NFL",
 		"NFL_Logo_2024",
-		"NFL_Season_2024"
+		"NFL_Season_2024",
+		"2026FootballCustomLikeEvergreen"
 	],
 	"nflafricatouchdown": [
 		"NFLAfricaTouchdown"
@@ -120065,7 +120066,8 @@
 	],
 	"gametime": [
 		"InternalGameTime2026",
-		"FootballCustomLikeActivationv2"
+		"FootballCustomLikeActivationv2",
+		"2026FootballCustomLikeEvergreen"
 	],
 	"アベマで薬屋のひとりごと": [
 		"ABEMA_Hashmoji_202600919-20261217_kusuriya_2026"
@@ -120089,21 +120091,42 @@
 		"Amazon_PrimeVideo_2026_ChainsawMan_Hashfetti_v2"
 	],
 	"college football": [
-		"FootballCustomLikeActivationv2"
+		"FootballCustomLikeActivationv2",
+		"2026FootballCustomLikeEvergreen"
 	],
 	"field goal": [
-		"FootballCustomLikeActivationv2"
+		"FootballCustomLikeActivationv2",
+		"2026FootballCustomLikeEvergreen"
 	],
 	"first down": [
-		"FootballCustomLikeActivationv2"
+		"FootballCustomLikeActivationv2",
+		"2026FootballCustomLikeEvergreen"
 	],
 	"quarterback": [
-		"FootballCustomLikeActivationv2"
+		"FootballCustomLikeActivationv2",
+		"2026FootballCustomLikeEvergreen"
 	],
 	"redzone": [
-		"FootballCustomLikeActivationv2"
+		"FootballCustomLikeActivationv2",
+		"2026FootballCustomLikeEvergreen"
 	],
 	"touchdown": [
-		"FootballCustomLikeActivationv2"
+		"FootballCustomLikeActivationv2",
+		"2026FootballCustomLikeEvergreen"
+	],
+	"cfb": [
+		"2026FootballCustomLikeEvergreen"
+	],
+	"kickoff": [
+		"2026FootballCustomLikeEvergreen"
+	],
+	"qb": [
+		"2026FootballCustomLikeEvergreen"
+	],
+	"running back": [
+		"2026FootballCustomLikeEvergreen"
+	],
+	"wide receiver": [
+		"2026FootballCustomLikeEvergreen"
 	]
 }

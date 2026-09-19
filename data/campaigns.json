@@ -179548,5 +179548,25 @@
 			"redzone",
 			"touchdown"
 		]
+	},
+	"2026FootballCustomLikeEvergreen": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2026FootballCustomLikeEvergreen/2026FootballCustomLikeEvergreen.png",
+		"startingTimestampMs": 1789689600000,
+		"endingTimestampMs": 1802736000000,
+		"hashTags": [
+			"cfb",
+			"college football",
+			"field goal",
+			"first down",
+			"gametime",
+			"kickoff",
+			"nfl",
+			"qb",
+			"quarterback",
+			"redzone",
+			"running back",
+			"touchdown",
+			"wide receiver"
+		]
 	}
 }
