@@ -179534,5 +179534,19 @@
 		"hashTags": [
 			"今日からプライムビデオでレゼ篇独占"
 		]
+	},
+	"FootballCustomLikeActivationv2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/FootballCustomLikeActivationv2/FootballCustomLikeActivationv2.png",
+		"startingTimestampMs": 1789689600000,
+		"endingTimestampMs": 1802649600000,
+		"hashTags": [
+			"college football",
+			"field goal",
+			"first down",
+			"gametime",
+			"quarterback",
+			"redzone",
+			"touchdown"
+		]
 	}
 }

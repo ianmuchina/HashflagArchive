@@ -120064,7 +120064,8 @@
 		"BF-16543_PixAI_Hashmoji_2026_Q3"
 	],
 	"gametime": [
-		"InternalGameTime2026"
+		"InternalGameTime2026",
+		"FootballCustomLikeActivationv2"
 	],
 	"アベマで薬屋のひとりごと": [
 		"ABEMA_Hashmoji_202600919-20261217_kusuriya_2026"
@@ -120086,5 +120087,23 @@
 	],
 	"今日からプライムビデオでレゼ篇独占": [
 		"Amazon_PrimeVideo_2026_ChainsawMan_Hashfetti_v2"
+	],
+	"college football": [
+		"FootballCustomLikeActivationv2"
+	],
+	"field goal": [
+		"FootballCustomLikeActivationv2"
+	],
+	"first down": [
+		"FootballCustomLikeActivationv2"
+	],
+	"quarterback": [
+		"FootballCustomLikeActivationv2"
+	],
+	"redzone": [
+		"FootballCustomLikeActivationv2"
+	],
+	"touchdown": [
+		"FootballCustomLikeActivationv2"
 	]
 }
