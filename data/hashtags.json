@@ -120067,7 +120067,8 @@
 	"gametime": [
 		"InternalGameTime2026",
 		"FootballCustomLikeActivationv2",
-		"2026FootballCustomLikeEvergreen"
+		"2026FootballCustomLikeEvergreen",
+		"2026FootballCustomLikeEvergreenv2"
 	],
 	"アベマで薬屋のひとりごと": [
 		"ABEMA_Hashmoji_202600919-20261217_kusuriya_2026"
@@ -120092,41 +120093,50 @@
 	],
 	"college football": [
 		"FootballCustomLikeActivationv2",
-		"2026FootballCustomLikeEvergreen"
+		"2026FootballCustomLikeEvergreen",
+		"2026FootballCustomLikeEvergreenv2"
 	],
 	"field goal": [
 		"FootballCustomLikeActivationv2",
-		"2026FootballCustomLikeEvergreen"
+		"2026FootballCustomLikeEvergreen",
+		"2026FootballCustomLikeEvergreenv2"
 	],
 	"first down": [
 		"FootballCustomLikeActivationv2",
-		"2026FootballCustomLikeEvergreen"
+		"2026FootballCustomLikeEvergreen",
+		"2026FootballCustomLikeEvergreenv2"
 	],
 	"quarterback": [
 		"FootballCustomLikeActivationv2",
-		"2026FootballCustomLikeEvergreen"
+		"2026FootballCustomLikeEvergreen",
+		"2026FootballCustomLikeEvergreenv2"
 	],
 	"redzone": [
 		"FootballCustomLikeActivationv2",
-		"2026FootballCustomLikeEvergreen"
+		"2026FootballCustomLikeEvergreen",
+		"2026FootballCustomLikeEvergreenv2"
 	],
 	"touchdown": [
 		"FootballCustomLikeActivationv2",
-		"2026FootballCustomLikeEvergreen"
+		"2026FootballCustomLikeEvergreen",
+		"2026FootballCustomLikeEvergreenv2"
 	],
 	"cfb": [
 		"2026FootballCustomLikeEvergreen"
 	],
 	"kickoff": [
-		"2026FootballCustomLikeEvergreen"
+		"2026FootballCustomLikeEvergreen",
+		"2026FootballCustomLikeEvergreenv2"
 	],
 	"qb": [
 		"2026FootballCustomLikeEvergreen"
 	],
 	"running back": [
-		"2026FootballCustomLikeEvergreen"
+		"2026FootballCustomLikeEvergreen",
+		"2026FootballCustomLikeEvergreenv2"
 	],
 	"wide receiver": [
-		"2026FootballCustomLikeEvergreen"
+		"2026FootballCustomLikeEvergreen",
+		"2026FootballCustomLikeEvergreenv2"
 	]
 }
