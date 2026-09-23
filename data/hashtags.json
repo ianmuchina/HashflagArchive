@@ -116221,7 +116221,8 @@
 	],
 	"trickcal": [
 		"BF-14630_Bilibili_Trickcal_Hashmoji_Butter_251003",
-		"Bilibili_hashmoji_for_Trickcal_BF-15625"
+		"Bilibili_hashmoji_for_Trickcal_BF-15625",
+		"_BF-16580_Trickcal_1st_Anniversary_branded_emoji_"
 	],
 	"もちほっペ": [
 		"BF-14631_Bilibili_Hashmoji"
@@ -116238,7 +116239,8 @@
 	"トリッカル": [
 		"BF-14631_Bilibili_HashfettiHashtag_before",
 		"BF-14631_Bilibili_HashfettiHashtag_after",
-		"Bilibili_hashmoji_for_Trickcal_BF-15625"
+		"Bilibili_hashmoji_for_Trickcal_BF-15625",
+		"_BF-16580_Trickcal_1st_Anniversary_branded_emoji_"
 	],
 	"トリッカルコミー": [
 		"BF-14631_Bilibili_Hashmoji"
@@ -120138,5 +120140,14 @@
 	"wide receiver": [
 		"2026FootballCustomLikeEvergreen",
 		"2026FootballCustomLikeEvergreenv2"
+	],
+	"もちほっぺ放送局": [
+		"_BF-16580_Trickcal_1st_Anniversary_branded_emoji_"
+	],
+	"ジョアン": [
+		"_BF-16580_Trickcal_1st_Anniversary_branded_emoji_"
+	],
+	"トリッカル1周年": [
+		"_BF-16580_Trickcal_1st_Anniversary_branded_emoji_"
 	]
 }
