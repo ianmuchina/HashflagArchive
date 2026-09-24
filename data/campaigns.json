@@ -179597,5 +179597,17 @@
 			"トリッカル",
 			"トリッカル1周年"
 		]
+	},
+	"Disney_Endgame_2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Endgame_2026/Disney_Endgame_2026.png",
+		"startingTimestampMs": 1790233200000,
+		"endingTimestampMs": 1796111940000,
+		"hashTags": [
+			"avengers",
+			"avengersassemble",
+			"avengersdoomsday",
+			"avengersendgameencore",
+			"endgame"
+		]
 	}
 }
