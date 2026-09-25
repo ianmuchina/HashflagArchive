@@ -75740,7 +75740,8 @@
 		"ABEMA_CyberAgent_Qatar_1_Nov_2022"
 	],
 	"アベンジャーズ": [
-		"MarvelStudios_WhatIF_2021_CaptainAmerica_Updated"
+		"MarvelStudios_WhatIF_2021_CaptainAmerica_Updated",
+		"Disney_Endgame_2026V2"
 	],
 	"アマゾン": [
 		"PrimeDay_2020_JP"
@@ -120182,5 +120183,17 @@
 	],
 	"미쳤넷": [
 		"BF-16603_Netflix_KR_Hashmoji"
+	],
+	"アベンジャーズアッセンブル": [
+		"Disney_Endgame_2026V2"
+	],
+	"アベンジャーズエンドゲームアンコール": [
+		"Disney_Endgame_2026V2"
+	],
+	"アベンジャーズドゥームズデイ": [
+		"Disney_Endgame_2026V2"
+	],
+	"エンドゲーム": [
+		"Disney_Endgame_2026V2"
 	]
 }

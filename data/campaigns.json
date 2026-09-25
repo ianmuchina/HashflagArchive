@@ -179640,5 +179640,17 @@
 		"hashTags": [
 			"넷플잔치"
 		]
+	},
+	"Disney_Endgame_2026V2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Disney_Endgame_2026V2/Disney_Endgame_2026V2.png",
+		"startingTimestampMs": 1790294400000,
+		"endingTimestampMs": 1796111940000,
+		"hashTags": [
+			"アベンジャーズ",
+			"アベンジャーズアッセンブル",
+			"アベンジャーズエンドゲームアンコール",
+			"アベンジャーズドゥームズデイ",
+			"エンドゲーム"
+		]
 	}
 }
