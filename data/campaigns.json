@@ -179621,5 +179621,24 @@
 			"求人ボックスと笑おう",
 			"求人ボックスも見ときませんか"
 		]
+	},
+	"BF-16603_Netflix_KR_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16603_Netflix_KR_Hashmoji/BF-16603_Netflix_KR_Hashmoji.png",
+		"startingTimestampMs": 1790348400000,
+		"endingTimestampMs": 1792940340000,
+		"hashTags": [
+			"netflixkorea10th",
+			"넷플릭스코리아10주년",
+			"넷플코10주년",
+			"미쳤넷"
+		]
+	},
+	"BF-16603_Netflix_KR_Hashfetti-Hashmoji_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16603_Netflix_KR_Hashfetti-Hashmoji_v2/BF-16603_Netflix_KR_Hashfetti-Hashmoji_v2.png",
+		"startingTimestampMs": 1790348400000,
+		"endingTimestampMs": 1792767540000,
+		"hashTags": [
+			"넷플잔치"
+		]
 	}
 }
