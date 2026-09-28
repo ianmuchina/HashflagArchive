@@ -99112,11 +99112,13 @@
 	],
 	"mga": [
 		"umusicjapan_MrsGREENAPPLE_July_2023",
-		"umusicjapan_MrsGREENAPPLE_July_2023_extended"
+		"umusicjapan_MrsGREENAPPLE_July_2023_extended",
+		"BF-16562_Universal_Music_LLC_AORINGOHUZIN_Sep_30_2026_Hashmoji_v2"
 	],
 	"mrsgreenapple": [
 		"umusicjapan_MrsGREENAPPLE_July_2023",
-		"umusicjapan_MrsGREENAPPLE_July_2023_extended"
+		"umusicjapan_MrsGREENAPPLE_July_2023_extended",
+		"BF-16562_Universal_Music_LLC_AORINGOHUZIN_Sep_30_2026_Hashmoji_v2"
 	],
 	"ミセス": [
 		"umusicjapan_MrsGREENAPPLE_July_2023",
@@ -120215,5 +120217,14 @@
 	],
 	"キングギドラ": [
 		"BF-16575_g_minus_zero_18ce55x5p9w_Hashmoji_202600928-20270130_godzila_v2"
+	],
+	"ミセス6枚目アルバムpops": [
+		"BF-16562_Universal_Music_LLC_AORINGOHUZIN_Sep_30_2026_Hashmoji_v2"
+	],
+	"ミセスpops": [
+		"BF-16562_Universal_Music_LLC_AORINGOHUZIN_Sep_30_2026_Hashmoji_v2"
+	],
+	"ミセス新アルバム": [
+		"BF-16562_Universal_Music_LLC_AORINGOHUZIN_Sep_30_2026_Hashmoji_v2"
 	]
 }
