@@ -179695,5 +179695,282 @@
 			"ミセスpops",
 			"ミセス新アルバム"
 		]
+	},
+	"NHLRegularSeason2627Capitals": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Capitals/NHLRegularSeason2627Capitals.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"allcaps"
+		]
+	},
+	"NHLRegularSeason2627Blackhawks": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Blackhawks/NHLRegularSeason2627Blackhawks.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"blackhawks"
+		]
+	},
+	"NHLRegularSeason2627Canucks": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Canucks/NHLRegularSeason2627Canucks.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"canucks"
+		]
+	},
+	"NHLRegularSeason2627Hurricanes": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Hurricanes/NHLRegularSeason2627Hurricanes.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"carolinaculture"
+		]
+	},
+	"NHLRegularSeason2627BlueJackets": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627BlueJackets/NHLRegularSeason2627BlueJackets.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"cbj"
+		]
+	},
+	"NHLRegularSeason2627Flames": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Flames/NHLRegularSeason2627Flames.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"flames"
+		]
+	},
+	"NHLRegularSeason2627Panthers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Panthers/NHLRegularSeason2627Panthers.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"flapanthers"
+		]
+	},
+	"MLBPostseason2026Cubs": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBPostseason2026Cubs/MLBPostseason2026Cubs.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"flythew"
+		]
+	},
+	"NHLRegularSeason2627Ducks": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Ducks/NHLRegularSeason2627Ducks.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"flytogether"
+		]
+	},
+	"NHLRegularSeason2627Avalanche": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Avalanche/NHLRegularSeason2627Avalanche.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"goavsgo"
+		]
+	},
+	"NHLRegularSeason2627Lightning": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Lightning/NHLRegularSeason2627Lightning.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"gobolts"
+		]
+	},
+	"NHLRegularSeason2627Canadiens": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Canadiens/NHLRegularSeason2627Canadiens.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"gohabsgo"
+		]
+	},
+	"NHLRegularSeason2627Jets": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Jets/NHLRegularSeason2627Jets.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"gojetsgo"
+		]
+	},
+	"NHLRegularSeason2627Kings": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Kings/NHLRegularSeason2627Kings.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"gokingsgo"
+		]
+	},
+	"NHLRegularSeason2627Senators": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Senators/NHLRegularSeason2627Senators.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"gosensgo"
+		]
+	},
+	"NHLRegularSeason2627Islanders": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Islanders/NHLRegularSeason2627Islanders.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"isles"
+		]
+	},
+	"NHLRegularSeason2627MapleLeafs": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627MapleLeafs/NHLRegularSeason2627MapleLeafs.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"leafs",
+			"passionneversleeps"
+		]
+	},
+	"NHLRegularSeason2627Sabres": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Sabres/NHLRegularSeason2627Sabres.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"letsgobuffalo",
+			"sabrehood"
+		]
+	},
+	"NHLRegularSeason2627Flyers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Flyers/NHLRegularSeason2627Flyers.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"letsgoflyers"
+		]
+	},
+	"NHLRegularSeason2627Oilers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Oilers/NHLRegularSeason2627Oilers.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"letsgooilers"
+		]
+	},
+	"NHLRegularSeason2627Penguins": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Penguins/NHLRegularSeason2627Penguins.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"letsgopens"
+		]
+	},
+	"NHLRegularSeason2627RedWings": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627RedWings/NHLRegularSeason2627RedWings.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"lgrw"
+		]
+	},
+	"NHLRegularSeason2627Wild": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Wild/NHLRegularSeason2627Wild.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"mnwild"
+		]
+	},
+	"NHLRegularSeason2627Bruins": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Bruins/NHLRegularSeason2627Bruins.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"nhlbruins"
+		]
+	},
+	"NHLRegularSeason2627Devils": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Devils/NHLRegularSeason2627Devils.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"njdevils"
+		]
+	},
+	"NHLRegularSeason2627Rangers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Rangers/NHLRegularSeason2627Rangers.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"nyr"
+		]
+	},
+	"NHLRegularSeason2627Predators": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Predators/NHLRegularSeason2627Predators.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"preds",
+			"smashville"
+		]
+	},
+	"MLBPostseason2026RedSox": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBPostseason2026RedSox/MLBPostseason2026RedSox.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"punchback",
+			"respondeduro"
+		]
+	},
+	"NHLRegularSeason2627Kraken": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Kraken/NHLRegularSeason2627Kraken.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"seakraken"
+		]
+	},
+	"NHLRegularSeason2627Sharks": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Sharks/NHLRegularSeason2627Sharks.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"sjsharks",
+			"turnitallteal"
+		]
+	},
+	"NHLRegularSeason2627Blues": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Blues/NHLRegularSeason2627Blues.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"stlblues"
+		]
+	},
+	"NHLRegularSeason2627Stars": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Stars/NHLRegularSeason2627Stars.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"texashockey"
+		]
+	},
+	"NHLRegularSeason2627Mammoth": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Mammoth/NHLRegularSeason2627Mammoth.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"tusksup"
+		]
+	},
+	"NHLRegularSeason2627Knights": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Knights/NHLRegularSeason2627Knights.png",
+		"startingTimestampMs": 1790568000000,
+		"endingTimestampMs": 1807416000000,
+		"hashTags": [
+			"vegasborn"
+		]
 	}
 }
