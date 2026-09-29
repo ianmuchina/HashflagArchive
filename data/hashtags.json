@@ -115682,7 +115682,8 @@
 		"Pokemon_cojp_Hashmoji_Connect"
 	],
 	"メガシンカ": [
-		"Pokemon_cojp_Hashmoji_Connect"
+		"Pokemon_cojp_Hashmoji_Connect",
+		"BF-16671_Hashmoji_PokemonTCGP_JP_2026Q3"
 	],
 	"メガシンカex": [
 		"Pokemon_cojp_Hashmoji_Connect"
@@ -120299,5 +120300,17 @@
 	],
 	"letitfly": [
 		"MLBPostseason2026Braves"
+	],
+	"ハイクラスパックmega": [
+		"BF-16671_Hashmoji_PokemonTCGP_JP_2026Q3"
+	],
+	"ポケポケ": [
+		"BF-16671_Hashmoji_PokemonTCGP_JP_2026Q3"
+	],
+	"メガカイロス": [
+		"BF-16671_Hashmoji_PokemonTCGP_JP_2026Q3"
+	],
+	"メガリザードンx": [
+		"BF-16671_Hashmoji_PokemonTCGP_JP_2026Q3"
 	]
 }
