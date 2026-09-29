@@ -46540,7 +46540,8 @@
 		"MLB_Postseason_Postseason_2022",
 		"MLB_2023_Postseason_Playoffs",
 		"MLB_Postseason_2024",
-		"Postseason2025MLB"
+		"Postseason2025MLB",
+		"MLBPostseasonHashmoji2026"
 	],
 	"posty": [
 		"PostMalone2022"
@@ -48850,7 +48851,8 @@
 		"MLB_Postseason_PHI_2022",
 		"MLB_2023_Phillies_Playoffs",
 		"MLB_Phillies_2024_Postseason_Philadelphia",
-		"PhilliesPostseason2025"
+		"PhilliesPostseason2025",
+		"MLBPostseason2026Phillies"
 	],
 	"redpandameiturningred": [
 		"Disney_Turning_Red_Red_Panda_Mei_Shocked_2022"
@@ -52084,7 +52086,8 @@
 		"MLB_Postseason_WorldSeries_2022_add",
 		"MLB_2023_WorldSeries_Playoffs",
 		"MLB_World_Series_2024_",
-		"Worldseries2025_2"
+		"Worldseries2025_2",
+		"MLBWSEspanolHashmoji2026"
 	],
 	"seriess": [
 		"Xbox_FAWS_2_2021",
@@ -67225,7 +67228,8 @@
 		"MLB_Postseason_WorldSeries_2022",
 		"MLB_2023_WorldSeries_Playoffs",
 		"MLB_World_Series_2024_",
-		"Worldseries2025_2"
+		"Worldseries2025_2",
+		"MLBWorldSeries2026"
 	],
 	"worldseriesofpoker": [
 		"WSOPMainEvent_2021_extend",
@@ -110216,7 +110220,8 @@
 	],
 	"fightforthefaithful": [
 		"Padres_MLB_Postseason_2024",
-		"PadresPostseason2025"
+		"PadresPostseason2025",
+		"MLBPostseason2026Padres"
 	],
 	"guardsball": [
 		"Clev_Guardians_MLB_2024_Postseason",
@@ -113690,7 +113695,8 @@
 	"paralosfieles": [
 		"SanDiegoPadresMLB2025",
 		"PadresRegSzn2025",
-		"SanDiegoPadresMLB2026"
+		"SanDiegoPadresMLB2026",
+		"MLBPostseason2026Padres"
 	],
 	"todoportejas": [
 		"TexasRangersMLB2025"
@@ -120275,5 +120281,20 @@
 	],
 	"turnitallteal": [
 		"NHLRegularSeason2627Sharks"
+	],
+	"fortampabay": [
+		"MLBPostseason2026Rays"
+	],
+	"hashfettitestjapan": [
+		"SEP30_JP_hashfettitestjapan"
+	],
+	"notimelikeoctober": [
+		"MLBPostSeasonHashmojiv2"
+	],
+	"standguard": [
+		"MLBPostseason2026Guardians"
+	],
+	"winourway": [
+		"MLBPostseason2026Brewers"
 	]
 }

@@ -179972,5 +179972,86 @@
 		"hashTags": [
 			"vegasborn"
 		]
+	},
+	"MLBPostseason2026Padres": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBPostseason2026Padres/MLBPostseason2026Padres.png",
+		"startingTimestampMs": 1790654400000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"fightforthefaithful",
+			"paralosfieles"
+		]
+	},
+	"MLBPostseason2026Rays": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBPostseason2026Rays/MLBPostseason2026Rays.png",
+		"startingTimestampMs": 1790654400000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"fortampabay"
+		]
+	},
+	"SEP30_JP_hashfettitestjapan": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SEP30_JP_hashfettitestjapan/SEP30_JP_hashfettitestjapan.png",
+		"startingTimestampMs": 1790661000000,
+		"endingTimestampMs": 1791590400000,
+		"hashTags": [
+			"hashfettitestjapan"
+		]
+	},
+	"MLBPostSeasonHashmojiv2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBPostSeasonHashmojiv2/MLBPostSeasonHashmojiv2.png",
+		"startingTimestampMs": 1790654400000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"notimelikeoctober"
+		]
+	},
+	"MLBPostseasonHashmoji2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBPostseasonHashmoji2026/MLBPostseasonHashmoji2026.png",
+		"startingTimestampMs": 1790654400000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"postseason"
+		]
+	},
+	"MLBPostseason2026Phillies": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBPostseason2026Phillies/MLBPostseason2026Phillies.png",
+		"startingTimestampMs": 1790654400000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"redoctober"
+		]
+	},
+	"MLBWSEspanolHashmoji2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBWSEspanolHashmoji2026/MLBWSEspanolHashmoji2026.png",
+		"startingTimestampMs": 1790654400000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"seriemundial"
+		]
+	},
+	"MLBPostseason2026Guardians": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBPostseason2026Guardians/MLBPostseason2026Guardians.png",
+		"startingTimestampMs": 1790654400000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"standguard"
+		]
+	},
+	"MLBPostseason2026Brewers": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBPostseason2026Brewers/MLBPostseason2026Brewers.png",
+		"startingTimestampMs": 1790654400000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"winourway"
+		]
+	},
+	"MLBWorldSeries2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MLBWorldSeries2026/MLBWorldSeries2026.png",
+		"startingTimestampMs": 1790654400000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"worldseries"
+		]
 	}
 }
