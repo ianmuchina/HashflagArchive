@@ -180073,5 +180073,15 @@
 			"メガシンカ",
 			"メガリザードンx"
 		]
+	},
+	"botanimation2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/botanimation2026/botanimation2026.png",
+		"startingTimestampMs": 1790735400000,
+		"endingTimestampMs": 1790838000000,
+		"hashTags": [
+			"bot",
+			"grok",
+			"grokbot"
+		]
 	}
 }

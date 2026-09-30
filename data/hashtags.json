@@ -8126,7 +8126,8 @@
 	],
 	"bot": [
 		"Paralympics_2021_BOT",
-		"Olympics_Countries_2021_BOT"
+		"Olympics_Countries_2021_BOT",
+		"botanimation2026"
 	],
 	"botaozéprajogo": [
 		"Ze_Delivery_Copa_do_Mundo_Oct_2022"
@@ -117640,7 +117641,8 @@
 	],
 	"grok": [
 		"Grok_Custom_Like2026",
-		"Grok_ClientCouncil_2026"
+		"Grok_ClientCouncil_2026",
+		"botanimation2026"
 	],
 	"día de san valentín": [
 		"CustomLikeValentinesDay_2026"
@@ -120312,5 +120314,8 @@
 	],
 	"メガリザードンx": [
 		"BF-16671_Hashmoji_PokemonTCGP_JP_2026Q3"
+	],
+	"grokbot": [
+		"botanimation2026"
 	]
 }
