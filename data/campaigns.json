@@ -180083,5 +180083,17 @@
 			"grok",
 			"grokbot"
 		]
+	},
+	"BF-16692_AIon2_jp_Hashmoji_v3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16692_AIon2_jp_Hashmoji_v3/BF-16692_AIon2_jp_Hashmoji_v3.png",
+		"startingTimestampMs": 1790935200000,
+		"endingTimestampMs": 1798988340000,
+		"hashTags": [
+			"aion2",
+			"aion2始めました",
+			"aion2正式サービス開始",
+			"aion2配信",
+			"アイオン2"
+		]
 	}
 }
