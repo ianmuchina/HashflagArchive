@@ -180095,5 +180095,29 @@
 			"aion2配信",
 			"アイオン2"
 		]
+	},
+	"2026FootballCustomLikeEvergreenv3": {
+		"assetUrl": "https://abs.twimg.com/hashflags/2026FootballCustomLikeEvergreenv3/2026FootballCustomLikeEvergreenv3.png",
+		"startingTimestampMs": 1790899200000,
+		"endingTimestampMs": 1799539200000,
+		"hashTags": [
+			"college football",
+			"field goal",
+			"first down",
+			"kickoff",
+			"quarterback",
+			"redzone",
+			"running back",
+			"touchdown",
+			"wide receiver"
+		]
+	},
+	"NHLRegularSeason2627Knightsv2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLRegularSeason2627Knightsv2/NHLRegularSeason2627Knightsv2.png",
+		"startingTimestampMs": 1790913600000,
+		"endingTimestampMs": 1807502400000,
+		"hashTags": [
+			"vgk"
+		]
 	}
 }
