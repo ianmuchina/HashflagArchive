@@ -180119,5 +180119,13 @@
 		"hashTags": [
 			"vgk"
 		]
+	},
+	"WWEMITB2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWEMITB2026/WWEMITB2026.png",
+		"startingTimestampMs": 1791086400000,
+		"endingTimestampMs": 1791777540000,
+		"hashTags": [
+			"mitb"
+		]
 	}
 }
