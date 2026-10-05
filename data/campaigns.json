@@ -180151,5 +180151,29 @@
 			"キシリトールの新アンバサダーにの",
 			"キシリトールガム"
 		]
+	},
+	"BF-16559_PepsiCo_MX_Cheetos_Halloween": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16559_PepsiCo_MX_Cheetos_Halloween/BF-16559_PepsiCo_MX_Cheetos_Halloween.png",
+		"startingTimestampMs": 1791223200000,
+		"endingTimestampMs": 1793512740000,
+		"hashTags": [
+			"cheetoslobo",
+			"cheetosmonstruo",
+			"cheetossincabeza",
+			"cheetoszombies",
+			"otraformadeterror"
+		]
+	},
+	"BF-16686_OneplusFestivalSale": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16686_OneplusFestivalSale/BF-16686_OneplusFestivalSale.png",
+		"startingTimestampMs": 1791225000000,
+		"endingTimestampMs": 1799001000000,
+		"hashTags": [
+			"makeitspecial",
+			"oneplus",
+			"oneplusfestivesale",
+			"oneplusindia",
+			"oneplusnord"
+		]
 	}
 }
