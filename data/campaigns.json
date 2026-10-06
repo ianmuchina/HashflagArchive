@@ -180175,5 +180175,17 @@
 			"oneplusindia",
 			"oneplusnord"
 		]
+	},
+	"BF-16686_OneplusFestivalSale_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16686_OneplusFestivalSale_before/BF-16686_OneplusFestivalSale_before.png",
+		"startingTimestampMs": 1791268200000,
+		"endingTimestampMs": 1792088940000,
+		"hashTags": [
+			"makeitspecial",
+			"oneplus",
+			"oneplusfestivesale",
+			"oneplusindia",
+			"oneplusnord"
+		]
 	}
 }
