@@ -180199,5 +180199,25 @@
 			"モンダミン",
 			"日本生まれのモンダミン"
 		]
+	},
+	"BF-16701_Flipkart_BigBillionDays_Oct2026_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16701_Flipkart_BigBillionDays_Oct2026_Hashmoji/BF-16701_Flipkart_BigBillionDays_Oct2026_Hashmoji.png",
+		"startingTimestampMs": 1791397800000,
+		"endingTimestampMs": 1799087400000,
+		"hashTags": [
+			"bbd",
+			"bigbilliondays",
+			"flipkart",
+			"thebigbilliondays"
+		]
+	},
+	"BF-16651_TOP_superNANOX_Oct_8th_2026_BrandEmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16651_TOP_superNANOX_Oct_8th_2026_BrandEmoji/BF-16651_TOP_superNANOX_Oct_8th_2026_BrandEmoji.png",
+		"startingTimestampMs": 1791385200000,
+		"endingTimestampMs": 1797778740000,
+		"hashTags": [
+			"nanox深層浸透洗浄",
+			"つめこみ洗いにnanox"
+		]
 	}
 }
