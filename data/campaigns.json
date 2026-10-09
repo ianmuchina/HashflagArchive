@@ -180219,5 +180219,24 @@
 			"nanox深層浸透洗浄",
 			"つめこみ洗いにnanox"
 		]
+	},
+	"Libertadores2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Libertadores2026/Libertadores2026.png",
+		"startingTimestampMs": 1791417600000,
+		"endingTimestampMs": 1796976000000,
+		"hashTags": [
+			"gloriaeterna",
+			"libertadores"
+		]
+	},
+	"Sudamericana2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Sudamericana2026/Sudamericana2026.png",
+		"startingTimestampMs": 1791417600000,
+		"endingTimestampMs": 1796976000000,
+		"hashTags": [
+			"grandeconquista",
+			"lagranconquista",
+			"sudamericana"
+		]
 	}
 }
