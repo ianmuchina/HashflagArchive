@@ -116921,7 +116921,8 @@
 		"BF-15042_Organic_Hashmoji_MOF"
 	],
 	"zoff": [
-		"BF-14923_Branded_Like_Zoff_INFO_during"
+		"BF-14923_Branded_Like_Zoff_INFO_during",
+		"BF-16606_Zoff_INFO_BrandedLikes_Hashmoji_during"
 	],
 	"zoffの調光": [
 		"BF-14923_Branded_Like_Zoff_INFO_during"
@@ -120430,5 +120431,14 @@
 	],
 	"つめこみ洗いにnanox": [
 		"BF-16651_TOP_superNANOX_Oct_8th_2026_BrandEmoji"
+	],
+	"2030年までの目標": [
+		"BF-16606_Zoff_INFO_BrandedLikes_Hashmoji_during"
+	],
+	"zoffと目の愛護デー": [
+		"BF-16606_Zoff_INFO_BrandedLikes_Hashmoji_during"
+	],
+	"サンカットグラス": [
+		"BF-16606_Zoff_INFO_BrandedLikes_Hashmoji_during"
 	]
 }
