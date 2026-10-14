@@ -180271,5 +180271,28 @@
 			"モンスト",
 			"モンスト13周年"
 		]
+	},
+	"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2/BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2.png",
+		"startingTimestampMs": 1791990000000,
+		"endingTimestampMs": 1799938740000,
+		"hashTags": [
+			"akanerin",
+			"ネコドリ",
+			"明音",
+			"明音凛",
+			"아카네린"
+		]
+	},
+	"BF-16737_NTE_JP_PerfectWorld_Mintcat102026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16737_NTE_JP_PerfectWorld_Mintcat102026/BF-16737_NTE_JP_PerfectWorld_Mintcat102026.png",
+		"startingTimestampMs": 1791990000000,
+		"endingTimestampMs": 1799938740000,
+		"hashTags": [
+			"nevernesstoeverness",
+			"nte",
+			"nteネバエバ",
+			"이환"
+		]
 	}
 }

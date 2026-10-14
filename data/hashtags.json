@@ -117587,15 +117587,18 @@
 	],
 	"nevernesstoeverness": [
 		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26",
-		"NTE_GL_18ce55pnkf3_Hashmoji_XiaoJi_BF-15864"
+		"NTE_GL_18ce55pnkf3_Hashmoji_XiaoJi_BF-15864",
+		"BF-16737_NTE_JP_PerfectWorld_Mintcat102026"
 	],
 	"nte": [
 		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26",
-		"NTE_GL_18ce55pnkf3_Hashmoji_Mint_BF-15863"
+		"NTE_GL_18ce55pnkf3_Hashmoji_Mint_BF-15863",
+		"BF-16737_NTE_JP_PerfectWorld_Mintcat102026"
 	],
 	"nteネバエバ": [
 		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26",
-		"NTE_GL_18ce55pnkf3_Hashmoji_Nanali_BF-15865"
+		"NTE_GL_18ce55pnkf3_Hashmoji_Nanali_BF-15865",
+		"BF-16737_NTE_JP_PerfectWorld_Mintcat102026"
 	],
 	"nte共存テスト": [
 		"BF-15307_NTE_JP_18ce55ugl6w_Hashmoji_Feb26"
@@ -118484,7 +118487,8 @@
 		"NTE_GL_18ce55pnkf3_Hashmoji_XiaoJi_BF-15864"
 	],
 	"이환": [
-		"NTE_GL_18ce55pnkf3_Hashmoji_Nanali_BF-15865"
+		"NTE_GL_18ce55pnkf3_Hashmoji_Nanali_BF-15865",
+		"BF-16737_NTE_JP_PerfectWorld_Mintcat102026"
 	],
 	"binanceturns9": [
 		"Binance_Hashmoji_Q2_26_BF-15787"
@@ -120448,5 +120452,20 @@
 	"サンカットグラス": [
 		"BF-16606_Zoff_INFO_BrandedLikes_Hashmoji_during",
 		"BF-16606_Zoff_INFO_BrandedLikes_Hashmoji_after_v2"
+	],
+	"akanerin": [
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2"
+	],
+	"ネコドリ": [
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2"
+	],
+	"明音": [
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2"
+	],
+	"明音凛": [
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2"
+	],
+	"아카네린": [
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2"
 	]
 }
