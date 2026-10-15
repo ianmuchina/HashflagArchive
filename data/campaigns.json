@@ -180312,5 +180312,13 @@
 			"grammyawards",
 			"grammys"
 		]
+	},
+	"BF-16276_Hashmoji_monst_mmix_13rdAnniv_v6": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16276_Hashmoji_monst_mmix_13rdAnniv_v6/BF-16276_Hashmoji_monst_mmix_13rdAnniv_v6.png",
+		"startingTimestampMs": 1792054800000,
+		"endingTimestampMs": 1794409140000,
+		"hashTags": [
+			"13周年スクラッチくじ"
+		]
 	}
 }
