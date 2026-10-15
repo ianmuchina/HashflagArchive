@@ -42898,7 +42898,8 @@
 		"BF-14738_OnePlus_Hashmoji_After",
 		"BF-14738_OnePlus_Hashmoji_After_v2",
 		"BF-16686_OneplusFestivalSale",
-		"BF-16686_OneplusFestivalSale_before"
+		"BF-16686_OneplusFestivalSale_before",
+		"BF-16686_OneplusFestivalSale_during"
 	],
 	"oneplus10pro": [
 		"OnePlus_Negroni_Launch_Mar_2022"
@@ -42916,7 +42917,8 @@
 		"BF-11632_OnePlusNord4_July24_HashmojiAfter_v2",
 		"BF-15875_NordCE6_Hashmoji",
 		"BF-16686_OneplusFestivalSale",
-		"BF-16686_OneplusFestivalSale_before"
+		"BF-16686_OneplusFestivalSale_before",
+		"BF-16686_OneplusFestivalSale_during"
 	],
 	"oneplusnord2": [
 		"OnePlusNord_2021"
@@ -120412,11 +120414,13 @@
 	],
 	"oneplusfestivesale": [
 		"BF-16686_OneplusFestivalSale",
-		"BF-16686_OneplusFestivalSale_before"
+		"BF-16686_OneplusFestivalSale_before",
+		"BF-16686_OneplusFestivalSale_during"
 	],
 	"oneplusindia": [
 		"BF-16686_OneplusFestivalSale",
-		"BF-16686_OneplusFestivalSale_before"
+		"BF-16686_OneplusFestivalSale_before",
+		"BF-16686_OneplusFestivalSale_during"
 	],
 	"otraformadeterror": [
 		"BF-16559_PepsiCo_MX_Cheetos_Halloween"

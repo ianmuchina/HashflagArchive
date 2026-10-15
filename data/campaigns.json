@@ -180320,5 +180320,16 @@
 		"hashTags": [
 			"13周年スクラッチくじ"
 		]
+	},
+	"BF-16686_OneplusFestivalSale_during": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16686_OneplusFestivalSale_during/BF-16686_OneplusFestivalSale_during.png",
+		"startingTimestampMs": 1792089000000,
+		"endingTimestampMs": 1792175340000,
+		"hashTags": [
+			"oneplus",
+			"oneplusfestivesale",
+			"oneplusindia",
+			"oneplusnord"
+		]
 	}
 }
