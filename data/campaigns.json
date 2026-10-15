@@ -180294,5 +180294,23 @@
 			"nteネバエバ",
 			"이환"
 		]
+	},
+	"ConfigIndia2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ConfigIndia2026/ConfigIndia2026.png",
+		"startingTimestampMs": 1792033200000,
+		"endingTimestampMs": 1792119600000,
+		"hashTags": [
+			"config"
+		]
+	},
+	"Grammys2026Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Grammys2026Hashmoji/Grammys2026Hashmoji.png",
+		"startingTimestampMs": 1792036800000,
+		"endingTimestampMs": 1803787140000,
+		"hashTags": [
+			"grammy",
+			"grammyawards",
+			"grammys"
+		]
 	}
 }

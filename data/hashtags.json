@@ -23637,7 +23637,8 @@
 	],
 	"grammyawards": [
 		"CBS_Grammys_2022",
-		"Grammys2025"
+		"Grammys2025",
+		"Grammys2026Hashmoji"
 	],
 	"grammylatino": [
 		"LatinGrammys2020"
@@ -23654,7 +23655,8 @@
 		"GRAMMYS_2023_Campaign",
 		"GRAMMYs2024_US_Ent",
 		"Grammys2025",
-		"Grammys2026"
+		"Grammys2026",
+		"Grammys2026Hashmoji"
 	],
 	"grammyscbs": [
 		"CBS_Grammys_2022"
@@ -112058,7 +112060,8 @@
 	],
 	"grammy": [
 		"Grammys2025",
-		"Grammys2026"
+		"Grammys2026",
+		"Grammys2026Hashmoji"
 	],
 	"grammys2025": [
 		"Grammys2025"
@@ -119345,7 +119348,8 @@
 	],
 	"config": [
 		"FigmaConfig2026_BF_16169",
-		"FigmaConfig2026_BF_16169_v2"
+		"FigmaConfig2026_BF_16169_v2",
+		"ConfigIndia2026"
 	],
 	"skii": [
 		"Hashmoji_SKII_Japan_BF-16115"
