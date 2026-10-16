@@ -120462,21 +120462,28 @@
 		"BF-16606_Zoff_INFO_BrandedLikes_Hashmoji_after_v2"
 	],
 	"akanerin": [
-		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2"
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2",
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v3"
 	],
 	"ネコドリ": [
 		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2"
 	],
 	"明音": [
-		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2"
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2",
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v3"
 	],
 	"明音凛": [
-		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2"
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2",
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v3"
 	],
 	"아카네린": [
-		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2"
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v2",
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v3"
 	],
 	"13周年スクラッチくじ": [
 		"BF-16276_Hashmoji_monst_mmix_13rdAnniv_v6"
+	],
+	"ネコトリ": [
+		"BF-16738_NTE_JP_PerfectWorld_daCALL102026_v3"
 	]
 }
