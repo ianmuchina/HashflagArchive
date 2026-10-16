@@ -180354,5 +180354,17 @@
 			"求人ボックスと笑おう",
 			"求人ボックスも見ときませんか"
 		]
+	},
+	"BF-16686_OneplusFestivalSale_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16686_OneplusFestivalSale_after/BF-16686_OneplusFestivalSale_after.png",
+		"startingTimestampMs": 1792175400000,
+		"endingTimestampMs": 1799001000000,
+		"hashTags": [
+			"makeitspecial",
+			"oneplus",
+			"oneplusfestivesale",
+			"oneplusindia",
+			"oneplusnord"
+		]
 	}
 }
