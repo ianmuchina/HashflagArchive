@@ -180366,5 +180366,13 @@
 			"oneplusindia",
 			"oneplusnord"
 		]
+	},
+	"WWEAAAHeroesInmortales2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWEAAAHeroesInmortales2026/WWEAAAHeroesInmortales2026.png",
+		"startingTimestampMs": 1792209600000,
+		"endingTimestampMs": 1794196800000,
+		"hashTags": [
+			"aaaheroesinmortales"
+		]
 	}
 }
