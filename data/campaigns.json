@@ -180386,5 +180386,17 @@
 			"求人ボックスと笑おう",
 			"求人ボックスも見ときませんか"
 		]
+	},
+	"BF-16688_ASAHI_BREWERIES_2026Q4_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16688_ASAHI_BREWERIES_2026Q4_Hashmoji/BF-16688_ASAHI_BREWERIES_2026Q4_Hashmoji.png",
+		"startingTimestampMs": 1792335600000,
+		"endingTimestampMs": 1798729140000,
+		"hashTags": [
+			"theghostintheshell",
+			"やってやろうじゃないの",
+			"公安9課公認レモンサワー",
+			"攻殻機動隊",
+			"未来のレモンサワー"
+		]
 	}
 }
