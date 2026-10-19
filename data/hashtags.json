@@ -91851,7 +91851,8 @@
 		"NatGeo_HotZone_2021"
 	],
 	"nflmx": [
-		"NFL_Mexico_Super_Bowl_2022"
+		"NFL_Mexico_Super_Bowl_2022",
+		"NFLMexicoDiadelosMuertos2026"
 	],
 	"superbowlalamexicana": [
 		"NFL_Mexico_Super_Bowl_2022"
@@ -120521,5 +120522,11 @@
 	],
 	"メルティーキッス今年も登場": [
 		"BF-16682_melty_kiss_brand_animation_during"
+	],
+	"hastalamuerte": [
+		"NFLMexicoDiadelosMuertos2026"
+	],
+	"hlm": [
+		"NFLMexicoDiadelosMuertos2026"
 	]
 }

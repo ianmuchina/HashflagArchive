@@ -180409,5 +180409,15 @@
 			"メルティーキッス解禁",
 			"雪のようなくちどけ"
 		]
+	},
+	"NFLMexicoDiadelosMuertos2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NFLMexicoDiadelosMuertos2026/NFLMexicoDiadelosMuertos2026.png",
+		"startingTimestampMs": 1792382400000,
+		"endingTimestampMs": 1793851140000,
+		"hashTags": [
+			"hastalamuerte",
+			"hlm",
+			"nflmx"
+		]
 	}
 }
