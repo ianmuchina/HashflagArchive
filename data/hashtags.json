@@ -37207,7 +37207,8 @@
 		"MeijiMeltykissPromotion_Japan_2020",
 		"Meiji_meltykiss_Japan_2023_before",
 		"Meiji_meltykiss_Japan_2023_during",
-		"Meiji_meltykiss_Japan_2023_after"
+		"Meiji_meltykiss_Japan_2023_after",
+		"BF-16682_melty_kiss_brand_animation_during"
 	],
 	"membresiaamazonprime": [
 		"Amazon_Prime_Membership_Mexico_2022",
@@ -84270,7 +84271,8 @@
 		"MeijiMeltykissPromotion_Japan_2020",
 		"Meiji_meltykiss_Japan_2023_before",
 		"Meiji_meltykiss_Japan_2023_during",
-		"Meiji_meltykiss_Japan_2023_after"
+		"Meiji_meltykiss_Japan_2023_after",
+		"BF-16682_melty_kiss_brand_animation_during"
 	],
 	"雪容融": [
 		"Beijing_Paralympic_xuerongrong_2022",
@@ -103834,7 +103836,8 @@
 	],
 	"メルティーキッス解禁": [
 		"Meiji_meltykiss_Japan_2023_before",
-		"Meiji_meltykiss_Japan_2023_after"
+		"Meiji_meltykiss_Japan_2023_after",
+		"BF-16682_melty_kiss_brand_animation_during"
 	],
 	"dilekkralı": [
 		"DisneyTH_Wish_KingMagnifico_2023"
@@ -120515,5 +120518,8 @@
 	],
 	"攻殻機動隊": [
 		"BF-16688_ASAHI_BREWERIES_2026Q4_Hashmoji"
+	],
+	"メルティーキッス今年も登場": [
+		"BF-16682_melty_kiss_brand_animation_during"
 	]
 }
