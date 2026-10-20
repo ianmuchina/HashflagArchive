@@ -180419,5 +180419,245 @@
 			"hlm",
 			"nflmx"
 		]
+	},
+	"HoustonRocketsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/HoustonRocketsNBA202627/HoustonRocketsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"allfire"
+		]
+	},
+	"LAClippersNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LAClippersNBA202627/LAClippersNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"clippernation"
+		]
+	},
+	"DetroitPistonsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DetroitPistonsNBA202627/DetroitPistonsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"detroitbasketball"
+		]
+	},
+	"BostonCelticsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BostonCelticsNBA202627/BostonCelticsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"differenthere"
+		]
+	},
+	"GoldenStateNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/GoldenStateNBA202627/GoldenStateNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"dubnation"
+		]
+	},
+	"MilBucksNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MilBucksNBA202627/MilBucksNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"fearthedeer"
+		]
+	},
+	"WashingtonWizardsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WashingtonWizardsNBA202627/WashingtonWizardsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"forthedistrict"
+		]
+	},
+	"MemphisGrizzliesNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MemphisGrizzliesNBA202627/MemphisGrizzliesNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"grindcity"
+		]
+	},
+	"MiamiHeatNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MiamiHeatNBA202627/MiamiHeatNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"heatnation"
+		]
+	},
+	"CharlotteHornetsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CharlotteHornetsNBA202627/CharlotteHornetsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"hivementality"
+		]
+	},
+	"LALakersNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/LALakersNBA202627/LALakersNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"lakeshow"
+		]
+	},
+	"ClevelandCavaliersNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ClevelandCavaliersNBA202627/ClevelandCavaliersNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"letemknow"
+		]
+	},
+	"SacramentoKingsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SacramentoKingsNBA202627/SacramentoKingsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"lightthebeam"
+		]
+	},
+	"OrlandoMagicNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OrlandoMagicNBA202627/OrlandoMagicNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"makeitmagic"
+		]
+	},
+	"DallasMavericksNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DallasMavericksNBA202627/DallasMavericksNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"mffl"
+		]
+	},
+	"DenverNuggetsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/DenverNuggetsNBA202627/DenverNuggetsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"milehighbasketball"
+		]
+	},
+	"BrooklynNetsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BrooklynNetsNBA202627/BrooklynNetsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"netsworld"
+		]
+	},
+	"NewYorkKnicksNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NewYorkKnicksNBA202627/NewYorkKnicksNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"newyorkforever"
+		]
+	},
+	"NewOrleansNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NewOrleansNBA202627/NewOrleansNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"pelicans"
+		]
+	},
+	"SanAntonioSpursNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SanAntonioSpursNBA202627/SanAntonioSpursNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"porvida"
+		]
+	},
+	"MinnesotaTimberwolvesNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/MinnesotaTimberwolvesNBA202627/MinnesotaTimberwolvesNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"realloud"
+		]
+	},
+	"PortlandTrailBlazersNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PortlandTrailBlazersNBA202627/PortlandTrailBlazersNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"ripcity"
+		]
+	},
+	"ChicagoBullsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ChicagoBullsNBA202627/ChicagoBullsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"seered"
+		]
+	},
+	"PhxSunsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/PhxSunsNBA202627/PhxSunsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"sunsup"
+		]
+	},
+	"UtahJazzNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/UtahJazzNBA202627/UtahJazzNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"takenote"
+		]
+	},
+	"SixersNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/SixersNBA202627/SixersNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"throwtheballup"
+		]
+	},
+	"OKCThunderNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/OKCThunderNBA202627/OKCThunderNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"thunderup"
+		]
+	},
+	"AtlantaHawksNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/AtlantaHawksNBA202627/AtlantaHawksNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"truetoatlanta"
+		]
+	},
+	"TorontoRaptorsNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/TorontoRaptorsNBA202627/TorontoRaptorsNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"wethenorth"
+		]
+	},
+	"IndianaPacersNBA202627": {
+		"assetUrl": "https://abs.twimg.com/hashflags/IndianaPacersNBA202627/IndianaPacersNBA202627.png",
+		"startingTimestampMs": 1792468800000,
+		"endingTimestampMs": 1807415940000,
+		"hashTags": [
+			"yescers"
+		]
 	}
 }
