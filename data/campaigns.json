@@ -180671,5 +180671,16 @@
 			"メルティーキッス解禁",
 			"雪のようなくちどけ"
 		]
+	},
+	"ParisGamesWeek2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ParisGamesWeek2026/ParisGamesWeek2026.png",
+		"startingTimestampMs": 1792641600000,
+		"endingTimestampMs": 1792987140000,
+		"hashTags": [
+			"parisgamesweek",
+			"parisgamesweek2026",
+			"pgw",
+			"pgw2026"
+		]
 	}
 }

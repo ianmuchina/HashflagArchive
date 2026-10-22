@@ -116646,10 +116646,12 @@
 		"Diriyah_Season_BF-14844"
 	],
 	"parisgamesweek": [
-		"Paris_Games_Week"
+		"Paris_Games_Week",
+		"ParisGamesWeek2026"
 	],
 	"pgw": [
-		"Paris_Games_Week"
+		"Paris_Games_Week",
+		"ParisGamesWeek2026"
 	],
 	"pgw2025": [
 		"Paris_Games_Week"
@@ -120567,5 +120569,11 @@
 	],
 	"throwtheballup": [
 		"SixersNBA202627"
+	],
+	"parisgamesweek2026": [
+		"ParisGamesWeek2026"
+	],
+	"pgw2026": [
+		"ParisGamesWeek2026"
 	]
 }
