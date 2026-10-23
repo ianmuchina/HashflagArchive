@@ -180682,5 +180682,17 @@
 			"pgw",
 			"pgw2026"
 		]
+	},
+	"BF-16707_Sumitomo_Mitsui_Banking_Corporation_Emoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16707_Sumitomo_Mitsui_Banking_Corporation_Emoji/BF-16707_Sumitomo_Mitsui_Banking_Corporation_Emoji.png",
+		"startingTimestampMs": 1792767600000,
+		"endingTimestampMs": 1800802740000,
+		"hashTags": [
+			"smbcolive",
+			"smbcみんなの声援賞",
+			"smbc日本シリーズ",
+			"ミドすけ",
+			"日本シリーズ"
+		]
 	}
 }
