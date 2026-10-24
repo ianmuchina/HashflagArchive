@@ -180724,5 +180724,29 @@
 			"sotrending",
 			"sotrspoiler"
 		]
+	},
+	"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before/BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before.png",
+		"startingTimestampMs": 1792839600000,
+		"endingTimestampMs": 1793199540000,
+		"hashTags": [
+			"nikke",
+			"nikke4thanniversary",
+			"nikke4周年",
+			"マリアン",
+			"니케4주년"
+		]
+	},
+	"BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026/BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026.png",
+		"startingTimestampMs": 1792839600000,
+		"endingTimestampMs": 1794999600000,
+		"hashTags": [
+			"nikkescarlet",
+			"ニケ",
+			"紅蓮",
+			"니케",
+			"니케홍련"
+		]
 	}
 }

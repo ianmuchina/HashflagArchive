@@ -41238,7 +41238,8 @@
 		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024",
 		"BF-13677_NIKKE_2-5_anniversary_hashmoji",
 		"BF-14255_NIKKE_SUMMER_2025",
-		"BF-15115_NIKKE_New_Year_2025_26"
+		"BF-15115_NIKKE_New_Year_2025_26",
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
 	],
 	"nikkeanis": [
 		"NIKKE_japan_Anis_Sept_2022"
@@ -78359,7 +78360,8 @@
 	"ニケ": [
 		"NIKKE_japan_Marian_Sept_2022",
 		"Tecent_NIKKE_JP_RAPI_2023_Hahsmoji",
-		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024"
+		"BF-12334_Tencent_NIKKE_japan_Hashmoji_2024",
+		"BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026"
 	],
 	"ニックフューリー": [
 		"MarvelStudios_WhatIF_2021_NickFury_Updated",
@@ -79714,7 +79716,8 @@
 		"Olympics_2021_Sports_MarathonSwimming"
 	],
 	"マリアン": [
-		"NIKKE_japan_Marian_Sept_2022"
+		"NIKKE_japan_Marian_Sept_2022",
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
 	],
 	"マリオ": [
 		"Nintendo_POLE_Sept2020",
@@ -84873,7 +84876,8 @@
 	],
 	"니케": [
 		"NIKKE_japan_Anis_Sept_2022",
-		"Tecent_NIKKE_JP_RAPI_2023_Hahsmoji"
+		"Tecent_NIKKE_JP_RAPI_2023_Hahsmoji",
+		"BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026"
 	],
 	"닌자머스트다이": [
 		"NinjaMustDie_JP_XmasBox_2022"
@@ -120601,5 +120605,23 @@
 	],
 	"sunriseonthereaping": [
 		"Lionsgate_HungerGamesSOTR50th_2026"
+	],
+	"nikke4thanniversary": [
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
+	],
+	"nikke4周年": [
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
+	],
+	"nikkescarlet": [
+		"BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026"
+	],
+	"紅蓮": [
+		"BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026"
+	],
+	"니케4주년": [
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
+	],
+	"니케홍련": [
+		"BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026"
 	]
 }
