@@ -180748,5 +180748,25 @@
 			"니케",
 			"니케홍련"
 		]
+	},
+	"BF-16798_Survivorace_JP_BeijingPlanet_Mascot102026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16798_Survivorace_JP_BeijingPlanet_Mascot102026/BF-16798_Survivorace_JP_BeijingPlanet_Mascot102026.png",
+		"startingTimestampMs": 1792854000000,
+		"endingTimestampMs": 1800802740000,
+		"hashTags": [
+			"ダダエース",
+			"ダダエースニャンコ",
+			"ダダエースリリース",
+			"ダダサバイバー続作",
+			"新作シューティングゲーム"
+		]
+	},
+	"BF-16603_Netflix_KR_Hashfetti-Hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16603_Netflix_KR_Hashfetti-Hashmoji_after/BF-16603_Netflix_KR_Hashfetti-Hashmoji_after.png",
+		"startingTimestampMs": 1792854000000,
+		"endingTimestampMs": 1792940340000,
+		"hashTags": [
+			"넷플잔치"
+		]
 	}
 }
