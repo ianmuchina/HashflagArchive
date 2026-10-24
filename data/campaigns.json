@@ -180694,5 +180694,35 @@
 			"ミドすけ",
 			"日本シリーズ"
 		]
+	},
+	"BallondOr2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BallondOr2026/BallondOr2026.png",
+		"startingTimestampMs": 1792800000000,
+		"endingTimestampMs": 1793231940000,
+		"hashTags": [
+			"ballondor"
+		]
+	},
+	"Lionsgate_HungerGamesSOTR50th_2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_HungerGamesSOTR50th_2026/Lionsgate_HungerGamesSOTR50th_2026.png",
+		"startingTimestampMs": 1792803600000,
+		"endingTimestampMs": 1800518340000,
+		"hashTags": [
+			"dietributevonpanem",
+			"hungergames",
+			"losjuegosdelhambre",
+			"sunriseonthereaping",
+			"thehungergames"
+		]
+	},
+	"Lionsgate_HungerGamesSOTRSquirrel_2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_HungerGamesSOTRSquirrel_2026/Lionsgate_HungerGamesSOTRSquirrel_2026.png",
+		"startingTimestampMs": 1792803600000,
+		"endingTimestampMs": 1800518340000,
+		"hashTags": [
+			"hungergamesspoiler",
+			"sotrending",
+			"sotrspoiler"
+		]
 	}
 }

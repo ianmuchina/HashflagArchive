@@ -5473,7 +5473,8 @@
 		"Ballon_Dor_LEquipe_Hashfetti",
 		"BallondOrNomineeAnnouncement2025",
 		"BallondOrNomineeEmoji2025",
-		"BallondOrHashfetti2025"
+		"BallondOrHashfetti2025",
+		"BallondOr2026"
 	],
 	"balloonworldcup": [
 		"BalloonWorldCup_2021"
@@ -104182,14 +104183,16 @@
 	],
 	"hungergames": [
 		"BF-9489_Lionsgate_HungerGames",
-		"BF-9489_Lionsgate_HungerGames_During"
+		"BF-9489_Lionsgate_HungerGames_During",
+		"Lionsgate_HungerGamesSOTR50th_2026"
 	],
 	"tbosas": [
 		"BF-9489_Lionsgate_HungerGames",
 		"BF-9489_Lionsgate_HungerGames_During"
 	],
 	"thehungergames": [
-		"BF-9489_Lionsgate_HungerGames"
+		"BF-9489_Lionsgate_HungerGames",
+		"Lionsgate_HungerGamesSOTR50th_2026"
 	],
 	"thg": [
 		"BF-9489_Lionsgate_HungerGames",
@@ -120580,5 +120583,23 @@
 	],
 	"pgw2026": [
 		"ParisGamesWeek2026"
+	],
+	"dietributevonpanem": [
+		"Lionsgate_HungerGamesSOTR50th_2026"
+	],
+	"hungergamesspoiler": [
+		"Lionsgate_HungerGamesSOTRSquirrel_2026"
+	],
+	"losjuegosdelhambre": [
+		"Lionsgate_HungerGamesSOTR50th_2026"
+	],
+	"sotrending": [
+		"Lionsgate_HungerGamesSOTRSquirrel_2026"
+	],
+	"sotrspoiler": [
+		"Lionsgate_HungerGamesSOTRSquirrel_2026"
+	],
+	"sunriseonthereaping": [
+		"Lionsgate_HungerGamesSOTR50th_2026"
 	]
 }
