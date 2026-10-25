@@ -180784,5 +180784,13 @@
 		"hashTags": [
 			"sotrepilogue"
 		]
+	},
+	"ballondor2026Hashfetti": {
+		"assetUrl": "https://abs.twimg.com/hashflags/ballondor2026Hashfetti/ballondor2026Hashfetti.png",
+		"startingTimestampMs": 1792972800000,
+		"endingTimestampMs": 1793059200000,
+		"hashTags": [
+			"ballondor"
+		]
 	}
 }
