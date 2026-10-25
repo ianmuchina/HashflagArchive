@@ -180768,5 +180768,21 @@
 		"hashTags": [
 			"넷플잔치"
 		]
+	},
+	"Lionsgate_HungerGamesSOTR50thV2_2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_HungerGamesSOTR50thV2_2026/Lionsgate_HungerGamesSOTR50thV2_2026.png",
+		"startingTimestampMs": 1792842300000,
+		"endingTimestampMs": 1800518340000,
+		"hashTags": [
+			"jogosvozares"
+		]
+	},
+	"Lionsgate_HungerGamesSOTRSquirrelV2_2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Lionsgate_HungerGamesSOTRSquirrelV2_2026/Lionsgate_HungerGamesSOTRSquirrelV2_2026.png",
+		"startingTimestampMs": 1792842300000,
+		"endingTimestampMs": 1803196740000,
+		"hashTags": [
+			"sotrepilogue"
+		]
 	}
 }
