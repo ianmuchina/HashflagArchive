@@ -180792,5 +180792,13 @@
 		"hashTags": [
 			"ballondor"
 		]
+	},
+	"NHLHalloween2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/NHLHalloween2026/NHLHalloween2026.png",
+		"startingTimestampMs": 1792987200000,
+		"endingTimestampMs": 1793592000000,
+		"hashTags": [
+			"hockeyhalloween"
+		]
 	}
 }
