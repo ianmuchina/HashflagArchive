@@ -180844,5 +180844,13 @@
 		"hashTags": [
 			"ebenezer"
 		]
+	},
+	"BF-16782_VIVO_hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16782_VIVO_hashmoji/BF-16782_VIVO_hashmoji.png",
+		"startingTimestampMs": 1793120400000,
+		"endingTimestampMs": 1795712340000,
+		"hashTags": [
+			"เสกช็อตลูกรักพระเจ้า"
+		]
 	}
 }
