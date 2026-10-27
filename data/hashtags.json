@@ -104433,12 +104433,14 @@
 	"gcplayoffs": [
 		"CFL_GreyCup_2023_CA",
 		"CFL_Playoffs",
-		"CFLGreyCup2025"
+		"CFLGreyCup2025",
+		"CFLGreyCup2026"
 	],
 	"greycup": [
 		"CFL_GreyCup_2023_CA",
 		"Grey_Cup_CFL",
-		"CFLGreyCup2025"
+		"CFLGreyCup2025",
+		"CFLGreyCup2026"
 	],
 	"premiomultishow2023": [
 		"Globo_Premio_Multishow_2023"
@@ -110847,7 +110849,8 @@
 	],
 	"coupegrey": [
 		"Grey_Cup_CFL",
-		"CFLGreyCup2025"
+		"CFLGreyCup2025",
+		"CFLGreyCup2026"
 	],
 	"éliminatoirescg": [
 		"CFL_Playoffs",

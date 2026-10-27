@@ -180808,5 +180808,15 @@
 		"hashTags": [
 			"jogosvorazes"
 		]
+	},
+	"CFLGreyCup2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/CFLGreyCup2026/CFLGreyCup2026.png",
+		"startingTimestampMs": 1793073600000,
+		"endingTimestampMs": 1794801540000,
+		"hashTags": [
+			"coupegrey",
+			"gcplayoffs",
+			"greycup"
+		]
 	}
 }
