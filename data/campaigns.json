@@ -180818,5 +180818,31 @@
 			"gcplayoffs",
 			"greycup"
 		]
+	},
+	"EBENEZERALLGLOBAL": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EBENEZERALLGLOBAL/EBENEZERALLGLOBAL.png",
+		"startingTimestampMs": 1793098800000,
+		"endingTimestampMs": 1800885600000,
+		"hashTags": [
+			"achristmascarol",
+			"bahhumbug",
+			"ebenezereineweihnachtsgeschichte",
+			"ebenezermovie",
+			"scrooge",
+			"scroogeelfilm",
+			"scroogelefilm",
+			"scroogeylosfantasmasdelanavidad",
+			"映画クリスマスキャロル",
+			"聖誕驚奇夜",
+			"衰鬼聖誕頌"
+		]
+	},
+	"EBENEZERONLY1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/EBENEZERONLY1/EBENEZERONLY1.png",
+		"startingTimestampMs": 1793098800000,
+		"endingTimestampMs": 1794376800000,
+		"hashTags": [
+			"ebenezer"
+		]
 	}
 }
