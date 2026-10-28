@@ -180852,5 +180852,27 @@
 		"hashTags": [
 			"เสกช็อตลูกรักพระเจ้า"
 		]
+	},
+	"Tencent_MHO_2026Q4": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Tencent_MHO_2026Q4/Tencent_MHO_2026Q4.png",
+		"startingTimestampMs": 1793199600000,
+		"endingTimestampMs": 1800975600000,
+		"hashTags": [
+			"mho",
+			"mhoutlanders",
+			"mho狩猟解禁",
+			"モンスターハンターアウトランダーズ",
+			"モンハンアウトランダーズ"
+		]
+	},
+	"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During/BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During.png",
+		"startingTimestampMs": 1793199600000,
+		"endingTimestampMs": 1793285940000,
+		"hashTags": [
+			"nikke",
+			"nikke4thanniversary",
+			"マリアン"
+		]
 	}
 }

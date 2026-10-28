@@ -41240,7 +41240,8 @@
 		"BF-13677_NIKKE_2-5_anniversary_hashmoji",
 		"BF-14255_NIKKE_SUMMER_2025",
 		"BF-15115_NIKKE_New_Year_2025_26",
-		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before",
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During"
 	],
 	"nikkeanis": [
 		"NIKKE_japan_Anis_Sept_2022"
@@ -79718,7 +79719,8 @@
 	],
 	"マリアン": [
 		"NIKKE_japan_Marian_Sept_2022",
-		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before",
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During"
 	],
 	"マリオ": [
 		"Nintendo_POLE_Sept2020",
@@ -120612,7 +120614,8 @@
 		"Lionsgate_HungerGamesSOTR50th_2026"
 	],
 	"nikke4thanniversary": [
-		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before",
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During"
 	],
 	"nikke4周年": [
 		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
@@ -120694,5 +120697,20 @@
 	],
 	"เสกช็อตลูกรักพระเจ้า": [
 		"BF-16782_VIVO_hashmoji"
+	],
+	"mho": [
+		"Tencent_MHO_2026Q4"
+	],
+	"mhoutlanders": [
+		"Tencent_MHO_2026Q4"
+	],
+	"mho狩猟解禁": [
+		"Tencent_MHO_2026Q4"
+	],
+	"モンスターハンターアウトランダーズ": [
+		"Tencent_MHO_2026Q4"
+	],
+	"モンハンアウトランダーズ": [
+		"Tencent_MHO_2026Q4"
 	]
 }
