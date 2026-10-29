@@ -180896,5 +180896,13 @@
 			"俺のことなんか言ってた",
 			"誰も知らない大物俳優"
 		]
+	},
+	"BrewersWorldSeries2026Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BrewersWorldSeries2026Hashmoji/BrewersWorldSeries2026Hashmoji.png",
+		"startingTimestampMs": 1793246400000,
+		"endingTimestampMs": 1796011140000,
+		"hashTags": [
+			"wonourway"
+		]
 	}
 }
