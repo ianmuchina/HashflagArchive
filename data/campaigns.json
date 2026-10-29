@@ -180874,5 +180874,27 @@
 			"nikke4thanniversary",
 			"マリアン"
 		]
+	},
+	"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_After": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16602_NIKKE_Marian_2026Q3_Hashmoji_After/BF-16602_NIKKE_Marian_2026Q3_Hashmoji_After.png",
+		"startingTimestampMs": 1793286000000,
+		"endingTimestampMs": 1794999600000,
+		"hashTags": [
+			"nikke",
+			"nikke4thanniversary",
+			"nikke4周年",
+			"マリアン",
+			"니케4주년"
+		]
+	},
+	"BF-16749_NetflixJP_18ce55g4649_Hashmoji_2026001030_20270128_Ore": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16749_NetflixJP_18ce55g4649_Hashmoji_2026001030_20270128_Ore/BF-16749_NetflixJP_18ce55g4649_Hashmoji_2026001030_20270128_Ore.png",
+		"startingTimestampMs": 1793286000000,
+		"endingTimestampMs": 1801148340000,
+		"hashTags": [
+			"俺こと",
+			"俺のことなんか言ってた",
+			"誰も知らない大物俳優"
+		]
 	}
 }

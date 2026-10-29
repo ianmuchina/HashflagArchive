@@ -41241,7 +41241,8 @@
 		"BF-14255_NIKKE_SUMMER_2025",
 		"BF-15115_NIKKE_New_Year_2025_26",
 		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before",
-		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During"
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During",
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_After"
 	],
 	"nikkeanis": [
 		"NIKKE_japan_Anis_Sept_2022"
@@ -79720,7 +79721,8 @@
 	"マリアン": [
 		"NIKKE_japan_Marian_Sept_2022",
 		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before",
-		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During"
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During",
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_After"
 	],
 	"マリオ": [
 		"Nintendo_POLE_Sept2020",
@@ -120615,10 +120617,12 @@
 	],
 	"nikke4thanniversary": [
 		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before",
-		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During"
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_During",
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_After"
 	],
 	"nikke4周年": [
-		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before",
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_After"
 	],
 	"nikkescarlet": [
 		"BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026"
@@ -120627,7 +120631,8 @@
 		"BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026"
 	],
 	"니케4주년": [
-		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before"
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_Before",
+		"BF-16602_NIKKE_Marian_2026Q3_Hashmoji_After"
 	],
 	"니케홍련": [
 		"BF-16673_Tencent_NIKKE_Scarlet_Hashmoji_Q4_2026"
@@ -120712,5 +120717,14 @@
 	],
 	"モンハンアウトランダーズ": [
 		"Tencent_MHO_2026Q4"
+	],
+	"俺こと": [
+		"BF-16749_NetflixJP_18ce55g4649_Hashmoji_2026001030_20270128_Ore"
+	],
+	"俺のことなんか言ってた": [
+		"BF-16749_NetflixJP_18ce55g4649_Hashmoji_2026001030_20270128_Ore"
+	],
+	"誰も知らない大物俳優": [
+		"BF-16749_NetflixJP_18ce55g4649_Hashmoji_2026001030_20270128_Ore"
 	]
 }
