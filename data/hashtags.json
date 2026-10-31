@@ -61284,7 +61284,8 @@
 		"KPOP_VIT_TXT_FREEZE_May_2021_TXT",
 		"KPOP_TXT_Jan_2021",
 		"TXT_Hybe_Member_1_Apr_2022",
-		"HYBE_TXT_NEW_ALBUM_JP_Aug_2022"
+		"HYBE_TXT_NEW_ALBUM_JP_Aug_2022",
+		"BF-16784_TXT_bighit_Hashmoji"
 	],
 	"tomorrowlandbecks": [
 		"BecksTomorrowlandBrasil_2020"
@@ -62435,7 +62436,8 @@
 		"KPOP_VIT_TXT_FREEZE_May_2021_TXT",
 		"KPOP_TXT_Jan_2021",
 		"TXT_Hybe_Member_1_Apr_2022",
-		"HYBE_TXT_NEW_ALBUM_JP_Aug_2022"
+		"HYBE_TXT_NEW_ALBUM_JP_Aug_2022",
+		"BF-16784_TXT_bighit_Hashmoji"
 	],
 	"txt_beomgyu": [
 		"KPOP_TXT_2020_BEOMGYU"
@@ -87489,7 +87491,8 @@
 		"KPOP_VIT_TXT_FREEZE_May_2021_TXT",
 		"KPOP_TXT_Jan_2021",
 		"TXT_Hybe_Member_1_Apr_2022",
-		"HYBE_TXT_NEW_ALBUM_JP_Aug_2022"
+		"HYBE_TXT_NEW_ALBUM_JP_Aug_2022",
+		"BF-16784_TXT_bighit_Hashmoji"
 	],
 	"투스그라인더": [
 		"Disney_Thor2_Toothgrinder_2022"
@@ -120744,5 +120747,11 @@
 	],
 	"srk": [
 		"BF-16827_Red_Chillies_King_X"
+	],
+	"angelbite": [
+		"BF-16784_TXT_bighit_Hashmoji"
+	],
+	"txt_angelbite": [
+		"BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_1"
 	]
 }

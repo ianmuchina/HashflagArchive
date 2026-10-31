@@ -180916,5 +180916,24 @@
 			"shahrukhkhan",
 			"srk"
 		]
+	},
+	"BF-16784_TXT_bighit_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16784_TXT_bighit_Hashmoji/BF-16784_TXT_bighit_Hashmoji.png",
+		"startingTimestampMs": 1793458800000,
+		"endingTimestampMs": 1796050740000,
+		"hashTags": [
+			"angelbite",
+			"tomorrow_x_together",
+			"txt",
+			"투모로우바이투게더"
+		]
+	},
+	"BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_1/BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_1.png",
+		"startingTimestampMs": 1793458800000,
+		"endingTimestampMs": 1794754740000,
+		"hashTags": [
+			"txt_angelbite"
+		]
 	}
 }
