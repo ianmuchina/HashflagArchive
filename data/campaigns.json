@@ -180935,5 +180935,14 @@
 		"hashTags": [
 			"txt_angelbite"
 		]
+	},
+	"thegameawards2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/thegameawards2026/thegameawards2026.png",
+		"startingTimestampMs": 1793520000000,
+		"endingTimestampMs": 1798704000000,
+		"hashTags": [
+			"tga26",
+			"thegameawards"
+		]
 	}
 }

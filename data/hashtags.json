@@ -58981,7 +58981,8 @@
 		"TheGameAwards2023",
 		"Truth_TheGameAwards_CustomLike",
 		"TheGameAwards2024Emoji",
-		"TheGameAwards2025V2"
+		"TheGameAwards2025V2",
+		"thegameawards2026"
 	],
 	"thegameawards2020": [
 		"TheGameAwards2020",
@@ -120753,5 +120754,8 @@
 	],
 	"txt_angelbite": [
 		"BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_1"
+	],
+	"tga26": [
+		"thegameawards2026"
 	]
 }
