@@ -180944,5 +180944,13 @@
 			"tga26",
 			"thegameawards"
 		]
+	},
+	"WWECrownJewel2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWECrownJewel2026/WWECrownJewel2026.png",
+		"startingTimestampMs": 1793678400000,
+		"endingTimestampMs": 1794196740000,
+		"hashTags": [
+			"wwecrownjewel"
+		]
 	}
 }
