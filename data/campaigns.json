@@ -180952,5 +180952,33 @@
 		"hashTags": [
 			"wwecrownjewel"
 		]
+	},
+	"BF-16862_playwith_pepero_Hashmoji_Part2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16862_playwith_pepero_Hashmoji_Part2/BF-16862_playwith_pepero_Hashmoji_Part2.png",
+		"startingTimestampMs": 1793955600000,
+		"endingTimestampMs": 1796633940000,
+		"hashTags": [
+			"11월11일",
+			"november11th",
+			"peperoday",
+			"빼빼로데이"
+		]
+	},
+	"BF-16850_LouisVuitton_JP_2026_Holiday_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16850_LouisVuitton_JP_2026_Holiday_Hashmoji/BF-16850_LouisVuitton_JP_2026_Holiday_Hashmoji.png",
+		"startingTimestampMs": 1793977200000,
+		"endingTimestampMs": 1798124340000,
+		"hashTags": [
+			"louisvuitton"
+		]
+	},
+	"BF-16861_playwith_pepero_Hashmoji_Part1": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16861_playwith_pepero_Hashmoji_Part1/BF-16861_playwith_pepero_Hashmoji_Part1.png",
+		"startingTimestampMs": 1793955600000,
+		"endingTimestampMs": 1796633940000,
+		"hashTags": [
+			"pepero",
+			"빼빼로"
+		]
 	}
 }
