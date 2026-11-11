@@ -119566,13 +119566,16 @@
 		"NetflixJP_18ce54ua4fy_Hashmoji_202600706-20261004_sparks_of_tomorrow_BF-15985"
 	],
 	"snb": [
-		"SNB_Q3_Hashmoji_2026_BF-16218"
+		"SNB_Q3_Hashmoji_2026_BF-16218",
+		"BF-16800_SNB_Hashmoji"
 	],
 	"snbmobile": [
-		"SNB_Q3_Hashmoji_2026_BF-16218"
+		"SNB_Q3_Hashmoji_2026_BF-16218",
+		"BF-16800_SNB_Hashmoji"
 	],
 	"بطاقة_لك": [
-		"SNB_Q3_Hashmoji_2026_BF-16218"
+		"SNB_Q3_Hashmoji_2026_BF-16218",
+		"BF-16800_SNB_Hashmoji"
 	],
 	"تطبيق_snb": [
 		"SNB_Q3_Hashmoji_2026_BF-16218"
@@ -120789,5 +120792,14 @@
 	],
 	"マツケンクランキー": [
 		"BF_16772_LOTTE_2026Q4_Hashmoji"
+	],
+	"newcastleunited": [
+		"PLNewcastleUnited2026"
+	],
+	"nufc": [
+		"PLNewcastleUnited2026v2"
+	],
+	"snb_تطبيق": [
+		"BF-16800_SNB_Hashmoji"
 	]
 }
