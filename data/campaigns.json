@@ -181026,5 +181026,22 @@
 		"hashTags": [
 			"ebenezer"
 		]
+	},
+	"BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_after/BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_after.png",
+		"startingTimestampMs": 1794927600000,
+		"endingTimestampMs": 1796050740000,
+		"hashTags": [
+			"txt_angelbite"
+		]
+	},
+	"vivo_X500_Series_VFRIENDS": {
+		"assetUrl": "https://abs.twimg.com/hashflags/vivo_X500_Series_VFRIENDS/vivo_X500_Series_VFRIENDS.png",
+		"startingTimestampMs": 1794934800000,
+		"endingTimestampMs": 1797526740000,
+		"hashTags": [
+			"ซูมไกลมั่นใจทุกช็อต",
+			"ซูมไกลมั่นใจทุกแฟนแคม"
+		]
 	}
 }

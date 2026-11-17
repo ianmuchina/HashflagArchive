@@ -120759,7 +120759,8 @@
 		"BF-16784_TXT_bighit_Hashmoji"
 	],
 	"txt_angelbite": [
-		"BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_1"
+		"BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_1",
+		"BF-16784_TXT_bighit_Hashmoji_TXT_AngelBite_after"
 	],
 	"tga26": [
 		"thegameawards2026"
@@ -120802,5 +120803,11 @@
 	],
 	"snb_تطبيق": [
 		"BF-16800_SNB_Hashmoji"
+	],
+	"ซูมไกลมั่นใจทุกช็อต": [
+		"vivo_X500_Series_VFRIENDS"
+	],
+	"ซูมไกลมั่นใจทุกแฟนแคม": [
+		"vivo_X500_Series_VFRIENDS"
 	]
 }
