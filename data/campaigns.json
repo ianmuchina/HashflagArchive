@@ -181063,5 +181063,31 @@
 			"yellowjackets",
 			"yjtwt"
 		]
+	},
+	"BF-16835_Bringgreen_Hashmoji": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16835_Bringgreen_Hashmoji/BF-16835_Bringgreen_Hashmoji.png",
+		"startingTimestampMs": 1795359600000,
+		"endingTimestampMs": 1797951600000,
+		"hashTags": [
+			"브링그린",
+			"브링그린1등세럼",
+			"징크테카세럼"
+		]
+	},
+	"BF-16835_Bringgreen_Hashfetti-Hashmoji_before": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16835_Bringgreen_Hashfetti-Hashmoji_before/BF-16835_Bringgreen_Hashfetti-Hashmoji_before.png",
+		"startingTimestampMs": 1795359600000,
+		"endingTimestampMs": 1795877940000,
+		"hashTags": [
+			"브링그린안경만두"
+		]
+	},
+	"BF-16835_Bringgreen_Hashmoji_2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/BF-16835_Bringgreen_Hashmoji_2/BF-16835_Bringgreen_Hashmoji_2.png",
+		"startingTimestampMs": 1795359600000,
+		"endingTimestampMs": 1796482740000,
+		"hashTags": [
+			"브링그린올영세일"
+		]
 	}
 }

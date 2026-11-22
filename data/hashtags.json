@@ -114680,7 +114680,8 @@
 	"브링그린올영세일": [
 		"BF-13949_bringgreen_Hashmoji_before",
 		"BF-13949_bringgreen_Hashmoji_during",
-		"BF-13949_bringgreen_Hashmoji_after"
+		"BF-13949_bringgreen_Hashmoji_after",
+		"BF-16835_Bringgreen_Hashmoji_2"
 	],
 	"브링그린콜라보": [
 		"BF-13949_bringgreen_Hashmoji_before",
@@ -117860,11 +117861,13 @@
 	"브링그린": [
 		"BF-15362_BringgreenCustomLike_before",
 		"BF-15362_BringgreenCustomLike_during",
-		"BF-15362_BringgreenCustomLike_after_v2"
+		"BF-15362_BringgreenCustomLike_after_v2",
+		"BF-16835_Bringgreen_Hashmoji"
 	],
 	"브링그린안경만두": [
 		"BF-15362_BringgreenCustomLike_before",
-		"BF-15362_BringgreenCustomLike_after_v2"
+		"BF-15362_BringgreenCustomLike_after_v2",
+		"BF-16835_Bringgreen_Hashfetti-Hashmoji_before"
 	],
 	"안경만두브링그린": [
 		"BF-15362_BringgreenCustomLike_before",
@@ -120823,5 +120826,11 @@
 	],
 	"yjtwt": [
 		"PPLUSYLKTS4"
+	],
+	"브링그린1등세럼": [
+		"BF-16835_Bringgreen_Hashmoji"
+	],
+	"징크테카세럼": [
+		"BF-16835_Bringgreen_Hashmoji"
 	]
 }
