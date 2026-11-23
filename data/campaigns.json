@@ -181089,5 +181089,22 @@
 		"hashTags": [
 			"브링그린올영세일"
 		]
+	},
+	"Playdoit_Hashmoji_Nov-Dec": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Playdoit_Hashmoji_Nov-Dec/Playdoit_Hashmoji_Nov-Dec.png",
+		"startingTimestampMs": 1795410000000,
+		"endingTimestampMs": 1799989140000,
+		"hashTags": [
+			"footballplaydoit",
+			"survivorplaydoit"
+		]
+	},
+	"Playdoit_Hashmoji_NovDec": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Playdoit_Hashmoji_NovDec/Playdoit_Hashmoji_NovDec.png",
+		"startingTimestampMs": 1795410000000,
+		"endingTimestampMs": 1799989140000,
+		"hashTags": [
+			"playdoit"
+		]
 	}
 }
