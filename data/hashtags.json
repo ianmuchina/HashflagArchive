@@ -85430,7 +85430,8 @@
 	"맥도날드": [
 		"McD_KR_July_2021",
 		"BF-12548_Mcdonald_KR_Hashmoji_during",
-		"BF-12548_Mcdonald_KR_Hashmoji_after"
+		"BF-12548_Mcdonald_KR_Hashmoji_after",
+		"Upcoming_KOR_McDonalds_Hashmoji_during_v2"
 	],
 	"맥도날드바나나": [
 		"McDonalds_Korea_2020_banana"
@@ -120835,5 +120836,11 @@
 	],
 	"징크테카세럼": [
 		"BF-16835_Bringgreen_Hashmoji"
+	],
+	"크리스마스트러플치즈버거": [
+		"Upcoming_KOR_McDonalds_Hashmoji_during_v2"
+	],
+	"크리스마스핫트러플치즈버거": [
+		"Upcoming_KOR_McDonalds_Hashmoji_during_v2"
 	]
 }

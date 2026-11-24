@@ -181106,5 +181106,15 @@
 		"hashTags": [
 			"playdoit"
 		]
+	},
+	"Upcoming_KOR_McDonalds_Hashmoji_during_v2": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Upcoming_KOR_McDonalds_Hashmoji_during_v2/Upcoming_KOR_McDonalds_Hashmoji_during_v2.png",
+		"startingTimestampMs": 1795532400000,
+		"endingTimestampMs": 1795618740000,
+		"hashTags": [
+			"맥도날드",
+			"크리스마스트러플치즈버거",
+			"크리스마스핫트러플치즈버거"
+		]
 	}
 }
