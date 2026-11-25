@@ -181116,5 +181116,13 @@
 			"크리스마스트러플치즈버거",
 			"크리스마스핫트러플치즈버거"
 		]
+	},
+	"WWESurvivorSeries2026": {
+		"assetUrl": "https://abs.twimg.com/hashflags/WWESurvivorSeries2026/WWESurvivorSeries2026.png",
+		"startingTimestampMs": 1795406400000,
+		"endingTimestampMs": 1796097540000,
+		"hashTags": [
+			"survivorseries"
+		]
 	}
 }
