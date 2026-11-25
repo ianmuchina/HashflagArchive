@@ -85432,7 +85432,8 @@
 		"McD_KR_July_2021",
 		"BF-12548_Mcdonald_KR_Hashmoji_during",
 		"BF-12548_Mcdonald_KR_Hashmoji_after",
-		"Upcoming_KOR_McDonalds_Hashmoji_during_v2"
+		"Upcoming_KOR_McDonalds_Hashmoji_during_v2",
+		"Upcoming_KOR_McDonalds_Hashmoji_after"
 	],
 	"맥도날드바나나": [
 		"McDonalds_Korea_2020_banana"
@@ -111265,7 +111266,8 @@
 		"BF-12651_RiyadhMetro_Q125_HashmojiExtension"
 	],
 	"맥도날드_크리스마스의맛": [
-		"BF-12548_Mcdonald_KR_Hashmoji_after"
+		"BF-12548_Mcdonald_KR_Hashmoji_after",
+		"Upcoming_KOR_McDonalds_Hashmoji_after"
 	],
 	"mybca": [
 		"BF-12633_BCA_PoketValas_Hashmoji_during",
@@ -120839,9 +120841,11 @@
 		"BF-16835_Bringgreen_Hashmoji"
 	],
 	"크리스마스트러플치즈버거": [
-		"Upcoming_KOR_McDonalds_Hashmoji_during_v2"
+		"Upcoming_KOR_McDonalds_Hashmoji_during_v2",
+		"Upcoming_KOR_McDonalds_Hashmoji_after"
 	],
 	"크리스마스핫트러플치즈버거": [
-		"Upcoming_KOR_McDonalds_Hashmoji_during_v2"
+		"Upcoming_KOR_McDonalds_Hashmoji_during_v2",
+		"Upcoming_KOR_McDonalds_Hashmoji_after"
 	]
 }

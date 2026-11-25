@@ -181124,5 +181124,16 @@
 		"hashTags": [
 			"survivorseries"
 		]
+	},
+	"Upcoming_KOR_McDonalds_Hashmoji_after": {
+		"assetUrl": "https://abs.twimg.com/hashflags/Upcoming_KOR_McDonalds_Hashmoji_after/Upcoming_KOR_McDonalds_Hashmoji_after.png",
+		"startingTimestampMs": 1795618800000,
+		"endingTimestampMs": 1798124340000,
+		"hashTags": [
+			"맥도날드",
+			"맥도날드_크리스마스의맛",
+			"크리스마스트러플치즈버거",
+			"크리스마스핫트러플치즈버거"
+		]
 	}
 }
